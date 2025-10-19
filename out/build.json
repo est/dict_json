@@ -1,0 +1,111 @@
+{
+  "WORD":"build",
+  "IPA":"/bɪld/",
+  "CONJUGATES":"builds | building | built",
+  "ETYMOLOGY":"From Middle English bilden, bylden, derived from Old English byldan ('to construct a house'), related to bold ('house, dwelling').",
+  "SINCE":"Before 12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"build [sth] [into sth]\nbuild [sth] [out of sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "construction"
+      ],
+      "DEF_EN":"To construct or erect something, such as a structure or machine, by joining parts or materials together.",
+      "DEF_ZH":"建造，修建；盖（建筑物或机器）。",
+      "SENT_EN":"They hired a team to build the new school in under six months.",
+      "SENT_ZH":"他们雇了一个团队在六个月内建成这所新学校。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "construct",
+            "erect",
+            "fabricate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "demolish",
+            "destroy",
+            "dismantle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"build [sth] (up)\nbuild [sth] [on sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "abstract",
+        "development"
+      ],
+      "DEF_EN":"To establish, develop, or create something abstract, such as a reputation, relationship, or organization, over a period of time.",
+      "DEF_ZH":"建立，创建；培养（关系、声誉、事业等）。",
+      "SENT_EN":"She spent decades building up her business empire.",
+      "SENT_ZH":"她花了数十年时间建立她的商业帝国。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "establish",
+            "form",
+            "develop",
+            "cultivate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"build (up)",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "intensity",
+        "process"
+      ],
+      "DEF_EN":"(Of feelings, speed, or pressure) to increase gradually in amount or intensity.",
+      "DEF_ZH":"增强，积聚；逐渐加剧或增加。",
+      "SENT_EN":"The excitement for the concert began to build as the opening act finished.",
+      "SENT_ZH":"随着开场表演结束，对音乐会的期待开始增强。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accumulate",
+            "intensify",
+            "mount"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a build\n[adj] build",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "physical appearance",
+        "body"
+      ],
+      "DEF_EN":"The physical structure or general shape of a person or animal; physique.",
+      "DEF_ZH":"体形；身材；体格。",
+      "SENT_EN":"He has a slender build, unlike his brother who has a muscular build.",
+      "SENT_ZH":"他体形纤细，不像他哥哥那样肌肉发达。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "physique",
+            "frame",
+            "figure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

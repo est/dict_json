@@ -1,0 +1,103 @@
+{
+  "WORD":"cat",
+  "IPA":"/kæt/",
+  "CONJUGATES":"cats (plural noun)",
+  "ETYMOLOGY":"From Old English catt, ultimately tracing back to Late Latin cattus or catta, possibly derived from an Afro-Asiatic source.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] cat\ndomestic cat",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small domesticated carnivorous mammal (Felis catus) kept as a pet or for catching vermin.",
+      "DEF_ZH":"一种小型家养食肉哺乳动物（Felis catus），常作为宠物饲养或用于捕鼠。",
+      "SENT_EN":"My cat likes to climb the curtains and look out the window.",
+      "SENT_ZH":"我的猫喜欢爬窗帘并往窗外看。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "kitten",
+            "feline",
+            "tomcat",
+            "mouser"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"large cat\nwild cat",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "biology"
+      ],
+      "DEF_EN":"Any animal belonging to the family Felidae, including lions, tigers, and leopards (often called 'big cats').",
+      "DEF_ZH":"任何属于猫科（Felidae）的动物，包括狮子、老虎和豹子等（通常称为“大型猫科动物”）。",
+      "SENT_EN":"They spotted a rare species of wild cat deep in the jungle.",
+      "SENT_ZH":"他们在丛林深处发现了一种稀有的野猫。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lion",
+            "tiger",
+            "leopard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cool cat",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "informal",
+        "dated"
+      ],
+      "DEF_EN":"A person; often used in jazz or beat culture to refer to a stylish or knowledgeable man.",
+      "DEF_ZH":"一个人；（尤指爵士乐或垮掉派文化中）时髦或精明的人。",
+      "SENT_EN":"He’s a cool cat who always knows what records are about to drop.",
+      "SENT_ZH":"他是一个很酷的家伙，总是知道有哪些唱片即将发行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guy",
+            "dude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the cat (nautical)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "nautical",
+        "historical"
+      ],
+      "DEF_EN":"A short form of 'cat-o'-nine-tails,' a whip with nine knotted cords formerly used for punishment, especially aboard ships.",
+      "DEF_ZH":"“九尾鞭”的简称，一种有九条带结绳索的鞭子，以前用于惩罚，尤其是在船上。",
+      "SENT_EN":"The punishment for mutiny was often the cat.",
+      "SENT_ZH":"叛变的惩罚通常是九尾鞭。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "whip",
+            "lash"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Usage"
+}

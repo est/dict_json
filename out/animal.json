@@ -1,0 +1,103 @@
+{
+  "WORD":"animal",
+  "IPA":"/ˈænɪməl/",
+  "CONJUGATES":"animals (pl.)",
+  "ETYMOLOGY":"From Latin animal, neuter singular of animalis ('having breath, living'), from anima ('breath, soul, life').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[countable noun]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"A multicellular organism that feeds on organic matter, typically has specialized sense organs and nervous systems, and is able to respond rapidly to stimuli and move voluntarily.",
+      "DEF_ZH":"一种多细胞生物体，以有机物为食，通常具有专门的感觉器官和神经系统，能够对刺激快速反应并能自主移动。",
+      "SENT_EN":"All animals need food and water to survive.",
+      "SENT_ZH":"所有动物都需要食物和水才能生存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creature",
+            "organism",
+            "being",
+            "beast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[countable noun] (excluding humans)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common",
+        "contrastive"
+      ],
+      "DEF_EN":"Any non-human creature, especially a mammal or other vertebrate.",
+      "DEF_ZH":"任何非人类的生物，尤其指哺乳动物或其他脊椎动物。",
+      "SENT_EN":"We need to protect the wild animals in the forest.",
+      "SENT_ZH":"我们需要保护森林里的野生动物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beast",
+            "brute",
+            "critter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"call [sb] an animal",
+      "POS":"n",
+      "POS_TIP":"noun (countable, informal, derogatory)",
+      "TAGS":[
+        "derogatory",
+        "figurative"
+      ],
+      "DEF_EN":"A person who is perceived as coarse, brutal, or guided purely by instinct rather than reason.",
+      "DEF_ZH":"被认为粗俗、残暴或纯粹受本能而非理性支配的人。",
+      "SENT_EN":"The way he treated the waiters was terrible; he acted like an animal.",
+      "SENT_ZH":"他对待服务员的方式很糟糕；他表现得像个野蛮人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brute",
+            "savage",
+            "monster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adjective] protein/fat/life",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "biology"
+      ],
+      "DEF_EN":"Of, relating to, or derived from an animal or animals.",
+      "DEF_ZH":"动物的；与动物有关的；源自动物的。",
+      "SENT_EN":"Vegetable fats are generally healthier than animal fats.",
+      "SENT_ZH":"植物脂肪通常比动物脂肪更健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bestial",
+            "zoological"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

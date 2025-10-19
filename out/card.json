@@ -1,0 +1,110 @@
+{
+  "WORD":"card",
+  "IPA":"/kɑːrd/",
+  "CONJUGATES":"cards | carding | carded",
+  "ETYMOLOGY":"From Middle English carde, via Old French carte, ultimately from Latin charta ('paper, leaf of a papyrus'), from Ancient Greek khártēs.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "very common",
+        "material object"
+      ],
+      "DEF_EN":"A small, usually rectangular piece of stiff paper, plastic, or similar material, used for identification, banking, membership, or sending greetings.",
+      "DEF_ZH":"一块小的、通常为矩形的硬纸、塑料或类似材料，用于身份识别、银行交易、会员证明或发送问候。",
+      "SENT_EN":"I need to get a new driver's license card.",
+      "SENT_ZH":"我需要换一张新的驾照卡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pass",
+            "license",
+            "ticket"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ID",
+            "debit card",
+            "membership"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "game terminology"
+      ],
+      "DEF_EN":"One of a set of thick, rectangular pieces of paper or plastic, typically 52 in a deck, used to play various games.",
+      "DEF_ZH":"一套中的一张厚矩形纸片或塑料片（通常一套为52张），用于玩各种游戏。",
+      "SENT_EN":"She tried to hide the ace of spades behind her other cards.",
+      "SENT_ZH":"她试图把黑桃A藏在她其他的牌后面。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "deck",
+            "suit",
+            "poker",
+            "trump"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"card [sb] (usually passive)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "US usage"
+      ],
+      "DEF_EN":"To request proof of identity (especially to confirm legal age for purchasing restricted goods like alcohol or tobacco).",
+      "DEF_ZH":"要求某人出示身份证明（特别是为确认购买酒精或烟草等受限商品的法定年龄）。",
+      "SENT_EN":"The bouncer carded everyone entering the club.",
+      "SENT_ZH":"保安要求所有进入俱乐部的人出示身份证件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "check ID",
+            "verify age"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"card [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "textiles"
+      ],
+      "DEF_EN":"To comb textile fibers, such as wool or cotton, using a specialized machine or hand tool, to clean and align them before spinning.",
+      "DEF_ZH":"使用专用机器或手工工具梳理纺织纤维（如羊毛或棉花），在纺纱前进行清洁和对齐。",
+      "SENT_EN":"The old woman was carding the wool by hand, a slow process.",
+      "SENT_ZH":"这位老妇人正手工梳理羊毛，这是一个缓慢的过程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "comb",
+            "tease"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common"
+}

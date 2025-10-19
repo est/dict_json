@@ -1,0 +1,103 @@
+{
+  "WORD":"before",
+  "IPA":"/bɪˈfɔːr/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English bifore, from Old English beforan ('in front of, ahead of, in the presence of, sooner than'), a compound of be- (by) + foran (in front).",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"before [sth] [time/event]",
+      "POS":"prep",
+      "POS_TIP":"preposition (used before a noun, pronoun, or phrase to show place, time, or direction)",
+      "TAGS":[
+        "core word",
+        "time marker"
+      ],
+      "DEF_EN":"Earlier than (a particular time, event, or person).",
+      "DEF_ZH":"在……之前；早于……",
+      "SENT_EN":"Please submit your application before the deadline.",
+      "SENT_ZH":"请在截止日期前提交你的申请。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prior to",
+            "preceding"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "after"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] before",
+      "POS":"adv",
+      "POS_TIP":"adverb (modifies a verb, adjective, or other adverb)",
+      "TAGS":[
+        "core word",
+        "previous time"
+      ],
+      "DEF_EN":"At an earlier time; previously.",
+      "DEF_ZH":"以前；从前；先前。",
+      "SENT_EN":"I have heard that story before.",
+      "SENT_ZH":"我以前听过那个故事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "previously",
+            "earlier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"before [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction (connects clauses or sentences)",
+      "TAGS":[
+        "core word",
+        "subordinating"
+      ],
+      "DEF_EN":"Up to the time that; prior to the time when the action in the dependent clause takes place.",
+      "DEF_ZH":"在……之前（连接从句）。",
+      "SENT_EN":"You must check the oil before you start the car.",
+      "SENT_ZH":"你必须在启动汽车前检查机油。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "after"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"before [sb] [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition (used before a noun, pronoun, or phrase to show place, time, or direction)",
+      "TAGS":[
+        "place marker",
+        "formal"
+      ],
+      "DEF_EN":"In front of, or in the presence of (especially in a formal or legal setting).",
+      "DEF_ZH":"在……前面；当着……的面（尤指正式或法律场合）。",
+      "SENT_EN":"The case will be heard before a jury.",
+      "SENT_ZH":"该案件将由陪审团审理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "in front of",
+            "in the presence of"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Core vocabulary"
+}

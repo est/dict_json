@@ -1,0 +1,74 @@
+{
+  "WORD":"can't",
+  "IPA":"/kænt/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Contraction of 'cannot', formed from the modal verb 'can' (from Old English *cunnan*, 'to know, be able') and the negative particle 'not'.",
+  "SINCE":"c. 18th Century (in written form, common usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] can't [do sth]",
+      "POS":"contraction",
+      "POS_TIP":"Contraction of 'cannot', functioning as the negative form of the modal auxiliary verb 'can'.",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"Used to express lack of ability or power to do something.",
+      "DEF_ZH":"用于表达没有能力或力量去做某事。",
+      "SENT_EN":"I can't swim because the water is too cold.",
+      "SENT_ZH":"我不能游泳，因为水太冷了。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "can"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] can't [do sth]",
+      "POS":"contraction",
+      "POS_TIP":"Contraction of 'cannot'.",
+      "TAGS":[
+        "Permission",
+        "Common"
+      ],
+      "DEF_EN":"Used to express prohibition; that someone is not allowed or permitted to do something.",
+      "DEF_ZH":"用于表达禁止；某人被不允许或不许可做某事。",
+      "SENT_EN":"Students can't use their phones during the exam.",
+      "SENT_ZH":"考试期间学生不能使用手机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "must not",
+            "may not"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] can't [be sth]",
+      "POS":"contraction",
+      "POS_TIP":"Contraction of 'cannot'.",
+      "TAGS":[
+        "Incredulity",
+        "Idiomatic"
+      ],
+      "DEF_EN":"Used to express strong disbelief or the logical impossibility of something being true.",
+      "DEF_ZH":"用于表达强烈的怀疑或某事在逻辑上不可能为真。",
+      "SENT_EN":"That can't be right; the calculation must be wrong.",
+      "SENT_ZH":"那不可能是对的；计算肯定出错了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "impossible"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in spoken English and informal writing."
+}

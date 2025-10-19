@@ -1,0 +1,111 @@
+{
+  "WORD":"between",
+  "IPA":"/bɪˈtwiːn/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English betwēonum (by + twēonum, the dative plural of twā 'two'), meaning 'in the space which separates, during'.",
+  "SINCE":"before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"between [sth] and [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "core word",
+        "spatial",
+        "very common"
+      ],
+      "DEF_EN":"In the space, period of time, or degree separating two objects, places, or limits.",
+      "DEF_ZH":"在（两者或多者）之间；在...中间（指空间、时间或程度）",
+      "SENT_EN":"The small town lies between the mountains and the sea.",
+      "SENT_ZH":"这个小镇位于山脉和大海之间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amidst",
+            "in the middle of"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "among"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"between [sb] and [sb]\nbetween [sth] and [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "relationship",
+        "common"
+      ],
+      "DEF_EN":"Indicating a relationship, connection, choice, or distribution involving two or more things or people.",
+      "DEF_ZH":"用于表示两者或多者之间的关系、连接、选择或分配。",
+      "SENT_EN":"We need to choose between two equally qualified candidates.",
+      "SENT_ZH":"我们需要在两位同样合格的候选人之间做出选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connecting",
+            "concerning"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mutually"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"between [number/time] and [number/time]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "numerical",
+        "temporal"
+      ],
+      "DEF_EN":"Defining a range or limit, typically of numbers, ages, or dates.",
+      "DEF_ZH":"在（某个范围或限度）之间；介于（数字、年龄、日期）",
+      "SENT_EN":"The package should arrive between Monday and Wednesday.",
+      "SENT_ZH":"包裹应该在周一到周三之间送达。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ranging from",
+            "up to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] between",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "less common",
+        "idiomatic"
+      ],
+      "DEF_EN":"In the intervening space or time; often used to imply privacy or secrecy ('just between us').",
+      "DEF_ZH":"在中间；私下地；（常用于口语，意指在...两人之间，秘密地）",
+      "SENT_EN":"This discussion is just between you and me.",
+      "SENT_ZH":"这次讨论只在我们两人之间进行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "privately",
+            "separately"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general standard English"
+}

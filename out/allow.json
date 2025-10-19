@@ -1,0 +1,110 @@
+{
+  "WORD":"allow",
+  "IPA":"/əˈlaʊ/",
+  "CONJUGATES":"allows | allowing | allowed",
+  "ETYMOLOGY":"From Middle English alouen, from Anglo-Norman alouer (to allocate, approve), ultimately from Vulgar Latin *allaudare (to allot, praise), formed from ad- (to) + laudare (to praise). The sense shifted toward 'permit' due to influence from Old French allouer (to assign, grant).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"allow [sth]\nallow [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To permit, authorize, or give consent for something to happen or for someone to do something.",
+      "DEF_ZH":"允许；许可；准许。",
+      "SENT_EN":"The rules do not allow visitors to take photos inside the museum.",
+      "SENT_ZH":"规定不允许参观者在博物馆内拍照。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "permit",
+            "authorize",
+            "consent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forbid",
+            "prohibit",
+            "deny"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"allow for [sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "planning"
+      ],
+      "DEF_EN":"To take into consideration or make provision for something, such as potential errors, costs, or delays.",
+      "DEF_ZH":"考虑到；把…计算在内；顾及。",
+      "SENT_EN":"When budgeting, you must allow for unexpected travel expenses.",
+      "SENT_ZH":"做预算时，你必须考虑到意想不到的差旅费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consider",
+            "factor in",
+            "provide for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"allow [sth] for [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "formal",
+        "measurement"
+      ],
+      "DEF_EN":"To set aside or allocate a specific amount of time, money, or space for a purpose.",
+      "DEF_ZH":"拨出；分配；留出（时间、金钱等）。",
+      "SENT_EN":"The company allows a generous sum for staff training each year.",
+      "SENT_ZH":"该公司每年拨出大笔款项用于员工培训。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allocate",
+            "assign",
+            "earmark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"allow [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To acknowledge or admit the truth, validity, or merit of something (often used in debate or argument).",
+      "DEF_ZH":"承认；接受（观点的正确性或事实）。",
+      "SENT_EN":"I allow that her previous work was exceptional, but this new piece is lacking.",
+      "SENT_ZH":"我承认她以前的作品很出色，但这个新作品有所欠缺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concede",
+            "grant",
+            "acknowledge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"appear",
+  "IPA":"/əˈpɪər/",
+  "CONJUGATES":"appears | appearing | appeared",
+  "ETYMOLOGY":"From Middle English aperen, from Old French apareir, from Latin appārēre, formed from ad- ('to, toward') and pārēre ('to be visible, obey').",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"appear",
+      "POS":"vi",
+      "POS_TIP":"verb (intransitive)",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To come into sight or existence; to become visible or known.",
+      "DEF_ZH":"出现；显现；问世。",
+      "SENT_EN":"The sun appeared over the mountains just before dawn.",
+      "SENT_ZH":"太阳在黎明前出现在了群山之上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emerge",
+            "materialize",
+            "surface"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disappear",
+            "vanish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"appear [adj]\nappear [to be sth/doing sth] | it appears that [clause]",
+      "POS":"v linking",
+      "POS_TIP":"verb (linking/copular), meaning 'seem'",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To seem or to give a specified impression; to look as though something is true.",
+      "DEF_ZH":"看来；似乎；好像。",
+      "SENT_EN":"The initial results appear promising, but we need more data.",
+      "SENT_ZH":"初步结果看起来很有希望，但我们需要更多数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seem",
+            "look",
+            "strike as"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"appear [in/on sth]\nappear [as sth]",
+      "POS":"vi",
+      "POS_TIP":"verb (intransitive)",
+      "TAGS":[
+        "Formal",
+        "Media",
+        "Legal"
+      ],
+      "DEF_EN":"To present oneself formally in public, such as in a court, on stage, or in the media.",
+      "DEF_ZH":"出庭；登台；出演；露面。",
+      "SENT_EN":"The defendant was ordered to appear in court next week.",
+      "SENT_ZH":"被告被命令下周出庭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "feature",
+            "perform",
+            "attend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

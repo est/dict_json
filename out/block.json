@@ -1,0 +1,159 @@
+{
+  "WORD":"block",
+  "IPA":"/blɑːk/",
+  "CONJUGATES":"blocks | blocking | blocked",
+  "ETYMOLOGY":"From Middle English blok, borrowed from Old French bloc (large piece of wood, log), likely of Germanic origin (possibly Dutch blok). Originally referred to a piece of solid material.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"block [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To stop or obstruct the passage, movement, or flow of something.",
+      "DEF_ZH":"阻碍, 阻塞, 堵塞 (阻止通过、移动或流动)",
+      "SENT_EN":"A car accident blocked the main highway for several hours.",
+      "SENT_ZH":"一场车祸使主干道阻塞了几个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obstruct",
+            "hinder",
+            "clog",
+            "impede"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clear",
+            "open",
+            "allow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"block [sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "common",
+        "digital"
+      ],
+      "DEF_EN":"To prevent communication or interaction with a person, especially using digital platforms or services.",
+      "DEF_ZH":"屏蔽, 阻止 (阻止某人进行数字通信或互动)",
+      "SENT_EN":"She decided to block him on all social media after the argument.",
+      "SENT_ZH":"争吵之后，她决定在所有社交媒体上屏蔽他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mute",
+            "ignore",
+            "blacklist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a block of sth]",
+      "POS":"n",
+      "POS_TIP":"n: countable noun",
+      "TAGS":[
+        "core word",
+        "physical"
+      ],
+      "DEF_EN":"A large, solid piece of material, typically with flat surfaces, often used in construction or measurement.",
+      "DEF_ZH":"块, 砖块, 大块 (通常指表面平整的大块固体材料)",
+      "SENT_EN":"The sculptor worked with a large block of marble.",
+      "SENT_ZH":"这位雕塑家使用了一大块大理石进行创作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chunk",
+            "slab",
+            "mass",
+            "cube"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[walk a block]\n[city block]",
+      "POS":"n",
+      "POS_TIP":"n: countable noun",
+      "TAGS":[
+        "common",
+        "geography",
+        "US usage"
+      ],
+      "DEF_EN":"A rectangular area of land or buildings enclosed by streets in a town or city, or the distance of one side of this area.",
+      "DEF_ZH":"街区 (城市中被街道环绕的矩形区域); 一条街的距离",
+      "SENT_EN":"The restaurant is only three blocks away from the hotel.",
+      "SENT_ZH":"这家餐馆离酒店只有三个街区远。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "square",
+            "district",
+            "area"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[apartment block]\n[office block]",
+      "POS":"n",
+      "POS_TIP":"n: countable noun",
+      "TAGS":[
+        "common",
+        "architecture"
+      ],
+      "DEF_EN":"A large building, often consisting of separate flats, offices, or other units.",
+      "DEF_ZH":"大楼, 楼房 (由独立单元如公寓或办公室组成的大型建筑)",
+      "SENT_EN":"They live on the tenth floor of a large residential block.",
+      "SENT_ZH":"他们住在一栋大型住宅楼的十楼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "building",
+            "tower",
+            "complex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[make a block]\nblock [the shot]",
+      "POS":"n | vtr",
+      "POS_TIP":"n: countable noun | vtr: transitive verb",
+      "TAGS":[
+        "specialized",
+        "sports"
+      ],
+      "DEF_EN":"In sports, an action that prevents an opponent's shot or movement, such as in basketball or volleyball.",
+      "DEF_ZH":"封盖, 阻挡 (体育运动中阻止对手投篮或移动的动作)",
+      "SENT_EN":"The center forward registered three blocks during the final quarter.",
+      "SENT_ZH":"中锋在最后一节完成了三次封盖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deflection",
+            "save",
+            "interception"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across general conversation, construction, urban planning, digital communication, and sports."
+}

@@ -1,0 +1,155 @@
+{
+  "WORD":"arm",
+  "IPA":"/ɑːrm/",
+  "CONJUGATES":"arms | armed | arming",
+  "ETYMOLOGY":"From Old English earm, from Proto-Germanic *armaz, ultimately from Proto-Indo-European *armos ('joint, shoulder'). The meaning related to weaponry ('weapon, branch of military') developed from the earlier sense 'limb' through the idea of a defensive or offensive limb/tool.",
+  "SINCE":"Before 900 AD (for the limb and weapon meanings)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "human anatomy"
+      ],
+      "DEF_EN":"Either of the two upper limbs of the human body, extending from the shoulder to the hand.",
+      "DEF_ZH":"人体从肩部延伸到手部的两条上肢之一。",
+      "SENT_EN":"He held the baby gently in his arms.",
+      "SENT_ZH":"他轻轻地用双臂抱着婴儿。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "forearm",
+            "bicep",
+            "limb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "military",
+        "core word"
+      ],
+      "DEF_EN":"A weapon, especially a firearm or other offensive or defensive instrument.",
+      "DEF_ZH":"武器，特别是火器或其他攻防工具。",
+      "SENT_EN":"The police recovered several illegal arms during the raid.",
+      "SENT_ZH":"警方在突袭中查获了几件非法武器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weapon",
+            "firearm",
+            "munitions"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "military",
+        "institutional"
+      ],
+      "DEF_EN":"A branch or division of the military or a service dedicated to a specific function.",
+      "DEF_ZH":"军队的一个分支或部门，专注于特定的职能。",
+      "SENT_EN":"The infantry is a crucial arm of the army.",
+      "SENT_ZH":"步兵是陆军的关键组成部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "branch",
+            "division",
+            "service"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "military"
+      ],
+      "DEF_EN":"To supply or equip (someone or something) with weapons.",
+      "DEF_ZH":"为（某人或某物）提供或装备武器。",
+      "SENT_EN":"They decided to arm the guards with modern rifles.",
+      "SENT_ZH":"他们决定给卫兵配备现代化步枪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equip",
+            "supply",
+            "furnish"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disarm",
+            "strip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] with [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To provide with skills, knowledge, or information (often for a challenging situation).",
+      "DEF_ZH":"提供技能、知识或信息（通常是为了应对具有挑战性的情况）。",
+      "SENT_EN":"The training course armed the staff with the necessary skills to handle the new software.",
+      "SENT_ZH":"该培训课程为员工配备了处理新软件所需的技能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fortify",
+            "prepare",
+            "enable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "machinery"
+      ],
+      "DEF_EN":"A long, slender part extending from a central structure, such as the movable part of a machine, a lever, or a side road.",
+      "DEF_ZH":"从中心结构伸出的细长部分，例如机器的可动部分、杠杆或支路。",
+      "SENT_EN":"The robotic arm moved precisely to pick up the component.",
+      "SENT_ZH":"机械臂精确地移动以拾取组件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lever",
+            "spoke",
+            "branch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/general"
+}

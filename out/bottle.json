@@ -1,0 +1,120 @@
+{
+  "WORD":"bottle",
+  "IPA":"/ˈbɑːtl/",
+  "CONJUGATES":"bottles | bottling | bottled",
+  "ETYMOLOGY":"From Middle English botel, from Old French boteille, diminutive of botte ('cask, barrel'), possibly influenced by Late Latin butticula ('small barrel').",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A container, typically made of glass or plastic, with a narrow neck, used for holding, storing, and dispensing liquids.",
+      "DEF_ZH":"一种容器，通常由玻璃或塑料制成，瓶颈狭窄，用于容纳、储存和分配液体。",
+      "SENT_EN":"Please hand me that bottle of olive oil from the top shelf.",
+      "SENT_ZH":"请把上面架子上的那瓶橄榄油递给我。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flask",
+            "carafe",
+            "vial",
+            "decanter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cap",
+            "cork",
+            "jar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bottle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "production"
+      ],
+      "DEF_EN":"To put (a liquid, especially a drink) into a bottle or bottles for storage, sale, or shipment.",
+      "DEF_ZH":"将（液体，尤指饮品）装入瓶中进行储存、销售或运输。",
+      "SENT_EN":"The brewery bottles its seasonal ale every spring.",
+      "SENT_ZH":"这家啤酒厂每年春天都会将其季节性啤酒装瓶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "package",
+            "containerize",
+            "seal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bottle up [sth]",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb plus adverb (phrasal verb)",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"To restrain or suppress strong emotions or feelings instead of expressing them.",
+      "DEF_ZH":"抑制或压抑强烈的情绪或情感，而非表达出来。",
+      "SENT_EN":"It is harmful to bottle up your frustrations; you need to find a healthy outlet.",
+      "SENT_ZH":"压抑你的沮丧情绪是有害的；你需要找到一个健康的宣泄口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repress",
+            "stifle",
+            "conceal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "express",
+            "vent",
+            "release"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] lose [one's] bottle",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "informal",
+        "slang",
+        "UK"
+      ],
+      "DEF_EN":"Courage, nerve, or determination. (Usually used in the phrase 'to lose one's bottle').",
+      "DEF_ZH":"勇气、胆量或决心（通常用于“失去勇气”这一表达中）。",
+      "SENT_EN":"The striker was about to take the penalty kick, but he lost his bottle and missed badly.",
+      "SENT_ZH":"这名前锋正准备罚点球，但他失去了勇气，踢失得很严重。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nerve",
+            "guts",
+            "mettle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, common in everyday speech and industrial contexts."
+}

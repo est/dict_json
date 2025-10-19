@@ -1,0 +1,100 @@
+{
+  "WORD":"are",
+  "IPA":"/ɑːr/",
+  "CONJUGATES":"be | am | is | was | were | being | been",
+  "ETYMOLOGY":"From Middle English are, from Old Norse eru (plural present form of vera 'to be'). Related to Old English earun (plural present of wesan/bēon 'to be'), from Proto-Germanic *eerun.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[pl. sb/sth] are [adj]\n[n] | [adv/prep phrase]",
+      "POS":"v. cop.",
+      "POS_TIP":"Copular verb (linking verb); the present indicative plural and second-person singular/plural form of 'to be'.",
+      "TAGS":[
+        "core word",
+        "high frequency",
+        "grammatical"
+      ],
+      "DEF_EN":"Used to express existence, identity, characteristic, state, or location in the present tense for plural subjects (we, they) or the second person (you).",
+      "DEF_ZH":"（“be”动词的现在式复数或第二人称形式）表示现在时态下的存在、身份、性质、状态或位置。",
+      "SENT_EN":"They are the strongest team in the league, and you are welcome here.",
+      "SENT_ZH":"他们是联盟中最强的队伍，欢迎你来到这里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "be",
+            "is",
+            "am"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[pl. sb/sth] are [v-ing]",
+      "POS":"aux",
+      "POS_TIP":"Auxiliary verb (helping verb).",
+      "TAGS":[
+        "grammatical",
+        "high frequency"
+      ],
+      "DEF_EN":"Used to form the present progressive (or continuous) aspect, indicating an action currently in progress.",
+      "DEF_ZH":"用于构成现在进行时，表示正在发生的动作或持续的状态。",
+      "SENT_EN":"The children are playing outside because it is sunny.",
+      "SENT_ZH":"孩子们正在外面玩耍，因为天气晴朗。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "doing",
+            "working"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[pl. sth] are [v-p.p.]",
+      "POS":"aux",
+      "POS_TIP":"Auxiliary verb (helping verb).",
+      "TAGS":[
+        "grammatical",
+        "common"
+      ],
+      "DEF_EN":"Used with a past participle to form the passive voice in the present tense.",
+      "DEF_ZH":"与动词的过去分词连用，构成现在时的被动语态。",
+      "SENT_EN":"These documents are stored in the main server room.",
+      "SENT_ZH":"这些文件储存在主服务器室中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "was",
+            "were"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"one are\nseveral are",
+      "POS":"n",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "technical",
+        "rare"
+      ],
+      "DEF_EN":"A metric unit of area, equal to 100 square meters (approximately 1076.4 square feet).",
+      "DEF_ZH":"（名词）面积的公制单位，等于 100 平方米 (符号为 a)。",
+      "SENT_EN":"The small garden measured exactly one are.",
+      "SENT_ZH":"那个小花园的面积正好是一公亩。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hectare",
+            "acre"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

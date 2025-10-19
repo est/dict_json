@@ -1,0 +1,121 @@
+{
+  "WORD":"BELIEVE",
+  "IPA":"/bɪˈliːv/",
+  "CONJUGATES":"believes | believing | believed | believable (adj.) | believer (n.)",
+  "ETYMOLOGY":"From Old English geliefan or belēfan, formed from the prefix be- + liefan ('to hold dear, trust'). Related to German glauben.",
+  "SINCE":"c. 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"believe [sth]\nbelieve (that) [clause]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "cognition"
+      ],
+      "DEF_EN":"To accept that something is true, real, or genuine, often without absolute proof.",
+      "DEF_ZH":"相信某事是真实的、现实的或正确的，通常是在没有绝对证据的情况下。",
+      "SENT_EN":"I believe that the climate is changing rapidly.",
+      "SENT_ZH":"我相信气候正在迅速变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accept",
+            "credit",
+            "hold"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "doubt",
+            "disbelieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"believe [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "trust",
+        "personal"
+      ],
+      "DEF_EN":"To accept that someone is telling the truth.",
+      "DEF_ZH":"相信某人所说的是实话。",
+      "SENT_EN":"I didn't believe him until I saw the evidence myself.",
+      "SENT_ZH":"在我亲自看到证据之前，我并不相信他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trust",
+            "rely on"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "distrust",
+            "suspect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"believe in [sb]\nbelieve in [sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "confidence",
+        "faith"
+      ],
+      "DEF_EN":"To have confidence in the abilities of someone or the validity of an idea; to have religious faith.",
+      "DEF_ZH":"对某人的能力或某个想法的有效性抱有信心；有宗教信仰。",
+      "SENT_EN":"You must believe in yourself if you want to succeed.",
+      "SENT_ZH":"如果你想成功，你就必须相信自己。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "have faith",
+            "confide in"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "faith",
+            "trust"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"believe [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "opinion",
+        "supposition"
+      ],
+      "DEF_EN":"To think or suppose; to hold as an opinion (often used formally or politely).",
+      "DEF_ZH":"认为或猜想；持有某种意见（常用于正式或礼貌的场合）。",
+      "SENT_EN":"I believe we have covered all the necessary points for today's agenda.",
+      "SENT_ZH":"我想我们已经涵盖了今天议程上的所有要点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "think",
+            "suppose",
+            "guess"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across all registers and demographics."
+}

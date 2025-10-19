@@ -1,0 +1,97 @@
+{
+  "WORD":"any",
+  "IPA":"/ˈɛni/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English ǣnig, from ān (one) + -ig (suffix, related to Germanic -ig in words like 'manig' meaning many).",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"any [N] (in questions or negatives)",
+      "POS":"det",
+      "POS_TIP":"Determiner (A word that precedes a noun or noun phrase and determines its reference)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to refer to one or some of a thing or number of things, no matter how much or how many. Primarily used in interrogative and negative clauses.",
+      "DEF_ZH":"任何一个（的）；一些；用于疑问句、否定句或条件句中，指不确定或不定量的。",
+      "SENT_EN":"Do you have any suggestions for the trip? We didn't receive any mail today.",
+      "SENT_ZH":"你对这次旅行有什么建议吗？我们今天没有收到任何邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "some",
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"any [N] (in affirmative statements)",
+      "POS":"det",
+      "POS_TIP":"Determiner",
+      "TAGS":[
+        "core word",
+        "emphasis"
+      ],
+      "DEF_EN":"Used to mean 'every' or 'all'; indicating that the item chosen is irrelevant or unrestricted.",
+      "DEF_ZH":"任何一个；随便哪一个；表示选择范围不受限制。",
+      "SENT_EN":"Choose any card you like, it doesn't matter.",
+      "SENT_ZH":"选择你喜欢的任何一张卡片，没关系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "every",
+            "whichever"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"any",
+      "POS":"pron",
+      "POS_TIP":"Pronoun (A word that replaces a noun or noun phrase)",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"One, some, or every person or thing; referring back to an understood noun (used in the same contexts as the determiner).",
+      "DEF_ZH":"任何一个；一些（代指人或物）。",
+      "SENT_EN":"Are there any left? No, there aren't any.",
+      "SENT_ZH":"还剩下一些吗？不，一个都没有了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "some",
+            "one"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"any + [comparative adj/adv]",
+      "POS":"adv",
+      "POS_TIP":"Adverb (A word that modifies a verb, adjective, or other adverb)",
+      "TAGS":[
+        "colloquial",
+        "intensifier"
+      ],
+      "DEF_EN":"To whatever extent or degree; at all.",
+      "DEF_ZH":"丝毫；一点儿（常用于否定句或疑问句中，修饰比较级）。",
+      "SENT_EN":"She isn't looking any better today. Are you driving any slower?",
+      "SENT_ZH":"她今天看起来没有丝毫好转。你开得慢一点了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "at all",
+            "in the least"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal, core vocabulary."
+}

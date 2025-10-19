@@ -1,0 +1,109 @@
+{
+  "WORD":"bit",
+  "IPA":"/bɪt/",
+  "CONJUGATES":"bits (n.) | bitten (pp. of bite)",
+  "ETYMOLOGY":"From Old English bita 'a piece of food, mouthful, small portion,' related to the verb bite. The computing sense (binary digit) was coined by Claude Shannon in 1948.",
+  "SINCE":"c. 825 CE (O.E.); 1948 (computing)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] bit [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small piece, quantity, or degree of something.",
+      "DEF_ZH":"少量；小块；一点点。",
+      "SENT_EN":"I had a bit of trouble finding the address.",
+      "SENT_ZH":"我找这个地址费了一点点劲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "piece",
+            "fragment",
+            "trace",
+            "fraction"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jot",
+            "sliver"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bit",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"The basic unit of information in computing, typically represented as either 0 or 1 (a binary digit).",
+      "DEF_ZH":"比特（计算机信息量的最小单位，通常为0或1）。",
+      "SENT_EN":"The file size is measured in megabits.",
+      "SENT_ZH":"文件大小以兆比特为单位计量。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "byte",
+            "kilobit",
+            "binary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] bit [sth]",
+      "POS":"v",
+      "POS_TIP":"verb (simple past tense of bite)",
+      "TAGS":[
+        "core word",
+        "irregular verb"
+      ],
+      "DEF_EN":"The simple past tense of the verb 'to bite' (to use the teeth to cut or tear).",
+      "DEF_ZH":"咬（bite的过去式）。",
+      "SENT_EN":"She accidentally bit her tongue during lunch.",
+      "SENT_ZH":"她吃午饭时，不小心咬到了自己的舌头。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bite",
+            "bitten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bit",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "equestrian",
+        "specialized"
+      ],
+      "DEF_EN":"The metal mouthpiece attached to the reins used to control a horse.",
+      "DEF_ZH":"马嚼子；衔铁。",
+      "SENT_EN":"The horse shook its head, tossing the bit slightly.",
+      "SENT_ZH":"马摇了摇它的头，马嚼子稍微晃动了一下。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rein",
+            "bridle",
+            "harness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, technical (computing), and specialized (equestrian)."
+}

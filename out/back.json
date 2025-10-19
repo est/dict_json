@@ -1,0 +1,117 @@
+{
+  "WORD":"back",
+  "IPA":"/bæk/",
+  "CONJUGATES":"backs | backing | backed",
+  "ETYMOLOGY":"From Middle English bak, from Old English bæc (noun, meaning 'the rear part of the body'), related to Old Norse bak.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s back",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"The rear surface of the human body from the shoulders to the hips.",
+      "DEF_ZH":"人体的背部，从肩膀到臀部的后表面。",
+      "SENT_EN":"He felt a sharp pain in his lower back after lifting the heavy box.",
+      "SENT_ZH":"搬完那个重箱子后，他感到下背部一阵剧痛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spine",
+            "dorsal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"go/come back\nlook back",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Toward the rear or the starting point; returning to a previous state or place.",
+      "DEF_ZH":"向后方或起始点；返回到以前的状态或地点。",
+      "SENT_EN":"She decided to move back to her hometown after college.",
+      "SENT_ZH":"大学毕业后，她决定搬回她的家乡。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "forward",
+            "ahead"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"back entrance\nback street",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Located at the rear or the far end of something.",
+      "DEF_ZH":"位于某物后面或远端。",
+      "SENT_EN":"They parked their car in the back lot.",
+      "SENT_ZH":"他们把车停在了后面的停车场。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "front",
+            "fore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"back [sth]\nback [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"To support, endorse, or provide financial aid for someone or something.",
+      "DEF_ZH":"支持、认可或为某人或某事提供经济援助。",
+      "SENT_EN":"The investor agreed to back the startup with millions of dollars.",
+      "SENT_ZH":"这位投资者同意为这家初创公司提供数百万美元的资金支持。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "support",
+            "fund",
+            "endorse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"back of the envelope",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"The side of an object or surface opposite the front, usually the reverse or less important side.",
+      "DEF_ZH":"物体的另一面或与正面相对的一面，通常是背面或不太重要的一面。",
+      "SENT_EN":"Please write your name and number on the back of the application form.",
+      "SENT_ZH":"请在申请表的背面写上你的姓名和号码。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "front",
+            "face"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

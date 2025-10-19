@@ -1,0 +1,83 @@
+{
+  "WORD":"below",
+  "IPA":"/bɪˈloʊ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English bilowe, formed from bi- ('by, near') and lowe ('low').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"below [sth]",
+      "POS":"prep | adv",
+      "POS_TIP":"preposition | adverb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"At or to a lower level, layer, or position than something else; underneath.",
+      "DEF_ZH":"在……的下方；在较低处；低于（表面或某点）。",
+      "SENT_EN":"The river runs below the bridge.",
+      "SENT_ZH":"这条河从桥下流过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "under",
+            "beneath",
+            "underneath"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "above",
+            "over"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"below [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "quantity",
+        "figurative"
+      ],
+      "DEF_EN":"Less than a specified amount, standard, or rank.",
+      "DEF_ZH":"少于（某个数量、标准或平均水平）；低于（某个级别）。",
+      "SENT_EN":"Do not accept any score below 80 percent.",
+      "SENT_ZH":"任何低于80%的分数都不要接受。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inferior to",
+            "less than"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "above",
+            "exceeding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"go below",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "nautical",
+        "specialized"
+      ],
+      "DEF_EN":"On or to a lower deck of a ship or vessel; downstairs.",
+      "DEF_ZH":"(在船上) 向下舱；到甲板下面去。",
+      "SENT_EN":"The captain ordered the crew to go below when the storm hit.",
+      "SENT_ZH":"风暴来袭时，船长命令船员们下舱。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

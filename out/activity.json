@@ -1,0 +1,90 @@
+{
+  "WORD":"activity",
+  "IPA":"/ækˈtɪvɪti/",
+  "CONJUGATES":"activities (pl.)",
+  "ETYMOLOGY":"From Late Latin activitas ('action, activity'), derived from Latin activus ('active'), ultimately from agere ('to do, to act').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n. [countable]",
+      "POS_TIP":"countable noun: a thing or person of which there may be several or many",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A specific action, pursuit, hobby, or task, often involving movement or energy.",
+      "DEF_ZH":"一项具体的行动、追求、爱好或任务，通常涉及运动或精力。",
+      "SENT_EN":"We encourage children to participate in extracurricular activities after school.",
+      "SENT_ZH":"我们鼓励孩子们在放学后参加课外活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pursuit",
+            "pastime",
+            "endeavor",
+            "occupation",
+            "task"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n. [uncountable]",
+      "POS_TIP":"uncountable noun: a mass or abstract concept which cannot be counted",
+      "TAGS":[
+        "common",
+        "conceptual"
+      ],
+      "DEF_EN":"The state or quality of being active, moving, or dynamic; vigorous action or movement.",
+      "DEF_ZH":"活跃、移动或动态的状态或品质；有力的行动或运动。",
+      "SENT_EN":"The police noted unusual activity around the abandoned warehouse last night.",
+      "SENT_ZH":"警方注意到昨晚废弃仓库周围有异常活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "action",
+            "motion",
+            "dynamism",
+            "movement"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inactivity",
+            "passivity",
+            "stillness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"activity of [sth]",
+      "POS":"n. [uncountable]",
+      "POS_TIP":"uncountable noun, typically used in science",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"(Physics) The rate at which the nuclei of a radioactive substance undergo spontaneous nuclear transformation (decay).",
+      "DEF_ZH":"（物理学）放射性物质的原子核发生自发核转变（衰变）的速率；活度。",
+      "SENT_EN":"The measured activity of the sample was expressed in Becquerels.",
+      "SENT_ZH":"测得的样本活度以贝克勒尔表示。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "radioactivity",
+            "decay",
+            "half-life"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

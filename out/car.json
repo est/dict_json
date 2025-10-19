@@ -1,0 +1,78 @@
+{
+  "WORD":"car",
+  "IPA":"/kɑːr/",
+  "CONJUGATES":"cars",
+  "ETYMOLOGY":"From Middle English carre, from Anglo-Norman car, from Old Northern French carre, from Vulgar Latin *carra, feminine form of *carrus, from Gaulish *karros, ultimately from Proto-Indo-European *ḱers- ('to run').",
+  "SINCE":"Late 14th century (general sense of wheeled vehicle); late 19th century (motor vehicle)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (automobile)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor, and able to carry a small number of people.",
+      "DEF_ZH":"一种通常有四个轮子、由内燃机或电动机驱动、能够载运少量人的道路车辆，即汽车。",
+      "SENT_EN":"She bought a new electric car last month.",
+      "SENT_ZH":"她上个月买了一辆新的电动汽车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automobile",
+            "motorcar",
+            "vehicle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "truck",
+            "bus",
+            "van",
+            "motorcycle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (railway carriage)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "US English"
+      ],
+      "DEF_EN":"A railway carriage or railroad truck; a component of a train intended for carrying passengers or freight.",
+      "DEF_ZH":"火车车厢或铁路货车；火车中用于载客或载货的组成部分。",
+      "SENT_EN":"The train had several passenger cars and three freight cars.",
+      "SENT_ZH":"这列火车有几节客车车厢和三节货运车厢。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "carriage",
+            "coach",
+            "wagon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (gondola/cage)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical"
+      ],
+      "DEF_EN":"The cage or platform of a lift (elevator) or the gondola of a hot-air balloon.",
+      "DEF_ZH":"电梯的轿厢或平台，或热气球的吊篮。",
+      "SENT_EN":"We waited for the elevator car to arrive at our floor.",
+      "SENT_ZH":"我们等着电梯轿厢到达我们所在的楼层。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general use"
+}

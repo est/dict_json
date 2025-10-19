@@ -1,0 +1,148 @@
+{
+  "WORD":"bill",
+  "IPA":"/bɪl/",
+  "CONJUGATES":"bills | billing | billed",
+  "ETYMOLOGY":"Middle English bille, from Old French bille (written document, seal), possibly derived from Latin bulla (a seal or sealed document). The sense of 'beak' comes from a distinct Old English root, bill (cutting tool/sword).",
+  "SINCE":"c. 13th Century (document/account sense); Old English (beak/weapon sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (for services/goods)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"A written or electronic statement of money owed for goods or services supplied.",
+      "DEF_ZH":"账单；费用清单；发票。",
+      "SENT_EN":"The waiter brought the bill after we finished eating.",
+      "SENT_ZH":"我们吃完后，服务员拿来了账单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invoice",
+            "check",
+            "statement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[currency unit] bill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "US usage"
+      ],
+      "DEF_EN":"A piece of paper money (banknote).",
+      "DEF_ZH":"钞票；纸币。",
+      "SENT_EN":"I need change for a twenty-dollar bill.",
+      "SENT_ZH":"我需要把一张二十美元的钞票换成零钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "banknote",
+            "note"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (legislation)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "politics",
+        "law",
+        "formal"
+      ],
+      "DEF_EN":"A draft of a proposed law presented to a legislature, such as a parliament or congress, for discussion and approval.",
+      "DEF_ZH":"法案；议案（提交给立法机构讨论的法律草案）。",
+      "SENT_EN":"The new infrastructure bill passed the Senate by a slim majority.",
+      "SENT_ZH":"新的基础设施法案以微弱多数通过了参议院。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "act",
+            "statute",
+            "proposal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bill [sb] for [sth]\nbill [sth] to [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"To present a bill or invoice to a person or organization, requesting payment.",
+      "DEF_ZH":"开具账单；向…收费；记入账户。",
+      "SENT_EN":"We will bill the client at the end of the month.",
+      "SENT_ZH":"我们将在月底向客户开具账单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "invoice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a bird's] bill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"The horny structure projecting from the head of a bird, used for feeding; a beak.",
+      "DEF_ZH":"(鸟类的) 喙，嘴。",
+      "SENT_EN":"The crane used its long bill to fish in the shallows.",
+      "SENT_ZH":"那只鹤用它长长的喙在浅滩捕鱼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beak",
+            "rostrum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be billed as [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (often used in the passive voice)",
+      "TAGS":[
+        "media",
+        "advertising"
+      ],
+      "DEF_EN":"To describe or advertise someone or something in a particular way.",
+      "DEF_ZH":"宣传为；声称为；安排日程。",
+      "SENT_EN":"The young actor was billed as 'the next big star'.",
+      "SENT_ZH":"这位年轻演员被宣传为“下一位巨星”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advertise",
+            "promote",
+            "schedule"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

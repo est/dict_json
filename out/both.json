@@ -1,0 +1,60 @@
+{
+  "WORD":"both",
+  "IPA":"/boʊθ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English, derived from Old Norse báðir, which replaced the Old English bā. It is related to Gothic bai and Latin ambō (both).",
+  "SINCE":"Pre-1000 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"both [N, pl]\nboth of [the/my...] [N, pl]",
+      "POS":"Determiner | Quantifier",
+      "POS_TIP":"Determiner: a word that precedes a noun to clarify or specify it. Quantifier: a determiner indicating the amount or number of a noun.",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"Referring to two people or things, indicating that the statement applies equally to each of them.",
+      "DEF_ZH":"指两个人或事物，表示两者都包含在内，通常用于复数名词前。",
+      "SENT_EN":"Both candidates agreed to the terms of the debate.",
+      "SENT_ZH":"两位候选人都同意了辩论的条款。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"both (of them/us/you)",
+      "POS":"Pronoun",
+      "POS_TIP":"Pronoun: a word that takes the place of a noun or noun phrase.",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"The two people or things just mentioned or understood from context.",
+      "DEF_ZH":"代指刚刚提及或上下文已知的两个人或事物。",
+      "SENT_EN":"I bought two shirts; both were on sale.",
+      "SENT_ZH":"我买了衬衫，两件都在打折。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"both [X] and [Y]",
+      "POS":"Correlative Conjunction | Adverb",
+      "POS_TIP":"Correlative Conjunction: pairs of conjunctions that work together to join elements (words, phrases, or clauses). Adverb: a word that modifies a verb, adjective, or other adverb.",
+      "TAGS":[
+        "Structure",
+        "Idiomatic"
+      ],
+      "DEF_EN":"Used to emphasize that two items, qualities, or actions are equally true or included.",
+      "DEF_ZH":"用于连接两个词或短语，强调它们是同等真实或同等包含的（“既…又…”）。",
+      "SENT_EN":"She is both highly intelligent and extremely humble.",
+      "SENT_ZH":"她既聪明又非常谦逊。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "as well as",
+            "not only... but also"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

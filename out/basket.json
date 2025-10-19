@@ -1,0 +1,113 @@
+{
+  "WORD":"basket",
+  "IPA":"/ˈbæskɪt/",
+  "CONJUGATES":"baskets (pl.) | basketed (v.) | basketing (v.)",
+  "ETYMOLOGY":"From Middle English baskette, possibly via Old Northern French *baschet* (a diminutive of *basce*, 'tub'), or of Celtic origin (Welsh *basged* 'container').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "container"
+      ],
+      "DEF_EN":"A container, typically round or oval and open at the top, made of interwoven strips of material such as cane, rushes, or plastic.",
+      "DEF_ZH":"一种容器，通常是圆形或椭圆形，顶部敞开，由藤条、芦苇或塑料等材料的条带编织而成。",
+      "SENT_EN":"We need to buy a new laundry basket for the towels.",
+      "SENT_ZH":"我们需要买一个新的洗衣篮来放毛巾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hamper",
+            "pannier",
+            "creel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a basket\nshoot a basket",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "common"
+      ],
+      "DEF_EN":"The metal hoop and net used as the goal in basketball; also, a successful shot that scores points by passing through this hoop.",
+      "DEF_ZH":"篮球运动中用作球门的金属圈和网；也可指通过该篮圈得分的一次成功投篮。",
+      "SENT_EN":"He scored the winning basket with only two seconds left on the clock.",
+      "SENT_ZH":"在比赛时间只剩两秒时，他投进了制胜的一球。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hoop",
+            "free throw",
+            "field goal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a basket of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (measurement)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The contents or the amount held by a basket.",
+      "DEF_ZH":"一篮子的内容物或容量。",
+      "SENT_EN":"The children brought in a large basket of freshly picked berries.",
+      "SENT_ZH":"孩子们带进来一大篮子刚采摘的浆果。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"market basket\ncurrency basket",
+      "POS":"n",
+      "POS_TIP":"noun (economics)",
+      "TAGS":[
+        "finance",
+        "technical"
+      ],
+      "DEF_EN":"A selection of standardized items (goods, services, or financial assets) used for statistical purposes, such as measuring inflation or calculating risk.",
+      "DEF_ZH":"用于统计目的（例如衡量通货膨胀或计算风险）的一组标准化项目（商品、服务或金融资产）。",
+      "SENT_EN":"The central bank manages a basket of currencies to maintain exchange rate stability.",
+      "SENT_ZH":"中央银行管理一篮子货币以维持汇率稳定。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "portfolio",
+            "index"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"basket [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "action"
+      ],
+      "DEF_EN":"To put or place something into a basket.",
+      "DEF_ZH":"将某物放入篮子中。",
+      "SENT_EN":"They basketed the excess produce before taking it to the market.",
+      "SENT_ZH":"他们把多余的农产品装进篮子里，然后才运到市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pack",
+            "store"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Sports, Finance"
+}

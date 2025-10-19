@@ -1,0 +1,65 @@
+{
+  "WORD":"beach",
+  "IPA":"/biːtʃ/",
+  "CONJUGATES":"beaches (n pl) | beaches (v 3rd sg) | beaching (v present part) | beached (v past/pp)",
+  "ETYMOLOGY":"From Old English *bece* or *bæce* (stream, bank), possibly influenced by Dutch *bak* (bank/shelf). Meaning shifted to 'sandy shore' around the 16th century.",
+  "SINCE":"c. 1500s (modern meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a [sth] beach",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A stretch of sand or pebbles along a coast or shore of a lake or river, washed by water.",
+      "DEF_ZH":"沿着海岸、湖泊或河流岸边，由沙子或鹅卵石构成的地带，通常被水冲刷。",
+      "SENT_EN":"We spent the whole afternoon relaxing on the sunny beach.",
+      "SENT_ZH":"我们在阳光明媚的沙滩上放松了整个下午。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shore",
+            "coast",
+            "strand",
+            "seashore"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "resort",
+            "ocean",
+            "tide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"beach [sth/sb]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "nautical",
+        "common"
+      ],
+      "DEF_EN":"To pull or run a boat, ship, or marine animal (like a whale) onto a shore or beach, or to become stranded there.",
+      "DEF_ZH":"将船只、海洋动物（如鲸鱼）拖上或冲上岸边；（船只、动物）搁浅。",
+      "SENT_EN":"They had to beach the damaged vessel during the storm.",
+      "SENT_ZH":"在暴风雨中，他们不得不让受损的船只搁浅靠岸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strand",
+            "run aground"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

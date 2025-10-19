@@ -1,0 +1,110 @@
+{
+  "WORD":"book",
+  "IPA":"/bʊk/",
+  "CONJUGATES":"books | booking | booked",
+  "ETYMOLOGY":"From Old English bōc (meaning 'book, written document'), from Proto-Germanic *bōks, likely referring originally to runic symbols carved on beechwood (related to 'beech').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+      "DEF_ZH":"装订成册的、由纸页组成的书面或印刷作品。",
+      "SENT_EN":"She checked out a book from the library on Roman history.",
+      "SENT_ZH":"她从图书馆借了一本关于罗马历史的书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "volume",
+            "tome",
+            "publication"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "novel",
+            "manual",
+            "textbook"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"book [sth]\nbook [sb]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "travel"
+      ],
+      "DEF_EN":"To reserve accommodation, a ticket, or a service in advance.",
+      "DEF_ZH":"提前预定（住宿、票务或服务）。",
+      "SENT_EN":"Have you booked the restaurant table for Friday yet?",
+      "SENT_ZH":"你预定周五的餐馆桌位了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reserve",
+            "schedule",
+            "arrange"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the books\nin the book(s)",
+      "POS":"n. (pl.)",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "finance",
+        "idiomatic"
+      ],
+      "DEF_EN":"Records of business transactions and financial accounts.",
+      "DEF_ZH":"商业交易和财务账户的记录（账目）。",
+      "SENT_EN":"The company's accountant audits the books every quarter.",
+      "SENT_ZH":"公司的会计每季度都会审核账目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ledger",
+            "records",
+            "accounts"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"book [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "police"
+      ],
+      "DEF_EN":"To record the name and details of a person arrested by the police; to charge.",
+      "DEF_ZH":"警方正式记录被捕者的姓名和详细信息；逮捕并登记。",
+      "SENT_EN":"The officer booked him for driving under the influence.",
+      "SENT_ZH":"警官因他酒驾而逮捕并登记了他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrest",
+            "charge",
+            "file"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

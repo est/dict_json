@@ -1,0 +1,128 @@
+{
+  "WORD":"blind",
+  "IPA":"/blaɪnd/",
+  "CONJUGATES":"blinder | blindest | blinding | blinded",
+  "ETYMOLOGY":"From Old English *blind* (adjective), derived from Proto-Germanic *blindaz*. Related to Old Norse *blindr* and Old High German *blint*.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is blind",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Unable to see because of injury, disease, or a congenital condition; lacking the sense of sight.",
+      "DEF_ZH":"失明的；看不见的（因疾病、损伤或先天原因）。",
+      "SENT_EN":"She has been completely blind since birth and uses a guide dog.",
+      "SENT_ZH":"她自出生以来就完全失明了，并使用导盲犬。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sightless",
+            "visually impaired"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "seeing",
+            "sighted"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blind to [sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"Adjective followed by a preposition",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Unwilling or unable to understand, recognize, or acknowledge a situation, fact, or feeling.",
+      "DEF_ZH":"盲目的；不顾事实的；对（某事）视而不见的。",
+      "SENT_EN":"He was blind to the obvious flaws in his business plan.",
+      "SENT_ZH":"他对他的商业计划中明显的缺陷视而不见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oblivious",
+            "unaware",
+            "ignorant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a blind [action/process]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun",
+      "TAGS":[
+        "technical",
+        "process"
+      ],
+      "DEF_EN":"Done without sufficient information, preparation, or without visual guidance (used often in 'blind test' or 'blind spot').",
+      "DEF_ZH":"盲目的；未事先了解或未受引导的（如测试、行动或约会）。",
+      "SENT_EN":"The scientists conducted a double-blind experiment to eliminate bias.",
+      "SENT_ZH":"科学家们进行了双盲实验以消除偏见。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "double-blind",
+            "blind date",
+            "blind spot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blind [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object",
+      "TAGS":[
+        "action verb"
+      ],
+      "DEF_EN":"To make someone permanently or temporarily unable to see; to dazzle or overwhelm with light.",
+      "DEF_ZH":"使失明；使（暂时）看不见；使眩目。",
+      "SENT_EN":"The unexpected flash of the camera momentarily blinded me.",
+      "SENT_ZH":"相机的意外闪光瞬间使我眩目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dazzle",
+            "obfuscate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a window blind",
+      "POS":"n",
+      "POS_TIP":"Noun: a person, place, thing, or idea",
+      "TAGS":[
+        "object",
+        "common"
+      ],
+      "DEF_EN":"A covering for a window, usually on a roller or made of slats, designed to block light or provide privacy.",
+      "DEF_ZH":"百叶窗；窗帘。",
+      "SENT_EN":"Please pull down the window blind; the sun is too harsh.",
+      "SENT_ZH":"请把百叶窗放下来；阳光太刺眼了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shutter",
+            "curtain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in descriptive, figurative, and technical contexts."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"background",
+  "IPA":"/'bækˌɡraʊnd/",
+  "CONJUGATES":"backgrounds",
+  "ETYMOLOGY":"Compound word formed from 'back' (Old English *bæc*) and 'ground' (Old English *grund*). First attested in the context of painting, referring to the furthest plane.",
+  "SINCE":"c. 1630s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] in the background",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "visual"
+      ],
+      "DEF_EN":"The part of a picture, scene, or view that is furthest from the observer.",
+      "DEF_ZH":"景物或画面中离观察者最远的部分；背景。",
+      "SENT_EN":"The artist used soft colors for the background to make the foreground stand out.",
+      "SENT_ZH":"这位艺术家使用柔和的颜色作为背景，以突出前景。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "backdrop",
+            "setting",
+            "scenery"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "foreground"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s background\n[sth]'s background",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "contextual"
+      ],
+      "DEF_EN":"A person's education, experience, and social circumstances, or the circumstances surrounding an event.",
+      "DEF_ZH":"一个人的教育、经历和社会环境；事件发生的环境或历史。",
+      "SENT_EN":"Her strong financial background made her suitable for the managerial role.",
+      "SENT_ZH":"她扎实的财务背景使她适合担任这个管理职位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "history",
+            "experience",
+            "origins",
+            "foundation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"background noise\nbackground information",
+      "POS":"n",
+      "POS_TIP":"noun (often used attributively)",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"Information, sounds, or activities that are secondary to the main focus or action.",
+      "DEF_ZH":"次要的、不重要的信息、声音或活动；环境杂音。",
+      "SENT_EN":"It was difficult to hear the speaker over the constant background chatter.",
+      "SENT_ZH":"由于持续的背景喧哗声，我们很难听清演讲者在说什么。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ambient",
+            "incidental",
+            "peripheral"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

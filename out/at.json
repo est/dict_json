@@ -1,0 +1,105 @@
+{
+  "WORD":"at",
+  "IPA":"/æt/ | /ət/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English æt, from Proto-Germanic *at, from Proto-Indo-European *ad- (near, to).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"at [place/location/address]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "core word",
+        "location"
+      ],
+      "DEF_EN":"Indicating the exact position or location of something or someone.",
+      "DEF_ZH":"表示某物或某人所在的精确位置或地点。",
+      "SENT_EN":"She is currently working at the library.",
+      "SENT_ZH":"她目前在图书馆工作。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "in",
+            "on",
+            "near"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at [time/moment]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "core word",
+        "time"
+      ],
+      "DEF_EN":"Indicating a specific point in time.",
+      "DEF_ZH":"表示某个特定的时间点。",
+      "SENT_EN":"The concert starts at 8 p.m.",
+      "SENT_ZH":"音乐会晚上八点开始。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "on",
+            "by"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[action] at [sth/sb]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "direction",
+        "target"
+      ],
+      "DEF_EN":"Indicating movement, focus, or direction toward a target or object (used with verbs like 'look', 'throw', 'aim').",
+      "DEF_ZH":"表示朝向目标或对象的运动、焦点或方向（常与'看'、'扔'、'瞄准'等动词连用）。",
+      "SENT_EN":"He smiled happily at his wife.",
+      "SENT_ZH":"他高兴地对着他的妻子笑了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "toward",
+            "upon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at [rate/price/level]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "rate",
+        "condition"
+      ],
+      "DEF_EN":"Expressing a rate, price, speed, or level.",
+      "DEF_ZH":"表示比率、价格、速度或水平。",
+      "SENT_EN":"The car was traveling at 60 miles per hour.",
+      "SENT_ZH":"这辆车以每小时60英里的速度行驶。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"at [activity/state]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "state",
+        "engagement"
+      ],
+      "DEF_EN":"Indicating the state or activity someone is engaged in.",
+      "DEF_ZH":"表示某人正在从事的状态或活动。",
+      "SENT_EN":"She is excellent at solving complex problems.",
+      "SENT_ZH":"她非常擅长解决复杂问题。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English, extremely high frequency"
+}

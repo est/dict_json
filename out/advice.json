@@ -1,0 +1,66 @@
+{
+  "WORD":"advice",
+  "IPA":"/ədˈvaɪs/",
+  "CONJUGATES":"advise (v.) | adviser (n.) | advisory (adj.) | pieces of advice (plural phrase)",
+  "ETYMOLOGY":"Middle English, from Old French *avis* (opinion, view), from the phrase *a vis* (to the sight, in the manner of). Related to Latin *videre* (to see).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"advice [to sb]\nadvice [on sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Guidance or recommendations offered by someone, typically to help someone decide on a course of action.",
+      "DEF_ZH":"某人提供的指导或建议，通常用于帮助某人决定行动方针。",
+      "SENT_EN":"He ignored his mother's advice and ended up losing all his money.",
+      "SENT_ZH":"他忽略了他母亲的建议，结果把钱都输光了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "counsel",
+            "guidance",
+            "recommendation",
+            "suggestion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "advise",
+            "adviser",
+            "consultation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"advices [from sth]",
+      "POS":"npl",
+      "POS_TIP":"plural noun (often used in formal or archaic context)",
+      "TAGS":[
+        "formal",
+        "business",
+        "archaic"
+      ],
+      "DEF_EN":"Formal notification or commercial information, especially concerning financial transactions (almost exclusively used in the plural 'advices').",
+      "DEF_ZH":"正式的通知或商业信息，特别是关于金融交易方面的信息（几乎只用于复数形式）。",
+      "SENT_EN":"We are awaiting advices from the head office regarding the new shipment schedule.",
+      "SENT_ZH":"我们正在等待总部关于新装运时间表的通知。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notification",
+            "intelligence",
+            "reports"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

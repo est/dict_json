@@ -1,0 +1,163 @@
+{
+  "WORD":"bear",
+  "IPA":"/ber/",
+  "CONJUGATES":"bears | bearing | bore | borne (or born)",
+  "ETYMOLOGY":"From Old English bera, from Proto-Germanic *berô, perhaps literally 'the brown one' (compare Old Norse bjǫrn), or related to the verb 'to carry' (Old English beran), as bears were seen as carriers of heavy loads.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To carry, support, or hold something heavy or a weight.",
+      "DEF_ZH":"承受；支撑；担负（重物或重量）。",
+      "SENT_EN":"The pillars bear the weight of the roof.",
+      "SENT_ZH":"这些柱子承受着屋顶的重量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "support",
+            "sustain",
+            "carry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [sth] (e.g., pain, trouble, responsibility)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To endure, tolerate, or put up with something difficult, unpleasant, or painful.",
+      "DEF_ZH":"忍受；容忍；经受（困难、痛苦等）。",
+      "SENT_EN":"I cannot bear the thought of losing you.",
+      "SENT_ZH":"我无法忍受失去你的想法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endure",
+            "tolerate",
+            "suffer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [sth] (e.g., fruit, costs, interest)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To produce or yield (e.g., fruit, interest, or costs).",
+      "DEF_ZH":"产生；结果实；带来（利益、成本等）。",
+      "SENT_EN":"The apple tree bears fruit every autumn.",
+      "SENT_ZH":"这棵苹果树每年秋天都会结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yield",
+            "produce",
+            "generate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bear [sb/sth] in mind",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb (phrasal verb usage)",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To remember and consider something when making plans or decisions.",
+      "DEF_ZH":"记住；考虑到。",
+      "SENT_EN":"Bear in mind that the meeting starts early tomorrow.",
+      "SENT_ZH":"请记住，会议明天很早就开始了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[animal/mythical creature]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large, heavy mammal with thick fur, short legs, and a very short tail, found in various parts of the world.",
+      "DEF_ZH":"熊（一种体型大、皮毛厚、腿短尾巴短的哺乳动物）。",
+      "SENT_EN":"A grizzly bear was sighted near the campsite.",
+      "SENT_ZH":"在露营地附近发现了一只灰熊。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "grizzly bear",
+            "polar bear",
+            "teddy bear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[market/investor]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "finance",
+        "figurative"
+      ],
+      "DEF_EN":"An investor who expects stock prices to fall; also, a market characterized by falling prices.",
+      "DEF_ZH":"空头（预期股价下跌的投资者）；熊市。",
+      "SENT_EN":"The market has been dominated by the bears all week.",
+      "SENT_ZH":"本周市场一直被空头主导。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "bull"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bear market"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] bore [sth] (e.g., a child)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "old use"
+      ],
+      "DEF_EN":"To give birth to (used almost exclusively in the past participle 'born').",
+      "DEF_ZH":"生育；生下（孩子）。",
+      "SENT_EN":"She bore three children during the war.",
+      "SENT_ZH":"她在战争期间生了三个孩子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "born"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General vocabulary, with specific usage in finance."
+}

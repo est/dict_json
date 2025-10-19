@@ -1,0 +1,123 @@
+{
+  "WORD":"answer",
+  "IPA":"/ˈænsər/",
+  "CONJUGATES":"answers | answering | answered",
+  "ETYMOLOGY":"From Middle English answare, from Old English andswaru 'a reply', related to and- 'against' + swerian 'to swear, affirm'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"A verbal or written reply to a question, request, letter, or signal.",
+      "DEF_ZH":"对问题、请求、信件或信号的口头或书面回复。",
+      "SENT_EN":"I waited for his answer, but he remained silent.",
+      "SENT_ZH":"我等待着他的回答，但他保持沉默。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reply",
+            "response",
+            "acknowledgment"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "question",
+            "query"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"answer [sth]\nanswer [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"To give a reply or response to (a question or request).",
+      "DEF_ZH":"对（问题或请求）作出回复或回应。",
+      "SENT_EN":"Please answer the questions on the form completely.",
+      "SENT_ZH":"请完整回答表格上的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reply",
+            "respond",
+            "acknowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the answer (to [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Figurative",
+        "Common"
+      ],
+      "DEF_EN":"The correct solution to a problem, or the explanation for a mystery.",
+      "DEF_ZH":"问题的正确解法或谜团的解释。",
+      "SENT_EN":"The key to the whole mystery was the answer found in the final chapter.",
+      "SENT_ZH":"整个谜团的关键就在最后一章中找到的答案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "solution",
+            "key",
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"answer (the phone/door)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Common",
+        "Contextual"
+      ],
+      "DEF_EN":"To respond when a telephone rings, or when someone knocks or rings a bell at a door.",
+      "DEF_ZH":"回应电话铃声或门外（敲门或按铃）的召唤。",
+      "SENT_EN":"Could you answer the phone? I'm busy cooking.",
+      "SENT_ZH":"你能去接一下电话吗？我正忙着做饭。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"answer for [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb plus preposition",
+      "TAGS":[
+        "Formal",
+        "Legal"
+      ],
+      "DEF_EN":"To be held accountable or responsible for something (often an error or crime).",
+      "DEF_ZH":"对某事（通常是错误或罪行）负责或承担责任。",
+      "SENT_EN":"He will have to answer for his terrible mistake to the board of directors.",
+      "SENT_ZH":"他将必须向董事会解释并承担他犯下的可怕错误的后果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "account for",
+            "be responsible for",
+            "justify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

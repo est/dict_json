@@ -1,0 +1,82 @@
+{
+  "WORD":"area",
+  "IPA":"/ˈɛər.i.ə/",
+  "CONJUGATES":"areas",
+  "ETYMOLOGY":"From Latin area ('a broad piece of level ground, open space, threshing-floor, building plot'), passed into Old French aire.",
+  "SINCE":"Late Middle English (c. 15th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] area [of sth]",
+      "POS":"nc",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "common",
+        "geography"
+      ],
+      "DEF_EN":"A specific section, tract, or region of the earth's surface, a building, or any other delimited space.",
+      "DEF_ZH":"特定区域、地方或空间范围。",
+      "SENT_EN":"This area of the city is known for its beautiful architecture.",
+      "SENT_ZH":"这座城市的这个区域以其美丽的建筑而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "region",
+            "zone",
+            "district",
+            "territory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the area [of sth]",
+      "POS":"nu",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "mathematics",
+        "technical"
+      ],
+      "DEF_EN":"The extent of a two-dimensional surface enclosed within a boundary, measured in square units.",
+      "DEF_ZH":"面积（平面或二维表面所占的大小，以平方单位衡量）。",
+      "SENT_EN":"We need to calculate the total area of the garden before laying the turf.",
+      "SENT_ZH":"在铺草皮之前，我们需要计算出花园的总面积。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extent",
+            "surface",
+            "size"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"area [of expertise/study/interest]",
+      "POS":"nc",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "abstract",
+        "professional"
+      ],
+      "DEF_EN":"A specific subject, field of activity, or sphere of knowledge or responsibility.",
+      "DEF_ZH":"领域、范畴或专业范围。",
+      "SENT_EN":"Her primary area of research is renewable energy sources.",
+      "SENT_ZH":"她的主要研究领域是可再生能源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "field",
+            "domain",
+            "sphere",
+            "discipline"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

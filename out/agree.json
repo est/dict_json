@@ -1,0 +1,102 @@
+{
+  "WORD":"agree",
+  "IPA":"/əˈɡriː/",
+  "CONJUGATES":"agrees | agreeing | agreed",
+  "ETYMOLOGY":"From Old French agreer (a- 'to' + gré 'pleasure, consent'), related to Latin grātum 'pleasing' and English 'grace'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"agree [with sb] [about/on sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To have the same opinion, belief, or view as someone else; to consent.",
+      "DEF_ZH":"持有相同的观点或意见；表示同意或赞成。",
+      "SENT_EN":"I completely agree with your assessment of the political situation.",
+      "SENT_ZH":"我完全同意你对当前政治局势的评估。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concur",
+            "assent",
+            "consent",
+            "see eye to eye"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disagree",
+            "object",
+            "dissent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"agree [on/upon sth]\nagree [to do sth]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Business"
+      ],
+      "DEF_EN":"To reach a mutual decision or settlement after discussion or negotiation.",
+      "DEF_ZH":"在讨论或谈判后，共同做出决定或达成协议。",
+      "SENT_EN":"The two companies agreed on the terms of the merger last night.",
+      "SENT_ZH":"昨晚，这两家公司就合并条款达成了一致。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "settle",
+            "negotiate",
+            "contract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sth agree [with sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Formal",
+        "Technical"
+      ],
+      "DEF_EN":"To be consistent, corresponding, or compatible (used for facts, data, or accounts).",
+      "DEF_ZH":"（事实、数据或记载）吻合；一致；相符。",
+      "SENT_EN":"The dates on the report do not agree with the official company records.",
+      "SENT_ZH":"报告上的日期与公司的官方记录不符。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "match",
+            "correspond",
+            "harmonize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sth agree [with sb]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Idiomatic",
+        "Physiological"
+      ],
+      "DEF_EN":"(Of food, climate, or activity) to be suitable, healthy, or beneficial to one's body or constitution.",
+      "DEF_ZH":"（指食物、气候或活动）适合（某人的身体或消化系统）。",
+      "SENT_EN":"Unfortunately, rich sauces and heavy desserts do not agree with my stomach.",
+      "SENT_ZH":"不幸的是，浓郁的酱汁和油腻的甜点不适合我的胃。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

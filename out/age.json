@@ -1,0 +1,102 @@
+{
+  "WORD":"age",
+  "IPA":"/eɪdʒ/",
+  "CONJUGATES":"ages | aged | aging (or ageing)",
+  "ETYMOLOGY":"From Middle English *age*, from Old French *aage* (modern *âge*), from Vulgar Latin *aetaticum*, derived from Latin *aetas* ('period of life, time').",
+  "SINCE":"c. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"age [of sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The length of time that a person or thing has existed.",
+      "DEF_ZH":"一个人或事物存在的时间长度；年龄。",
+      "SENT_EN":"She retired from teaching at the age of sixty-five.",
+      "SENT_ZH":"她在六十五岁时从教学生涯中退休。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "years",
+            "span",
+            "duration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Age of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "common"
+      ],
+      "DEF_EN":"A distinct period of history, often characterized by a dominant feature or activity.",
+      "DEF_ZH":"历史上的某个特定时期或时代。",
+      "SENT_EN":"We are now living in the age of instant global communication.",
+      "SENT_ZH":"我们现在生活在一个全球即时通讯的时代。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "era",
+            "epoch",
+            "period"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"age [vi]",
+      "POS":"v",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To grow old or show the effects of increasing age.",
+      "DEF_ZH":"变老；显出衰老的迹象。",
+      "SENT_EN":"The stress of the job caused him to age quickly.",
+      "SENT_ZH":"这份工作的压力使他迅速衰老。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mature",
+            "grow old"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"age [vt] [sth]",
+      "POS":"v",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "cooking",
+        "industrial"
+      ],
+      "DEF_EN":"To allow or cause something, such as cheese, wine, or timber, to mature over time.",
+      "DEF_ZH":"（使）成熟；陈化（用于葡萄酒、奶酪或木材等）。",
+      "SENT_EN":"The distiller ages the whisky for at least twelve years in oak barrels.",
+      "SENT_ZH":"蒸馏厂将威士忌在橡木桶中陈酿至少十二年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cure",
+            "ripen",
+            "mature"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

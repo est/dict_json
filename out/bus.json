@@ -1,0 +1,101 @@
+{
+  "WORD":"bus",
+  "IPA":"/bʌs/",
+  "CONJUGATES":"buses | bussing | bussed",
+  "ETYMOLOGY":"Shortening of Latin 'omnibus', meaning 'for all' (plural dative of 'omnis' 'all'). Adopted into French as 'voiture omnibus' (carriage for all) for a public transport vehicle in the 19th century.",
+  "SINCE":"c. 1829 (in English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (vehicle)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "transport",
+        "common"
+      ],
+      "DEF_EN":"A large motor vehicle designed to carry many passengers by road, usually along a fixed route for public transportation.",
+      "DEF_ZH":"一种大型机动车辆，设计用于在道路上搭载许多乘客，通常沿着固定路线进行公共交通。",
+      "SENT_EN":"I missed the last bus and had to walk home.",
+      "SENT_ZH":"我错过了最后一班公共汽车，不得不走路回家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coach",
+            "motor coach",
+            "omnibus"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "trolleybus",
+            "minibus",
+            "double-decker"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (electronics)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A system or path for transferring data between components within a computer or between computers.",
+      "DEF_ZH":"计算机内部组件之间或计算机之间传输数据的系统或路径。",
+      "SENT_EN":"The computer's internal bus speed greatly affects its performance.",
+      "SENT_ZH":"计算机内部总线的速度极大地影响了其性能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data path",
+            "channel"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "USB",
+            "PCI",
+            "motherboard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bus [sth] away (dishes)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "service industry",
+        "common"
+      ],
+      "DEF_EN":"To clear dirty dishes, glassware, and refuse from tables in a restaurant or dining area.",
+      "DEF_ZH":"在餐厅或用餐区清理桌子上的脏盘子、玻璃器皿和垃圾。",
+      "SENT_EN":"After the customers left, the waiter began to bus the table.",
+      "SENT_ZH":"顾客离开后，服务员开始收拾餐桌（收盘子）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clear",
+            "collect"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "waiter",
+            "dishwashing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The noun (vehicle) is core vocabulary. The verb (clearing tables) is common in the service industry. The noun (electronics) is common in technical contexts."
+}

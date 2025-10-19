@@ -1,0 +1,96 @@
+{
+  "WORD":"by",
+  "IPA":"/baɪ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English bī, be ('near, beside, by means of'), related to Old Saxon bi and Old High German bī. Ultimately from Proto-Germanic *bī.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[action] by [sb]\n[sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition: a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause.",
+      "TAGS":[
+        "core word",
+        "agent"
+      ],
+      "DEF_EN":"Identifying the agent performing the action, especially in passive constructions.",
+      "DEF_ZH":"表示执行动作的人或物；由；被。",
+      "SENT_EN":"The novel was written by an anonymous author.",
+      "SENT_ZH":"这本小说是由一位匿名作者撰写的。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[achieve sth] by [doing sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition: a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause.",
+      "TAGS":[
+        "core word",
+        "method"
+      ],
+      "DEF_EN":"Indicating the means or method used to achieve something.",
+      "DEF_ZH":"通过；凭借（某种方式或手段）。",
+      "SENT_EN":"She earns a living by selling handmade jewelry.",
+      "SENT_ZH":"她通过销售手工珠宝谋生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "through",
+            "via"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[arrive] by [time]",
+      "POS":"prep",
+      "POS_TIP":"preposition: a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause.",
+      "TAGS":[
+        "core word",
+        "deadline"
+      ],
+      "DEF_EN":"Not later than; at or before a specified time.",
+      "DEF_ZH":"不迟于；在...之前。",
+      "SENT_EN":"You must submit your answers by noon tomorrow.",
+      "SENT_ZH":"你必须在明天中午前提交你的答案。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[location] by [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition: a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause.",
+      "TAGS":[
+        "core word",
+        "location"
+      ],
+      "DEF_EN":"Near or next to the specified place or object.",
+      "DEF_ZH":"在...旁边；靠近。",
+      "SENT_EN":"We sat by the window and watched the rain.",
+      "SENT_ZH":"我们坐在窗边看雨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beside",
+            "near"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drive\nwalk [movement]",
+      "POS":"adv",
+      "POS_TIP":"adverb: a word or phrase that modifies or qualifies an adjective, verb, or other adverb.",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"Moving past something or someone.",
+      "DEF_ZH":"经过；路过。",
+      "SENT_EN":"The tourist boat sailed right by.",
+      "SENT_ZH":"那艘观光船径直驶过。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Universal"
+}

@@ -1,0 +1,109 @@
+{
+  "WORD":"brother",
+  "IPA":"/ˈbrʌðər/",
+  "CONJUGATES":"brothers | brother's | brothers'",
+  "ETYMOLOGY":"From Old English brōþor, from Proto-Germanic *brōþēr, ultimately derived from Proto-Indo-European *bʰréh₂tēr.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Kinship"
+      ],
+      "DEF_EN":"A male person who has the same parents as another person.",
+      "DEF_ZH":"指与另一个人拥有相同父母的男性（手足）。",
+      "SENT_EN":"He is my older brother by three years.",
+      "SENT_ZH":"他比我大三岁，是我的哥哥。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sibling",
+            "kin",
+            "frater"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sister"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (informal address)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Informal",
+        "Familiar"
+      ],
+      "DEF_EN":"Used as a friendly or familiar way of addressing a male friend or acquaintance.",
+      "DEF_ZH":"（非正式）用于称呼男性朋友或熟人，表示友好或亲密。",
+      "SENT_EN":"Thanks for the help, brother!",
+      "SENT_ZH":"谢谢你的帮助，老兄！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mate",
+            "pal",
+            "dude",
+            "man"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (religious context)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Religion",
+        "Formal"
+      ],
+      "DEF_EN":"A male member of a religious order, especially one who is not a priest; a friar or monk.",
+      "DEF_ZH":"宗教团体的男性成员，尤指修士或非神职人员的修道士。",
+      "SENT_EN":"Brother Thomas lives a simple life in the monastery.",
+      "SENT_ZH":"托马斯修士在修道院过着简朴的生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "monk",
+            "friar",
+            "cleric"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (organization)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Sociology",
+        "Formal"
+      ],
+      "DEF_EN":"A fellow member of an organization, society, or trade union.",
+      "DEF_ZH":"组织、社团、兄弟会或工会中的同伴或成员。",
+      "SENT_EN":"We must stand together, my brothers and sisters of the union.",
+      "SENT_ZH":"工会的兄弟姐妹们，我们必须团结一致。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fellow",
+            "associate",
+            "comrade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use, varies by context (from family to religious and organizational settings)"
+}

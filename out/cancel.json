@@ -1,0 +1,112 @@
+{
+  "WORD":"cancel",
+  "IPA":"/ˈkænsəl/",
+  "CONJUGATES":"canceled | cancelled | canceling | cancelling | cancels",
+  "ETYMOLOGY":"From Middle English cancellen, from Old French canceller, derived from Latin cancellāre 'to cross out, lattice', from cancellī 'crossbars, lattice'",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"cancel [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To decide that an arranged event, meeting, or agreement will not take place or continue.",
+      "DEF_ZH":"取消；撤销；废除（已安排的活动、会议或协议）。",
+      "SENT_EN":"The airline had to cancel hundreds of flights due to the storm.",
+      "SENT_ZH":"由于暴风雨，该航空公司不得不取消了数百次航班。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revoke",
+            "annul",
+            "call off",
+            "scrap"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "confirm",
+            "schedule",
+            "ratify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cancel [sth] out\ncancel [sth]",
+      "POS":"v + particle | vtr",
+      "POS_TIP":"verb + particle | transitive verb",
+      "TAGS":[
+        "technical",
+        "math",
+        "science"
+      ],
+      "DEF_EN":"To neutralize or negate the effect, value, or power of something else.",
+      "DEF_ZH":"抵消；使无效；中和。",
+      "SENT_EN":"The two opposing forces effectively cancel each other out.",
+      "SENT_ZH":"这两种对立的力量有效地相互抵消了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "neutralize",
+            "offset",
+            "balance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cancel [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "literal",
+        "archaic"
+      ],
+      "DEF_EN":"To mark a stamp, ticket, or check with lines or a perforated pattern to show that it has been used or is invalid.",
+      "DEF_ZH":"盖销；划掉；使作废（邮票、票据等）。",
+      "SENT_EN":"The postal worker canceled the stamp with a dark, inky mark.",
+      "SENT_ZH":"邮政工人用深色的墨迹盖销了邮票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deface",
+            "cross out",
+            "void"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cancel [sb]\ncancel [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "neologism",
+        "social media",
+        "slang"
+      ],
+      "DEF_EN":"To withdraw support for a public figure or company, often on social media, in response to their objectionable behavior; to effectively boycott.",
+      "DEF_ZH":"（因不良言行）抵制；在社交媒体上封杀；排斥。",
+      "SENT_EN":"After the scandal broke, the company was worried that consumers would cancel the brand entirely.",
+      "SENT_ZH":"丑闻爆发后，该公司担心消费者会完全抵制这个品牌。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cancel culture",
+            "boycott"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Common"
+}

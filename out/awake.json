@@ -1,0 +1,92 @@
+{
+  "WORD":"awake",
+  "IPA":"/əˈweɪk/",
+  "CONJUGATES":"awoke | awoken | awaking | awakes",
+  "ETYMOLOGY":"From Middle English awaken, from Old English awacan (verb, 'to wake up, arise') and awacian (verb, 'to become awake'), combining the prefix a- (denoting beginning or intensity) with wacan ('to wake').",
+  "SINCE":"Before 11th Century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is awake",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "state"
+      ],
+      "DEF_EN":"Not sleeping; having been roused from sleep.",
+      "DEF_ZH":"醒着的；没有入睡的。",
+      "SENT_EN":"The baby was still awake when I checked on him at midnight.",
+      "SENT_ZH":"我午夜查看时，那个婴儿仍然醒着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alert",
+            "conscious",
+            "waking"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "asleep",
+            "sleeping"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "awaken"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"awake to [sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective used with a preposition",
+      "TAGS":[
+        "figurative",
+        "mental state"
+      ],
+      "DEF_EN":"Fully conscious of or alert to a specific fact, danger, or situation.",
+      "DEF_ZH":"意识到（事实、危险或局势）；警觉的；敏感的。",
+      "SENT_EN":"The public is finally awake to the economic difficulties facing the nation.",
+      "SENT_ZH":"公众终于意识到国家面临的经济困难了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aware",
+            "cognizant",
+            "vigilant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] awake\nawake [sb]",
+      "POS":"v",
+      "POS_TIP":"verb (intransitive or transitive)",
+      "TAGS":[
+        "literary",
+        "formal"
+      ],
+      "DEF_EN":"To stop sleeping or cause someone to stop sleeping (often used interchangeably with 'wake' or 'awaken', but the simple present tense is less common).",
+      "DEF_ZH":"醒来；唤醒（常与 wake 或 awaken 互换使用，但现在时态不常用）。",
+      "SENT_EN":"He awoke to the sound of thunder during the storm.",
+      "SENT_ZH":"在暴风雨中，他被雷声吵醒了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wake",
+            "awaken",
+            "rouse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, suitable for all contexts."
+}

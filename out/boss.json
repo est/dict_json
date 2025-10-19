@@ -1,0 +1,82 @@
+{
+  "WORD":"boss",
+  "IPA":"/bɑːs/",
+  "CONJUGATES":"bosses (n pl) | bosses (v 3rd sg) | bossing (v pres p) | bossed (v past t/p)",
+  "ETYMOLOGY":"From Dutch baas 'master, foreman', which was adopted into English, particularly in North America, in the mid-17th century.",
+  "SINCE":"c. 1640s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person responsible for supervising or directing workers or an organization; a manager or superior.",
+      "DEF_ZH":"主管；上司；老板",
+      "SENT_EN":"My boss approved my request for annual leave.",
+      "SENT_ZH":"我的老板批准了我的年假申请。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manager",
+            "supervisor",
+            "employer",
+            "chief",
+            "director",
+            "head"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "employee",
+            "subordinate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"boss [sb] around / about",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive verb followed by an adverbial phrase",
+      "TAGS":[
+        "informal",
+        "pejorative"
+      ],
+      "DEF_EN":"To constantly give orders to people, often in a domineering, irritating, or unnecessary manner.",
+      "DEF_ZH":"发号施令；对...指手画脚 (常带有贬义)",
+      "SENT_EN":"Stop bossing me around; I know how to do my job!",
+      "SENT_ZH":"别再对我指手画脚了，我知道该怎么做我的工作！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dominate",
+            "dictate",
+            "order",
+            "micro-manage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "US",
+        "dated",
+        "political"
+      ],
+      "DEF_EN":"An influential local political leader or party organizer who controls the votes or operations of a particular area.",
+      "DEF_ZH":"（美国地方政治组织的）头目，党魁",
+      "SENT_EN":"The city boss ensured loyalty among his followers through patronage.",
+      "SENT_ZH":"这位城市党魁通过施惠确保了追随者的忠诚。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

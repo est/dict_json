@@ -1,0 +1,95 @@
+{
+  "WORD":"add",
+  "IPA":"/æd/",
+  "CONJUGATES":"adds | adding | added",
+  "ETYMOLOGY":"From Old French ajouter ('to join'), from Latin addere (ad- 'to' + dare 'to put, give').",
+  "SINCE":"Late Middle English (c. 1350)",
+  "MEANINGS":[
+    {
+      "PATTERN":"add [sth] [to sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "mathematics"
+      ],
+      "DEF_EN":"To join a number or quantity to another number or quantity so as to increase its size or amount; to perform the operation of addition.",
+      "DEF_ZH":"将一个数字或数量与另一个数字或数量相加，以增加其大小或总量；进行加法运算。",
+      "SENT_EN":"If you add three and four, you get seven.",
+      "SENT_ZH":"如果你将三和四相加，你会得到七。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sum",
+            "total",
+            "combine"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "subtract",
+            "deduct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"add [sth] [to sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"To incorporate, include, or mix something (an ingredient, item, or feature) to an existing group or whole.",
+      "DEF_ZH":"将某物（成分、项目或特征）纳入、包括或混入现有的群体或整体中。",
+      "SENT_EN":"Please add the sugar and butter to the mixing bowl.",
+      "SENT_ZH":"请将糖和黄油加入搅拌碗中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "include",
+            "insert",
+            "append",
+            "attach"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "remove",
+            "exclude",
+            "omit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"add [sth] (often followed by a dependent clause)",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "speech",
+        "writing"
+      ],
+      "DEF_EN":"To append a remark, statement, or comment; to say or write something further, often as an afterthought or supplement.",
+      "DEF_ZH":"附加评论、陈述或意见；进一步说或写，通常作为事后想法或补充。",
+      "SENT_EN":"He finished his speech and then added that he was looking forward to retirement.",
+      "SENT_ZH":"他结束了演讲，然后补充说他期待着退休。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "state further",
+            "remark",
+            "mention"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

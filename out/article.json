@@ -1,0 +1,134 @@
+{
+  "WORD":"article",
+  "IPA":"/ˈɑːrtɪkl/",
+  "CONJUGATES":"articles | articled | articling",
+  "ETYMOLOGY":"From Middle English, from Old French article, from Latin articulus ('small joint, division, part, member'), diminutive of artus ('joint').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"article (about [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "publishing",
+        "writing"
+      ],
+      "DEF_EN":"A piece of non-fiction prose, often appearing in a publication such as a newspaper, magazine, or journal.",
+      "DEF_ZH":"一篇非虚构的文章或报道，常出现在报纸、杂志或期刊等出版物中。",
+      "SENT_EN":"The investigative journalist published a controversial article about local corruption.",
+      "SENT_ZH":"那位调查记者发表了一篇关于地方腐败的争议性文章。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "report",
+            "essay",
+            "feature"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "editorial",
+            "column"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"article (of [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "object",
+        "formal"
+      ],
+      "DEF_EN":"A specific item or object, typically one of a class or series.",
+      "DEF_ZH":"物品；项目；一件东西，通常指某一类别或系列中的一个。",
+      "SENT_EN":"Several articles of clothing were salvaged from the burnt house.",
+      "SENT_ZH":"有几件衣物从被烧毁的房屋中抢救了出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "item",
+            "object",
+            "commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the article\nan article",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "grammar",
+        "technical"
+      ],
+      "DEF_EN":"Any of the words 'a', 'an', or 'the', used to introduce a noun and specify its definiteness.",
+      "DEF_ZH":"冠词（如 a, an, the），用于限定或指示名词的确定性。",
+      "SENT_EN":"The indefinite article 'an' is used before words that start with a vowel sound.",
+      "SENT_ZH":"不定冠词 'an' 用在以元音开头的单词前面。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "definite",
+            "indefinite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Article [number]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "legal",
+        "formal",
+        "bureaucratic"
+      ],
+      "DEF_EN":"A separate, distinct section or clause, typically one of a series, in a legal document, constitution, or contract.",
+      "DEF_ZH":"（法律文件、条约或合同的）条款；章节。",
+      "SENT_EN":"Article Three of the Constitution deals with the judiciary.",
+      "SENT_ZH":"宪法第三条涉及司法机构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clause",
+            "section",
+            "provision"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"article [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "legal",
+        "obsolete",
+        "specialized"
+      ],
+      "DEF_EN":"To bind someone by articles of apprenticeship or agreement.",
+      "DEF_ZH":"以学徒合同或协议约束某人。",
+      "SENT_EN":"He was formally articled to a law firm for two years to complete his training.",
+      "SENT_ZH":"他被正式与一家律师事务所签订了两年的学徒合同来完成他的培训。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indenture",
+            "contract"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Formal (depending on the specific meaning)"
+}

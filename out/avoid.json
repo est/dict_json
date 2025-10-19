@@ -1,0 +1,95 @@
+{
+  "WORD":"avoid",
+  "IPA":"/əˈvɔɪd/",
+  "CONJUGATES":"avoids | avoiding | avoided",
+  "ETYMOLOGY":"From Anglo-Norman and Old French evuider 'to empty, clear out, evacuate', formed from e- 'out' + vuider 'to empty'. Sense shifted in Middle English to 'to keep away from'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"avoid [sth]\navoid [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To keep away from or stop oneself from doing or experiencing something.",
+      "DEF_ZH":"避免（某事或某人）；避开；防止。",
+      "SENT_EN":"They managed to avoid the traffic by taking a different route.",
+      "SENT_ZH":"他们通过走不同的路线成功避开了交通堵塞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shun",
+            "evade",
+            "steer clear of",
+            "keep away from"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "seek",
+            "face",
+            "encounter",
+            "confront"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "avoidable",
+            "avoidance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"avoid [sth]\navoid [doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To prevent the occurrence of something bad, dangerous, or undesirable.",
+      "DEF_ZH":"预防；排除（不愉快或危险的事情）。",
+      "SENT_EN":"The company took measures to avoid a data breach.",
+      "SENT_ZH":"该公司采取了措施来避免数据泄露。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prevent",
+            "preclude",
+            "avert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"avoid (legal/official context)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "archaic"
+      ],
+      "DEF_EN":"To make a contract, agreement, etc., legally void or null; to cancel.",
+      "DEF_ZH":"（法律上）使无效；取消（合约等）。",
+      "SENT_EN":"The court ruled to avoid the fraudulent transaction.",
+      "SENT_ZH":"法院裁定废止该欺诈性交易。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nullify",
+            "invalidate",
+            "void"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in all contexts."
+}

@@ -1,0 +1,133 @@
+{
+  "WORD":"after",
+  "IPA":"/'æftər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English æfter ('subsequent to, behind'), related to 'of' and 'off', originally comparative form meaning 'more off' or 'further away'.",
+  "SINCE":"Old English (OE)",
+  "MEANINGS":[
+    {
+      "PATTERN":"after [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "core word",
+        "very common",
+        "time"
+      ],
+      "DEF_EN":"Following in time; subsequent to.",
+      "DEF_ZH":"在…之后 (指时间上紧随某个事件或时刻)。",
+      "SENT_EN":"I will call you after the meeting ends.",
+      "SENT_ZH":"会议结束后我会给你打电话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "following",
+            "subsequent to"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "before",
+            "prior to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"after [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction",
+      "TAGS":[
+        "common",
+        "subordinating"
+      ],
+      "DEF_EN":"Following the time that a specified event or period has ended (introducing a subordinate clause).",
+      "DEF_ZH":"在...之后 (连接从句，表示时间上的后继)。",
+      "SENT_EN":"After she had packed her bags, she called a taxi.",
+      "SENT_ZH":"在她收拾好行李后，她叫了一辆出租车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "following that"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"do [sth] after",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Subsequently; later in time, without a following object.",
+      "DEF_ZH":"以后；随后 (作状语，不带宾语)。",
+      "SENT_EN":"The concert started at 8 PM, and we arrived shortly after.",
+      "SENT_ZH":"音乐会晚上八点开始，我们不久后就到了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "later",
+            "subsequently",
+            "afterwards"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "before"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"after [sb/sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "sequence",
+        "position"
+      ],
+      "DEF_EN":"Following in order, sequence, or position.",
+      "DEF_ZH":"在...之后 (指顺序或位置上的排列)。",
+      "SENT_EN":"In the alphabet, 'B' comes after 'A'.",
+      "SENT_ZH":"在字母表中，'B' 在 'A' 之后。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "behind",
+            "following"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"go after [sb/sth]\nnamed after [sb]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "idiomatic",
+        "purpose"
+      ],
+      "DEF_EN":"In pursuit or search of; or modeled upon (used idiomatically, e.g., 'named after').",
+      "DEF_ZH":"为了追逐、追捕；以…为模式或榜样命名。",
+      "SENT_EN":"The dog was running fast after the rabbit.",
+      "SENT_ZH":"那只狗在快速地追逐兔子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "in pursuit of",
+            "following"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

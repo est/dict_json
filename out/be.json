@@ -1,0 +1,77 @@
+{
+  "WORD":"be",
+  "IPA":"/biː/",
+  "CONJUGATES":"am | is | are | was | were | being | been",
+  "ETYMOLOGY":"From Old English bēon (to be, exist), reinforced by Old English wesan (to be, remain). Ultimately derived from Proto-Germanic *beuną (to be, exist) and Proto-Indo-European *bʰuH- (to become, exist).",
+  "SINCE":"Pre-7th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"be [sth]\nbe [adj] | be [adv phrase]",
+      "POS":"v. copula",
+      "POS_TIP":"linking verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "grammar"
+      ],
+      "DEF_EN":"Used to link the subject with a predicate adjective, noun, or phrase, expressing identity, quality, or condition.",
+      "DEF_ZH":"是；是某人/物；处于某种状态或具有某种特性。",
+      "SENT_EN":"The sky is blue, and he is a doctor.",
+      "SENT_ZH":"天空是蓝色的，他是一名医生。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"be [doing sth]\nbe [done]",
+      "POS":"v. auxiliary",
+      "POS_TIP":"helping verb",
+      "TAGS":[
+        "core word",
+        "grammar",
+        "tenses"
+      ],
+      "DEF_EN":"Used with the present participle (-ing) to form continuous tenses, or with the past participle to form the passive voice.",
+      "DEF_ZH":"（用于构成进行时或被动语态的）助动词。",
+      "SENT_EN":"She is reading a book, and the project was completed last week.",
+      "SENT_ZH":"她正在读书，这个项目是上周完成的。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"be [somewhere]",
+      "POS":"v. intransitive",
+      "POS_TIP":"verb (no direct object)",
+      "TAGS":[
+        "common",
+        "existence"
+      ],
+      "DEF_EN":"To exist, occur, or take place; to occupy a position or location.",
+      "DEF_ZH":"存在；发生；位于。",
+      "SENT_EN":"The meeting will be tomorrow; my keys are on the table.",
+      "SENT_ZH":"会议将在明天举行；我的钥匙在桌子上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exist",
+            "occur",
+            "remain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be to [do sth]",
+      "POS":"v. modal use",
+      "POS_TIP":"indicates requirement or future arrangement",
+      "TAGS":[
+        "formal",
+        "scheduled"
+      ],
+      "DEF_EN":"Used to express an arrangement, command, or necessity for the future.",
+      "DEF_ZH":"（表示计划、安排或义务）将要；必须；应该。",
+      "SENT_EN":"They are to meet the manager at 3 PM.",
+      "SENT_ZH":"他们定于下午 3 点会见经理。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

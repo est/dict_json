@@ -1,0 +1,96 @@
+{
+  "WORD":"agreement",
+  "IPA":"/əˈɡriːmənt/",
+  "CONJUGATES":"agreements (pl.)",
+  "ETYMOLOGY":"From Middle English *agréement*, formed from the verb *agree* (via Old French *agreer*, 'to please, consent') and the suffix *-ment*.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[legal/business] agreement [between sb/sth]",
+      "POS":"nc",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "formal",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"A mutual understanding, contract, or arrangement, often legally binding, established between two or more parties.",
+      "DEF_ZH":"双方或多方之间达成的相互理解、合同或安排，通常具有法律约束力。",
+      "SENT_EN":"The two nations signed a trade agreement to reduce tariffs.",
+      "SENT_ZH":"两国签署了一项贸易协定以减少关税。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contract",
+            "deal",
+            "treaty",
+            "pact",
+            "covenant"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "memorandum of understanding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"agreement [with sb/sth]\nin agreement",
+      "POS":"nu",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The state of having the same opinion or sharing the same views; harmony of mind or feeling.",
+      "DEF_ZH":"意见一致或持有相同观点的状态；思想或情感上的和谐。",
+      "SENT_EN":"There was general agreement among the panelists that the policy needed modification.",
+      "SENT_ZH":"小组成员普遍同意该政策需要修改。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consensus",
+            "accord",
+            "concurrence",
+            "unity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disagreement",
+            "discord"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grammatical agreement [with sth]",
+      "POS":"nu",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "specialized",
+        "linguistic"
+      ],
+      "DEF_EN":"Correspondence in form (such as number, person, or gender) between related words in a sentence.",
+      "DEF_ZH":"句中相关词语在形式上（如数、人称或性别）的一致性。",
+      "SENT_EN":"The rule mandates subject-verb agreement in formal writing.",
+      "SENT_ZH":"该规则要求正式写作中必须遵守主谓一致。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concord"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, business, and legal contexts."
+}

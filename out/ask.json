@@ -1,0 +1,101 @@
+{
+  "WORD":"ask",
+  "IPA":"/æsk/",
+  "CONJUGATES":"asks | asking | asked",
+  "ETYMOLOGY":"From Old English a(x)sian, āscian, from Proto-Germanic *aiskōną ('to seek, demand').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ask [sb] [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put a question to someone; to inquire about something.",
+      "DEF_ZH":"询问；提问；打听。",
+      "SENT_EN":"If you don't understand the instructions, please ask.",
+      "SENT_ZH":"如果你不理解说明，请提问。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inquire",
+            "question",
+            "interrogate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ask [sb] for [sth]\nask [sb] to [do sth]",
+      "POS":"vtr + prep | vtr + inf",
+      "POS_TIP":"transitive verb + preposition | transitive verb + infinitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To request or solicit something, such as a favour, service, or object.",
+      "DEF_ZH":"请求；要求；央求。",
+      "SENT_EN":"We had to ask the waiter for the bill three times.",
+      "SENT_ZH":"我们不得不要求服务员给我们账单三次。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "request",
+            "demand",
+            "solicit",
+            "plead"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ask [sb] out\nask [sb] over",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb/particle (phrasal verb)",
+      "TAGS":[
+        "idiomatic",
+        "social"
+      ],
+      "DEF_EN":"To invite someone on a date or to one's home.",
+      "DEF_ZH":"邀请（某人，通常指约会或到家中做客）。",
+      "SENT_EN":"He finally gathered the courage to ask his coworker out.",
+      "SENT_ZH":"他终于鼓起勇气约他的同事出去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invite",
+            "date"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ask [price] for [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "business",
+        "formal"
+      ],
+      "DEF_EN":"To state the price required or expected for something offered for sale.",
+      "DEF_ZH":"要价；开价。",
+      "SENT_EN":"They are asking $500,000 for that small apartment.",
+      "SENT_ZH":"他们正在为那套小公寓要价五十万美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "demand"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, appropriate in all contexts."
+}

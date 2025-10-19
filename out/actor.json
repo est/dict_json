@@ -1,0 +1,67 @@
+{
+  "WORD":"actor",
+  "IPA":"/'æktər/",
+  "CONJUGATES":"actors | actress",
+  "ETYMOLOGY":"From Latin āctor ('doer, performer'), agent noun of agere ('to do, drive, perform'). Via Old French acteur.",
+  "SINCE":"Late 14th century (general sense); Mid 16th century (theatrical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is an actor",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession",
+        "common"
+      ],
+      "DEF_EN":"A person whose profession is to play a role in a play, movie, or television show.",
+      "DEF_ZH":"扮演戏剧、电影或电视节目中角色的专业人士。",
+      "SENT_EN":"The lead actor received a standing ovation for his performance.",
+      "SENT_ZH":"这位主演因其表演获得了全场起立鼓掌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "performer",
+            "player",
+            "thespian"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "actress",
+            "director",
+            "star"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"actor [in sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "agent",
+        "academic"
+      ],
+      "DEF_EN":"A participant or agent involved in an action, event, or complex situation, especially in politics or sociology.",
+      "DEF_ZH":"参与行动、事件或复杂情境的参与者或主体（尤用于政治或社会学分析）。",
+      "SENT_EN":"Non-state actors often influence diplomatic negotiations.",
+      "SENT_ZH":"非国家主体经常影响外交谈判。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "agent",
+            "participant",
+            "party",
+            "player"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral"
+}

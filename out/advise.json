@@ -1,0 +1,85 @@
+{
+  "WORD":"advise",
+  "IPA":"/ədˈvaɪz/",
+  "CONJUGATES":"advises | advising | advised",
+  "ETYMOLOGY":"From Middle English, derived from Old French aviser ('to look at, consider'), ultimately from Vulgar Latin *advisare (ad- 'to' + visare, intensive form of videre 'to see').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"advise [sb] to [do sth]\nadvise [sb] (on [sth])",
+      "POS":"vtr | vitr",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To offer suggestions about the best course of action to someone; to give counsel.",
+      "DEF_ZH":"向某人提供关于最佳行动方案的建议或忠告。",
+      "SENT_EN":"The doctor advised me to get more rest and drink water.",
+      "SENT_ZH":"医生建议我多休息、多喝水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "counsel",
+            "recommend",
+            "suggest",
+            "guide"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "advice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"advise [sb] of [sth]\nadvise [sb] that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"To inform or notify someone, usually officially, of facts or circumstances.",
+      "DEF_ZH":"（通常指正式地）告知或通知某人事实或情况。",
+      "SENT_EN":"We were advised of the upcoming regulatory changes via memo.",
+      "SENT_ZH":"我们通过备忘录被告知了即将到来的监管变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notify",
+            "inform",
+            "apprise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"advise with [sb]",
+      "POS":"vitr",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "rare",
+        "old usage"
+      ],
+      "DEF_EN":"To consult or confer with someone else.",
+      "DEF_ZH":"与他人商议或协商（旧用法）。",
+      "SENT_EN":"He felt the need to advise with his colleagues before signing the treaty.",
+      "SENT_ZH":"他觉得在签署条约前有必要与同事们商议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consult",
+            "confer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in formal or professional contexts (Meanings 1 and 2)."
+}

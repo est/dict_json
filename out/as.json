@@ -1,0 +1,117 @@
+{
+  "WORD":"as",
+  "IPA":"/æz/, /əz/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English alswā ('also, just as, equally'), a contraction of eall ('all') + swā ('so').",
+  "SINCE":"c. 8th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[clause] as [clause/phrase]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: connects words, phrases, or clauses",
+      "TAGS":[
+        "core word",
+        "comparison"
+      ],
+      "DEF_EN":"Used to indicate that something happens in the same way or manner as something else; in the way that.",
+      "DEF_ZH":"像...一样；以...的方式；如同。",
+      "SENT_EN":"Do as you were told and you will succeed.",
+      "SENT_ZH":"按照别人告诉你的去做，你就会成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "like"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[clause] as [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: connects words, phrases, or clauses",
+      "TAGS":[
+        "core word",
+        "causal"
+      ],
+      "DEF_EN":"Used to give the reason for something; because or since.",
+      "DEF_ZH":"因为；由于。",
+      "SENT_EN":"As the roads were closed due to snow, we postponed the trip.",
+      "SENT_ZH":"由于道路因下雪关闭了，我们推迟了旅行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "since",
+            "because"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[clause] as [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: connects words, phrases, or clauses",
+      "TAGS":[
+        "core word",
+        "temporal"
+      ],
+      "DEF_EN":"Used to indicate that something happens while or at the same time as something else.",
+      "DEF_ZH":"当...时；在...期间。",
+      "SENT_EN":"He sang quietly as he worked.",
+      "SENT_ZH":"他一边工作一边轻轻地唱歌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "while",
+            "when"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] [sth] as [role/status]",
+      "POS":"prep",
+      "POS_TIP":"preposition: links nouns to other words",
+      "TAGS":[
+        "core word",
+        "function"
+      ],
+      "DEF_EN":"In the role, capacity, or function of.",
+      "DEF_ZH":"作为；以...的身份（或角色）。",
+      "SENT_EN":"She was hired as a project manager.",
+      "SENT_ZH":"她被聘为项目经理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "in the capacity of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"as [adj/adv] as [sth]",
+      "POS":"adv",
+      "POS_TIP":"adverb: modifies a verb, adjective, or other adverb",
+      "TAGS":[
+        "core word",
+        "comparison"
+      ],
+      "DEF_EN":"Used before an adjective or adverb to indicate equality or similarity in extent.",
+      "DEF_ZH":"同样地；和...一样地。",
+      "SENT_EN":"The dog runs as fast as the cat.",
+      "SENT_ZH":"这只狗跑得和猫一样快。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equally"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English usage."
+}

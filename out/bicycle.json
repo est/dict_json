@@ -1,0 +1,61 @@
+{
+  "WORD":"bicycle",
+  "IPA":"/ˈbaɪˌsɪkəl/",
+  "CONJUGATES":"bicycles | bicycling | bicycled",
+  "ETYMOLOGY":"From bi- (meaning 'two') + cycle (from Greek kyklos 'circle, wheel'). Coined in the late 19th century.",
+  "SINCE":"c. 1868",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A two-wheeled vehicle that is propelled by pedals attached to the front wheel or to a sprocket wheel that drives the rear wheel via a chain.",
+      "DEF_ZH":"一种有两个轮子的交通工具，通过踏板连接到前轮或通过链条驱动后轮的链轮来推动。",
+      "SENT_EN":"He rode his bicycle to work every morning.",
+      "SENT_ZH":"他每天早上骑自行车去上班。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bike",
+            "cycle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tricycle",
+            "unicycle",
+            "motorcycle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [v] [sth]\n[sb] [v]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To ride a bicycle.",
+      "DEF_ZH":"骑自行车。",
+      "SENT_EN":"They bicycled through the park during the afternoon.",
+      "SENT_ZH":"他们下午骑自行车穿过了公园。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cycle",
+            "bike"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

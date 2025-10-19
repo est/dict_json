@@ -1,0 +1,130 @@
+{
+  "WORD":"BRUSH",
+  "IPA":"/brʌʃ/",
+  "CONJUGATES":"brushes | brushing | brushed (v) | brushes (n)",
+  "ETYMOLOGY":"From Middle English brusche (noun), influenced by Old French broisse (or brosse), possibly derived from Late Latin brūscia, meaning 'heath, brushwood'.",
+  "SINCE":"Late 13th Century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "tool",
+        "physical object"
+      ],
+      "DEF_EN":"An implement with bristles, wire, or other filaments, set into a handle, used for cleaning, smoothing, or applying liquids or powders.",
+      "DEF_ZH":"一种工具，带有刷毛、金属丝或其他细丝，装在手柄上，用于清洁、平滑或涂抹液体或粉末。",
+      "SENT_EN":"Don't forget to pack your hair brush and tooth brush.",
+      "SENT_ZH":"别忘了带上你的发刷和牙刷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "broom",
+            "mop",
+            "applicator",
+            "paintbrush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brush [sth]\nbrush [sth] off/down",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To clean, smooth, or apply something using a brush; to remove dust or dirt by sweeping lightly.",
+      "DEF_ZH":"使用刷子清洁、抚平或涂抹某物；轻轻扫除灰尘或污垢。",
+      "SENT_EN":"He quickly brushed the crumbs off the table.",
+      "SENT_ZH":"他迅速地把桌上的碎屑刷掉了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sweep",
+            "groom",
+            "cleanse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brush against [sb/sth]\na brush",
+      "POS":"vintr + prep | noun",
+      "POS_TIP":"intransitive verb + preposition | noun",
+      "TAGS":[
+        "common",
+        "contact",
+        "subtle action"
+      ],
+      "DEF_EN":"To touch lightly and briefly, often accidentally, while passing by.",
+      "DEF_ZH":"在经过时，轻微而短暂地接触或擦过，通常是无意的。",
+      "SENT_EN":"I felt a slight brush against my shoulder in the crowded hallway.",
+      "SENT_ZH":"在拥挤的走廊里，我感觉有人轻轻地擦了一下我的肩膀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graze",
+            "skim",
+            "touch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] brush",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun, often used collectively",
+      "TAGS":[
+        "nature",
+        "collective noun",
+        "geography"
+      ],
+      "DEF_EN":"Undergrowth, shrubs, or small trees collectively; dense, low-growing vegetation.",
+      "DEF_ZH":"灌木丛、矮小的树木或低矮的植被的总称；茂密、低矮生长的植物。",
+      "SENT_EN":"They got lost trying to navigate through the thick desert brush.",
+      "SENT_ZH":"他们试图穿过厚厚的沙漠灌木丛时迷路了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "undergrowth",
+            "thicket",
+            "scrub"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brush [sth] aside\nbrush [sth] off",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb (phrasal verb)",
+      "TAGS":[
+        "idiomatic",
+        "phrasal verb"
+      ],
+      "DEF_EN":"To ignore or dismiss something, typically an objection, criticism, or problem, as trivial or unimportant.",
+      "DEF_ZH":"轻视或不理睬某事，通常指驳回批评、反对或问题，认为其无关紧要。",
+      "SENT_EN":"The CEO brushed aside the reporters' questions about the scandal.",
+      "SENT_ZH":"首席执行官对记者关于丑闻的提问不屑一顾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ignore",
+            "disregard",
+            "shrug off",
+            "dismiss"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,78 @@
+{
+  "WORD":"boat",
+  "IPA":"/boʊt/",
+  "CONJUGATES":"boats (n. pl.) | boated | boating | boats (v.)",
+  "ETYMOLOGY":"From Old English bāt, related to Old Norse bátr. Ultimately Germanic in origin.",
+  "SINCE":"Before 900 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] boat",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small vessel for travel on water, typically smaller than a ship, propelled by sails, oars, or an engine.",
+      "DEF_ZH":"一种用于水上旅行的小型交通工具，通常比船（ship）小，由帆、桨或发动机驱动。",
+      "SENT_EN":"We hired a fishing boat for the day trip.",
+      "SENT_ZH":"我们租了一艘渔船进行一日游。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vessel",
+            "craft",
+            "dinghy",
+            "skiff"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ship",
+            "yacht",
+            "canoe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"boat [v]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "activity"
+      ],
+      "DEF_EN":"To travel or go by boat, especially for recreation.",
+      "DEF_ZH":"乘船旅行或移动，尤指作为娱乐或体育运动（划船）。",
+      "SENT_EN":"They enjoy boating on the lake every summer.",
+      "SENT_ZH":"每年夏天他们都喜欢在湖上划船。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sail",
+            "row",
+            "cruise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"boat [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"To carry or transport in a boat.",
+      "DEF_ZH":"用船运载或运输（某物）。",
+      "SENT_EN":"The villagers boated the goods across the river.",
+      "SENT_ZH":"村民们用船把货物运过了河。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

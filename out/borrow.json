@@ -1,0 +1,85 @@
+{
+  "WORD":"borrow",
+  "IPA":"/ˈbɒrəʊ/",
+  "CONJUGATES":"borrows | borrowing | borrowed",
+  "ETYMOLOGY":"From Middle English borghen, from Old English borgian (to pledge, guarantee, lend), related to borh (pledge, security). The shift in meaning to 'receive a loan' occurred in the late Middle Ages.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"borrow [sth] (from [sb]/[sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To take and use something belonging to someone else temporarily, with the intention of returning it.",
+      "DEF_ZH":"借入；借用 (从某人处获得物品或金钱，并承诺归还)",
+      "SENT_EN":"Can I borrow your pen for a moment?",
+      "SENT_ZH":"我能借用你的钢笔一会儿吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "take out a loan",
+            "request a loan"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lend",
+            "loan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"borrow [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "linguistics",
+        "academic"
+      ],
+      "DEF_EN":"To adopt a word, idea, method, or style from another source, language, or culture.",
+      "DEF_ZH":"借鉴；挪用 (思想、词汇或风格)",
+      "SENT_EN":"The designer borrowed elements from traditional Japanese architecture.",
+      "SENT_ZH":"这位设计师借鉴了传统的日本建筑元素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adopt",
+            "appropriate",
+            "take on"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"borrow",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"(In subtraction) To transfer a unit value (usually ten) from the next higher column to a lower column to allow the subtraction to proceed.",
+      "DEF_ZH":"(数学减法中) 借位",
+      "SENT_EN":"You have to borrow from the tens column to subtract 7 from 3.",
+      "SENT_ZH":"你需要从十位借位才能用3减去7。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "carry"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, suitable for all contexts."
+}

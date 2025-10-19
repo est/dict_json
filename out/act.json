@@ -1,0 +1,132 @@
+{
+  "WORD":"act",
+  "IPA":"/ækt/",
+  "CONJUGATES":"acts | acting | acted",
+  "ETYMOLOGY":"From Latin actus ('a doing, a driving'), past participle of agere ('to do, to drive, to lead'). Came into Middle English via Old French acte.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"act [v]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take action; perform a deed or function.",
+      "DEF_ZH":"采取行动；履行职责。",
+      "SENT_EN":"We must act quickly to solve the immediate problem.",
+      "SENT_ZH":"我们必须迅速采取行动来解决眼前的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "do",
+            "perform",
+            "take action"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stop",
+            "cease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"act [v] [a role/play]",
+      "POS":"vt | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "theater"
+      ],
+      "DEF_EN":"To perform a role in a play, film, or broadcast.",
+      "DEF_ZH":"扮演（戏剧、电影等中的）角色。",
+      "SENT_EN":"He has always wanted to act on Broadway.",
+      "SENT_ZH":"他一直想在百老汇表演。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perform",
+            "play",
+            "portray"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an act [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thing done; a deed or action.",
+      "DEF_ZH":"行为；行动；事迹。",
+      "SENT_EN":"It was an unselfish act of generosity.",
+      "SENT_ZH":"那是一种无私的慷慨行为。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deed",
+            "action",
+            "feat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an Act [n] (often capitalized)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "law",
+        "formal"
+      ],
+      "DEF_EN":"A written statute or law passed by a legislative body.",
+      "DEF_ZH":"法案；法令。",
+      "SENT_EN":"Congress passed the new Act last week.",
+      "SENT_ZH":"国会上周通过了这项新法案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "statute",
+            "bill",
+            "law"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Act [n] (often capitalized)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "theater",
+        "arts"
+      ],
+      "DEF_EN":"One of the main divisions of a play, opera, or ballet.",
+      "DEF_ZH":"（戏剧、歌剧等的）一幕。",
+      "SENT_EN":"The audience cheered after the final scene of the third Act.",
+      "SENT_ZH":"在第三幕的最后一景结束后，观众们欢呼起来。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "scene",
+            "drama",
+            "play"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in legal and theatrical contexts."
+}

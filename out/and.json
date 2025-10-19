@@ -1,0 +1,97 @@
+{
+  "WORD":"and",
+  "IPA":"/ænd/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English and, ultimately from Proto-Germanic *andi.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[X] and [Y]",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences or to coordinate words in the same clause (coordinating conjunction)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to connect words, phrases, or clauses that are to be taken jointly, typically implying addition.",
+      "DEF_ZH":"用于连接词语、短语或从句，表示共同或相加；和，与。",
+      "SENT_EN":"She bought apples and oranges at the market.",
+      "SENT_ZH":"她在市场上买了苹果和橘子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plus",
+            "in addition to"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "or",
+            "but"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[Action 1], and [Action 2/Result]",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences or to coordinate words in the same clause (coordinating conjunction)",
+      "TAGS":[
+        "common",
+        "sequence"
+      ],
+      "DEF_EN":"Used to introduce a consequence, result, or subsequent action.",
+      "DEF_ZH":"用于表示随后发生的事情或结果；然后，接着。",
+      "SENT_EN":"Work hard, and you will succeed.",
+      "SENT_ZH":"努力工作，你就会成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "then",
+            "as a result"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[X] and [Y] (where X and Y are often numbers or repeated words)",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences or to coordinate words in the same clause (coordinating conjunction)",
+      "TAGS":[
+        "emphasis",
+        "iteration"
+      ],
+      "DEF_EN":"Used between identical or similar words to express continuation, repetition, or great quantity.",
+      "DEF_ZH":"用于两个重复的词之间，表示强调、持续或数量巨大。",
+      "SENT_EN":"There were boxes and boxes stacked in the basement.",
+      "SENT_ZH":"地下室里堆着一箱又一箱的东西。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "many",
+            "a lot of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[Spoken statement/question]",
+      "POS":"particle",
+      "POS_TIP":"A small function word, often uninflected, that does not fit easily into standard grammatical categories",
+      "TAGS":[
+        "colloquial",
+        "interjection"
+      ],
+      "DEF_EN":"Used colloquially at the start of a sentence to introduce an auxiliary comment or question, often implying impatience or a request for clarification ('and what').",
+      "DEF_ZH":"（口语）用于句子开头，引入辅助性评论或疑问，常表达不耐烦或要求说明。",
+      "SENT_EN":"And what do you think you're doing?",
+      "SENT_ZH":"那么，你觉得自己正在做什么呢？",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Universal, core English vocabulary."
+}

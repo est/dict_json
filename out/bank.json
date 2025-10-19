@@ -1,0 +1,135 @@
+{
+  "WORD":"bank",
+  "IPA":"/bæŋk/",
+  "CONJUGATES":"banks | banking | banked",
+  "ETYMOLOGY":"Two main roots. 1. Financial: From Middle English banke, from Old Italian banca ('bench, money-changer's table'). 2. Geographic: From Middle English banke, from Old Norse banke ('sandbank, shoal').",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [bank]\n[commercial] [bank]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance"
+      ],
+      "DEF_EN":"A financial institution licensed to receive deposits and make loans, often dealing in financial transactions and currency exchange.",
+      "DEF_ZH":"经许可接受存款和发放贷款的金融机构，通常处理金融交易和货币兑换。",
+      "SENT_EN":"I need to visit the bank before it closes this afternoon.",
+      "SENT_ZH":"我需要在今天下午银行关门前去一趟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "financial institution",
+            "credit union",
+            "lender"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "account",
+            "deposit",
+            "teller",
+            "mortgage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the [river] [bank]\n[bank] [of] [earth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography"
+      ],
+      "DEF_EN":"The slope or ground adjoining a body of water, especially a river or lake; also, a raised area of ground.",
+      "DEF_ZH":"与水体（尤其是河流或湖泊）相邻的斜坡或地面；也指一块隆起的地面。",
+      "SENT_EN":"We picnicked on the grassy bank of the Thames.",
+      "SENT_ZH":"我们在泰晤士河的草坡上野餐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shore",
+            "riverbank",
+            "embankment",
+            "levee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [bank] [sth]\n[sb] [bank] [at] [a location]",
+      "POS":"v. tr. | v. intr.",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To deposit money or conduct business with a bank.",
+      "DEF_ZH":"在银行存款或进行银行业务。",
+      "SENT_EN":"Most people bank their paychecks digitally now.",
+      "SENT_ZH":"现在大多数人都是通过数字方式将工资存入银行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deposit",
+            "save",
+            "transact"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an aircraft] [bank] [sharply]\n[bank] [the plane]",
+      "POS":"v. intr. | v. tr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "aviation",
+        "movement"
+      ],
+      "DEF_EN":"To incline or cause to incline laterally in turning, especially an aircraft or vehicle.",
+      "DEF_ZH":"（尤指飞机或车辆）转弯时横向倾斜或使之倾斜。",
+      "SENT_EN":"The small fighter jet banked hard right to avoid the missile.",
+      "SENT_ZH":"那架小型战斗机向右急转倾斜以避开导弹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tilt",
+            "lean",
+            "list"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[blood] [bank]\n[data] [bank]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "storage"
+      ],
+      "DEF_EN":"A storage place or reserve of a resource (such as blood or data) kept available for immediate use.",
+      "DEF_ZH":"储存某种资源（如血液或数据）以备随时使用的场所或储备。",
+      "SENT_EN":"The facility maintains a gene bank for endangered plant species.",
+      "SENT_ZH":"该设施维护着一个濒危植物物种的基因库。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reserve",
+            "store",
+            "depot"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across all registers, depending on context (finance, geography, aviation)."
+}

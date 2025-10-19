@@ -1,0 +1,78 @@
+{
+  "WORD":"candle",
+  "IPA":"/ˈkændl/",
+  "CONJUGATES":"candles (pl.) | candled (pt./pp.) | candling (pres. p.)",
+  "ETYMOLOGY":"From Middle English, from Old English candel, from Latin candēla 'light, torch', derived from candēre 'to shine, be white hot'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (for light or scent)",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A stick or cylinder of wax or tallow with a central wick which is set alight to produce light or scent.",
+      "DEF_ZH":"一种由蜡或动物脂肪制成的棒状物或圆柱体，内有中央灯芯，点燃时用于照明或散发香味。",
+      "SENT_EN":"We lit a scented candle to relax in the bath.",
+      "SENT_ZH":"我们在浴缸里点了一支香薰蜡烛来放松。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "wick",
+            "tallow",
+            "lamp",
+            "lantern"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"candle [sth] (an egg)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "agriculture"
+      ],
+      "DEF_EN":"To examine an egg or similar object by holding it up to a light source to inspect its interior quality or development.",
+      "DEF_ZH":"将（如鸡蛋）举到光源前检查其内部质量或发育情况。",
+      "SENT_EN":"The poultry farmer candled the eggs to ensure they were fertile before incubation.",
+      "SENT_ZH":"这位家禽饲养员在孵化前检查了鸡蛋，以确保它们是受精卵。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inspect",
+            "grade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(unit of measurement, usually historical)",
+      "POS":"n.",
+      "POS_TIP":"noun (countable/uncountable)",
+      "TAGS":[
+        "historical",
+        "measurement"
+      ],
+      "DEF_EN":"An archaic unit of luminous intensity, superseded by the candela.",
+      "DEF_ZH":"一种已过时的发光强度单位，已被“坎德拉”取代。",
+      "SENT_EN":"The lamp gave off approximately 16 candles of light.",
+      "SENT_ZH":"这盏灯发出的光强度约为 16 坎德拉（旧称）。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "candela",
+            "lumen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

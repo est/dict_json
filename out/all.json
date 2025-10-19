@@ -1,0 +1,100 @@
+{
+  "WORD":"all",
+  "IPA":"/ɔːl/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English eall, from Proto-Germanic *allaz, meaning 'entire, whole'.",
+  "SINCE":"Pre-900 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"all [the/possessive/noun] [sth]",
+      "POS":"det | adj",
+      "POS_TIP":"Determiner | Adjective",
+      "TAGS":[
+        "core word",
+        "very common"
+      ],
+      "DEF_EN":"The whole, entire, or total amount or extent of; every single one of.",
+      "DEF_ZH":"所有的，全部的；一切的；每一个。",
+      "SENT_EN":"All participants agreed to the terms of the contract.",
+      "SENT_ZH":"所有参与者都同意了合同条款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entire",
+            "total",
+            "complete"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "none",
+            "part",
+            "some"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"all [of sth]",
+      "POS":"pron",
+      "POS_TIP":"Pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Everything or everyone; the whole number or amount.",
+      "DEF_ZH":"所有人；所有物；一切事物。",
+      "SENT_EN":"All is well that ends well.",
+      "SENT_ZH":"结局好，一切都好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "everything",
+            "everyone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb] all [adv/prep]",
+      "POS":"adv",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "common",
+        "emphasis"
+      ],
+      "DEF_EN":"Wholly or entirely; totally (often used for emphasis, sometimes preceding a preposition or particle).",
+      "DEF_ZH":"完全地；彻底地；只。",
+      "SENT_EN":"She was all bundled up against the cold.",
+      "SENT_ZH":"她把自己全副武装起来以抵御寒冷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "totally",
+            "completely",
+            "fully"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"give one's all",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "idiomatic",
+        "rare as singular noun"
+      ],
+      "DEF_EN":"One's total resources, energy, or effort.",
+      "DEF_ZH":"(通常用于短语中) 总数；全部努力或财产。",
+      "SENT_EN":"They gave their all trying to save the failing company.",
+      "SENT_ZH":"他们竭尽全力试图拯救这家正在衰落的公司。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

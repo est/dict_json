@@ -1,0 +1,67 @@
+{
+  "WORD":"anybody",
+  "IPA":"/ˈenibɒdi/",
+  "CONJUGATES":"anybody's (possessive form)",
+  "ETYMOLOGY":"Compound of 'any' (from Old English ǣniġ, meaning 'one, unique') and 'body' (from Old English bodiġ). The indefinite pronoun usage emerged through the combination of the two words.",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[anybody] (subject/object)",
+      "POS":"pron",
+      "POS_TIP":"indefinite pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Any person; used primarily in questions, negative statements, or conditional clauses to refer to an unspecified person.",
+      "DEF_ZH":"任何人；主要用于疑问句、否定句或条件句中，指代未特定的人。",
+      "SENT_EN":"Did anybody call while I was out?",
+      "SENT_ZH":"我出去的时候有没有人打过电话？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anyone",
+            "any person"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "nobody",
+            "no one"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[anybody] (subject)",
+      "POS":"pron",
+      "POS_TIP":"indefinite pronoun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Every person; used in positive statements meaning 'no matter who' or 'everyone of a certain group'.",
+      "DEF_ZH":"任何人（都行）；用于肯定句中，表示“无论谁”或指代某个群体中的所有人。",
+      "SENT_EN":"Anybody can learn to play the basics of this instrument.",
+      "SENT_ZH":"任何人都可以学会演奏这种乐器的基础知识。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "everyone",
+            "anyone"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "everybody",
+            "somebody"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

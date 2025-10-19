@@ -1,0 +1,99 @@
+{
+  "WORD":"is",
+  "IPA":"/ɪz/",
+  "CONJUGATES":"be | am | are | was | were | being | been",
+  "ETYMOLOGY":"From Old English is, third-person singular present indicative of beon (to be), ultimately from Proto-Germanic *ist, from Proto-Indo-European root *es- ('to be').",
+  "SINCE":"Pre-8th Century (PIE roots are prehistoric)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[Sb] is [N/Adj/Prep Phrase]",
+      "POS":"v. copula",
+      "POS_TIP":"Copulative verb, linking verb",
+      "TAGS":[
+        "core word",
+        "irregular verb",
+        "common"
+      ],
+      "DEF_EN":"Used as the third-person singular present tense of 'to be,' serving to link the subject to a complement that describes, identifies, or defines it.",
+      "DEF_ZH":"作为动词 'to be' 的第三人称单数现在时，用于将主语与描述、识别或定义主语的补语连接起来。",
+      "SENT_EN":"She is a talented musician, and the sky is blue today.",
+      "SENT_ZH":"她是一位才华横溢的音乐家，而且今天的天空是蓝色的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exists",
+            "equals",
+            "forms"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "am",
+            "are",
+            "was",
+            "were"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[Sb] is [V-ing]",
+      "POS":"v. aux.",
+      "POS_TIP":"Auxiliary verb",
+      "TAGS":[
+        "grammar",
+        "common"
+      ],
+      "DEF_EN":"Used with the present participle (the -ing form) to form the present continuous tense, indicating an ongoing action.",
+      "DEF_ZH":"与现在分词（-ing形式）连用，构成现在进行时态，表示正在发生的动作。",
+      "SENT_EN":"He is currently working on his thesis.",
+      "SENT_ZH":"他目前正在写他的论文。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "present continuous tense"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[Sb] is [V-p.p.]",
+      "POS":"v. aux.",
+      "POS_TIP":"Auxiliary verb",
+      "TAGS":[
+        "grammar",
+        "common"
+      ],
+      "DEF_EN":"Used with the past participle to form the passive voice, emphasizing the action or result rather than the agent.",
+      "DEF_ZH":"与过去分词连用，构成被动语态，强调动作或结果而非执行者。",
+      "SENT_EN":"The decision is made by the committee.",
+      "SENT_ZH":"这个决定由委员会做出。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "passive voice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[Sth/Sb] is [Prep Phrase/Adv]",
+      "POS":"v. intr.",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "core word",
+        "existence"
+      ],
+      "DEF_EN":"Used to express the location or simple existence of the subject.",
+      "DEF_ZH":"用于表示主语的位置或单纯的存在。",
+      "SENT_EN":"The key is in the drawer, and the concert is at 7 PM.",
+      "SENT_ZH":"钥匙在抽屉里，音乐会是在晚上7点。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal and informal English, ubiquitous in all contexts."
+}

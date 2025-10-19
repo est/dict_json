@@ -1,0 +1,138 @@
+{
+  "WORD":"can",
+  "IPA":"/kæn/",
+  "CONJUGATES":"cans | canning | canned (v, container) | cans (n, plural)",
+  "ETYMOLOGY":"Modal verb from Old English *cunnan* ('to know, be able to do, have power'). Noun from Old English *canne* ('cup, vessel, jug').",
+  "SINCE":"Pre-1000 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] can [v]",
+      "POS":"modal auxiliary verb",
+      "POS_TIP":"Modal auxiliary verb: used with a main verb to express mood or tense.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to express ability, capability, or capacity to do something.",
+      "DEF_ZH":"表示能力或可能性；能够。",
+      "SENT_EN":"She can speak three languages fluently.",
+      "SENT_ZH":"她能流利地说三种语言。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "could",
+            "able"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Can [sb] [v]?\n[sb] can [v]",
+      "POS":"modal auxiliary verb",
+      "POS_TIP":"Modal auxiliary verb: used with a main verb to express mood or tense.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Used to request or grant permission (informal usage, 'may' is often preferred for formal requests).",
+      "DEF_ZH":"表示请求允许或准许（非正式）。",
+      "SENT_EN":"Can I borrow your pen for a moment?",
+      "SENT_ZH":"我能借用一下你的钢笔吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "may"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] can [v] [adj]",
+      "POS":"modal auxiliary verb",
+      "POS_TIP":"Modal auxiliary verb: used with a main verb to express mood or tense.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Used to express possibility or that something is sometimes true.",
+      "DEF_ZH":"表示可能性或偶然性。",
+      "SENT_EN":"Heavy traffic can cause significant delays.",
+      "SENT_ZH":"交通拥堵可能会造成严重的延误。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "might"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a can of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun: a word used to identify people, places, or things.",
+      "TAGS":[
+        "core word",
+        "container"
+      ],
+      "DEF_EN":"An airtight metal container, typically cylindrical, used for preserving food or drinks.",
+      "DEF_ZH":"罐头；金属罐；容器。",
+      "SENT_EN":"I bought a can of tuna and some beans.",
+      "SENT_ZH":"我买了一罐金枪鱼和一些豆子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tin",
+            "container"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"can [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that requires a direct object.",
+      "TAGS":[
+        "food prep"
+      ],
+      "DEF_EN":"To preserve food by processing and sealing it in an airtight can or jar.",
+      "DEF_ZH":"将（食物）装罐保存，制成罐头。",
+      "SENT_EN":"My grandmother used to can peaches every summer.",
+      "SENT_ZH":"我祖母过去每年夏天都会将桃子装罐保存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preserve",
+            "bottle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"can [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that requires a direct object.",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"To dismiss someone from a job; to fire.",
+      "DEF_ZH":"解雇；开除（非正式）。",
+      "SENT_EN":"If he keeps showing up late, they’re going to can him.",
+      "SENT_ZH":"如果他继续迟到，他们会解雇他的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fire",
+            "sack",
+            "dismiss"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The modal verb form is used ubiquitously across all registers. The noun and packaging verb forms are standard. The 'to fire' verb form is informal/slang."
+}

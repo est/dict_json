@@ -1,0 +1,153 @@
+{
+  "WORD":"burn",
+  "IPA":"/bɜːrn/",
+  "CONJUGATES":"burned | burnt | burning | burns",
+  "ETYMOLOGY":"From Old English byrnan (intransitive) and bærnan (transitive), both ultimately from Proto-Germanic *brannijaną (transitive) and *brennōną (intransitive), related to the root meaning 'to consume with fire' or 'to be on fire'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[sth] [vi]",
+      "POS":"vti",
+      "POS_TIP":"verb transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To be consumed or destroyed by fire or heat; to produce fire.",
+      "DEF_ZH":"被火或热消耗或摧毁；产生火焰。",
+      "SENT_EN":"The dry wood burned quickly in the fireplace.",
+      "SENT_ZH":"干燥的木材在壁炉里很快燃烧起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blaze",
+            "combust",
+            "incinerate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "extinguish",
+            "quench"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"burn [sb]\nburn [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To injure or damage by fire, heat, radiation, or chemicals.",
+      "DEF_ZH":"被火、热、辐射或化学品伤害或损坏（通常指皮肤）。",
+      "SENT_EN":"She accidentally burned her hand on the hot stove.",
+      "SENT_ZH":"她不小心被热炉子烫伤了手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scald",
+            "sear",
+            "char"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"burn [sth] [vi]",
+      "POS":"vti",
+      "POS_TIP":"verb transitive or intransitive",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To use energy or fuel.",
+      "DEF_ZH":"消耗能量或燃料。",
+      "SENT_EN":"A car burns a lot of fuel when accelerating quickly.",
+      "SENT_ZH":"汽车在快速加速时会消耗大量燃料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consume",
+            "use up",
+            "expend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"burn [sth] [vtr]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"To record data onto a CD, DVD, or other optical disc using a laser.",
+      "DEF_ZH":"使用激光将数据记录到光盘（如CD或DVD）上。",
+      "SENT_EN":"I need to burn these photos onto a backup disc.",
+      "SENT_ZH":"我需要把这些照片刻录到一张备份光盘上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "write"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a burn [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An injury caused by exposure to fire, heat, radiation, or chemicals.",
+      "DEF_ZH":"因接触火、热、辐射或化学品而造成的伤害；烧伤。",
+      "SENT_EN":"The doctor treated his second-degree burn.",
+      "SENT_ZH":"医生治疗了他的二级烧伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scald",
+            "lesion",
+            "injury"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"burn [sth] [vtr] (slang)",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"To insult or criticize someone sharply or successfully.",
+      "DEF_ZH":"（俚语）犀利地或成功地侮辱或批评某人；使人难堪。",
+      "SENT_EN":"He delivered a sick burn to his rival during the debate.",
+      "SENT_ZH":"他在辩论中对他的对手进行了尖锐的讽刺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "roast",
+            "insult",
+            "diss"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (computing/medical), and informal (slang)."
+}

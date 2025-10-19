@@ -1,0 +1,156 @@
+{
+  "WORD":"cap",
+  "IPA":"/kæp/",
+  "CONJUGATES":"caps | capping | capped",
+  "ETYMOLOGY":"From Middle English (cappe), derived from Old English cæppe ('hood'), influenced by Old French cape ('cloak'), ultimately related to Late Latin cappa ('head covering').",
+  "SINCE":"Before 1000",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[sb's] cap",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "clothing"
+      ],
+      "DEF_EN":"A soft, close-fitting head covering, typically without a brim but often having a visor (e.g., a baseball cap).",
+      "DEF_ZH":"帽子；便帽（通常緊貼頭部，無帽沿但常有帽舌，如棒球帽）。",
+      "SENT_EN":"He took off his cap as he entered the church.",
+      "SENT_ZH":"他進教堂時脫下了帽子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hat",
+            "beret",
+            "beanie"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the cap of [sth]",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "object"
+      ],
+      "DEF_EN":"A lid, closure, or seal for a container, tube, or bottle.",
+      "DEF_ZH":"蓋子；瓶蓋；管帽；封口。",
+      "SENT_EN":"I can't get the cap off this jar.",
+      "SENT_ZH":"我打不開這個罐子的蓋子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lid",
+            "stopper",
+            "closure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cap on [sth]",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "finance",
+        "economics",
+        "common"
+      ],
+      "DEF_EN":"An upper limit placed on an amount, expenditure, or quantity, usually imposed by rule or regulation.",
+      "DEF_ZH":"上限；最高限額（通常指對支出或數量的限制）。",
+      "SENT_EN":"The state implemented a salary cap for all public employees.",
+      "SENT_ZH":"州政府對所有公職人員實施了薪資上限。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ceiling",
+            "limit",
+            "maximum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cap [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "business",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"To set an upper limit on an amount, expenditure, or quantity.",
+      "DEF_ZH":"給…設定上限；限制。",
+      "SENT_EN":"The board decided to cap enrollment at 5,000 students.",
+      "SENT_ZH":"董事會決定將招生人數上限定為5,000名學生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "restrict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cap [sth] off",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "idiomatic",
+        "formal"
+      ],
+      "DEF_EN":"To finish, complete, or conclude something in a fitting or climactic way.",
+      "DEF_ZH":"圓滿結束；為…畫上句號。",
+      "SENT_EN":"A beautiful firework display capped off the evening.",
+      "SENT_ZH":"一場絢麗的煙火表演為夜晚畫上了圓滿的句號。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "culminate",
+            "finalize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cap\nno cap",
+      "POS":"vintr | n. noncount",
+      "POS_TIP":"intransitive verb | non-countable noun",
+      "TAGS":[
+        "slang",
+        "AAVE",
+        "informal",
+        "rare"
+      ],
+      "DEF_EN":"(Slang) To lie or exaggerate. 'No cap' means 'no lie' or 'truthfully'.",
+      "DEF_ZH":"(俚語) 撒謊或誇大。「No cap」意為：不騙你；實話實說。",
+      "SENT_EN":"Don't cap, tell me exactly what happened.",
+      "SENT_ZH":"別撒謊，準確地告訴我發生了什麼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lie",
+            "exaggerate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "IRL",
+            "fr (for real)"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used across general conversation, finance, and technical contexts. Slang usage ('no cap') is restricted to informal and youth culture."
+}

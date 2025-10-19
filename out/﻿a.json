@@ -1,0 +1,121 @@
+{
+  "WORD":"a",
+  "IPA":"/ə, eɪ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Reduced form of Old English ān (one).",
+  "SINCE":"Old English period (c. 450–1150)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a [singular countable noun]",
+      "POS":"article/determiner",
+      "POS_TIP":"Indefinite article, used before a noun to indicate that the noun is not specific or has not been previously specified.",
+      "TAGS":[
+        "core word",
+        "high frequency",
+        "grammar"
+      ],
+      "DEF_EN":"Used before a singular noun referring to a non-specific entity, or one that is being mentioned for the first time.",
+      "DEF_ZH":"不定冠词，用于单数可数名词之前，表示某一个、任一个，或首次提及的事物。",
+      "SENT_EN":"She needs a book for the class.",
+      "SENT_ZH":"她需要一本供课堂使用的书。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "an",
+            "the",
+            "one"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[quantity] a [unit of measure/time]",
+      "POS":"article/determiner",
+      "POS_TIP":"Indefinite article, meaning 'per' or 'each'.",
+      "TAGS":[
+        "high frequency",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to mean 'per' or 'each' when describing rates or frequency.",
+      "DEF_ZH":"表示“每”或“每一”，用于描述速率或频率。",
+      "SENT_EN":"He earns fifty thousand dollars a year.",
+      "SENT_ZH":"他每年挣五万美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "per",
+            "each"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [type/class]",
+      "POS":"article/determiner",
+      "POS_TIP":"Indefinite article, used to indicate a member of a class or type.",
+      "TAGS":[
+        "common",
+        "classification"
+      ],
+      "DEF_EN":"Used to classify or define something as being a member of a particular group.",
+      "DEF_ZH":"用于表示某事物属于某一类别或种类。",
+      "SENT_EN":"A cat is a mammal.",
+      "SENT_ZH":"猫是一种哺乳动物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "any"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A / a",
+      "POS":"noun",
+      "POS_TIP":"The first letter of the alphabet.",
+      "TAGS":[
+        "core concept",
+        "alphabet"
+      ],
+      "DEF_EN":"The first letter of the English alphabet.",
+      "DEF_ZH":"英语字母表中的第一个字母。",
+      "SENT_EN":"The word 'apple' starts with the letter A.",
+      "SENT_ZH":"单词 'apple' 以字母 A 开头。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "alpha",
+            "the alphabet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a- [verb]",
+      "POS":"archaic/dialectical prefix",
+      "POS_TIP":"A shortened form of the preposition 'on' or 'in'.",
+      "TAGS":[
+        "archaic",
+        "dialect"
+      ],
+      "DEF_EN":"Archaic or dialectical usage meaning 'on' or 'in', typically attached to verbs or nouns.",
+      "DEF_ZH":"（古语或方言）意为“在...上”或“在...中”。",
+      "SENT_EN":"He went a-hunting in the woods.",
+      "SENT_ZH":"他进林子里打猎去了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "on",
+            "in"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

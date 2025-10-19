@@ -1,0 +1,100 @@
+{
+  "WORD":"about",
+  "IPA":"/əˈbaʊt/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English abūtan (stressed onbūtan), formed from on ('on') + būtan ('outside, without, except'), which itself came from be ('by') + ūtan ('out, outside'). Originally meaning 'around the outside of'.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"about [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to, concerning, or connected with a subject or topic.",
+      "DEF_ZH":"关于；有关（某一主题或事物）。",
+      "SENT_EN":"We need to talk about the budget for next quarter.",
+      "SENT_ZH":"我们需要谈谈下一季度的预算。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concerning",
+            "regarding",
+            "with respect to",
+            "on"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"about [number/quantity/time]",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Approximately; near in number, time, or size; nearly.",
+      "DEF_ZH":"大约；差不多；接近。",
+      "SENT_EN":"There were about thirty people waiting in line.",
+      "SENT_ZH":"大约有三十人在排队等候。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "approximately",
+            "around",
+            "nearly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"move/look about [place/area]",
+      "POS":"adv | prep",
+      "POS_TIP":"adverb or preposition",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"In all parts of a place; here and there; surrounding.",
+      "DEF_ZH":"在...周围；四处；到处。",
+      "SENT_EN":"The children were running about the playground.",
+      "SENT_ZH":"孩子们在操场上跑来跑去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "around",
+            "here and there"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be about to [do sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (predicative)",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"On the point of doing something; imminent.",
+      "DEF_ZH":"即将；正要（做某事）。",
+      "SENT_EN":"She was just about to leave when the emergency alert sounded.",
+      "SENT_ZH":"警报响起时，她正要离开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "on the verge of",
+            "imminent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Widespread"
+}

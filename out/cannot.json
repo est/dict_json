@@ -1,0 +1,88 @@
+{
+  "WORD":"cannot",
+  "IPA":"/ˈkænɒt/",
+  "CONJUGATES":"N/A (modal auxiliary)",
+  "ETYMOLOGY":"Fusion of the modal verb 'can' (from Old English *cunnan* 'to know, be able') and the negative particle 'not'. The one-word spelling 'cannot' appeared in the 15th century and became standard.",
+  "SINCE":"c. 1400s (as a fused word)",
+  "MEANINGS":[
+    {
+      "PATTERN":"cannot [v]",
+      "POS":"modal auxiliary verb + adverb",
+      "POS_TIP":"Modal auxiliary verb (can) combined with the negative adverb (not). Used to express lack of ability or power.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To be unable to do something; lacking the physical, mental, or practical capacity to perform an action.",
+      "DEF_ZH":"缺乏能力、力量或机会去做某事；不能。",
+      "SENT_EN":"She cannot attend the meeting because she is traveling abroad.",
+      "SENT_ZH":"她不能参加这次会议，因为她正在国外旅行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "unable to",
+            "incapable of"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "can"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cannot [v] (be true/exist)",
+      "POS":"modal auxiliary verb + adverb",
+      "POS_TIP":"Modal auxiliary verb (can) combined with the negative adverb (not). Used to express impossibility or strong doubt.",
+      "TAGS":[
+        "certainty",
+        "common"
+      ],
+      "DEF_EN":"Used to indicate that something is logically impossible, implausible, or extremely difficult to believe.",
+      "DEF_ZH":"用于表示某事在逻辑上不可能发生或难以置信。",
+      "SENT_EN":"That story simply cannot be true; it defies all known facts.",
+      "SENT_ZH":"那个故事绝对不可能是真的；它违背了所有已知事实。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impossible",
+            "surely not"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "must be"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cannot [v] (authority)",
+      "POS":"modal auxiliary verb + adverb",
+      "POS_TIP":"Modal auxiliary verb (can) combined with the negative adverb (not). Used to express prohibition or refusal, often by rule or law.",
+      "TAGS":[
+        "formal",
+        "prohibition"
+      ],
+      "DEF_EN":"To be forbidden or prevented from doing something; must not.",
+      "DEF_ZH":"被禁止或不允许做某事；不得。",
+      "SENT_EN":"Visitors cannot use the staff parking lot after 6 p.m.",
+      "SENT_ZH":"下午六点后，访客不得使用员工停车场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "must not",
+            "may not"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}
