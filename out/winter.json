@@ -1,0 +1,86 @@
+{
+  "WORD":"winter",
+  "IPA":"/ˈwɪntər/",
+  "CONJUGATES":"winters | wintering | wintered | wintery | wintry",
+  "ETYMOLOGY":"From Old English winter, derived from Proto-Germanic *wintruz. Possibly related to the Proto-Indo-European root *wed- ('water, wet'), suggesting an association with the wet or rainy season.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] winter",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "time"
+      ],
+      "DEF_EN":"The coldest season of the year, occurring between autumn and spring.",
+      "DEF_ZH":"一年中最寒冷的季节，发生在秋季和春季之间。",
+      "SENT_EN":"The days are short and cold in winter.",
+      "SENT_ZH":"冬天白昼短促且寒冷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spring",
+            "summer",
+            "autumn",
+            "solstice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"winter [in/at] [sth]",
+      "POS":"vitr | vtr",
+      "POS_TIP":"Intransitive Verb | Transitive Verb",
+      "TAGS":[
+        "activity"
+      ],
+      "DEF_EN":"To spend the cold season in a specific place or condition; (transitive) to keep or feed (livestock) through the winter.",
+      "DEF_ZH":"在某地或某种状态下度过冬季；（及物）使（牲畜）越冬。",
+      "SENT_EN":"We plan to winter in Arizona this year to avoid the snow.",
+      "SENT_ZH":"我们计划今年在亚利桑那州过冬以避开下雪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overwinter",
+            "hibernate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] winter [of something]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A period of difficulty, decline, sadness, or stagnation, often used metaphorically for old age or a hard time.",
+      "DEF_ZH":"困难、衰退、悲伤或停滞不前的时期，常用来比喻暮年或艰难时期。",
+      "SENT_EN":"The recession marked the beginning of a long economic winter for the region.",
+      "SENT_ZH":"经济衰退标志着该地区漫长经济寒冬的开始。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decline",
+            "hardship",
+            "adversity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bloom",
+            "prosperity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, common in everyday conversation and seasonal contexts."
+}

@@ -1,0 +1,121 @@
+{
+  "WORD":"system",
+  "IPA":"/ˈsɪstəm/",
+  "CONJUGATES":"systems (n. pl.) | systematic (adj.) | systemic (adj.) | systemize (v.) | systematize (v.)",
+  "ETYMOLOGY":"From Late Latin systēma, derived from Greek systēma (syn- 'together' + histanai 'to cause to stand'), meaning 'organized whole, composition'.",
+  "SINCE":"c. 1620s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] system of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "general",
+        "organizational"
+      ],
+      "DEF_EN":"A set of connected things or parts working together as a mechanism or an interconnecting network; a complex whole.",
+      "DEF_ZH":"由相互关联的事物或部分组成的，作为一个机制或互联网络共同运作的整体；复杂的整体。",
+      "SENT_EN":"The human nervous system coordinates actions and transmits signals between different parts of the body.",
+      "SENT_ZH":"人类神经系统协调身体各部分之间的动作并传递信号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "structure",
+            "organization",
+            "framework",
+            "network"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "component",
+            "ecology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] system for [doing sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "methodology"
+      ],
+      "DEF_EN":"A set of principles or procedures according to which something is done; an organized scheme or method.",
+      "DEF_ZH":"做某事所依据的一套原则或程序；有组织的方案或方法。",
+      "SENT_EN":"We need a more efficient system for processing customer feedback.",
+      "SENT_ZH":"我们需要一个更高效的客户反馈处理系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "method",
+            "procedure",
+            "technique",
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the system\noperating system",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"An integrated set of computer hardware, software, and sometimes personnel, designed to perform specific tasks.",
+      "DEF_ZH":"一套集成的计算机硬件、软件，有时也包括人员，旨在执行特定任务。",
+      "SENT_EN":"A bug in the system caused all the files to disappear.",
+      "SENT_ZH":"系统中的一个错误导致所有文件消失了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "platform",
+            "machine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "OS",
+            "software",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the system (often capitalized)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sociology",
+        "political",
+        "often used critically"
+      ],
+      "DEF_EN":"The prevailing social, economic, or political structure of a society or country, especially when viewed as complex and possibly oppressive.",
+      "DEF_ZH":"社会或国家中流行的社会、经济或政治结构，特别是在被视为复杂且可能具有压迫性时。",
+      "SENT_EN":"Many young people feel disillusioned with the current political system.",
+      "SENT_ZH":"许多年轻人对当前的政治体制感到失望。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "establishment",
+            "regime",
+            "apparatus",
+            "structure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used broadly across academic, technical, business, and general contexts."
+}

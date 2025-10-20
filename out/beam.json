@@ -1,0 +1,142 @@
+{
+  "WORD":"beam",
+  "IPA":"/biːm/",
+  "CONJUGATES":"beams | beaming | beamed",
+  "ETYMOLOGY":"From Old English bēam 'tree, column, post', related to Old Frisian bām, Old Saxon bōm, Old High German boum, Old Norse baðmr, all meaning 'tree'. The sense 'ray of light' developed from the idea of a straight pole or line.",
+  "SINCE":"Before 900 AD (for the physical object); 14th century (for the ray of light)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (of light/radiation)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A ray or shaft of light or radiation.",
+      "DEF_ZH":"一道光线或射线。",
+      "SENT_EN":"A powerful beam of light shone from the lighthouse.",
+      "SENT_ZH":"灯塔射出一道强有力的光束。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ray",
+            "shaft",
+            "stream",
+            "flash"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "laser",
+            "x-ray"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (structural)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "engineering"
+      ],
+      "DEF_EN":"A long, sturdy piece of squared timber or metal spanning an opening or part of a building, used to support the roof or floor above.",
+      "DEF_ZH":"用于支撑屋顶或楼板的长的、坚固的方木或金属构件。",
+      "SENT_EN":"The roof is supported by thick wooden beams.",
+      "SENT_ZH":"屋顶由粗壮的木梁支撑着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "girder",
+            "joist",
+            "rafter",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] (of joy/pride)",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To smile radiantly or widely, often indicating happiness or pride.",
+      "DEF_ZH":"高兴或自豪地灿烂地、咧着嘴笑。",
+      "SENT_EN":"She beamed with delight when she saw her test results.",
+      "SENT_ZH":"当她看到她的考试成绩时，她高兴地笑了起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smile",
+            "grin",
+            "radiate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "frown",
+            "scowl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [to] [sb/sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "technology"
+      ],
+      "DEF_EN":"To transmit (a signal, broadcast, or energy) in a directed path; to send information using electromagnetic waves.",
+      "DEF_ZH":"以定向路径传输（信号、广播或能量）；使用电磁波发送信息。",
+      "SENT_EN":"The satellite can beam television programs to the entire continent.",
+      "SENT_ZH":"这颗卫星可以将电视节目传输到整个大陆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transmit",
+            "broadcast",
+            "send",
+            "project"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"on the beam",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "idiomatic",
+        "aviation"
+      ],
+      "DEF_EN":"Following a radio signal, especially an aircraft homing signal, to stay on the correct course.",
+      "DEF_ZH":"遵循无线电信号，尤指飞机归航信号，以保持正确航向。",
+      "SENT_EN":"The pilot was confident they were right on the beam and heading straight for the runway.",
+      "SENT_ZH":"飞行员确信他们正处在航线上，径直飞向跑道。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "off course"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (engineering, physics), and idiomatic."
+}

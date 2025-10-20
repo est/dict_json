@@ -1,0 +1,121 @@
+{
+  "WORD":"lie",
+  "IPA":"/laɪ/",
+  "CONJUGATES":"lies | lying | lied | lied (Sense 1 & 2); lies | lying | lay | lain (Sense 3 & 4)",
+  "ETYMOLOGY":"Sense 1 & 2 (Untruth): From Old English *leogan*, related to Old Norse *ljúga*. | Sense 3 & 4 (Recline/Position): From Old English *licgan*, from Proto-Germanic *ligjanan*.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] lie (about [sth])",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "morality"
+      ],
+      "DEF_EN":"An intentionally false statement made in order to deceive.",
+      "DEF_ZH":"故意为欺骗而做出的虚假陈述；谎言。",
+      "SENT_EN":"He told a blatant lie about where he was last night.",
+      "SENT_ZH":"关于他昨晚在哪里，他说了个赤裸裸的谎言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "falsehood",
+            "fabrication",
+            "untruth",
+            "fib"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "truth",
+            "veracity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lie (to [sb]) (about [sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: a verb that does not require a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "morality"
+      ],
+      "DEF_EN":"To make an untrue statement with the intention to deceive.",
+      "DEF_ZH":"说谎；讲假话。",
+      "SENT_EN":"Don't lie to me; I know exactly what happened.",
+      "SENT_ZH":"别对我撒谎了；我完全知道发生了什么。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deceive",
+            "prevaricate",
+            "misrepresent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lie [down/still/flat]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: a verb that does not require a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical"
+      ],
+      "DEF_EN":"To be in or assume a horizontal position on a surface, often for rest.",
+      "DEF_ZH":"躺；平卧；（动物）伏卧。",
+      "SENT_EN":"She decided to lie down on the sofa and read a book.",
+      "SENT_ZH":"她决定躺在沙发上读会儿书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recline",
+            "rest",
+            "lounge",
+            "sprawl"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lay"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lie (in [place/state])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: a verb that does not require a direct object.",
+      "TAGS":[
+        "common",
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"To be situated or located in a particular place or position; to exist inherently in something.",
+      "DEF_ZH":"位于；坐落在；（抽象事物）在于，存在于。",
+      "SENT_EN":"The beauty of the landscape lies in its untouched wilderness.",
+      "SENT_ZH":"这片风景的美在于其未被触及的荒野。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be situated",
+            "consist",
+            "reside"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, applicable in both formal and informal contexts, depending on the specific meaning."
+}

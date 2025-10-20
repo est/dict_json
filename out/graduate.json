@@ -1,0 +1,114 @@
+{
+  "WORD":"graduate",
+  "IPA":"/ˈɡrædʒuˌeɪt/",
+  "CONJUGATES":"graduates | graduating | graduated | graduation (N)",
+  "ETYMOLOGY":"From Medieval Latin graduātus, past participle of graduārī ('to take degrees'), from Latin gradus ('step, degree').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"graduate [from sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb: verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "education"
+      ],
+      "DEF_EN":"To successfully complete a course of study at a school, college, or university and receive a diploma or degree.",
+      "DEF_ZH":"（从学校）毕业；修完学业。",
+      "SENT_EN":"She graduated from Oxford last year with a degree in philosophy.",
+      "SENT_ZH":"她去年从牛津大学哲学系毕业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "complete studies",
+            "qualify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "graduation",
+            "alumnus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] graduate [of sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun: names of things which can be counted",
+      "TAGS":[
+        "core word",
+        "person",
+        "education"
+      ],
+      "DEF_EN":"A person who has successfully completed a course of study or holds an academic degree (Pronounced: /ˈɡrædʒuət/).",
+      "DEF_ZH":"毕业生；获得学位者。",
+      "SENT_EN":"The company prefers hiring recent university graduates for these entry-level positions.",
+      "SENT_ZH":"公司倾向于为这些入门级职位聘用应届大学毕业生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alumnus",
+            "degree holder"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "postgraduate",
+            "undergraduate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"graduate [to sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb: verb that does not take a direct object",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To move up to a higher level, status, or type gradually.",
+      "DEF_ZH":"（逐渐）升级；晋升；过渡到更高阶段。",
+      "SENT_EN":"After years of writing short stories, she finally graduated to writing novels.",
+      "SENT_ZH":"在写了多年的短篇小说之后，她终于开始写长篇小说了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "progress",
+            "advance",
+            "transition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"graduate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes a direct object",
+      "TAGS":[
+        "technical",
+        "measurement"
+      ],
+      "DEF_EN":"To arrange or mark a scale or instrument into degrees or units for measurement.",
+      "DEF_ZH":"划分等级；在（仪器）上标刻度。",
+      "SENT_EN":"The chemist needed a cylinder graduated in milliliters for accurate measurements.",
+      "SENT_ZH":"化学家需要一个以毫升为刻度的量筒来进行精确测量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calibrate",
+            "mark"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, General English"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"stove",
+  "IPA":"/stoʊv/",
+  "CONJUGATES":"stoves | stoving | stoved",
+  "ETYMOLOGY":"From Middle English stove, derived from Old French estuve 'heated room, bath', possibly influenced by Middle Dutch stove 'heating room, bathhouse'. Ultimately of Germanic origin related to heating.",
+  "SINCE":"c. 1400 (as heated room); c. 1670 (as cooking apparatus)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "household appliance"
+      ],
+      "DEF_EN":"An apparatus for heating a room or for cooking food, typically using electricity, gas, wood, or coal.",
+      "DEF_ZH":"用于加热房间或烹饪食物的器具，通常使用电力、燃气、木材或煤炭。",
+      "SENT_EN":"The kitchen has a large professional gas stove with six burners.",
+      "SENT_ZH":"这个厨房里有一个带有六个炉头的大型专业燃气灶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "range (US)",
+            "cooker (UK)",
+            "furnace"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "oven",
+            "hob",
+            "hearth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"A heated room or chamber, especially one used for drying processes or formerly, for a steam bath or sudatory.",
+      "DEF_ZH":"一个加热的房间或室，特别是用于干燥过程或（旧时）用作蒸汽浴或发汗室。",
+      "SENT_EN":"The cured meats were hung in the stove for several days to finish drying.",
+      "SENT_ZH":"腌制的肉类被挂在烘房中数天以完成干燥。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kiln",
+            "drying-room",
+            "sudatory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stove [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"To heat, dry, or cure something in a stove or artificially heated enclosure.",
+      "DEF_ZH":"在炉子或人工加热的封闭空间内加热、烘干或固化某物。",
+      "SENT_EN":"They stoved the newly harvested herbs before grinding them into powder.",
+      "SENT_ZH":"他们在将新收割的草药磨成粉末之前，先将其烘干。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bake",
+            "cure",
+            "roast"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General household, technical"
+}

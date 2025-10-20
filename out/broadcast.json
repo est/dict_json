@@ -1,0 +1,127 @@
+{
+  "WORD":"broadcast",
+  "IPA":"/ˈbrɔːdkæst/",
+  "CONJUGATES":"broadcasts | broadcasting | broadcast (past tense/past participle)",
+  "ETYMOLOGY":"Compound of 'broad' and 'cast' (to throw, scatter). Originally used in agriculture (c. 1750) meaning 'to scatter seed widely.' The modern media sense appeared when radio technology developed (c. 1920).",
+  "SINCE":"c. 1750",
+  "MEANINGS":[
+    {
+      "PATTERN":"broadcast [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "media",
+        "technology"
+      ],
+      "DEF_EN":"To transmit (sound or moving images) by radio waves or cable, intended for public reception.",
+      "DEF_ZH":"通过无线电波或电缆传输（声音或移动图像），旨在供公众接收。",
+      "SENT_EN":"The debate will be broadcast live across all major networks.",
+      "SENT_ZH":"这场辩论将在所有主要网络上直播。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transmit",
+            "air",
+            "telecast",
+            "stream"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "radio",
+            "television",
+            "webcast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a broadcast",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "media"
+      ],
+      "DEF_EN":"A radio or television program or transmission.",
+      "DEF_ZH":"一次无线电或电视节目或传输。",
+      "SENT_EN":"We listened to the evening news broadcast while driving home.",
+      "SENT_ZH":"我们在开车回家时收听了晚间新闻广播。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "program",
+            "show",
+            "transmission"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "podcast",
+            "webinar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"broadcast [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To spread or distribute information, news, or rumors widely to many people.",
+      "DEF_ZH":"向许多人广泛传播或散布信息、新闻或谣言。",
+      "SENT_EN":"She was so angry she didn't realize she was broadcasting their private argument to the whole office.",
+      "SENT_ZH":"她非常生气，没有意识到她正在向整个办公室传播他们私下的争吵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disseminate",
+            "circulate",
+            "promulgate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "suppress"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"broadcast [seed]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "agriculture",
+        "historical"
+      ],
+      "DEF_EN":"To scatter (seeds or fertilizer) over a wide area rather than planting in specific rows.",
+      "DEF_ZH":"撒播（种子或肥料），而不是排成特定行种植，而是在大片区域上撒开。",
+      "SENT_EN":"The farmer used a simple machine to broadcast the winter wheat seeds.",
+      "SENT_ZH":"农民使用一台简单的机器撒播冬小麦种子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scatter",
+            "sow",
+            "disperse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in media, technology, and general communication."
+}

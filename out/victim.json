@@ -1,0 +1,87 @@
+{
+  "WORD":"victim",
+  "IPA":"/ˈvɪktɪm/",
+  "CONJUGATES":"victims (pl.)",
+  "ETYMOLOGY":"From Late Middle English (c. 1400s), from Anglo-French victime, from Latin victima 'sacrificial animal or person'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] victim of [sth/sb]",
+      "POS":"noun",
+      "POS_TIP":"noun: a person, place, or thing",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A person who has suffered harm, injury, loss, or death as a result of a crime, accident, or other injurious action.",
+      "DEF_ZH":"因犯罪、事故、疾病或其他有害行为而遭受伤害、损失或死亡的人。",
+      "SENT_EN":"The police interviewed the victim of the theft about the missing items.",
+      "SENT_ZH":"警方就丢失的物品询问了盗窃案的受害者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sufferer",
+            "casualty",
+            "injured party"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "perpetrator",
+            "aggressor",
+            "offender"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] victim of [sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: a person, place, or thing",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A person who is tricked, swindled, or taken advantage of.",
+      "DEF_ZH":"被欺骗、被哄骗或被利用的人。",
+      "SENT_EN":"She felt like a complete victim after falling for the online scam.",
+      "SENT_ZH":"在遭受网络诈骗后，她觉得自己完全上当受骗了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dupe",
+            "mark",
+            "patsy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] victim",
+      "POS":"noun",
+      "POS_TIP":"noun: a person, place, or thing",
+      "TAGS":[
+        "historical",
+        "religious"
+      ],
+      "DEF_EN":"An animal or person killed and offered as a religious sacrifice.",
+      "DEF_ZH":"被宰杀并献祭给神灵的动物或人（祭品）。",
+      "SENT_EN":"In ancient rituals, a flawless lamb was often chosen as the victim.",
+      "SENT_ZH":"在古代仪式中，一只完美的羔羊通常被选为祭品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sacrifice",
+            "offering"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, frequently used in legal and news contexts."
+}

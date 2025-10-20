@@ -1,0 +1,111 @@
+{
+  "WORD":"border",
+  "IPA":"/'bɔːrdər/",
+  "CONJUGATES":"borders | bordering | bordered",
+  "ETYMOLOGY":"From Middle English bordure, from Old French bordure 'edge, seam', ultimately related to Old High German bort 'plank, edge'.",
+  "SINCE":"C. 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] border [between X and Y]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "politics"
+      ],
+      "DEF_EN":"A line separating two countries, states, or other political or geographical areas.",
+      "DEF_ZH":"分隔两个国家、州或其他政治或地理区域的界线。",
+      "SENT_EN":"Tension increased after troops were deployed near the border.",
+      "SENT_ZH":"军队被部署到边境附近后，紧张局势加剧了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "boundary",
+            "frontier",
+            "demarcation line"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "border crossing",
+            "border patrol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] border [around sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "design"
+      ],
+      "DEF_EN":"The edge or margin of something, often forming a decorative frame.",
+      "DEF_ZH":"某物的边缘或边沿，通常构成装饰性框架。",
+      "SENT_EN":"The photo album pages had a lovely floral border.",
+      "SENT_ZH":"这本相册的内页有漂亮的花卉边框。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "edge",
+            "margin",
+            "rim",
+            "frame"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"border [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "geography"
+      ],
+      "DEF_EN":"To form a border or boundary to; to be next to or adjacent to.",
+      "DEF_ZH":"构成…的边界；与…毗邻或接壤。",
+      "SENT_EN":"The garden area was bordered by a low stone wall.",
+      "SENT_ZH":"花园区域被一堵低矮的石墙围绕着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjoin",
+            "abut",
+            "surround"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"border [on sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb used with a preposition",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To come very close to (a particular state, feeling, or quality); to verge on.",
+      "DEF_ZH":"近乎于（某种状态、感觉或品质）；接近。",
+      "SENT_EN":"Her enthusiasm often bordered on hysteria.",
+      "SENT_ZH":"她的热情常常近乎歇斯底里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "verge on",
+            "approach",
+            "tend towards"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

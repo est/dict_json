@@ -1,0 +1,122 @@
+{
+  "WORD":"exhaust",
+  "IPA":"/ɪɡˈzɔːst/",
+  "CONJUGATES":"exhausts | exhausting | exhausted",
+  "ETYMOLOGY":"From Latin exhaurire (ex- 'out' + haurire 'to draw off, drink up'), meaning 'to empty out' or 'drain'.",
+  "SINCE":"Mid-16th century (verb); Late 18th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"exhaust [sb]\nexhaust [oneself]",
+      "POS":"vtr | vpr",
+      "POS_TIP":"transitive verb | pronominal verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To make someone extremely tired, usually by strenuous effort; to drain all physical or mental energy.",
+      "DEF_ZH":"使某人筋疲力尽；耗尽（精力）。",
+      "SENT_EN":"The rigorous training schedule completely exhausted the athletes.",
+      "SENT_ZH":"严格的训练计划彻底耗尽了运动员的体力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fatigue",
+            "wear out",
+            "drain",
+            "tire out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "energize",
+            "revitalize",
+            "refresh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exhaust [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Resource Management"
+      ],
+      "DEF_EN":"To use up or consume the entire supply or resource of something.",
+      "DEF_ZH":"用完；耗尽（资源、储备或供应）。",
+      "SENT_EN":"We have nearly exhausted the supply of raw materials for production.",
+      "SENT_ZH":"我们几乎耗尽了生产所需的原材料供应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deplete",
+            "consume",
+            "use up",
+            "run dry"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "replenish",
+            "stockpile",
+            "conserve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exhaust [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Research"
+      ],
+      "DEF_EN":"To consider, discuss, or investigate a subject or range of possibilities so completely that nothing remains to be explored.",
+      "DEF_ZH":"彻底研究；穷尽（主题或可能性）；详尽论述。",
+      "SENT_EN":"The committee decided to exhaust every legal avenue before moving to arbitration.",
+      "SENT_ZH":"委员会决定在诉诸仲裁之前穷尽所有法律途径。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "investigate fully",
+            "cover comprehensively",
+            "explore all options"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] exhaust\n[an] exhaust",
+      "POS":"n [uncountable] | n [countable]",
+      "POS_TIP":"noun (uncountable/countable)",
+      "TAGS":[
+        "Core Word",
+        "Technical",
+        "Automotive"
+      ],
+      "DEF_EN":"Waste gases or fumes expelled from an engine, turbine, or other machine; or the mechanism through which these gases are expelled.",
+      "DEF_ZH":"排气；废气（特指引擎或机器排出的）；排气系统。",
+      "SENT_EN":"The city is working on reducing vehicle exhaust emissions.",
+      "SENT_ZH":"该城市正致力于减少车辆尾气排放。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fumes",
+            "emissions",
+            "tailpipe",
+            "muffler"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in technical and everyday language."
+}

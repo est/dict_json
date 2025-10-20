@@ -1,0 +1,228 @@
+{
+  "WORD":"stall",
+  "IPA":"/stɔːl/ (UK) | /stɑːl/ (US)",
+  "CONJUGATES":"Verb: stalls, stalling, stalled | Noun: stalls",
+  "ETYMOLOGY":"From Old English steall 'standing place, stable, position', from Proto-Germanic *stallaz (compare Old High German stal 'standing place, stable', Old Norse stallr 'pedestal, altar', Dutch stal 'stable', German Stall 'stable, stall').",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"stall [sth/sb]\nstall for time",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr: transitive verb (takes a direct object); vint: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To delay an action or process, or to prevent someone from doing something by making excuses or being evasive.",
+      "DEF_ZH":"拖延，阻挠；（通过制造借口）敷衍，搪塞",
+      "SENT_EN":"The politician tried to stall for time, hoping to avoid answering the difficult question.",
+      "SENT_ZH":"那位政客试图拖延时间，希望能避免回答那个棘手的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delay",
+            "postpone",
+            "prevaricate",
+            "procrastinate",
+            "obstruct"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expedite",
+            "hasten",
+            "advance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[engine/vehicle] stall",
+      "POS":"vint",
+      "POS_TIP":"vint: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "automotive"
+      ],
+      "DEF_EN":"(Of an engine or vehicle) To stop running suddenly, especially because of a fault or misuse of the controls.",
+      "DEF_ZH":"（发动机或车辆）熄火，抛锚",
+      "SENT_EN":"The car stalled at the traffic light, causing a minor jam.",
+      "SENT_ZH":"汽车在红绿灯处熄火了，造成了轻微堵塞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stop",
+            "conk out (informal)",
+            "break down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stall",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small open-fronted shop or booth, especially at a market or fair.",
+      "DEF_ZH":"货摊，摊位，售货亭",
+      "SENT_EN":"We bought fresh fruits from a local stall at the farmer's market.",
+      "SENT_ZH":"我们在农贸市场的一个当地摊位上买了新鲜水果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "booth",
+            "stand",
+            "kiosk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stall",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "agriculture"
+      ],
+      "DEF_EN":"An individual compartment for one animal in a stable or cowshed.",
+      "DEF_ZH":"（马厩、牛棚中的）隔间，畜栏",
+      "SENT_EN":"The horse was led back to its stall after a long ride.",
+      "SENT_ZH":"长途骑行后，马被牵回了它的马厩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pen",
+            "enclosure",
+            "cubicle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[aircraft] stall",
+      "POS":"vint",
+      "POS_TIP":"vint: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "specific",
+        "aviation"
+      ],
+      "DEF_EN":"(Of an aircraft) To lose lift and become unable to fly because the angle of attack is too great.",
+      "DEF_ZH":"（飞机）失速",
+      "SENT_EN":"The pilot was trained to recover if the aircraft began to stall.",
+      "SENT_ZH":"飞行员受过训练，以应对飞机开始失速的情况。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "aerodynamics",
+            "lift",
+            "spin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stall",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "specific",
+        "aviation"
+      ],
+      "DEF_EN":"An aerodynamic condition in an aircraft when the angle of attack of an airfoil reaches a critical point such that the air separates from the surface and lift is lost.",
+      "DEF_ZH":"（航空）失速（飞机翼面迎角过大导致升力骤减的现象）",
+      "SENT_EN":"The trainee pilot experienced a high-altitude stall during the exercise.",
+      "SENT_ZH":"受训飞行员在演习中经历了一次高空失速。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "aerodynamics",
+            "lift",
+            "spin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stall",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "less common",
+        "architecture",
+        "UK English"
+      ],
+      "DEF_EN":"A distinctively shaped seat in the choir or chancel of a church, or one of the seats on the ground floor of a theatre.",
+      "DEF_ZH":"（教堂唱诗班或剧院一楼的）特等座位",
+      "SENT_EN":"They booked tickets in the stalls for the evening performance.",
+      "SENT_ZH":"他们预订了晚场演出剧院一楼的座位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pew (church)",
+            "orchestra stalls (theatre)"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stall",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "common",
+        "US English"
+      ],
+      "DEF_EN":"A compartment in a public lavatory or shower room.",
+      "DEF_ZH":"（公共卫生间或淋浴房的）隔间",
+      "SENT_EN":"All the bathroom stalls were occupied when I went in.",
+      "SENT_ZH":"我进去的时候，所有的卫生间隔间都被占用了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cubicle",
+            "compartment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stall [animal]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object)",
+      "TAGS":[
+        "less common",
+        "agriculture"
+      ],
+      "DEF_EN":"To put (an animal) in a stall.",
+      "DEF_ZH":"将（牲畜）安置在马厩或牛栏中",
+      "SENT_EN":"The farmer stalled the cattle for the winter to protect them from the cold.",
+      "SENT_ZH":"农夫把牛群圈在牛栏里过冬，以保护它们免受寒冷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stable",
+            "pen",
+            "house"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

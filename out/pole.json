@@ -1,0 +1,144 @@
+{
+  "WORD":"pole",
+  "IPA":"/poʊl/",
+  "CONJUGATES":"poles (plural noun) | poles (3rd person singular present verb) | poled (past tense/past participle verb) | poling (present participle verb)",
+  "ETYMOLOGY":"Derived from two distinct Latin roots that converged in English spelling:\n1. From Old English 'pāl', ultimately from Latin 'pālus' meaning 'stake' (for the long stick meaning).\n2. From Old French 'pole', from Latin 'polus', from Greek 'pólos' meaning 'axis, pivot, pole of a sphere' (for the geographic/magnetic pole meaning).",
+  "SINCE":"Before 12th century (for 'stake' meaning); 14th century (for 'axis' meaning).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] pole",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical object"
+      ],
+      "DEF_EN":"A long, slender, often cylindrical piece of wood, metal, or other material, typically used as a support, a marker, or for a specific purpose.",
+      "DEF_ZH":"一根细长的、通常呈圆柱形的木头、金属或其他材料，通常用作支撑、标记或特定用途。",
+      "SENT_EN":"The climber used a long pole to reach the fruit.",
+      "SENT_ZH":"登山者用一根长杆去够水果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stick",
+            "rod",
+            "staff",
+            "post",
+            "shaft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the North Pole\nthe South Pole | the magnetic pole",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "geographical",
+        "scientific"
+      ],
+      "DEF_EN":"Each of the two extremities of the Earth's axis, of a magnet, or of an electric cell where the opposing forces are concentrated.",
+      "DEF_ZH":"地球、磁铁或电池轴线的两个极端，其中相对的力量集中。",
+      "SENT_EN":"The aurora borealis is best seen near the North Pole.",
+      "SENT_ZH":"北极光在北极附近最容易看到。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "axis",
+            "equator",
+            "magnetic field"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pole [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To push or propel (a boat or other object) with a pole.",
+      "DEF_ZH":"用杆子撑动（船或其他物体）。",
+      "SENT_EN":"The gondolier expertly poled his boat through the canals of Venice.",
+      "SENT_ZH":"船夫熟练地用长杆撑着他的船穿梭于威尼斯运河。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"poles apart",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "idiomatic",
+        "abstract"
+      ],
+      "DEF_EN":"One of two diametrically opposing principles, ideas, or positions.",
+      "DEF_ZH":"两个截然对立的原则、思想或立场之一。",
+      "SENT_EN":"Despite being siblings, their personalities are poles apart.",
+      "SENT_ZH":"尽管是兄弟姐妹，他们的性格却截然不同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opposite",
+            "extreme",
+            "antipode"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pole position\non pole",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports-specific",
+        "common in context"
+      ],
+      "DEF_EN":"The most favourable starting position in a race, typically at the front of the grid in motor racing.",
+      "DEF_ZH":"赛车比赛中最好的起跑位置，通常是发车格的最前方（杆位）。",
+      "SENT_EN":"The driver achieved pole position after an impressive qualifying lap.",
+      "SENT_ZH":"在令人印象深刻的排位赛圈后，车手获得了杆位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "grid",
+            "qualifying",
+            "start line"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] pole",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "unit of measurement"
+      ],
+      "DEF_EN":"An archaic unit of length equal to 5.5 yards (5.03 meters), also known as a rod or perch.",
+      "DEF_ZH":"一种古老的长度单位，等于5.5码（约5.03米），也称为杆或珀奇。",
+      "SENT_EN":"The old land deed specified the boundary as twenty poles long.",
+      "SENT_ZH":"旧地契上标明边界长二十杆。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rod",
+            "perch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English for most meanings, with specific uses in science, sports, and historical contexts."
+}

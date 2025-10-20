@@ -1,0 +1,111 @@
+{
+  "WORD":"circle",
+  "IPA":"/ˈsɜːrk(ə)l/",
+  "CONJUGATES":"circles | circling | circled",
+  "ETYMOLOGY":"From Middle English, via Old French cercle, from Latin circulus (diminutive of circus 'ring, arena').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry"
+      ],
+      "DEF_EN":"A round plane figure whose boundary (the circumference) consists of points equidistant from a fixed center point.",
+      "DEF_ZH":"与固定中心点等距的所有点组成的平面图形；圆。",
+      "SENT_EN":"The children sat on the floor and formed a large circle.",
+      "SENT_ZH":"孩子们坐在地板上，围成了一个大圆圈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ring",
+            "hoop",
+            "loop"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "diameter",
+            "circumference",
+            "sphere"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "social",
+        "common"
+      ],
+      "DEF_EN":"A group of people linked by common interests, occupation, or friendship; a social set.",
+      "DEF_ZH":"因共同的兴趣、职业或友谊而联系在一起的一群人；圈子；界。",
+      "SENT_EN":"She was well known in literary circles.",
+      "SENT_ZH":"她在文学界很出名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "group",
+            "clique",
+            "set",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "action",
+        "movement"
+      ],
+      "DEF_EN":"To move all the way around something, often repeatedly; to revolve or orbit.",
+      "DEF_ZH":"围绕某物移动，通常是重复地移动；盘旋；绕行。",
+      "SENT_EN":"The helicopter circled the building for ten minutes before landing.",
+      "SENT_ZH":"直升机在建筑物上方盘旋了十分钟后才降落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surround",
+            "revolve",
+            "orbit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"circle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb that takes a direct object)",
+      "TAGS":[
+        "instruction",
+        "marking"
+      ],
+      "DEF_EN":"To enclose or mark (something) with a circle.",
+      "DEF_ZH":"用圆圈圈住或标记（某物）。",
+      "SENT_EN":"Circle the items you wish to purchase on the list.",
+      "SENT_ZH":"请在清单上圈出您想要购买的物品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "encircle",
+            "ring",
+            "mark"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

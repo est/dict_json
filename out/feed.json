@@ -1,0 +1,154 @@
+{
+  "WORD":"feed",
+  "IPA":"/fiːd/",
+  "CONJUGATES":"feeds | feeding | fed",
+  "ETYMOLOGY":"From Old English fēdan, ultimately from Proto-Germanic *fōdijaną (to feed), related to the noun 'food'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"feed [sb]\nfeed [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr: transitive verb (requires an object) | vi: intransitive verb (does not require an object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To give food to a person, group, or animal; to supply food for nourishment.",
+      "DEF_ZH":"喂养；供给食物；赡养。",
+      "SENT_EN":"It is important to feed the baby every three hours.",
+      "SENT_ZH":"每隔三小时给婴儿喂食非常重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nourish",
+            "sustain",
+            "cater"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "starve",
+            "deprive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] feed (on [sth])",
+      "POS":"vi",
+      "POS_TIP":"vi: intransitive verb (does not require an object)",
+      "TAGS":[
+        "biological",
+        "common"
+      ],
+      "DEF_EN":"(Of an animal or baby) to eat, often specifically referring to what they consume.",
+      "DEF_ZH":"进食；（动物）吃（草/食物）。",
+      "SENT_EN":"Cows feed on grass and hay.",
+      "SENT_ZH":"牛以草和干草为食。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graze",
+            "prey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feed [sth] into [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires an object)",
+      "TAGS":[
+        "technical",
+        "figurative"
+      ],
+      "DEF_EN":"To supply material, data, or energy continuously to a machine, system, or process.",
+      "DEF_ZH":"输送；输入（原料、数据或能量）。",
+      "SENT_EN":"The conveyor belt feeds raw material into the crushing machine.",
+      "SENT_ZH":"传送带将原材料输送到破碎机中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supply",
+            "input",
+            "channel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feed [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires an object)",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To satisfy or encourage a feeling, habit, or desire, often a negative one.",
+      "DEF_ZH":"助长；滋养（欲望、情绪、习惯等）。",
+      "SENT_EN":"She worried that reading gossip was just feeding her paranoia.",
+      "SENT_ZH":"她担心阅读八卦只会助长她的偏执情绪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "foster",
+            "fuel",
+            "indulge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the feed\nanimal feed",
+      "POS":"n [U]",
+      "POS_TIP":"n [U]: uncountable noun",
+      "TAGS":[
+        "agriculture",
+        "common"
+      ],
+      "DEF_EN":"Food given to livestock, such as hay, silage, or grain; fodder.",
+      "DEF_ZH":"饲料；（牲畜的）食物。",
+      "SENT_EN":"They have to buy several tons of chicken feed every month.",
+      "SENT_ZH":"他们每月必须购买数吨鸡饲料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fodder",
+            "provender",
+            "grub"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a feed\nnews feed",
+      "POS":"n [C]",
+      "POS_TIP":"n [C]: countable noun",
+      "TAGS":[
+        "internet",
+        "technology"
+      ],
+      "DEF_EN":"A continuously updated stream of data or content, such as a news summary on a website or social media platform.",
+      "DEF_ZH":"（网络或社交媒体的）信息流；实时内容推送。",
+      "SENT_EN":"I scrolled through my social media feed for updates.",
+      "SENT_ZH":"我在社交媒体信息流上滚动查看最新动态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stream",
+            "input",
+            "flow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, also common in agriculture and technology contexts."
+}

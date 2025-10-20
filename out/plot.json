@@ -1,0 +1,138 @@
+{
+  "WORD":"plot",
+  "IPA":"/plɑːt/",
+  "CONJUGATES":"plots | plotting | plotted",
+  "ETYMOLOGY":"From Middle English *plotte* ('patch of ground'), itself of uncertain origin, possibly from Old English *plott* ('piece of land, spot'). The sense of 'scheme' or 'narrative' developed around the 16th century, possibly influenced by 'plat' (a chart or plan).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (narrative)",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "literature",
+        "common"
+      ],
+      "DEF_EN":"The sequence of events that form the main story of a book, film, or play.",
+      "DEF_ZH":"（故事、电影等的）情节，故事情节。",
+      "SENT_EN":"The film’s plot was exciting, full of twists and turns.",
+      "SENT_ZH":"这部电影的情节很精彩，充满了曲折。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "storyline",
+            "narrative",
+            "scenario",
+            "thread"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "climax",
+            "subplot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plot (conspiracy)",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "formal",
+        "negative connotation"
+      ],
+      "DEF_EN":"A secret plan made by several people to do something illegal or harmful.",
+      "DEF_ZH":"密谋，阴谋，诡计。",
+      "SENT_EN":"The police uncovered a plot to steal valuable artifacts from the museum.",
+      "SENT_ZH":"警方发现了一个从博物馆窃取珍贵文物的阴谋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conspiracy",
+            "scheme",
+            "intrigue",
+            "machination"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plot of [land]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "geography",
+        "real estate"
+      ],
+      "DEF_EN":"A small piece of land, especially one used for a specific purpose such as building or gardening.",
+      "DEF_ZH":"小块土地，地皮。",
+      "SENT_EN":"They purchased a large plot of land to build their retirement home.",
+      "SENT_ZH":"他们购买了一大块地来建造他们的退休房。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "parcel",
+            "lot",
+            "tract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plot [v] (conspire)",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive verb | transitive verb: a verb that may or may not take an object",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To secretly plan or conspire, usually to achieve a harmful or criminal goal.",
+      "DEF_ZH":"密谋，策划（尤指坏事）。",
+      "SENT_EN":"The dictator’s generals were plotting against him.",
+      "SENT_ZH":"独裁者的将军们正在密谋反对他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scheme",
+            "conspire",
+            "devise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plot [sth] (on a graph/map)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "mapping"
+      ],
+      "DEF_EN":"To mark or draw points, curves, or coordinates on a graph, map, or chart.",
+      "DEF_ZH":"标出，绘出（点、路线或数据）。",
+      "SENT_EN":"We need to plot the temperature changes over the last month.",
+      "SENT_ZH":"我们需要绘制出过去一个月内的温度变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chart",
+            "map",
+            "graph"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

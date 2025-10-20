@@ -1,0 +1,87 @@
+{
+  "WORD":"trust",
+  "IPA":"/trʌst/",
+  "CONJUGATES":"trusts | trusting | trusted",
+  "ETYMOLOGY":"From Old Norse traust ('confidence, reliance, support'), akin to Old English trēow ('faith, fidelity').",
+  "SINCE":"c. 1150 (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"Noun",
+      "POS_TIP":"不可数名词 (Uncountable Noun)",
+      "TAGS":[
+        "Core Word",
+        "Abstract"
+      ],
+      "DEF_EN":"Firm belief in the reliability, truth, ability, or strength of someone or something.",
+      "DEF_ZH":"对某人或某事物的可靠性、真实性、能力或力量的坚定信念；信任；信赖。",
+      "SENT_EN":"Building trust takes time, but it can be destroyed in an instant.",
+      "SENT_ZH":"建立信任需要时间，但它可能瞬间被摧毁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confidence",
+            "reliance",
+            "faith"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "distrust",
+            "doubt",
+            "suspicion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trust [sb]\ntrust [sth]",
+      "POS":"vtr",
+      "POS_TIP":"及物动词 (Transitive Verb)",
+      "TAGS":[
+        "Core Word",
+        "Action"
+      ],
+      "DEF_EN":"To believe that someone or something is reliable, good, honest, or effective.",
+      "DEF_ZH":"相信某人或某事物是可靠、诚实或有效的。",
+      "SENT_EN":"I trust his judgment because he has always been honest with me.",
+      "SENT_ZH":"我信任他的判断，因为他对我一直很诚实。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rely on",
+            "depend on",
+            "confide in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A trust",
+      "POS":"Noun",
+      "POS_TIP":"可数名词 (Countable Noun) / 法律术语 (Legal Term)",
+      "TAGS":[
+        "Legal",
+        "Finance"
+      ],
+      "DEF_EN":"A legal arrangement where assets or property are held by a party (trustee) for the benefit of another (beneficiary).",
+      "DEF_ZH":"信托；为特定受益人利益而由受托人持有的财产或资产的法律安排。",
+      "SENT_EN":"The billionaire established a charitable trust before he died.",
+      "SENT_ZH":"这位亿万富翁在去世前设立了一个慈善信托基金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trustee",
+            "beneficiary",
+            "fiduciary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

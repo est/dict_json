@@ -1,0 +1,120 @@
+{
+  "WORD":"parcel",
+  "IPA":"/'pɑːsəl/ | /'pɑːrsl̩/",
+  "CONJUGATES":"parcel (n, singular) | parcels (n, plural) | parcel (v, base) | parcels (v, 3rd person singular present) | parceling (v, present participle US) | parcelling (v, present participle UK) | parceled (v, past simple/past participle US) | parcelled (v, past simple/past participle UK)",
+  "ETYMOLOGY":"From Old French 'parcelle' (small piece), from Latin 'particella' (small part), diminutive of 'pars' (part).",
+  "SINCE":"Late 14th century (for noun 'package'), early 15th century (for verb 'to divide')",
+  "MEANINGS":[
+    {
+      "PATTERN":"a parcel",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"an object or collection of objects wrapped in paper or packed in a box, typically to be carried or sent by mail.",
+      "DEF_ZH":"包裹；邮包",
+      "SENT_EN":"The postman delivered a large parcel this morning.",
+      "SENT_ZH":"邮递员今天早上送来了一个大包裹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "package",
+            "bundle",
+            "packet",
+            "box"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "delivery",
+            "post"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a parcel of land",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "legal",
+        "technical"
+      ],
+      "DEF_EN":"a quantity or portion of land; a plot.",
+      "DEF_ZH":"一块地；一部分土地",
+      "SENT_EN":"They purchased a small parcel of land to build their new home.",
+      "SENT_ZH":"他们购买了一小块地来建造新家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plot",
+            "tract",
+            "lot",
+            "segment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"parcel [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"to wrap something in paper or plastic, often to be sent by mail.",
+      "DEF_ZH":"打包；包装",
+      "SENT_EN":"She parceled up the books before taking them to the post office.",
+      "SENT_ZH":"在去邮局之前，她把书都打好包了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wrap",
+            "package",
+            "bundle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unwrap",
+            "unpackage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"parcel [sth] out",
+      "POS":"v phrasal",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"to divide something into parts and distribute them among different people or for different purposes.",
+      "DEF_ZH":"分配；瓜分",
+      "SENT_EN":"The teacher parceled out the assignments among the students.",
+      "SENT_ZH":"老师把作业分发给了学生们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distribute",
+            "apportion",
+            "divide",
+            "allocate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, with some verb usages being more formal."
+}

@@ -1,0 +1,84 @@
+{
+  "WORD":"neighbour",
+  "IPA":"/ˈneɪbə/",
+  "CONJUGATES":"neighbours | neighbouring | neighboured",
+  "ETYMOLOGY":"From Old English nēahgebūr, a compound of nēah ('nigh, near') and gebūr ('dweller, farmer'). Note: The US spelling is 'neighbor'.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] (neighbor [US])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person living next door or very near to the user or observer.",
+      "DEF_ZH":"住在隔壁或附近的人；邻居。",
+      "SENT_EN":"We always borrow sugar from our friendly elderly neighbour.",
+      "SENT_ZH":"我们总是向我们友善的老邻居借糖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resident",
+            "housemate (if nearby)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "neighbourhood",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (neighbor [US])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A country, territory, or object that is situated next to or very close to another.",
+      "DEF_ZH":"与另一个国家、城镇或物体相邻的实体；邻国；邻近物。",
+      "SENT_EN":"Mexico is the southern neighbour of the United States.",
+      "SENT_ZH":"墨西哥是美国的南方邻国。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjunct",
+            "borderer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"neighbour [sth] (neighbor [US])",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To be situated next to or very close to (something); adjoin.",
+      "DEF_ZH":"与（某物）相邻或紧邻；毗邻。",
+      "SENT_EN":"The quiet cemetery neighbours the bustling industrial zone.",
+      "SENT_ZH":"这座安静的公墓与喧嚣的工业区毗邻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjoin",
+            "abut",
+            "border"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (British spelling)"
+}

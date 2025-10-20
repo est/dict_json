@@ -1,0 +1,137 @@
+{
+  "WORD":"support",
+  "IPA":"/səˈpɔːrt/",
+  "CONJUGATES":"supports | supporting | supported | supporter | supportive",
+  "ETYMOLOGY":"From Old French supporter (to bear, endure, sustain), derived from Latin supportare (to carry up, convey, endure), from sub- ('up, under') + portare ('to carry').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"support [sth] [physically]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "physical"
+      ],
+      "DEF_EN":"To bear all or part of the weight of; hold up.",
+      "DEF_ZH":"支撑；承载（重量）；托住。",
+      "SENT_EN":"The pillars support the heavy ceiling of the ballroom.",
+      "SENT_ZH":"这些柱子支撑着宴会厅沉重的天花板。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bear",
+            "hold up",
+            "sustain",
+            "prop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"support [sb]\nsupport [sth] [cause/idea]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "common use"
+      ],
+      "DEF_EN":"To give assistance, financial aid, encouragement, or approval to.",
+      "DEF_ZH":"支持；资助；鼓励；赞助。",
+      "SENT_EN":"He supported his family by working two jobs.",
+      "SENT_ZH":"他通过做两份工作来养家糊口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aid",
+            "back",
+            "assist",
+            "fund",
+            "endorse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "oppose",
+            "undermine",
+            "resist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"support [sth] [claim/argument]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "academic"
+      ],
+      "DEF_EN":"To provide evidence for a statement, theory, or belief; corroborate.",
+      "DEF_ZH":"证实；佐证；为...提供依据。",
+      "SENT_EN":"The new archaeological findings support the ancient civilization theory.",
+      "SENT_ZH":"新的考古发现证实了古文明的理论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "verify",
+            "substantiate",
+            "corroborate",
+            "justify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive/provide support\nfinancial/emotional support",
+      "POS":"nu",
+      "POS_TIP":"Uncountable noun",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"The action of giving help, encouragement, or financial maintenance.",
+      "DEF_ZH":"帮助；支援；（经济上的）供养或维护。",
+      "SENT_EN":"The charity provides emotional and practical support to victims of the disaster.",
+      "SENT_ZH":"该慈善机构为灾难受害者提供情感和实际的帮助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "backing",
+            "assistance",
+            "aid",
+            "maintenance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a support for [sth]",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "architecture",
+        "countable"
+      ],
+      "DEF_EN":"A physical structure or object used to hold something up.",
+      "DEF_ZH":"支撑物；支柱；支架。",
+      "SENT_EN":"We need to put a temporary support under the broken beam.",
+      "SENT_ZH":"我们需要在断裂的横梁下放置一个临时支撑物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prop",
+            "pillar",
+            "brace",
+            "column"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

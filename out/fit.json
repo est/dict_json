@@ -1,0 +1,145 @@
+{
+  "WORD":"fit",
+  "IPA":"/fɪt/",
+  "CONJUGATES":"fits | fitting | fitted | fitter | fittest",
+  "ETYMOLOGY":"Origin uncertain, possibly from Middle English *fitten* (to prepare, arrange), or Old Norse *fita* (to knit). The noun meaning 'seizure' is possibly of separate, unknown origin, dating to the 14th century. The adjective meaning 'suitable' dates to the 16th century.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is fit",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "health"
+      ],
+      "DEF_EN":"In good physical condition; healthy and strong.",
+      "DEF_ZH":"身体健康的；强壮的；适合运动的。",
+      "SENT_EN":"She bikes to work every day to stay fit.",
+      "SENT_ZH":"她每天骑自行车上班以保持健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "healthy",
+            "athletic",
+            "vigorous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unfit",
+            "flabby",
+            "weak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] fits [sth]\n[sth] fits",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "size"
+      ],
+      "DEF_EN":"To be of the right size or shape for someone or something.",
+      "DEF_ZH":"尺寸或形状适合；相配。",
+      "SENT_EN":"I tried on the jacket, but it didn't fit me well.",
+      "SENT_ZH":"我试穿了那件夹克，但它不是很合身。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "match",
+            "suit",
+            "conform"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fit for [sth]\nfit to [do sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "suitability"
+      ],
+      "DEF_EN":"Suitable, appropriate, or qualified for a particular purpose or task.",
+      "DEF_ZH":"适合的；合格的；恰当的。",
+      "SENT_EN":"The old factory building is no longer fit for human occupation.",
+      "SENT_ZH":"这座旧工厂大楼不再适合人类居住了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suitable",
+            "appropriate",
+            "apt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unsuitable",
+            "inappropriate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fit [sth] into [sth]\nfit [sth] with [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "installation"
+      ],
+      "DEF_EN":"To install or place a piece of equipment or furniture into something.",
+      "DEF_ZH":"安装；安置；配备（设备或零件）。",
+      "SENT_EN":"The kitchen company will fit the new cabinets next week.",
+      "SENT_ZH":"这家厨房公司下周将安装新橱柜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "install",
+            "mount",
+            "attach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fit of [sth]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "sudden"
+      ],
+      "DEF_EN":"A sudden, violent attack of an illness (such as a seizure or convulsion) or an uncontrollable burst of emotion (such as laughter or rage).",
+      "DEF_ZH":"突发；一阵（疾病或情绪的突然爆发，如癫痫或狂笑）。",
+      "SENT_EN":"The crowd burst into a fit of laughter after the comedian's punchline.",
+      "SENT_ZH":"在喜剧演员的妙语之后，人群爆发出一阵大笑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seizure",
+            "spasm",
+            "outburst",
+            "tantrum"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

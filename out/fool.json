@@ -1,0 +1,114 @@
+{
+  "WORD":"fool",
+  "IPA":"/fuːl/",
+  "CONJUGATES":"fools | fooling | fooled",
+  "ETYMOLOGY":"From Old French fol (adjective and noun) meaning 'mad, senseless, crazy person'. Ultimately perhaps from Latin follis ('bellows, leather bag'), implying someone full of wind or empty-headed.",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is a fool",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "derogatory"
+      ],
+      "DEF_EN":"A person who acts unwisely, stupidly, or lacks common sense.",
+      "DEF_ZH":"行为不理智、愚蠢或缺乏常识的人；傻瓜，笨蛋。",
+      "SENT_EN":"He made a fool of himself by arguing with the referee.",
+      "SENT_ZH":"他与裁判争论，让自己看起来像个傻瓜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "idiot",
+            "dunce",
+            "simpleton",
+            "nincompoop",
+            "clown"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "genius",
+            "sage",
+            "intellect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fool [sb]\nfool [sb] into [doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To trick, deceive, or mislead someone; to make someone believe something untrue.",
+      "DEF_ZH":"欺骗，哄骗，蒙蔽某人；使某人相信不真实的事情。",
+      "SENT_EN":"Don’t try to fool me; I know exactly what you’ve been doing.",
+      "SENT_ZH":"别想骗我；我完全知道你一直在做什么。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deceive",
+            "trick",
+            "hoodwink",
+            "mislead"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fool around\nfool with [sth]",
+      "POS":"vi + adv | vi + prep",
+      "POS_TIP":"intransitive verb + adverb | intransitive verb + preposition",
+      "TAGS":[
+        "phrasal",
+        "informal"
+      ],
+      "DEF_EN":"To spend time idly or playing around instead of working; to interfere with something without serious intention (often 'fool around' or 'fool with').",
+      "DEF_ZH":"游手好闲，胡闹，浪费时间；乱动，不恰当地处理（某物）。",
+      "SENT_EN":"Stop fooling around with those controls; you might break them.",
+      "SENT_ZH":"别再乱动那些控制装置了，你可能会弄坏它们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dally",
+            "mess around",
+            "play"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the court fool",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "dated"
+      ],
+      "DEF_EN":"A professional jester or comedian formerly retained in a royal or noble household to amuse the family and guests.",
+      "DEF_ZH":"（历史上的）弄臣，宫廷小丑，受雇于王室或贵族家庭以供娱乐的专业滑稽演员。",
+      "SENT_EN":"Shakespeare's plays often feature a wise and insightful fool.",
+      "SENT_ZH":"莎士比亚的戏剧中经常出现一位睿智且富有洞察力的弄臣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jester",
+            "buffoon",
+            "clown"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

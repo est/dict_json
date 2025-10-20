@@ -1,0 +1,89 @@
+{
+  "WORD":"sentiment",
+  "IPA":"/ˈsɛntɪmənt/",
+  "CONJUGATES":"sentiments (plural)",
+  "ETYMOLOGY":"From Middle French 'sentiment', from Old French 'sentement' ('feeling, opinion'), from Latin 'sentīmentum' ('feeling, sensation'), from 'sentīre' ('to feel').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"public sentiment\nexpress sentiment | a sentiment",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun). Can be countable or uncountable.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A general feeling, attitude, or opinion, especially one held by a group of people.",
+      "DEF_ZH":"（尤指集体持有的）情感，情绪；看法，观点。",
+      "SENT_EN":"Public sentiment is largely against the proposed tax increase.",
+      "SENT_ZH":"公众对提议的增税方案普遍持反对意见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opinion",
+            "view",
+            "feeling",
+            "belief",
+            "attitude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"personal sentiments\nexpress one's sentiments",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun). Can be countable or uncountable.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A tender, romantic, or nostalgic feeling or emotion.",
+      "DEF_ZH":"情感；情操；情绪。",
+      "SENT_EN":"He expressed his personal sentiments on the matter with great sincerity.",
+      "SENT_ZH":"他真诚地表达了自己对此事的个人情感。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emotion",
+            "feeling",
+            "affection",
+            "tenderness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"idle sentiment\nfull of sentiment",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun). Can be countable or uncountable.",
+      "TAGS":[
+        "common",
+        "sometimes negative connotation"
+      ],
+      "DEF_EN":"Excessive tenderness, sadness, or nostalgia; sentimentality.",
+      "DEF_ZH":"多愁善感；滥情。",
+      "SENT_EN":"His novel was criticized for being overwrought and full of idle sentiment.",
+      "SENT_ZH":"他的小说因过于煽情和充满无谓的滥情而受到批评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sentimentality",
+            "mawkishness",
+            "emotionalism"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "pragmatism",
+            "realism"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

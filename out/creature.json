@@ -1,0 +1,88 @@
+{
+  "WORD":"creature",
+  "IPA":"/'kriːtʃər/",
+  "CONJUGATES":"creatures (plural)",
+  "ETYMOLOGY":"From Old French creature, from Latin creatura 'a thing created', from creare 'to create'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"creature",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An animal, as distinct from a plant, human, or inanimate object.",
+      "DEF_ZH":"生物；动物（区别于植物、人或无生命的物体）。",
+      "SENT_EN":"The Amazon rainforest is full of exotic creatures.",
+      "SENT_ZH":"亚马逊雨林里充满了异国情调的生物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "animal",
+            "being",
+            "beast",
+            "organism"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "creation",
+            "creator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"creature of [sth]",
+      "POS":"n + prep",
+      "POS_TIP":"noun + preposition",
+      "TAGS":[
+        "idiomatic",
+        "descriptive"
+      ],
+      "DEF_EN":"A person whose life, habits, or behavior are entirely dominated or determined by a particular circumstance, environment, or influence.",
+      "DEF_ZH":"某种习惯或环境的产物；受某事物支配的人。",
+      "SENT_EN":"He is a creature of habit, needing coffee immediately upon waking.",
+      "SENT_ZH":"他是一个习惯的奴隶，醒来后需要立刻喝咖啡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "product",
+            "subject",
+            "victim"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] creature",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "affectionate",
+        "pity"
+      ],
+      "DEF_EN":"A person, used to express pity, affection, or sometimes scorn for their character or condition.",
+      "DEF_ZH":"（常指）人（用于表达怜悯、喜爱或轻蔑，尤指某人的境况或性格）。",
+      "SENT_EN":"The poor creature looked exhausted after working three shifts.",
+      "SENT_ZH":"这个可怜的家伙连上三班后看起来精疲力尽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wretch",
+            "soul",
+            "person"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

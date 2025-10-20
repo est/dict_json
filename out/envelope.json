@@ -1,0 +1,80 @@
+{
+  "WORD":"envelope",
+  "IPA":"/ˈɛnvəloʊp/",
+  "CONJUGATES":"envelopes (pl.)",
+  "ETYMOLOGY":"From French enveloppe, the feminine past participle of envelopper ('to wrap up, surround'), related to en- ('in') + voloper (of Germanic origin, meaning 'to wrap'). Used in English primarily as a noun distinct from the verb 'envelop'.",
+  "SINCE":"Late 17th century (referring to the paper covering for a letter)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (thing)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A flat paper container with a gummed flap for enclosing a letter or document to be sent by mail.",
+      "DEF_ZH":"一种扁平的纸质容器，带有涂胶的封口，用于封装信件或文件以便邮寄。",
+      "SENT_EN":"She sealed the application form inside a large brown envelope.",
+      "SENT_ZH":"她把申请表封在一个大棕色信封里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wrapper",
+            "mailer",
+            "pouch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the envelope [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (thing)",
+      "TAGS":[
+        "technical",
+        "figurative"
+      ],
+      "DEF_EN":"A surrounding case, covering, or layer, often referring to the atmosphere around a celestial body or the physical boundaries of a structure.",
+      "DEF_ZH":"周围的外壳、覆盖物或层，常指天体周围的大气层或结构的物理边界。",
+      "SENT_EN":"The spacecraft successfully penetrated the planet's thick gaseous envelope.",
+      "SENT_ZH":"该航天器成功穿透了行星周围厚厚的气体包层。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "casing",
+            "sheath",
+            "mantle",
+            "boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (thing)",
+      "TAGS":[
+        "mathematics",
+        "electronics"
+      ],
+      "DEF_EN":"In geometry, a curve or surface that is tangent to every member of a family of curves or surfaces. In electronics, the line outlining the peaks of a modulated wave.",
+      "DEF_ZH":"在几何学中，与一族曲线或曲面的每个成员都相切的曲线或曲面。在电子学中，指调制波峰值的轮廓线或包络线。",
+      "SENT_EN":"The engineers monitored the signal envelope to detect fluctuations in power.",
+      "SENT_ZH":"工程师们监测信号包络线以检测功率波动。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tangent",
+            "modulation",
+            "waveform"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common (Meaning 1) | Formal/Technical (Meanings 2 & 3)"
+}

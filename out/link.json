@@ -1,0 +1,109 @@
+{
+  "WORD":"link",
+  "IPA":"/lɪŋk/",
+  "CONJUGATES":"links | linked | linking",
+  "ETYMOLOGY":"From Middle English (c. 14th century), probably derived from Old Norse *hlenkr* or Middle Low German *lenke*, meaning 'ring' or 'joint'.",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (to/between [sth] and [sth])",
+      "POS":"n, countable",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"A segment, loop, or component forming part of a chain or a system of connections.",
+      "DEF_ZH":"（链条中的）一节；环节；连接物。",
+      "SENT_EN":"The engineers inspected every link in the bridge structure.",
+      "SENT_ZH":"工程师检查了桥梁结构中的每一个环节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "segment",
+            "section",
+            "component"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"link [sth] to/with [sth]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To connect, join, or associate one thing or concept with another.",
+      "DEF_ZH":"连接；关联；结合。",
+      "SENT_EN":"The new fiber optic cable will link the two remote towns.",
+      "SENT_ZH":"新的光缆将连接这两个偏远的城镇。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "associate",
+            "join"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "disconnect",
+            "detach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n, countable",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "internet term",
+        "common"
+      ],
+      "DEF_EN":"A hypertext reference (URL) in an electronic document that allows a user to navigate to another page or resource.",
+      "DEF_ZH":"（互联网）链接；超链接。",
+      "SENT_EN":"I sent him a link to the article for further reading.",
+      "SENT_ZH":"我给他发了文章链接供他进一步阅读。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hyperlink",
+            "URL"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a link between [sb/sth] and [sb/sth]",
+      "POS":"n, countable",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "figurative",
+        "relationship"
+      ],
+      "DEF_EN":"A relationship, connection, or shared element between two or more people, things, or events.",
+      "DEF_ZH":"关系；联系；纽带。",
+      "SENT_EN":"Investigators found a direct link between the suspect and the crime scene.",
+      "SENT_ZH":"调查人员发现了嫌疑人和犯罪现场之间的直接联系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bond",
+            "tie",
+            "connection",
+            "relationship"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

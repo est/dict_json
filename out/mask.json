@@ -1,0 +1,123 @@
+{
+  "WORD":"mask",
+  "IPA":"/mæsk/",
+  "CONJUGATES":"masks | masked | masking",
+  "ETYMOLOGY":"From Middle French masque, (covering to conceal the face), which came from Italian maschera. Possibly related to Arabic maskharah ('buffoon, joke').",
+  "SINCE":"Early 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] mask\nface mask",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "health",
+        "object"
+      ],
+      "DEF_EN":"A covering worn over the face, or part of the face (especially the mouth and nose), either for protection, disguise, or decoration.",
+      "DEF_ZH":"戴在脸上或脸部部分（尤其是口鼻）的遮盖物，用于保护、伪装或装饰。",
+      "SENT_EN":"During the pandemic, wearing a protective mask became mandatory in public spaces.",
+      "SENT_ZH":"在大流行期间，在公共场所佩戴防护口罩成为强制要求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "covering",
+            "veil",
+            "respirator"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "disguise",
+            "costume",
+            "helmet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mask [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To conceal, hide, or disguise a feeling, smell, sound, or intention.",
+      "DEF_ZH":"掩盖、隐藏或伪装一种感觉、气味、声音或意图。",
+      "SENT_EN":"The strong perfume failed to mask the smell of stale smoke.",
+      "SENT_ZH":"浓烈的香水没能掩盖住陈旧烟雾的味道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hide",
+            "disguise",
+            "obscure",
+            "cloak"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reveal",
+            "expose",
+            "uncover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] face mask\nhair mask",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "beauty",
+        "cosmetics"
+      ],
+      "DEF_EN":"A cream or paste applied to the face or hair for a period of time to treat or improve its condition.",
+      "DEF_ZH":"一种涂抹在面部或头发上并在一段时间后清洗的膏状或霜状物，用于治疗或改善其状况。",
+      "SENT_EN":"She left the deep conditioning hair mask on for thirty minutes.",
+      "SENT_ZH":"她将深层护发面膜敷了三十分钟。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "facial",
+            "scrub",
+            "serum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] mask\nbit mask",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "electronics"
+      ],
+      "DEF_EN":"A pattern, template, or layer used in technology (especially computing or electronics) to select, block, or filter a specific area or portion of data.",
+      "DEF_ZH":"在技术（尤其是计算机或电子学）中使用的图案、模板或层，用于选择、阻挡或过滤特定区域或数据部分。",
+      "SENT_EN":"The chip fabrication process requires precise alignment of the photomasks.",
+      "SENT_ZH":"芯片制造过程需要光掩模的精确对准。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "filter",
+            "template",
+            "photolithography"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Health | Cosmetics | Technical"
+}

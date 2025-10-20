@@ -1,0 +1,114 @@
+{
+  "WORD":"lag",
+  "IPA":"/læɡ/",
+  "CONJUGATES":"lags | lagging | lagged",
+  "ETYMOLOGY":"Probably of Scandinavian origin (compare Norwegian dialect 'lagga' meaning 'go slowly'), first appearing in the sense of falling behind or moving slowly.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] lag",
+      "POS":"vi",
+      "POS_TIP":"verb intransitive",
+      "TAGS":[
+        "core word",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"To experience an unwanted delay, especially in digital communications, video games, or streaming, often due to network issues or processing constraints.",
+      "DEF_ZH":"（在电脑、网络或游戏中）出现延迟；卡顿。",
+      "SENT_EN":"The server was overloaded, causing the video conference to lag severely.",
+      "SENT_ZH":"服务器超载了，导致视频会议严重卡顿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delay",
+            "stutter",
+            "freeze"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "latency",
+            "ping"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lag [behind] [sb/sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"verb intransitive + preposition",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"To fall behind others in movement, progress, or development; to move more slowly than others.",
+      "DEF_ZH":"落后；走慢；进展缓慢或滞后。",
+      "SENT_EN":"The slowest student always seemed to lag behind the rest of the class.",
+      "SENT_ZH":"那个最慢的学生似乎总是落后于班上的其他人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trail",
+            "straggle",
+            "fall back"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lead",
+            "keep up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [time] lag",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"A period of delay or interval; a time difference between cause and effect or between two events.",
+      "DEF_ZH":"滞后；延迟；时间间隔。",
+      "SENT_EN":"There is a significant time lag between the government's policy change and its economic effect.",
+      "SENT_ZH":"政府政策变化和其经济影响之间存在显著的时间滞后。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delay",
+            "interval",
+            "gap"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jet lag"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lag [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "technical",
+        "dated"
+      ],
+      "DEF_EN":"To wrap or cover (pipes, boilers, etc.) with insulating material to prevent heat loss or freezing.",
+      "DEF_ZH":"用绝缘材料包裹（管道、锅炉等）以隔热或防冻。",
+      "SENT_EN":"We need to lag the water pipes before the winter freeze hits.",
+      "SENT_ZH":"我们需要在冬季寒潮来袭之前包裹水管。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Technical, and Informal (in computing contexts)"
+}

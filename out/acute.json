@@ -1,0 +1,96 @@
+{
+  "WORD":"acute",
+  "IPA":"/əˈkjuːt/",
+  "CONJUGATES":"acuter | acutest",
+  "ETYMOLOGY":"From Latin acūtus 'sharpened, pointed', past participle of acuere 'to sharpen', from acus 'needle'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"acute [sense/pain/intellect/shortage]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Present or experienced to a severe or intense degree; having or showing a perceptive understanding or insight; shrewd.",
+      "DEF_ZH":"（程度）剧烈的，严重的；（感官或智力）敏锐的，机敏的",
+      "SENT_EN":"The economic crisis has created an acute shortage of housing.",
+      "SENT_ZH":"经济危机造成了严重的住房短缺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sharp",
+            "intense",
+            "severe",
+            "keen",
+            "shrewd",
+            "astute",
+            "discerning"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dull",
+            "mild",
+            "blunt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"acute [disease/illness/condition]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "medical term",
+        "common"
+      ],
+      "DEF_EN":"(Of a disease or condition) severe but of short duration.",
+      "DEF_ZH":"（疾病）急性的，骤发的",
+      "SENT_EN":"He developed acute appendicitis and needed immediate surgery.",
+      "SENT_ZH":"他得了急性阑尾炎，需要立即手术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sudden",
+            "severe",
+            "short-term"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "chronic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"acute [angle]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"(Of an angle) less than 90 degrees.",
+      "DEF_ZH":"（角度）锐的，小于90度的",
+      "SENT_EN":"A triangle with all three angles acute is called an acute triangle.",
+      "SENT_ZH":"所有三个角都是锐角的三角形被称为锐角三角形。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "obtuse",
+            "right"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, medical, mathematical"
+}

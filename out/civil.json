@@ -1,0 +1,99 @@
+{
+  "WORD":"civil",
+  "IPA":"/ˈsɪvəl/",
+  "CONJUGATES":"civilly (adv) | civility (n) | uncivil (adj)",
+  "ETYMOLOGY":"From Middle English *civil*, from Old French *civil*, from Latin *civilis* ('relating to citizens'), derived from *civis* ('citizen').",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] (of citizens or the state)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "politics",
+        "law"
+      ],
+      "DEF_EN":"Relating to ordinary citizens and their concerns, as opposed to military, governmental (when contrasted with private), or religious affairs.",
+      "DEF_ZH":"公民的；民间的；世俗的（区别于军事或宗教）。",
+      "SENT_EN":"The transition of power must be handled in a civil manner, respecting the laws of the state.",
+      "SENT_ZH":"权力的过渡必须以民事方式处理，尊重国家法律。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "civic",
+            "public",
+            "nonmilitary"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "civil service",
+            "civil rights"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (polite)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "etiquette"
+      ],
+      "DEF_EN":"Adhering to the norms of courtesy and politeness; not rude, especially in minimal expectations of formality.",
+      "DEF_ZH":"有礼貌的；客气的；谦恭的。",
+      "SENT_EN":"We may disagree, but we should always remain civil toward one another.",
+      "SENT_ZH":"我们可能意见不合，但我们应该始终对彼此保持礼貌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "polite",
+            "courteous",
+            "respectful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rude",
+            "uncivil",
+            "impolite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (Law, non-criminal)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "legal term"
+      ],
+      "DEF_EN":"Relating to private rights and legal action between individuals or organizations, rather than criminal offenses against the state.",
+      "DEF_ZH":"(法律) 民事的；关于个人或组织之间私法纠纷的。",
+      "SENT_EN":"The corporation faced a major civil lawsuit for environmental damages.",
+      "SENT_ZH":"这家公司面临着一项重大的环境损害民事诉讼。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "civil law",
+            "tort"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "criminal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, and Legal contexts"
+}

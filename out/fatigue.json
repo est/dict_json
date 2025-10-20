@@ -1,0 +1,88 @@
+{
+  "WORD":"fatigue",
+  "IPA":"/fəˈtiːɡ/",
+  "CONJUGATES":"fatigues | fatigued | fatiguing",
+  "ETYMOLOGY":"From Middle French *fatigue* (noun) and *fatiguer* (verb), derived from Latin *fatigare* 'to tire out, weary'.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[uncountable noun]",
+      "POS":"n",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"Extreme physical or mental weariness, typically resulting from strenuous exertion, illness, or prolonged stress.",
+      "DEF_ZH":"极度疲倦；疲劳（通常由体力或脑力活动、疾病或长期压力引起）。",
+      "SENT_EN":"The doctor diagnosed her condition as chronic fatigue syndrome.",
+      "SENT_ZH":"医生诊断她的病情为慢性疲劳综合征。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exhaustion",
+            "tiredness",
+            "weariness",
+            "languor"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vigor",
+            "energy",
+            "alertness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fatigue [sb] / fatigue [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To cause (someone or something) to become weary or exhausted.",
+      "DEF_ZH":"使（某人）疲劳；使筋疲力尽；使（某物）损耗。",
+      "SENT_EN":"The long climb up the mountain severely fatigued the hikers.",
+      "SENT_ZH":"长时间的爬山使徒步旅行者筋疲力尽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tire",
+            "exhaust",
+            "weary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[uncountable noun]",
+      "POS":"n",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"The weakening or failure of a material, such as metal or plastic, caused by repeated stress or application of loads.",
+      "DEF_ZH":"（材料）疲劳；损耗（金属、塑料等材料因重复应力或载荷作用而导致的弱化或失效）。",
+      "SENT_EN":"The accident was blamed on metal fatigue in the aircraft's wing structure.",
+      "SENT_ZH":"这次事故被归咎于飞机机翼结构中的金属疲劳。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stress fracture",
+            "material failure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in scientific, medical, and technical contexts."
+}

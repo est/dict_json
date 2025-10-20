@@ -1,0 +1,111 @@
+{
+  "WORD":"sphere",
+  "IPA":"/sfɪər/",
+  "CONJUGATES":"spheres | sphered | sphering",
+  "ETYMOLOGY":"From Middle English, derived from Old French espere, from Latin sphaera, from Greek σφαῖρα (sphaîra, 'ball, globe').",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] sphere",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "common"
+      ],
+      "DEF_EN":"A perfectly round three-dimensional shape, like a ball, where every point on the surface is equidistant from the center.",
+      "DEF_ZH":"球体；圆体；球面。",
+      "SENT_EN":"To calculate the volume of a sphere, you need to know its radius.",
+      "SENT_ZH":"要计算球体的体积，你需要知道它的半径。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "globe",
+            "orb",
+            "ball"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "circle",
+            "spheroid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] sphere of influence/activity/interest",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"An area or range of activity, expertise, control, or interest; a domain or realm.",
+      "DEF_ZH":"领域；范围；势力范围；界限。",
+      "SENT_EN":"She decided that managing finances was outside her sphere of competence.",
+      "SENT_ZH":"她认为管理财务不在她的能力范围之内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "domain",
+            "realm",
+            "scope",
+            "jurisdiction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] atmosphere/biosphere/lithosphere",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "science",
+        "formal"
+      ],
+      "DEF_EN":"Any of the concentric layers surrounding a celestial body, such as a planet.",
+      "DEF_ZH":"（天文学或地理学中围绕行星的）层；圈；界（如大气层，生物圈）。",
+      "SENT_EN":"The biosphere encompasses all life on Earth and the parts of the planet where life exists.",
+      "SENT_ZH":"生物圈包含地球上的所有生命以及存在生命的星球部分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "atmosphere",
+            "biosphere",
+            "stratosphere"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[to] sphere [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "rare",
+        "literary"
+      ],
+      "DEF_EN":"To enclose or surround as if with a sphere; to cause to form into a sphere.",
+      "DEF_ZH":"使成球形；用球体包围。",
+      "SENT_EN":"The magician seemed to sphere the light in his hands.",
+      "SENT_ZH":"那位魔术师似乎把光聚集在了他的手中，使其形成球状。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "encircle",
+            "round",
+            "globe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical (Geometry), General Use"
+}

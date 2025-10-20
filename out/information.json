@@ -1,0 +1,89 @@
+{
+  "WORD":"information",
+  "IPA":"/ˌɪnfərˈmeɪʃən/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English *informacion*, borrowed from Old French *informacion* 'forming, education', ultimately from Latin *īnfōrmātiō* 'formation, conception', derived from *īnfōrmāre* 'to shape, instruct'.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n. [uncountable]",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "knowledge",
+        "data"
+      ],
+      "DEF_EN":"Facts, data, or knowledge received or provided about a particular subject or event.",
+      "DEF_ZH":"关于特定主题或事件所接收或提供的、或从中获取的事实、数据或知识。",
+      "SENT_EN":"The tourist office provides detailed information about local attractions.",
+      "SENT_ZH":"旅游局提供关于当地景点的详细信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data",
+            "intelligence",
+            "knowledge",
+            "facts"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "communication",
+            "report"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n. [uncountable]",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In communication theory and computing, the content derived from data processing or transmission, often measured in bits.",
+      "DEF_ZH":"（在传播学或计算机科学中）通过数据处理或传输得出的内容，常以比特（bits）为单位衡量。",
+      "SENT_EN":"The system processes and stores vast amounts of digital information every second.",
+      "SENT_ZH":"该系统每秒处理和存储大量数字信息。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bit",
+            "entropy",
+            "cybernetics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"file an information against [sb]",
+      "POS":"n. [countable]",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "legal",
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"A formal charge or complaint lodged against a person, usually by a prosecuting attorney, without the necessity of a grand jury indictment (especially in certain US and UK jurisdictions).",
+      "DEF_ZH":"（法律）正式指控或诉状，通常由检察官提出，无需大陪审团起诉书的正式程序。",
+      "SENT_EN":"The prosecutor filed an information against the defendant for tax evasion.",
+      "SENT_ZH":"检察官对被告人提起了逃税的正式指控。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "accusation",
+            "complaint"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

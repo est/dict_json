@@ -1,0 +1,153 @@
+{
+  "WORD":"pull",
+  "IPA":"/pʊl/",
+  "CONJUGATES":"pulls | pulling | pulled",
+  "ETYMOLOGY":"From Middle English pullen, from Old English pullian 'to pluck, draw out'. Possibly related to Old High German phullôn (to beat, thresh).",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"pull [sth]\npull [sb/sth] toward [sb/sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Exert force on an object or person to move it toward oneself or the source of the force.",
+      "DEF_ZH":"施力于某物或某人，将其朝自身或力的来源方向移动；拉动。",
+      "SENT_EN":"The current was too strong, and it began pulling the boat out to sea.",
+      "SENT_ZH":"水流太强了，开始把船拉向大海。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "draw",
+            "haul",
+            "tug",
+            "yank"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "push",
+            "shove"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pull [sth] out\npull [sth] off",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive verb + adverb (phrasal verb)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To remove or extract something, often with effort.",
+      "DEF_ZH":"拔出；取出；移除（常指费力地）。",
+      "SENT_EN":"The mechanic had to pull out the broken spark plug.",
+      "SENT_ZH":"机械师不得不拔出损坏的火花塞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extract",
+            "withdraw",
+            "pluck"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pull [sth] (e.g., muscle)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"To injure (a muscle or tendon) by stretching it too far; strain.",
+      "DEF_ZH":"（肌肉或肌腱）拉伤。",
+      "SENT_EN":"Be careful not to pull a muscle during heavy lifting.",
+      "SENT_ZH":"举重时要小心，不要拉伤肌肉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strain",
+            "wrench"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pull [sth]",
+      "POS":"nsing | ncount",
+      "POS_TIP":"Singular noun | Countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act or instance of pulling; a force exerted by pulling.",
+      "DEF_ZH":"拉动；拉力；牵引力。",
+      "SENT_EN":"She gave the rope a sharp pull to test its strength.",
+      "SENT_ZH":"她猛地拉了一下绳子，试试它的强度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tug",
+            "jerk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have pull\nget the pull with [sb]",
+      "POS":"nsing",
+      "POS_TIP":"Singular noun (uncountable)",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"Influence or advantage, especially when used to obtain special treatment.",
+      "DEF_ZH":"影响力；人脉；能获得特殊待遇的优势。",
+      "SENT_EN":"It helped that her family had a lot of pull in the local government.",
+      "SENT_ZH":"多亏了她家人在当地政府中很有影响力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clout",
+            "influence",
+            "leverage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pull [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "business",
+        "common"
+      ],
+      "DEF_EN":"To withdraw or remove (a product, advertisement, or event) from availability or circulation.",
+      "DEF_ZH":"撤回；取消（产品、广告或活动）。",
+      "SENT_EN":"The company decided to pull the controversial ad campaign.",
+      "SENT_ZH":"该公司决定撤回这项有争议的广告活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cancel",
+            "retract",
+            "recall"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, business, and physical activities."
+}

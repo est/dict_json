@@ -1,0 +1,66 @@
+{
+  "WORD":"robot",
+  "IPA":"/ˈroʊbɑːt/",
+  "CONJUGATES":"robots | robotic (adj) | robotically (adv)",
+  "ETYMOLOGY":"Coined by the Czech writer Karel Čapek in his 1920 play R.U.R. (Rossum's Universal Robots), derived from the Czech word 'robota' meaning 'drudgery, servitude, forced labor'.",
+  "SINCE":"1920",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.",
+      "DEF_ZH":"一种能够自动执行复杂系列动作的机器，尤其指可由计算机编程控制的设备。",
+      "SENT_EN":"The warehouse utilized a large number of autonomous robots to manage inventory.",
+      "SENT_ZH":"该仓库利用大量自主机器人来管理库存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automaton",
+            "android",
+            "bot"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "AI",
+            "cybernetics",
+            "mechatronics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun (countable), used figuratively, often negatively",
+      "TAGS":[
+        "figurative",
+        "informal",
+        "derogatory"
+      ],
+      "DEF_EN":"A person who acts mechanically, without emotion, or performs dull, repetitive work.",
+      "DEF_ZH":"一个行为机械、缺乏情感或思想，从事枯燥重复性工作的人（比喻义）。",
+      "SENT_EN":"Since the restructuring, the employees feel like robots just following orders.",
+      "SENT_ZH":"自从重组以来，员工们感觉自己像只会执行命令的机器人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drone",
+            "automaton",
+            "cog"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technology, General Usage, Science Fiction"
+}

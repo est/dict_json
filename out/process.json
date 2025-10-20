@@ -1,0 +1,112 @@
+{
+  "WORD":"process",
+  "IPA":"/ˈprɑːsɛs/",
+  "CONJUGATES":"processes (n) | processes (v) | processing | processed",
+  "ETYMOLOGY":"From Old French proces, derived from Latin processus ('a going forward, advance, progress'), from procedere ('to go forth, proceed').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"A series of actions or steps taken in order to achieve a particular end.",
+      "DEF_ZH":"为了达成特定目的而采取的一系列行动或步骤；过程。",
+      "SENT_EN":"The application review process usually takes two weeks.",
+      "SENT_ZH":"申请审查过程通常需要两周时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "procedure",
+            "method",
+            "operation",
+            "system"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "workflow",
+            "protocol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"process [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "technology",
+        "business"
+      ],
+      "DEF_EN":"To perform operations on (data, materials, etc.) by means of a mechanical or intellectual procedure; to handle or deal with something systematically.",
+      "DEF_ZH":"对（数据、材料等）进行机械或智力上的操作处理；系统地处理或应对某事。",
+      "SENT_EN":"The bank processes thousands of transactions every minute.",
+      "SENT_ZH":"这家银行每分钟处理数千笔交易。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handle",
+            "manage",
+            "convert",
+            "analyze"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"process [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "psychology",
+        "informal"
+      ],
+      "DEF_EN":"To understand, internalize, and deal with (an emotion, experience, or difficult event).",
+      "DEF_ZH":"理解、内化并处理（某种情绪、经历或困难事件）。",
+      "SENT_EN":"She needed time to process the bad news before she could speak about it.",
+      "SENT_ZH":"她需要时间来消化这个坏消息，然后才能谈论它。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "absorb",
+            "assimilate",
+            "cope with"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"legal process",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A formal summons or court order requiring a person to appear in court or providing notification of legal action.",
+      "DEF_ZH":"正式的传唤或法庭命令，要求某人出庭或提供法律诉讼通知。",
+      "SENT_EN":"The lawyer ensured the proper legal process was followed in serving the complaint.",
+      "SENT_ZH":"律师确保在送达投诉书时遵循了适当的法律程序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "writ",
+            "summons",
+            "warrant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in business, technology, and academia."
+}

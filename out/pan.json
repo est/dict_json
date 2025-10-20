@@ -1,0 +1,108 @@
+{
+  "WORD":"pan",
+  "IPA":"/pæn/",
+  "CONJUGATES":"pans | panning | panned",
+  "ETYMOLOGY":"From Old English panne (frying pan, shallow container), derived ultimately from Latin patina (shallow dish, pan). The verb senses ('criticize', 'camera movement') are 19th-20th century, related to the gold panning process or the panoramic view.",
+  "SINCE":"c. 900 AD (for the container)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A wide, shallow container typically made of metal, used for cooking food over direct heat.",
+      "DEF_ZH":"锅；平底锅；煎锅；浅盘",
+      "SENT_EN":"He grabbed a heavy cast-iron pan to fry the bacon.",
+      "SENT_ZH":"他抓起一个沉重的铸铁平底锅来煎培根。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skillet",
+            "saucepan",
+            "casserole"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pan [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "colloquial"
+      ],
+      "DEF_EN":"To criticize severely or unfavorably, especially a film, book, or performance.",
+      "DEF_ZH":"严厉批评；猛烈抨击（尤指艺术作品）",
+      "SENT_EN":"The critics panned the musical for its weak plot and excessive length.",
+      "SENT_ZH":"评论家们抨击这部音乐剧剧情薄弱且篇幅过长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slam",
+            "trash",
+            "vilify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "praise",
+            "applaud",
+            "rave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pan (the camera/camera)",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "technical",
+        "filmmaking"
+      ],
+      "DEF_EN":"To swing a movie or video camera horizontally from a fixed position to cover a panoramic view or follow a moving object.",
+      "DEF_ZH":"（摄像机）摇摄；横摇镜头",
+      "SENT_EN":"The director told the camera operator to pan slowly across the landscape.",
+      "SENT_ZH":"导演告诉摄像师慢慢地摇摄过这片风景。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tilt",
+            "zoom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pan (for [sth])",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "mining",
+        "historical"
+      ],
+      "DEF_EN":"To wash gravel or soil in a pan (especially a shallow metal one) to separate gold or other heavy valuable minerals.",
+      "DEF_ZH":"（用平底盘）淘金；淘洗（矿物）",
+      "SENT_EN":"They spent the afternoon panning for gold in the riverbed.",
+      "SENT_ZH":"他们花了一个下午在河床里淘金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "prospecting",
+            "sluicing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific senses used in media criticism and cinematography."
+}

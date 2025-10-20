@@ -1,0 +1,109 @@
+{
+  "WORD":"phase",
+  "IPA":"/feɪz/",
+  "CONJUGATES":"n: phases | v: phases, phasing, phased",
+  "ETYMOLOGY":"From Latin phasis (via Greek phasis 'appearance', from phainein 'to show'), meaning 'appearance of a star', then 'period of moon's light'. Extended senses developed later.",
+  "SINCE":"Late 16th century (astronomy), late 19th century (general stages), mid 20th century (verb senses).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a phase] of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A distinct period or stage in a process of change or development.",
+      "DEF_ZH":"（发展或变化过程中的）阶段，时期。",
+      "SENT_EN":"The project is currently in its final phase of development.",
+      "SENT_ZH":"该项目目前处于开发的最后阶段。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stage",
+            "period",
+            "step",
+            "juncture",
+            "chapter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the phases of [sth] (e.g., the moon)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technical",
+        "astronomy"
+      ],
+      "DEF_EN":"Any of the forms, recurring successively, in which the moon or a planet appears, in consequence of the varying proportions of the illuminated surface seen from the earth. Also, a particular stage in a recurring sequence of events or phenomena.",
+      "DEF_ZH":"（月球、行星的）相位；（周期的）相，阶段。",
+      "SENT_EN":"We observed the different phases of the moon throughout the month.",
+      "SENT_ZH":"我们观察了整个月份月球的不同相位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "new moon",
+            "full moon",
+            "crescent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"phase [sth] in/out\nphase [sth] from/to [sth]",
+      "POS":"vtr + adv/prep",
+      "POS_TIP":"transitive verb + adverb/preposition",
+      "TAGS":[
+        "common",
+        "business",
+        "technical"
+      ],
+      "DEF_EN":"Introduce or remove something in gradual stages.",
+      "DEF_ZH":"逐步引入或淘汰（某物）；分阶段进行。",
+      "SENT_EN":"The company plans to phase out the old software over the next year.",
+      "SENT_ZH":"公司计划在明年逐步淘汰旧软件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transition",
+            "implement gradually",
+            "retire gradually"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in a [liquid/solid/gas] phase",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "science",
+        "chemistry",
+        "physics"
+      ],
+      "DEF_EN":"A distinct state of matter (e.g., solid, liquid, gas, plasma) of a system that is uniform throughout in chemical composition and physical properties.",
+      "DEF_ZH":"（物质的）相态；（电学中的）相。",
+      "SENT_EN":"Water exists in three main phases: solid, liquid, and gas.",
+      "SENT_ZH":"水主要以固态、液态和气态这三种相态存在。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "solid",
+            "liquid",
+            "gas",
+            "plasma"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Business"
+}

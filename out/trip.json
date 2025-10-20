@@ -1,0 +1,104 @@
+{
+  "WORD":"trip",
+  "IPA":"/trɪp/",
+  "CONJUGATES":"trips | tripping | tripped",
+  "ETYMOLOGY":"From Middle English, derived from Old French triper 'to step, tread, dance,' possibly of Germanic origin, related to Dutch trippen 'to skip, hop.'",
+  "SINCE":"Late 13th century (for the verb meaning 'to stumble') | Mid 15th century (for the noun meaning 'a journey')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] trip [to] [sth/somewhere]",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"A journey or excursion, especially a short one for pleasure or a specific purpose.",
+      "DEF_ZH":"旅程；旅行；远足，尤指短途的休闲或有目的的外出。",
+      "SENT_EN":"We are planning a short business trip to New York next month.",
+      "SENT_ZH":"我们正计划下个月去纽约进行一次短途商务旅行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "journey",
+            "excursion",
+            "outing",
+            "voyage",
+            "jaunt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trip [over] [sth]\ntrip [sb] [up]",
+      "POS":"vint | vtr",
+      "POS_TIP":"Intransitive Verb | Transitive Verb (vint/vtr)",
+      "TAGS":[
+        "Core Word",
+        "Action"
+      ],
+      "DEF_EN":"To catch one's foot on something and stumble or fall; (transitive) to cause someone to stumble or make a mistake.",
+      "DEF_ZH":"绊倒，失足；（使）犯错或难堪。",
+      "SENT_EN":"Be careful not to trip over the loose paving stones.",
+      "SENT_ZH":"小心不要被松动的铺路石绊倒了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stumble",
+            "fall",
+            "tumble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trip [sth] (e.g., a switch, alarm)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (vtr)",
+      "TAGS":[
+        "Technical",
+        "Mechanism"
+      ],
+      "DEF_EN":"To activate a mechanism, especially one designed to cut off an electrical circuit (such as a circuit breaker) or an alarm.",
+      "DEF_ZH":"触发，启动（警报或机械装置），尤指使断路器跳闸。",
+      "SENT_EN":"If you plug in too many appliances, you might trip the fuse.",
+      "SENT_ZH":"如果你插入太多电器，可能会导致保险丝跳闸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trigger",
+            "activate",
+            "set off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] trip [on] [drugs]",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Slang",
+        "Informal"
+      ],
+      "DEF_EN":"The experience, often involving hallucinations, caused by taking a psychedelic or hallucinogenic drug.",
+      "DEF_ZH":"（因服用致幻剂而产生的）迷幻经历或幻觉状态。",
+      "SENT_EN":"After the initial excitement, he started having a really bad trip.",
+      "SENT_ZH":"最初的兴奋过后，他开始经历了非常糟糕的幻觉。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hallucination",
+            "acid",
+            "LSD"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, technical (electrical), and informal/slang."
+}

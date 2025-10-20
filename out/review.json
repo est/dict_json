@@ -1,0 +1,135 @@
+{
+  "WORD":"review",
+  "IPA":"/rɪˈvjuː/",
+  "CONJUGATES":"reviews | reviewing | reviewed",
+  "ETYMOLOGY":"From Old French reveue, feminine past participle of revoir ('to see again'), from re- ('again') + voir ('to see'). First used in English in the 15th century.",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] review (of [sth])",
+      "POS":"nc | nu",
+      "POS_TIP":"noun countable | noun uncountable",
+      "TAGS":[
+        "core word",
+        "media",
+        "commerce"
+      ],
+      "DEF_EN":"A formal assessment or critique of a book, film, product, or performance, typically published publicly.",
+      "DEF_ZH":"对书籍、电影、产品或表演的正式评价或批评，通常公开出版。",
+      "SENT_EN":"The film received excellent reviews, praising the cinematography.",
+      "SENT_ZH":"这部电影获得了极好的评价，称赞了它的摄影技术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "critique",
+            "assessment",
+            "evaluation",
+            "write-up"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reviewer",
+            "feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"review [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "core word",
+        "standard"
+      ],
+      "DEF_EN":"To examine or consider something again, especially in order to make necessary changes, corrections, or official decisions.",
+      "DEF_ZH":"再次检查或考虑某事物，特别是为了进行必要的修改、更正或做出正式决定。",
+      "SENT_EN":"The committee decided to review the case files one more time before voting.",
+      "SENT_ZH":"委员会决定在投票前再次审核案件档案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "re-examine",
+            "reconsider",
+            "audit",
+            "inspect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"review [material/notes]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "education"
+      ],
+      "DEF_EN":"To look back over material already studied, typically in preparation for an exam or presentation.",
+      "DEF_ZH":"回顾已经学习过的材料，通常是为考试或演示做准备。",
+      "SENT_EN":"Before the test, make sure you review all the vocabulary words.",
+      "SENT_ZH":"考试前，确保你复习了所有的词汇。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recap",
+            "go over",
+            "summarize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] military review",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "formal",
+        "military"
+      ],
+      "DEF_EN":"A formal inspection of troops or military forces.",
+      "DEF_ZH":"对军队或军事力量的正式检阅。",
+      "SENT_EN":"The President attended the annual military review on the national holiday.",
+      "SENT_ZH":"总统出席了国庆节的年度军事检阅。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inspection",
+            "parade",
+            "muster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] review",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "literary",
+        "academic",
+        "archaic"
+      ],
+      "DEF_EN":"A periodical publication containing articles on current affairs, literature, or specialized scholarship.",
+      "DEF_ZH":"一种包含时事、文学或专业学术文章的定期出版物（评论杂志）。",
+      "SENT_EN":"He published his essay in the quarterly literary review.",
+      "SENT_ZH":"他的文章发表在那个季度性文学评论杂志上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "journal",
+            "periodical",
+            "magazine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across professional, academic, and media contexts."
+}

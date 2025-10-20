@@ -1,0 +1,78 @@
+{
+  "WORD":"denounce",
+  "IPA":"/dɪˈnaʊns/",
+  "CONJUGATES":"denounces | denouncing | denounced",
+  "ETYMOLOGY":"From Old French denoncier, from Latin dēnūntiāre ('to give official notice, declare, proclaim, denounce'). Formed from dē- ('down, thoroughly') + nūntiāre ('to report, announce').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"denounce [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr = transitive verb, takes a direct object",
+      "TAGS":[
+        "core word",
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To publicly declare someone or something to be wrong or evil.",
+      "DEF_ZH":"公开谴责（某人或某事），指责其为错误或邪恶。",
+      "SENT_EN":"The government was quick to denounce the terrorist attack.",
+      "SENT_ZH":"政府迅速谴责了这次恐怖袭击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condemn",
+            "censure",
+            "reprimand",
+            "criticize",
+            "lambaste"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "praise",
+            "applaud",
+            "commend",
+            "uphold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"denounce [sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr = transitive verb, takes a direct object",
+      "TAGS":[
+        "rare",
+        "old-fashioned",
+        "formal"
+      ],
+      "DEF_EN":"To inform against someone; to betray or accuse someone publicly.",
+      "DEF_ZH":"告发（某人）；公开指控或背叛某人。",
+      "SENT_EN":"He threatened to denounce his accomplices if he was caught.",
+      "SENT_ZH":"他威胁说如果被抓，就会告发他的同伙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accuse",
+            "inform on",
+            "incriminate",
+            "betray"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "protect",
+            "defend",
+            "shield"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or journalistic contexts, especially when discussing political, social, or moral issues."
+}

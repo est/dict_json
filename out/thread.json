@@ -1,0 +1,176 @@
+{
+  "WORD":"thread",
+  "IPA":"/θrɛd/",
+  "CONJUGATES":"threads | threading | threaded",
+  "ETYMOLOGY":"From Old English þræd 'strand, filament', related to þrawan 'to twist'. From Proto-Germanic *þradum.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"a thread of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A long, thin strand of cotton, wool, or other fibrous material, used for sewing or weaving.",
+      "DEF_ZH":"用于缝纫或编织的棉、羊毛或其他纤维材料的细长股。",
+      "SENT_EN":"She chose a beautiful silk thread for her embroidery project.",
+      "SENT_ZH":"她为她的刺绣项目选择了一根漂亮的丝线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fiber",
+            "filament",
+            "yarn",
+            "string"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the thread of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A continuous, coherent line of thought, argument, or story.",
+      "DEF_ZH":"连续、连贯的思路、论点或故事线。",
+      "SENT_EN":"I lost the thread of the conversation after he changed the subject so abruptly.",
+      "SENT_ZH":"他突然改变话题后，我跟不上谈话的思路了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "line",
+            "narrative",
+            "theme",
+            "continuity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a thread on [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "computing",
+        "modern"
+      ],
+      "DEF_EN":"A group of messages or articles on a discussion forum, email exchange, or social media platform that are all related to the same topic.",
+      "DEF_ZH":"在讨论论坛、电子邮件交流或社交媒体平台上，所有与同一主题相关的消息或文章组。",
+      "SENT_EN":"The forum thread about the new software update grew to over a hundred posts.",
+      "SENT_ZH":"关于新软件更新的论坛帖子增长到了一百多条。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discussion",
+            "topic",
+            "conversation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the thread of a screw",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A helical ridge on the shaft of a screw or bolt, or inside a nut, that allows it to be screwed into another part.",
+      "DEF_ZH":"螺钉或螺栓杆上的螺旋形凸起，或螺母内部的螺旋槽，使其能够拧入另一部件。",
+      "SENT_EN":"The screw had a damaged thread, so it wouldn't tighten properly.",
+      "SENT_ZH":"螺丝的螺纹损坏了，所以无法拧紧。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "helix",
+            "groove",
+            "ridge",
+            "screw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thread [sth] through [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To pass a thread or something similar through a narrow opening or onto something.",
+      "DEF_ZH":"将线或类似物穿过狭窄的开口或穿到某物上。",
+      "SENT_EN":"She carefully threaded the needle with the thin string.",
+      "SENT_ZH":"她小心翼翼地用细绳穿针。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "string",
+            "pass",
+            "weave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thread one's way through [sth]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To move carefully and skillfully through a crowded, intricate, or difficult space.",
+      "DEF_ZH":"小心翼翼、熟练地穿过拥挤、复杂或困难的空间。",
+      "SENT_EN":"He threaded his way through the dense crowd to reach the stage.",
+      "SENT_ZH":"他穿过拥挤的人群，到达了舞台。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "navigate",
+            "meander",
+            "zigzag",
+            "wind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a thread (in computing)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "computing"
+      ],
+      "DEF_EN":"In computer programming, a separate, independent sequence of instructions within a program that can be executed concurrently with other threads or processes.",
+      "DEF_ZH":"在计算机编程中，程序中独立的指令序列，可以与其他线程或进程并发执行。",
+      "SENT_EN":"Multithreading allows an application to run multiple threads simultaneously, improving performance.",
+      "SENT_ZH":"多线程允许应用程序同时运行多个线程，从而提高性能。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "process",
+            "multithreading",
+            "concurrency"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

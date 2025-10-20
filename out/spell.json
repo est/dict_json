@@ -1,0 +1,100 @@
+{
+  "WORD":"spell",
+  "IPA":"/spɛl/",
+  "CONJUGATES":"spelling | spelled | spelt",
+  "ETYMOLOGY":"Primarily from Old English spellian (to tell, relate, discourse, name letters) and the related noun spell (a story, narrative, or charm).",
+  "SINCE":"Pre-1000 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"spell [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "linguistics"
+      ],
+      "DEF_EN":"To state or write the letters that form a word in correct sequence.",
+      "DEF_ZH":"拼写；拼出（单词的字母）。",
+      "SENT_EN":"Could you spell out your full address for me?",
+      "SENT_ZH":"你能把你的完整地址拼出来给我听吗？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a spell of [sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "time expression"
+      ],
+      "DEF_EN":"A continuous period of time, usually referring to a specific activity, condition, or type of weather.",
+      "DEF_ZH":"一段（特定的）时间；一阵子；一段时间。",
+      "SENT_EN":"We had a long spell of unusually cold weather last winter.",
+      "SENT_ZH":"去年冬天我们经历了一段反常的寒冷天气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "period",
+            "bout",
+            "stretch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cast a spell\nunder a spell",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "fantasy",
+        "core word"
+      ],
+      "DEF_EN":"A magical word or set of words (incantation) or action intended to have a supernatural effect; a magical charm.",
+      "DEF_ZH":"咒语；魔法；符咒。",
+      "SENT_EN":"The evil sorcerer put a sleeping spell on the entire kingdom.",
+      "SENT_ZH":"邪恶的巫师对整个王国施了沉睡咒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charm",
+            "incantation",
+            "hex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spell [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "regional"
+      ],
+      "DEF_EN":"To relieve someone from work or a task for a short period of time; to take someone's place to allow them to rest.",
+      "DEF_ZH":"接替；轮替（让某人休息）。",
+      "SENT_EN":"After driving for twelve hours, he asked his partner to spell him at the wheel.",
+      "SENT_ZH":"开了十二个小时后，他让他的搭档替他开一会儿，让他休息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relieve",
+            "substitute",
+            "take over"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English",
+  "RELATED_WORDS":[
+    {
+      "WORD":"spelling bee",
+      "DEF_EN":"A competition in which contestants are asked to spell words aloud.",
+      "DEF_ZH":"拼写比赛"
+    }
+  ]
+}

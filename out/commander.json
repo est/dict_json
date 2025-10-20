@@ -1,0 +1,78 @@
+{
+  "WORD":"COMMANDER",
+  "IPA":"/kəˈmændər/",
+  "CONJUGATES":"commander | commanders",
+  "ETYMOLOGY":"From Old French commandeor, derived from commander ('to command'), ultimately from Vulgar Latin *commandare, a blend of Latin commendare ('to commit, entrust') and mandare ('to order').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core word",
+        "Military"
+      ],
+      "DEF_EN":"A person who is in charge of a military unit, operation, or organization; one who commands.",
+      "DEF_ZH":"军事单位、行动或组织的负责人；指挥官；司令。",
+      "SENT_EN":"The commander gave the order to advance just before dawn.",
+      "SENT_ZH":"指挥官在黎明前下达了前进的命令。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "officer",
+            "chief",
+            "leader",
+            "captain"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "command",
+            "commandment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (as a title)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Nautical",
+        "Official",
+        "Rank"
+      ],
+      "DEF_EN":"A specific commissioned rank in the navy, coast guard, or similar maritime forces, typically ranking above lieutenant commander and below captain. Also used as a rank in some police forces.",
+      "DEF_ZH":"海军、海岸警卫队或其他海事部队中的特定军衔（通常高于少校，低于上校）。也用于某些警察部队的头衔。",
+      "SENT_EN":"Commander Johnson reported for duty at the naval base yesterday.",
+      "SENT_ZH":"约翰逊指挥官昨天到海军基地报到执勤。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lieutenant commander",
+            "captain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Figurative",
+        "Rare"
+      ],
+      "DEF_EN":"A person who holds supremacy or definitive control over a specific area, group, or domain.",
+      "DEF_ZH":"对特定领域、群体或范围拥有最高权力或决定性控制权的人；主宰者。",
+      "SENT_EN":"He acted as the commander of his fate, making every decision independently.",
+      "SENT_ZH":"他扮演着自己命运的主宰者，独立做出每一个决定。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal, Military, Nautical"
+}

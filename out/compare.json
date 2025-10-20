@@ -1,0 +1,86 @@
+{
+  "WORD":"compare",
+  "IPA":"/kəmˈpɛər/",
+  "CONJUGATES":"compares | comparing | compared",
+  "ETYMOLOGY":"From Middle English comparen, from Old French comparer, from Latin comparare ('to pair, match'), from com- ('together') + par ('equal, like').",
+  "SINCE":"c. 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"compare [sth] (with/to) [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To examine two or more items, people, or ideas in order to note similarities and differences; to contrast.",
+      "DEF_ZH":"比较；对照。检查两个或多个事物、人或想法，以指出相似之处和不同之处；进行对比。",
+      "SENT_EN":"We need to compare the estimated costs with the actual expenses.",
+      "SENT_ZH":"我们需要将估计成本与实际开支进行比较。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contrast",
+            "juxtapose",
+            "weigh"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "comparison",
+            "comparable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compare [sth] to [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "Figurative",
+        "Literary"
+      ],
+      "DEF_EN":"To point out the likeness of something to something else; to liken or analogize.",
+      "DEF_ZH":"比喻；比拟。将某事物比作另一事物；进行类比。",
+      "SENT_EN":"The narrator compared the sudden silence to the calm before a storm.",
+      "SENT_ZH":"叙述者将突如其来的寂静比作暴风雨前的宁静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "liken",
+            "equate",
+            "analogize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compare (with/to)",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Performance",
+        "Evaluation"
+      ],
+      "DEF_EN":"To bear a specific relation of relative merit or quality when measured against something else (often used with adverbs like favorably or well).",
+      "DEF_ZH":"媲美；具有可比性。在与某事物衡量时，表现出特定的相对优点或质量（常与 favorably 或 well 等副词连用）。",
+      "SENT_EN":"The new product compares well with its more expensive rivals.",
+      "SENT_ZH":"这款新产品与更昂贵的竞争对手相比毫不逊色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure up",
+            "stack up",
+            "equal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, academic, and commercial contexts."
+}

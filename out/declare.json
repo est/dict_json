@@ -1,0 +1,107 @@
+{
+  "WORD":"declare",
+  "IPA":"/dɪˈklɛər/",
+  "CONJUGATES":"declares | declaring | declared",
+  "ETYMOLOGY":"From Middle English declaren, from Old French declarer, from Latin dēclārāre (dē- 'completely' + clārāre 'to make clear', from clārus 'clear').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"declare [sth]\ndeclare that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (及物动词)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To state something formally, emphatically, or officially, often to the public.",
+      "DEF_ZH":"正式地、明确地或公开地宣布或申明（某事）。",
+      "SENT_EN":"The nation declared war on its aggressor.",
+      "SENT_ZH":"该国向侵略者宣战。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proclaim",
+            "announce",
+            "state",
+            "assert"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "declaration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"declare [sth] (to customs/tax authority)",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (及物动词)",
+      "TAGS":[
+        "finance",
+        "customs"
+      ],
+      "DEF_EN":"To make known (goods, income, etc.) that are liable to duty or tax.",
+      "DEF_ZH":"（向海关、税务等机关）申报（应纳税的货物或收入）。",
+      "SENT_EN":"Customs requires travelers to declare all valuable items purchased abroad.",
+      "SENT_ZH":"海关要求旅客申报所有在国外购买的贵重物品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "report",
+            "disclose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"declare [one's feeling/belief]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (及物动词)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To express one's intentions, beliefs, or feelings openly and clearly.",
+      "DEF_ZH":"公开或强烈地表达（信仰、感情或意图）。",
+      "SENT_EN":"He declared his undying love for her.",
+      "SENT_ZH":"他向她表达了永恒的爱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "profess",
+            "confess",
+            "affirm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"declare [variable/function]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (及物动词)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(In programming) To specify the properties and data type of an identifier (such as a variable or function) before it is used.",
+      "DEF_ZH":"（计算机）声明；定义（在程序中使用变量或函数前，指定其属性和数据类型）。",
+      "SENT_EN":"You must declare the integer variable before assigning it a value.",
+      "SENT_ZH":"在给变量赋值之前，必须声明该整数变量。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "initialize",
+            "define"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal speech, legal, governmental, and technical contexts."
+}

@@ -1,0 +1,115 @@
+{
+  "WORD":"grant",
+  "IPA":"/ɡrænt/",
+  "CONJUGATES":"grants | granting | granted",
+  "ETYMOLOGY":"From Middle English, derived from Anglo-French graanter, graunter, from Old French graanter (variant of creanter 'to promise, assure'), ultimately from Latin credentāre (from credere 'to believe, trust').",
+  "SINCE":"c. 1200 (verb); c. 1400 (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"grant [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To agree to give or allow something requested, especially officially.",
+      "DEF_ZH":"正式同意给予或允许（某项请求、权利或特权）。",
+      "SENT_EN":"The committee granted him permission to address the council.",
+      "SENT_ZH":"委员会批准了他向理事会发言的请求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "award",
+            "bestow",
+            "concede",
+            "allow",
+            "permit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "refuse",
+            "deny",
+            "veto"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a grant (for [sth])",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "financial",
+        "governmental"
+      ],
+      "DEF_EN":"A sum of money given by an organization, especially a government, for a specific purpose that does not need to be repaid.",
+      "DEF_ZH":"（政府或组织提供的）用于特定目的的、无需偿还的补助金或拨款。",
+      "SENT_EN":"The scientist applied for a federal grant to continue his research into climate change.",
+      "SENT_ZH":"这位科学家申请了联邦拨款，以继续他对气候变化的研究。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subsidy",
+            "funding",
+            "allowance",
+            "stipend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grant that...",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To admit or concede that something is true, often reluctantly.",
+      "DEF_ZH":"承认或认可（某事），通常带有勉强或让步的意味。",
+      "SENT_EN":"I grant that his presentation was well-researched, but it lacked focus.",
+      "SENT_ZH":"我承认他的演示文稿研究得很充分，但缺乏重点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admit",
+            "concede",
+            "acknowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grant [land/property/rights]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "archaic"
+      ],
+      "DEF_EN":"To legally transfer the ownership of property or rights.",
+      "DEF_ZH":"依法转让（财产或权利）。",
+      "SENT_EN":"The old king granted vast tracts of land to his most loyal barons.",
+      "SENT_ZH":"这位老国王将大片土地赐予了他最忠诚的男爵们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "convey",
+            "cede"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in formal, legal, and governmental contexts, especially regarding permissions and funding."
+}

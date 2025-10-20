@@ -1,0 +1,108 @@
+{
+  "WORD":"resolve",
+  "IPA":"/rɪˈzɑːlv/",
+  "CONJUGATES":"resolves | resolving | resolved",
+  "ETYMOLOGY":"From Latin resolvere (re- 'again, back' + solvere 'loosen, unbind, solve'), meaning originally 'to unfasten, undo'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"resolve [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires an object",
+      "TAGS":[
+        "core word",
+        "problem-solving"
+      ],
+      "DEF_EN":"To settle or find a satisfactory solution to a problem, dispute, or difficulty.",
+      "DEF_ZH":"解决；消除（问题或冲突）。",
+      "SENT_EN":"We need to resolve these differences before the next meeting.",
+      "SENT_ZH":"在下次会议前，我们需要解决这些分歧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "solve",
+            "settle",
+            "fix"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"resolve [to do sth]\nresolve [that]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires an object",
+      "TAGS":[
+        "core word",
+        "determination"
+      ],
+      "DEF_EN":"To make a firm decision about something; to determine.",
+      "DEF_ZH":"决定；下定决心；正式通过（决议）。",
+      "SENT_EN":"After the incident, the council resolved that new safety measures must be implemented.",
+      "SENT_ZH":"事件发生后，委员会决定必须实施新的安全措施。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decide",
+            "determine",
+            "intend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[uncountable]\n[countable]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"Firmness of purpose; determination and strength of will.",
+      "DEF_ZH":"决心；坚决；意志力。",
+      "SENT_EN":"The leader showed great resolve in the face of widespread opposition.",
+      "SENT_ZH":"面对广泛的反对，这位领导人展现出巨大的决心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "determination",
+            "tenacity",
+            "fortitude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"resolve [sth] [into sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"Transitive or Intransitive verb",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"To separate or decompose a complex whole into its components or basic elements.",
+      "DEF_ZH":"分解；解析；使分离（成其组成部分）。",
+      "SENT_EN":"The chemist resolved the compound into simpler elements for analysis.",
+      "SENT_ZH":"化学家将化合物分解成更简单的元素进行分析。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analyze",
+            "decompose",
+            "separate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

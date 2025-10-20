@@ -1,0 +1,96 @@
+{
+  "WORD":"particle",
+  "IPA":"/'pɑːrtɪkəl/",
+  "CONJUGATES":"particle | particles",
+  "ETYMOLOGY":"From Old French *particle*, from Latin *particula* 'a small part, a little piece', diminutive of *pars* (genitive *partis*) 'part, piece'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a particle of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "physics"
+      ],
+      "DEF_EN":"A minute portion of matter; a very small piece of something.",
+      "DEF_ZH":"极小的物质部分；微粒。",
+      "SENT_EN":"Dust particles floated in the air, visible in the beam of light.",
+      "SENT_ZH":"灰尘颗粒在光束中漂浮，清晰可见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speck",
+            "bit",
+            "fragment",
+            "grain",
+            "atom"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "molecule",
+            "electron",
+            "proton",
+            "quark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a grammatical particle",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "grammar",
+        "linguistics"
+      ],
+      "DEF_EN":"A word or affix that has a grammatical function but often little or no lexical meaning.",
+      "DEF_ZH":"具有语法功能但词汇意义很少或没有的词或词缀。",
+      "SENT_EN":"In Japanese, 'wa' and 'ga' are often referred to as particles.",
+      "SENT_ZH":"在日语中，“wa”和“ga”常被称为助词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "preposition",
+            "conjunction",
+            "interjection",
+            "affix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"not a particle of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "rare",
+        "formal",
+        "idiomatic"
+      ],
+      "DEF_EN":"The least possible amount of something.",
+      "DEF_ZH":"极少量；丝毫。",
+      "SENT_EN":"There wasn't a particle of truth in his elaborate story.",
+      "SENT_ZH":"他精心编造的故事里没有丝毫真相。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "iota",
+            "shred",
+            "trace",
+            "scrap",
+            "ounce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, academic (linguistics, physics)"
+}

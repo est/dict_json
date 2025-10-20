@@ -1,0 +1,160 @@
+{
+  "WORD":"frame",
+  "IPA":"/freɪm/",
+  "CONJUGATES":"frames | framing | framed",
+  "ETYMOLOGY":"From Middle English 'freme', possibly related to Old English 'framian' (to avail, be profitable). The sense of structural arrangement evolved around the 13th century.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"the frame of [sth]\na picture frame",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "physical",
+        "common"
+      ],
+      "DEF_EN":"A rigid structure or border that surrounds or supports something, such as a picture, window, or vehicle chassis.",
+      "DEF_ZH":"环绕或支撑某物（如图片、窗户或车辆底盘）的刚性结构或边框。",
+      "SENT_EN":"The glass broke, but the wooden frame remained intact.",
+      "SENT_ZH":"玻璃碎了，但木制框架仍然完好无损。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "casing",
+            "setting",
+            "structure",
+            "chassis"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "framework"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s frame\na strong frame",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "anatomy"
+      ],
+      "DEF_EN":"The physical structure or build of a human or animal body; physique.",
+      "DEF_ZH":"人或动物身体的体格或结构；体型。",
+      "SENT_EN":"Despite his small frame, he was surprisingly strong.",
+      "SENT_ZH":"尽管他体型瘦小，却出奇地强壮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "build",
+            "physique",
+            "constitution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"frame of reference\nconceptual frame",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "abstract",
+        "academic",
+        "common"
+      ],
+      "DEF_EN":"A system of ideas, beliefs, or standards that guides behavior or provides a context for interpretation; a framework.",
+      "DEF_ZH":"指导行为或提供解释背景的一套思想、信仰或标准；框架。",
+      "SENT_EN":"You need to consider the problem from a different ethical frame of reference.",
+      "SENT_ZH":"你需要从不同的伦理参考框架来考虑这个问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "context",
+            "perspective",
+            "paradigm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"frame [sth]\nframe a question",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "formal",
+        "construction",
+        "common"
+      ],
+      "DEF_EN":"To formulate or compose words, statements, or policies carefully.",
+      "DEF_ZH":"仔细地拟定或构成（词语、陈述或政策）。",
+      "SENT_EN":"The committee worked hard to frame the new legislation.",
+      "SENT_ZH":"委员会努力起草新法案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "articulate",
+            "compose",
+            "formulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"frame [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "informal",
+        "legal",
+        "slang"
+      ],
+      "DEF_EN":"To provide false evidence or testimony against an innocent person to make them appear guilty of a crime.",
+      "DEF_ZH":"捏造证据或证词陷害无辜的人，使其看起来犯了罪。",
+      "SENT_EN":"He claimed the police were trying to frame him for the robbery.",
+      "SENT_ZH":"他声称警方试图诬陷他抢劫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incriminate",
+            "set up",
+            "entrap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"frame [sth] (in film/photo)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "specific",
+        "art",
+        "photography"
+      ],
+      "DEF_EN":"To compose a visual image by deciding what will appear within the boundaries of the camera's view.",
+      "DEF_ZH":"通过决定哪些内容将出现在镜头视野范围内来构成视觉图像。",
+      "SENT_EN":"The photographer framed the subject perfectly against the sunset.",
+      "SENT_ZH":"摄影师将拍摄对象完美地置于日落背景中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compose",
+            "shoot",
+            "crop"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across all registers, though the meaning 'to set up/incriminate' is informal/slang."
+}

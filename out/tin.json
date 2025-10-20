@@ -1,0 +1,156 @@
+{
+  "WORD":"tin",
+  "IPA":"/tɪn/",
+  "CONJUGATES":"n: tins | v: tins | tinning | tinned",
+  "ETYMOLOGY":"From Old English 'tin'. Related to Old Norse 'tin', Dutch 'tin', and German 'Zinn'. Of Germanic origin, but ultimate etymology is uncertain.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"tin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "chemical element"
+      ],
+      "DEF_EN":"A silvery-white metallic element, atomic number 50, used as a protective coating, in alloys, and in solders.",
+      "DEF_ZH":"一种银白色的金属元素，原子序数为50，用作保护层、合金以及焊料。",
+      "SENT_EN":"Tin is often used to coat steel to prevent rust.",
+      "SENT_ZH":"锡常用于钢材表面镀层以防止生锈。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Sn (chemical symbol)",
+            "solder",
+            "bronze"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a tin of [sth]\na tin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "container"
+      ],
+      "DEF_EN":"A sealed metal container, typically made of tinplate, used for preserving and selling food or drink; a can.",
+      "DEF_ZH":"一种密封的金属容器，通常由镀锡铁皮制成，用于保存和销售食物或饮料；罐头。",
+      "SENT_EN":"She opened a tin of tomatoes for the pasta sauce.",
+      "SENT_ZH":"她打开了一罐番茄做意大利面酱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "can",
+            "container"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tin opener"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a baking tin\na cake tin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "cooking",
+        "utensil"
+      ],
+      "DEF_EN":"A metal container, often rectangular or round, used for baking cakes, bread, or other food items.",
+      "DEF_ZH":"一种金属容器，通常为矩形或圆形，用于烘烤蛋糕、面包或其他食物。",
+      "SENT_EN":"Grease the cake tin before pouring in the batter.",
+      "SENT_ZH":"倒入面糊前，请给蛋糕模具抹油。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "baking pan",
+            "cake pan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tin [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To coat or cover with a thin layer of tin.",
+      "DEF_ZH":"用一层薄锡覆盖或包裹。",
+      "SENT_EN":"The metal was tinned to prevent corrosion.",
+      "SENT_ZH":"金属被镀锡以防止腐蚀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plate",
+            "coat",
+            "solder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tin [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "food preservation"
+      ],
+      "DEF_EN":"To preserve food by sealing it in a tin (can).",
+      "DEF_ZH":"将食物密封在罐头中以保存。",
+      "SENT_EN":"We spent the afternoon tinning fresh peaches.",
+      "SENT_ZH":"我们花了一个下午把新鲜的桃子制成罐头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "can",
+            "preserve",
+            "bottle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "British English",
+        "informal"
+      ],
+      "DEF_EN":"(British slang) Money.",
+      "DEF_ZH":"（英式俚语）钱。",
+      "SENT_EN":"He's got a lot of tin in his pocket.",
+      "SENT_ZH":"他口袋里有很多钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "money",
+            "cash",
+            "dosh"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific informal and slang uses noted."
+}

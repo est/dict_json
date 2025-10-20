@@ -1,0 +1,106 @@
+{
+  "WORD":"sentence",
+  "IPA":"/ˈsɛntəns/",
+  "CONJUGATES":"sentences | sentencing | sentenced",
+  "ETYMOLOGY":"From Old French sentence, from Latin sententia ‘opinion, judgment’, from sentire ‘feel, be of opinion’.",
+  "SINCE":"Late Middle English (c. 1350-1450)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a sentence",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "grammar"
+      ],
+      "DEF_EN":"A set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command.",
+      "DEF_ZH":"一组完整的词语，通常包含主语和谓语，表达陈述、疑问、感叹或命令。",
+      "SENT_EN":"Please write a complete sentence.",
+      "SENT_ZH":"请写一个完整的句子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "phrase",
+            "clause",
+            "utterance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "grammar",
+            "syntax",
+            "paragraph"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sentence",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A punishment assigned to a defendant found guilty by a court, or the formal pronouncement of such punishment.",
+      "DEF_ZH":"法院对被判有罪的被告人判处的刑罚，或正式宣布该刑罚。",
+      "SENT_EN":"The judge handed down a harsh sentence.",
+      "SENT_ZH":"法官判处了严厉的刑罚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "judgment",
+            "verdict",
+            "punishment",
+            "doom"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "conviction",
+            "trial",
+            "penalty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sentence [sb] to [sth]",
+      "POS":"vt",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"To declare the punishment of an offender as decided by a court of law.",
+      "DEF_ZH":"法院判决对犯罪分子施加刑罚。",
+      "SENT_EN":"He was sentenced to five years in prison.",
+      "SENT_ZH":"他被判处五年监禁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condemn",
+            "convict",
+            "punish",
+            "dooms"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "imprison",
+            "fine",
+            "execute"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and everyday use, depending on the context."
+}

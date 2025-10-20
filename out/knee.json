@@ -1,0 +1,86 @@
+{
+  "WORD":"knee",
+  "IPA":"/niː/",
+  "CONJUGATES":"knees (n) | knees (v) | kneeing | kneed",
+  "ETYMOLOGY":"From Old English cnēo, from Proto-Germanic *knewam, from Proto-Indo-European *ǵónu-. Cognate with Latin genū and Greek gónu.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] knee",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "anatomy",
+        "common"
+      ],
+      "DEF_EN":"The joint between the thigh and the lower leg in humans and other mammals, usually protected by a kneecap.",
+      "DEF_ZH":"人或其他哺乳动物大腿与小腿之间的关节，通常由髌骨保护。",
+      "SENT_EN":"He fell and scraped his knee while playing soccer.",
+      "SENT_ZH":"他踢足球时摔倒了，擦破了膝盖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "patella"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "leg",
+            "thigh",
+            "calf"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knee [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To hit or strike (someone or something) with one's knee.",
+      "DEF_ZH":"用膝盖撞击（某人或某物）。",
+      "SENT_EN":"The defender kneed the opposing player in the stomach.",
+      "SENT_ZH":"防守队员用膝盖顶撞了对方球员的腹部。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strike",
+            "hit",
+            "kick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the knee of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "clothing",
+        "common"
+      ],
+      "DEF_EN":"The part of an item of clothing, such as trousers or jeans, that covers the knee.",
+      "DEF_ZH":"衣物（如裤子或牛仔裤）中覆盖膝盖的部分。",
+      "SENT_EN":"There was a tear in the knee of his old work pants.",
+      "SENT_ZH":"他旧工作裤的膝盖处破了一个洞。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trousers",
+            "jeans",
+            "clothing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

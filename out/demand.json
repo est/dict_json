@@ -1,0 +1,87 @@
+{
+  "WORD":"demand",
+  "IPA":"/dɪˈmænd/",
+  "CONJUGATES":"demands (n.) | demands (v.) | demanding | demanded",
+  "ETYMOLOGY":"From Old French demander (to ask, request), derived from Latin dēmandāre (to commit, entrust, order), formed from dē- (down, away) + mandāre (to entrust, order).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"demand [for sth]\nthe demand that [clause]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An insistent and authoritative request or requirement.",
+      "DEF_ZH":"强烈、坚持的请求或要求；命令。",
+      "SENT_EN":"The workers rejected the management's offer and increased their wage demands.",
+      "SENT_ZH":"工人们拒绝了管理层的提议，并提高了他们的工资要求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "requirement",
+            "insistence",
+            "ultimatum"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concession",
+            "offer",
+            "reply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"demand [for goods/services]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "economics",
+        "business"
+      ],
+      "DEF_EN":"The quantity of a commodity or service that people wish and are able to buy at a specified price.",
+      "DEF_ZH":"（经济学）市场对特定商品或服务的需求量。",
+      "SENT_EN":"Consumer demand for laptops soared during the pandemic lockdown.",
+      "SENT_ZH":"在疫情封锁期间，消费者对笔记本电脑的需求猛增。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "supply",
+            "supply and demand",
+            "elasticity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"demand [sth]\ndemand [that clause]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb (verb requiring a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To ask for something forcefully, authoritatively, or as a right.",
+      "DEF_ZH":"坚决地、以权利的姿态要求或索取某物。",
+      "SENT_EN":"The police demanded to know the suspect's whereabouts.",
+      "SENT_ZH":"警方要求知道嫌疑人的行踪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insist",
+            "require",
+            "exact"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly frequent in business and economics contexts."
+}

@@ -1,0 +1,111 @@
+{
+  "WORD":"tunnel",
+  "IPA":"/ˈtʌnəl/",
+  "CONJUGATES":"tunnels | tunneling | tunnelled",
+  "ETYMOLOGY":"From Old French tonel 'cask, barrel' (diminutive of tonne 'tun'), later meaning 'funnel, pipe', and eventually 'underground passage'. The semantic shift likely occurred because a tunnel resembles a large pipe or barrel laid on its side.",
+  "SINCE":"Late Middle English (c. 15th century for the meaning 'chimney flue'; 17th century for the meaning 'underground passage')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "construction",
+        "geography"
+      ],
+      "DEF_EN":"An artificial underground passage, especially one built through a hill or under a river or city, typically used for road, rail traffic, or utilities.",
+      "DEF_ZH":"人工挖掘的地下通道，尤指穿过山丘、河流或城市下方，通常用于公路、铁路交通或公用设施。",
+      "SENT_EN":"The new subway line required the construction of a long tunnel under the city center.",
+      "SENT_ZH":"新的地铁线需要在市中心下方修建一条长长的隧道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subway",
+            "underpass",
+            "bore",
+            "mine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cavern",
+            "pipeline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (through [sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To make or dig a tunnel through something.",
+      "DEF_ZH":"挖掘或开凿隧道通过某物。",
+      "SENT_EN":"They had to tunnel through solid rock for three kilometers.",
+      "SENT_ZH":"他们必须凿穿三公里长的坚硬岩石。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "burrow",
+            "mine",
+            "dig"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of [sb]/[sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "anatomy",
+        "technical"
+      ],
+      "DEF_EN":"A passage or duct in the body, or a structure resembling a tunnel.",
+      "DEF_ZH":"身体中的通道、导管，或类似隧道的结构。",
+      "SENT_EN":"The carpal tunnel is a narrow passageway in the wrist.",
+      "SENT_ZH":"腕管是手腕中一条狭窄的通道。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "duct",
+            "canal",
+            "meatus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tunnel vision",
+      "POS":"n (idiomatic)",
+      "POS_TIP":"noun (idiomatic usage)",
+      "TAGS":[
+        "idiom",
+        "figurative"
+      ],
+      "DEF_EN":"Figuratively, a tendency to focus only on a single, narrow objective or viewpoint, ignoring broader considerations. (Literally, a restricted field of view, typically due to peripheral vision loss.)",
+      "DEF_ZH":"（比喻）只关注单一、狭隘的目标或观点，而忽略更广泛的考量；（字面）视野受限，缺乏周边视觉。",
+      "SENT_EN":"The manager suffered from tunnel vision and couldn't see the larger market trends.",
+      "SENT_ZH":"这位经理患有视野狭隘症，看不到更广阔的市场趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "myopia",
+            "narrow-mindedness",
+            "single-mindedness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

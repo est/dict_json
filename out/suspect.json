@@ -1,0 +1,115 @@
+{
+  "WORD":"suspect",
+  "IPA":"/səˈspɛkt/",
+  "CONJUGATES":"suspects | suspected | suspecting (v.) | suspects (n.)",
+  "ETYMOLOGY":"From Latin suspectus, past participle of suspicere ('to look up at, to look secretly, to mistrust'), formed from sub- ('up, under') + specere ('to look').",
+  "SINCE":"Late 14th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"suspect [sb] (of [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (Stress on second syllable: /səˈspɛkt/)",
+      "TAGS":[
+        "core word",
+        "criminal justice"
+      ],
+      "DEF_EN":"To believe someone is likely guilty of a crime or wrong action, often with little or no concrete proof.",
+      "DEF_ZH":"怀疑（某人）犯有罪行或做了错事。",
+      "SENT_EN":"The detective suspected the neighbor of withholding important information.",
+      "SENT_ZH":"侦探怀疑邻居隐瞒了重要信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "doubt",
+            "mistrust",
+            "mistrust"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "trust",
+            "believe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suspect [sth] (that [clause])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"To believe that something is likely to be true or probable, especially something negative or undesirable.",
+      "DEF_ZH":"猜想；推测（通常指不好的情况）。",
+      "SENT_EN":"I suspect that the road repairs will take longer than promised.",
+      "SENT_ZH":"我猜想道路维修会比承诺的时间要长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surmise",
+            "guess",
+            "hypothesize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] suspect",
+      "POS":"n",
+      "POS_TIP":"noun (Stress on first syllable: /ˈsʌs.pɛkt/)",
+      "TAGS":[
+        "core word",
+        "criminal justice"
+      ],
+      "DEF_EN":"A person thought to be guilty of a crime or offense.",
+      "DEF_ZH":"嫌疑犯；嫌疑人。",
+      "SENT_EN":"The police questioned the main suspect for five hours.",
+      "SENT_ZH":"警方审问了主要嫌疑人五个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alleged culprit",
+            "person of interest"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "defendant",
+            "culprit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suspect [package/behavior/data]",
+      "POS":"adj",
+      "POS_TIP":"adjective (Stress on first syllable: /ˈsʌs.pɛkt/)",
+      "TAGS":[
+        "general",
+        "formal"
+      ],
+      "DEF_EN":"Questionable as to quality, reliability, or safety; possibly dangerous or illegal.",
+      "DEF_ZH":"可疑的；不可靠的；有潜在危险的。",
+      "SENT_EN":"Security staff examined the suspect package left near the entrance.",
+      "SENT_ZH":"安保人员检查了入口附近留下的可疑包裹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dubious",
+            "questionable",
+            "fishy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general conversation, media reports, and legal/police contexts."
+}

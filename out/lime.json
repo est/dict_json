@@ -1,0 +1,116 @@
+{
+  "WORD":"lime",
+  "IPA":"/laɪm/",
+  "CONJUGATES":"limes (n) | limed (v) | liming (v)",
+  "ETYMOLOGY":"The word 'lime' has two distinct origins. For the citrus fruit and its associated color: from Old French 'lime' (fruit), from Arabic 'līma', ultimately from Persian 'līmū'. For the alkaline substance (calcium oxide) and the verb 'to apply lime': from Old English 'līm' ('sticky substance, birdlime, mortar'), from Proto-Germanic '*līm-', from Proto-Indo-European root '*lei-' ('to be slimy, viscous').",
+  "SINCE":"Substance: Before 900 AD (Old English); Fruit: Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"lime",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "fruit"
+      ],
+      "DEF_EN":"A small, round or oval, green-skinned citrus fruit with an acidic taste.",
+      "DEF_ZH":"一种小型、圆形或椭圆形、绿皮的柑橘类水果，味道酸涩。",
+      "SENT_EN":"She garnished her cocktail with a wedge of fresh lime.",
+      "SENT_ZH":"她用一片新鲜的青柠装饰了她的鸡尾酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "citrus fruit"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lemon",
+            "orange",
+            "grapefruit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lime",
+      "POS":"n | adj",
+      "POS_TIP":"noun | adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "color"
+      ],
+      "DEF_EN":"A bright yellowish-green color, similar to that of the lime fruit; often used attributively to describe something of this color.",
+      "DEF_ZH":"一种鲜亮的黄绿色，类似于青柠果实的颜色；常作定语形容这种颜色的事物。",
+      "SENT_EN":"Her dress was a vibrant lime green.",
+      "SENT_ZH":"她的连衣裙是鲜艳的柠檬绿色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chartreuse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lime",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "material",
+        "substance",
+        "technical"
+      ],
+      "DEF_EN":"A white, caustic alkaline substance (calcium oxide), obtained by heating limestone, used in building, agriculture, and chemical processes.",
+      "DEF_ZH":"一种白色、腐蚀性的碱性物质（氧化钙），通过加热石灰石获得，用于建筑、农业和化学过程。",
+      "SENT_EN":"Farmers apply lime to the soil to neutralize acidity.",
+      "SENT_ZH":"农民给土壤施石灰以中和酸度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "limestone",
+            "calcium oxide",
+            "quicklime",
+            "slaked lime"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lime",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "tree"
+      ],
+      "DEF_EN":"The evergreen tree that produces lime fruits.",
+      "DEF_ZH":"结青柠果实的常绿乔木。",
+      "SENT_EN":"There's a beautiful lime tree growing in our garden.",
+      "SENT_ZH":"我们花园里长着一棵美丽的青柠树。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"lime [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To treat, spread, or cover (something, especially soil or a surface) with lime.",
+      "DEF_ZH":"用石灰处理、撒布或覆盖（某物，尤指土壤或表面）。",
+      "SENT_EN":"The fields are limed every spring to improve their fertility.",
+      "SENT_ZH":"每年春天都会给田地施石灰以提高肥力。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general"
+}

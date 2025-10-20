@@ -1,0 +1,90 @@
+{
+  "WORD":"opera",
+  "IPA":"/ˈɒpərə/",
+  "CONJUGATES":"operas (plural)",
+  "ETYMOLOGY":"From Italian opera, literally 'work', from Latin opera ('work', 'effort'), neuter plural of opus ('work').",
+  "SINCE":"c. 1600 (in Italian), 1640s (in English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c/u] [genre]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A dramatic work in one or more acts, set to music for singers and instrumentalists.",
+      "DEF_ZH":"一种戏剧作品，由一或多幕组成，配以音乐，供歌手和乐器演奏。",
+      "SENT_EN":"They attended a performance of Verdi's famous opera, 'Aida'.",
+      "SENT_ZH":"他们观看了威尔第著名歌剧《阿依达》的演出。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "operetta",
+            "musical",
+            "aria",
+            "libretto"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u] [art form]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The art form of writing or performing operas.",
+      "DEF_ZH":"创作或表演歌剧的艺术形式。",
+      "SENT_EN":"He devoted his life to opera and classical music.",
+      "SENT_ZH":"他毕生致力于歌剧和古典音乐。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[c] [place]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"An opera house, a building where operas are performed.",
+      "DEF_ZH":"歌剧院，表演歌剧的建筑。",
+      "SENT_EN":"The Vienna State Opera is one of the most famous operas in the world.",
+      "SENT_ZH":"维也纳国家歌剧院是世界上最著名的歌剧院之一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opera house"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[proper noun] [computing]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "proper noun",
+        "tech"
+      ],
+      "DEF_EN":"A specific web browser known for its speed and features.",
+      "DEF_ZH":"一款以速度和功能著称的特定网页浏览器。",
+      "SENT_EN":"I prefer using Opera for my web browsing because of its built-in VPN.",
+      "SENT_ZH":"我更喜欢使用 Opera 进行网页浏览，因为它有内置的 VPN。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Chrome",
+            "Firefox",
+            "Safari"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/arts; sometimes technical (computing)"
+}

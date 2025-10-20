@@ -1,0 +1,107 @@
+{
+  "WORD":"choice",
+  "IPA":"/tʃɔɪs/",
+  "CONJUGATES":"choices",
+  "ETYMOLOGY":"From Old French chois 'choice, selection', ultimately related to the verb choisir 'to choose', derived from a Germanic source.",
+  "SINCE":"Mid 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act of selecting or deciding when faced with two or more possibilities; a selection made.",
+      "DEF_ZH":"选择的行为；决定；选中的事物。",
+      "SENT_EN":"The jury was faced with a difficult choice.",
+      "SENT_ZH":"陪审团面临着一个艰难的选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "option",
+            "alternative",
+            "decision",
+            "selection"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "free will",
+            "prerogative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a choice of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The range or variety of things from which a selection can be made.",
+      "DEF_ZH":"可供选择的种类或范围。",
+      "SENT_EN":"They offer a wide choice of colors for the new car.",
+      "SENT_ZH":"他们为新车提供了多种颜色选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "range",
+            "variety",
+            "assortment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"choice [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (used attributively, before a noun)",
+      "TAGS":[
+        "quality",
+        "formal"
+      ],
+      "DEF_EN":"Of very high quality; select or superior.",
+      "DEF_ZH":"精选的；上等的；优质的。",
+      "SENT_EN":"We always buy choice cuts of meat from the local butcher.",
+      "SENT_ZH":"我们总是从当地屠夫那里购买上等的肉块。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prime",
+            "premium",
+            "excellent",
+            "first-rate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inferior",
+            "poor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have no choice but to [do sth]",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "idiom"
+      ],
+      "DEF_EN":"To be forced to do something because there is no alternative available.",
+      "DEF_ZH":"别无选择，只好做某事。",
+      "SENT_EN":"Since the train was late, we had no choice but to take a taxi.",
+      "SENT_ZH":"由于火车晚点了，我们别无选择，只能打出租车。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general usage"
+}

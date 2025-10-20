@@ -1,0 +1,80 @@
+{
+  "WORD":"mountain",
+  "IPA":"/ˈmaʊntən/",
+  "CONJUGATES":"mountains (pl)",
+  "ETYMOLOGY":"From Old French montaigne, from Vulgar Latin *montanea, feminine of *montaneus, from Latin montanus ('of a mountain'), from mōns (montis) ('mountain').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large natural elevation of the Earth's surface rising abruptly from the surrounding level; a large steep hill.",
+      "DEF_ZH":"地表显著隆起的大块自然地貌，从周围的平面突然上升；一座大型陡峭的山丘。",
+      "SENT_EN":"Mount Everest is the highest mountain in the world.",
+      "SENT_ZH":"珠穆朗玛峰是世界上最高的山。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peak",
+            "alp",
+            "summit",
+            "mount"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hill",
+            "range",
+            "plateau"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mountain of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"A very large amount or quantity of something, often referring to a task or problem.",
+      "DEF_ZH":"指非常大量的某事物，常用于形容任务或问题。",
+      "SENT_EN":"I have a mountain of laundry to do this weekend.",
+      "SENT_ZH":"我这个周末有一大堆衣服要洗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heap",
+            "pile",
+            "mass",
+            "ton"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "US politics",
+        "historical"
+      ],
+      "DEF_EN":"In US political history, a member of the Democratic-Republican party who sat in the highest seats (like the Montagne in the French Revolution).",
+      "DEF_ZH":"在美国政治史中，指民主共和党成员，坐在会场最高处（类似于法国大革命中的“山岳党”）。",
+      "SENT_EN":"The Mountain often advocated for agrarian interests and strict interpretation of the Constitution.",
+      "SENT_ZH":"山岳党人通常主张农业利益和严格解释宪法。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general; geography"
+}

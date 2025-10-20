@@ -1,0 +1,112 @@
+{
+  "WORD":"liability",
+  "IPA":"/ˌlaɪəˈbɪləti/",
+  "CONJUGATES":"liability | liabilities",
+  "ETYMOLOGY":"From Anglo-French 'liable' (bound, responsible), from Old French 'lier' (to bind), plus the suffix '-ity'.",
+  "SINCE":"Mid 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"liability for [sth/doing sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal",
+        "financial",
+        "formal"
+      ],
+      "DEF_EN":"The state of being legally responsible for something, especially an amount of money that has to be paid.",
+      "DEF_ZH":"对某事（特别是债务）负有法律责任的状态或义务。",
+      "SENT_EN":"The company accepts full liability for any damage caused by its products.",
+      "SENT_ZH":"公司对其产品造成的任何损害承担全部责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "responsibility",
+            "accountability",
+            "obligation",
+            "culpability"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "immunity",
+            "exemption",
+            "impunity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a liability (to [sb/sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"A person or thing that causes problems or is a disadvantage.",
+      "DEF_ZH":"指可能造成问题或成为劣势的人或事。",
+      "SENT_EN":"His lack of experience could prove to be a major liability to the team.",
+      "SENT_ZH":"他缺乏经验可能成为团队的一个主要劣势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handicap",
+            "disadvantage",
+            "drawback",
+            "burden",
+            "weakness"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "asset",
+            "advantage",
+            "strength"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"liabilities",
+      "POS":"n. (plural)",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "financial",
+        "accounting"
+      ],
+      "DEF_EN":"The amount of money that a person or company owes.",
+      "DEF_ZH":"一个人或公司所欠的钱；债务；负债。",
+      "SENT_EN":"The company's assets far exceed its liabilities.",
+      "SENT_ZH":"公司的资产远远超过其负债。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "debts",
+            "obligations",
+            "financial commitments",
+            "encumbrances"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "assets",
+            "equity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Financial, General"
+}

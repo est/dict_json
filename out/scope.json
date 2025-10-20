@@ -1,0 +1,104 @@
+{
+  "WORD":"scope",
+  "IPA":"/skoʊp/",
+  "CONJUGATES":"scopes | scoping | scoped",
+  "ETYMOLOGY":"From Italian scopo (target, aim), from Greek skopos (aim, target, watcher), akin to skopein (to look, observe). Introduced to English via Latin.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract concept"
+      ],
+      "DEF_EN":"The extent of the area or subject matter that something deals with or to which it is relevant; the opportunity or possibility for something.",
+      "DEF_ZH":"某事涉及或适用的范围、广度或界限；某事物的机会或可能性。",
+      "SENT_EN":"The scope of the project was too ambitious for the available resources.",
+      "SENT_ZH":"该项目的范围过于雄心勃勃，超出了现有资源的能力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extent",
+            "range",
+            "breadth",
+            "purview",
+            "reach"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "limit",
+            "boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a scope\na telescope | a microscope",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "device"
+      ],
+      "DEF_EN":"A device, often attached to a firearm or used in science, for viewing or observing distant or minute objects; a shortened form of terms like telescope, microscope, or oscilloscope.",
+      "DEF_ZH":"一种用于观察遥远或微小物体的设备，常指瞄准镜、望远镜、显微镜或示波器等的简称。",
+      "SENT_EN":"He adjusted the scope on his rifle for a clearer view of the target.",
+      "SENT_ZH":"他调整了步枪上的瞄准镜，以便更清晰地看到目标。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "telescope",
+            "microscope",
+            "oscilloscope",
+            "periscope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scope [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "action"
+      ],
+      "DEF_EN":"To look at, examine, or assess (something) quickly or informally.",
+      "DEF_ZH":"（非正式）快速或非正式地查看、检查或评估某事物。",
+      "SENT_EN":"Let me scope out the new venue before the event starts.",
+      "SENT_ZH":"在活动开始前，让我先去看看那个新的场地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "check out",
+            "examine",
+            "survey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (dated)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "dated",
+        "rare"
+      ],
+      "DEF_EN":"Aim or purpose.",
+      "DEF_ZH":"目标或目的。",
+      "SENT_EN":"He failed in the scope of his undertaking.",
+      "SENT_ZH":"他没有达到他事业的目的。（此用法已过时）",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, technical/professional contexts (meaning 1), and informal conversation (meaning 3)."
+}

@@ -1,0 +1,82 @@
+{
+  "WORD":"relative",
+  "IPA":"/'relətɪv/",
+  "CONJUGATES":"relatives (n. pl.) | relatively (adv.) | relativeness (n.)",
+  "ETYMOLOGY":"From Middle French relatif, or Medieval Latin relātīvus, derived from Latin relātus, past participle of referre 'to bring back, refer', combined with the suffix -īvus.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] (a relative)",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "family",
+        "kinship"
+      ],
+      "DEF_EN":"A person connected by blood or marriage; a member of the same family.",
+      "DEF_ZH":"亲戚；亲属；有血缘或婚姻关系的人。",
+      "SENT_EN":"All her relatives gathered for the annual family reunion.",
+      "SENT_ZH":"她所有的亲属都聚集在一起参加一年一度的家庭聚会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kin",
+            "relation",
+            "family member",
+            "kinsman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"relative [to sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "comparison",
+        "general use"
+      ],
+      "DEF_EN":"Considered in relation or in proportion to something else; dependent on or existing only in relation to something else; not absolute.",
+      "DEF_ZH":"相对的；比较而言的；取决于其他事物的。",
+      "SENT_EN":"The current unemployment rate is low relative to rates 50 years ago.",
+      "SENT_ZH":"目前的失业率相对于50年前的水平是较低的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "comparative",
+            "proportional",
+            "dependent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "absolute",
+            "independent",
+            "intrinsic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"relative (e.g., relative clause)",
+      "POS":"adj.",
+      "POS_TIP":"adjective (specialized)",
+      "TAGS":[
+        "technical",
+        "grammar",
+        "linguistics"
+      ],
+      "DEF_EN":"Introducing a subordinate clause that qualifies an antecedent (such as a relative pronoun or relative adverb).",
+      "DEF_ZH":"关系的；引介关系从句的（如关系代词、关系副词）。",
+      "SENT_EN":"In the sentence, 'who' acts as a relative pronoun.",
+      "SENT_ZH":"在该句中，'who' 充当关系代词。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, academic fields (especially science and philosophy), and formal writing."
+}

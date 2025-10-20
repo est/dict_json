@@ -1,0 +1,145 @@
+{
+  "WORD":"match",
+  "IPA":"/mætʃ/",
+  "CONJUGATES":"matches | matching | matched",
+  "ETYMOLOGY":"Two distinct roots. Noun (contest/equal): From Old English 'mæcca' (companion, mate, equal), related to 'macian' (to make). Noun (firelighter): From Middle French 'mèche' (wick of a lamp or candle), ultimately from Latin 'myxa' (lamp wick).",
+  "SINCE":"c. 1000 (for 'equal/mate' sense); c. 1480 (for 'firelighter' sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a match [against sb]\nthe match",
+      "POS":"n. (countable)",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "sports"
+      ],
+      "DEF_EN":"A competitive game or sporting event between two individuals or teams.",
+      "DEF_ZH":"比赛；竞赛；较量（通常指体育运动）。",
+      "SENT_EN":"Did you watch the final soccer match on television last night?",
+      "SENT_ZH":"你昨晚看电视上的足球决赛了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contest",
+            "game",
+            "fixture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tournament",
+            "playoff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"match [sth]\nmatch [sth] with [sth else]",
+      "POS":"vtr/vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To correspond or harmonize with something else, especially in color, type, or quantity.",
+      "DEF_ZH":"（与...）相配；协调；颜色或风格一致。",
+      "SENT_EN":"The curtains match the carpet perfectly.",
+      "SENT_ZH":"窗帘和地毯非常搭配。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coordinate",
+            "harmonize",
+            "suit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clash",
+            "contrast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"match [sth] (to/against) [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"To be equal or equivalent to something else in quality, degree, or speed; to find something corresponding to another.",
+      "DEF_ZH":"与...匹敌；与...相等；相比。",
+      "SENT_EN":"Few people can match his previous record in sales.",
+      "SENT_ZH":"很少有人能在销售额上与他之前的记录匹敌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equal",
+            "rival",
+            "compete with"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "compare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a match [for sth]",
+      "POS":"n. (countable)",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "tool"
+      ],
+      "DEF_EN":"A small stick or strip of wood or cardboard tipped with a chemical substance that ignites when rubbed against a rough surface.",
+      "DEF_ZH":"火柴。",
+      "SENT_EN":"She lit the campfire with a single match.",
+      "SENT_ZH":"她用一根火柴点燃了篝火。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lighter",
+            "tinder",
+            "flame"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a match [for sb/sth]",
+      "POS":"n. (countable)",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A person or thing that is equal to another in strength, ability, or quality, often used in negative contexts.",
+      "DEF_ZH":"对手；相配的人或物；可与之匹敌者。",
+      "SENT_EN":"The younger wrestler proved to be no match for the reigning champion.",
+      "SENT_ZH":"事实证明，这位年轻的摔跤手不是现任冠军的对手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equal",
+            "peer",
+            "counterpart"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

@@ -1,0 +1,90 @@
+{
+  "WORD":"reduce",
+  "IPA":"/rɪˈduːs/",
+  "CONJUGATES":"reduces | reducing | reduced",
+  "ETYMOLOGY":"From Middle English, from Old French reduire, from Latin reducere (re- 'back, again' + ducere 'to lead'), originally meaning 'to lead back, bring back'.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"reduce [sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"verb transitive (takes a direct object) | verb intransitive (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something smaller in size, amount, degree, or intensity; to diminish.",
+      "DEF_ZH":"减少；降低；缩小（数量、程度或尺寸）。",
+      "SENT_EN":"The company decided to reduce its operating costs by 15%.",
+      "SENT_ZH":"该公司决定将其运营成本降低15%。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decrease",
+            "lessen",
+            "lower",
+            "cut down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "enlarge",
+            "amplify",
+            "raise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reduce [sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"verb transitive | verb intransitive",
+      "TAGS":[
+        "technical",
+        "cooking",
+        "chemistry"
+      ],
+      "DEF_EN":"In cooking, to make a liquid thicker or more concentrated by boiling away the water; in chemistry, to cause or undergo reduction (the gain of electrons).",
+      "DEF_ZH":"（烹饪）收汁，浓缩（液体）；（化学）还原。",
+      "SENT_EN":"We need to reduce the sauce until it is thick enough to coat the back of a spoon.",
+      "SENT_ZH":"我们需要将酱汁收浓，直到它足以覆盖勺背为止。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reduction",
+            "evaporate",
+            "concentrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reduce [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "medical",
+        "specialized"
+      ],
+      "DEF_EN":"To restore a dislocated joint or fractured bone to its correct position.",
+      "DEF_ZH":"（医学）复位（骨折或脱臼）。",
+      "SENT_EN":"The orthopedic surgeon managed to reduce the fracture without surgery.",
+      "SENT_ZH":"骨科医生设法在没有手术的情况下复位了骨折。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "set",
+            "align",
+            "reset"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

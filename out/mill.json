@@ -1,0 +1,111 @@
+{
+  "WORD":"MILL",
+  "IPA":"/mɪl/",
+  "CONJUGATES":"mills | milling | milled",
+  "ETYMOLOGY":"From Old English mylen, ultimately from Vulgar Latin molina, derived from Latin molere 'to grind'.",
+  "SINCE":"c. 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] mill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A building or factory equipped with machinery for processing raw materials, manufacturing goods, or grinding grain.",
+      "DEF_ZH":"配备机器用于加工原料、制造产品或研磨谷物的工厂或建筑物。",
+      "SENT_EN":"They converted the old textile mill into apartments.",
+      "SENT_ZH":"他们把那座旧纺织厂改造成了公寓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "factory",
+            "plant",
+            "foundry",
+            "workshop"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "windmill",
+            "watermill",
+            "gristmill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mill [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To grind, crush, or process material in a mill.",
+      "DEF_ZH":"用磨机磨碎、碾压或加工材料。",
+      "SENT_EN":"The flour company mills the wheat harvested in the local fields.",
+      "SENT_ZH":"这家面粉公司磨碎了当地田地里收获的小麦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grind",
+            "crush",
+            "process",
+            "pulverize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mill around / about",
+      "POS":"vi + adv",
+      "POS_TIP":"intransitive verb (does not take a direct object) + adverb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To move around in a slow, confused, or disorderly mass (usually referring to people or animals).",
+      "DEF_ZH":"（指人或动物）缓慢地、混乱地或无序地聚集移动；徘徊。",
+      "SENT_EN":"The students were milling about the hallway waiting for the announcement.",
+      "SENT_ZH":"学生们在走廊里徘徊，等待通知。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swarm",
+            "congregate",
+            "wander"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] mill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "common"
+      ],
+      "DEF_EN":"A small machine or apparatus designed for grinding certain foodstuffs, such as pepper or coffee.",
+      "DEF_ZH":"一种用于研磨某些食物（如胡椒或咖啡豆）的小型机器或器具。",
+      "SENT_EN":"Could you pass me the salt mill?",
+      "SENT_ZH":"你能把盐磨递给我吗？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "grinder",
+            "crusher"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

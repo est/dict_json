@@ -1,0 +1,111 @@
+{
+  "WORD":"flag",
+  "IPA":"/flæɡ/",
+  "CONJUGATES":"flags (n) | flagged (v) | flagging (v)",
+  "ETYMOLOGY":"Of uncertain origin, perhaps related to Middle Dutch 'vlagge' (sail, banner) or Old Norse 'flaka' (to flutter).",
+  "SINCE":"Early 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth], typically the national symbol",
+      "POS":"noun",
+      "POS_TIP":"common noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A piece of cloth attached to a pole or rope, used as the symbol of a nation, institution, or organization.",
+      "DEF_ZH":"附着在杆子或绳子上的一块布，用作国家、机构或组织的象征（旗帜）。",
+      "SENT_EN":"The national flag was flown at half-mast to show respect.",
+      "SENT_ZH":"国旗降半旗以示敬意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "banner",
+            "standard",
+            "ensign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"flag [sth] / flag [sth] down",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "phrasal"
+      ],
+      "DEF_EN":"To signal or mark something for attention, often because it is suspicious or problematic.",
+      "DEF_ZH":"标记或示意某事以引起注意，通常因为该事物可疑或有问题。",
+      "SENT_EN":"The algorithm flagged the transaction as potentially fraudulent.",
+      "SENT_ZH":"该算法将这笔交易标记为潜在的欺诈行为。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mark",
+            "signal",
+            "alert",
+            "indicate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] / [sth]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To become tired, weaker, or less enthusiastic; to droop or decline in vigor.",
+      "DEF_ZH":"变得疲倦、虚弱或不那么热情；衰退或失去活力。",
+      "SENT_EN":"After the initial excitement, the conversation began to flag.",
+      "SENT_ZH":"在最初的兴奋之后，谈话开始变得乏味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "droop",
+            "wane",
+            "tire",
+            "falter"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "revive",
+            "flourish",
+            "strengthen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth], usually a 'flagstone'",
+      "POS":"noun",
+      "POS_TIP":"common noun (countable)",
+      "TAGS":[
+        "technical",
+        "UK English"
+      ],
+      "DEF_EN":"A flat, rectangular piece of stone or concrete used for paving a path or patio.",
+      "DEF_ZH":"用于铺设小路或露台的扁平、矩形的石板或混凝土块。",
+      "SENT_EN":"The pathway was paved with old stone flags.",
+      "SENT_ZH":"这条小路是用旧石板铺成的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "flagstone",
+            "paver"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

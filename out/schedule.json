@@ -1,0 +1,98 @@
+{
+  "WORD":"schedule",
+  "IPA":"/ˈʃɛdʒuːl/",
+  "CONJUGATES":"schedules | scheduled | scheduling",
+  "ETYMOLOGY":"From Middle French cedule, from Late Latin schedula (a small piece of paper, a slip), diminutive of Latin scheda, scida (strip of papyrus, leaf). The spelling was influenced by Medieval Latin schedule.",
+  "SINCE":"Late Middle Ages (c. 1400s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "planning",
+        "time management"
+      ],
+      "DEF_EN":"A plan for carrying out a process or procedure, giving details of all the intended events and the times at which they are to take place.",
+      "DEF_ZH":"时间表；计划表；日程安排",
+      "SENT_EN":"The doctor's assistant quickly checked the appointment schedule for Tuesday.",
+      "SENT_ZH":"医生的助理迅速查看了周二的预约时间表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "timetable",
+            "agenda",
+            "program",
+            "roster"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "calendar",
+            "logistics",
+            "planning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action",
+        "arrange"
+      ],
+      "DEF_EN":"To plan for an event to take place at a particular time.",
+      "DEF_ZH":"安排；排定（时间或日期）",
+      "SENT_EN":"We need to schedule a meeting to discuss the budget cuts.",
+      "SENT_ZH":"我们需要安排一次会议来讨论预算削减问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrange",
+            "plan",
+            "set up",
+            "book"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cancel",
+            "postpone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (US legal context)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"An appendix or a supplementary document added to a formal document or statute.",
+      "DEF_ZH":"附表；清单（法律或正式文件中附加的清单或附录）",
+      "SENT_EN":"Refer to Schedule B for the full list of excluded properties.",
+      "SENT_ZH":"有关全部排除在外的财产清单，请参见附表B。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appendix",
+            "addendum",
+            "inventory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general conversation, business, travel, and computing contexts."
+}

@@ -1,0 +1,143 @@
+{
+  "WORD":"interest",
+  "IPA":"/ˈɪntrəst/",
+  "CONJUGATES":"interests (noun plural) | interests (verb 3rd person singular present) | interested (verb past simple, past participle) | interesting (verb present participle)",
+  "ETYMOLOGY":"From Old French interesse (noun), from Latin interesse (verb) 'to be between', 'to differ', 'to concern', from inter- 'between' + esse 'to be'. The financial sense of 'money paid for the use of money' developed in the 15th century from the medieval Latin phrase 'quid interest' meaning 'what is the difference (between the value of something now and in the future)' or 'compensation for a loss'.",
+  "SINCE":"Late Middle English (early 15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] interest",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The feeling of wanting to know or learn about something or someone, or the quality that makes you want to know more about something.",
+      "DEF_ZH":"好奇心；兴趣；引人注意的特质",
+      "SENT_EN":"She showed a genuine interest in the project.",
+      "SENT_ZH":"她对这个项目表现出了由衷的兴趣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curiosity",
+            "fascination",
+            "attention"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "apathy",
+            "indifference",
+            "disinterest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A subject or activity that you enjoy doing or studying.",
+      "DEF_ZH":"爱好；感兴趣的事物",
+      "SENT_EN":"His main interest outside work is playing chess.",
+      "SENT_ZH":"他工作之余的主要兴趣是下棋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hobby",
+            "pastime",
+            "pursuit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interest [sb] in [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone want to know about or take part in something.",
+      "DEF_ZH":"使（某人）感兴趣；引起（某人）的注意",
+      "SENT_EN":"The advertisement failed to interest me.",
+      "SENT_ZH":"那个广告未能引起我的兴趣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attract",
+            "engage",
+            "captivate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bore",
+            "alienate",
+            "disaffect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (on) [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance"
+      ],
+      "DEF_EN":"Money paid regularly at a particular rate for the use of money lent, or for delaying the repayment of a debt.",
+      "DEF_ZH":"利息",
+      "SENT_EN":"The loan has an annual interest rate of 5%.",
+      "SENT_ZH":"这笔贷款的年利率是5%。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "yield",
+            "dividend",
+            "principal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an interest in [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"A share, right, or involvement in something, especially a business or property.",
+      "DEF_ZH":"（在某事物中的）股份；权益；利害关系",
+      "SENT_EN":"He has a financial interest in the company.",
+      "SENT_ZH":"他在这家公司拥有经济利益。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stake",
+            "share",
+            "holding",
+            "concern"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, academic writing, and business/finance contexts."
+}

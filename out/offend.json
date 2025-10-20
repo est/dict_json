@@ -1,0 +1,95 @@
+{
+  "WORD":"offend",
+  "IPA":"/əˈfɛnd/",
+  "CONJUGATES":"offends | offending | offended",
+  "ETYMOLOGY":"From Middle English *offenden*, derived from Old French *offendre*, ultimately from Latin *offendere* ('to strike against, transgress, vex'), formed from *ob-* ('against') + *fendere* ('to strike, push').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"offend [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb requiring a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cause hurt feelings, resentment, annoyance, or displeasure in someone.",
+      "DEF_ZH":"冒犯；触怒；得罪；使人感到不快",
+      "SENT_EN":"His rude remarks deeply offended the host of the party.",
+      "SENT_ZH":"他粗鲁的言辞深深地冒犯了派对的主人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insult",
+            "displease",
+            "outrage",
+            "slight"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "please",
+            "delight",
+            "appease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"offend [against sth]",
+      "POS":"vit + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To commit a crime, violate a law, or transgress a rule or moral standard.",
+      "DEF_ZH":"犯罪；违法；违反（规则或道德）",
+      "SENT_EN":"He continued to offend against the regulations despite repeated warnings.",
+      "SENT_ZH":"尽管一再警告，他仍然继续违反规定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transgress",
+            "violate",
+            "sin",
+            "err"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "offender",
+            "offense"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"offend [sth] (often senses)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb requiring a direct object)",
+      "TAGS":[
+        "literary",
+        "less common"
+      ],
+      "DEF_EN":"To be disagreeable or repulsive to the senses, such as the sight, smell, or taste.",
+      "DEF_ZH":"使（感官）感到不适；损害（特指眼睛或鼻子）",
+      "SENT_EN":"The stench of decay offended her nose.",
+      "SENT_ZH":"腐烂的恶臭熏得她鼻子不舒服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repel",
+            "disgust"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal/legal contexts, and social interactions."
+}

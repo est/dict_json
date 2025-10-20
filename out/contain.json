@@ -1,0 +1,86 @@
+{
+  "WORD":"contain",
+  "IPA":"/kənˈteɪn/",
+  "CONJUGATES":"contains | containing | contained",
+  "ETYMOLOGY":"From Old French contenir, from Latin continere (com- 'together' + tenere 'to hold').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"contain [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To have or hold (something) within its capacity or volume; to include.",
+      "DEF_ZH":"包含; 容纳; 盛载 (某物)",
+      "SENT_EN":"This box contains all the documents you requested.",
+      "SENT_ZH":"这个盒子包含了你要求的所有文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hold",
+            "include",
+            "comprise",
+            "accommodate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exclude",
+            "release"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"contain [oneself]\ncontain [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To restrain or keep within limits; to prevent the spread or development of (something harmful or undesirable).",
+      "DEF_ZH":"抑制; 克制; 控制 (如情感、疾病或损坏)",
+      "SENT_EN":"The firefighters struggled to contain the rapidly spreading wildfire.",
+      "SENT_ZH":"消防队员努力控制迅速蔓延的野火。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrain",
+            "control",
+            "limit",
+            "check"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "containment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"contain [sth] (of a number/measurement)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"To be divisible by (another number or measure) a specified number of times.",
+      "DEF_ZH":"可被 (另一数字) 整除 (数学意义上)",
+      "SENT_EN":"The number 12 contains 4 three times.",
+      "SENT_ZH":"数字12包含4三次（即12能被4整除3次）。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, formal in the sense of restraint."
+}

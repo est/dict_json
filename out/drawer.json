@@ -1,0 +1,85 @@
+{
+  "WORD":"drawer",
+  "IPA":"/ˈdrɔːər/",
+  "CONJUGATES":"drawers (pl)",
+  "ETYMOLOGY":"From Middle English drau(e)r, agent noun of draw (to pull, to drag), so named because it is pulled out.",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A box-shaped container without a lid, built into a piece of furniture, that can be slid in and out to access contents.",
+      "DEF_ZH":"一个没有盖子的盒状容器，内置于家具中，可以拉出和推入以存取物品。",
+      "SENT_EN":"I keep my socks in the top drawer of the dresser.",
+      "SENT_ZH":"我把袜子放在梳妆台的最上面一个抽屉里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compartment",
+            "tray"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chest of drawers",
+            "desk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "old word"
+      ],
+      "DEF_EN":"A person or thing that draws or pulls.",
+      "DEF_ZH":"拉动或拖拽的人或物。",
+      "SENT_EN":"The ox was a strong drawer of the plow.",
+      "SENT_ZH":"这头牛是拉犁的强大动力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "puller",
+            "dragger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] in law",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "finance",
+        "law"
+      ],
+      "DEF_EN":"The person who writes and signs a bill of exchange or check, ordering payment.",
+      "DEF_ZH":"签发并签署汇票或支票，要求付款的人。",
+      "SENT_EN":"The drawer of the check is responsible for ensuring sufficient funds are available.",
+      "SENT_ZH":"支票的开票人负责确保有足够的资金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "drawee",
+            "payee",
+            "issuer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use for meaning 1; specialized or uncommon for meanings 2 and 3."
+}

@@ -1,0 +1,120 @@
+{
+  "WORD":"down",
+  "IPA":"/daʊn/",
+  "CONJUGATES":"downs (n) | downs (v) | downing (v) | downed (v)",
+  "ETYMOLOGY":"From Old English dūne, a shortened form of ofdūne ('from the hill'), derived from dūn ('hill, mountain'). The noun meaning 'fine feathers' comes from Old Norse dūnn.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"go [down]\nput [sth] [down]",
+      "POS":"adv | prep",
+      "POS_TIP":"adverb | preposition",
+      "TAGS":[
+        "core word",
+        "direction",
+        "common"
+      ],
+      "DEF_EN":"Moving or extending to a lower level or position; from a higher place to a lower one.",
+      "DEF_ZH":"向下；朝低处；在较低的位置。",
+      "SENT_EN":"We walked down the street to the park.",
+      "SENT_ZH":"我们沿着街道走到了公园。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feel [down]\nprices are [down]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "idiomatic",
+        "state"
+      ],
+      "DEF_EN":"Feeling unhappy, depressed, or unwell; (of a value) lower than previously.",
+      "DEF_ZH":"沮丧的；情绪低落的；（数值）下降的。",
+      "SENT_EN":"She’s been feeling down since the news.",
+      "SENT_ZH":"自从听到那个消息后，她一直情绪低落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depressed",
+            "sad",
+            "low"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "upbeat",
+            "happy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[down] [sth] (e.g. beer)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "action"
+      ],
+      "DEF_EN":"To swallow or drink quickly, especially a liquid.",
+      "DEF_ZH":"快速饮尽；一口气喝下。",
+      "SENT_EN":"He downed the glass of water after his long run.",
+      "SENT_ZH":"长跑结束后，他一口气喝光了那杯水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chug",
+            "guzzle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feather [down]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "biology"
+      ],
+      "DEF_EN":"Fine, soft, baby feathers, especially those of young birds, used for filling bedding and clothing.",
+      "DEF_ZH":"绒毛；软毛；（幼鸟的）绒羽。",
+      "SENT_EN":"The expensive sleeping bag was filled with high-quality goose down.",
+      "SENT_ZH":"这个昂贵的睡袋里装满了优质鹅绒。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "duvet",
+            "fluff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"first [down] (American Football)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "American English"
+      ],
+      "DEF_EN":"In American football, one of a series of attempts (usually four) a team has to advance the ball ten yards.",
+      "DEF_ZH":"（美式橄榄球）攻防；一档进攻。",
+      "SENT_EN":"The quarterback threw a short pass to convert the third down.",
+      "SENT_ZH":"四分卫抛出一个短传，完成了第三档进攻。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

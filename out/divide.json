@@ -1,0 +1,116 @@
+{
+  "WORD":"divide",
+  "IPA":"/dɪˈvaɪd/",
+  "CONJUGATES":"divides | dividing | divided",
+  "ETYMOLOGY":"From Latin dīvidere ('to force apart, separate'), from dis- ('apart') + root related to the verb viduare ('to separate, deprive').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"divide [sth] [into sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"To separate or break into two or more parts, groups, or sections.",
+      "DEF_ZH":"将某物分成两个或更多部分、组或区段。",
+      "SENT_EN":"We need to divide the large cake into twelve equal slices.",
+      "SENT_ZH":"我们需要把这个大蛋糕分成十二个相等的部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "split",
+            "partition",
+            "apportion"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unite",
+            "join",
+            "combine",
+            "merge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"divide [sth] [by sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"To perform the mathematical operation of division, calculating how many times one number is contained in another.",
+      "DEF_ZH":"进行数学上的除法运算，计算一个数包含在另一个数中的次数。",
+      "SENT_EN":"If you divide 100 by 5, the result is 20.",
+      "SENT_ZH":"如果你用 100 除以 5，结果是 20。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "subtract",
+            "multiply",
+            "add",
+            "quotient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"divide [sb]\ndivide [sb] [on sth]",
+      "POS":"vtr | vi + prep",
+      "POS_TIP":"transitive verb | intransitive verb followed by a preposition",
+      "TAGS":[
+        "politics",
+        "society",
+        "common"
+      ],
+      "DEF_EN":"To cause a group of people to disagree and separate into opposing factions or opinions.",
+      "DEF_ZH":"导致一群人产生分歧并分裂成对立的派系或意见。",
+      "SENT_EN":"The controversial new law threatens to divide the community.",
+      "SENT_ZH":"这项有争议的新法律威胁要分裂社区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "polarize",
+            "alienate",
+            "estrange"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a divide [between sth and sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "sociology"
+      ],
+      "DEF_EN":"A significant difference or gap, especially between two groups, areas, or viewpoints.",
+      "DEF_ZH":"一个显著的差异或隔阂，尤指在两个群体、区域或观点之间。",
+      "SENT_EN":"There is a huge cultural divide between the two countries.",
+      "SENT_ZH":"这两个国家之间存在巨大的文化鸿沟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gap",
+            "schism",
+            "rift",
+            "chasm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use in everyday conversation, academic fields (especially mathematics), and political discourse."
+}

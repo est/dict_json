@@ -1,0 +1,125 @@
+{
+  "WORD":"patch",
+  "IPA":"/pætʃ/",
+  "CONJUGATES":"patches | patching | patched",
+  "ETYMOLOGY":"From Middle English pacche, possibly related to an unattested Old English *pæcc or Middle Dutch *pak (package, bundle).",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] patch [on sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small piece of material used to mend a hole or reinforce a damaged or weak area, especially on clothing.",
+      "DEF_ZH":"用于修补孔洞或加固受损或薄弱区域（尤指衣服）的一小块材料。",
+      "SENT_EN":"He had a leather patch sewn onto the elbow of his old jacket.",
+      "SENT_ZH":"他的旧夹克的肘部缝了一块皮革补丁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mender",
+            "darn",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] patch [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small area or segment, often distinct from the surrounding environment.",
+      "DEF_ZH":"一小块区域或片段，通常与周围环境不同。",
+      "SENT_EN":"We encountered a large patch of ice on the road.",
+      "SENT_ZH":"我们在路上遇到了一大片冰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plot",
+            "tract",
+            "area"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"patch [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To mend or repair something, often by applying a patch.",
+      "DEF_ZH":"修补或修复某物，通常是通过打补丁的方式。",
+      "SENT_EN":"We need to patch the leaky roof before the storm hits.",
+      "SENT_ZH":"我们需要在暴风雨来临之前修补漏水的屋顶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mend",
+            "fix",
+            "repair"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] patch [for sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "tech",
+        "computing"
+      ],
+      "DEF_EN":"A temporary or permanent correction to a computer program or data, often used to fix bugs or update security.",
+      "DEF_ZH":"对计算机程序或数据进行的临时或永久性修改，常用于修复漏洞或更新安全功能。",
+      "SENT_EN":"The software update includes a critical security patch.",
+      "SENT_ZH":"该软件更新包含一个关键的安全补丁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hotfix",
+            "update",
+            "fix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"patch [sb/sth] through [to sb/sth]",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb (phrasal verb)",
+      "TAGS":[
+        "telephony",
+        "idiomatic"
+      ],
+      "DEF_EN":"To connect a caller or a signal electronically to another line or system.",
+      "DEF_ZH":"通过电子方式将呼叫者或信号连接到另一条线路或系统（转接）。",
+      "SENT_EN":"The operator patched the call through to the manager’s office.",
+      "SENT_ZH":"接线员将电话转接到了经理办公室。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "route",
+            "transfer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical uses in computing and telecommunications."
+}

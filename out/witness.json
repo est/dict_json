@@ -1,0 +1,103 @@
+{
+  "WORD":"witness",
+  "IPA":"/ˈwɪtnəs/",
+  "CONJUGATES":"witnesses | witnessing | witnessed",
+  "ETYMOLOGY":"From Old English witnes(s) (n.) meaning 'knowledge, testimony, evidence', ultimately related to witan 'to know'. The verb developed from the noun.",
+  "SINCE":"c. 900 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"A person who sees an event, typically a crime or accident, occur.",
+      "DEF_ZH":"目击者；证人（尤指在场观看某事件，如犯罪或事故的人）",
+      "SENT_EN":"The only witness to the robbery gave a full description of the suspect.",
+      "SENT_ZH":"抢劫案的唯一目击者对嫌疑犯进行了全面的描述。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "eyewitness",
+            "observer",
+            "beholder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"witness [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To see or observe (an event or phenomenon) typically in person.",
+      "DEF_ZH":"目睹；亲眼看到；经历",
+      "SENT_EN":"We witnessed a spectacular sunset over the mountains.",
+      "SENT_ZH":"我们目睹了一次壮观的群山日落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "observe",
+            "behold",
+            "view"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"witness [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To sign a document to confirm that one has seen the principal parties sign it.",
+      "DEF_ZH":"作证；为...的签署作证",
+      "SENT_EN":"The lawyer asked the paralegal to witness the signing of the client's will.",
+      "SENT_ZH":"律师要求律师助理为客户的遗嘱签署作证。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attest",
+            "certify",
+            "authenticate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "abstract"
+      ],
+      "DEF_EN":"Evidence or testimony; an affirmation of fact or truth.",
+      "DEF_ZH":"证据；证明；见证",
+      "SENT_EN":"His long service is a witness to his commitment to the company.",
+      "SENT_ZH":"他长期的服务证明了他对公司的承诺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proof",
+            "evidence",
+            "testimony"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Legal"
+}

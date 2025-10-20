@@ -1,0 +1,77 @@
+{
+  "WORD":"mention",
+  "IPA":"/ˈmɛnʃən/",
+  "CONJUGATES":"mentions | mentioning | mentioned",
+  "ETYMOLOGY":"From Middle English *mencioun*, via Old French *mencion*, derived from Latin *mentio, mentionis* (a calling to mind), related to *mens* (mind).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"mention [sth]\nmention that [clause]",
+      "POS":"vtr | vtr + that-clause",
+      "POS_TIP":"vtr: transitive verb; that-clause: a subordinate clause starting with 'that'.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To refer to, speak about, or note something briefly or casually, usually without elaboration.",
+      "DEF_ZH":"简短地提及、谈论或指出某事，通常不详细说明。",
+      "SENT_EN":"Did she mention the new schedule change during the meeting?",
+      "SENT_ZH":"她在会议期间提到新的时间表变动了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "refer to",
+            "state",
+            "note",
+            "bring up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "omit",
+            "conceal",
+            "suppress"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mention [v-ing]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb; v-ing: verb ending in -ing used as an object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To state or recall an action or activity that was performed or planned.",
+      "DEF_ZH":"提及某个已完成或计划中的动作或活动。",
+      "SENT_EN":"He mentioned seeing you at the supermarket yesterday.",
+      "SENT_ZH":"他提到昨天在超市看到你了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a mention\nspecial mention | receive a mention",
+      "POS":"n",
+      "POS_TIP":"n: noun.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A brief reference or public acknowledgement of someone or something.",
+      "DEF_ZH":"对某人或某事的简短提及或公开认可。",
+      "SENT_EN":"The film received a mention for its innovative costume design.",
+      "SENT_ZH":"这部电影因其创新的服装设计而获得了提名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reference",
+            "citation",
+            "acknowledgement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use (applies to both formal and informal communication)"
+}

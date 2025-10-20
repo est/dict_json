@@ -1,0 +1,112 @@
+{
+  "WORD":"fight",
+  "IPA":"/faɪt/",
+  "CONJUGATES":"fights | fighting | fought",
+  "ETYMOLOGY":"From Old English feohtan 'to fight, strive, contend' (transitive and intransitive), from Proto-Germanic *fekhtanan.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"fight [sb]\nfight [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive Verb | Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take part in a violent struggle or physical confrontation using blows, weapons, or force.",
+      "DEF_ZH":"参与暴力冲突；打架；进行搏斗。",
+      "SENT_EN":"The rivals fought for control of the territory.",
+      "SENT_ZH":"对手们为争夺这片领土而战。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "battle",
+            "combat",
+            "brawl",
+            "clash"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "surrender",
+            "retreat",
+            "yield"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fight [against sth]\nfight [for sth]",
+      "POS":"vi + prep | vtr",
+      "POS_TIP":"Intransitive Verb followed by preposition | Transitive Verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To strive vigorously against or resist an adverse condition, opponent, or idea; to work hard to achieve something difficult.",
+      "DEF_ZH":"努力争取或抵抗（抽象事物、疾病、不公正等）；反对。",
+      "SENT_EN":"They decided to fight the new zoning laws in court.",
+      "SENT_ZH":"他们决定在法庭上对抗新的分区法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "struggle",
+            "contend",
+            "oppose",
+            "resist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fight\nthe fight",
+      "POS":"n (C)",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An instance of physical combat, a battle, or a violent confrontation.",
+      "DEF_ZH":"打斗；搏斗；战斗。",
+      "SENT_EN":"The referee stopped the boxing fight in the tenth round.",
+      "SENT_ZH":"裁判在第十回合中止了这场拳击赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conflict",
+            "skirmish",
+            "contest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have fight\nput up a good fight",
+      "POS":"n (U)",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "abstract"
+      ],
+      "DEF_EN":"The determination, spirit, or will to resist, struggle, or compete.",
+      "DEF_ZH":"斗志；意志力；抵抗精神。",
+      "SENT_EN":"Despite being underdogs, they played with incredible fight.",
+      "SENT_ZH":"尽管处于劣势，他们仍然以令人难以置信的斗志在比赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tenacity",
+            "spirit",
+            "resilience",
+            "guts"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

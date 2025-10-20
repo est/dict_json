@@ -1,0 +1,156 @@
+{
+  "WORD":"steam",
+  "IPA":"/stiːm/",
+  "CONJUGATES":"steams | steaming | steamed",
+  "ETYMOLOGY":"From Middle English steme, from Old English stēam ('steam, vapour, breath'), from Proto-Germanic *staumaz. Related to Dutch stoom ('steam') and German Staub ('dust').",
+  "SINCE":"Old English period (before 1150 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[n] (uncountable)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The hot gaseous phase of water, formed by boiling; water vapor.",
+      "DEF_ZH":"水加热至沸点后形成的高温气态形式；水蒸气。",
+      "SENT_EN":"The kettle was whistling loudly, releasing a jet of steam.",
+      "SENT_ZH":"水壶大声鸣叫，喷射出一股蒸汽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vapor",
+            "fume",
+            "mist"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "boiler",
+            "geyser",
+            "cloud"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] (intransitive) steam [up/out/off]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To produce or emit steam, fog, or mist.",
+      "DEF_ZH":"产生或释放蒸汽、雾气或水汽。",
+      "SENT_EN":"The hot coffee was steaming in the cold morning air.",
+      "SENT_ZH":"在寒冷的晨空中，热咖啡正冒着蒸汽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vaporize",
+            "fume",
+            "exhale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] steam [sth] (up)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To cook food using steam.",
+      "DEF_ZH":"用蒸汽来烹饪食物（蒸煮）。",
+      "SENT_EN":"She decided to steam the vegetables for a healthier meal.",
+      "SENT_ZH":"她决定蒸蔬菜以获得更健康的膳食。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cook",
+            "vapor-cook",
+            "boil"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n] (figurative)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"Power, energy, or momentum; force or impetus.",
+      "DEF_ZH":"力量、能量或势头；动力或冲劲。",
+      "SENT_EN":"The team lost steam in the second half of the game.",
+      "SENT_ZH":"这支队伍在比赛的下半场失去了冲劲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "power",
+            "drive",
+            "momentum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] steam [ahead]\nsteam [past/through]",
+      "POS":"vi + adv/prep",
+      "POS_TIP":"intransitive verb + adverb/preposition",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To move rapidly or forcefully under the power of a steam engine or as if propelled by steam.",
+      "DEF_ZH":"（通常指机动船或火车）快速或有力地行驶，仿佛由蒸汽驱动。",
+      "SENT_EN":"The train steamed through the countryside without stopping.",
+      "SENT_ZH":"火车穿过乡村，没有停歇地快速行驶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speed",
+            "race",
+            "rush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n] (proper noun)",
+      "POS":"pn",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "tech",
+        "brand",
+        "computing"
+      ],
+      "DEF_EN":"A digital distribution platform by Valve Corporation for PC video games.",
+      "DEF_ZH":"Valve公司推出的用于PC视频游戏的数字发行平台（俗称“蒸汽平台”）。",
+      "SENT_EN":"I bought the new game through Steam last night.",
+      "SENT_ZH":"我昨晚通过Steam购买了那款新游戏。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Valve",
+            "GOG",
+            "Epic Games Store"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (thermodynamics), and computing."
+}

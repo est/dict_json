@@ -1,0 +1,90 @@
+{
+  "WORD":"representative",
+  "IPA":"/ˌrɛprɪˈzɛntətɪv/",
+  "CONJUGATES":"representatives | representatively | representativeness",
+  "ETYMOLOGY":"From Late Latin repraesentativus, derived from repraesentare (to represent), meaning to 'bring before, present, show'.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [C]",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "business"
+      ],
+      "DEF_EN":"A person chosen or appointed to act or speak for another or others, or for a constituency, especially in a legislative body.",
+      "DEF_ZH":"代表某一群体的或选民的人，尤指在立法机构中任职的代表或销售代表。",
+      "SENT_EN":"Each state sends two senators and several representatives to the national congress.",
+      "SENT_ZH":"每个州都派遣两名参议员和数名代表参加国会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delegate",
+            "envoy",
+            "agent",
+            "deputy",
+            "salesperson"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (of [sth])",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Serving as a typical or characteristic example of a particular group or class.",
+      "DEF_ZH":"具有代表性的；典型的；象征性的。",
+      "SENT_EN":"The survey results were based on a small but representative sample of the student body.",
+      "SENT_ZH":"该调查结果基于虽小但具有代表性的学生群体样本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "typical",
+            "characteristic",
+            "exemplary",
+            "indicative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unrepresentative",
+            "atypical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "politics"
+      ],
+      "DEF_EN":"Relating to a system of government that involves elected representatives.",
+      "DEF_ZH":"代议制的；代表制的（指政府制度）。",
+      "SENT_EN":"The new nation adopted a representative form of democracy.",
+      "SENT_ZH":"这个新国家采用了代议制的民主形式。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "electoral",
+            "parliamentary",
+            "republican"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Political, Business"
+}

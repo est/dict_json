@@ -1,0 +1,97 @@
+{
+  "WORD":"confirm",
+  "IPA":"/kənˈfɜːrm/",
+  "CONJUGATES":"confirms | confirmed | confirming",
+  "ETYMOLOGY":"From Middle English confermen, via Old French confermer, from Latin confirmare (con- 'together, completely' + firmare 'to make firm', from firmus 'firm, strong').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"confirm [sth]\nconfirm [that]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object or clause",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To state or show that something is definitely true or correct, often after initial doubt or suspicion.",
+      "DEF_ZH":"证实或确定某事是真实或正确的，通常是在初步怀疑或查询之后。",
+      "SENT_EN":"I called the airline to confirm my flight details.",
+      "SENT_ZH":"我打电话给航空公司确认我的航班细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "verify",
+            "corroborate",
+            "substantiate",
+            "validate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deny",
+            "disprove",
+            "refute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confirm [sth]\nconfirm [sb] in [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object or clause",
+      "TAGS":[
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To ratify, establish, or make legally or officially valid (a decision, appointment, or treaty).",
+      "DEF_ZH":"批准、认可或正式确定（决定、任命或条约），使其合法或具有官方效力。",
+      "SENT_EN":"The Senate confirmed the new Supreme Court justice.",
+      "SENT_ZH":"参议院确认了新的最高法院法官的任命。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "approve",
+            "sanction",
+            "endorse",
+            "ratify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reject",
+            "veto",
+            "overturn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confirm [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object or clause",
+      "TAGS":[
+        "religious",
+        "niche"
+      ],
+      "DEF_EN":"To administer the religious rite of confirmation, formally admitting a baptized person to full membership in a Christian church.",
+      "DEF_ZH":"施行坚信礼，正式接纳受洗者为基督教教会的正式成员。",
+      "SENT_EN":"The priest confirmed 50 young people during the service.",
+      "SENT_ZH":"神父在仪式中为50名年轻人施坚信礼。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "confirmation",
+            "baptize",
+            "consecrate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general conversation, business, and official/legal contexts."
+}

@@ -1,0 +1,108 @@
+{
+  "WORD":"swift",
+  "IPA":"/swɪft/",
+  "CONJUGATES":"swifter | swiftest | swiftly",
+  "ETYMOLOGY":"From Old English swift, related to Old Norse svipta ('to whip, sweep, hurry').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is swift\na swift [action/movement]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Moving or capable of moving with great speed; happening quickly or immediately.",
+      "DEF_ZH":"快速的；敏捷的；即时的。",
+      "SENT_EN":"The hawk made a swift dive towards its prey.",
+      "SENT_ZH":"这只鹰迅速俯冲向猎物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rapid",
+            "quick",
+            "speedy",
+            "fleet"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "slow",
+            "leisurely"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a swift [decision/reply]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Occurring or done without delay; prompt and immediate.",
+      "DEF_ZH":"（指行动或反应）迅速的；立即采取的。",
+      "SENT_EN":"We require a swift response to the emergency situation.",
+      "SENT_ZH":"我们需要对紧急情况做出快速反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prompt",
+            "immediate",
+            "instantaneous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a swift (bird)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"A small, migratory, insectivorous bird (family Apodidae) noted for its long, pointed wings and extremely fast flight.",
+      "DEF_ZH":"雨燕（一种迁徙性的食虫鸟，以飞行速度快著称）。",
+      "SENT_EN":"Swifts spend most of their lives in the air, only landing to nest.",
+      "SENT_ZH":"雨燕一生大部分时间都在空中度过，只在筑巢时才降落。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "swallow",
+            "martin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Swift (programming language)",
+      "POS":"Proper n",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"An open-source programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux.",
+      "DEF_ZH":"（专有名词）苹果公司开发的编程语言，用于iOS、macOS等平台。",
+      "SENT_EN":"The developer decided to rewrite the application using Swift for better performance.",
+      "SENT_ZH":"开发人员决定使用 Swift 重写该应用程序以获得更好的性能。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Apple",
+            "iOS",
+            "Objective-C"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical (for the programming language)"
+}

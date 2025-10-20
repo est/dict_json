@@ -1,0 +1,120 @@
+{
+  "WORD":"volume",
+  "IPA":"/ˈvɑːljuːm/",
+  "CONJUGATES":"volumes (pl.)",
+  "ETYMOLOGY":"From Middle French volume, from Latin volūmen ('a roll of writing, scroll'), derived from volvere ('to roll'). The concept of size/capacity evolved from the size of a scroll or book.",
+  "SINCE":"Late 14th century (book); 16th century (spatial extent); 18th century (sound intensity)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (spatial extent)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"The amount of space that a substance or object occupies, or that is enclosed within a container; capacity.",
+      "DEF_ZH":"物质或物体所占据的空间量；容量。",
+      "SENT_EN":"The scientist calculated the precise volume of the irregular solid.",
+      "SENT_ZH":"这位科学家计算出了这个不规则固体的精确体积。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "capacity",
+            "size",
+            "extent",
+            "bulk"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mass",
+            "density",
+            "area"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[of sound]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The loudness or amount of sound.",
+      "DEF_ZH":"声音的强度或响度。",
+      "SENT_EN":"Could you lower the volume on the television, please?",
+      "SENT_ZH":"请问您能把电视机的音量调低一点吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loudness",
+            "intensity",
+            "amplitude"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "decibel",
+            "mute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[of business/transactions]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "business",
+        "common"
+      ],
+      "DEF_EN":"A large quantity or number of something, especially of business transactions, data, or production.",
+      "DEF_ZH":"大量；数量（尤指商业交易量、数据或生产量）。",
+      "SENT_EN":"The shipping company handles a high volume of parcels daily.",
+      "SENT_ZH":"这家船运公司每天处理大量的包裹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quantity",
+            "amount",
+            "mass",
+            "aggregate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[of a publication/series]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"A single book that forms part of a work published in a series or set.",
+      "DEF_ZH":"丛书或系列作品中的一册；卷。",
+      "SENT_EN":"The biography is split into two volumes, covering her early and late career.",
+      "SENT_ZH":"这本传记分为两卷，分别讲述了她早期和晚期的职业生涯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "book",
+            "tome",
+            "issue"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Mathematics, Physics, Audio Engineering, Business"
+}

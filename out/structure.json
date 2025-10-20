@@ -1,0 +1,90 @@
+{
+  "WORD":"structure",
+  "IPA":"/'strʌktʃər/",
+  "CONJUGATES":"structures | structuring | structured",
+  "ETYMOLOGY":"From Latin structura 'a fitting together, building', derived from struere 'to build, pile up'.",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"structure [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"The arrangement of and relations between the parts or elements of something complex.",
+      "DEF_ZH":"事物各部分之间的排列、组织和相互关系；结构；构造。",
+      "SENT_EN":"The political structure of the organization determines how decisions are made.",
+      "SENT_ZH":"该组织的政治结构决定了如何做出决策。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "framework",
+            "organization",
+            "arrangement",
+            "constitution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"structure",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "physical object",
+        "concrete",
+        "common"
+      ],
+      "DEF_EN":"A physical entity or framework built from several parts, such as a building, bridge, or dam.",
+      "DEF_ZH":"建筑物；构造体；由多部分构成的有形实体（如桥梁或塔楼）。",
+      "SENT_EN":"The old bridge structure needs immediate repair to ensure safety.",
+      "SENT_ZH":"这座旧桥结构需要立即修复以确保安全。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "building",
+            "construction",
+            "edifice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"structure [sth]\nstructure [sth] around [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "verb",
+        "common"
+      ],
+      "DEF_EN":"To construct or arrange something according to a definite plan or system; to give organization to.",
+      "DEF_ZH":"组织；安排；使有条理；使（某事物）形成系统。",
+      "SENT_EN":"We need to structure the meeting agenda better so we can finish on time.",
+      "SENT_ZH":"我们需要更好地安排会议议程，以便按时完成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "organize",
+            "systematize",
+            "frame"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disorganize",
+            "dismantle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical, General Usage"
+}

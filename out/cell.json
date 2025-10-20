@@ -1,0 +1,166 @@
+{
+  "WORD":"cell",
+  "IPA":"/sɛl/",
+  "CONJUGATES":"Noun: cells (plural) | Verb: cells (3rd singular present) | celling (present participle) | celled (past tense & past participle)",
+  "ETYMOLOGY":"From Old French celle, from Latin cella 'small room, store room', related to celare 'to hide'.",
+  "SINCE":"Early 13th century (as 'small room'); 17th century (as 'biological unit')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[cell]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "Biology",
+        "Science",
+        "fundamental"
+      ],
+      "DEF_EN":"The smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane.",
+      "DEF_ZH":"生物体最基本的结构和功能单位，通常微观，由细胞质和细胞核组成并被细胞膜包围。",
+      "SENT_EN":"All living organisms are composed of cells.",
+      "SENT_ZH":"所有活的生物体都由细胞构成。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "organism",
+            "tissue",
+            "nucleus",
+            "cytoplasm",
+            "membrane"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[cell]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "Architecture",
+        "Religion",
+        "Justice"
+      ],
+      "DEF_EN":"A small room, typically one in a prison or monastery.",
+      "DEF_ZH":"小房间，尤指监狱或修道院中的小室。",
+      "SENT_EN":"The prisoner was confined to a narrow cell.",
+      "SENT_ZH":"犯人被关押在一个狭小的牢房里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chamber",
+            "cubicle",
+            "compartment",
+            "room"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[cell]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "Technology",
+        "Physics"
+      ],
+      "DEF_EN":"A device that produces an electric current by converting chemical or solar energy; a battery unit.",
+      "DEF_ZH":"一种通过将化学能或太阳能转换为电能来产生电流的装置；一个电池单元。",
+      "SENT_EN":"This flashlight uses two AA cells.",
+      "SENT_ZH":"这个手电筒使用两节AA电池。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "battery",
+            "solar cell",
+            "fuel cell",
+            "photovoltaic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[cell]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "Politics",
+        "Social",
+        "group"
+      ],
+      "DEF_EN":"A small, usually secret, group forming a part of a larger organization.",
+      "DEF_ZH":"一个通常是秘密的、构成更大组织一部分的小团体。",
+      "SENT_EN":"The intelligence agency uncovered a terrorist cell operating in the city.",
+      "SENT_ZH":"情报机构侦破了一个在该市活动的恐怖分子小组。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "group",
+            "faction",
+            "clique"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[cell]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "Computing",
+        "Telecommunications",
+        "technical"
+      ],
+      "DEF_EN":"A distinct unit in a larger structure, such as a spreadsheet or a mobile phone network area.",
+      "DEF_ZH":"较大结构中的一个独立单元，例如电子表格中的单元格或移动电话网络区域。",
+      "SENT_EN":"Enter the data into cell A1 of the spreadsheet.",
+      "SENT_ZH":"将数据输入到电子表格的A1单元格中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spreadsheet",
+            "grid",
+            "network",
+            "base station",
+            "datacell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cell [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb: A verb that takes one or more objects.",
+      "TAGS":[
+        "rare",
+        "formal",
+        "archaic"
+      ],
+      "DEF_EN":"To confine someone in a cell.",
+      "DEF_ZH":"将某人关押在牢房中。",
+      "SENT_EN":"They threatened to cell him if he didn't cooperate.",
+      "SENT_ZH":"他们威胁说，如果他不合作，就会把他关起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imprison",
+            "confine",
+            "incarcerate",
+            "jail"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common (for noun meanings), Rare (for verb meaning)"
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"potato",
+  "IPA":"/pəˈteɪtoʊ/",
+  "CONJUGATES":"potatoes",
+  "ETYMOLOGY":"From Spanish patata (16th century), which is a blend of the Taíno word batata ('sweet potato') and the Quechua word papa ('potato').",
+  "SINCE":"c. 1565",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (the tuber)",
+      "POS":"n.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "culinary",
+        "agriculture"
+      ],
+      "DEF_EN":"A starchy root vegetable, typically round or oval, grown underground, and widely used for food.",
+      "DEF_ZH":"一种淀粉质的块茎蔬菜，通常为圆形或椭圆形，生长在地下，广泛用作食物（即马铃薯、土豆）。",
+      "SENT_EN":"We boiled the potatoes and served them with butter.",
+      "SENT_ZH":"我们把土豆煮了，配着黄油吃了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spud",
+            "tater"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tuber",
+            "sweet potato",
+            "yam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (the plant)",
+      "POS":"n.",
+      "POS_TIP":"countable/uncountable noun",
+      "TAGS":[
+        "botany"
+      ],
+      "DEF_EN":"The plant (*Solanum tuberosum*) of the nightshade family, grown for its edible tubers.",
+      "DEF_ZH":"茄科植物（学名 *Solanum tuberosum*），因其可食用的块茎而种植。",
+      "SENT_EN":"The potato belongs to the nightshade family.",
+      "SENT_ZH":"马铃薯属于茄科植物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Solanum tuberosum",
+            "nightshade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (often in compounds like 'couch potato')",
+      "POS":"n.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "informal",
+        "slang",
+        "derogatory"
+      ],
+      "DEF_EN":"A dull, lazy, or inactive person.",
+      "DEF_ZH":"迟钝、懒惰或不活跃的人（常用于复合词中，如“沙发土豆”）。",
+      "SENT_EN":"Since he retired, he has become a total couch potato.",
+      "SENT_ZH":"自从退休以来，他彻底变成了一个“沙发土豆”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loafer",
+            "slouch",
+            "sloth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Culinary | Botany"
+}

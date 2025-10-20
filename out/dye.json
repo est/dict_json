@@ -1,0 +1,96 @@
+{
+  "WORD":"dye",
+  "IPA":"/daɪ/",
+  "CONJUGATES":"dyes | dying | dyed",
+  "ETYMOLOGY":"From Old English dēag, related to dēagan 'to color, stain'. Ultimately of Germanic origin, shared with Old Norse dygð (virtue, goodness), possibly referring to the quality or color imparted.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"dye [sth] (a color)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: action requires a direct object",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "manufacturing"
+      ],
+      "DEF_EN":"To color fabric, hair, or other material by soaking it in a coloring substance or applying that substance directly.",
+      "DEF_ZH":"通过浸泡或直接涂抹着色物质来给织物、头发或其他材料着色。",
+      "SENT_EN":"She decided to dye her hair bright pink for the concert.",
+      "SENT_ZH":"她决定把头发染成亮粉色去参加演唱会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "color",
+            "tint",
+            "stain",
+            "pigment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bleach",
+            "chroma"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dye (for textiles/hair/etc.)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "material science",
+        "chemistry"
+      ],
+      "DEF_EN":"A substance used to give a permanent color to materials such as fabric, leather, or hair, especially one that dissolves in water.",
+      "DEF_ZH":"用于赋予织物、皮革或头发等材料永久颜色的物质，特别是可溶于水的物质。",
+      "SENT_EN":"The natural indigo dye produced a deep blue hue on the cotton fabric.",
+      "SENT_ZH":"天然靛蓝染料在棉织物上产生了深蓝色的色调。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "colorant",
+            "pigment",
+            "tincture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "aniline",
+            "mordant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be dyed-in-the-wool",
+      "POS":"adj",
+      "POS_TIP":"Adjective (used idiomatically)",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"Holding strong beliefs or characteristics that are deeply ingrained and unlikely to change (referring to wool dyed before spinning).",
+      "DEF_ZH":"（信仰或特征）根深蒂固、难以改变的；彻底的（源自羊毛在纺织前染色，颜色更持久）。",
+      "SENT_EN":"He is a dyed-in-the-wool conservative who always votes for the same party.",
+      "SENT_ZH":"他是一个彻头彻尾的保守派，总是投票给同一个政党。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inveterate",
+            "firm",
+            "unshakeable"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical (Textile/Cosmetics)"
+}

@@ -1,0 +1,90 @@
+{
+  "WORD":"assign",
+  "IPA":"/əˈsaɪn/",
+  "CONJUGATES":"assigns | assigned | assigning",
+  "ETYMOLOGY":"From Old French assigner, from Latin assignare ('to allot by sign'), from ad- ('to') + signare ('to mark, sign'), from signum ('a mark, sign').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"assign [sth] to [sb]\nassign [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb - a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To give someone a particular job, duty, or responsibility; to allocate a task or role.",
+      "DEF_ZH":"分配（任务、职责等）；指派；指定。",
+      "SENT_EN":"The teacher assigned homework to the students.",
+      "SENT_ZH":"老师给学生布置了家庭作业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allocate",
+            "delegate",
+            "appoint",
+            "entrust",
+            "designate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withhold",
+            "keep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assign [sth] to [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb - a verb that takes one or more objects",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To attribute something to a particular cause, source, or person; to ascribe.",
+      "DEF_ZH":"归因于；确定...的责任。",
+      "SENT_EN":"It's difficult to assign blame for the accident.",
+      "SENT_ZH":"很难确定这起事故的责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attribute",
+            "ascribe",
+            "impute",
+            "blame"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assign [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb - a verb that takes one or more objects",
+      "TAGS":[
+        "legal",
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To legally transfer a right, property, or interest to another person.",
+      "DEF_ZH":"（法律上）转让（权利、财产等）。",
+      "SENT_EN":"He assigned his patent rights to the company.",
+      "SENT_ZH":"他将自己的专利权转让给了公司。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "cede",
+            "convey",
+            "alienate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Formal"
+}

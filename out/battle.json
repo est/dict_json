@@ -1,0 +1,76 @@
+{
+  "WORD":"battle",
+  "IPA":"/ˈbætl/",
+  "CONJUGATES":"battle | battles | battling | battled",
+  "ETYMOLOGY":"From Old French bataille ('battle, combat, fighting'), from Late Latin battualia ('exercise of soldiers and gladiators in fighting'), from Latin battuere ('to beat, strike').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a battle (between [X] and [Y])\na battle (for/over [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sustained fight or conflict between large organized armed forces; a struggle or contest between opposing forces or ideas.",
+      "DEF_ZH":"大规模有组织武装力量之间持续的战斗或冲突；对立力量或思想之间的斗争或较量。",
+      "SENT_EN":"The Battle of Gettysburg was a turning point in the American Civil War.",
+      "SENT_ZH":"葛底斯堡战役是美国内战的转折点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conflict",
+            "combat",
+            "skirmish",
+            "engagement",
+            "struggle",
+            "fight"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "peace",
+            "truce",
+            "harmony"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"battle [sb/sth]\nbattle against [sb/sth]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fight or struggle forcefully against someone or something.",
+      "DEF_ZH":"与某人或某事进行猛烈的战斗或搏斗。",
+      "SENT_EN":"Firefighters battled the blaze for hours.",
+      "SENT_ZH":"消防员与大火搏斗了数小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fight",
+            "combat",
+            "contend",
+            "struggle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "surrender",
+            "yield",
+            "give in"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

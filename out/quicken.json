@@ -1,0 +1,82 @@
+{
+  "WORD":"quicken",
+  "IPA":"/ˈkwɪkən/",
+  "CONJUGATES":"quickens | quickening | quickened",
+  "ETYMOLOGY":"From Old English cwician 'to come to life, revive, animate,' from cwic 'alive' (see 'quick'). The transitive sense 'to make alive, give life to' is also Old English.",
+  "SINCE":"Old English (pre-12th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"quicken [sth]\nquicken",
+      "POS":"vtr | vint",
+      "POS_TIP":"\"vtr\" means transitive verb (takes a direct object); \"vint\" means intransitive verb (does not take a direct object).",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"To make something faster or more active, or to become faster or more active.",
+      "DEF_ZH":"使某物加速或变得更活跃，或自身加速或变得更活跃。",
+      "SENT_EN":"The doctor advised him to quicken his pace during the morning walk.",
+      "SENT_ZH":"医生建议他在晨练时加快步伐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accelerate",
+            "speed up",
+            "hasten",
+            "intensify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "slow down",
+            "decelerate",
+            "retard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quicken [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" means transitive verb (takes a direct object).",
+      "TAGS":[
+        "literary",
+        "archaic",
+        "uncommon"
+      ],
+      "DEF_EN":"To give life to or make something alive; to animate or revive.",
+      "DEF_ZH":"赋予生命；使有生气；使活起来；使复苏。",
+      "SENT_EN":"His powerful words quickened the spirits of the weary soldiers.",
+      "SENT_ZH":"他充满力量的话语振奋了疲惫士兵们的士气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "animate",
+            "enliven",
+            "revitalize",
+            "inspire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quicken",
+      "POS":"vint",
+      "POS_TIP":"\"vint\" means intransitive verb (does not take a direct object).",
+      "TAGS":[
+        "specific",
+        "medical",
+        "uncommon"
+      ],
+      "DEF_EN":"(Of a pregnant woman) to feel the first movements of the fetus in the womb.",
+      "DEF_ZH":"（指孕妇）初次感觉到胎儿在子宫内的胎动。",
+      "SENT_EN":"She was so excited when she quickened for the first time.",
+      "SENT_ZH":"当她第一次感觉到胎动时，她非常兴奋。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

@@ -1,0 +1,124 @@
+{
+  "WORD":"title",
+  "IPA":"/'taɪtl/",
+  "CONJUGATES":"titles | titled | titling",
+  "ETYMOLOGY":"From Old French title, titre, from Latin titulus ('inscription, label, title, honorary designation').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s title\nthe title of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The name given to a book, composition, movie, or other work.",
+      "DEF_ZH":"书籍、作品、电影或其他著作的名称或题目。",
+      "SENT_EN":"I couldn't recall the exact title of the documentary we watched.",
+      "SENT_ZH":"我想不起来我们看的那部纪录片的准确名称了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "name",
+            "heading",
+            "caption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s title\nprofessional title",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "official"
+      ],
+      "DEF_EN":"A word or phrase used to indicate a person's status, rank, or profession (e.g., Doctor, President, Sir).",
+      "DEF_ZH":"用于表示某人地位、级别或职业的词语或短语（例如，博士、总裁、爵士）。",
+      "SENT_EN":"Despite his promotion, he prefers to be addressed by his original job title.",
+      "SENT_ZH":"尽管他升职了，但他更喜欢别人称呼他原来的职位头衔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "designation",
+            "rank",
+            "appellation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"win a title\ndefending champion",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "achievement"
+      ],
+      "DEF_EN":"A championship or first-place award in a sport or other competition.",
+      "DEF_ZH":"体育运动或其他比赛中的冠军头衔。",
+      "SENT_EN":"The team needs one more win to secure the league title.",
+      "SENT_ZH":"该队还需要一场胜利才能确保联赛冠军头衔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "championship",
+            "crown",
+            "trophy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"title [sth] as [sth]\n[sth] is titled [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To give a name or title to a piece of work.",
+      "DEF_ZH":"为作品命名或定题目。",
+      "SENT_EN":"He titled his autobiography 'Out of the Darkness'.",
+      "SENT_ZH":"他将自己的自传命名为《走出黑暗》。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "name",
+            "call",
+            "designate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"legal title\nclear title",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A legal right to the ownership of property, documented by a deed.",
+      "DEF_ZH":"对财产拥有的合法权利或所有权（通常有契约文件证明）。",
+      "SENT_EN":"Before purchasing, ensure that the seller has clear title to the land.",
+      "SENT_ZH":"购买前，请确保卖方对土地拥有明确的所有权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ownership",
+            "deed",
+            "right"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

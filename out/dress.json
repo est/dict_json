@@ -1,0 +1,109 @@
+{
+  "WORD":"dress",
+  "IPA":"/dres/",
+  "CONJUGATES":"dresses (n/v) | dressed (v) | dressing (v)",
+  "ETYMOLOGY":"From Middle English dresse(n), from Old French dresser ('to set up, arrange, prepare'), ultimately from Vulgar Latin *directiare* ('to straighten, make straight'), derived from Latin directus.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c]",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "clothing"
+      ],
+      "DEF_EN":"A one-piece garment worn by a woman or girl that usually consists of a bodice and skirt.",
+      "DEF_ZH":"连衣裙；裙装（特指女性或女孩穿的连体服装）",
+      "SENT_EN":"She wore a beautiful blue dress to the party.",
+      "SENT_ZH":"她穿着一条漂亮的蓝色连衣裙去参加派对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frock",
+            "gown",
+            "shift"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dress [oneself]\ndress [sb]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To put clothes on oneself or someone else.",
+      "DEF_ZH":"穿衣；给...穿衣；打扮",
+      "SENT_EN":"Please dress quickly, we are running late.",
+      "SENT_ZH":"请快点穿好衣服，我们快迟到了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clothe",
+            "attire",
+            "robe"
+          ]
+        },
+        {
+          "T":"phrasal verbs",
+          "V":[
+            "dress up",
+            "dress down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dress [a wound]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "medical",
+        "technical"
+      ],
+      "DEF_EN":"To clean and apply a covering or medication to a wound or injury.",
+      "DEF_ZH":"处理（伤口）；包扎",
+      "SENT_EN":"The medic dressed the soldier's cut immediately.",
+      "SENT_ZH":"医务人员立即包扎了士兵的伤口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bandage",
+            "treat",
+            "tend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dress [food/salad]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "culinary",
+        "cooking"
+      ],
+      "DEF_EN":"To prepare food for cooking or serving, especially by adding sauce or seasoning to a salad.",
+      "DEF_ZH":"给（沙拉）调味；给（家禽或肉类）去毛/去内脏进行烹饪准备",
+      "SENT_EN":"Remember to dress the salad with olive oil and vinegar.",
+      "SENT_ZH":"记得用橄榄油和醋给沙拉调味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "season",
+            "garnish",
+            "prepare"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common English"
+}

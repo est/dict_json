@@ -1,0 +1,133 @@
+{
+  "WORD":"scan",
+  "IPA":"/skæn/",
+  "CONJUGATES":"scans | scanning | scanned",
+  "ETYMOLOGY":"From Middle English scannen, from Old French scander, from Latin scandere 'to climb, rise, scan (verse)', from Proto-Indo-European *(s)kend- 'to jump, leap, clamber'",
+  "SINCE":"Late 14th century (for poetry); 1940s (for technology)",
+  "MEANINGS":[
+    {
+      "PATTERN":"scan [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"To convert a document or image into digital form using a scanner.",
+      "DEF_ZH":"使用扫描仪将文件或图像转换成数字格式。",
+      "SENT_EN":"Please scan this photo and email it to the client.",
+      "SENT_ZH":"请将这张照片扫描并电邮给客户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "digitize",
+            "image"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "scanner",
+            "scanning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scan [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To look at all parts of something carefully in order to detect some feature or object.",
+      "DEF_ZH":"仔细查看某物的各个部分，以检测某种特征或物体；审视。",
+      "SENT_EN":"The doctor scanned the X-ray for any signs of fracture.",
+      "SENT_ZH":"医生仔细审视了X光片，查找是否有任何骨折迹象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examine",
+            "scrutinize",
+            "survey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scan [sth]\nscan [over] [sth]",
+      "POS":"vtr | vi + prep",
+      "POS_TIP":"transitive verb | intransitive verb followed by a prepositional phrase",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To look quickly over something, often without careful attention, to get the general idea or find a specific item.",
+      "DEF_ZH":"快速地浏览某物，通常不仔细，以获取大致概念或寻找特定项目。",
+      "SENT_EN":"She quickly scanned the newspaper headlines before leaving for work.",
+      "SENT_ZH":"她在上班前快速浏览了报纸的头条新闻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skim",
+            "browse",
+            "glance at"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a scan of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technology",
+        "medical"
+      ],
+      "DEF_EN":"A medical examination using a scanner (such as a CT, MRI, or ultrasound) to produce an image of the inside of the body.",
+      "DEF_ZH":"使用扫描仪（如CT、MRI或超声波）对身体内部进行成像的医学检查。",
+      "SENT_EN":"The patient needs to undergo a brain scan to check for tumors.",
+      "SENT_ZH":"病人需要进行一次脑部扫描以检查肿瘤。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "MRI",
+            "CT scan",
+            "ultrasound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scan [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes a direct object",
+      "TAGS":[
+        "linguistics",
+        "literary"
+      ],
+      "DEF_EN":"To read or analyze verse to determine its meter or rhythm.",
+      "DEF_ZH":"阅读或分析诗歌以确定其韵律或格律。",
+      "SENT_EN":"The students learned how to scan a line of iambic pentameter.",
+      "SENT_ZH":"学生们学习了如何分析一行抑扬格五音步诗的格律。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "scansion",
+            "meter",
+            "rhythm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical/Medical"
+}

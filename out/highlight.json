@@ -1,0 +1,133 @@
+{
+  "WORD":"highlight",
+  "IPA":"/ˈhaɪlaɪt/",
+  "CONJUGATES":"highlights | highlighting | highlighted",
+  "ETYMOLOGY":"Compound of 'high' (adj.) and 'light' (n.), first used in the sense of a bright spot in a picture. The verb sense of 'to emphasize' or 'to mark with a bright color' emerged later.",
+  "SINCE":"Late 16th century (noun, art sense); early 20th century (verb, emphasize sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"highlight [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To draw special attention to something or make it more noticeable.",
+      "DEF_ZH":"强调或使某事物更引人注目。",
+      "SENT_EN":"The report highlights the need for better education.",
+      "SENT_ZH":"这份报告强调了改善教育的必要性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emphasize",
+            "stress",
+            "underscore",
+            "underline",
+            "spotlight"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "downplay",
+            "obscure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"highlight [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; a verb that takes one or more objects",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To mark text with a bright color, often using a special pen, to make it stand out.",
+      "DEF_ZH":"用亮色标记文本，通常用荧光笔，使其突出。",
+      "SENT_EN":"Please highlight the important paragraphs in yellow.",
+      "SENT_ZH":"请用黄色高亮显示重要的段落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mark",
+            "color",
+            "underscore"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "highlighter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the highlight of [sth]\nhighlights",
+      "POS":"n",
+      "POS_TIP":"noun; a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The best or most interesting part of an event, experience, or period.",
+      "DEF_ZH":"事件、经历或时期中最精彩或最有趣的部分。",
+      "SENT_EN":"The highlight of our trip was visiting the ancient ruins.",
+      "SENT_ZH":"我们旅行中最精彩的部分是参观了古老的遗址。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peak",
+            "climax",
+            "zenith",
+            "best part",
+            "main event"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "summary",
+            "excerpt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"highlights",
+      "POS":"n",
+      "POS_TIP":"noun; a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "specialized",
+        "art",
+        "photography",
+        "beauty"
+      ],
+      "DEF_EN":"An area of lightness in a picture or painting; also, streaks of lighter color in hair.",
+      "DEF_ZH":"绘画或照片中明亮的部分；也指头发中染成较浅的条状颜色。",
+      "SENT_EN":"The painter skillfully captured the highlights on the water.",
+      "SENT_ZH":"画家巧妙地捕捉了水面上的亮光。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "shadows",
+            "lowlights"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ombre",
+            "balayage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

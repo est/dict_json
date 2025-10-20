@@ -1,0 +1,88 @@
+{
+  "WORD":"cancer",
+  "IPA":"/ˈkænsər/",
+  "CONJUGATES":"cancers",
+  "ETYMOLOGY":"From Latin cancer ('crab, sore, tumor') and Ancient Greek karkinos ('crab, tumor'), referring to the spreading, crab-like veins of tumors.",
+  "SINCE":"c. 1300 (referring to the disease); Old English for the constellation.",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] [med]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun; medicine",
+      "TAGS":[
+        "core word",
+        "medical",
+        "serious"
+      ],
+      "DEF_EN":"A malignant tumor of potentially unlimited growth that expands locally and by metastasis.",
+      "DEF_ZH":"一种恶性肿瘤，具有潜在的无限生长能力，并通过局部扩散和转移进行扩展。",
+      "SENT_EN":"She is undergoing treatment for lung cancer.",
+      "SENT_ZH":"她正在接受肺癌的治疗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "malignancy",
+            "carcinoma",
+            "sarcoma"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "oncology",
+            "tumor",
+            "chemotherapy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[C]",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "astronomy"
+      ],
+      "DEF_EN":"The fourth sign of the zodiac, governing the period from about June 21 to July 22, represented by a crab.",
+      "DEF_ZH":"黄道十二宫的第四个星座，约在6月21日至7月22日之间，以螃蟹为代表。",
+      "SENT_EN":"People born under the sign of Cancer are often considered intuitive and emotional.",
+      "SENT_ZH":"出生在巨蟹座的人通常被认为是直觉且情绪化的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Zodiac",
+            "Crab",
+            "constellation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sing] [fig]",
+      "POS":"n",
+      "POS_TIP":"singular noun; figurative",
+      "TAGS":[
+        "metaphorical",
+        "negative"
+      ],
+      "DEF_EN":"Something evil or destructive that spreads and is difficult to eradicate.",
+      "DEF_ZH":"比喻指某种邪恶或具有破坏性的事物，会蔓延且难以根除。",
+      "SENT_EN":"Corruption acts like a cancer in the government.",
+      "SENT_ZH":"腐败像政府中的毒瘤一样蔓延。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scourge",
+            "plague",
+            "blight"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Astronomical"
+}

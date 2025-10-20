@@ -1,0 +1,112 @@
+{
+  "WORD":"sort",
+  "IPA":"/sɔːrt/",
+  "CONJUGATES":"sort | sorts | sorting | sorted",
+  "ETYMOLOGY":"From Old French sorte ('kind, quality'), derived from Latin sors (genitive sortis, 'lot, fate, share, destiny').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"sort [sth]\nsort [sth] into [sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To arrange objects, data, or items systematically in groups or according to specific criteria.",
+      "DEF_ZH":"将物体、数据或项目根据特定标准进行系统地安排或分组；分类。",
+      "SENT_EN":"The post office needs to sort the mail by destination before delivery.",
+      "SENT_ZH":"邮局需要在投递前按目的地将邮件分类。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrange",
+            "classify",
+            "categorize",
+            "group"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "assortment",
+            "sorting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sort of [sth]",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A category, type, or class of things or people.",
+      "DEF_ZH":"种类；类型；品种。",
+      "SENT_EN":"It was a strange sort of plant, unfamiliar to everyone.",
+      "SENT_ZH":"这是一种奇怪的植物，对所有人来说都很陌生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kind",
+            "type",
+            "class",
+            "variety"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sort [sth] out",
+      "POS":"vp",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To successfully resolve a problem, disagreement, or misunderstanding.",
+      "DEF_ZH":"成功解决问题、分歧或误解；处理妥当。",
+      "SENT_EN":"We need to meet tomorrow and sort out the budget issues.",
+      "SENT_ZH":"我们明天需要开会，解决预算问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resolve",
+            "settle",
+            "fix",
+            "handle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a computational sort",
+      "POS":"n",
+      "POS_TIP":"countable/uncountable noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(In computing) An operation or algorithm that arranges data elements into a specified order (e.g., numerically or alphabetically).",
+      "DEF_ZH":"（计算机）将数据元素按指定顺序（如数字或字母顺序）排列的操作或算法。",
+      "SENT_EN":"The program uses a merge sort to handle large datasets efficiently.",
+      "SENT_ZH":"该程序使用归并排序算法来有效处理大型数据集。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "algorithm",
+            "quicksort",
+            "database"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

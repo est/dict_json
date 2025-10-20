@@ -1,0 +1,133 @@
+{
+  "WORD":"guard",
+  "IPA":"/ɡɑːrd/",
+  "CONJUGATES":"guards | guarded | guarding",
+  "ETYMOLOGY":"From Middle English garde (noun), from Old French garde (noun) and garder (verb), ultimately of Germanic origin (Frankish *wardōn 'to watch, keep'). Related to 'ward'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"guard [sb]\nguard [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To watch over someone or something in order to protect or defend them from danger or attack.",
+      "DEF_ZH":"看守某人或某物，以保护或防御其免受危险或攻击。",
+      "SENT_EN":"The police were assigned to guard the embassy twenty-four hours a day.",
+      "SENT_ZH":"警方被指派每天二十四小时守卫大使馆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protect",
+            "defend",
+            "shield",
+            "safeguard"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expose",
+            "abandon",
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a guard\nthe guards",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "profession"
+      ],
+      "DEF_EN":"A person who is employed to protect a place, a person, or to watch over prisoners.",
+      "DEF_ZH":"受雇保护某地、某人或看守囚犯的人。",
+      "SENT_EN":"The security guard checked all incoming deliveries before allowing entry.",
+      "SENT_ZH":"保安在允许进入前检查了所有送达的货物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sentry",
+            "warden",
+            "custodian",
+            "security officer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a guard (on sth)",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "device",
+        "technical"
+      ],
+      "DEF_EN":"A protective device or covering designed to prevent injury or damage to equipment.",
+      "DEF_ZH":"一种保护装置或覆盖物，旨在防止受伤或设备损坏。",
+      "SENT_EN":"Ensure the safety guard is properly fitted before using the lawnmower.",
+      "SENT_ZH":"使用割草机前，请确保防护罩已正确安装。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shield",
+            "screen",
+            "barrier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"guard [one's] words/feelings",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative"
+      ],
+      "DEF_EN":"To be careful about what one says or how one expresses oneself to avoid giving away information or revealing feelings.",
+      "DEF_ZH":"小心言辞或表达方式，以避免泄露信息或表露情感。",
+      "SENT_EN":"She learned to guard her emotions closely after the public failure.",
+      "SENT_ZH":"在经历公众失败后，她学会了严密地隐藏自己的情绪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrain",
+            "censor",
+            "hold back"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a guard (sports)",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "sports"
+      ],
+      "DEF_EN":"A position in certain team sports, such as an offensive lineman in American football or a point guard in basketball.",
+      "DEF_ZH":"某些团队运动中的位置，例如美式橄榄球中的进攻内锋或篮球中的后卫。",
+      "SENT_EN":"The star shooting guard hit the game-winning three-pointer.",
+      "SENT_ZH":"这位明星得分后卫投进了制胜的三分球。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "point guard",
+            "shooting guard",
+            "offensive line"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

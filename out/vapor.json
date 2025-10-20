@@ -1,0 +1,89 @@
+{
+  "WORD":"vapor",
+  "IPA":"/ˈveɪpər/",
+  "CONJUGATES":"vapors (n.pl.) | vapors (v.3rd sg.pres.) | vaporing (v.pres.part.) | vapored (v.past.t/past.part.)",
+  "ETYMOLOGY":"From Old French 'vapor', from Latin 'vapor' ('steam, exhalation, heat')",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"vapor",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical phenomenon",
+        "scientific"
+      ],
+      "DEF_EN":"A substance diffused or suspended in the air, especially one normally liquid or solid, visible as mist or smoke.",
+      "DEF_ZH":"悬浮在空气中的物质，尤指通常为液体或固体，以薄雾或烟雾形式可见。",
+      "SENT_EN":"The warm air was thick with the sweet vapor of blooming jasmine.",
+      "SENT_ZH":"温暖的空气中弥漫着盛开的茉莉花香甜的蒸汽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steam",
+            "mist",
+            "fume",
+            "haze",
+            "exhalation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vapors",
+      "POS":"n.pl.",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun); plural form.",
+      "TAGS":[
+        "figurative",
+        "old-fashioned",
+        "medical",
+        "emotional state"
+      ],
+      "DEF_EN":"(Often in the plural) A fit of depression, melancholy, or hysteria, especially among women in the 18th and 19th centuries.",
+      "DEF_ZH":"（常作复数）尤指18、19世纪女性的忧郁、沮丧或歇斯底里发作。",
+      "SENT_EN":"She was prone to the vapors whenever confronted with shocking news.",
+      "SENT_ZH":"她一听到惊人的消息就容易犯忧郁症。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "melancholy",
+            "moodiness",
+            "doldrums",
+            "hysterics",
+            "nervousness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vapor [sth]\nvapor",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr: transitive verb, takes a direct object; vi: intransitive verb, does not take a direct object.",
+      "TAGS":[
+        "common",
+        "action",
+        "scientific"
+      ],
+      "DEF_EN":"To emit or cause to emit vapor; to convert into or pass off in vapor; to evaporate.",
+      "DEF_ZH":"散发或使散发蒸汽；转化为蒸汽或以蒸汽形式散失；蒸发。",
+      "SENT_EN":"The liquid began to vapor slowly from the open container.",
+      "SENT_ZH":"液体开始从敞开的容器中缓慢蒸发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "evaporate",
+            "atomize",
+            "sublimate",
+            "gasify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, scientific, and occasionally literary for the figurative sense."
+}

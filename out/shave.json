@@ -1,0 +1,99 @@
+{
+  "WORD":"shave",
+  "IPA":"/ʃeɪv/",
+  "CONJUGATES":"shaves | shaving | shaved | shaven",
+  "ETYMOLOGY":"From Middle English shaven, from Old English sceafan 'to scrape, shave', related to Old Norse skafa 'to scrape, scratch'.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"shave [sth] (e.g., face, legs)\nshave [vint]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cut the hair, beard, or other body hair very close to the skin's surface, usually with a razor or electric appliance.",
+      "DEF_ZH":"用刀或刮刀将毛发（如胡须或体毛）从皮肤表面刮去。",
+      "SENT_EN":"He decided to shave his head completely for charity.",
+      "SENT_ZH":"他决定为了慈善事业彻底把头剃光。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trim",
+            "razor",
+            "shear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shave [sth] off [sth] (e.g., time, cost)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To reduce a measurement, amount, or time by a small margin.",
+      "DEF_ZH":"削减；稍微减少（尤指时间、价格或距离）。",
+      "SENT_EN":"The cyclist managed to shave a fraction of a second off the world record.",
+      "SENT_ZH":"那名骑手成功地将世界纪录缩短了几分之一秒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "cut",
+            "pare down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shave [sth] (e.g., wood, cheese)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "technical",
+        "literal"
+      ],
+      "DEF_EN":"To cut or scrape thin slices or layers from a solid surface.",
+      "DEF_ZH":"用锋利的工具削薄片；刨平。",
+      "SENT_EN":"The chef carefully shaved flakes of Parmesan cheese onto the pasta.",
+      "SENT_ZH":"厨师小心翼翼地将帕尔马干酪片削在意大利面上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plane",
+            "slice",
+            "pare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a shave",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The act or result of removing hair from the skin, typically the face.",
+      "DEF_ZH":"刮脸；刮胡子（的动作或结果）。",
+      "SENT_EN":"He went to the barber for a hot towel shave.",
+      "SENT_ZH":"他去理发店享受了一次热毛巾刮脸服务。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "close shave"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often informal when referring to reduction or close calls (as in 'close shave')."
+}

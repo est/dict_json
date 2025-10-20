@@ -1,0 +1,79 @@
+{
+  "WORD":"per",
+  "IPA":"/pər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Latin per (through, by means of, during, for), ultimately from Proto-Indo-European *per- (through, across).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[unit A] per [unit B]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematical"
+      ],
+      "DEF_EN":"For each single unit of; for every (used to express a rate, ratio, or proportion).",
+      "DEF_ZH":"每；每一（用于表示比率、比例或单位数量）。",
+      "SENT_EN":"The car gets 30 miles per gallon.",
+      "SENT_ZH":"这辆车每加仑汽油能跑30英里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rate",
+            "ratio",
+            "unit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"per [document/request]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "formal",
+        "commercial"
+      ],
+      "DEF_EN":"According to; in accordance with (especially used in business correspondence).",
+      "DEF_ZH":"按照；依据（尤用于商业函件中）。",
+      "SENT_EN":"As per our agreement, payment is due next week.",
+      "SENT_ZH":"按照我们的协议，款项应于下周到期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "according to",
+            "pursuant to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"per [time period]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "formal",
+        "latinism"
+      ],
+      "DEF_EN":"By means of; through (often retained in fixed Latin phrases like 'per annum' or 'per diem').",
+      "DEF_ZH":"通过；经由（常保留在固定的拉丁语短语中，如 'per annum' 或 'per diem'）。",
+      "SENT_EN":"The interest is calculated per annum.",
+      "SENT_ZH":"利息是按年计算的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "per annum",
+            "per diem",
+            "per capita"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in all contexts, highly formal/technical in specific uses."
+}

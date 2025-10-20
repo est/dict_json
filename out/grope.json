@@ -1,0 +1,94 @@
+{
+  "WORD":"grope",
+  "IPA":"/ɡroʊp/",
+  "CONJUGATES":"grope | gropes | groped | groping",
+  "ETYMOLOGY":"From Old English grāpian 'to touch, feel, handle, examine', akin to Old High German greif 'grasp', Dutch grijpen 'to seize'.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"grope (for [sth])",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To search for something with the hands, usually in the dark or without being able to see clearly.",
+      "DEF_ZH":"在黑暗中或看不清的情况下用手摸索寻找某物。",
+      "SENT_EN":"He groped for the light switch in the dark room.",
+      "SENT_ZH":"他在黑暗的房间里摸索着找电灯开关。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fumble",
+            "feel around",
+            "rummage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "blindly",
+            "uncertainly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grope [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "negative connotation"
+      ],
+      "DEF_EN":"To touch or handle a person sexually, especially without their consent or in an unwelcome way.",
+      "DEF_ZH":"非礼触摸或猥亵他人（尤指未经允许或不情愿的情况下）。",
+      "SENT_EN":"She accused him of groping her in the crowded bus.",
+      "SENT_ZH":"她指控他在拥挤的公交车上非礼她。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "molest",
+            "fondle (inappropriately)",
+            "touch (inappropriately)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sexual harassment",
+            "assault"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grope (for [sth/an answer/a solution])",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To make an uncertain effort to find words, an answer, or a solution.",
+      "DEF_ZH":"费力地寻找词语、答案或解决方案。",
+      "SENT_EN":"He groped for the right words to express his feelings.",
+      "SENT_ZH":"他摸索着寻找合适的词语来表达自己的感受。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "struggle for",
+            "search for",
+            "cast about for"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English; the second meaning often appears in news reports or legal contexts concerning harassment."
+}

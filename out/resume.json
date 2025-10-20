@@ -1,0 +1,78 @@
+{
+  "WORD":"resume",
+  "IPA":"/rɪˈzjuːm/",
+  "CONJUGATES":"resumes | resuming | resumed",
+  "ETYMOLOGY":"From Middle French résumer, from Latin resūmere (re- 'again' + sūmere 'take')",
+  "SINCE":"Late 15th century (Verb); Mid 19th century (Noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"resume [sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"Verb, transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To begin again or continue (an activity or process) after a pause or interruption.",
+      "DEF_ZH":"重新开始；恢复；继续（中断的活动或过程）。",
+      "SENT_EN":"After the short break, the meeting resumed promptly at 2:00 PM.",
+      "SENT_ZH":"短暂休息后，会议在下午两点准时恢复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "continue",
+            "recommence",
+            "restart"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stop",
+            "pause",
+            "suspend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"resume [one's] seat\nposition",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To take back or occupy again (a place or position).",
+      "DEF_ZH":"恢复（职位）；重新就座；再次占据（某位置）。",
+      "SENT_EN":"The judge resumed his seat on the bench after the recess.",
+      "SENT_ZH":"休庭后，法官回到法官席上重新就座。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sb's] resume (US English usage, pronounced /rezəˈmeɪ/)",
+      "POS":"nc",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "common",
+        "US English",
+        "homograph"
+      ],
+      "DEF_EN":"A brief account of a person's education, qualifications, and previous occupation, typically sent with a job application.",
+      "DEF_ZH":"简历；个人履历（尤指在北美，用于求职）。",
+      "SENT_EN":"She attached her updated resume to the application email.",
+      "SENT_ZH":"她将更新过的简历附在了申请邮件中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curriculum vitae (CV)",
+            "summary",
+            "profile"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in business and academic contexts for both verb and noun forms."
+}

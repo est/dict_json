@@ -1,0 +1,103 @@
+{
+  "WORD":"inferior",
+  "IPA":"/ɪnˈfɪərɪər/",
+  "CONJUGATES":"inferiority (n.) | inferiorly (adv.)",
+  "ETYMOLOGY":"From Latin inferior, comparative of īnferus ('low, beneath, underneath').",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] be inferior to [sth] else",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lower in status, rank, quality, or value.",
+      "DEF_ZH":"较低的；下级的；质量差的；次等的。",
+      "SENT_EN":"The current model is technically inferior to the prototypes developed last year.",
+      "SENT_ZH":"目前的模型在技术上不如去年开发的那些原型。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "substandard",
+            "second-rate",
+            "lesser",
+            "mediocre"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "superior",
+            "excellent",
+            "premium",
+            "higher-ranking"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s inferior",
+      "POS":"n",
+      "POS_TIP":"noun (a person, place, or thing)",
+      "TAGS":[
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"A person lower than another in rank, status, or position.",
+      "DEF_ZH":"下级；属下。",
+      "SENT_EN":"A good manager knows how to delegate tasks to their inferiors effectively.",
+      "SENT_ZH":"一个好的管理者知道如何有效地将任务委派给他们的下属。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subordinate",
+            "junior",
+            "dependent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "superior",
+            "senior",
+            "boss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the inferior [part/region]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "technical",
+        "anatomy"
+      ],
+      "DEF_EN":"Situated below another part; lower (used particularly in anatomy and botany).",
+      "DEF_ZH":"（位置）下方的；较低的；下侧的（常用于解剖学或植物学）。",
+      "SENT_EN":"The doctor examined the inferior surface of the liver.",
+      "SENT_ZH":"医生检查了肝脏的下表面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lower",
+            "caudal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "superior",
+            "cranial"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Formal"
+}

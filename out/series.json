@@ -1,0 +1,102 @@
+{
+  "WORD":"series",
+  "IPA":"/ˈsɪərɪz/",
+  "CONJUGATES":"series (plural, no change) | series' (possessive)",
+  "ETYMOLOGY":"From Latin series 'row, chain, sequence, succession', from serere 'to join, bind together, connect'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A set of related things, events, or operations coming one after another; a succession.",
+      "DEF_ZH":"一系列相关的物事、事件或操作，相继发生；一个连续的系列。",
+      "SENT_EN":"The doctor ordered a series of tests to determine the cause of the illness.",
+      "SENT_ZH":"医生要求进行一系列检查以确定病因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sequence",
+            "succession",
+            "chain",
+            "string",
+            "set"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "media",
+        "common"
+      ],
+      "DEF_EN":"A set of related television or radio programs, usually broadcast at regular intervals and having the same characters and themes.",
+      "DEF_ZH":"一系列相关的电视或广播节目，通常定期播出并拥有相同的角色和主题（剧集）。",
+      "SENT_EN":"Have you finished watching the new sci-fi series on Netflix?",
+      "SENT_ZH":"你把Netflix上的新科幻剧集看完没？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "show",
+            "program",
+            "miniseries"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "mathematics",
+        "technical"
+      ],
+      "DEF_EN":"The sum of a sequence of terms; a sequence of quantities where the sum of the terms is considered.",
+      "DEF_ZH":"数列的和；考量其项之和的一系列数量。",
+      "SENT_EN":"We need to calculate the convergence of the infinite series.",
+      "SENT_ZH":"我们需要计算这个无穷级数的收敛性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sequence",
+            "progression"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "common"
+      ],
+      "DEF_EN":"A set of games played between two teams or competitors, typically leading to a final result or championship.",
+      "DEF_ZH":"两队或两名竞争者之间进行的一系列比赛，通常以最终结果或冠军赛告终。",
+      "SENT_EN":"The team won the World Series after a thrilling seven-game contest.",
+      "SENT_ZH":"这支队伍在惊心动魄的七场比赛后赢得了世界大赛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "matchup",
+            "tournament"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and informal contexts, depending on the meaning (e.g., highly technical in mathematics, common in media/sports)."
+}

@@ -1,0 +1,81 @@
+{
+  "WORD":"jacket",
+  "IPA":"/ˈdʒækɪt/",
+  "CONJUGATES":"jackets | jacketed | jacketing",
+  "ETYMOLOGY":"From Middle English jaket, from Old French jaquet 'small tunic or outer garment', diminutive of jaque 'short, close-fitting coat'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"n (noun)",
+      "TAGS":[
+        "core word",
+        "clothing"
+      ],
+      "DEF_EN":"A short coat, typically ending at the waist or hips, worn for warmth or fashion.",
+      "DEF_ZH":"一种短外套，通常长至腰部或臀部，用于保暖或时尚。",
+      "SENT_EN":"She zipped up her winter jacket before stepping outside.",
+      "SENT_ZH":"她在出门前拉上了她的冬装夹克拉链。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coat",
+            "blazer",
+            "parka",
+            "anorak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (a covering)",
+      "POS":"noun",
+      "POS_TIP":"n (noun)",
+      "TAGS":[
+        "technical",
+        "container"
+      ],
+      "DEF_EN":"An outer covering, casing, or wrapper used for protection or insulation, often referring to a book's dust cover or a protective layer around a mechanical part.",
+      "DEF_ZH":"用于保护或绝缘的外部覆盖物、外壳或包装，常指书籍的防尘套或机械零件的保护层。",
+      "SENT_EN":"The book's colorful dust jacket was slightly torn.",
+      "SENT_ZH":"这本书色彩鲜艳的防尘书套有点破损。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "casing",
+            "sleeve",
+            "sheath",
+            "wrapper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[vtr] [sth]",
+      "POS":"verb",
+      "POS_TIP":"vtr (transitive verb)",
+      "TAGS":[
+        "technical",
+        "less common"
+      ],
+      "DEF_EN":"To cover or enclose something with a protective or insulating casing.",
+      "DEF_ZH":"用保护性或绝缘性外壳覆盖或包裹某物。",
+      "SENT_EN":"The workers jacketed the steam pipes to improve energy efficiency.",
+      "SENT_ZH":"工人们给蒸汽管道装上套管，以提高能源效率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "encase",
+            "insulate",
+            "sheath"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

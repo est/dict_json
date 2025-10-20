@@ -1,0 +1,111 @@
+{
+  "WORD":"routine",
+  "IPA":"/ruːˈtiːn/",
+  "CONJUGATES":"routines | routining | routined",
+  "ETYMOLOGY":"From French routine ('a beaten path, a customary way of doing things'), from route ('path, way'), ultimately from Latin rupta ('a broken way, path'), feminine past participle of rumpere ('to break').",
+  "SINCE":"mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is a routine",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sequence of actions regularly followed; a fixed program.",
+      "DEF_ZH":"一套定期遵循的行动序列；一个固定的程序。",
+      "SENT_EN":"My morning routine involves coffee, reading the news, and a short walk.",
+      "SENT_ZH":"我的早晨例行程序包括咖啡、阅读新闻和短距离散步。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "custom",
+            "habit",
+            "procedure",
+            "protocol"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "schedule",
+            "ritual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"routine [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Done or occurring as part of a regular procedure rather than for a special reason.",
+      "DEF_ZH":"作为常规程序的一部分而完成或发生的，而非出于特殊原因。",
+      "SENT_EN":"This is just a routine check-up; nothing to worry about.",
+      "SENT_ZH":"这只是例行检查，没什么好担心的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "standard",
+            "usual",
+            "regular",
+            "typical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unusual",
+            "special",
+            "extraordinary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"perform a routine\nroutine [sb] | [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific use",
+        "performance"
+      ],
+      "DEF_EN":"A set of movements, jokes, or similar acts performed as entertainment, especially on stage.",
+      "DEF_ZH":"作为娱乐表演（尤其是在舞台上）的一系列动作、笑话或类似行为。",
+      "SENT_EN":"The comedian ended his routine with a perfectly timed punchline.",
+      "SENT_ZH":"这位喜剧演员以一个完美把握时机的妙语结束了他的表演节目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "act",
+            "performance",
+            "show",
+            "turn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"routine [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "dated"
+      ],
+      "DEF_EN":"To arrange or classify according to a fixed routine.",
+      "DEF_ZH":"根据固定的例行程序安排或分类。",
+      "SENT_EN":"They routined the incoming data for efficient processing.",
+      "SENT_ZH":"他们对传入的数据进行了例行程序化的处理，以实现高效的处理。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general usage, also common in military, medical, and entertainment contexts"
+}

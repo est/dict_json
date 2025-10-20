@@ -1,0 +1,107 @@
+{
+  "WORD":"pour",
+  "IPA":"/pɔːr/",
+  "CONJUGATES":"pours | pouring | poured",
+  "ETYMOLOGY":"Middle English 'pouren', of uncertain Germanic origin, perhaps related to Middle Low German *pūren* (to examine, investigate). First attested in the 14th century.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"pour [sth] (into/out of) [sth]",
+      "POS":"vtr | vint + prep",
+      "POS_TIP":"Transitive verb | Intransitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "highly common"
+      ],
+      "DEF_EN":"To cause a liquid or granular substance to flow from a container, often in a continuous stream.",
+      "DEF_ZH":"倾倒；灌注 (使液体或粒状物从容器中连续流出)。",
+      "SENT_EN":"He carefully poured the wine into the decanter.",
+      "SENT_ZH":"他小心翼翼地把酒倒进醒酒器中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stream",
+            "decant",
+            "tip"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "collect",
+            "absorb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"It is pouring (down/with rain)",
+      "POS":"vint",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "common",
+        "weather"
+      ],
+      "DEF_EN":"(Used for rain) to fall heavily and continuously.",
+      "DEF_ZH":"(指雨) 下大雨；倾泻而下。",
+      "SENT_EN":"We can't go hiking right now; it's pouring outside.",
+      "SENT_ZH":"我们现在不能去徒步旅行；外面正下着倾盆大雨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "teem",
+            "pelt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] / [sth] pour (into/out of) [somewhere]",
+      "POS":"vint + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To stream or move rapidly or in large numbers.",
+      "DEF_ZH":"(人群、信息等) 蜂拥而至；大量涌入或涌出。",
+      "SENT_EN":"The fans began to pour out of the stadium after the game finished.",
+      "SENT_ZH":"比赛结束后，球迷们开始涌出体育场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stream",
+            "flood",
+            "rush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pour of [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "less common",
+        "technical"
+      ],
+      "DEF_EN":"An act of pouring, or the quantity of liquid poured.",
+      "DEF_ZH":"倾倒（的动作）；倒出（的量）。",
+      "SENT_EN":"The bartender gave me a short pour of whiskey.",
+      "SENT_ZH":"那位调酒师给我倒了一小杯威士忌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flow",
+            "stream"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"create",
+  "IPA":"/kriːˈeɪt/",
+  "CONJUGATES":"creates | creating | created",
+  "ETYMOLOGY":"From Latin creātus, past participle of creāre 'to bring forth, produce, beget', likely stemming from an Indo-European root meaning 'to grow, cause to grow'.",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"create [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bring something into existence; to produce or make something new.",
+      "DEF_ZH":"创造；创作；发明。使某物存在。",
+      "SENT_EN":"The architect worked tirelessly to create a new sustainable housing model.",
+      "SENT_ZH":"这位建筑师孜孜不倦地工作，创造出一种新的可持续住房模式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invent",
+            "generate",
+            "produce",
+            "originate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "destroy",
+            "annihilate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"create [sth] (a condition/situation)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "common",
+        "causative"
+      ],
+      "DEF_EN":"To cause a particular situation or condition to arise or exist.",
+      "DEF_ZH":"引起；造成；导致（某种情况或问题）。",
+      "SENT_EN":"The sudden closure of the factory created a large unemployment problem in the town.",
+      "SENT_ZH":"工厂的突然关闭给该镇造成了严重的失业问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cause",
+            "establish",
+            "engender",
+            "result in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"create [sb] a lord/peer",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "historical"
+      ],
+      "DEF_EN":"To invest a person with a title or rank, such as a baronet or peer.",
+      "DEF_ZH":"正式授予（头衔或爵位）。",
+      "SENT_EN":"The Queen created her husband the Duke of Edinburgh in 1947.",
+      "SENT_ZH":"女王于1947年册封她的丈夫为爱丁堡公爵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invest",
+            "confer",
+            "appoint"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly versatile."
+}

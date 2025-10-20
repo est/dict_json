@@ -1,0 +1,70 @@
+{
+  "WORD":"request",
+  "IPA":"/rɪˈkwɛst/",
+  "CONJUGATES":"requests | requested | requesting",
+  "ETYMOLOGY":"From Old French requeste (noun) and requester (verb), ultimately deriving from Latin requīsīta (past participle of requīrere 'to ask for, require').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"a request for [sth]\nat [sb's] request",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act of asking for something, especially formally or politely.",
+      "DEF_ZH":"正式或礼貌地要求某事的行为或请求。",
+      "SENT_EN":"The manager received several requests for better lighting in the office.",
+      "SENT_ZH":"经理收到了几份关于要求办公室改善照明的请求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appeal",
+            "solicitation",
+            "petition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"request [sth]\nrequest [that] [clause]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To express a desire for or ask for something formally or politely.",
+      "DEF_ZH":"正式或礼貌地要求或询问某事。",
+      "SENT_EN":"The airline requested that all passengers remain seated during takeoff.",
+      "SENT_ZH":"该航空公司要求所有乘客在起飞期间保持就座。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ask for",
+            "call for",
+            "solicit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] that is a request (often in media/music)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific context",
+        "music"
+      ],
+      "DEF_EN":"A specific item, especially a song, that has been asked for by a member of the audience or public.",
+      "DEF_ZH":"被要求提供的具体项目，尤指听众或公众点播的歌曲。",
+      "SENT_EN":"The DJ played the old classic as a special request for the bride and groom.",
+      "SENT_ZH":"DJ 播放了这首老经典歌曲，作为送给新郎新娘的特别点播。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal or general use in speech and writing."
+}

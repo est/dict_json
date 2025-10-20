@@ -1,0 +1,90 @@
+{
+  "WORD":"praise",
+  "IPA":"/preɪz/",
+  "CONJUGATES":"praises | praised | praising",
+  "ETYMOLOGY":"Middle English preisen, from Old French preisier 'to value, set a price on', from Latin pretiare 'to value', from pretium 'price, value'. The meaning shifted to 'express admiration' in the 14th century.",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"praise [sb]\npraise [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To express warm approval or admiration for someone or something.",
+      "DEF_ZH":"对某人或某事表达热情赞同或钦佩。",
+      "SENT_EN":"The manager praised the team's effort in completing the project ahead of schedule.",
+      "SENT_ZH":"经理称赞了团队提前完成项目所付出的努力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commend",
+            "applaud",
+            "compliment",
+            "extol",
+            "laud"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "criticize",
+            "blame",
+            "condemn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive praise\nhigh praise",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The expression of approval or admiration in words or actions.",
+      "DEF_ZH":"用言语或行动表达的赞同或钦佩。",
+      "SENT_EN":"She was embarrassed by all the public praise she received for her invention.",
+      "SENT_ZH":"她对自己的发明所获得的公众赞誉感到不好意思。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acclaim",
+            "tribute",
+            "adulation",
+            "commendation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"give praise (to God)",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "religious",
+        "formal"
+      ],
+      "DEF_EN":"The expression of honor, devotion, or thanks, especially to God.",
+      "DEF_ZH":"对上帝表达尊敬、虔诚或感谢（常用于宗教语境）。",
+      "SENT_EN":"The congregation sang a hymn of praise.",
+      "SENT_ZH":"会众唱了一首赞美诗。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "worship",
+            "homage",
+            "benediction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

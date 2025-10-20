@@ -1,0 +1,115 @@
+{
+  "WORD":"withdraw",
+  "IPA":"/wɪðˈdrɔː/",
+  "CONJUGATES":"withdraws | withdrawing | withdrew | withdrawn",
+  "ETYMOLOGY":"From Middle English withdrauen (c. 1300), equivalent to Old English wiþ- ('against, back, away') + drawan ('to pull').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"withdraw [sb]\nwithdraw [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb (requires object) | intransitive verb (does not require object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take or pull something or someone away from a place, situation, or position.",
+      "DEF_ZH":"撤回；撤离；从某处或某情况中移除或退出。",
+      "SENT_EN":"The general decided to withdraw all frontline troops.",
+      "SENT_ZH":"将军决定撤回所有前线部队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retreat",
+            "pull out",
+            "retire"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deploy",
+            "advance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"withdraw [money] (from [account])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires object)",
+      "TAGS":[
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To take money out of a bank account or fund.",
+      "DEF_ZH":"取款；提款（从银行账户中）",
+      "SENT_EN":"I need to withdraw cash from the ATM before the store closes.",
+      "SENT_ZH":"在商店关门前，我需要从自动取款机取出现金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "take out",
+            "draw out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deposit",
+            "bank"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"withdraw [statement/offer/application]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires object)",
+      "TAGS":[
+        "formal",
+        "law"
+      ],
+      "DEF_EN":"To formally take back or cancel a commitment, statement, or formal submission.",
+      "DEF_ZH":"撤销；收回；取消（声明、提议或申请）",
+      "SENT_EN":"Due to public outcry, the company decided to withdraw the controversial product launch.",
+      "SENT_ZH":"由于公众的强烈反对，该公司决定撤销备受争议的产品发布。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retract",
+            "revoke",
+            "recall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"withdraw [oneself] (from [interaction])",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb (does not require object)",
+      "TAGS":[
+        "psychology",
+        "emotions"
+      ],
+      "DEF_EN":"To become quiet, remote, or isolated; to retire from social contact or emotional engagement.",
+      "DEF_ZH":"退出社交；变得孤僻或内向；情感上退缩。",
+      "SENT_EN":"When he is stressed, he tends to withdraw from his friends and family.",
+      "SENT_ZH":"当他感到压力时，他往往会从朋友和家人身边退缩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "isolate",
+            "recoil",
+            "seclude"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in finance, military, and interpersonal contexts."
+}

@@ -1,0 +1,101 @@
+{
+  "WORD":"should",
+  "IPA":"/ʃʊd/",
+  "CONJUGATES":"modal auxiliary verb (no inflections)",
+  "ETYMOLOGY":"Past tense of 'shall'. From Old English sceolde, the past tense of sceal ('shall'), of Germanic origin.",
+  "SINCE":"Old English (c. 8th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"should [do sth]",
+      "POS":"aux v",
+      "POS_TIP":"Auxiliary verb (modal verb), used before the base form of another verb.",
+      "TAGS":[
+        "core word",
+        "common",
+        "obligation",
+        "recommendation"
+      ],
+      "DEF_EN":"Used to express obligation, duty, or what is advisable; expressing recommendation or moral requirement.",
+      "DEF_ZH":"应该；应当（表示建议、责任、义务或正确性）。",
+      "SENT_EN":"We should respect our elders and listen to their advice.",
+      "SENT_ZH":"我们应该尊敬长辈并听取他们的建议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ought to",
+            "must"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "should not"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"should [do sth]",
+      "POS":"aux v",
+      "POS_TIP":"Auxiliary verb (modal verb), used before the base form of another verb.",
+      "TAGS":[
+        "common",
+        "expectation",
+        "likelihood"
+      ],
+      "DEF_EN":"Used to indicate what is expected or likely to happen.",
+      "DEF_ZH":"按理说；估计会（表示某事很可能或理应发生）。",
+      "SENT_EN":"The bus should be here any minute now.",
+      "SENT_ZH":"公交车应该很快就会到了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "is expected to",
+            "will likely"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"if [sb] should [do sth]",
+      "POS":"aux v",
+      "POS_TIP":"Auxiliary verb (modal verb), used before the base form of another verb.",
+      "TAGS":[
+        "formal",
+        "hypothetical",
+        "condition"
+      ],
+      "DEF_EN":"Used in conditional clauses to express a slight possibility or a hypothetical situation.",
+      "DEF_ZH":"万一；倘若（用于条件状语从句中，表示微小的可能性）。",
+      "SENT_EN":"If you should encounter any trouble, please contact emergency services.",
+      "SENT_ZH":"万一你遇到任何麻烦，请联系紧急服务部门。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sb] should [do sth] (reported speech)",
+      "POS":"aux v",
+      "POS_TIP":"Auxiliary verb (modal verb), used before the base form of another verb.",
+      "TAGS":[
+        "literary",
+        "formal",
+        "past tense"
+      ],
+      "DEF_EN":"Used as the past form of 'shall' in reported speech, especially when expressing determination or necessity in the past.",
+      "DEF_ZH":"（在间接引语中作shall的过去式）将要；必须。",
+      "SENT_EN":"He said he should travel to London the following week.",
+      "SENT_ZH":"他说他下周将要去伦敦旅行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shall",
+            "would"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, high frequency in conversation and writing."
+}

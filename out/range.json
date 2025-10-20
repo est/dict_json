@@ -1,0 +1,148 @@
+{
+  "WORD":"range",
+  "IPA":"/reɪndʒ/",
+  "CONJUGATES":"ranges | ranging | ranged",
+  "ETYMOLOGY":"From Old French *range* (rank, row, line), perhaps influenced by Germanic roots related to ring, describing an arrangement or line.",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] range of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The scope, extent, or variety of things or ideas included in a particular category.",
+      "DEF_ZH":"范围; 系列; 一系列同类型事物或想法的广度。",
+      "SENT_EN":"The shop carries a wide range of clothing suitable for various occasions.",
+      "SENT_ZH":"这家商店有各种各样的服装，适合不同场合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "variety",
+            "scope",
+            "spectrum",
+            "span"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"range (of distance/sound)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"The distance or extent to which something can reach, cover, or operate, such as a vehicle, weapon, or electronic signal.",
+      "DEF_ZH":"射程; 航程; 有效距离（指某物可到达、覆盖或运作的距离）。",
+      "SENT_EN":"The new electric car boasts an impressive driving range of over 400 miles.",
+      "SENT_ZH":"这款新的电动汽车拥有超过400英里令人印象深刻的续航里程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reach",
+            "extent",
+            "limit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"range from [sth] to [sth]",
+      "POS":"vit + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To vary or extend between specified upper and lower limits.",
+      "DEF_ZH":"在...范围内变化/延伸（指在特定上下限之间浮动）。",
+      "SENT_EN":"The prices for these artifacts range from $50 to $500.",
+      "SENT_ZH":"这些文物的价格从50美元到500美元不等。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fluctuate",
+            "span",
+            "vary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mountain range",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A line or series of mountains or hills closely connected.",
+      "DEF_ZH":"山脉; 山系; 一系列紧密相连的山或丘陵。",
+      "SENT_EN":"We could see the entire mountain range from the valley floor.",
+      "SENT_ZH":"我们能从谷底看到整个山脉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chain",
+            "massif",
+            "ridge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"range [over an area]",
+      "POS":"vit",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "literary",
+        "formal"
+      ],
+      "DEF_EN":"To move or wander over a large area, often in search of something.",
+      "DEF_ZH":"漫游; 巡游; 在（某大片区域）内移动或搜寻。",
+      "SENT_EN":"Wild horses range freely across the vast plains of the Midwest.",
+      "SENT_ZH":"野马在广阔的中西部平原上自由漫游。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "roam",
+            "wander",
+            "traverse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the kitchen range",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "US usage",
+        "appliance"
+      ],
+      "DEF_EN":"A large cooking stove, typically featuring a cooktop (burners) and an oven.",
+      "DEF_ZH":"炉灶; 灶台（通常指有炉头和烤箱的家用或专业厨具）。",
+      "SENT_EN":"He accidentally left a pot on the electric range overnight.",
+      "SENT_ZH":"他意外地把一个锅留在了电炉上过夜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stove",
+            "cooker"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; used frequently in statistics, geography, and general conversation."
+}

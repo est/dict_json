@@ -1,0 +1,113 @@
+{
+  "WORD":"source",
+  "IPA":"/sɔːrs/",
+  "CONJUGATES":"sources | sourcing | sourced",
+  "ETYMOLOGY":"From Middle English, derived from Old French sours, past participle of sourdre ('to rise, spring forth'), ultimately from Latin surgere ('to rise, lift')",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"The point of origin, where something begins or is derived from; a place, person, or thing from which something can be obtained.",
+      "DEF_ZH":"来源；起源；出处；（供应）源头。",
+      "SENT_EN":"The sun is the ultimate source of energy for life on Earth.",
+      "SENT_ZH":"太阳是地球生命能量的最终来源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "origin",
+            "root",
+            "spring",
+            "fountainhead"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "resource",
+            "cause",
+            "genesis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[of information/data]",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "Academic",
+        "Research"
+      ],
+      "DEF_EN":"A person, book, document, or publication that supplies information or evidence.",
+      "DEF_ZH":"资料来源；信息提供者；线索。",
+      "SENT_EN":"The journalist refused to reveal his source for the classified documents.",
+      "SENT_ZH":"这位记者拒绝透露他获取机密文件的消息来源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reference",
+            "documentation",
+            "citation",
+            "authority"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"source [sth] [from sb/sth]",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive Verb.",
+      "TAGS":[
+        "Business",
+        "Supply Chain"
+      ],
+      "DEF_EN":"To obtain or acquire goods or parts from a particular place or supplier.",
+      "DEF_ZH":"采购；找到（供货者）；从（某处）获得。",
+      "SENT_EN":"They decided to source all their raw materials locally to reduce transportation costs.",
+      "SENT_ZH":"他们决定在本地采购所有的原材料以降低运输成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "procure",
+            "obtain",
+            "acquire",
+            "get"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"source code",
+      "POS":"n.",
+      "POS_TIP":"Noun (often used attributively in this context).",
+      "TAGS":[
+        "Computing",
+        "Technical"
+      ],
+      "DEF_EN":"The programming instructions written in human-readable language that are compiled or assembled into an executable computer program.",
+      "DEF_ZH":"（计算机）源代码；源程序。",
+      "SENT_EN":"The company released the software under an open-source license, allowing others to modify the source code.",
+      "SENT_ZH":"该公司以开源许可证发布了该软件，允许其他人修改其源代码。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "code",
+            "script",
+            "open-source"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across academic, business, and general contexts."
+}

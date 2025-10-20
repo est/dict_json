@@ -1,0 +1,89 @@
+{
+  "WORD":"item",
+  "IPA":"/ˈaɪtəm/",
+  "CONJUGATES":"items | itemed | iteming",
+  "ETYMOLOGY":"From Latin *item* (likewise, also, thus), adopted into Middle French and Middle English (c. 1380s) primarily used as an adverb indicating a subsequent entry in a list ('also', 'the next thing').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A single, distinct article or unit, especially one that is part of a collection, series, or list.",
+      "DEF_ZH":"单个物品；一件东西；项目中的一项；商品。",
+      "SENT_EN":"We need to purchase five specific items from the grocery store.",
+      "SENT_ZH":"我们需要从杂货店购买五件特定的商品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thing",
+            "object",
+            "article",
+            "unit",
+            "piece"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "itemize",
+            "inventory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an item of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "formal",
+        "media"
+      ],
+      "DEF_EN":"A piece of information or news; a separate entry or point on a list or agenda.",
+      "DEF_ZH":"条目；新闻报道；议程上的一点。",
+      "SENT_EN":"The next item on the agenda is the budget review.",
+      "SENT_ZH":"议程上的下一条目是预算审查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entry",
+            "report",
+            "bulletin",
+            "point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be an item",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"Two people who are in a romantic relationship; a couple.",
+      "DEF_ZH":"(口语) 一对情侣；正在交往中的两个人。",
+      "SENT_EN":"They have been an item since high school.",
+      "SENT_ZH":"他们从高中起就在一起了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "couple",
+            "pair",
+            "sweethearts"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

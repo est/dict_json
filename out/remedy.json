@@ -1,0 +1,100 @@
+{
+  "WORD":"remedy",
+  "IPA":"/ˈrɛmɪdi/",
+  "CONJUGATES":"remedies | remedying | remedied",
+  "ETYMOLOGY":"From Middle English, from Anglo-French *remedie*, from Latin *remedium* (re- 'again, back' + *mederi* 'to heal').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] [for sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common",
+        "solution"
+      ],
+      "DEF_EN":"A means of counteracting or resolving a problem, undesirable situation, or disease; a cure or treatment.",
+      "DEF_ZH":"治疗方法；补救措施；解决办法或手段。",
+      "SENT_EN":"The best remedy for stress is often a good night's sleep.",
+      "SENT_ZH":"应对压力的最佳补救方法往往是睡个好觉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cure",
+            "treatment",
+            "solution",
+            "antidote"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ailment",
+            "disease",
+            "poison"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"remedy [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To cure, correct, or put right (an error or undesirable situation).",
+      "DEF_ZH":"纠正；补救；修复或改进（错误或不良情况）。",
+      "SENT_EN":"The company promised to remedy the faulty wiring immediately.",
+      "SENT_ZH":"公司承诺立即修复有故障的线路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "correct",
+            "fix",
+            "resolve",
+            "amend"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "worsen",
+            "aggravate",
+            "damage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (at law)",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "legal",
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"A legal means of enforcing a right or redressing a wrong; the relief granted by a court.",
+      "DEF_ZH":"（法律）救济；法律补救措施。",
+      "SENT_EN":"The victim sought a legal remedy for the emotional distress caused by the accident.",
+      "SENT_ZH":"受害者针对事故造成的精神损害寻求法律救济。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "redress",
+            "recourse",
+            "compensation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical use in legal and medical contexts."
+}

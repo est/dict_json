@@ -1,0 +1,127 @@
+{
+  "WORD":"field",
+  "IPA":"/fiːld/",
+  "CONJUGATES":"fields | fielding | fielded",
+  "ETYMOLOGY":"From Old English feld, derived from Proto-Germanic *felþą ('flat land'), related to Dutch veld and German Feld.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] field (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An area of open land, especially one used for pasture or cultivation, often enclosed by fences or boundaries.",
+      "DEF_ZH":"一片开放的土地，尤指用于放牧或耕种的区域，通常被围栏或边界围住。",
+      "SENT_EN":"The farmer plowed the large field early in the spring.",
+      "SENT_ZH":"这位农民在早春时耕种了这片大田。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pasture",
+            "meadow",
+            "farmland",
+            "patch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] field (of [sth])\non the field",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "common"
+      ],
+      "DEF_EN":"A piece of ground marked out for playing a sport.",
+      "DEF_ZH":"用于进行体育运动的划定场地。",
+      "SENT_EN":"The football team trained on the field despite the heavy rain.",
+      "SENT_ZH":"尽管下着大雨，这支橄榄球队仍在场地上训练。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pitch",
+            "arena",
+            "ground"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] field of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "academic"
+      ],
+      "DEF_EN":"A particular branch of study or professional activity.",
+      "DEF_ZH":"某一特定的研究分支、专业活动或兴趣范围。",
+      "SENT_EN":"She decided to pursue a career in the field of marine biology.",
+      "SENT_ZH":"她决定从事海洋生物学领域的工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "domain",
+            "sphere",
+            "discipline",
+            "specialty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"field [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (followed by an object)",
+      "TAGS":[
+        "idiomatic",
+        "business"
+      ],
+      "DEF_EN":"To deal with or answer a sudden stream of questions or requests.",
+      "DEF_ZH":"处理或回答突如其来的一系列问题或请求。",
+      "SENT_EN":"The CEO spent an hour fielding questions from frustrated shareholders.",
+      "SENT_ZH":"首席执行官花了一个小时回答愤怒股东的提问。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handle",
+            "manage",
+            "address"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] field",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"A region or space in which a force (such as gravity or electricity) is detectable.",
+      "DEF_ZH":"可检测到某种力（如重力或电力）的区域或空间。",
+      "SENT_EN":"The compass needle aligns itself with the earth's magnetic field.",
+      "SENT_ZH":"指南针的指针与地球磁场对齐。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "magnetic field",
+            "gravitational field",
+            "force field"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use"
+}

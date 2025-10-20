@@ -1,0 +1,88 @@
+{
+  "WORD":"simply",
+  "IPA":"/'sɪmpli/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English simply, from the adjective simple + the suffix -ly. Simple originates from Old French simple, from Latin simplex (single, unmixed).",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[v] simply\nsimply [v]",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"In a simple, plain, or straightforward manner; without elaboration, complexity, or luxury.",
+      "DEF_ZH":"简单地；朴素地；不加修饰地。",
+      "SENT_EN":"They chose to live simply, far away from the hustle of the city.",
+      "SENT_ZH":"他们选择过简单朴素的生活，远离城市的喧嚣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plainly",
+            "uncomplicatedly",
+            "modestly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "elaborately",
+            "luxuriously",
+            "opulently"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"simply [v]\n[aux] simply [v]",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "common",
+        "restricting modifier"
+      ],
+      "DEF_EN":"Just; merely; only. Used to indicate that nothing more or less than what is stated is involved.",
+      "DEF_ZH":"仅仅；只不过；只是。",
+      "SENT_EN":"I simply don't understand why the system failed.",
+      "SENT_ZH":"我只是不明白为什么系统会失败。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "merely",
+            "only",
+            "just"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"simply [adj/adv]",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "emphasizer",
+        "common"
+      ],
+      "DEF_EN":"Absolutely; totally; used to emphasize a statement, often expressing amazement, impossibility, or high quality.",
+      "DEF_ZH":"完全地；简直是；绝对地（用于强调惊叹、不可能或极高的品质）。",
+      "SENT_EN":"That idea is simply brilliant.",
+      "SENT_ZH":"那个主意简直是绝妙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "absolutely",
+            "utterly",
+            "totally",
+            "completely"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal and Informal"
+}

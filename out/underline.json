@@ -1,0 +1,78 @@
+{
+  "WORD":"UNDERLINE",
+  "IPA":"/ˌʌndərˈlaɪn/",
+  "CONJUGATES":"underlines | underlining | underlined",
+  "ETYMOLOGY":"Compound word: 'under' (from Old English under) + 'line' (from Old French ligne, ultimately from Latin linea 'linen thread, line'). First used in the sense of drawing a line beneath text in the 16th century. The figurative sense (to emphasize) appeared in the mid-19th century.",
+  "SINCE":"16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"underline [sth] (text, word, phrase)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "literal"
+      ],
+      "DEF_EN":"To draw a line under a word or phrase to give it emphasis or call attention to it.",
+      "DEF_ZH":"在（词语或短语）下面画线以示强调。",
+      "SENT_EN":"Students were asked to underline the main verbs in the sentences.",
+      "SENT_ZH":"学生们被要求在句子中圈出主要动词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "underscore",
+            "mark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"underline [sth] (a fact, a point, an issue)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "figurative"
+      ],
+      "DEF_EN":"To give special attention or importance to a fact, idea, or statement; to stress or emphasize.",
+      "DEF_ZH":"强调；着重指出（重要性、观点或事实）。",
+      "SENT_EN":"The company’s poor performance last quarter underlined the need for immediate management changes.",
+      "SENT_ZH":"公司上季度糟糕的业绩强调了立即进行管理改革的必要性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emphasize",
+            "stress",
+            "highlight",
+            "accentuate",
+            "underscore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an underline",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "typography",
+        "computing"
+      ],
+      "DEF_EN":"A line drawn or placed beneath a piece of writing or text; the symbol used in computing to represent a space that should not be visible (also called an underscore).",
+      "DEF_ZH":"下划线；底线（用于文字或计算机字符中的符号）。",
+      "SENT_EN":"In digital typography, an underline is often used to denote a hyperlink.",
+      "SENT_ZH":"在数字排版中，下划线通常用于表示超链接。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "underscore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, general use."
+}

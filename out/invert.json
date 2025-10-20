@@ -1,0 +1,84 @@
+{
+  "WORD":"invert",
+  "IPA":"/ɪnˈvɜːrt/",
+  "CONJUGATES":"inverts | inverted | inverted | inverting",
+  "ETYMOLOGY":"From Latin invertere (in- 'in, upon' + vertere 'to turn').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"invert [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To turn upside down or inside out.",
+      "DEF_ZH":"使倒置；使翻转；使颠倒。",
+      "SENT_EN":"He inverted the glass and placed it on the shelf to dry.",
+      "SENT_ZH":"他把杯子倒置，放在架子上晾干。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flip",
+            "upend",
+            "turn over"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "right",
+            "erect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"invert [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"To reverse the position, order, direction, or relationship of something.",
+      "DEF_ZH":"使（顺序、关系、方向等）颠倒或倒转。",
+      "SENT_EN":"In some grammatical structures, the auxiliary verb and the subject are inverted.",
+      "SENT_ZH":"在某些语法结构中，助动词和主语是颠倒的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reverse",
+            "transpose",
+            "switch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"invert [a number/fraction]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "mathematics"
+      ],
+      "DEF_EN":"To find the reciprocal of (a number or fraction).",
+      "DEF_ZH":"（数学）求（数字或分数）的倒数。",
+      "SENT_EN":"To divide fractions, you invert the divisor and then multiply.",
+      "SENT_ZH":"要进行分数除法，你需要把除数求倒数再相乘。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reciprocal",
+            "inversion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal, and technical contexts."
+}

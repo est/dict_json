@@ -1,0 +1,180 @@
+{
+  "WORD":"square",
+  "IPA":"/skwɛr/",
+  "CONJUGATES":"squares | squaring | squared | squarely | squareness | squarish",
+  "ETYMOLOGY":"From Old French esquarre 'square, square shape', from Vulgar Latin *exquadrare 'to make square', combining *ex- 'out, thoroughly' and *quadrare 'to square', from Latin quadrum 'a square'.",
+  "SINCE":"Late 13th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "common"
+      ],
+      "DEF_EN":"A plane figure with four equal straight sides and four right angles.",
+      "DEF_ZH":"具有四条相等直边和四个直角的平面图形；正方形。",
+      "SENT_EN":"The architect drew a perfect square on the blueprint.",
+      "SENT_ZH":"建筑师在蓝图上画了一个完美的正方形。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rectangle",
+            "quadrilateral",
+            "cube"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (area)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "architecture",
+        "common"
+      ],
+      "DEF_EN":"An open, typically four-sided area surrounded by buildings in a town or city.",
+      "DEF_ZH":"城镇或城市中被建筑物环绕的开放式区域；广场。",
+      "SENT_EN":"We met for coffee in the central town square.",
+      "SENT_ZH":"我们在中心城镇广场喝咖啡碰面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plaza",
+            "piazza"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (mathematics)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"The result of multiplying a number by itself.",
+      "DEF_ZH":"一个数自乘的结果；平方。",
+      "SENT_EN":"Nine is the square of three.",
+      "SENT_ZH":"九是三的平方。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cube",
+            "root"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (shape/angle)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "description",
+        "common"
+      ],
+      "DEF_EN":"Having four straight sides of equal length and four right angles; forming a right angle.",
+      "DEF_ZH":"成直角的；正直的；方形的。",
+      "SENT_EN":"The box had a square shape and was easy to wrap.",
+      "SENT_ZH":"这个盒子是方形的，很容易包装。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] (dealings/conduct)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"Fair and honest (especially in business dealings).",
+      "DEF_ZH":"公正的；诚实的（尤指商业交易）。",
+      "SENT_EN":"Let's make sure the deal is completely square with everyone.",
+      "SENT_ZH":"我们确保这笔交易对每个人来说都是完全公平公正的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "honest",
+            "fair",
+            "straightforward"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (mathematics)",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "mathematics",
+        "technical"
+      ],
+      "DEF_EN":"To multiply a number by itself.",
+      "DEF_ZH":"将一个数自乘；求平方。",
+      "SENT_EN":"If you square four, you get sixteen.",
+      "SENT_ZH":"如果你对四求平方，你会得到十六。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"square [sth] away\nsquare [sth] up (informal)",
+      "POS":"phr v",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "phrasal"
+      ],
+      "DEF_EN":"To settle a bill or debt; to make things equal or satisfactory.",
+      "DEF_ZH":"付清账单或债务；使事情圆满解决或满意。",
+      "SENT_EN":"I need to square up my account before leaving the hotel.",
+      "SENT_ZH":"在离开酒店之前，我需要结清我的账户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "settle",
+            "pay off",
+            "resolve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] (out of date)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "slang",
+        "dated",
+        "derogatory"
+      ],
+      "DEF_EN":"(Of a person or their tastes) conventional and old-fashioned; uncool.",
+      "DEF_ZH":"（人或其品味）保守的；老式的；不时髦的。（已过时的俚语）",
+      "SENT_EN":"He thought jazz was too wild and preferred more square music.",
+      "SENT_ZH":"他认为爵士乐太狂野了，更喜欢更保守的音乐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conservative",
+            "old-fashioned",
+            "straight-laced"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, geometry, mathematics, and informal idiomatic expressions."
+}

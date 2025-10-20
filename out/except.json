@@ -1,0 +1,85 @@
+{
+  "WORD":"except",
+  "IPA":"/ɪkˈsɛpt/",
+  "CONJUGATES":"excepting | excepted | excepts",
+  "ETYMOLOGY":"From Middle English, from Anglo-Norman excepter, from Latin exceptare (frequentative of excipere 'to take out, except'), from ex- 'out of' + capere 'to take'.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"except [sb]\nexcept [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not including; other than.",
+      "DEF_ZH":"除了...之外（不包括在内）；除去。",
+      "SENT_EN":"The store is open every day except Sunday.",
+      "SENT_ZH":"这家商店除了周日外每天都营业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "but",
+            "excluding",
+            "save",
+            "bar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"except (that) [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Used to introduce a statement that forms an exception or qualification to what has just been said.",
+      "DEF_ZH":"只是；除非（用于引出对前述主要句子的限制或例外情况）。",
+      "SENT_EN":"I would lend you the money, except that I need it myself.",
+      "SENT_ZH":"我很乐意把钱借给你，只是我自己也需要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unless",
+            "only if"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"except [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "rare"
+      ],
+      "DEF_EN":"To exclude or omit (a person or thing) from a category or rule.",
+      "DEF_ZH":"将（某人或某物）排除在外；不包括。",
+      "SENT_EN":"The agreement excepts certain highly sensitive data from disclosure.",
+      "SENT_ZH":"该协议将某些高度敏感的数据排除在披露范围之外。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exclude",
+            "omit",
+            "disallow"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exception"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with verb forms leaning towards formal or legal contexts."
+}

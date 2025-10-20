@@ -1,0 +1,108 @@
+{
+  "WORD":"satellite",
+  "IPA":"/ˈsætəlaɪt/",
+  "CONJUGATES":"satellites | satellited | satelliting",
+  "ETYMOLOGY":"From Middle French satellite, from Latin satelles (genitive satellitis) meaning 'attendant, bodyguard, accomplice'. The astronomical usage was popularized by Johannes Kepler in 1611.",
+  "SINCE":"c. 1610 (astronomy)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] satellite [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "astronomy",
+        "technology"
+      ],
+      "DEF_EN":"An object, either natural (like a moon) or man-made (like a spacecraft), that orbits a larger celestial body.",
+      "DEF_ZH":"围绕行星或恒星运行的物体，可以是天然的（如月球）或人造的（如人造卫星）。",
+      "SENT_EN":"China launched a new communication satellite into geostationary orbit last week.",
+      "SENT_ZH":"上周，中国发射了一颗新的通信卫星进入地球静止轨道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "orbiter",
+            "moon"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "spacecraft",
+            "probe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] satellite state\n[a] satellite nation",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "political",
+        "historical",
+        "common"
+      ],
+      "DEF_EN":"A country that is formally independent but is politically, economically, or militarily dominated by another, more powerful state.",
+      "DEF_ZH":"形式上独立但受到另一个更强大国家在政治、经济或军事上支配的国家（如卫星国或傀儡国）。",
+      "SENT_EN":"During the Cold War, many Eastern Bloc countries were considered Soviet satellite states.",
+      "SENT_ZH":"在冷战期间，许多东欧集团国家被认为是苏联的卫星国。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "client state",
+            "vassal state",
+            "puppet state"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] satellite town\n[a] satellite community",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "general",
+        "urban planning"
+      ],
+      "DEF_EN":"A smaller town or district that is adjacent to and dependent on a larger metropolitan city.",
+      "DEF_ZH":"依附于或环绕大城市的小城镇或社区（卫星城）。",
+      "SENT_EN":"Many people who work in the capital choose to live in cheaper satellite towns.",
+      "SENT_ZH":"许多在首都工作的人选择住在更便宜的卫星城。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "suburb",
+            "outlying area"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"satellite [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "technology"
+      ],
+      "DEF_EN":"To transmit or broadcast (signals, programs, etc.) via a communications satellite.",
+      "DEF_ZH":"通过通信卫星传输或广播（信号、节目等）。",
+      "SENT_EN":"The global news channel often satellites its content to remote regions.",
+      "SENT_ZH":"这家全球新闻频道经常通过卫星向偏远地区播放其内容。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "broadcast",
+            "relay"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical/Astronomy/Political"
+}

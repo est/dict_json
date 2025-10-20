@@ -1,0 +1,132 @@
+{
+  "WORD":"root",
+  "IPA":"/ruːt/",
+  "CONJUGATES":"roots | rooting | rooted",
+  "ETYMOLOGY":"From Old English rōt (from Old Norse rót), influenced by or cognate with Latin radix ('radish', 'root').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"The part of a plant that attaches it to the ground or to a support, typically underground, conveying water and nourishment.",
+      "DEF_ZH":"植物附着于地面或支撑物的部分，通常位于地下，负责输送水分和养分。",
+      "SENT_EN":"The large tree had deep roots that extended far beyond its trunk.",
+      "SENT_ZH":"这棵大树有很深的根，延伸到了树干很远的地方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rhizome",
+            "tuber"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "radix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"The fundamental source, cause, or origin of something.",
+      "DEF_ZH":"某事物的基础、原因或起源。",
+      "SENT_EN":"Lack of communication is the root of many marital problems.",
+      "SENT_ZH":"缺乏沟通是许多婚姻问题的根源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "origin",
+            "source",
+            "basis",
+            "foundation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "math"
+      ],
+      "DEF_EN":"A factor which, when multiplied by itself a specified number of times, equals a given number (e.g., square root, cube root).",
+      "DEF_ZH":"一个数自乘特定次数等于给定数的那个值（例如平方根、立方根）。",
+      "SENT_EN":"We need to calculate the cube root of 64.",
+      "SENT_ZH":"我们需要计算64的立方根。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "radical",
+            "exponent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] root [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To fix or establish deeply and firmly (often used in passive constructions like 'deeply rooted').",
+      "DEF_ZH":"使某物深植或牢固地建立（常用于'深深植根'等被动结构）。",
+      "SENT_EN":"Their beliefs were rooted in ancient philosophical traditions.",
+      "SENT_ZH":"他们的信仰植根于古代的哲学传统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "embed",
+            "entrench",
+            "fix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"root for [sb/sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "idiomatic",
+        "US slang",
+        "common"
+      ],
+      "DEF_EN":"To give active support or encouragement to a team, competitor, or person.",
+      "DEF_ZH":"为一支队伍、竞争者或某人积极地加油或鼓劲。",
+      "SENT_EN":"Which team are you rooting for in the finals?",
+      "SENT_ZH":"在决赛中你支持哪支队伍？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cheer",
+            "support",
+            "back"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

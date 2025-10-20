@@ -1,0 +1,104 @@
+{
+  "WORD":"interval",
+  "IPA":"/ˈɪntərvəl/",
+  "CONJUGATES":"intervals",
+  "ETYMOLOGY":"From Old French intervalle, from Latin intervallum ('space between the ramparts', later 'space, interval'), from inter- ('between') + vallum ('rampart, wall').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"A space of time between two events or a physical distance between two points.",
+      "DEF_ZH":"两个事件之间的时间间隔；两个点之间的空间距离。",
+      "SENT_EN":"There was a long interval between the lightning and the thunder.",
+      "SENT_ZH":"闪电和雷声之间有很长一段时间间隔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gap",
+            "break",
+            "pause",
+            "period",
+            "interlude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (UK usage)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "UK English",
+        "Theatre",
+        "Performance"
+      ],
+      "DEF_EN":"A break or intermission between the parts of a play, concert, or performance (known as 'intermission' in US English).",
+      "DEF_ZH":"（尤指英国用法）中场休息；幕间休息。",
+      "SENT_EN":"During the interval, the audience went out to buy refreshments.",
+      "SENT_ZH":"在中场休息期间，观众出去购买了点心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intermission",
+            "recess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (in mathematics)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Mathematics"
+      ],
+      "DEF_EN":"A set of numbers containing all real numbers between any two numbers of the set.",
+      "DEF_ZH":"（数学）区间。",
+      "SENT_EN":"The solution is defined on the closed interval [0, 1].",
+      "SENT_ZH":"该解在闭区间 [0, 1] 上有定义。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "range",
+            "domain",
+            "set"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (in music)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Music"
+      ],
+      "DEF_EN":"The difference in pitch between two notes.",
+      "DEF_ZH":"（音乐）音程（两个音高之间的距离）。",
+      "SENT_EN":"The fifth is the most consonant musical interval after the octave.",
+      "SENT_ZH":"五度是仅次于八度的最和谐的音乐音程。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "octave",
+            "unison",
+            "harmony"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and everyday usage; also specialized technical contexts (Math, Music)."
+}

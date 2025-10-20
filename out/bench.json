@@ -1,0 +1,122 @@
+{
+  "WORD":"bench",
+  "IPA":"/bɛntʃ/",
+  "CONJUGATES":"benches | benched | benching",
+  "ETYMOLOGY":"From Old English *benc* (bench, seat), ultimately from Proto-Germanic *bankiz, meaning 'ridge' or 'raised seat'.",
+  "SINCE":"c. 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (a long seat)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A long seat for several people, typically made of wood or stone and found in parks or public areas.",
+      "DEF_ZH":"长凳；长椅 (通常是木制或石制的，供多人使用的长条座椅，常见于公园或公共场所)。",
+      "SENT_EN":"They shared a quiet moment sitting on the old wooden bench under the oak tree.",
+      "SENT_ZH":"他们坐在橡树下的旧木凳上，共享着一段安静的时光。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seat",
+            "settee",
+            "pew"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the bench",
+      "POS":"n",
+      "POS_TIP":"noun (singular, often collective)",
+      "TAGS":[
+        "sports",
+        "idiomatic"
+      ],
+      "DEF_EN":"In team sports, the area where substitute players and coaches sit during a game; also refers collectively to the substitute players.",
+      "DEF_ZH":"(体育) 替补席；替补队员 (集合名词)。",
+      "SENT_EN":"The coach was yelling instructions from the bench throughout the final quarter.",
+      "SENT_ZH":"在最后一节比赛中，教练一直在替补席上大喊指示。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reserves",
+            "sidelines"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the bench",
+      "POS":"n",
+      "POS_TIP":"noun (singular, often collective)",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"The seat occupied by judges in a court of law; often used to refer collectively to the judiciary or the judges in a specific court.",
+      "DEF_ZH":"法官席； (集合名词) 法官或司法部门。",
+      "SENT_EN":"The defense lawyer presented his case directly to the bench.",
+      "SENT_ZH":"辩护律师直接向法官席陈述了他的案件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "judiciary",
+            "court"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bench [sb]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "sports",
+        "common"
+      ],
+      "DEF_EN":"To remove a player from active play temporarily and make them sit on the bench; to prevent a player from participating in a game.",
+      "DEF_ZH":"(体育) 使 (某人) 坐替补席；将 (队员) 换下场休息或禁止其出赛。",
+      "SENT_EN":"The star pitcher was benched after giving up five runs in the first inning.",
+      "SENT_ZH":"这位明星投手在第一局失了五分后被换下场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sideline",
+            "substitute",
+            "withdraw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bench [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"To test a machine, product, or component in a laboratory or workshop setting, often against a standard or prototype.",
+      "DEF_ZH":"(技术/工程) 在实验台/工作台上对 (某物) 进行初步测试或对标测试。",
+      "SENT_EN":"We need to bench the new circuit board to check its maximum power draw before installation.",
+      "SENT_ZH":"在安装之前，我们需要对新的电路板进行台架测试，以检查其最大功耗。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bench-test",
+            "prototype"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across general conversation, sports, and legal contexts."
+}

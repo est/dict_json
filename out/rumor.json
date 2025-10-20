@@ -1,0 +1,64 @@
+{
+  "WORD":"rumor",
+  "IPA":"/ˈruːmər/",
+  "CONJUGATES":"rumors (n, pl) | rumored (v, past/p.p.) | rumoring (v, pres.p.) | rumors (v, 3rd sing.)",
+  "ETYMOLOGY":"From Middle English rumour, from Anglo-French rumor, from Latin rūmor ('noise, general talk, common report').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] rumor [about sth]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, substance, quality, or action.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A widely spread but unverified report, story, or statement about something, often regarding private or sensational matters.",
+      "DEF_ZH":"广为流传但未经证实的报告、故事或陈述；谣言；传闻。",
+      "SENT_EN":"We heard a disturbing rumor about the company's financial instability.",
+      "SENT_ZH":"我们听到了一个关于公司财务不稳定的令人不安的传闻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gossip",
+            "hearsay",
+            "speculation",
+            "report"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fact",
+            "certainty",
+            "verified information"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[be] rumored [to do sth]",
+      "POS":"vtr | passive",
+      "POS_TIP":"Transitive verb (vtr), an action verb that takes a direct object. Often used in passive voice.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To report or circulate (a story or statement) as an unverified piece of information.",
+      "DEF_ZH":"作为未经证实的消息散布或报道；谣传。",
+      "SENT_EN":"The CEO was rumored to be resigning by the end of the year.",
+      "SENT_ZH":"谣传首席执行官将在年底辞职。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allege",
+            "circulate",
+            "spread"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Common Language"
+}

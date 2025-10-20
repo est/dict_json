@@ -1,0 +1,68 @@
+{
+  "WORD":"census",
+  "IPA":"/ˈsɛnsəs/",
+  "CONJUGATES":"census (n. singular) | censuses (n. plural) | census (v. base) | censuses (v. 3rd person singular present) | censusing (v. present participle) | censused (v. past simple, past participle)",
+  "ETYMOLOGY":"From Latin census ('a registration of citizens and their property'), from censere ('to assess, estimate')",
+  "SINCE":"Late 15th century (as noun); mid 19th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a census",
+      "POS":"n.",
+      "POS_TIP":"\"n.\" is an abbreviation for \"noun\", a word (other than a pronoun) used to identify any of a class of people, places, or things.",
+      "TAGS":[
+        "core word",
+        "common",
+        "government",
+        "demography"
+      ],
+      "DEF_EN":"An official count or survey, especially of a population, typically recording various details of individuals.",
+      "DEF_ZH":"官方的统计或调查，尤指人口普查，通常记录个人的各种详细信息。",
+      "SENT_EN":"The government conducts a national census every ten years to gather demographic data.",
+      "SENT_ZH":"政府每十年进行一次全国人口普查以收集人口统计数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "survey",
+            "count",
+            "enumeration",
+            "tally",
+            "poll"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "demographics",
+            "statistics",
+            "population"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"census [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"\"v.tr.\" is an abbreviation for \"transitive verb\", a verb that requires one or more objects.",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To take a census of (a population or area); to officially count and record details about.",
+      "DEF_ZH":"对（人口或区域）进行普查；官方统计并记录其详细信息。",
+      "SENT_EN":"They were tasked with censusing the remote villages to understand the living conditions.",
+      "SENT_ZH":"他们的任务是对偏远村庄进行普查，以了解其生活状况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "survey",
+            "enumerate",
+            "count"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral, commonly used in governmental, academic, and statistical contexts."
+}

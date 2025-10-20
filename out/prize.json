@@ -1,0 +1,108 @@
+{
+  "WORD":"prize",
+  "IPA":"/praɪz/",
+  "CONJUGATES":"prizes | prizing | prized",
+  "ETYMOLOGY":"Middle English, from Anglo-Norman preiser, based on Old French pris 'price, reward', ultimately from Latin pretium 'worth, reward'.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An award given to the winner of a competition or contest, or drawn in a lottery.",
+      "DEF_ZH":"竞赛或抽奖的获胜者获得的奖励、奖品或奖金。",
+      "SENT_EN":"She was delighted when she won the first prize in the art competition.",
+      "SENT_ZH":"她在艺术比赛中获得头奖时非常高兴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "award",
+            "trophy",
+            "reward",
+            "medal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To value something highly; to esteem or cherish.",
+      "DEF_ZH":"珍视；高度重视或珍惜某物。",
+      "SENT_EN":"He prizes his collection of antique books more than his expensive car.",
+      "SENT_ZH":"比起他那辆昂贵的汽车，他更珍视他的古董书收藏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cherish",
+            "treasure",
+            "value",
+            "esteem"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disdain",
+            "scorn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (often used metaphorically)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "figurative"
+      ],
+      "DEF_EN":"Something that is highly desirable, valuable, or sought after.",
+      "DEF_ZH":"极度令人渴望、有价值或备受追捧的东西。",
+      "SENT_EN":"A guaranteed spot in the league finals is the ultimate prize for the team.",
+      "SENT_ZH":"在联赛决赛中获得保证席位是该队的最终目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "goal",
+            "boon",
+            "asset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "historical",
+        "specialized"
+      ],
+      "DEF_EN":"A ship, goods, or property captured at sea during wartime by a belligerent power (a spoil of war).",
+      "DEF_ZH":"在战时，由交战方在海上俘获的船只、货物或财产（战利品）。",
+      "SENT_EN":"The admiral ordered the crew to bring the captured vessel back as a naval prize.",
+      "SENT_ZH":"上将命令船员将俘获的船只作为海军战利品带回。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "booty",
+            "spoils"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specialized meanings in historical/naval contexts."
+}

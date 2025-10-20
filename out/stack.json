@@ -1,0 +1,146 @@
+{
+  "WORD":"stack",
+  "IPA":"/stæk/",
+  "CONJUGATES":"stacks (n. plural) | stacks (v. 3rd person singular present) | stacking (v. present participle) | stacked (v. past tense, past participle)",
+  "ETYMOLOGY":"From Old Norse 'stakkr' (haystack) or Old English 'stæc' (heap), both related to Germanic roots referring to a pile or heap.",
+  "SINCE":"circa 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a stack of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A usually neat pile of objects laid one on top of another.",
+      "DEF_ZH":"一叠，一摞（整齐地堆放的物品）。",
+      "SENT_EN":"She neatly arranged the books into a stack on her desk.",
+      "SENT_ZH":"她把书整齐地叠成一摞放在书桌上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pile",
+            "heap",
+            "mound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stack [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, requiring a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To arrange objects in a neat pile.",
+      "DEF_ZH":"把…堆成一叠；堆放。",
+      "SENT_EN":"Please stack the chairs in the corner after the meeting.",
+      "SENT_ZH":"会议结束后，请把椅子堆放在角落里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pile",
+            "heap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stack",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "specialized",
+        "computing"
+      ],
+      "DEF_EN":"In computing, a data structure where elements are added and removed from the same end, following a Last In, First Out (LIFO) principle.",
+      "DEF_ZH":"（计算机）堆栈；一种数据结构，其中元素的添加和移除都在同一端进行（后进先出）。",
+      "SENT_EN":"The program used a stack to manage function calls.",
+      "SENT_ZH":"该程序使用堆栈来管理函数调用。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "LIFO",
+            "queue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stacks of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "informal",
+        "common"
+      ],
+      "DEF_EN":"(Informal, plural) A large quantity or amount, especially of money.",
+      "DEF_ZH":"（非正式，复数）大量，大笔（尤指钱）。",
+      "SENT_EN":"He made stacks of money in the stock market.",
+      "SENT_ZH":"他在股市上赚了大笔钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oodles",
+            "loads",
+            "heaps",
+            "wad"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stack",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "specific",
+        "agriculture"
+      ],
+      "DEF_EN":"A large, usually conical, pile of hay, straw, or grain stored outdoors.",
+      "DEF_ZH":"（露天储存的）干草堆，麦秆堆。",
+      "SENT_EN":"Farmers left the hay in large stacks to dry.",
+      "SENT_ZH":"农民们把干草堆成大堆晾晒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "haystack",
+            "rick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stack the deck/odds",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, requiring a direct object.",
+      "TAGS":[
+        "idiom",
+        "common"
+      ],
+      "DEF_EN":"To arrange things unfairly in one's favor; to manipulate circumstances to gain an advantage.",
+      "DEF_ZH":"（俚语）操纵，暗中安排（使对自己有利）。",
+      "SENT_EN":"The company stacked the deck against new competitors.",
+      "SENT_ZH":"这家公司暗中操纵，对新竞争者不利。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rig",
+            "manipulate",
+            "fix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

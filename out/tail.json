@@ -1,0 +1,76 @@
+{
+  "WORD":"tail",
+  "IPA":"/teɪl/",
+  "CONJUGATES":"tails | tailed | tailing",
+  "ETYMOLOGY":"From Old English tægl, from Proto-Germanic *taglaz.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth, usually an animal] tail",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "zoology"
+      ],
+      "DEF_EN":"The flexible appendage extending from the rear end of an animal's body.",
+      "DEF_ZH":"动物身体后部伸出的柔性附属物；尾巴。",
+      "SENT_EN":"The cat twitched its tail nervously before jumping.",
+      "SENT_ZH":"那只猫在跳跃前紧张地抽动着尾巴。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sth, often an aircraft or garment] tail",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "anatomy"
+      ],
+      "DEF_EN":"The rear or lower hind part of something, especially an aircraft (empennage) or the lower back part of a coat or dress.",
+      "DEF_ZH":"某物的后部或下后部，尤指飞机尾部或外套、裙子的下摆。",
+      "SENT_EN":"The airplane's distinctive tail markings made it easy to identify.",
+      "SENT_ZH":"这架飞机独特的尾部标记使其很容易辨认。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"tail [sb]\ntail [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common",
+        "spy",
+        "police"
+      ],
+      "DEF_EN":"To follow and observe someone closely, especially secretly or as a detective.",
+      "DEF_ZH":"跟踪；尾随；（尤指作为侦探或间谍）秘密地紧密跟随某人。",
+      "SENT_EN":"The detective was instructed to tail the suspect for 48 hours.",
+      "SENT_ZH":"侦探接到指示要秘密跟踪嫌疑人48小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shadow",
+            "follow",
+            "track"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] tail",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "astronomy"
+      ],
+      "DEF_EN":"A long, continuous stream or sequence extending behind something, such as the luminous path of a comet.",
+      "DEF_ZH":"延伸在某物后面的长而连续的流或序列，如彗星的彗尾。",
+      "SENT_EN":"The magnificent tail of the comet was visible without a telescope.",
+      "SENT_ZH":"那颗彗星壮丽的彗尾无需望远镜即可看见。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

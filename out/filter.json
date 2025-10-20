@@ -1,0 +1,137 @@
+{
+  "WORD":"filter",
+  "IPA":"/ˈfɪltər/",
+  "CONJUGATES":"filters | filtering | filtered",
+  "ETYMOLOGY":"From Late Latin filtrum 'a filter', likely from Germanic, related to felt. Originally referring to a piece of felt used for straining. The verb sense emerged later.",
+  "SINCE":"Late 14th century (noun); Early 17th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"filter [sth]\nfilter [sth] out | filter through [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr: transitive verb (takes a direct object); vint: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "science",
+        "engineering"
+      ],
+      "DEF_EN":"To pass (a liquid, gas, or light) through a device or substance to remove unwanted material or to modify its properties.",
+      "DEF_ZH":"使（液体、气体或光线）通过过滤器或物质以去除不需要的物质或改变其特性。",
+      "SENT_EN":"The machine filters impurities from the water before it's safe to drink.",
+      "SENT_ZH":"这台机器过滤掉水中的杂质，然后水才能安全饮用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strain",
+            "purify",
+            "refine",
+            "clarify",
+            "sieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"filter [sth]\nfilter [sth] out | filter by [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "computing",
+        "data"
+      ],
+      "DEF_EN":"To select or remove certain items from a larger set of data or information based on specific criteria.",
+      "DEF_ZH":"根据特定标准从大量数据或信息中选择或移除某些项目。",
+      "SENT_EN":"You can filter the search results by date or relevance.",
+      "SENT_ZH":"你可以按日期或相关性筛选搜索结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "screen",
+            "sort",
+            "sift",
+            "separate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"filter into/through/out [sth]",
+      "POS":"vint",
+      "POS_TIP":"vint: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"(Of a liquid, gas, or light) to pass slowly through a substance, or (of people/information) to move or spread gradually.",
+      "DEF_ZH":"（指液体、气体或光线）缓慢地通过某种物质，或（指人/信息）逐渐移动或传播。",
+      "SENT_EN":"Sunlight filtered through the dense canopy of the trees.",
+      "SENT_ZH":"阳光透过茂密的树冠洒落下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seep",
+            "trickle",
+            "permeate",
+            "diffuse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a filter (for [sth])",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "device"
+      ],
+      "DEF_EN":"A device or substance (e.g., paper, sand, mesh) used to remove impurities or solid particles from a liquid or gas.",
+      "DEF_ZH":"一种用于从液体或气体中去除杂质或固体颗粒的装置或物质（例如滤纸、沙子、网）。",
+      "SENT_EN":"The car's oil filter needs to be changed regularly.",
+      "SENT_ZH":"汽车的机油滤清器需要定期更换。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strainer",
+            "sieve",
+            "screen",
+            "mesh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a filter",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "common",
+        "computing",
+        "photography",
+        "social media"
+      ],
+      "DEF_EN":"A digital effect applied to an image or video, or a piece of glass/plastic used in photography to alter the quality of light or sound.",
+      "DEF_ZH":"应用于图像或视频的数字效果，或摄影中用于改变光线或声音质量的玻璃/塑料片。",
+      "SENT_EN":"She applied a vintage filter to her photo before posting it online.",
+      "SENT_ZH":"她在将照片发布到网上之前，给它添加了一个复古滤镜。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lens",
+            "effect",
+            "overlay",
+            "preset"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, technical (science, computing, photography, engineering)"
+}

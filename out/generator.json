@@ -1,0 +1,80 @@
+{
+  "WORD":"generator",
+  "IPA":"/dʒɛnəˈreɪtər/",
+  "CONJUGATES":"generators",
+  "ETYMOLOGY":"From Latin generātor, agent noun derived from generāre ('to generate, beget').",
+  "SINCE":"c. 1550 (mechanical sense developed in the 19th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] generator",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "electrical"
+      ],
+      "DEF_EN":"A machine that converts mechanical energy (often from an engine or turbine) into electrical energy.",
+      "DEF_ZH":"将机械能（通常来自发动机或涡轮机）转换为电能的机器；发电机。",
+      "SENT_EN":"We need to refuel the backup generator before the storm hits.",
+      "SENT_ZH":"我们需要在暴风雨来临前给备用发电机加满油。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dynamo",
+            "alternator",
+            "power unit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] generator",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "general",
+        "agent noun"
+      ],
+      "DEF_EN":"A person or thing that produces, creates, or causes something, especially ideas or specific outputs.",
+      "DEF_ZH":"产生者；创造者；导致某事物发生的人或事物。",
+      "SENT_EN":"She is a prolific generator of new artistic concepts.",
+      "SENT_ZH":"她是新艺术概念的多产创造者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "producer",
+            "originator",
+            "source"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] generator",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "mathematics"
+      ],
+      "DEF_EN":"A program or algorithm that produces data, sequences, or code based on specific input or rules (e.g., a random number generator).",
+      "DEF_ZH":"（计算机、数学中）根据特定输入或规则生成数据、序列或代码的程序或算法。",
+      "SENT_EN":"The software uses a powerful level generator to create unique maps for every game.",
+      "SENT_ZH":"该软件使用强大的关卡生成器为每场游戏创建独特的地图。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "algorithm",
+            "compiler",
+            "RNG"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical | General Use"
+}

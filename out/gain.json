@@ -1,0 +1,149 @@
+{
+  "WORD":"gain",
+  "IPA":"/ɡeɪn/",
+  "CONJUGATES":"gains | gaining | gained",
+  "ETYMOLOGY":"From Middle English gaynen (to be useful, profit), likely from Old Norse gagna (to help, profit, be advantageous).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"gain [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To obtain or secure (something desired or advantageous), especially as a result of effort or investment.",
+      "DEF_ZH":"获得；取得（尤指通过努力或投资获得想要或有利的东西）",
+      "SENT_EN":"She gained valuable experience during her internship abroad.",
+      "SENT_ZH":"她在国外的实习中获得了宝贵的经验。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acquire",
+            "obtain",
+            "secure",
+            "achieve"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forfeit",
+            "lose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gain [weight\nspeed | altitude]",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive or transitive verb",
+      "TAGS":[
+        "common",
+        "measurement"
+      ],
+      "DEF_EN":"To increase in amount, size, speed, or extent; to put on weight.",
+      "DEF_ZH":"增加（数量、尺寸、速度或范围）；体重增加",
+      "SENT_EN":"The aircraft quickly gained altitude after takeoff. He gained five pounds over the winter.",
+      "SENT_ZH":"飞机起飞后迅速增加了高度。他冬天体重增加了五磅。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "increase",
+            "rise",
+            "grow",
+            "accelerate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lose",
+            "decrease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gain on [sb]\ngain upon [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "movement",
+        "phrasal"
+      ],
+      "DEF_EN":"To move closer to or catch up with someone or something that is ahead.",
+      "DEF_ZH":"（在竞赛或追逐中）靠近或追上（前面的人或物）",
+      "SENT_EN":"The trailing cyclist started to gain on the leader during the downhill section.",
+      "SENT_ZH":"落后的自行车手在下坡路段开始追赶领先者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "approach",
+            "close in",
+            "narrow the gap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [financial\nclear] gain",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "economics"
+      ],
+      "DEF_EN":"An increase in wealth, profit, or advantage.",
+      "DEF_ZH":"利润；收益；好处",
+      "SENT_EN":"The sale of the old factory resulted in a significant capital gain.",
+      "SENT_ZH":"出售旧工厂带来了可观的资本收益。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "profit",
+            "return",
+            "benefit",
+            "yield"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "loss",
+            "expense",
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[electrical\nsignal] gain",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "electronics"
+      ],
+      "DEF_EN":"The ratio of the output signal or power of an electronic circuit or device to the input signal or power.",
+      "DEF_ZH":"增益（电子电路或设备的输出信号或功率与输入信号或功率的比率）",
+      "SENT_EN":"The technician had to adjust the antenna’s gain to improve reception.",
+      "SENT_ZH":"技术人员必须调整天线的增益以改善接收效果。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "amplification",
+            "decibel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in business and finance contexts."
+}

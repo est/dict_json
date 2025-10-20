@@ -1,0 +1,127 @@
+{
+  "WORD":"focus",
+  "IPA":"/ˈfoʊkəs/",
+  "CONJUGATES":"n. focuses | foci | v. focused | focusing | focused",
+  "ETYMOLOGY":"From Latin focus ('hearth', 'fireplace', 'place of burning'). Adopted into optical terminology in Neo-Latin in the 17th century to describe the point where light rays meet.",
+  "SINCE":"c. 1644",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] focus [on sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The center of interest, attention, or activity.",
+      "DEF_ZH":"兴趣、注意力或活动的中心点；重点。",
+      "SENT_EN":"The current focus of the research team is renewable energy sources.",
+      "SENT_ZH":"研究小组目前的重点是可再生能源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "center",
+            "core",
+            "hub",
+            "nucleus",
+            "gist"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "periphery",
+            "distraction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"focus [on sth/sb]",
+      "POS":"vintr + prep | vtr",
+      "POS_TIP":"Intransitive verb plus preposition | Transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To concentrate or direct attention or effort on a particular aim or subject.",
+      "DEF_ZH":"集中（注意力或精力）于某一特定目标或主题。",
+      "SENT_EN":"Please focus your attention on the speaker and stop talking.",
+      "SENT_ZH":"请把注意力集中在发言人身上，不要再说话了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concentrate",
+            "attend",
+            "center",
+            "zero in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "scatter",
+            "distract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"focus",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "optics",
+        "photography"
+      ],
+      "DEF_EN":"The state of maximum clarity and sharpness of an image, or the point at which light rays converge after passing through a lens.",
+      "DEF_ZH":"图像的最大清晰度和锐度状态（对焦）；光线穿过透镜后会聚的点（焦点）。",
+      "SENT_EN":"He adjusted the camera lens to bring the distant mountain into sharp focus.",
+      "SENT_ZH":"他调整了相机镜头，使远处的山峰对焦清晰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clarity",
+            "sharpness",
+            "definition"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "blur",
+            "fuzziness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"focus [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "technical",
+        "photography"
+      ],
+      "DEF_EN":"To adjust the lens of a camera or eye to achieve a clear image.",
+      "DEF_ZH":"调整（相机或眼睛的）焦距以形成清晰的图像。",
+      "SENT_EN":"The photographer focused the shot on the bride's face.",
+      "SENT_ZH":"摄影师将镜头聚焦在新娘的脸上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjust",
+            "sharpen",
+            "align"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic/Technical"
+}

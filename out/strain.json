@@ -1,0 +1,144 @@
+{
+  "WORD":"strain",
+  "IPA":"/streɪn/",
+  "CONJUGATES":"strains | straining | strained",
+  "ETYMOLOGY":"From Middle English streinen, derived from Old French estreindre ('to tighten, compress'), ultimately from Latin stringere ('to draw tight, tie, compress').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"strain [muscle/body part]\nstrain [oneself]",
+      "POS":"vtr | vir",
+      "POS_TIP":"Transitive Verb (vtr) or Intransitive Verb (vir)",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"To injure or weaken a muscle, tendon, or ligament by overexertion or sudden movement; or to exert the utmost physical or mental effort.",
+      "DEF_ZH":"（因过度使用或突发动作而）拉伤、扭伤（肌肉、韧带等）；或竭尽全力、尽力。",
+      "SENT_EN":"He strained his back lifting the piano.",
+      "SENT_ZH":"他搬钢琴时拉伤了背部。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sprain",
+            "injure",
+            "overexert",
+            "strive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "relax",
+            "rest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strain [relationship/patience/resources]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (vtr)",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To subject to great pressure or difficulties; to push the limits of tolerance, resources, or capabilities.",
+      "DEF_ZH":"使（关系、耐心、资源等）紧张或承受巨大的压力；考验（某事物的）极限。",
+      "SENT_EN":"The economic downturn has severely strained the health care system.",
+      "SENT_ZH":"经济衰退严重地使医疗系统不堪重负。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stress",
+            "tax",
+            "burden"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ease",
+            "relieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strain [liquid] (through [filter/sieve])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (vtr)",
+      "TAGS":[
+        "common",
+        "culinary"
+      ],
+      "DEF_EN":"To separate solid matter from a liquid by passing it through a porous material or sieve.",
+      "DEF_ZH":"过滤；滤除（液体中的固体物质）。",
+      "SENT_EN":"Remember to strain the vegetable stock before making the sauce.",
+      "SENT_ZH":"记住在做酱汁之前要过滤掉蔬菜汤里的残渣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "filter",
+            "sieve",
+            "sift"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a muscle strain\nunder great strain",
+      "POS":"nc | nu",
+      "POS_TIP":"Countable Noun (nc) or Uncountable Noun (nu)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An injury to a muscle or ligament caused by overstretching (countable); or a state of tension, pressure, or stress (uncountable).",
+      "DEF_ZH":"（肌肉或韧带的）拉伤，损伤（可数）；巨大的压力或紧张状态（不可数）。",
+      "SENT_EN":"The financial strain of the war was immense.",
+      "SENT_ZH":"战争造成的财政压力是巨大的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tension",
+            "stress",
+            "pressure",
+            "injury"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a strain of [disease/microorganism]",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun (nc)",
+      "TAGS":[
+        "common",
+        "scientific",
+        "biological"
+      ],
+      "DEF_EN":"A particular variety or lineage of an animal, plant, or especially a microorganism (like bacteria or a virus).",
+      "DEF_ZH":"（动物、植物、微生物的）品系，株；（疾病的）变种。",
+      "SENT_EN":"Doctors are worried about the new, highly infectious strain of flu.",
+      "SENT_ZH":"医生们担心这种新的、高传染性的流感变种。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "variety",
+            "type",
+            "species"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in medical, scientific, and figurative contexts."
+}

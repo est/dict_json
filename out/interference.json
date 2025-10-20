@@ -1,0 +1,111 @@
+{
+  "WORD":"interference",
+  "IPA":"/ˌɪntərˈfɪərəns/",
+  "CONJUGATES":"interfere (v) | interfered (v, past) | interfering (v, present participle)",
+  "ETYMOLOGY":"From the verb 'interfere' (Middle English: enterferen), derived from Anglo-Norman 'enterferer' ('to strike against, intermingle'), ultimately from Latin 'inter' (between) + 'ferire' (to strike), combined with the noun suffix '-ence'.",
+  "SINCE":"Late 18th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"interference (in [sth])",
+      "POS":"nu",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action of intervening in a situation without invitation or necessity, especially when it obstructs or hinders a desirable outcome.",
+      "DEF_ZH":"干涉；妨碍；介入他人的事务。",
+      "SENT_EN":"The organization strongly opposes any foreign interference in its internal political affairs.",
+      "SENT_ZH":"该组织强烈反对任何外国对其内部政治事务的干涉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meddling",
+            "intrusion",
+            "obstruction",
+            "intervention"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cooperation",
+            "non-intervention"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interference",
+      "POS":"nu",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "technical",
+        "electronics"
+      ],
+      "DEF_EN":"Distortion or unwanted signals that disrupt or obscure the signal being transmitted, often in radio, television, or telephone communications.",
+      "DEF_ZH":"(电子学/通信) 干扰；杂波。由于外部信号或噪声造成的传输失真。",
+      "SENT_EN":"We kept hearing static and interference on the radio frequency.",
+      "SENT_ZH":"我们在无线电频率上持续听到静电声和干扰。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "static",
+            "noise",
+            "EMI",
+            "RFI"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interference",
+      "POS":"nu",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "physics",
+        "technical"
+      ],
+      "DEF_EN":"The process by which two or more electromagnetic, acoustic, or water waves of the same frequency combine to form a new resultant wave in which the displacement is either reinforced (constructive) or cancelled (destructive).",
+      "DEF_ZH":"(物理学) 干涉。波与波叠加形成的新波的现象（如光波干涉）。",
+      "SENT_EN":"The bright and dark bands were caused by the interference of light waves.",
+      "SENT_ZH":"明暗条纹是由光波干涉引起的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "diffraction",
+            "superposition",
+            "wavelength"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interference",
+      "POS":"ncu",
+      "POS_TIP":"Noun, countable or uncountable",
+      "TAGS":[
+        "sports",
+        "law"
+      ],
+      "DEF_EN":"In sports, an illegal act of impeding an opponent's movement or play; also, in patent law, a proceeding to determine priority between two similar patent applications.",
+      "DEF_ZH":"(体育) 阻碍；犯规阻挡。(法律) 专利冲突裁定程序。",
+      "SENT_EN":"He was penalized for interference after cross-checking the goalie.",
+      "SENT_ZH":"他在对守门员进行交叉阻截后，因阻挡犯规而被罚。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "foul",
+            "holding",
+            "obstruction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical, and General Usage"
+}

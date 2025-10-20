@@ -1,0 +1,111 @@
+{
+  "WORD":"murder",
+  "IPA":"/ˈmɜːrdər/",
+  "CONJUGATES":"murders | murdering | murdered",
+  "ETYMOLOGY":"From Old English morþor, murþer ('homicide, murder, mortal sin, suffering, torment'), from Proto-Germanic *murþrą, *murþrijaną (related to Dutch moord, German Mord, Old Norse morð). Ultimately from Proto-Indo-European *mer- ('to die, fade away'). The verb form developed from the noun in Middle English.",
+  "SINCE":"c. 9th century (noun); c. 14th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] murder [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "legal",
+        "crime"
+      ],
+      "DEF_EN":"To unlawfully and intentionally kill another human being with premeditation or malice aforethought.",
+      "DEF_ZH":"预谋或怀有恶意地非法并蓄意杀害另一个人。",
+      "SENT_EN":"He was arrested for attempting to murder his business partner.",
+      "SENT_ZH":"他因企图谋杀其商业伙伴而被捕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assassinate",
+            "slay",
+            "kill"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "homicide",
+            "manslaughter",
+            "assault"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a murder",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "crime"
+      ],
+      "DEF_EN":"The unlawful, premeditated killing of one human being by another.",
+      "DEF_ZH":"非法、有预谋地杀害他人。",
+      "SENT_EN":"The police are still investigating the murder that occurred last night.",
+      "SENT_ZH":"警方仍在调查昨晚发生的谋杀案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "killing",
+            "homicide",
+            "slaying"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "birth",
+            "revival"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] murder [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"To thoroughly spoil or ruin something, often applied to a performance or task.",
+      "DEF_ZH":"彻底破坏或毁掉某事，常指拙劣地完成一项表演或任务。",
+      "SENT_EN":"He absolutely murdered the piano piece; he missed half the notes.",
+      "SENT_ZH":"他把那首钢琴曲弹得一塌糊涂，错过了半数的音符。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "butcher",
+            "botch",
+            "mangle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a murder of crows",
+      "POS":"n phrase",
+      "POS_TIP":"noun phrase",
+      "TAGS":[
+        "rare",
+        "literary",
+        "collective noun"
+      ],
+      "DEF_EN":"The collective noun used for a group of crows.",
+      "DEF_ZH":"一群乌鸦的集合名词。",
+      "SENT_EN":"A strange and dark murder of crows gathered in the dead trees.",
+      "SENT_ZH":"一群奇怪而黑暗的乌鸦聚集在枯树上。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal in legal and news contexts; common in general conversation."
+}

@@ -1,0 +1,117 @@
+{
+  "WORD":"stem",
+  "IPA":"/stɛm/",
+  "CONJUGATES":"stems | stemming | stemmed",
+  "ETYMOLOGY":"From Old English *stemn* or *stefn* (trunk, main axis), possibly related to Old Norse *stafn* (prow of a ship).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "botany",
+        "common"
+      ],
+      "DEF_EN":"The main body or central axis of a plant, typically supporting the leaves, flowers, or fruits; a stalk.",
+      "DEF_ZH":"植物的主干或中央轴，通常支撑着叶子、花朵或果实；茎；秆。",
+      "SENT_EN":"She cut the flower just below the bud, leaving a long stem.",
+      "SENT_ZH":"她在花蕾下方剪断了花，留下了一根长长的花茎。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stalk",
+            "shoot",
+            "trunk"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rhizome",
+            "pedicel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stem [from sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To originate or be caused by; to derive from a source.",
+      "DEF_ZH":"起源于；产生于；由...引起。",
+      "SENT_EN":"The current political crisis stems directly from economic inequality.",
+      "SENT_ZH":"当前的政治危机直接源于经济不平等。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "derive",
+            "arise",
+            "originate",
+            "spring"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "root"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stem [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To stop or check the flow or advance of something, especially liquid or a negative development.",
+      "DEF_ZH":"阻止（血流、水流等）的流动或扩散；遏制；制止。",
+      "SENT_EN":"The doctor applied pressure to stem the massive bleeding.",
+      "SENT_ZH":"医生施加压力以止住大出血。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "check",
+            "halt",
+            "staunch",
+            "restrict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"The part of a word that remains unchanged when inflected, or to which inflectional suffixes are added.",
+      "DEF_ZH":"词干；词汇的核心部分，在其上附加屈折词尾。",
+      "SENT_EN":"In the word 'looked,' 'look' is the verb stem.",
+      "SENT_ZH":"在“looked”这个词中，“look”是动词词干。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "root",
+            "base"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used commonly in biology, linguistics, and formal writing when describing cause/effect or attempts to halt processes."
+}

@@ -1,0 +1,119 @@
+{
+  "WORD":"last",
+  "IPA":"/læst/",
+  "CONJUGATES":"lasts | lasting | lasted",
+  "ETYMOLOGY":"From Old English *lætest* (superlative of *læt* 'late'), meaning 'final' or 'most recent'. The verb sense 'to continue' developed later from the temporal meaning.",
+  "SINCE":"c. 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"the last [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "sequence",
+        "final"
+      ],
+      "DEF_EN":"Coming after all others in time, sequence, or order; final.",
+      "DEF_ZH":"时间、顺序或序列上在所有其他事物之后；最终的。",
+      "SENT_EN":"This is the last chance you will get to pass the test.",
+      "SENT_ZH":"这是你通过考试的最后一次机会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "final",
+            "ultimate",
+            "concluding"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "first",
+            "initial",
+            "earliest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"last [time period]",
+      "POS":"adj | adv",
+      "POS_TIP":"adjective or adverb",
+      "TAGS":[
+        "core word",
+        "time",
+        "recent"
+      ],
+      "DEF_EN":"Happening or existing immediately before the present; most recent.",
+      "DEF_ZH":"紧接在当前之前发生或存在的；最近的。",
+      "SENT_EN":"We went skiing last winter.",
+      "SENT_ZH":"我们去年冬天去滑雪了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "previous",
+            "preceding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] last",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "duration"
+      ],
+      "DEF_EN":"To continue or endure for a specified period of time; to remain in existence or use.",
+      "DEF_ZH":"持续或维持一段特定的时间；保持存在或使用。",
+      "SENT_EN":"The battery only lasted for three hours.",
+      "SENT_ZH":"电池只持续了三个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endure",
+            "continue",
+            "persist",
+            "remain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cease",
+            "stop",
+            "fail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a last",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "craftsmanship"
+      ],
+      "DEF_EN":"A wooden or metal form shaped like a human foot, used by shoemakers to make or repair shoes.",
+      "DEF_ZH":"鞋匠用来制作或修理鞋子的、形状像人脚的木制或金属模具（鞋楦）。",
+      "SENT_EN":"The cobbler hammered the new sole onto the last.",
+      "SENT_ZH":"鞋匠将新鞋底锤打到鞋楦上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cobbler",
+            "shoe tree"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and everyday use"
+}

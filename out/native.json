@@ -1,0 +1,100 @@
+{
+  "WORD":"native",
+  "IPA":"/ˈneɪtɪv/",
+  "CONJUGATES":"natives | natively | nativeness",
+  "ETYMOLOGY":"From Middle English natif, from Old French natif, from Latin nātīvus ('by birth, natural'), derived from nātus, past participle of nāscī ('to be born').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (形容词)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Associated with the place or environment in which a person was born or where a species naturally originated.",
+      "DEF_ZH":"与出生地或物种自然起源地相关的；本地的；原生的。",
+      "SENT_EN":"She speaks Japanese as her native language.",
+      "SENT_ZH":"日语是她的母语。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indigenous",
+            "local",
+            "aboriginal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (形容词)",
+      "TAGS":[
+        "inherent",
+        "literary"
+      ],
+      "DEF_EN":"Existing naturally in a person or thing; innate or inherent.",
+      "DEF_ZH":"天生的；固有的；与生俱来的。",
+      "SENT_EN":"He had a native talent for composing music.",
+      "SENT_ZH":"他具有天生的音乐创作才能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "innate",
+            "inherent",
+            "natural"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun (名词)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person born in a specified place or associated with a place by birth, rather than a visitor or immigrant.",
+      "DEF_ZH":"本地人；土著居民；原住民。",
+      "SENT_EN":"The natives of the island have a unique culture.",
+      "SENT_ZH":"该岛的土著居民有着独特的文化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "local",
+            "resident"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (形容词)",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"Of software or hardware, specifically designed for a particular platform or operating system.",
+      "DEF_ZH":"（计算机软件或硬件）本地的；原生的（指专门为某一特定平台或操作系统设计的）。",
+      "SENT_EN":"Developers prefer building native apps for better performance.",
+      "SENT_ZH":"开发人员更喜欢构建原生应用以获得更好的性能。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "cross-platform",
+            "emulated"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

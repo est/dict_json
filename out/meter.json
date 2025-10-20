@@ -1,0 +1,126 @@
+{
+  "WORD":"meter",
+  "IPA":"/ˈmiːtər/",
+  "CONJUGATES":"meters (n plural) | meters (v 3rd person singular present) | metered (v past tense, past participle) | metering (v present participle)",
+  "ETYMOLOGY":"From Old French `metre` and Latin `metrum`, ultimately from Ancient Greek `μέτρον` (métron) meaning 'measure, rule, length, poetic rhythm'.",
+  "SINCE":"late Middle English (for poetic rhythm); late 18th century (for unit of length)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[unit of length]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "measurement"
+      ],
+      "DEF_EN":"The fundamental unit of length in the metric system, equal to 100 centimeters or approximately 39.37 inches.",
+      "DEF_ZH":"米；公尺（国际单位制中长度的基本单位，等于100厘米或约39.37英寸）",
+      "SENT_EN":"The race track is 400 meters long.",
+      "SENT_ZH":"赛道长400米。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "metre"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[device]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "device"
+      ],
+      "DEF_EN":"A device that measures and records the amount of something, such as gas, electricity, or water.",
+      "DEF_ZH":"计量器；仪表（用于测量和记录气体、电力或水等用量的装置）",
+      "SENT_EN":"We need to read the water meter every month.",
+      "SENT_ZH":"我们每月都要抄水表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gauge",
+            "indicator",
+            "dial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[rhythm]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "poetry",
+        "music"
+      ],
+      "DEF_EN":"The regular rhythmic pattern of beats or accents in music or verse.",
+      "DEF_ZH":"韵律；格律；节拍（音乐或诗歌中规律性的节拍或重音模式）",
+      "SENT_EN":"The poet experimented with different meters in his new collection.",
+      "SENT_ZH":"这位诗人在他的新诗集中尝试了不同的格律。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rhythm",
+            "beat",
+            "tempo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"meter [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To measure with a meter.",
+      "DEF_ZH":"用仪表测量",
+      "SENT_EN":"The utility company meters the amount of electricity consumed.",
+      "SENT_ZH":"公用事业公司测量所消耗的电量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure",
+            "gauge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"meter [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action",
+        "control"
+      ],
+      "DEF_EN":"To supply (something, such as gas or water) through a meter; to control the flow or supply of.",
+      "DEF_ZH":"通过计量器供应；计量供应（气体、水等）；控制（流量或供应）",
+      "SENT_EN":"Parking in the downtown area is strictly metered.",
+      "SENT_ZH":"市中心区域的停车是严格按表收费的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regulate",
+            "control",
+            "apportion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

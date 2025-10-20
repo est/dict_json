@@ -1,0 +1,87 @@
+{
+  "WORD":"recommend",
+  "IPA":"/ˌrɛkəˈmɛnd/",
+  "CONJUGATES":"recommends | recommended | recommending",
+  "ETYMOLOGY":"From Old French recommander, formed from re- (expressing intensive force) + commander (to commend, commit to the care of).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"recommend [sth] (to [sb])\nrecommend [sb] (for [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To suggest or praise someone or something as suitable for a particular purpose or role.",
+      "DEF_ZH":"推荐；提议（某人或某物）适合某一目的或职位。",
+      "SENT_EN":"I highly recommend this new restaurant; their pasta is excellent.",
+      "SENT_ZH":"我强烈推荐这家新餐厅，他们的意大利面非常棒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggest",
+            "advise",
+            "commend",
+            "endorse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "warn against",
+            "discourage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recommend that [clause]\nrecommend [sth]",
+      "POS":"v + clause | vtr",
+      "POS_TIP":"verb followed by a subordinate clause | transitive verb",
+      "TAGS":[
+        "formal",
+        "advice"
+      ],
+      "DEF_EN":"To advise or suggest a course of action, often formally.",
+      "DEF_ZH":"建议或提议（行动方针）；告诫。",
+      "SENT_EN":"The committee recommended that the budget be increased next quarter.",
+      "SENT_ZH":"委员会建议下一季度增加预算。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "propose",
+            "urge",
+            "counsel",
+            "stipulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recommend [sb] to [sb else]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "archaic",
+        "rare"
+      ],
+      "DEF_EN":"To commit or entrust someone or something to the care or protection of another.",
+      "DEF_ZH":"委托；交付（某人或某物）予他人照料或保护。",
+      "SENT_EN":"He recommended his family to the grace of heaven before the journey.",
+      "SENT_ZH":"他在旅途开始前，将家人托付给上天的恩典。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entrust",
+            "commit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in professional and casual settings."
+}

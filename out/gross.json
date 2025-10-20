@@ -1,0 +1,132 @@
+{
+  "WORD":"gross",
+  "IPA":"/ɡroʊs/",
+  "CONJUGATES":"grosser | grossest (adj.) | grossing | grossed | grosses (v.)",
+  "ETYMOLOGY":"From Old French gros ('large, thick'), from Late Latin grossus ('thick, coarse'). The meaning 'twelve dozen' arose from its meaning of 'large quantity' in the 15th century. The modern sense of 'disgusting' evolved from the older meaning of 'coarse' or 'vulgar'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"gross",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"Extremely unpleasant, repulsive, vulgar, or disgusting.",
+      "DEF_ZH":"极其令人不愉快的；恶心的；令人作呕的。",
+      "SENT_EN":"The smell coming from the dumpster was absolutely gross.",
+      "SENT_ZH":"垃圾箱里传出的气味简直恶心透了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disgusting",
+            "vile",
+            "nasty",
+            "repulsive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "pleasant",
+            "appetizing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gross [income/weight/amount]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "finance",
+        "commerce"
+      ],
+      "DEF_EN":"Total; being the total amount before any deductions (such as taxes or expenses) are subtracted.",
+      "DEF_ZH":"总的；未扣除的（指在扣除税款或开支前的总额）。",
+      "SENT_EN":"Her gross salary is high, but her net pay after taxes is much lower.",
+      "SENT_ZH":"她的总薪水很高，但扣税后的净工资低得多。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "net"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gross [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "finance",
+        "commerce"
+      ],
+      "DEF_EN":"To earn a total amount of money before taxes or expenses are deducted.",
+      "DEF_ZH":"（在扣除税款或开支前）总共赚得。",
+      "SENT_EN":"The new sci-fi movie managed to gross over $200 million in its opening weekend.",
+      "SENT_ZH":"这部新的科幻电影在首周末就总共获得了超过2亿美元的收入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "earn",
+            "take in",
+            "revenue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gross [neglect/misconduct]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "formal",
+        "law"
+      ],
+      "DEF_EN":"Extremely obvious, noticeable, or severe; flagrant and unpardonable.",
+      "DEF_ZH":"严重的；公然的；不可原谅的（尤指错误或违法行为）。",
+      "SENT_EN":"The prosecutor argued that the politician was guilty of gross misconduct.",
+      "SENT_ZH":"检察官辩称该政客犯有严重的渎职行为。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flagrant",
+            "egregious",
+            "severe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a gross of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "measurement",
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"A group or quantity of 144 (twelve dozen).",
+      "DEF_ZH":"一罗（一百四十四件）。",
+      "SENT_EN":"The stationery supplier delivered a gross of pens for the school office.",
+      "SENT_ZH":"文具供应商为学校办公室运送了一罗钢笔。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dozen",
+            "score"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, covering informal, financial, and formal contexts."
+}

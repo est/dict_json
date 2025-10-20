@@ -1,0 +1,86 @@
+{
+  "WORD":"dictate",
+  "IPA":"/dɪkˈteɪt/",
+  "CONJUGATES":"dictates | dictating | dictated",
+  "ETYMOLOGY":"From Latin dictare, frequentative of dicere 'to say, speak', meaning 'to say often, declare, prescribe'.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"dictate [sth] (to [sb])",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr = transitive verb (requires a direct object); vi = intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To give an order or instruction authoritatively; to impose terms or conditions.",
+      "DEF_ZH":"规定；命令；支配；强行决定。",
+      "SENT_EN":"The manager attempted to dictate the terms of the new contract without negotiation.",
+      "SENT_ZH":"经理试图在没有谈判的情况下，强行规定新合同的条款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impose",
+            "prescribe",
+            "command",
+            "govern"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dictator",
+            "dictatorial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dictate [sth] (to [sb/sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr = transitive verb (requires a direct object); vi = intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To read or say something aloud for a person or machine to record or transcribe.",
+      "DEF_ZH":"口述；口授（使人记录或录音）。",
+      "SENT_EN":"She dictated her final memo into the voice recorder before leaving the office.",
+      "SENT_ZH":"她在离开办公室前，将最后的备忘录口述录入录音机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "read out",
+            "speak aloud",
+            "verbalize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dictates of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "rare usage"
+      ],
+      "DEF_EN":"A ruling principle, command, or necessity that guides behavior or action, often referring to conscience or fate.",
+      "DEF_ZH":"原则；要求；良心或命运的驱使。",
+      "SENT_EN":"He acted according to the dictates of his conscience, regardless of the consequences.",
+      "SENT_ZH":"他不顾后果，按照良心的指引行事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "principle",
+            "mandate",
+            "necessity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often formal when referring to giving commands."
+}

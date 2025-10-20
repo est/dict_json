@@ -1,0 +1,94 @@
+{
+  "WORD":"install",
+  "IPA":"/ɪnˈstɔːl/",
+  "CONJUGATES":"install | installs | installing | installed",
+  "ETYMOLOGY":"From Middle English 'installe', derived from Old French 'installer', and ultimately from Medieval Latin 'installare' (in- 'in, into' + 'stallum' 'a stall, seat'). Originally meant 'to place in an official seat'.",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"install [sth] (on/in [device])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"To load or place a piece of equipment, machinery, or software into position and connect it so that it is ready to be used.",
+      "DEF_ZH":"安装（设备或软件）；将设备或程序放置到位并使其连接，以便随时使用。",
+      "SENT_EN":"It took several hours to install the new graphics card and its drivers.",
+      "SENT_ZH":"安装新的显卡及其驱动程序花费了数小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "set up",
+            "load",
+            "fit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "uninstall",
+            "remove"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "installation",
+            "installer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"install [sth] (in [location])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Common",
+        "General"
+      ],
+      "DEF_EN":"To place or fix equipment or fixtures into a specified location.",
+      "DEF_ZH":"固定；安置；设置（例如灯具或固定装置）。",
+      "SENT_EN":"The maintenance crew will install the new security cameras around the building.",
+      "SENT_ZH":"维护人员将在大楼周围安装新的监控摄像头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mount",
+            "fix",
+            "put up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"install [sb] (as/in [position])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Ceremonial"
+      ],
+      "DEF_EN":"To formally put someone into an official position or office, often with a ceremony.",
+      "DEF_ZH":"正式任命；使（某人）就职（常指通过仪式）。",
+      "SENT_EN":"She will be formally installed as the new president next week.",
+      "SENT_ZH":"她将于下周正式就任新总裁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "induct",
+            "inaugurate",
+            "instate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly frequent in technical and building contexts."
+}

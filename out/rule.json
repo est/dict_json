@@ -1,0 +1,134 @@
+{
+  "WORD":"rule",
+  "IPA":"/ruːl/",
+  "CONJUGATES":"rules (n) | rules | ruling | ruled (v)",
+  "ETYMOLOGY":"From Middle English rule, derived via Old French reule, from Latin rēgula ('straight stick, measuring bar, pattern, rule'), related to regere ('to guide, govern, keep straight').",
+  "SINCE":"12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] rule [for/of sth]",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "regulation"
+      ],
+      "DEF_EN":"One of a set of explicit or understood regulations or guidelines governing procedure, conduct, or method.",
+      "DEF_ZH":"规定；条例；规则。管理行为或程序的一套明确或默许的指导方针。",
+      "SENT_EN":"Safety rules must be strictly followed in the workshop.",
+      "SENT_ZH":"在车间里必须严格遵守安全规定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regulation",
+            "statute",
+            "guideline",
+            "principle"
+          ]
+        },
+        {
+          "T":"phrases",
+          "V":[
+            "golden rule",
+            "rule of thumb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] rule [of sb/sth]",
+      "POS":"nu",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "core word",
+        "governance",
+        "politics"
+      ],
+      "DEF_EN":"The exercise of sovereign authority or control over a country, people, or organization; dominion.",
+      "DEF_ZH":"统治；支配；权力。对国家、人民或组织行使主权或控制。",
+      "SENT_EN":"The country has been under democratic rule for fifty years.",
+      "SENT_ZH":"这个国家处于民主统治下已有五十年了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "governance",
+            "dominion",
+            "command",
+            "sovereignty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rule [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "politics"
+      ],
+      "DEF_EN":"To exercise governing power or dominant influence over; to administer the laws of a territory or people.",
+      "DEF_ZH":"统治；管理；支配。行使治理权力或主导影响。",
+      "SENT_EN":"A monarch rules the kingdom, but parliament makes the laws.",
+      "SENT_ZH":"君主统治王国，但议会制定法律。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "govern",
+            "administer",
+            "command"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rule [that]\nrule [on sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To issue a formal, authoritative decision or legal judgment, typically by a judge or official body.",
+      "DEF_ZH":"裁定；判决；决定。正式发布具有权威性的决定或法律判断。",
+      "SENT_EN":"The court ruled that the contract was invalid.",
+      "SENT_ZH":"法庭裁定该合同无效。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decree",
+            "adjudge",
+            "decide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] rule",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "measurement",
+        "tool"
+      ],
+      "DEF_EN":"An instrument (often called a ruler) with a straight edge, used for drawing lines or making measurements.",
+      "DEF_ZH":"尺子；直尺。用于画线或测量带有直边的工具。",
+      "SENT_EN":"He measured the gap using a wooden rule.",
+      "SENT_ZH":"他用一把木尺测量了缝隙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ruler",
+            "straightedge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Legal"
+}

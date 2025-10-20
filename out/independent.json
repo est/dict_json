@@ -1,0 +1,128 @@
+{
+  "WORD":"independent",
+  "IPA":"/ˌɪndɪˈpendənt/",
+  "CONJUGATES":"more independent | most independent | independently (adv) | independence (n)",
+  "ETYMOLOGY":"From Late Latin *independēns*, formed by combining *in-* (not) + *dependēns* (present participle of *dependēre* 'to hang from, depend').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] is independent [of sb/sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not dependent on or controlled by another person, group, or thing, especially in matters of opinion or finances.",
+      "DEF_ZH":"不依赖或不受他人、团体或事物控制的，尤指在意见或经济上；独立的。",
+      "SENT_EN":"She became financially independent after moving out of her parents' house.",
+      "SENT_ZH":"搬出父母家后，她在经济上独立了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "self-sufficient",
+            "autonomous",
+            "free"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dependent",
+            "reliant",
+            "subordinate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (e.g., nation/state) is independent",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "political",
+        "formal"
+      ],
+      "DEF_EN":"(Of a country or state) self-governing; sovereign.",
+      "DEF_ZH":"（指国家或州）自治的；拥有主权的。",
+      "SENT_EN":"The former colony celebrated its first decade as an independent nation.",
+      "SENT_ZH":"这个前殖民地庆祝了其成为独立国家的第一个十年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sovereign",
+            "non-aligned"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "colonial",
+            "occupied"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is independent [of sth else]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "statistical"
+      ],
+      "DEF_EN":"Not contingent on or influenced by something else; separate or distinct.",
+      "DEF_ZH":"不受其他事物制约或影响的；分离的或不相关的。",
+      "SENT_EN":"The study found that IQ was independent of family wealth.",
+      "SENT_ZH":"这项研究发现，智商与家庭财富无关。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "unrelated",
+            "discrete"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "related",
+            "contingent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an independent",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "political",
+        "specialized"
+      ],
+      "DEF_EN":"A person, especially a candidate for office, who does not belong to or vote with an organized political party.",
+      "DEF_ZH":"不属于任何有组织政党或不与其共同投票的人（尤指候选人）；独立人士。",
+      "SENT_EN":"The last election saw a surge in support for independents.",
+      "SENT_ZH":"上次选举中，独立人士的支持率激增。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "non-partisan",
+            "maverick"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "swing voter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Political, Technical"
+}

@@ -1,0 +1,140 @@
+{
+  "WORD":"compound",
+  "IPA":"/ˈkɒmpaʊnd/",
+  "CONJUGATES":"compounds | compounding | compounded",
+  "ETYMOLOGY":"From Old French compondre, from Latin compōnere, from com- ('together') + pōnere ('to put').",
+  "SINCE":"c. 1375",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Chemistry",
+        "Formal"
+      ],
+      "DEF_EN":"A substance formed from two or more elements chemically united in fixed proportions.",
+      "DEF_ZH":"由两种或两种以上元素按固定比例化学结合而成的物质；化合物。",
+      "SENT_EN":"Salt is a compound of sodium and chlorine.",
+      "SENT_ZH":"盐是钠和氯的化合物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "substance",
+            "mixture",
+            "composite"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "element",
+            "molecule"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] / [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Architecture",
+        "Common",
+        "Regional"
+      ],
+      "DEF_EN":"A space or group of buildings enclosed by a fence or wall, often used for security or residential purposes.",
+      "DEF_ZH":"被围墙或栅栏围起来的区域或建筑群；大院；宅邸。",
+      "SENT_EN":"The embassy staff were confined to the secure compound during the unrest.",
+      "SENT_ZH":"骚乱期间，大使馆工作人员被限制在安全的大院内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enclosure",
+            "precinct",
+            "yard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compound [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (Pronunciation: /kəmˈpaʊnd/)",
+      "TAGS":[
+        "Idiomatic",
+        "Formal"
+      ],
+      "DEF_EN":"To make something bad or undesirable worse; to add to or intensify the negativity of a situation.",
+      "DEF_ZH":"使（问题、困难等）恶化；加重；使复杂化。",
+      "SENT_EN":"His delay in informing the manager only compounded the initial problem.",
+      "SENT_ZH":"他延迟告知经理，只会使最初的问题雪上加霜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aggravate",
+            "exacerbate",
+            "worsen"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "alleviate",
+            "mitigate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compound [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (Pronunciation: /kəmˈpaʊnd/)",
+      "TAGS":[
+        "Formal",
+        "Finance"
+      ],
+      "DEF_EN":"To calculate interest on both the original principal and on accumulated interest (compound interest).",
+      "DEF_ZH":"计算复利。",
+      "SENT_EN":"Savings accounts typically compound interest monthly.",
+      "SENT_ZH":"储蓄账户通常每月计算复利。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "interest",
+            "calculate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Technical",
+        "Linguistic"
+      ],
+      "DEF_EN":"Consisting of two or more distinct parts or elements.",
+      "DEF_ZH":"由多部分组成的；复合的。",
+      "SENT_EN":"In linguistics, a compound word combines two or more words to form a new meaning.",
+      "SENT_ZH":"在语言学中，复合词结合了两个或多个词来形成新的含义。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "composite",
+            "complex",
+            "multiple"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used across scientific, architectural, and formal contexts."
+}

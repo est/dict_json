@@ -1,0 +1,76 @@
+{
+  "WORD":"authorize",
+  "IPA":"/ˈɔːθəraɪz/",
+  "CONJUGATES":"authorizes | authorizing | authorized",
+  "ETYMOLOGY":"From Middle French autoriser, from Medieval Latin auctorizare, derived from Latin auctor ('originator, master, promoter').",
+  "SINCE":"Late 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"authorize [sth]\nauthorize [sb] to do [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"To give official permission, sanction, or legal power for something to happen or for someone to act.",
+      "DEF_ZH":"授权；批准；许可（正式给予许可或法定权力）",
+      "SENT_EN":"The manager authorized the transfer of funds to the new account.",
+      "SENT_ZH":"经理批准了将资金转入新账户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sanction",
+            "permit",
+            "license",
+            "empower",
+            "allow"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forbid",
+            "prohibit",
+            "disallow",
+            "veto"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "authority",
+            "authorization"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"authorize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To provide the justification or grounds for an action; to give validity to.",
+      "DEF_ZH":"证实；为…提供正当理由或依据",
+      "SENT_EN":"The historical documents authorize the claim that the territory belongs to the native tribes.",
+      "SENT_ZH":"这些历史文件证实了该领土属于土著部落的说法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "validate",
+            "warrant",
+            "justify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and professional communication, especially in legal, governmental, and technical contexts."
+}

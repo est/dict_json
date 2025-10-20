@@ -1,0 +1,110 @@
+{
+  "WORD":"swear",
+  "IPA":"/swɛər/",
+  "CONJUGATES":"swears | swearing | swore | sworn",
+  "ETYMOLOGY":"From Old English swerian, related to Old Norse sverja, ultimately of Germanic origin meaning 'to make a solemn declaration or promise.'",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"swear [to do sth]\nswear [sth]",
+      "POS":"vint | vtr",
+      "POS_TIP":"vint: intransitive verb; vtr: transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To make a solemn declaration or promise, often appealing to a deity or sacred object as witness.",
+      "DEF_ZH":"庄严地宣誓或保证；发誓 (通常指在法庭或正式场合)。",
+      "SENT_EN":"The witness swore on the Bible to tell the truth.",
+      "SENT_ZH":"证人按着《圣经》发誓要说出真相。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vow",
+            "pledge",
+            "take an oath"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "oath",
+            "commitment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"swear",
+      "POS":"vint",
+      "POS_TIP":"vint: intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To use vulgar, profane, or offensive language; to curse.",
+      "DEF_ZH":"说脏话；咒骂。",
+      "SENT_EN":"My grandmother told me never to swear.",
+      "SENT_ZH":"我祖母告诉我永远不要说脏话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curse",
+            "cuss",
+            "blaspheme"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"swear [that...]\nswear [sth] | swear by [sth]",
+      "POS":"vtr | vint + prep",
+      "POS_TIP":"vtr: transitive verb; vint: intransitive verb; prep: preposition",
+      "TAGS":[
+        "idiomatic",
+        "emphasis"
+      ],
+      "DEF_EN":"To affirm very strongly or insist that something is definitely true or reliable; to be absolutely sure.",
+      "DEF_ZH":"强烈断言某事是真实的；确信；极力推荐。",
+      "SENT_EN":"I could swear I left my keys right here on the table.",
+      "SENT_ZH":"我敢发誓我把钥匙放在桌子上了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insist",
+            "certify",
+            "guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"swear [sb] in",
+      "POS":"vtr + particle",
+      "POS_TIP":"vtr: transitive verb; particle: phrasal verb particle",
+      "TAGS":[
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To admit someone to an office or position by administering an official oath (often used in passive form).",
+      "DEF_ZH":"(通过宣誓)使某人就职；举行就职宣誓仪式。",
+      "SENT_EN":"The new cabinet members were sworn in this afternoon.",
+      "SENT_ZH":"新内阁成员于今天下午宣誓就职。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inaugurate",
+            "induct",
+            "install"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; widely used across formal (oaths) and informal (cursing) contexts."
+}

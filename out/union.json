@@ -1,0 +1,132 @@
+{
+  "WORD":"union",
+  "IPA":"/ˈjuːnjən/",
+  "CONJUGATES":"unions",
+  "ETYMOLOGY":"From Middle English unioun, from Old French union, from Latin ūniō (genitive ūniōnis, 'oneness, unity'), from ūnus ('one').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (the state of being joined)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action or fact of joining or being joined, especially politically, legally (such as marriage), or physically.",
+      "DEF_ZH":"联合；结合；统一；合并。",
+      "SENT_EN":"The complete political union of the two territories was finalized last week.",
+      "SENT_ZH":"这两个领土的完全政治统一已于上周敲定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unity",
+            "merger",
+            "amalgamation",
+            "junction"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separation",
+            "division",
+            "split"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (labor organization)",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "politics",
+        "economics",
+        "common"
+      ],
+      "DEF_EN":"An organized association of workers formed to protect and further their rights and interests; a trade union.",
+      "DEF_ZH":"工会；行业协会；劳工组织。",
+      "SENT_EN":"The workers voted overwhelmingly to join the electrical workers union.",
+      "SENT_ZH":"工人们以压倒性多数投票决定加入电气工人联合会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trade union",
+            "guild",
+            "association"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[proper noun] (political entity)",
+      "POS":"n",
+      "POS_TIP":"countable noun, often capitalized when referring to a specific entity (e.g., European Union)",
+      "TAGS":[
+        "geopolitics",
+        "historical"
+      ],
+      "DEF_EN":"A political unit or federation formed from the merging of several states or political bodies.",
+      "DEF_ZH":"（国家或州的）联邦；联盟。（特指美国南北战争时期北方联邦，或历史上的苏联、欧盟等）。",
+      "SENT_EN":"The future of the European Union faces many economic challenges.",
+      "SENT_ZH":"欧盟的未来面临着许多经济挑战。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "federation",
+            "confederacy",
+            "commonwealth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(in set theory)",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"The set of all members belonging to at least one of two or more given sets.",
+      "DEF_ZH":"（集合论）并集。",
+      "SENT_EN":"The union of set A and set B contains elements found in either A or B.",
+      "SENT_ZH":"集合 A 和集合 B 的并集包含在 A 或 B 中找到的元素。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "intersection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (coupling)",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"A coupling device for pipes or rods that allows them to be connected or disconnected easily without requiring rotation of the pipes.",
+      "DEF_ZH":"（管路、机械的）连接件；接头。",
+      "SENT_EN":"The water main required a new compression union.",
+      "SENT_ZH":"主水管需要一个新的压缩接头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coupling",
+            "connector"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used, particularly in political, economic (labor), and technical contexts."
+}

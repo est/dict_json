@@ -1,0 +1,89 @@
+{
+  "WORD":"inherit",
+  "IPA":"/ɪnˈhɛrɪt/",
+  "CONJUGATES":"inherits | inheriting | inherited",
+  "ETYMOLOGY":"From Middle English enheriten, from Anglo-Norman enheriter, ultimately from Late Latin inhereditare ('to appoint as heir'), derived from Latin heres (heir).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"inherit [sth] (from [sb])",
+      "POS":"vtr | vintr",
+      "POS_TIP":"Transitive verb (takes a direct object) or Intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "legal",
+        "finance"
+      ],
+      "DEF_EN":"To receive (money, property, or a title) as an heir upon the death of the previous owner.",
+      "DEF_ZH":"作为继承人，在某人去世后继承（金钱、财产或头衔）。",
+      "SENT_EN":"She inherited a large estate and several businesses from her grandfather.",
+      "SENT_ZH":"她从祖父那里继承了一大笔遗产和几家企业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acquire",
+            "succeed to",
+            "come into"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "inheritance",
+            "heir",
+            "legacy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inherit [sth] (from [sb])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "biology",
+        "science"
+      ],
+      "DEF_EN":"To derive (a characteristic or trait) genetically from a parent or ancestor.",
+      "DEF_ZH":"通过基因从父母或祖先那里获得（特征或特质）。",
+      "SENT_EN":"He inherited his musical talent from his mother.",
+      "SENT_ZH":"他从母亲那里遗传了音乐天赋。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gene",
+            "trait",
+            "heredity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inherit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To take possession of or assume (a situation, problem, or task) from a predecessor.",
+      "DEF_ZH":"从前任那里接手或承担（某种情况、问题或任务）。",
+      "SENT_EN":"The new manager inherited a team with very low morale.",
+      "SENT_ZH":"新经理接手了一个士气低落的团队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assume",
+            "take over",
+            "acquire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Biological, General"
+}

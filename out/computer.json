@@ -1,0 +1,70 @@
+{
+  "WORD":"computer",
+  "IPA":"/kəmˈpjuːtər/",
+  "CONJUGATES":"computers (plural)",
+  "ETYMOLOGY":"From English 'compute' (v.) + '-er' (suffix). 'Compute' originates from Latin 'computare' meaning 'to sum up, reckon' (from 'com-' 'together' + 'putare' 'to think, reckon'). Originally referred to a person who performs calculations.",
+  "SINCE":"c. 1613 (person), c. 1940s (electronic device)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a computer",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology",
+        "modern usage"
+      ],
+      "DEF_EN":"An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+      "DEF_ZH":"一种根据可变程序中的指令，以二进制形式存储和处理数据（通常是二进制数据）的电子设备。",
+      "SENT_EN":"She spent the entire afternoon working on her computer.",
+      "SENT_ZH":"她整个下午都在电脑上工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "PC",
+            "laptop",
+            "desktop",
+            "workstation",
+            "server"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mainframe",
+            "supercomputer",
+            "tablet",
+            "smartphone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a computer [sb]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "historical",
+        "obsolete",
+        "rare"
+      ],
+      "DEF_EN":"A person whose job is to perform calculations.",
+      "DEF_ZH":"一个其工作是执行计算的人。",
+      "SENT_EN":"Before the advent of electronic machines, human computers were essential for astronomical and mathematical computations.",
+      "SENT_ZH":"在电子机器出现之前，人工计算员对天文和数学计算至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculator",
+            "reckoner",
+            "mathematician"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Technical"
+}

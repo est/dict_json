@@ -1,0 +1,101 @@
+{
+  "WORD":"barrel",
+  "IPA":"/ˈbærəl/",
+  "CONJUGATES":"barrels (n pl) | barrels (v 3rd sg) | barreling (v pr p) | barrelled (v pp) | barreled (v pp)",
+  "ETYMOLOGY":"From Old French baril, perhaps related to barre (bar, staff).",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "container"
+      ],
+      "DEF_EN":"A large cylindrical container, typically made of wooden staves held together with hoops, used for storing liquids (like wine or oil) or dry goods.",
+      "DEF_ZH":"桶；大圆桶。通常由木板和箍条制成的大型圆柱形容器，用于储存液体（如葡萄酒或油）或干货。",
+      "SENT_EN":"They stored the whiskey in large oak barrels.",
+      "SENT_ZH":"他们把威士忌储存在大型橡木桶里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cask",
+            "drum",
+            "butt",
+            "vat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[amount] of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "measurement",
+        "commerce"
+      ],
+      "DEF_EN":"A unit of measure equal to 42 US gallons (approximately 159 liters), used especially for measuring crude oil.",
+      "DEF_ZH":"（尤指原油的）桶装量；容量单位（等于42美制加仑或约159升）。",
+      "SENT_EN":"The current market price for a barrel of crude oil has increased.",
+      "SENT_ZH":"目前市场上一桶原油的价格上涨了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gallon",
+            "liter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the barrel of a gun",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "weapons",
+        "parts"
+      ],
+      "DEF_EN":"The tube or cylinder of a gun or firearm through which the bullet or projectile is directed.",
+      "DEF_ZH":"（枪炮的）管；枪管。",
+      "SENT_EN":"The soldier looked down the barrel of his rifle to check for obstructions.",
+      "SENT_ZH":"士兵查看了他的步枪枪管，以确保没有堵塞物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "muzzle",
+            "chamber"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"barrel [adv/prep]",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "colloquial",
+        "US usage"
+      ],
+      "DEF_EN":"To move or drive extremely fast, often recklessly or without control.",
+      "DEF_ZH":"高速行驶；猛冲；飞驰。",
+      "SENT_EN":"A speeding car came barreling around the corner.",
+      "SENT_ZH":"一辆超速的汽车猛地冲过了拐角。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speed",
+            "dash",
+            "race"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, also specialized in trade and armaments."
+}

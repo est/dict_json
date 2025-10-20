@@ -1,0 +1,82 @@
+{
+  "WORD":"fragment",
+  "IPA":"/ˈfræɡmənt/",
+  "CONJUGATES":"n: fragments | v: fragments | fragmenting | fragmented",
+  "ETYMOLOGY":"From Latin fragmentum 'a broken piece', from frangere 'to break'.",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a fragment of [sth]",
+      "POS":"n",
+      "POS_TIP":"n: noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small part broken or separated off something larger.",
+      "DEF_ZH":"某物破碎或分离出来的小部分；碎片。",
+      "SENT_EN":"Archaeologists found a fragment of an ancient pottery vessel.",
+      "SENT_ZH":"考古学家发现了一块古代陶器碎片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "piece",
+            "shard",
+            "splinter",
+            "chip",
+            "scrap",
+            "bit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fragment [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (a verb that takes one or more objects to complete its meaning)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To break or cause to break into fragments.",
+      "DEF_ZH":"使（某物）分裂成碎片；使破碎。",
+      "SENT_EN":"The explosion fragmented the rock into countless pieces.",
+      "SENT_ZH":"爆炸将岩石炸成无数碎片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shatter",
+            "splinter",
+            "disintegrate",
+            "break up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fragment (into [sth])",
+      "POS":"vint",
+      "POS_TIP":"vint: intransitive verb (a verb that does not take a direct object)",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To become broken into fragments; to break up or divide.",
+      "DEF_ZH":"（使）分裂成碎片；（使）破裂或瓦解。",
+      "SENT_EN":"The once unified group began to fragment into smaller factions.",
+      "SENT_ZH":"曾经统一的团体开始分裂成更小的派系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divide",
+            "split",
+            "break apart"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

@@ -1,0 +1,102 @@
+{
+  "WORD":"operation",
+  "IPA":"/ˌɑːpəˈreɪʃən/",
+  "CONJUGATES":"operations (plural)",
+  "ETYMOLOGY":"From Latin *operatio* (stem *operationis*), meaning 'a working, effect, labor', derived from *operari* ('to work, effect'), related to *opus* ('work').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] operation",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A series of actions or a process performed to achieve a particular end.",
+      "DEF_ZH":"为达到特定目的而执行的一系列行动或过程。",
+      "SENT_EN":"The construction operation took longer than we anticipated.",
+      "SENT_ZH":"这项建造工作比我们预期的要花更长时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "procedure",
+            "process",
+            "undertaking"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have an operation\nundergo operation",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A surgical procedure involving incision into the body, performed to treat a disease or injury.",
+      "DEF_ZH":"外科手术，为治疗疾病或损伤而在病人身上进行的手术过程。",
+      "SENT_EN":"The doctor decided she needed an urgent heart operation.",
+      "SENT_ZH":"医生决定她需要立即进行心脏手术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surgery",
+            "intervention",
+            "surgical procedure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[military/business] operation",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "military",
+        "business"
+      ],
+      "DEF_EN":"A planned strategic mission or activity, especially one involving multiple resources or personnel.",
+      "DEF_ZH":"一项有计划的战略任务或活动，尤指涉及多方资源或人员的军事或商业行动。",
+      "SENT_EN":"The special forces launched a rescue operation during the night.",
+      "SENT_ZH":"特种部队在夜间发起了一次营救行动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mission",
+            "campaign",
+            "exercise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in operation",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"The functioning or working of machinery, a system, or a service.",
+      "DEF_ZH":"机械、系统或服务的运作状态；功能或工作过程。",
+      "SENT_EN":"The factory has been in full operation for six months now.",
+      "SENT_ZH":"这家工厂现在已经全面运行了六个月。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "functioning",
+            "working",
+            "performance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical, Medical, Military"
+}

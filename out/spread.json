@@ -1,0 +1,156 @@
+{
+  "WORD":"spread",
+  "IPA":"/sprɛd/",
+  "CONJUGATES":"spread | spreading | spreads",
+  "ETYMOLOGY":"From Old English sprǣdan (verb), meaning 'to stretch out, extend, or diffuse.' Related to Old Norse spreiða.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"spread [sth]\nspread",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr: transitive verb (requires a direct object) | vi: intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "movement",
+        "common"
+      ],
+      "DEF_EN":"To extend over a large or increasing area, or to cause something to do so; to become distributed.",
+      "DEF_ZH":"延伸; 铺开; 扩散; 蔓延。",
+      "SENT_EN":"The fire spread quickly due to the high winds.",
+      "SENT_ZH":"由于风力很大，火势迅速蔓延。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disperse",
+            "scatter",
+            "proliferate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contract",
+            "gather"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spread [sth] on [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "daily use",
+        "cooking"
+      ],
+      "DEF_EN":"To apply a soft substance, like butter or jam, in a thin layer over a surface.",
+      "DEF_ZH":"涂抹; 铺（软物）; 将（软物质）涂于表面。",
+      "SENT_EN":"Could you please spread some peanut butter on the toast?",
+      "SENT_ZH":"你能在这片烤面包上涂点花生酱吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smear",
+            "slather",
+            "apply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spread [sth] (news, rumor, message)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "communication",
+        "abstract"
+      ],
+      "DEF_EN":"To circulate or diffuse news, information, or rumors widely.",
+      "DEF_ZH":"传播（消息、谣言、思想）。",
+      "SENT_EN":"The charity aims to spread awareness about mental health issues.",
+      "SENT_ZH":"该慈善机构旨在传播人们对心理健康问题的认识。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disseminate",
+            "propagate",
+            "circulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the spread of [sth]",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "countable",
+        "abstract"
+      ],
+      "DEF_EN":"The extent, range, or scope over which something is distributed, especially the movement of a disease or idea.",
+      "DEF_ZH":"分布范围; 跨度; 传播（名词）。",
+      "SENT_EN":"We need effective measures to prevent the further spread of misinformation.",
+      "SENT_ZH":"我们需要采取有效措施来防止错误信息的进一步传播。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "range",
+            "scope",
+            "reach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a delicious spread",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "food",
+        "countable"
+      ],
+      "DEF_EN":"A soft substance designed to be spread on bread or crackers, such as a paste, butter, or jam.",
+      "DEF_ZH":"涂抹食物（如黄油、果酱、鱼子酱等）。",
+      "SENT_EN":"They offered a variety of sweet and savory spreads at breakfast.",
+      "SENT_ZH":"他们早餐提供了各种甜味和咸味的涂抹食物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "paste",
+            "conserve",
+            "dip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the bid-ask spread",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "finance",
+        "technical"
+      ],
+      "DEF_EN":"The difference between two specific prices, usually the buying and selling rates (bid and ask) for a commodity or security.",
+      "DEF_ZH":"价差; 利差; 息差（买卖价格或利率之间的差额）。",
+      "SENT_EN":"The dealer makes money on the spread between the two prices.",
+      "SENT_ZH":"交易商通过买卖两种价格之间的价差来获利。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "margin",
+            "premium",
+            "arbitrage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

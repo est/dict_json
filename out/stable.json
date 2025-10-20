@@ -1,0 +1,142 @@
+{
+  "WORD":"stable",
+  "IPA":"/ˈsteɪbəl/",
+  "CONJUGATES":"stabler | stablest | stables | stabling | stabled",
+  "ETYMOLOGY":"From Old French estable (adj. 'firm, constant'; n. 'building for animals'), ultimately from Latin stabilis ('firm, steady'), derived from the verb stare ('to stand'). The noun meaning relating to horses emerged from the sense of a firm, fixed place.",
+  "SINCE":"c. 1300 (adjective/noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"stable [sth]\nstable [sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Firmly established and unlikely to move, change, or fail.",
+      "DEF_ZH":"稳固的；稳定的；不易移动或改变的；可靠的。",
+      "SENT_EN":"The country has maintained a stable political system for decades.",
+      "SENT_ZH":"几十年来，该国一直保持着稳定的政治制度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steady",
+            "firm",
+            "secure",
+            "constant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unstable",
+            "volatile",
+            "shaky"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stable [sth] (medical/chemical)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "medical"
+      ],
+      "DEF_EN":"(Of a patient's condition or a chemical compound) not deteriorating or decomposing; resisting change.",
+      "DEF_ZH":"（病情或化学物质）稳定的；处于平衡状态的；抗分解的。",
+      "SENT_EN":"The patient was taken off the critical list once their vital signs were deemed stable.",
+      "SENT_ZH":"一旦病人的生命体征被判定稳定，他们就被从病危名单上移除。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "balanced",
+            "nonreactive",
+            "enduring"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "critical",
+            "reactive",
+            "labile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stable\nthe stable of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"A building set apart and adapted for keeping horses or other farm animals.",
+      "DEF_ZH":"马厩；畜舍。",
+      "SENT_EN":"He spent the morning mucking out the stable.",
+      "SENT_ZH":"他花了一上午的时间清理马厩。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "barn",
+            "stall",
+            "byre"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the stable of [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "business"
+      ],
+      "DEF_EN":"A collection of people, especially athletes, entertainers, or authors, managed, trained, or owned by the same organization or individual.",
+      "DEF_ZH":"（经纪人、公司代理的）一批受训或签约人员；（体育或娱乐界的）团队。",
+      "SENT_EN":"The agency boasts a stable of award-winning authors.",
+      "SENT_ZH":"这家机构拥有一批屡获殊荣的作家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "roster",
+            "cadre",
+            "team",
+            "group"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stable [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "specific context"
+      ],
+      "DEF_EN":"To put or keep (an animal, especially a horse) in a stable.",
+      "DEF_ZH":"将（牲畜）安置在马厩或畜舍中。",
+      "SENT_EN":"They stabled the horses at the nearest inn for the night.",
+      "SENT_ZH":"他们把马匹寄养在最近的旅店过夜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "house",
+            "lodge",
+            "keep"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

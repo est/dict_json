@@ -1,0 +1,151 @@
+{
+  "WORD":"well",
+  "IPA":"/wɛl/",
+  "CONJUGATES":"better (comparative) | best (superlative) | wells (3rd pers. sing.) | welling (pres. part.) | welled (past tense/participle)",
+  "ETYMOLOGY":"Derived from two distinct Old English words. Adverb/Adjective sense: From Old English *wel* (adverb) meaning 'satisfactorily, properly, in a good way,' from Proto-Germanic *waliz*. Noun/Verb sense (water source): From Old English *wella* or *wiella* (noun) meaning 'spring, stream, source of water,' related to *weallan* 'to bubble, boil.'",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[v] well",
+      "POS":"adv",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"In a satisfactory or successful manner; properly.",
+      "DEF_ZH":"令人满意地；妥善地；成功地。",
+      "SENT_EN":"The experiment went surprisingly well, exceeding all expectations.",
+      "SENT_ZH":"这次实验出乎意料地顺利，超出了所有预期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "satisfactorily",
+            "skillfully",
+            "properly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "badly",
+            "poorly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"is well",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"In a state of good health; healthy and sound.",
+      "DEF_ZH":"身体健康的；安好的。",
+      "SENT_EN":"After a week of rest, he felt quite well again.",
+      "SENT_ZH":"休息了一周后，他感觉身体又相当好了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "healthy",
+            "fine"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ill",
+            "sick",
+            "unwell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"well + [adj]\nwell + [v]",
+      "POS":"adv",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "common",
+        "modifier"
+      ],
+      "DEF_EN":"Thoroughly or carefully; to a considerable degree or extent.",
+      "DEF_ZH":"充分地；彻底地；在很大程度上。",
+      "SENT_EN":"You need to be well prepared for the exam.",
+      "SENT_ZH":"你需要为这次考试做好充分的准备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fully",
+            "deeply",
+            "considerably"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Well, [sentence]",
+      "POS":"interj",
+      "POS_TIP":"Interjection",
+      "TAGS":[
+        "core word",
+        "discourse marker"
+      ],
+      "DEF_EN":"Used to express surprise, hesitation, to introduce a statement, or to resume a conversation.",
+      "DEF_ZH":"（表示停顿、犹豫、开始或惊奇）嗯；好吧；那么。",
+      "SENT_EN":"Well, that was certainly unexpected news.",
+      "SENT_ZH":"嗯，这消息当然是出乎意料的。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a well for [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A deep hole or shaft dug or drilled into the ground to obtain water, oil, or gas.",
+      "DEF_ZH":"井（水井、油井、气井）。",
+      "SENT_EN":"The village relies on a single deep well for all its drinking water.",
+      "SENT_ZH":"这个村庄的所有饮用水都依赖一口深井。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "borehole",
+            "shaft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[liquid] wells up (in [sb])",
+      "POS":"vi + prep",
+      "POS_TIP":"Intransitive Verb followed by a preposition",
+      "TAGS":[
+        "medium frequency",
+        "figurative"
+      ],
+      "DEF_EN":"(Of a liquid or emotion) to rise to the surface and flow out.",
+      "DEF_ZH":"（液体或情感）涌出；冒出；溢出。",
+      "SENT_EN":"A sudden feeling of panic welled up inside her.",
+      "SENT_ZH":"一种突如其来的恐慌感在她内心涌现。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gush",
+            "spring",
+            "spout"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use across all registers."
+}

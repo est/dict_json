@@ -1,0 +1,105 @@
+{
+  "WORD":"CONSCIOUS",
+  "IPA":"/'kɑːnʃəs/",
+  "CONJUGATES":"conscious (adj) | consciously (adv) | consciousness (n)",
+  "ETYMOLOGY":"From Latin conscius ('knowing with others or oneself'), from com- ('with, together') + scire ('to know'). Used in English since the early 17th century.",
+  "SINCE":"c. 1620",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] be conscious",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"Awake and aware of one's surroundings, typically used when describing a patient or injury victim who is not unconscious.",
+      "DEF_ZH":"清醒的；有意识的；尚未昏迷的",
+      "SENT_EN":"The doctor confirmed that the patient was conscious and responsive to simple commands.",
+      "SENT_ZH":"医生确认病人清醒，并对简单的指令有反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "awake",
+            "responsive",
+            "sentient"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unconscious",
+            "comatose",
+            "asleep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"conscious of [sth/doing sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective followed by a preposition",
+      "TAGS":[
+        "core word",
+        "psychology",
+        "common"
+      ],
+      "DEF_EN":"Aware of or having knowledge of something; realizing or recognizing a fact, feeling, or situation.",
+      "DEF_ZH":"察觉到的；意识到 (某事或某种状态)",
+      "SENT_EN":"She was deeply conscious of the lack of experience in her new role.",
+      "SENT_ZH":"她深深地意识到自己在新的职位上缺乏经验。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aware",
+            "cognizant",
+            "mindful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "oblivious",
+            "unaware",
+            "ignorant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] conscious effort/decision",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "modifier",
+        "formal"
+      ],
+      "DEF_EN":"Done with intention or full realization; deliberate.",
+      "DEF_ZH":"故意的；有意识的；刻意的 (指行动或选择)",
+      "SENT_EN":"It takes a conscious effort to break bad habits.",
+      "SENT_ZH":"改掉坏习惯需要刻意的努力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intentional",
+            "deliberate",
+            "voluntary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "accidental",
+            "inadvertent",
+            "automatic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in medical and psychological contexts."
+}

@@ -1,0 +1,105 @@
+{
+  "WORD":"sketch",
+  "IPA":"/sketʃ/",
+  "CONJUGATES":"sketches | sketching | sketched",
+  "ETYMOLOGY":"From Dutch schets (drawing, design), likely via German Skizze, ultimately from Italian schizzo ('splash', 'sketch'), derived from schizzare ('to splash, to sketch').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (drawing)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "art",
+        "common"
+      ],
+      "DEF_EN":"A rough or unfinished drawing or painting, often made as a preliminary study.",
+      "DEF_ZH":"草图；速写；初步的描绘。",
+      "SENT_EN":"He made a quick sketch of the cathedral before the sun set.",
+      "SENT_ZH":"在日落之前，他快速地画了一张大教堂的速写。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "draft",
+            "outline",
+            "drawing",
+            "study"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sketch [sth]\nsketch [sb]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a quick, rough drawing or outline of something.",
+      "DEF_ZH":"画草图；勾勒；速写。",
+      "SENT_EN":"The architect sketched out the initial design on the whiteboard.",
+      "SENT_ZH":"那位建筑师在白板上勾勒出了初步的设计。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outline",
+            "draft",
+            "delineate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (performance\nliterature)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "theater",
+        "literature",
+        "common"
+      ],
+      "DEF_EN":"A short, often humorous play or performance, or a brief descriptive literary piece.",
+      "DEF_ZH":"幽默短剧；（文学）短文；小品。",
+      "SENT_EN":"The comedy troupe performed several satirical sketches about current politics.",
+      "SENT_ZH":"这个喜剧团表演了好几段关于时事政治的讽刺短剧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skit",
+            "vignette",
+            "scene"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sketch of [sth]",
+      "POS":"n + prep",
+      "POS_TIP":"noun + preposition",
+      "TAGS":[
+        "abstract",
+        "formal"
+      ],
+      "DEF_EN":"A brief or general account or description.",
+      "DEF_ZH":"概要；梗概；简短的描述。",
+      "SENT_EN":"The report provided a quick sketch of the financial situation.",
+      "SENT_ZH":"这份报告提供了财务状况的简要概述。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summary",
+            "overview",
+            "synopsis"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

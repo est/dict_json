@@ -1,0 +1,99 @@
+{
+  "WORD":"input",
+  "IPA":"/ˈɪnpʊt/",
+  "CONJUGATES":"Noun: inputs (plural) | Verb: inputs (3rd person singular present) | inputting (present participle) | input / inputted (past simple, past participle)",
+  "ETYMOLOGY":"From the prefix 'in-' (into) and the verb 'put'. The general noun sense ('what is put in') dates back to the late 17th century. The verb sense ('to put in') appeared in the mid-19th century. The widespread use for data/information, especially in computing, became prominent in the mid-20th century.",
+  "SINCE":"Mid-20th Century (especially in computing contexts)",
+  "MEANINGS":[
+    {
+      "PATTERN":"input (from [sb/sth] / into [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"Information, data, or energy fed into a system, computer, or process.",
+      "DEF_ZH":"输入；（提供给机器、系统等的）信息，数据，能量。",
+      "SENT_EN":"The computer needs more input to process the request.",
+      "SENT_ZH":"计算机需要更多输入来处理请求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data",
+            "information",
+            "raw data",
+            "feed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "output"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"input (on [sth])\nhave input (on [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A contribution of ideas, advice, or effort to a discussion, project, or decision.",
+      "DEF_ZH":"意见，建议；投入的精力或贡献。",
+      "SENT_EN":"We welcome your input on the new policy.",
+      "SENT_ZH":"我们欢迎您对这项新政策提出意见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contribution",
+            "suggestion",
+            "feedback",
+            "advice",
+            "opinion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"input [sth] (into [sth])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To put data or information into a computer or other electronic device.",
+      "DEF_ZH":"输入（数据、信息等）。",
+      "SENT_EN":"Please input your password into the system.",
+      "SENT_ZH":"请将您的密码输入系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enter",
+            "key in",
+            "feed in",
+            "type in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "output"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (especially computing and systems)"
+}

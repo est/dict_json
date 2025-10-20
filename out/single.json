@@ -1,0 +1,175 @@
+{
+  "WORD":"single",
+  "IPA":"/ˈsɪŋɡl̩/",
+  "CONJUGATES":"singles (n, v) | singled (v) | singling (v)",
+  "ETYMOLOGY":"From Old French sengle, from Latin singulus 'individual, single, separate'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"single",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not married or in a stable romantic relationship.",
+      "DEF_ZH":"未婚的；单身的",
+      "SENT_EN":"She has been single for five years since her last breakup.",
+      "SENT_ZH":"自从上次分手后，她已经单身五年了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unmarried",
+            "unattached",
+            "unwed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "married",
+            "wedded",
+            "coupled"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"single",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Only one; not one of several.",
+      "DEF_ZH":"单个的；唯一的",
+      "SENT_EN":"There wasn't a single cloud in the sky.",
+      "SENT_ZH":"天空中没有一片云彩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sole",
+            "lone",
+            "unique",
+            "individual"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "multiple",
+            "numerous",
+            "plural"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"single",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Designed, intended, or suitable for one person or item.",
+      "DEF_ZH":"供一人用的；单人的；单件的",
+      "SENT_EN":"I booked a single room at the hotel for my business trip.",
+      "SENT_ZH":"我为我的商务旅行在酒店订了一间单人房。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "individual",
+            "one-person"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "double",
+            "twin",
+            "multiple"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"single",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "music"
+      ],
+      "DEF_EN":"A recording of one song, especially one released separately from an album.",
+      "DEF_ZH":"单曲",
+      "SENT_EN":"Her new single is expected to top the charts next week.",
+      "SENT_ZH":"她的新单曲预计下周将登上榜首。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "album",
+            "EP",
+            "track"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"single out [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To choose someone or something from a group for special attention or treatment, often negative.",
+      "DEF_ZH":"从群体中选出（某人或某物）；点名批评/表扬",
+      "SENT_EN":"The teacher singled out Maria for her excellent essay.",
+      "SENT_ZH":"老师点名表扬了玛丽亚，因为她的论文写得非常出色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "select",
+            "pick",
+            "choose",
+            "identify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"single",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "baseball",
+        "cricket",
+        "tennis"
+      ],
+      "DEF_EN":"(Baseball) A hit which allows the batter to reach first base safely. (Cricket) A run scored by hitting the ball and running between the wickets once. (Tennis) A game played with one player on each side.",
+      "DEF_ZH":"(棒球) 一垒安打；(板球) 一分击球跑；(网球) 单打",
+      "SENT_EN":"He hit a single in the bottom of the ninth inning to load the bases.",
+      "SENT_ZH":"他在第九局下半打出了一垒安打，满垒了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "double",
+            "triple",
+            "home run",
+            "doubles"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

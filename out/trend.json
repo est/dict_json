@@ -1,0 +1,95 @@
+{
+  "WORD":"trend",
+  "IPA":"/trɛnd/",
+  "CONJUGATES":"trends | trending | trended",
+  "ETYMOLOGY":"From Old English *trendan* 'to turn, roll,' becoming established in the 16th century; the meaning 'general course or direction' solidified in the mid-19th century.",
+  "SINCE":"c. 1540",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (of fashion, culture, or data)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A general direction in which something is developing or changing, especially fashion, habits, or opinions.",
+      "DEF_ZH":"趋势；倾向；时尚。事物发展或改变的一般方向，尤指时尚、习惯或观点。",
+      "SENT_EN":"We need to study the current market trend before launching the new product.",
+      "SENT_ZH":"在新产品发布前，我们需要研究当前的市场趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fashion",
+            "tendency",
+            "vogue",
+            "direction"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fad",
+            "craze",
+            "microtrend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] trend [prep]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "internet"
+      ],
+      "DEF_EN":"To move or develop in a specified general direction; or (especially online) to be a current popular topic.",
+      "DEF_ZH":"趋向；倾向于某一方向发展；（在互联网上）成为热门话题。",
+      "SENT_EN":"The company's profits have been trending upward all quarter.",
+      "SENT_ZH":"该公司整个季度的利润一直呈上升趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incline",
+            "lean",
+            "gravitate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "viral",
+            "hot topic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[data] trend",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "statistical"
+      ],
+      "DEF_EN":"A statistical movement or persistent underlying movement in a time series of data.",
+      "DEF_ZH":"（统计学）趋势线；时间序列数据中持续的潜在运动。",
+      "SENT_EN":"Analysts identified a clear downward trend in housing starts over the last fiscal year.",
+      "SENT_ZH":"分析师确定了上一财年新屋开工量明显的下降趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drift",
+            "pattern",
+            "trajectory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, highly common in business, technology, and social contexts."
+}

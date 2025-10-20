@@ -1,0 +1,95 @@
+{
+  "WORD":"disturb",
+  "IPA":"/dɪˈstɜːrb/",
+  "CONJUGATES":"disturbs | disturbed | disturbing",
+  "ETYMOLOGY":"From Middle English disturben, from Old French destorber, from Latin disturbāre (dis- 'apart' + turbāre 'to throw into confusion, agitate').",
+  "SINCE":"c. 1300 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"disturb [sb]\ndisturb [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To interrupt the sleep, quiet, privacy, or peace of (someone or something).",
+      "DEF_ZH":"打扰; 扰乱 (某人的睡眠、安静或隐私); 使人不得安宁。",
+      "SENT_EN":"I apologize if I disturbed you with my phone call so late.",
+      "SENT_ZH":"如果我这么晚打电话打扰到您，我深感抱歉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bother",
+            "interrupt",
+            "disrupt",
+            "annoy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "calm",
+            "soothe",
+            "pacify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disturb [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; requires a direct object",
+      "TAGS":[
+        "emotion",
+        "psychology"
+      ],
+      "DEF_EN":"To cause anxiety, worry, or mental distress to (someone).",
+      "DEF_ZH":"使烦恼; 使不安; 使忧虑或感到困扰。",
+      "SENT_EN":"The doctor's diagnosis greatly disturbed the family.",
+      "SENT_ZH":"医生的诊断使这家人深感不安。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distress",
+            "trouble",
+            "worry",
+            "perturb"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "disturbed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disturb [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; requires a direct object",
+      "TAGS":[
+        "formal",
+        "physical action"
+      ],
+      "DEF_EN":"To change the position, arrangement, or natural state of something, often causing disorder.",
+      "DEF_ZH":"移动（使改变位置或状态）；扰动；弄乱。",
+      "SENT_EN":"Do not disturb the sediment at the bottom of the flask.",
+      "SENT_ZH":"不要扰动烧瓶底部的沉淀物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unsettle",
+            "displace",
+            "rearrange"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

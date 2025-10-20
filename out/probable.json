@@ -1,0 +1,70 @@
+{
+  "WORD":"probable",
+  "IPA":"/ˈprɒbəbəl/",
+  "CONJUGATES":"probabler | probablest | probably | probability",
+  "ETYMOLOGY":"From Latin probabilis ('approvable', 'credible'), derived from probare ('to test', 'to prove').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] probable",
+      "POS":"adj",
+      "POS_TIP":"adjective (a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Likely to happen or to be true; having a high degree of probability.",
+      "DEF_ZH":"很可能发生的；很有可能性的；可以预期的。",
+      "SENT_EN":"It is highly probable that we will experience delays during the peak season.",
+      "SENT_ZH":"在旺季期间，我们很有可能会遇到延误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "likely",
+            "expected",
+            "plausible",
+            "anticipated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "improbable",
+            "unlikely"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"probable [cause/result]",
+      "POS":"adj",
+      "POS_TIP":"adjective (a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it)",
+      "TAGS":[
+        "formal",
+        "law"
+      ],
+      "DEF_EN":"Providing sufficient reason or evidence to support a belief, though not certainty, often used in a legal context.",
+      "DEF_ZH":"有充分理由或证据支持的；有根据的（尤用于法律术语，如“合理根据”）。",
+      "SENT_EN":"The officer stated he had probable cause to make the traffic stop.",
+      "SENT_ZH":"警官声称他有合理根据进行交通拦截。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reasonable",
+            "justifiable",
+            "credible"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "probable cause"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in mathematical, legal, and formal academic contexts."
+}

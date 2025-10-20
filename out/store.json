@@ -1,0 +1,113 @@
+{
+  "WORD":"store",
+  "IPA":"/stɔːr/",
+  "CONJUGATES":"stores | storing | stored",
+  "ETYMOLOGY":"From Anglo-Norman and Old French 'estore' (meaning 'provision, supplies'), derived from Latin 'instaurare' ('to renew, restore, repair'), later influenced by Germanic sources. The sense of 'shop' developed from the idea of a place where goods are 'stored'.",
+  "SINCE":"c. 13th century (as noun, meaning 'supply/provisions'); c. 18th century (as noun, meaning 'shop')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] store [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To keep or save something for future use or until it is needed.",
+      "DEF_ZH":"存储；储存；保留（以备将来使用）",
+      "SENT_EN":"We need to store the extra food supplies in a cool, dry place.",
+      "SENT_ZH":"我们需要将多余的食物储存在阴凉干燥的地方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "keep",
+            "save",
+            "stockpile",
+            "hoard"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "discard",
+            "waste",
+            "use up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] store",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "commerce"
+      ],
+      "DEF_EN":"A shop or establishment where goods are sold to the public.",
+      "DEF_ZH":"商店；零售店",
+      "SENT_EN":"I bought these new shoes at the department store downtown.",
+      "SENT_ZH":"我在市中心的百货商店买了这双新鞋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shop",
+            "boutique",
+            "establishment",
+            "market"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] store",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A collection or quantity of something that is kept for future use; a supply.",
+      "DEF_ZH":"储藏物；储存量；储备",
+      "SENT_EN":"The squirrel had a large store of nuts for the winter.",
+      "SENT_ZH":"这只松鼠储存了大量的坚果以备过冬。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supply",
+            "reserve",
+            "stock",
+            "cache"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] store [data]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To record information or data onto a computer, disk, or other medium.",
+      "DEF_ZH":"（在计算机中）储存；存储（数据）",
+      "SENT_EN":"The server can store terabytes of data efficiently.",
+      "SENT_ZH":"该服务器可以有效地存储数万亿字节的数据。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "memory",
+            "hard drive",
+            "database"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, commerce, and computing."
+}

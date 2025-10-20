@@ -1,0 +1,93 @@
+{
+  "WORD":"digest",
+  "IPA":"/dɪˈdʒɛst/",
+  "CONJUGATES":"digests | digested | digesting (v.) | digests (n.)",
+  "ETYMOLOGY":"From Latin dīgerere ('to separate, distribute, dissolve'), formed from dī- (apart) + gerere ('to carry, bear'). The physiological sense came first.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"digest [food] [sth]",
+      "POS":"vtr | vit",
+      "POS_TIP":"verb transitive | verb intransitive",
+      "TAGS":[
+        "Core Word",
+        "Biology",
+        "Physiology"
+      ],
+      "DEF_EN":"To break down food, chemically and mechanically, in the digestive system so that it can be absorbed and used by the body.",
+      "DEF_ZH":"消化（食物）；在消化系统中分解食物，使其可被身体吸收和利用。",
+      "SENT_EN":"The doctor advised him to eat simple meals that are easy to digest.",
+      "SENT_ZH":"医生建议他吃容易消化的清淡食物。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"digest [information] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "Core Word",
+        "Figurative",
+        "Mental"
+      ],
+      "DEF_EN":"To absorb, understand, and assimilate new information or ideas thoroughly.",
+      "DEF_ZH":"理解；领会；融会贯通；充分吸收（信息或想法）。",
+      "SENT_EN":"I need a moment to digest all the implications of the new policy.",
+      "SENT_ZH":"我需要点时间来消化这项新政策的所有影响。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assimilate",
+            "absorb",
+            "comprehend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] digest [of sth]",
+      "POS":"nc",
+      "POS_TIP":"noun countable (Note: Noun pronunciation is usually /ˈdaɪdʒɛst/)",
+      "TAGS":[
+        "Core Word",
+        "Publishing",
+        "Formal"
+      ],
+      "DEF_EN":"A compilation, summary, or systematic collection of literary, legal, or informational material.",
+      "DEF_ZH":"文摘；摘要；汇编（尤指法律或期刊文章的概要）。",
+      "SENT_EN":"She subscribed to a monthly digest summarizing the latest scientific breakthroughs.",
+      "SENT_ZH":"她订阅了一份月度文摘，总结最新的科学突破。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summary",
+            "compendium",
+            "abstract"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Reader's Digest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"digest [insult] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "Figurative",
+        "Rare"
+      ],
+      "DEF_EN":"To endure or tolerate something unpleasant, such as an insult or hardship.",
+      "DEF_ZH":"忍受；默默承受（侮辱或不愉快的情况）。",
+      "SENT_EN":"It took him a week to digest the disappointment of the loss.",
+      "SENT_ZH":"他花了一周时间才平复败北带来的失望。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

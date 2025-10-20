@@ -1,0 +1,72 @@
+{
+  "WORD":"abnormal",
+  "IPA":"/æbˈnɔːrməl/",
+  "CONJUGATES":"abnormally (adv.) | abnormality (n.)",
+  "ETYMOLOGY":"From Latin ab- ('away from') + normalis ('in accordance with a rule'), ultimately from Latin norma ('carpenter's square, rule')",
+  "SINCE":"mid-19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is abnormal",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Deviating from what is standard, usual, or expected, typically in a way that is undesirable or worrying.",
+      "DEF_ZH":"与标准、通常或预期情况不同的，尤其指以一种不受欢迎或令人担忧的方式。",
+      "SENT_EN":"The patient's test results showed abnormal levels of certain enzymes.",
+      "SENT_ZH":"病人的测试结果显示某些酶的水平异常。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "irregular",
+            "unusual",
+            "atypical",
+            "deviant",
+            "peculiar"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "normal",
+            "standard",
+            "regular",
+            "usual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is abnormal",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "statistics"
+      ],
+      "DEF_EN":"In statistics, referring to data or distribution that significantly departs from a normal distribution.",
+      "DEF_ZH":"在统计学中，指与正态分布显著偏离的数据或分布。",
+      "SENT_EN":"The survey data showed an abnormal distribution, requiring non-parametric testing.",
+      "SENT_ZH":"该调查数据显示出异常分布，需要进行非参数检验。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "non-normal",
+            "skewed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "normal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

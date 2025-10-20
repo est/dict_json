@@ -1,0 +1,131 @@
+{
+  "WORD":"suit",
+  "IPA":"/suːt/",
+  "CONJUGATES":"suits (n. pl.) | suits (v. pres.) | suiting (v. pres. p.) | suited (v. past)",
+  "ETYMOLOGY":"From Old French suite ('a following, retinue'), feminine past participle of suivre 'to follow', ultimately from Latin sequī 'to follow'.",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "clothing",
+        "common"
+      ],
+      "DEF_EN":"A set of outer clothes made of the same fabric, usually consisting of a jacket and trousers or a skirt.",
+      "DEF_ZH":"一套正装；西装（通常包括同种面料的外套和裤子或裙子）。",
+      "SENT_EN":"He bought a new tailored suit for the company banquet.",
+      "SENT_ZH":"他为公司宴会买了一套新的定制西装。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ensemble",
+            "attire",
+            "costume"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] suits [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "appropriateness"
+      ],
+      "DEF_EN":"To be appropriate, acceptable, or convenient for someone or something.",
+      "DEF_ZH":"适合；方便；符合（要求或条件）。",
+      "SENT_EN":"We can meet at 10 AM, if that suits your schedule.",
+      "SENT_ZH":"如果我们能在上午10点见面，这适合你的日程安排吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fit",
+            "match",
+            "agree"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inconvenience"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] suits [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "style",
+        "fashion"
+      ],
+      "DEF_EN":"To look good or attractive on someone.",
+      "DEF_ZH":"（颜色、款式等）衬托（某人）；使（某人）显得漂亮。",
+      "SENT_EN":"The color red definitely suits you better than blue.",
+      "SENT_ZH":"红色肯定比蓝色更衬你。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flatter",
+            "complement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A legal action brought in court by one party against another.",
+      "DEF_ZH":"诉讼；起诉；官司。",
+      "SENT_EN":"The company decided to file a suit for copyright infringement.",
+      "SENT_ZH":"该公司决定提起版权侵权诉讼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lawsuit",
+            "case",
+            "action"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the four suits of cards",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "card games"
+      ],
+      "DEF_EN":"Any of the four divisions (clubs, diamonds, hearts, spades) of a pack of playing cards.",
+      "DEF_ZH":"（扑克牌的）花色。",
+      "SENT_EN":"He needs to draw a card from the heart suit to complete his sequence.",
+      "SENT_ZH":"他需要从红心花色中抽一张牌来完成他的序列。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spade",
+            "heart",
+            "diamond",
+            "club"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general use (especially business, fashion, and legal contexts)"
+}

@@ -1,0 +1,131 @@
+{
+  "WORD":"skin",
+  "IPA":"/ˈskɪn/",
+  "CONJUGATES":"skins | skinned | skinning",
+  "ETYMOLOGY":"From Old Norse skinn ('animal hide, fur'). It largely replaced the Old English word hyd (hide).",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s skin\n[sth]'s skin",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "biology"
+      ],
+      "DEF_EN":"The soft, flexible external covering of a human or other animal body.",
+      "DEF_ZH":"皮肤；表皮。覆盖在人类或动物身体外部的柔软、有弹性的组织。",
+      "SENT_EN":"Using moisturizer helps keep your skin soft and hydrated.",
+      "SENT_ZH":"使用润肤霜有助于保持皮肤柔软湿润。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "epidermis",
+            "dermis",
+            "hide"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "complexion",
+            "pelt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the skin of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "food"
+      ],
+      "DEF_EN":"The outer layer or covering of a fruit, vegetable, or other non-animal substance.",
+      "DEF_ZH":"（水果、蔬菜、香肠等的）皮；（液体表面的）薄膜。",
+      "SENT_EN":"He peeled the potato skin before boiling them.",
+      "SENT_ZH":"他在煮土豆之前剥掉了土豆皮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peel",
+            "rind",
+            "husk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skin [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: requires a direct object",
+      "TAGS":[
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To remove the skin or hide from an animal or the covering from a fruit/vegetable.",
+      "DEF_ZH":"剥皮；去皮。（通常指动物或水果）",
+      "SENT_EN":"The chef demonstrated how to properly skin a fish.",
+      "SENT_ZH":"厨师演示了如何正确给鱼剥皮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flay",
+            "peel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skin [a part of sb's body]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: requires a direct object",
+      "TAGS":[
+        "action",
+        "injury"
+      ],
+      "DEF_EN":"To graze or abrade the skin, typically a minor surface injury caused by a fall or scrape.",
+      "DEF_ZH":"擦破，蹭破（皮肤）。",
+      "SENT_EN":"The boy fell and skinned his knee on the sidewalk.",
+      "SENT_ZH":"那个男孩摔倒了，在人行道上擦破了膝盖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graze",
+            "scrape",
+            "abrade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skin (used attributively)",
+      "POS":"n.",
+      "POS_TIP":"noun, used before another noun",
+      "TAGS":[
+        "figurative",
+        "computer science"
+      ],
+      "DEF_EN":"A customizable graphical user interface or visual theme used in software or video games.",
+      "DEF_ZH":"皮肤；外观。（指软件、界面或游戏的自定义视觉主题）",
+      "SENT_EN":"She downloaded a new skin for her media player.",
+      "SENT_ZH":"她为她的媒体播放器下载了一个新的界面皮肤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "theme",
+            "interface",
+            "GUI"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in medicine, biology, and colloquial expressions."
+}

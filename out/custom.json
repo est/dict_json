@@ -1,0 +1,112 @@
+{
+  "WORD":"custom",
+  "IPA":"/ˈkʌstəm/",
+  "CONJUGATES":"customs (n. pl.) | customize (v.) | customized (v. past/pp) | custom-made (adj.)",
+  "ETYMOLOGY":"From Old French costume (custom, habit), from Vulgar Latin consuetumen, based on Latin consuetudo (habit, usage), ultimately from consuetus (accustomed).",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "tradition",
+        "formal"
+      ],
+      "DEF_EN":"A traditional and widely accepted way of behaving or doing something specific to a particular society, place, or time.",
+      "DEF_ZH":"习俗；惯例；风俗。一个特定社会、地点或时间普遍接受的行为或做事方式。",
+      "SENT_EN":"It is the custom in many European countries to have dinner quite late.",
+      "SENT_ZH":"在许多欧洲国家，很晚吃晚餐是一种习俗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tradition",
+            "practice",
+            "convention",
+            "usage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] custom [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "business",
+        "design",
+        "modern usage"
+      ],
+      "DEF_EN":"Made or designed specifically for a particular customer or user; bespoke or tailor-made.",
+      "DEF_ZH":"定制的；量身定做的。专为特定客户或用户制作或设计的。",
+      "SENT_EN":"The client required a custom software solution for managing their inventory.",
+      "SENT_ZH":"客户需要一个定制的软件解决方案来管理他们的库存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bespoke",
+            "tailor-made",
+            "personalized"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "customize",
+            "customization"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the customs",
+      "POS":"n pl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "government",
+        "legal",
+        "commerce"
+      ],
+      "DEF_EN":"The official department responsible for collecting duties and controlling the flow of goods into and out of a country.",
+      "DEF_ZH":"海关；关税。负责征收关税和控制货物进出国家流动的官方部门。",
+      "SENT_EN":"We had to open our bags for inspection at customs.",
+      "SENT_ZH":"我们必须在海关打开行李接受检查。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "duty",
+            "tariff",
+            "border"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lose/gain custom",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "business",
+        "dated"
+      ],
+      "DEF_EN":"Regular support or patronage given by customers to a business.",
+      "DEF_ZH":"惠顾；生意。顾客对某家企业给予的经常性支持或光顾。",
+      "SENT_EN":"The shop lost a lot of custom when the large chain store opened nearby.",
+      "SENT_ZH":"附近的大型连锁店开业后，这家商店失去了很多生意。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "customer",
+            "clientele"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Business, Legal"
+}

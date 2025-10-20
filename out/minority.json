@@ -1,0 +1,103 @@
+{
+  "WORD":"minority",
+  "IPA":"/mɪˈnɒrɪti/",
+  "CONJUGATES":"minorities (pl.)",
+  "ETYMOLOGY":"From Latin minor 'smaller, lesser', combined with the suffix -itas (forming nouns of state or condition), via Old French minorité or Medieval Latin minoritas.",
+  "SINCE":"Late 15th century (c. 1483)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (the smaller number)",
+      "POS":"Noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Quantitative"
+      ],
+      "DEF_EN":"The smaller number or part; a segment of a group or population that constitutes less than half.",
+      "DEF_ZH":"少数；不足半数的部分。",
+      "SENT_EN":"A minority of students failed the exam, meaning most of them passed.",
+      "SENT_ZH":"少数学生考试不及格，这意味着大多数人都通过了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "small group",
+            "handful",
+            "few"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "majority",
+            "bulk",
+            "most"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (an identifiable social group)",
+      "POS":"Noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "Social Science",
+        "Political",
+        "Common"
+      ],
+      "DEF_EN":"A relatively small group of people within a population, distinguished from the others by race, religion, language, or political affiliation, and often subject to different treatment.",
+      "DEF_ZH":"少数群体；少数民族（指在种族、宗教、性别或政治上与多数群体不同的人群）。",
+      "SENT_EN":"Ethnic minorities often face challenges in accessing fair housing and employment opportunities.",
+      "SENT_ZH":"少数民族在获得公平住房和就业机会方面经常面临挑战。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subgroup",
+            "marginalized group"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "diversity",
+            "ethnicity",
+            "demographics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in/during [the] [sb] (legal status)",
+      "POS":"Noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "Legal",
+        "Formal",
+        "Old usage"
+      ],
+      "DEF_EN":"The state or period of being under the legal age of full responsibility; the condition of being a minor.",
+      "DEF_ZH":"未成年状态；法定年龄以下（通常指18岁或21岁以下）。",
+      "SENT_EN":"A person cannot sign a binding contract during their minority.",
+      "SENT_ZH":"一个人在其未成年期间不能签订具有约束力的合同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nonage",
+            "legal infancy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "majority",
+            "adulthood"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Political, Legal"
+}

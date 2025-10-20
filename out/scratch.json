@@ -1,0 +1,123 @@
+{
+  "WORD":"scratch",
+  "IPA":"/skrætʃ/",
+  "CONJUGATES":"scratches | scratching | scratched | scratches (n. pl.)",
+  "ETYMOLOGY":"From Middle English scracchen or skrachen, probably influenced by or related to Middle Dutch kratsen (to scratch, scrape). Possibly of imitative origin.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"scratch [sth] (with [sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a shallow, narrow mark or incision on a surface with a sharp object, claw, or rough material.",
+      "DEF_ZH":"用尖锐物、爪子或粗糙材料在物体表面留下浅而窄的痕迹或切口；刮伤；划伤。",
+      "SENT_EN":"The cat started scratching the sofa again.",
+      "SENT_ZH":"那只猫又开始抓沙发了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scrape",
+            "graze",
+            "score",
+            "abrade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a scratch\nseveral scratches",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A mark, abrasion, or superficial injury caused by scratching.",
+      "DEF_ZH":"刮痕；划痕；轻微的伤口。",
+      "SENT_EN":"He checked his paintwork and found a deep scratch on the hood.",
+      "SENT_ZH":"他检查了一下他的油漆，发现引擎盖上有一道很深的划痕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nick",
+            "gash",
+            "score"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scratch [oneself/sb/sth] (for relief)",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To rub or scrape the skin with fingernails to relieve itching.",
+      "DEF_ZH":"（为减轻瘙痒而）用指甲抓挠皮肤。",
+      "SENT_EN":"She was constantly scratching her arm where the rash had developed.",
+      "SENT_ZH":"她不断地抓挠她长皮疹的胳膊。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "itch",
+            "rub"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scratch [sb/sth] (from competition)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "sports",
+        "idiomatic"
+      ],
+      "DEF_EN":"To withdraw a competitor or entry from a race or competition.",
+      "DEF_ZH":"使（参赛者或参赛项目）退出比赛；取消参赛资格。",
+      "SENT_EN":"They had to scratch the injured runner from the marathon list.",
+      "SENT_ZH":"他们不得不把受伤的跑者从马拉松名单中划去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "withdraw",
+            "cancel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"start from scratch\nbuild from scratch",
+      "POS":"nu",
+      "POS_TIP":"Uncountable Noun (used in fixed phrases)",
+      "TAGS":[
+        "idiomatic",
+        "phrase"
+      ],
+      "DEF_EN":"The starting point, especially when beginning something entirely new without any previous preparation, materials, or advantage (as in 'from scratch').",
+      "DEF_ZH":"起点；零开始（尤指没有预先准备或基础）。",
+      "SENT_EN":"We had to design the entire system from scratch.",
+      "SENT_ZH":"我们必须从零开始设计整个系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beginning",
+            "start",
+            "origin"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific idiomatic uses in sports and cooking/design ('from scratch')."
+}

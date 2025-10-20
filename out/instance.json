@@ -1,0 +1,109 @@
+{
+  "WORD":"instance",
+  "IPA":"/ˈɪnstəns/",
+  "CONJUGATES":"instances (n., pl.) | instancing (v., pr. p.) | instanced (v., p. t.)",
+  "ETYMOLOGY":"From Old French instance (urgency, pressing request), from Latin instantia (presence, persistence), derived from instāre (to stand near, be urgent), from in- ('in, on') + stāre ('to stand').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an instance of sth]\n[in this instance]",
+      "POS":"n. (countable)",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A particular occurrence or example of something.",
+      "DEF_ZH":"事例；实例；情形；情况。",
+      "SENT_EN":"This is a perfect instance of why clear communication is essential.",
+      "SENT_ZH":"这是一个说明清晰沟通为何至关重要的完美实例。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "example",
+            "case",
+            "occurrence",
+            "occasion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "situation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[for instance]",
+      "POS":"adv. phrase",
+      "POS_TIP":"adverbial phrase",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Used to introduce an example; for example.",
+      "DEF_ZH":"例如；譬如；比方说。",
+      "SENT_EN":"We need better data entry controls; for instance, we could use dropdown menus.",
+      "SENT_ZH":"我们需要更好的数据录入控制；例如，我们可以使用下拉菜单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "for example",
+            "e.g.",
+            "such as"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an instance of a class]",
+      "POS":"n. (countable)",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In object-oriented programming, a concrete object created based on a class (blueprint).",
+      "DEF_ZH":"（计算机科学、面向对象编程中）一个基于类创建的具体对象或实现。",
+      "SENT_EN":"When the program starts, it initializes a single instance of the connection manager class.",
+      "SENT_ZH":"程序启动时，它会初始化连接管理器类的单个实例。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "object",
+            "class",
+            "prototype"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[instance sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "formal",
+        "rare"
+      ],
+      "DEF_EN":"To cite or mention as an example.",
+      "DEF_ZH":"引证；举例说明。",
+      "SENT_EN":"The professor instanced several historical texts during his lecture.",
+      "SENT_ZH":"教授在讲座中举例说明了几篇历史文献。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exemplify",
+            "cite",
+            "adduce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in all registers; technical in computing contexts."
+}

@@ -1,0 +1,92 @@
+{
+  "WORD":"spark",
+  "IPA":"/spɑːrk/",
+  "CONJUGATES":"sparks | sparking | sparked",
+  "ETYMOLOGY":"From Old English spearca, first attested around the late 13th century, possibly related to Middle Low German sparke.",
+  "SINCE":"c. 1290s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] spark [of sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (名词)",
+      "TAGS":[
+        "core word",
+        "physical"
+      ],
+      "DEF_EN":"A small, glowing particle thrown off by a burning substance or produced by friction or electricity.",
+      "DEF_ZH":"火花；电火花；火星。",
+      "SENT_EN":"We watched the fireworks shower sparks down onto the field.",
+      "SENT_ZH":"我们看着烟花将火花洒向田野。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"spark [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (及物动词)",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To set off or trigger an event, reaction, or emotion.",
+      "DEF_ZH":"触发；引发；煽动；激起。",
+      "SENT_EN":"The announcement sparked widespread protests across the capital.",
+      "SENT_ZH":"这项声明在首都引发了广泛的抗议活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trigger",
+            "ignite",
+            "provoke",
+            "instigate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "quell",
+            "dampen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] spark [of sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (名词)",
+      "TAGS":[
+        "abstract",
+        "idiomatic"
+      ],
+      "DEF_EN":"A small trace or indication of a specified quality, feeling, or life.",
+      "DEF_ZH":"一丝；一点点（希望、兴趣、生命迹象）。",
+      "SENT_EN":"She still had a spark of rebellion left in her.",
+      "SENT_ZH":"她心中仍留有一丝反叛精神。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glimmer",
+            "hint",
+            "trace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spark",
+      "POS":"vi | vtr",
+      "POS_TIP":"Intransitive verb (不及物动词) | Transitive verb (及物动词)",
+      "TAGS":[
+        "technical",
+        "physical"
+      ],
+      "DEF_EN":"To emit or produce sparks; to produce an electric discharge.",
+      "DEF_ZH":"发出火花；放电。",
+      "SENT_EN":"The cable sparked dangerously when it rubbed against the exposed pipe.",
+      "SENT_ZH":"电缆接触到暴露的管道时，危险地放电。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common across general, scientific, and figurative language."
+}

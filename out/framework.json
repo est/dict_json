@@ -1,0 +1,82 @@
+{
+  "WORD":"framework",
+  "IPA":"/ˈfreɪm.wɜːrk/",
+  "CONJUGATES":"frameworks",
+  "ETYMOLOGY":"Compound of 'frame' (from Old English framian 'to profit, avail') and 'work' (from Old English weorc 'something done, action'). First used to describe the structure supporting a building.",
+  "SINCE":"Late 16th century (circa 1590s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A basic structure underlying a system, concept, or text; a set of standards, assumptions, or tools used to govern an approach.",
+      "DEF_ZH":"支撑某个系统、概念或文本的基本结构；一套用于管理方法论的标准、假设或工具。",
+      "SENT_EN":"The company developed a new ethical framework for decision-making.",
+      "SENT_ZH":"该公司为决策制定了一个新的道德框架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "structure",
+            "system",
+            "scheme",
+            "model",
+            "context"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In programming, a foundational set of tools, libraries, and protocols that provides a structure for developing software applications.",
+      "DEF_ZH":"在编程中，一组基础的工具、库和协议，为开发软件应用程序提供结构。",
+      "SENT_EN":"We chose the React framework for building the user interface.",
+      "SENT_ZH":"我们选择了 React 框架来构建用户界面。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "library",
+            "API",
+            "platform"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "concrete",
+        "architecture"
+      ],
+      "DEF_EN":"An open structure or fundamental supporting structure, often for a building or machine.",
+      "DEF_ZH":"开放式结构或基本支撑结构，通常指建筑物或机器的骨架。",
+      "SENT_EN":"The steel framework of the skyscraper was visible before the cladding began.",
+      "SENT_ZH":"摩天大楼的钢框架在开始覆盖外墙之前清晰可见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skeleton",
+            "frame",
+            "shell"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal, technical, and general usage"
+}

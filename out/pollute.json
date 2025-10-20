@@ -1,0 +1,87 @@
+{
+  "WORD":"pollute",
+  "IPA":"/pəˈluːt/",
+  "CONJUGATES":"pollutes | polluting | polluted",
+  "ETYMOLOGY":"From Latin polluere, variant of polluere (pollūs 'to soil, defile, pollute'), likely related to lutum 'mud, dirt'.",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"pollute [sth] [with sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "environmental"
+      ],
+      "DEF_EN":"To make something, especially water or the atmosphere, dirty or harmful by adding waste or other substances.",
+      "DEF_ZH":"（尤其指水或空气）污染；弄脏；毒害。",
+      "SENT_EN":"Factories continue to pollute the river with toxic chemicals.",
+      "SENT_ZH":"工厂持续用有毒化学物质污染这条河流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contaminate",
+            "taint",
+            "defile",
+            "foul"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cleanse",
+            "purify",
+            "sanitize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pollute [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "figurative",
+        "less common"
+      ],
+      "DEF_EN":"To corrupt or morally defile someone or something, especially involving ideas or language.",
+      "DEF_ZH":"腐蚀；败坏；亵渎（思想、语言等）。",
+      "SENT_EN":"Some argue that excessive media violence pollutes the minds of young viewers.",
+      "SENT_ZH":"一些人认为过度的媒体暴力败坏了年轻观众的心灵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "corrupt",
+            "pervert",
+            "debase"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "blaspheme",
+            "profane"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pollute [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "archaic",
+        "religious"
+      ],
+      "DEF_EN":"To commit an act of ritual impurity or defilement.",
+      "DEF_ZH":"（古语）玷污；行不洁之举（指宗教或礼仪上的）。",
+      "SENT_EN":"The ancient texts warned against acts that would pollute the holy temple.",
+      "SENT_ZH":"古籍警告不要做出任何会玷污圣殿的行为。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use, particularly in environmental and social contexts."
+}

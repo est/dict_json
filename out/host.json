@@ -1,0 +1,151 @@
+{
+  "WORD":"host",
+  "IPA":"/hoʊst/",
+  "CONJUGATES":"hosts | hosting | hosted",
+  "ETYMOLOGY":"For Meanings 1-4: From Old French hoste (guest, host), ultimately from Latin hospes (stranger, guest, host).\r\nFor Meaning 5 (Religion): From Latin hostia ('sacrificial victim').",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] host (person receiving guests)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who receives or entertains guests, or who introduces a television or radio program, or presides over an event.",
+      "DEF_ZH":"招待客人的人；（电视或活动）主持人；东道主。",
+      "SENT_EN":"The talk show host interviewed the famous author about his new book.",
+      "SENT_ZH":"脱口秀主持人采访了那位著名作家关于他的新书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emcee",
+            "presenter",
+            "greeter"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "guest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"host [sth]\nhost [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To organize and present an event, or to receive and entertain guests or visitors.",
+      "DEF_ZH":"主办（活动）；招待（客人或访客）。",
+      "SENT_EN":"Japan will host the next international summit.",
+      "SENT_ZH":"日本将主办下一次国际峰会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stage",
+            "organize",
+            "welcome"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] host (computing)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specialized",
+        "computing"
+      ],
+      "DEF_EN":"A computer or server that connects other computers (clients) to a network, often providing services or data.",
+      "DEF_ZH":"主机；服务器（连接其他客户端到网络的计算机）。",
+      "SENT_EN":"We need to check the IP address of the remote host.",
+      "SENT_ZH":"我们需要检查远程主机的IP地址。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "server",
+            "client",
+            "node"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] host (biology)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specialized",
+        "biology"
+      ],
+      "DEF_EN":"An animal or plant on which a parasite or symbiont lives, providing food or shelter.",
+      "DEF_ZH":"宿主（供寄生虫、共生生物等寄生或生活的生物体）。",
+      "SENT_EN":"Mosquitoes act as the host for the malaria parasite.",
+      "SENT_ZH":"蚊子充当疟疾寄生虫的宿主。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "parasite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a host of [sth] (multitude)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "literary",
+        "idiomatic"
+      ],
+      "DEF_EN":"A great number of people or things.",
+      "DEF_ZH":"许多；大批；群。",
+      "SENT_EN":"The new product launch received a host of positive reviews.",
+      "SENT_ZH":"这款新产品发布后收到了大量的好评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "multitude",
+            "legion",
+            "throng"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Host (religion)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specialized",
+        "religion"
+      ],
+      "DEF_EN":"In the Catholic Church, the bread or wafer consecrated during the Eucharist (Holy Communion).",
+      "DEF_ZH":"圣体（天主教中祝圣的饼或面饼，代表基督的身体）。",
+      "SENT_EN":"Parishioners received the Host during the service.",
+      "SENT_ZH":"教区居民在仪式上领受了圣体。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Eucharist",
+            "Communion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, specialized (Computing, Biology, Religion)"
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"option",
+  "IPA":"/ˈɒpʃən/",
+  "CONJUGATES":"options",
+  "ETYMOLOGY":"From Latin optiōnem (nominative optiō) 'a choosing, choice, free choice; liberty, power to choose,' from optare 'to choose, desire, wish.'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"option [for sth]\noption [of doing sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A choice or possibility.",
+      "DEF_ZH":"一种选择或可能性。",
+      "SENT_EN":"You have two options: either stay or go.",
+      "SENT_ZH":"你有两个选择：要么留下，要么离开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "choice",
+            "alternative",
+            "possibility"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "necessity",
+            "obligation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an option to buy/sell [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific (finance)",
+        "common"
+      ],
+      "DEF_EN":"The right to buy or sell something, especially shares or currency, at a fixed price within a specified period.",
+      "DEF_ZH":"在特定时间内以固定价格购买或出售某物（特别是股票或货币）的权利。",
+      "SENT_EN":"The company offered stock options to its employees.",
+      "SENT_ZH":"公司向其员工提供了股票期权。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "derivative",
+            "future",
+            "warrant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"program options\nmenu options",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific (computing)",
+        "common"
+      ],
+      "DEF_EN":"A configurable setting or preference within a computer program or system.",
+      "DEF_ZH":"计算机程序或系统中的可配置设置或偏好。",
+      "SENT_EN":"You can change the display options in the settings menu.",
+      "SENT_ZH":"您可以在设置菜单中更改显示选项。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "setting",
+            "preference",
+            "configuration"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

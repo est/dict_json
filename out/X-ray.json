@@ -1,0 +1,91 @@
+{
+  "WORD":"X-ray",
+  "IPA":"/ˈɛksreɪ/",
+  "CONJUGATES":"X-rays (n, pl) | X-rays (v, 3rd sing) | X-rayed (v, past) | X-raying (v, present part)",
+  "ETYMOLOGY":"Coined in 1895 by German physicist Wilhelm Conrad Röntgen, who used 'X' to denote an unknown type of radiation (X-Strahlung) because its nature was not yet understood.",
+  "SINCE":"1895",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (countable or uncountable)",
+      "TAGS":[
+        "Core word",
+        "Scientific",
+        "Medical"
+      ],
+      "DEF_EN":"A form of electromagnetic radiation, high in energy and short in wavelength, capable of passing through many materials opaque to light.",
+      "DEF_ZH":"一种高能、短波长的电磁辐射，能够穿透许多对可见光不透明的物质。",
+      "SENT_EN":"The invention of the X-ray revolutionized medical diagnostics.",
+      "SENT_ZH":"X射线的发明彻底改变了医学诊断。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "Roentgen ray",
+            "X-radiation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gamma ray",
+            "radiology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an X-ray",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Common",
+        "Medical"
+      ],
+      "DEF_EN":"A photographic image produced by using X-rays, typically used to view the internal structure of a body or object.",
+      "DEF_ZH":"使用X射线拍摄的照片或图像，通常用于查看身体或物体的内部结构。",
+      "SENT_EN":"The doctor took an X-ray of my ankle to confirm the fracture.",
+      "SENT_ZH":"医生给我脚踝拍了X光片以确认骨折。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "radiograph",
+            "scan"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "MRI",
+            "CT scan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"X-ray [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "Common",
+        "Technical"
+      ],
+      "DEF_EN":"To examine, photograph, or treat someone or something using X-rays.",
+      "DEF_ZH":"使用X射线检查、拍摄或处理某人或某物。",
+      "SENT_EN":"Security staff X-ray every piece of luggage before boarding.",
+      "SENT_ZH":"安检人员在登机前会对每一件行李进行X光检查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scan",
+            "image"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Scientific"
+}

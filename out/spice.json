@@ -1,0 +1,128 @@
+{
+  "WORD":"spice",
+  "IPA":"/spaɪs/",
+  "CONJUGATES":"spices | spiced | spicing",
+  "ETYMOLOGY":"From Old French espice (plural espices), from Latin species ('kind, sort, special kind of goods'), which in Late Latin came to mean 'spices'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"spice",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "culinary"
+      ],
+      "DEF_EN":"An aromatic or pungent vegetable substance (e.g., pepper, ginger, cloves, cinnamon) used to flavor food.",
+      "DEF_ZH":"一种芳香或辛辣的植物性物质（如胡椒、姜、丁香、肉桂），用于给食物调味。",
+      "SENT_EN":"She added a variety of exotic spices to the curry.",
+      "SENT_ZH":"她往咖喱里加了各种异国香料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seasoning",
+            "flavoring",
+            "condiment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "herb",
+            "flavor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spice",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Something that adds interest, excitement, or zest to life or a situation.",
+      "DEF_ZH":"为生活或某个情境增添趣味、刺激或活力的事物。",
+      "SENT_EN":"Variety is the spice of life.",
+      "SENT_ZH":"多样性是生活的调味品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excitement",
+            "zest",
+            "kick",
+            "flair",
+            "vigor"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "monotony",
+            "dullness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spice [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes an object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "culinary"
+      ],
+      "DEF_EN":"To add spice to food or drink to flavor it.",
+      "DEF_ZH":"给食物或饮料加香料调味。",
+      "SENT_EN":"He spiced the chicken with chili and garlic.",
+      "SENT_ZH":"他用辣椒和大蒜给鸡肉调味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "season",
+            "flavor",
+            "infuse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spice [sth] up",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb followed by an adverbial particle",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To make something more interesting, exciting, or lively.",
+      "DEF_ZH":"使某事变得更有趣、更刺激或更生动。",
+      "SENT_EN":"She tried to spice up her presentation with some interactive elements.",
+      "SENT_ZH":"她试图通过一些互动元素来让她的演讲更生动有趣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enliven",
+            "liven up",
+            "excite",
+            "energize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dull",
+            "bore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

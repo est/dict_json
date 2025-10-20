@@ -1,0 +1,133 @@
+{
+  "WORD":"lead",
+  "IPA":"/liːd/",
+  "CONJUGATES":"leads (v. 3rd singular) | leading (v. present participle) | led (v. past tense/past participle) | leads (n. plural)",
+  "ETYMOLOGY":"Two distinct origins: 1. (Verb: To guide) From Old English 'lædan' (to guide, show the way), causative of 'līðan' (to travel). 2. (Noun: Metal) From Old English 'lēad', of Germanic origin, relating to the heavy metal.",
+  "SINCE":"Pre-1000 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"lead [sb]\nlead [sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"vtr (transitive verb) | vitr (intransitive verb)",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To conduct, guide, or show the way for a person or group by going in front; to command or direct.",
+      "DEF_ZH":"带领；引导；引路；领导。",
+      "SENT_EN":"The general was prepared to lead his troops into battle.",
+      "SENT_ZH":"将军准备带领他的部队投入战斗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guide",
+            "direct",
+            "command",
+            "pilot"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "follow",
+            "trail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lead to [sth]",
+      "POS":"vitr + prep",
+      "POS_TIP":"vitr (intransitive verb) + prep (preposition)",
+      "TAGS":[
+        "Common",
+        "Figurative"
+      ],
+      "DEF_EN":"To result in or cause a specified outcome or consequence.",
+      "DEF_ZH":"导致；造成（某种结果或后果）。",
+      "SENT_EN":"Poor financial planning can often lead to bankruptcy.",
+      "SENT_ZH":"糟糕的财务规划往往会导致破产。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "result in",
+            "cause",
+            "contribute to",
+            "trigger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the lead\na lead",
+      "POS":"nu | nc",
+      "POS_TIP":"nu (uncountable noun) | nc (countable noun)",
+      "TAGS":[
+        "Common",
+        "Competition"
+      ],
+      "DEF_EN":"The position of being ahead in a race, competition, or game; the amount of advantage held.",
+      "DEF_ZH":"领先地位；优势；领先的距离或分数。",
+      "SENT_EN":"Our team took a five-point lead in the final quarter.",
+      "SENT_ZH":"我队在最后一节取得了五分的领先优势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "forefront",
+            "advantage",
+            "precedence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lead (element)",
+      "POS":"nu",
+      "POS_TIP":"nu (uncountable noun). Note: In this meaning, the word is usually pronounced /lɛd/",
+      "TAGS":[
+        "Chemistry",
+        "Material"
+      ],
+      "DEF_EN":"A heavy, soft, gray metallic element (symbol Pb, atomic number 82) that is toxic, historically used in pipes, paints, and weights.",
+      "DEF_ZH":"铅（一种有毒的重质软灰色金属元素，元素符号 Pb）。",
+      "SENT_EN":"The old house was inspected for lead paint.",
+      "SENT_ZH":"那栋老房子被检查是否有含铅油漆。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "plumbum",
+            "poisoning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a lead (cable)\na lead (leash)",
+      "POS":"nc",
+      "POS_TIP":"nc (countable noun)",
+      "TAGS":[
+        "British English",
+        "Technical"
+      ],
+      "DEF_EN":"A conductor or cable used to connect an electrical device; a strap or chain for restraining and guiding an animal.",
+      "DEF_ZH":"电线；连接导线；（动物的）牵引绳。",
+      "SENT_EN":"He tripped over the amplifier lead.",
+      "SENT_ZH":"他被扩音器连接线绊倒了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cable",
+            "cord",
+            "leash"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, covering science, sports, and daily conversation."
+}

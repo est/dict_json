@@ -1,0 +1,87 @@
+{
+  "WORD":"forget",
+  "IPA":"/fərˈɡet/",
+  "CONJUGATES":"forgets | forgetting | forgot | forgotten",
+  "ETYMOLOGY":"From Middle English forgeten, from Old English forgietan, combining for- (indicating loss or destruction) and gietan ('to get, grasp').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"forget [sth]\nforget [that clause]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Verb, transitive (takes a direct object) | Verb, intransitive (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fail to recall or remember information, events, or experiences, often unintentionally.",
+      "DEF_ZH":"忘记；遗忘（停止记起某事或某人）。",
+      "SENT_EN":"I completely forgot her name during the introduction.",
+      "SENT_ZH":"在介绍时我完全忘记了她的名字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fail to recall",
+            "lose memory of",
+            "draw a blank"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "remember",
+            "recall",
+            "recollect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"forget [to do sth]",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive (takes a direct object)",
+      "TAGS":[
+        "common",
+        "obligation"
+      ],
+      "DEF_EN":"To neglect, fail, or omit to do something required, expected, or intended.",
+      "DEF_ZH":"疏忽；遗漏；未做（应做之事）。",
+      "SENT_EN":"Please don't forget to pay the electric bill this month.",
+      "SENT_ZH":"请不要忘记付这个月的电费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "neglect",
+            "overlook",
+            "omit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"forget [it]\nforget [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive (takes a direct object)",
+      "TAGS":[
+        "idiomatic",
+        "dismissive"
+      ],
+      "DEF_EN":"(Often used in imperatives) To intentionally disregard, stop thinking about, or forgive someone or something.",
+      "DEF_ZH":"（常用于祈使句）不再考虑；把（某事/某人）抛诸脑后；原谅。",
+      "SENT_EN":"Forget about the failed presentation; we have new projects starting tomorrow.",
+      "SENT_ZH":"忘了那次失败的演讲吧；我们明天有新的项目要开始。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disregard",
+            "dismiss",
+            "forgive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

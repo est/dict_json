@@ -1,0 +1,133 @@
+{
+  "WORD":"package",
+  "IPA":"/ˈpækɪdʒ/",
+  "CONJUGATES":"packages | packaging | packaged",
+  "ETYMOLOGY":"Late 16th century (originally referring to the act of packing): from 'pack' + '-age'.",
+  "SINCE":"c. 1580",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A box, bundle, or container enclosing goods or objects, typically one that is sent or delivered by mail or courier.",
+      "DEF_ZH":"包裹；邮包；包装盒。",
+      "SENT_EN":"I am expecting a large package to arrive tomorrow.",
+      "SENT_ZH":"我预计明天会收到一个大包裹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "parcel",
+            "bundle",
+            "container"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of services/items)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "business",
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A collection of related items, services, or benefits offered or sold together as a single unit or plan.",
+      "DEF_ZH":"一揽子交易；一套方案或服务（如薪酬、旅游套餐等）。",
+      "SENT_EN":"The employment package included a generous annual bonus and health insurance.",
+      "SENT_ZH":"这份雇佣方案包含了一笔丰厚的年终奖和医疗保险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plan",
+            "scheme",
+            "deal",
+            "bundle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "package deal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"package [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put (something) into a box, container, or wrapper for storage, display, or transport.",
+      "DEF_ZH":"打包；包装；将...装箱或包裹。",
+      "SENT_EN":"The warehouse staff packaged the fragile glassware very carefully.",
+      "SENT_ZH":"仓库工作人员非常仔细地包装了那些易碎的玻璃器皿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wrap",
+            "pack",
+            "box up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"package [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "business",
+        "figurative"
+      ],
+      "DEF_EN":"To present or promote an idea, product, or person in a particular attractive way to the public or to potential buyers.",
+      "DEF_ZH":"宣传包装；美化；巧妙地呈现。",
+      "SENT_EN":"The PR firm focused on how to package the new candidate as a trustworthy reformer.",
+      "SENT_ZH":"这家公关公司专注于如何将这位新候选人包装成一位值得信赖的改革者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "market",
+            "present",
+            "promote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (software)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A set of computer programs, modules, or libraries compiled and distributed together for installation.",
+      "DEF_ZH":"软件包；程序包；模块。",
+      "SENT_EN":"We need to update the core visualization package before running the analysis.",
+      "SENT_ZH":"在运行分析之前，我们需要更新核心可视化软件包。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "library",
+            "module",
+            "application"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Business, Computing"
+}

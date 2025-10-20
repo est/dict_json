@@ -1,0 +1,91 @@
+{
+  "WORD":"INSTRUCTION",
+  "IPA":"/ɪnˈstrʌkʃən/",
+  "CONJUGATES":"instructions",
+  "ETYMOLOGY":"From Latin instructiō (a building up, teaching), from instruere (to build, teach, equip), from in- (in, upon) + struere (to pile up, build).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"instruction [uncountable]",
+      "POS":"n.",
+      "POS_TIP":"Uncountable noun",
+      "TAGS":[
+        "core word",
+        "education",
+        "abstract"
+      ],
+      "DEF_EN":"The action or process of teaching, educating, or imparting knowledge or skills.",
+      "DEF_ZH":"教学；教育；传授知识或技能的行为或过程。",
+      "SENT_EN":"The students received clear instruction on how to write the research paper.",
+      "SENT_ZH":"学生们获得了关于如何撰写研究论文的清晰指导。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "teaching",
+            "education",
+            "tuition",
+            "guidance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "instructor",
+            "curriculum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"instruction [countable/plural]",
+      "POS":"n.",
+      "POS_TIP":"Countable noun (often used in the plural)",
+      "TAGS":[
+        "core word",
+        "directive",
+        "common"
+      ],
+      "DEF_EN":"A detailed order or direction on how to do or use something.",
+      "DEF_ZH":"指示；命令；关于如何做某事或使用某物的详细说明。",
+      "SENT_EN":"Follow the instructions exactly to avoid any mistakes during assembly.",
+      "SENT_ZH":"请严格按照说明进行操作，以避免组装过程中出现任何错误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "direction",
+            "order",
+            "command",
+            "directive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"instruction [countable]",
+      "POS":"n.",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "jargon"
+      ],
+      "DEF_EN":"(Computing) A command or operation that is executed by a computer processor.",
+      "DEF_ZH":"(计算机) 指令；由计算机处理器执行的单个操作命令。",
+      "SENT_EN":"Each instruction is handled by the CPU core in sequence.",
+      "SENT_ZH":"每个指令都按顺序由CPU核心处理。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "instruction set",
+            "opcode",
+            "algorithm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use; Formal in educational and technical contexts"
+}

@@ -1,0 +1,124 @@
+{
+  "WORD":"port",
+  "IPA":"/pɔːrt/",
+  "CONJUGATES":"ports (n.) | ports | porting | ported (v.)",
+  "ETYMOLOGY":"Derived primarily from two sources: 1. Latin *portus* ('harbor, haven'), source of the meanings related to harbors and refuge. 2. Latin *porta* ('gate, entrance'), source of meanings related to openings and entrances (including computing ports). The nautical direction 'port' (left side) replaced 'larboard' in the 19th century.",
+  "SINCE":"c. 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (on a coast)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "nautical"
+      ],
+      "DEF_EN":"A city or town located on a coast or shore, containing a harbor where ships can load or unload goods and passengers.",
+      "DEF_ZH":"港口；港市；码头。",
+      "SENT_EN":"The tanker spent three days docked at the main commercial port.",
+      "SENT_ZH":"油轮在主要商业港口停靠了三天。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "harbor",
+            "haven",
+            "wharf",
+            "dock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (connection)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"An interface on a computer or network device where peripherals (like cables or hardware) can be connected, or a number used for network communication.",
+      "DEF_ZH":"（计算机、网络）端口；接口。",
+      "SENT_EN":"I accidentally plugged the printer into the wrong USB port.",
+      "SENT_ZH":"我不小心把打印机插到了错误的USB端口。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "socket",
+            "jack",
+            "interface"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (direction)",
+      "POS":"n. | adj.",
+      "POS_TIP":"noun or adjective",
+      "TAGS":[
+        "nautical",
+        "specialized"
+      ],
+      "DEF_EN":"The left side of a ship or aircraft when facing the bow (the front).",
+      "DEF_ZH":"（船只、飞机的）左舷（与右舷starboard相对）。",
+      "SENT_EN":"The Captain ordered the crew to turn the rudder to port.",
+      "SENT_ZH":"船长命令船员将舵转向左舷。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "starboard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (software)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"To convert software, data, or a game so that it can run on a different operating system or platform.",
+      "DEF_ZH":"移植（软件、数据）；使...可在不同平台上使用。",
+      "SENT_EN":"The developers spent six months porting the application to mobile devices.",
+      "SENT_ZH":"开发人员花了六个月时间将该应用程序移植到移动设备上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adapt",
+            "convert",
+            "migrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (wine)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "food & drink",
+        "trademark"
+      ],
+      "DEF_EN":"A strong, sweet, fortified wine, usually dark red, originally produced in the Douro Valley of northern Portugal (named after the city Oporto).",
+      "DEF_ZH":"波特酒；波尔图葡萄酒（一种产自葡萄牙的加强型甜葡萄酒）。",
+      "SENT_EN":"We finished the meal with a rich glass of vintage port.",
+      "SENT_ZH":"我们用一杯醇厚的陈年波特酒结束了这顿饭。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sherry",
+            "madeira"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across general vocabulary, technology, and nautical fields."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"entertain",
+  "IPA":"/ˌɛntərˈteɪn/",
+  "CONJUGATES":"entertains | entertaining | entertained",
+  "ETYMOLOGY":"From Old French entretenir ('to hold together', 'to maintain', 'to keep up'), from Latin inter ('between') + tenere ('to hold'). The sense shifted in English in the 16th century to 'to receive and treat as a guest' and subsequently 'to amuse'.",
+  "SINCE":"Mid-15th century (older meaning); Late 16th century (amusement/hospitality meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"entertain [sb]\nentertain [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To provide enjoyment or diversion for someone, usually through performance, hosting, or activity.",
+      "DEF_ZH":"提供娱乐或消遣，使人快乐或高兴。",
+      "SENT_EN":"The comedian's routine truly entertained the audience.",
+      "SENT_ZH":"这位喜剧演员的表演确实逗乐了观众。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amuse",
+            "delight",
+            "divert",
+            "charm"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bore",
+            "tire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"entertain [sb] (at home/socially)",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "social"
+      ],
+      "DEF_EN":"To receive and host guests socially, often by serving food and drink, or by providing a setting for social interaction.",
+      "DEF_ZH":"招待客人，提供食宿或社交活动（尤指在自己家中）。",
+      "SENT_EN":"They often entertain large groups of friends during the holidays.",
+      "SENT_ZH":"他们在假期经常招待大群朋友。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "host",
+            "receive",
+            "treat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"entertain [sth] (an idea/a notion/a thought)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "mental state"
+      ],
+      "DEF_EN":"To hold in the mind; to give serious consideration to an idea, hope, or suggestion.",
+      "DEF_ZH":"考虑；心存某种想法或建议，将某种可能性纳入考量。",
+      "SENT_EN":"We refuse to entertain the notion that the project might fail.",
+      "SENT_ZH":"我们拒绝考虑项目可能失败的想法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consider",
+            "contemplate",
+            "harbor",
+            "nurture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific meanings being formal or social."
+}

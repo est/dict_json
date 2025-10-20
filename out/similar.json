@@ -1,0 +1,81 @@
+{
+  "WORD":"similar",
+  "IPA":"/ˈsɪmələr/",
+  "CONJUGATES":"similarly (adv) | similarity (n)",
+  "ETYMOLOGY":"From Late Latin similāris, or from Middle French similaire, ultimately derived from Latin similis ('like, resembling').",
+  "SINCE":"Early 17th century (c. 1610s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] be similar to [sth else]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having a resemblance or likeness to something else, though not identical; comparable in quality, nature, or degree.",
+      "DEF_ZH":"相似的；类似的；相仿的。",
+      "SENT_EN":"The two paintings are remarkably similar in style and color palette.",
+      "SENT_ZH":"这两幅画在风格和调色板上都非常相似。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alike",
+            "comparable",
+            "akin",
+            "resembling",
+            "analogous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "different",
+            "dissimilar",
+            "unlike",
+            "distinct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] be similar (geometry)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "geometry"
+      ],
+      "DEF_EN":"(Of geometrical figures or objects) having the same shape but possibly different sizes, where corresponding angles are equal and corresponding sides are proportional.",
+      "DEF_ZH":"（几何图形）相似的；同形的（指形状相同，但大小可以不同）。",
+      "SENT_EN":"The small model of the building is geometrically similar to the actual structure.",
+      "SENT_ZH":"该建筑的小模型在几何上与实际结构相似。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "congruent",
+            "proportional"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the similar / similars",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"Something that is similar to something else; a counterpart or analogue.",
+      "DEF_ZH":"相似物；类似品。",
+      "SENT_EN":"We need to group the similars together for easier analysis.",
+      "SENT_ZH":"我们需要将相似物归类到一起，以便于分析。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, Academic, Mathematics"
+}

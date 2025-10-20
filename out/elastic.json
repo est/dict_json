@@ -1,0 +1,96 @@
+{
+  "WORD":"elastic",
+  "IPA":"/ɪˈlæstɪk/",
+  "CONJUGATES":"elastically (adv) | elasticity (n)",
+  "ETYMOLOGY":"Coined in the mid-17th century, possibly via French élastique, from Medieval Latin elasticus, ultimately derived from Greek ἐλαύνειν (elaunein, 'to drive, beat').",
+  "SINCE":"c. 1650",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "physics",
+        "common"
+      ],
+      "DEF_EN":"Able to return to its original shape or size after being stretched, compressed, or deformed.",
+      "DEF_ZH":"有弹性的；可伸缩的；能恢复原状的。",
+      "SENT_EN":"Rubber is a highly elastic material used in many industrial applications.",
+      "SENT_ZH":"橡胶是一种高弹性材料，用于许多工业应用中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resilient",
+            "springy",
+            "pliable",
+            "flexible"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rigid",
+            "brittle",
+            "inelastic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (rule/policy/schedule)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Flexible and capable of being modified or adapted to different circumstances.",
+      "DEF_ZH":"灵活的；有伸缩性的；可变通的。",
+      "SENT_EN":"We need to maintain an elastic schedule to accommodate unexpected changes in the timeline.",
+      "SENT_ZH":"我们需要保持一个灵活的时间表，以应对时间线中意想不到的变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adaptable",
+            "fluid",
+            "flexible"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fixed",
+            "strict",
+            "rigid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable or singular)",
+      "TAGS":[
+        "material",
+        "common"
+      ],
+      "DEF_EN":"A fabric, cord, or band made with interwoven rubber or similar material, used for stretching and holding.",
+      "DEF_ZH":"松紧带；橡皮筋（材料）。",
+      "SENT_EN":"She sewed a new piece of elastic into the waistband of her skirt.",
+      "SENT_ZH":"她把一段新的松紧带缝进了她裙子的腰带里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spandex",
+            "rubber band"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Technical (Physics)"
+}

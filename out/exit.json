@@ -1,0 +1,117 @@
+{
+  "WORD":"exit",
+  "IPA":"/ˈɛksɪt/",
+  "CONJUGATES":"exits | exited | exiting",
+  "ETYMOLOGY":"From Latin exitus (a going out, way out, outcome), past participle of exire (to go out: ex- 'out' + ire 'to go').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical",
+        "common"
+      ],
+      "DEF_EN":"A way out; a door, gate, or passage by which people or vehicles may leave a place.",
+      "DEF_ZH":"离开某处的通道、门或出口。",
+      "SENT_EN":"Please ensure you know where the emergency exit is located.",
+      "SENT_ZH":"请确保您知道安全出口的位置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "way out",
+            "egress",
+            "doorway"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "entrance",
+            "entry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] exit",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To go out of or leave a place.",
+      "DEF_ZH":"离开某地；退出。",
+      "SENT_EN":"The CEO quickly exited the meeting room after the presentation.",
+      "SENT_ZH":"演示结束后，首席执行官迅速离开了会议室。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "leave",
+            "depart",
+            "withdraw"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enter",
+            "arrive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "computing",
+        "specialized"
+      ],
+      "DEF_EN":"To stop the operation of a computer program or system.",
+      "DEF_ZH":"退出（计算机程序或系统）；终止运行。",
+      "SENT_EN":"Make sure you save your work before you exit the application.",
+      "SENT_ZH":"在退出应用程序之前，请确保保存您的工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quit",
+            "terminate",
+            "close"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] exit",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"An act of going out or departing.",
+      "DEF_ZH":"离去；退场（尤指在舞台或公共场合）。",
+      "SENT_EN":"His sudden exit from the party raised many questions.",
+      "SENT_ZH":"他突然离开派对引发了许多疑问。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "departure",
+            "withdrawal",
+            "farewell"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

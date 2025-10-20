@@ -1,0 +1,64 @@
+{
+  "WORD":"knowledge",
+  "IPA":"/ˈnɑːlɪdʒ/",
+  "CONJUGATES":"knowledge (singular)",
+  "ETYMOLOGY":"Middle English (c. 1300s), derived from the verb *knowlechen* (to acknowledge, recognize), which itself stems from *know* + the suffix *-leche* (meaning 'action, practice', seen also in *wedlock*).",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"knowledge [of sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "abstract noun"
+      ],
+      "DEF_EN":"Facts, information, and skills acquired by a person through experience or education; the theoretical or practical understanding of a subject.",
+      "DEF_ZH":"通过经验或教育获得的事实、信息和技能；对某个主题的理论或实践理解。",
+      "SENT_EN":"She possesses deep knowledge of ancient history and philosophy.",
+      "SENT_ZH":"她拥有关于古代历史和哲学的渊博知识。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "understanding",
+            "learning",
+            "erudition",
+            "wisdom"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignorance",
+            "unfamiliarity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knowledge [of sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "formal",
+        "philosophical"
+      ],
+      "DEF_EN":"In philosophy, justified true belief, or the state of being aware of something.",
+      "DEF_ZH":"在哲学中，指合理化的真实信念，或指对某事有所了解的状态。",
+      "SENT_EN":"Epistemology is the branch of philosophy concerned with the nature and scope of knowledge.",
+      "SENT_ZH":"认识论是研究知识的性质和范围的哲学分支。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "epistemology",
+            "belief",
+            "truth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Philosophical"
+}

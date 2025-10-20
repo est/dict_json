@@ -1,0 +1,90 @@
+{
+  "WORD":"quotation",
+  "IPA":"/kwəʊˈteɪʃən/",
+  "CONJUGATES":"quotations",
+  "ETYMOLOGY":"From Medieval Latin quotatio, derived from quotare 'to mark off by numbers, specify the number of', based on Latin quot 'how many'.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] quotation [from sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "literary"
+      ],
+      "DEF_EN":"A group of words taken from a text or speech and repeated by someone other than the original author or speaker.",
+      "DEF_ZH":"引文；引语；援引。",
+      "SENT_EN":"She included a powerful quotation from Martin Luther King Jr. in her essay.",
+      "SENT_ZH":"她在文章中引用了马丁·路德·金的一段有力的引文。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "citation",
+            "excerpt",
+            "reference",
+            "extract"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "quote",
+            "quotation mark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] quotation [for sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "business",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"A formal statement of the estimated cost for a specific job or service.",
+      "DEF_ZH":"报价；估价单。",
+      "SENT_EN":"We are waiting for the final quotation before we hire the builders.",
+      "SENT_ZH":"我们在雇佣建筑工之前正在等待最终的报价单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "estimate",
+            "bid",
+            "price",
+            "tender"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] quotation [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable/uncountable)",
+      "TAGS":[
+        "finance",
+        "specific"
+      ],
+      "DEF_EN":"The current price at which a security or commodity is officially traded on an exchange.",
+      "DEF_ZH":"（股票、商品等的）牌价；市价。",
+      "SENT_EN":"The daily quotation of crude oil fluctuated dramatically this week.",
+      "SENT_ZH":"本周原油的每日牌价波动剧烈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "price",
+            "rate",
+            "market value"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, academic, business, and finance contexts."
+}

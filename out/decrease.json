@@ -1,0 +1,105 @@
+{
+  "WORD":"decrease",
+  "IPA":"/dɪˈkriːs/",
+  "CONJUGATES":"decreases | decreasing | decreased",
+  "ETYMOLOGY":"From Old French descreistre, from Latin decrescere (de- 'down' + crescere 'grow'), meaning 'to grow down, diminish'",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] decrease",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To become less, smaller, or fewer in amount, size, or intensity.",
+      "DEF_ZH":"（数量、大小、强度等）变少、变小或减弱。",
+      "SENT_EN":"The number of reported cases has begun to decrease.",
+      "SENT_ZH":"报告的病例数量已开始减少。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "diminish",
+            "decline",
+            "lessen",
+            "shrink"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "grow",
+            "expand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"decrease [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something less, smaller, or fewer.",
+      "DEF_ZH":"使某物（数量、大小、强度等）减少、变小或减弱。",
+      "SENT_EN":"We need to decrease our spending on non-essential items.",
+      "SENT_ZH":"我们需要减少在非必需品上的开支。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "cut down",
+            "lower"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "raise",
+            "boost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a decrease in [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The process or result of becoming or making something smaller or fewer.",
+      "DEF_ZH":"减少；降低；缩减（指数量、大小、强度等的降低）。",
+      "SENT_EN":"There has been a significant decrease in unemployment over the last quarter.",
+      "SENT_ZH":"上个季度失业率有显著下降。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduction",
+            "decline",
+            "fall",
+            "drop"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "rise",
+            "growth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in business, economics, and scientific contexts."
+}

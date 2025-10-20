@@ -1,0 +1,122 @@
+{
+  "WORD":"disorder",
+  "IPA":"/dɪsˈɔːrdər/",
+  "CONJUGATES":"disorders (n, pl) | disorders (v, pres) | disordered (v, pt/pp) | disordering (v, prp)",
+  "ETYMOLOGY":"From Middle English desordere, combining dis- (negation/reversal) + order (arrangement/structure), originally meaning 'lack of rule or method'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (physical state)",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A state of confusion, lack of organization, or messiness.",
+      "DEF_ZH":"混乱；杂乱；缺乏条理的状态。",
+      "SENT_EN":"His desk was always in complete disorder, covered in papers and coffee cups.",
+      "SENT_ZH":"他的办公桌总是处于一片混乱之中，堆满了文件和咖啡杯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chaos",
+            "mess",
+            "clutter",
+            "jumble"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "order",
+            "arrangement",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[medical condition]",
+      "POS":"n, count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"An illness or condition that disrupts normal bodily or mental functioning.",
+      "DEF_ZH":"（生理或精神上的）疾病；失调；障碍。",
+      "SENT_EN":"She sought treatment for an eating disorder.",
+      "SENT_ZH":"她寻求治疗饮食失调症。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ailment",
+            "illness",
+            "syndrome",
+            "malady"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "psychosis",
+            "anxiety disorder",
+            "mental illness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[social event/action]",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"Public disturbance, civil unrest, or a breach of peace.",
+      "DEF_ZH":"骚乱；动乱；破坏公共秩序的行为。",
+      "SENT_EN":"The police were called in response to public disorder in the city square.",
+      "SENT_ZH":"警方接到通知，处理城市广场上的公共骚乱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "riot",
+            "unrest",
+            "turmoil",
+            "commotion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[disorder sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "less common",
+        "literary"
+      ],
+      "DEF_EN":"To disturb the order or arrangement of something; to make confused.",
+      "DEF_ZH":"使混乱；扰乱（秩序或思想）。",
+      "SENT_EN":"The bad news seemed to disorder his entire life plan.",
+      "SENT_ZH":"那个坏消息似乎扰乱了他全部的人生规划。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disarrange",
+            "disrupt",
+            "confuse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often formal or technical when referring to medical/legal contexts."
+}

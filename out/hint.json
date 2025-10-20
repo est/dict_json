@@ -1,0 +1,89 @@
+{
+  "WORD":"hint",
+  "IPA":"/hɪnt/",
+  "CONJUGATES":"hints | hinted | hinting",
+  "ETYMOLOGY":"Middle English (c. 1400), probably from Germanic origin, perhaps related to 'hent' (to grasp, seize), leading to the sense of 'an opportunity' or 'piece of information'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[noun]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A slight or indirect suggestion or indication.",
+      "DEF_ZH":"轻微或间接的提示；暗示。",
+      "SENT_EN":"He gave us a broad hint that it was time to leave.",
+      "SENT_ZH":"他给了我们一个明显的暗示，是时候离开了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggestion",
+            "clue",
+            "inkling",
+            "intimation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "declaration",
+            "statement",
+            "demand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hint [at sth]\nhint [that]...",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To suggest or indicate something indirectly.",
+      "DEF_ZH":"暗示；示意；发出提示。",
+      "SENT_EN":"The CEO hinted at massive layoffs during the earnings call.",
+      "SENT_ZH":"首席执行官在财报电话会议上暗示将进行大规模裁员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imply",
+            "suggest",
+            "allude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hint of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A very small amount or trace of something, especially a flavor or quality.",
+      "DEF_ZH":"一丝；一点点（尤指味道或品质）。",
+      "SENT_EN":"The soup had a delicious hint of ginger and garlic.",
+      "SENT_ZH":"这汤里有美味的一丝姜蒜味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trace",
+            "touch",
+            "dash",
+            "smattering"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

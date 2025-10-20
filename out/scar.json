@@ -1,0 +1,86 @@
+{
+  "WORD":"scar",
+  "IPA":"/skɑːr/",
+  "CONJUGATES":"scars | scarring | scarred",
+  "ETYMOLOGY":"From Middle English scarre, from Old French escarre, from Late Latin escharra, which derived from Greek eskharā ('scab, hearth').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] scar [on sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"A mark left on the skin or within body tissue where a wound, burn, or incision has not healed completely and normal tissue has been replaced by fibrous tissue.",
+      "DEF_ZH":"皮肤或身体组织上，伤口、烧伤或切口未完全愈合，正常组织被纤维组织取代后留下的痕迹；疤痕。",
+      "SENT_EN":"He still has a deep scar on his knee from the accident he had as a child.",
+      "SENT_ZH":"他膝盖上仍有儿时事故留下的深深的疤痕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blemish",
+            "mark",
+            "cicatrix"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "keloid",
+            "lesion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] scar [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"A lasting psychological or emotional wound or trauma resulting from a difficult experience.",
+      "DEF_ZH":"由艰难经历造成的持久的心理或情感创伤（比喻用法）。",
+      "SENT_EN":"The war left deep emotional scars on the entire generation.",
+      "SENT_ZH":"那场战争给整整一代人留下了深刻的情感创伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trauma",
+            "wound",
+            "damage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scar [sb/sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To mark or damage something permanently, especially the skin, environment, or reputation.",
+      "DEF_ZH":"留下永久的标记；使某物永久受损或毁容（通常指皮肤、环境或名誉）。",
+      "SENT_EN":"The mining operations have scarred the landscape of the valley.",
+      "SENT_ZH":"采矿作业使山谷的地貌留下了疤痕（遭受了永久性破坏）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disfigure",
+            "mark",
+            "blemish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, also common in medical and psychological contexts."
+}

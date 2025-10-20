@@ -1,0 +1,86 @@
+{
+  "WORD":"waterproof",
+  "IPA":"/ˈwɔːtəpruːf/",
+  "CONJUGATES":"waterproofs | waterproofing | waterproofed",
+  "ETYMOLOGY":"Compound word formed from Old English 'wæter' (water) and the suffix '-proof' (meaning resistant or tested against), derived from Middle English 'proofe' (test, resistance).",
+  "SINCE":"c. 1720s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is waterproof",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"Impervious to water; constructed or treated so that water cannot penetrate it.",
+      "DEF_ZH":"不透水的；防水的；能够防止水渗透的。",
+      "SENT_EN":"The watch is waterproof up to 50 meters, making it suitable for swimming.",
+      "SENT_ZH":"这款手表的防水深度达 50 米，适合游泳时佩戴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "watertight",
+            "impermeable",
+            "water-repellent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "porous",
+            "absorbent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"waterproof [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To treat an object or material to make it impervious to water.",
+      "DEF_ZH":"给（某物）做防水处理；使（某物）防水。",
+      "SENT_EN":"They hired professionals to waterproof the basement walls before the rainy season.",
+      "SENT_ZH":"他们在雨季来临前，雇佣了专业人员给地下室墙壁做防水处理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seal",
+            "insulate",
+            "coat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a waterproof",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common (UK)",
+        "clothing"
+      ],
+      "DEF_EN":"A waterproof garment, typically a coat or jacket designed to protect against rain.",
+      "DEF_ZH":"（尤指雨衣或夹克等）防水衣物。",
+      "SENT_EN":"It started raining suddenly, so I put on my waterproof.",
+      "SENT_ZH":"天突然下起雨来，所以我穿上了我的防水雨衣。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "raincoat",
+            "slicker"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical (used widely in clothing, construction, and electronics)"
+}

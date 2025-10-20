@@ -1,0 +1,85 @@
+{
+  "WORD":"generation",
+  "IPA":"/ˌdʒɛnəˈreɪʃən/",
+  "CONJUGATES":"generations (plural)",
+  "ETYMOLOGY":"From Old French generacion, or directly from Latin generātiō (stem generātiōn-), meaning 'a begetting, a production, a kind'. Derived from generāre 'to beget, produce'.",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\nthe X generation",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "social science"
+      ],
+      "DEF_EN":"All of the people born and living at about the same time, regarded collectively.",
+      "DEF_ZH":"世代；一代人 (指在同一时期出生和生活的人们，通常作为一个集体看待)。",
+      "SENT_EN":"The younger generation is more open to social change.",
+      "SENT_ZH":"年轻一代对社会变革更加开放。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cohort",
+            "age group"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Millennial",
+            "Gen Z",
+            "Baby Boomer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"generation of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "industry"
+      ],
+      "DEF_EN":"The action or process of producing or creating something, especially energy, power, or data.",
+      "DEF_ZH":"生产；生成；产生 (尤指能量、电力或数据)。",
+      "SENT_EN":"The plant is focused on the generation of sustainable electricity.",
+      "SENT_ZH":"该工厂专注于可持续电力的生产。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "production",
+            "creation",
+            "manufacture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"n.",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "measurement"
+      ],
+      "DEF_EN":"A single stage in the succession of natural descent; the average interval of time (about 25–30 years) between the birth of parents and the birth of their children.",
+      "DEF_ZH":"代；时期；一辈 (血统继承中的一代；指父母出生与子女出生之间的时间间隔，通常约25-30年)。",
+      "SENT_EN":"The land has been farmed by the same family for four generations.",
+      "SENT_ZH":"这片土地已被同一个家族耕种了四代人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lineage",
+            "descent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general usage, sociology, and technical/scientific fields."
+}

@@ -1,0 +1,93 @@
+{
+  "WORD":"ache",
+  "IPA":"/eɪtʃ/",
+  "CONJUGATES":"aches | aching | ached",
+  "ETYMOLOGY":"From Old English acan (verb, to be pained) and æce (noun, pain). The spelling 'ache' with 'ch' silent comes from a historical shift influenced by its related noun and verb forms.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ache (from [sth]\nin [sth])",
+      "POS":"vintr",
+      "POS_TIP":"vintr = intransitive verb",
+      "TAGS":[
+        "core word",
+        "physical sensation",
+        "common"
+      ],
+      "DEF_EN":"To suffer a continuous, dull, or throbbing physical pain.",
+      "DEF_ZH":"感到持续的、隐隐的或搏动性的疼痛。",
+      "SENT_EN":"My legs ache after the intense workout.",
+      "SENT_ZH":"剧烈运动后我的腿隐隐作痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hurt",
+            "throb",
+            "smart",
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an ache",
+      "POS":"n",
+      "POS_TIP":"n = noun",
+      "TAGS":[
+        "core word",
+        "physical sensation",
+        "common"
+      ],
+      "DEF_EN":"A continuous, dull, or throbbing physical pain or discomfort.",
+      "DEF_ZH":"持续的、隐隐的或搏动性的疼痛或不适。",
+      "SENT_EN":"She woke up with a bad ache in her shoulder.",
+      "SENT_ZH":"她醒来时肩膀感到一阵剧痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pain",
+            "soreness",
+            "discomfort",
+            "twinge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "headache",
+            "toothache",
+            "stomach ache"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ache for [sb/sth]\nache to [do sth]",
+      "POS":"vintr",
+      "POS_TIP":"vintr = intransitive verb",
+      "TAGS":[
+        "figurative",
+        "emotion",
+        "common"
+      ],
+      "DEF_EN":"To feel a strong, painful, and often yearning desire for something or someone.",
+      "DEF_ZH":"（因思念、渴望而）心痛；渴望；向往。",
+      "SENT_EN":"He ached to see his family again after months away.",
+      "SENT_ZH":"离开数月后，他渴望再次见到家人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yearn",
+            "long",
+            "pine",
+            "desire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

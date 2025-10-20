@@ -1,0 +1,110 @@
+{
+  "WORD":"interview",
+  "IPA":"/ˈɪntərvjuː/",
+  "CONJUGATES":"interviews | interviewing | interviewed",
+  "ETYMOLOGY":"From French entrevue (noun, 'a meeting, sight of each other') and entrevoir (verb, 'to see each other'), combining entre- ('between') + voir ('to see'). Adopted into English with the modern meaning (journalism, employment) in the mid-19th century.",
+  "SINCE":"16th Century (original sense); 19th Century (modern sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a/an [job] interview\ngo for an interview",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "employment",
+        "formal"
+      ],
+      "DEF_EN":"A formal meeting where a job applicant or candidate is questioned to assess their suitability for a role or position.",
+      "DEF_ZH":"为评估求职者是否合适而进行的正式会面或问答环节（面试）。",
+      "SENT_EN":"She prepared extensively for her job interview with the tech company.",
+      "SENT_ZH":"她为与那家科技公司的面试做了充分的准备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meeting",
+            "audition",
+            "assessment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "recruitment",
+            "applicant",
+            "résumé"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interview [sb] (for sth)",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To conduct a formal meeting or series of questions with someone, especially to determine their suitability for a job or position.",
+      "DEF_ZH":"对（某人）进行正式的问询或面试，以确定其是否适合某一职位。",
+      "SENT_EN":"The HR team interviewed fifteen candidates yesterday.",
+      "SENT_ZH":"人力资源团队昨天面试了十五名候选人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "question",
+            "examine",
+            "assess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an interview [with sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "media",
+        "journalism"
+      ],
+      "DEF_EN":"A conversation, usually recorded and broadcast or published, in which a journalist questions a public figure about their life, views, or work.",
+      "DEF_ZH":"记者对公众人物进行的，通常用于出版或广播的问答式访谈或专访。",
+      "SENT_EN":"The President’s recent interview caused a major political controversy.",
+      "SENT_ZH":"总统最近的专访引起了重大的政治争议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "report",
+            "profile",
+            "discussion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interview [sb]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "media",
+        "action"
+      ],
+      "DEF_EN":"To question someone publicly or for publication/broadcast, typically as a journalist.",
+      "DEF_ZH":"（记者）为了出版或广播的目的，对（某人）进行采访或访谈。",
+      "SENT_EN":"The reporter interviewed the actor about his upcoming movie.",
+      "SENT_ZH":"记者采访了这位演员关于他即将上映的电影。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "debrief",
+            "question"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in professional and media contexts."
+}

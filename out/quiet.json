@@ -1,0 +1,143 @@
+{
+  "WORD":"quiet",
+  "IPA":"/ˈkwaɪ.ət/",
+  "CONJUGATES":"quieter | quietest | quiets | quieted | quieting",
+  "ETYMOLOGY":"From Old French quiet, from Latin quiētus ('at rest, repose, calm'), perfect passive participle of quiēscere ('to rest, become quiet'), ultimately from PIE *kʷyeh₁- ('to rest, repose')",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"quiet",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Making very little or no noise.",
+      "DEF_ZH":"制造很少或没有噪音的；安静的。",
+      "SENT_EN":"The library is usually a very quiet place.",
+      "SENT_ZH":"图书馆通常是一个非常安静的地方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "silent",
+            "noiseless",
+            "still",
+            "hushed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "loud",
+            "noisy",
+            "boisterous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quiet",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Not busy, exciting, or lively; peaceful.",
+      "DEF_ZH":"不忙碌、不刺激或不热闹的；宁静的；平静的。",
+      "SENT_EN":"They spent a quiet weekend at home.",
+      "SENT_ZH":"他们在家里度过了一个安静的周末。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calm",
+            "peaceful",
+            "tranquil",
+            "restful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hectic",
+            "eventful",
+            "turbulent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quiet [sb]\nquiet [sth] down",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "phrasal"
+      ],
+      "DEF_EN":"To make someone or something quieter; to become quiet.",
+      "DEF_ZH":"使某人或某物安静；平息；安静下来。",
+      "SENT_EN":"The teacher tried to quiet the noisy class.",
+      "SENT_ZH":"老师试图让吵闹的班级安静下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "silence",
+            "hush",
+            "shush",
+            "subdue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quiet",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The state of being quiet or silent; freedom from noise.",
+      "DEF_ZH":"安静；寂静；没有噪音的状态。",
+      "SENT_EN":"After the storm, there was an unusual quiet.",
+      "SENT_ZH":"暴风雨过后，出现了一种不寻常的寂静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "silence",
+            "stillness",
+            "calm",
+            "tranquility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quietly",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"In a quiet manner; making little noise.",
+      "DEF_ZH":"安静地；轻声地。",
+      "SENT_EN":"She crept quietly out of the room.",
+      "SENT_ZH":"她轻轻地爬出房间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "softly",
+            "silently",
+            "stealthily"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, suitable for all contexts."
+}

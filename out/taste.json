@@ -1,0 +1,147 @@
+{
+  "WORD":"taste",
+  "IPA":"/teɪst/",
+  "CONJUGATES":"tastes | tasting | tasted",
+  "ETYMOLOGY":"From Old French taster ('to feel, touch, test, taste'), from Vulgar Latin *tastare, perhaps from a blend of Latin tangere ('to touch') and gustare ('to taste').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "sense perception"
+      ],
+      "DEF_EN":"To perceive the flavor of (something) by the sense organs in the mouth.",
+      "DEF_ZH":"通过口腔中的感觉器官感知（某物）的味道或风味。",
+      "SENT_EN":"She tasted the soup to see if it needed more salt.",
+      "SENT_ZH":"她尝了尝汤，看看是否需要更多的盐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sample",
+            "savor",
+            "try"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "flavor",
+            "palate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "sense perception"
+      ],
+      "DEF_EN":"The sensation of flavor perceived in the mouth and throat on contact with a substance.",
+      "DEF_ZH":"与物质接触时，口腔和喉咙中感受到的风味感觉。",
+      "SENT_EN":"The cake had a bitter taste.",
+      "SENT_ZH":"这块蛋糕有一种苦涩的味道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flavor",
+            "savor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sweet",
+            "sour",
+            "bitter",
+            "salt",
+            "umami"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "appreciation"
+      ],
+      "DEF_EN":"A person's ability to discern what is aesthetically pleasing or appropriate in areas such as fashion, art, or social conduct; a sense of style.",
+      "DEF_ZH":"一个人在时尚、艺术或社交行为等领域辨别什么是美观或恰当的能力；品味或风格感。",
+      "SENT_EN":"He has excellent taste in music and literature.",
+      "SENT_ZH":"他在音乐和文学方面有着出色的品味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "refinement",
+            "discernment",
+            "flair",
+            "style"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vulgarity",
+            "tastelessness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have [sth]\n[sth]",
+      "POS":"vlink | vintr",
+      "POS_TIP":"linking verb | intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To have a specified flavor.",
+      "DEF_ZH":"具有某种特定的风味。",
+      "SENT_EN":"This dish tastes strongly of garlic.",
+      "SENT_ZH":"这道菜有浓浓的大蒜味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smell",
+            "relish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a taste of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"A brief experience of something, often unpleasant or new.",
+      "DEF_ZH":"对某事（通常是令人不快或新鲜的）的短暂体验。",
+      "SENT_EN":"The minor accident gave him a taste of his own mortality.",
+      "SENT_ZH":"那次小事故让他体验到了自己的必死性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "experience",
+            "encounter",
+            "foretaste"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, encompassing sensory perception and aesthetic judgment."
+}

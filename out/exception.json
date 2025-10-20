@@ -1,0 +1,95 @@
+{
+  "WORD":"exception",
+  "IPA":"/ɪkˈsɛpʃən/",
+  "CONJUGATES":"exceptions",
+  "ETYMOLOGY":"From Middle English, from Old French *exception*, derived from Latin *exceptiōnem* (nominative *exceptiō*), meaning 'a reservation, restriction, objection', ultimately from the verb *excipere* ('to take out, except'), formed from *ex-* ('out') + *capere* ('to take').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[sb]",
+      "POS":"noun",
+      "POS_TIP":"Noun (singular or plural)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A case or instance that does not conform to a general rule, standard, or pattern.",
+      "DEF_ZH":"例外；除外情况；不符合既定规则或模式的情况。",
+      "SENT_EN":"The store is usually closed on Sundays, but the holiday sale was an exception.",
+      "SENT_ZH":"这家商店通常周日关门，但假日促销是个例外。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anomaly",
+            "deviation",
+            "irregularity",
+            "exclusion"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rule",
+            "norm",
+            "standard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take exception to [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (often used in the fixed phrase 'to take exception to')",
+      "TAGS":[
+        "formal",
+        "idiomatic"
+      ],
+      "DEF_EN":"A formal objection or protest; the act of strongly disagreeing with something.",
+      "DEF_ZH":"异议；反对；抗议。（常用于“提出异议”的固定搭配中）。",
+      "SENT_EN":"She took strong exception to the way her performance review was conducted.",
+      "SENT_ZH":"她对她的绩效评估方式提出了强烈异议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "objection",
+            "protest",
+            "demurral",
+            "disagreement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "except"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (computing)",
+      "POS":"noun",
+      "POS_TIP":"Noun (used in technical context)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"An event that occurs during the execution of a program which disrupts the normal flow of instructions and requires specialized handling.",
+      "DEF_ZH":"异常（计算机程序运行过程中，中断正常指令流程并需要特殊处理的事件）。",
+      "SENT_EN":"The software reported an unhandled exception when the user tried to load the corrupted file.",
+      "SENT_ZH":"当用户试图加载损坏的文件时，该软件报告了一个未处理的异常。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "error",
+            "bug",
+            "interrupt"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in general conversation, legal, and technical fields."
+}

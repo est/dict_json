@@ -1,0 +1,102 @@
+{
+  "WORD":"include",
+  "IPA":"/ɪnˈkluːd/",
+  "CONJUGATES":"includes | included | including",
+  "ETYMOLOGY":"From Latin includere (in- 'in, into' + claudere 'to shut, close'), originally meaning 'to enclose, shut up'",
+  "SINCE":"Late Middle English (c. 1400s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"include [sth] [in sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To contain as part of a whole; to make part of a set, group, or total.",
+      "DEF_ZH":"包含；包括；把...列入",
+      "SENT_EN":"The tour package includes airfare and hotel accommodation.",
+      "SENT_ZH":"这个旅行套餐包括了机票和酒店住宿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "comprise",
+            "incorporate",
+            "contain",
+            "embrace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exclude",
+            "omit",
+            "except"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"include [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "social",
+        "common"
+      ],
+      "DEF_EN":"To involve or consider someone/something as part of a group, activity, or plan.",
+      "DEF_ZH":"接纳；允许...加入；算在内",
+      "SENT_EN":"We always try to include everyone in the decision-making process.",
+      "SENT_ZH":"我们总是努力让每个人都参与到决策过程中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admit",
+            "involve",
+            "accept"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reject",
+            "isolate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"include [sth] [in a document/list]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "documentation"
+      ],
+      "DEF_EN":"To place information or details within a text, list, or formal document.",
+      "DEF_ZH":"插入（文字、信息或项目）；列举",
+      "SENT_EN":"Please ensure you include your full contact information on the application form.",
+      "SENT_ZH":"请确保在申请表上填写完整的联系信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insert",
+            "append",
+            "add"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "delete",
+            "remove"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, appropriate in formal and informal contexts."
+}

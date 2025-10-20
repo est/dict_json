@@ -1,0 +1,95 @@
+{
+  "WORD":"compliment",
+  "IPA":"/'kɒmplɪmənt/",
+  "CONJUGATES":"compliments | complimented | complimenting",
+  "ETYMOLOGY":"From Middle French *compliment* ('respectful attention, flattery'), borrowed from Italian *complimento* ('a term of courtesy'), ultimately related to Latin *complere* (to complete, fulfill). The meaning diverged from 'complement' (something that completes) around the 17th century.",
+  "SINCE":"c. 1650s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] pays/gives a compliment to [sb]/[sth]\n[sth] is a compliment",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An expression of praise, admiration, or respect, often stated formally or politely.",
+      "DEF_ZH":"赞扬；恭维话；对某人或某事的赞美性评价。",
+      "SENT_EN":"She blushed when the director paid her a sincere compliment on her performance.",
+      "SENT_ZH":"当导演真诚地赞扬她的表现时，她脸红了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "praise",
+            "tribute",
+            "accolade",
+            "flattery"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insult",
+            "criticism",
+            "slight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compliment [sb] (on [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To praise or express admiration to someone.",
+      "DEF_ZH":"称赞；恭维；向某人表示敬意或赞美。",
+      "SENT_EN":"I complimented the chef on the excellent preparation of the dish.",
+      "SENT_ZH":"我称赞了厨师这道菜做得非常出色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "praise",
+            "commend",
+            "applaud"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "criticize",
+            "deride"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"give one's compliments to [sb]",
+      "POS":"n (plural)",
+      "POS_TIP":"noun (used in plural form)",
+      "TAGS":[
+        "formal",
+        "set phrase"
+      ],
+      "DEF_EN":"Formal regards or best wishes.",
+      "DEF_ZH":"(常用于复数) 问候；致意（多用于正式场合或信函中）。",
+      "SENT_EN":"Please give my compliments to your wife.",
+      "SENT_ZH":"请代我向您的妻子致以问候。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "greetings",
+            "regards",
+            "respects"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English usage"
+}

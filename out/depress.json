@@ -1,0 +1,103 @@
+{
+  "WORD":"depress",
+  "IPA":"/dɪˈprɛs/",
+  "CONJUGATES":"depresses | depressing | depressed",
+  "ETYMOLOGY":"From Latin deprimere (past participle depressus), meaning 'to press down, sink down' (de- 'down' + premere 'to press').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"depress [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Emotional"
+      ],
+      "DEF_EN":"To cause someone to feel gloomy, sad, and low in spirits, often severely enough to lead to clinical depression.",
+      "DEF_ZH":"使（某人）感到沮丧、悲伤或失去希望。",
+      "SENT_EN":"The grey winter weather always tends to depress me.",
+      "SENT_ZH":"灰色的冬季天气总是让我感到沮丧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sadden",
+            "discourage",
+            "demoralize",
+            "gloom"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cheer",
+            "elate",
+            "inspire"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "depression",
+            "depressant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"depress [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Physical",
+        "Literal"
+      ],
+      "DEF_EN":"To press or push down, lowering something below its usual or normal level.",
+      "DEF_ZH":"按下；压低；使降低（如键或杠杆）。",
+      "SENT_EN":"You must depress the clutch fully before changing gears.",
+      "SENT_ZH":"换档前必须完全踩下离合器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "push down",
+            "lower",
+            "sink"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"depress [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Economic",
+        "Formal"
+      ],
+      "DEF_EN":"To cause a reduction in the amount or level of economic activity, trade, or prices.",
+      "DEF_ZH":"抑制；使（价格、贸易或活动）下跌或萧条。",
+      "SENT_EN":"The surplus supply helped to depress global oil prices.",
+      "SENT_ZH":"过剩的供应有助于抑制全球油价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curtail",
+            "restrain",
+            "deflate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "boost",
+            "stimulate",
+            "inflate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical, and economic contexts."
+}

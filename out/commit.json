@@ -1,0 +1,132 @@
+{
+  "WORD":"commit",
+  "IPA":"/kəˈmɪt/",
+  "CONJUGATES":"commits | committed | committing",
+  "ETYMOLOGY":"From Latin committere (com- 'together' + mittere 'to send, put'). Originally 'to join, bring together, entrust, or start an engagement.'",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"commit [oneself] to [sth]\ncommit [to sth]",
+      "POS":"vtr | vi + prep",
+      "POS_TIP":"Transitive verb | Intransitive verb + preposition",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"To dedicate oneself to a particular course of action, goal, or relationship; to pledge or promise firmly.",
+      "DEF_ZH":"承诺；致力于；全身心投入（活动、关系或目标）。",
+      "SENT_EN":"It takes courage to commit to a long-term relationship.",
+      "SENT_ZH":"投入一段长期关系需要勇气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pledge",
+            "dedicate",
+            "devote",
+            "promise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "commitment",
+            "committed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"commit [sth] (a crime/error)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Common",
+        "Legal"
+      ],
+      "DEF_EN":"To perform or carry out (a crime, mistake, or harmful action).",
+      "DEF_ZH":"犯（罪）；做（错事）；干（坏事）。",
+      "SENT_EN":"The police believe he committed the robbery last night.",
+      "SENT_ZH":"警方认为他昨晚犯下了抢劫案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perpetrate",
+            "execute",
+            "enact"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"commit [sb] to [sth] (custody/institution)",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb + preposition",
+      "TAGS":[
+        "Formal",
+        "Legal"
+      ],
+      "DEF_EN":"To send or place (someone) officially into the custody of a prison, hospital, or similar institution.",
+      "DEF_ZH":"将（某人）正式送交（监狱或精神病院）羁押或监护。",
+      "SENT_EN":"The court committed the patient to a secure psychiatric facility.",
+      "SENT_ZH":"法院将病人送交一家安全的精神病院。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consign",
+            "imprison",
+            "institutionalize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"commit [sth] (computing/data)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"In computing, to permanently apply a set of changes or transactions to a database or version control system.",
+      "DEF_ZH":"（计算机）提交；提交更改或事务（以永久保存到数据库或版本控制系统）。",
+      "SENT_EN":"Remember to commit your changes to the repository before logging off.",
+      "SENT_ZH":"下线前，记得把你的修改提交到存储库。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "save",
+            "submit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"commit [sth] to [writing/memory]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb + preposition",
+      "TAGS":[
+        "Formal",
+        "Old word"
+      ],
+      "DEF_EN":"To entrust something to a form of storage, especially writing, print, or memory.",
+      "DEF_ZH":"交付（某事物）给（书面形式或记忆）。",
+      "SENT_EN":"He committed his deepest thoughts to his journal.",
+      "SENT_ZH":"他将自己内心深处的想法记录在日记中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "record",
+            "consign",
+            "entrust"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in legal, technical (computing), and formal contexts."
+}

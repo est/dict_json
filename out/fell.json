@@ -1,0 +1,111 @@
+{
+  "WORD":"fell",
+  "IPA":"/fɛl/",
+  "CONJUGATES":"Past Tense of 'fall': fallen (past participle) | Base Verb 'fell' (to cut down): fells | felling | felled | Noun Plural: fells | Adjective (comparative/superlative, rare): feller | fellest",
+  "ETYMOLOGY":"Meaning 1 (Past of 'fall'): From Old English feoll. | Meaning 2 (V. 'to cut down'): From Old English fyllan, causal form of fallan (to fall). | Meaning 3 (Adj. 'fierce'): From Old French fel (wicked, cruel). | Meaning 4 (N. 'hill'): From Old Norse fjall (mountain, hill).",
+  "SINCE":"Pre-1000 AD (V/V P.T.); c. 1200 (N.); c. 1300 (Adj.)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth] fell",
+      "POS":"v (past tense)",
+      "POS_TIP":"verb (past simple)",
+      "TAGS":[
+        "core word",
+        "highly common"
+      ],
+      "DEF_EN":"The simple past tense of the verb 'fall,' meaning to drop suddenly to the ground or move to a lower position.",
+      "DEF_ZH":"动词 'fall' 的过去式；突然落下；跌倒；下降。",
+      "SENT_EN":"The temperature suddenly fell last night, leading to frost.",
+      "SENT_ZH":"昨晚气温突然下降，导致结霜。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fall",
+            "fallen"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "dropped",
+            "collapsed",
+            "tumbled"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fell [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "forestry"
+      ],
+      "DEF_EN":"To cut down a tree; or, to knock, strike, or bring someone or something down, especially forcefully.",
+      "DEF_ZH":"砍伐（树木）；击倒或打倒（某人或某物）。",
+      "SENT_EN":"They had to fell the old oak because it was diseased.",
+      "SENT_ZH":"他们不得不砍掉那棵老橡树，因为它生病了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chop down",
+            "level",
+            "hewed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fell enemy\na fell disease",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "literary",
+        "archaic",
+        "rare"
+      ],
+      "DEF_EN":"Of a cruel or deadly nature; fierce, menacing, or destructive.",
+      "DEF_ZH":"残忍的；致命的；凶猛的；具有毁灭性的（常用于文学语境）。",
+      "SENT_EN":"The knight faced a fell enemy determined to destroy the kingdom.",
+      "SENT_ZH":"这位骑士面对着一个决心摧毁王国的致命敌人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ruthless",
+            "savage",
+            "deadly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the fells",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "regional",
+        "geography",
+        "uncommon"
+      ],
+      "DEF_EN":"A hill or stretch of high, uncultivated ground, typically in Northern England (especially the Lake District) or Scandinavia.",
+      "DEF_ZH":"荒山；高地；未经耕种的丘陵地带（主要用于英格兰北部）。",
+      "SENT_EN":"The shepherds watched their flocks grazing high up on the fells.",
+      "SENT_ZH":"牧羊人在高地（fells）上看着羊群吃草。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moor",
+            "hill",
+            "mountain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (V/V P.T.); Regional/Literary (Adj/N)"
+}

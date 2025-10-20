@@ -1,0 +1,96 @@
+{
+  "WORD":"connect",
+  "IPA":"/kəˈnɛkt/",
+  "CONJUGATES":"connects | connecting | connected",
+  "ETYMOLOGY":"From Latin connectere, formed from com- (together) + nectere (to bind, tie).",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"connect [sth] to/with [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr: transitive verb (requires a direct object); vi: intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "Core Word",
+        "Physical"
+      ],
+      "DEF_EN":"To join or fasten two or more things together, typically physically or mechanically.",
+      "DEF_ZH":"将两个或多个事物连接或固定在一起，通常是物理上或机械上的。",
+      "SENT_EN":"Please connect the printer cable to the back of the monitor.",
+      "SENT_ZH":"请将打印机电缆连接到显示器背面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "join",
+            "link",
+            "fasten",
+            "attach"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disconnect",
+            "separate",
+            "unfasten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"connect (to) [network/device]",
+      "POS":"vi | vtr",
+      "POS_TIP":"vi: intransitive verb; vtr: transitive verb",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"To successfully establish communication or data flow between devices, systems, or a network.",
+      "DEF_ZH":"（设备或系统）成功建立通信或数据流，通常指网络或电路连接。",
+      "SENT_EN":"The Wi-Fi is slow, but I can still connect to the server.",
+      "SENT_ZH":"Wi-Fi 很慢，但我仍然可以连接到服务器。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "disconnect",
+            "fail"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "log on",
+            "access",
+            "link up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"connect with [sb/sth]",
+      "POS":"vi | vtr",
+      "POS_TIP":"vi: intransitive verb; vtr: transitive verb",
+      "TAGS":[
+        "Abstract",
+        "Social"
+      ],
+      "DEF_EN":"To establish a rapport, relationship, or mutual understanding with someone; to relate or associate ideas.",
+      "DEF_ZH":"与某人建立融洽的关系、联系或相互理解；关联或联系想法。",
+      "SENT_EN":"The new teacher quickly connected with her students on a personal level.",
+      "SENT_ZH":"这位新老师很快就与她的学生建立了个人层面的联系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relate",
+            "bond",
+            "associate",
+            "empathize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical, and social contexts."
+}

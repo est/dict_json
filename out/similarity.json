@@ -1,0 +1,101 @@
+{
+  "WORD":"similarity",
+  "IPA":"/ˌsɪmɪˈlærɪti/",
+  "CONJUGATES":"similarities (plural)",
+  "ETYMOLOGY":"From Middle French similarité or Late Latin similaritas, derived from Latin similis ('like, resembling'). First recorded in English as a synonym for 'likeness'.",
+  "SINCE":"c. 1610s",
+  "MEANINGS":[
+    {
+      "PATTERN":"similarity [between sth and sth]\nsimilarity [to sth]",
+      "POS":"n. uncount.",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state or quality of being alike or resembling something else.",
+      "DEF_ZH":"相似的状态或程度；相像。",
+      "SENT_EN":"There is a striking similarity between the twin sisters.",
+      "SENT_ZH":"这对双胞胎姐妹之间有着惊人的相似之处。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "likeness",
+            "resemblance",
+            "analogy",
+            "congruence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "difference",
+            "dissimilarity",
+            "disparity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "similar",
+            "simile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a similarity [in sth]\nmany similarities",
+      "POS":"n. count.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A feature or point in which two or more things are similar.",
+      "DEF_ZH":"共同的特征或相似之处；相似点。",
+      "SENT_EN":"The researchers pointed out several structural similarities between the two compounds.",
+      "SENT_ZH":"研究人员指出了这两种化合物之间的几个结构相似点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "parallel",
+            "common feature",
+            "analogue"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "distinction",
+            "discrepancy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"geometric similarity",
+      "POS":"n. uncount.",
+      "POS_TIP":"uncountable noun (specialized)",
+      "TAGS":[
+        "technical",
+        "geometry"
+      ],
+      "DEF_EN":"(Geometry) The property of two geometric figures having the same shape, even if one is larger or smaller than the other (i.e., corresponding angles are equal and corresponding sides are proportional).",
+      "DEF_ZH":"（几何学）相似性：两个图形形状相同但大小不一定相同的特性。",
+      "SENT_EN":"The mathematical concept of similarity allows engineers to scale models accurately.",
+      "SENT_ZH":"相似性的数学概念使工程师能够准确地缩放模型。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "congruence",
+            "transformation",
+            "isometry"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, General"
+}

@@ -1,0 +1,102 @@
+{
+  "WORD":"condense",
+  "IPA":"/kənˈdɛns/",
+  "CONJUGATES":"condenses | condensing | condensed",
+  "ETYMOLOGY":"From Middle English condensyn, from Old French condenser, or directly from Latin condensare (con- 'together' + densare 'to make thick').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"condense [sth]\n[sth] condense",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "physics"
+      ],
+      "DEF_EN":"To change or cause to change from a gaseous or vaporous state to a liquid state.",
+      "DEF_ZH":"（使）凝结；（使）液化。指气体或蒸汽转变为液体。",
+      "SENT_EN":"When the air cools, water vapor condenses into clouds.",
+      "SENT_ZH":"当空气冷却时，水蒸气凝结成云。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "liquefy",
+            "precipitate",
+            "deposit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vaporize",
+            "evaporate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"condense [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "communication"
+      ],
+      "DEF_EN":"To express (a piece of writing or speech) in fewer words; to make concise or brief.",
+      "DEF_ZH":"压缩；精简；概括（书面或口头信息）。",
+      "SENT_EN":"The editor asked me to condense the article to fit the remaining space.",
+      "SENT_ZH":"编辑要求我把文章精简一下，以适应剩下的版面空间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abridge",
+            "summarize",
+            "truncate",
+            "shorten"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expand",
+            "elaborate",
+            "dilate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"condense [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "physical"
+      ],
+      "DEF_EN":"To increase the density, concentration, or thickness of something.",
+      "DEF_ZH":"使变浓；使变稠密。",
+      "SENT_EN":"The process involves condensing the milk by boiling off the excess water.",
+      "SENT_ZH":"这个过程涉及通过煮沸去除多余水分来浓缩牛奶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concentrate",
+            "thicken"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dilute",
+            "attenuate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, academic, and scientific contexts."
+}

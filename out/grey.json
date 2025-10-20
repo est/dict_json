@@ -1,0 +1,114 @@
+{
+  "WORD":"grey",
+  "IPA":"/ɡreɪ/",
+  "CONJUGATES":"greyer | greyest | greys | greying | greyed",
+  "ETYMOLOGY":"From Old English grǣg, of Germanic origin; related to Old Norse grár and Old High German grāo. This spelling (grey) is common in British English.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"grey [adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "color"
+      ],
+      "DEF_EN":"Of a color intermediate between black and white, as of ash or lead; often referring to a neutral tone.",
+      "DEF_ZH":"灰色；介于黑色和白色之间的颜色。",
+      "SENT_EN":"She chose a lovely pale grey paint for the bedroom.",
+      "SENT_ZH":"她为卧室选择了一种可爱的浅灰色涂料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ash-colored",
+            "silver"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gray"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grey [adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "common",
+        "metaphorical"
+      ],
+      "DEF_EN":"Dull, gloomy, or lacking brightness, warmth, or interest; often used to describe weather or mood.",
+      "DEF_ZH":"阴沉的；暗淡的；沉闷的；缺乏生气或色彩的。",
+      "SENT_EN":"The grey sky threatened rain all morning.",
+      "SENT_ZH":"阴沉的天空整个上午都预示着要下雨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dreary",
+            "dull",
+            "cheerless"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bright",
+            "vivid",
+            "cheerful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] grey",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "idiomatic",
+        "conceptual"
+      ],
+      "DEF_EN":"Undecided or ambiguous; relating to an area where boundaries (especially legal or moral) are not clear ('grey area').",
+      "DEF_ZH":"模糊不清的；界限不明的；非黑即白的（特指道德或法律界限）。",
+      "SENT_EN":"Determining acceptable use of AI is still a grey area for many industries.",
+      "SENT_ZH":"确定人工智能的可接受用途对许多行业来说仍然是一个灰色地带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ambiguous",
+            "undefined",
+            "nebulous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] grey\n[sb] grey [sth]",
+      "POS":"v",
+      "POS_TIP":"verb (action or state of being)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To become or cause to become grey, especially referring to hair or the fading of color.",
+      "DEF_ZH":"(使) 变灰白；(使) 变暗淡；老化。",
+      "SENT_EN":"His temples started to grey when he turned forty.",
+      "SENT_ZH":"他四十岁时鬓角开始变灰白。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whiten",
+            "silver",
+            "fade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (primarily UK and Commonwealth)"
+}

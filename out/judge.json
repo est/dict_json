@@ -1,0 +1,116 @@
+{
+  "WORD":"judge",
+  "IPA":"/dʒʌdʒ/",
+  "CONJUGATES":"judges | judging | judged",
+  "ETYMOLOGY":"From Old French juge, from Latin iudex (iuris 'law, right' + dicere 'to say, to proclaim')",
+  "SINCE":"c. 1300 (as noun); late 14th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth]\njudge [sb] on [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To form an opinion or conclusion about someone or something after careful consideration or based on personal standards.",
+      "DEF_ZH":"对某人或某事在仔细考虑后或基于个人标准形成意见或结论；评判。",
+      "SENT_EN":"It's unfair to judge a book by its cover.",
+      "SENT_ZH":"以貌取人/以封面判断一本书是不公平的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "evaluate",
+            "assess",
+            "gauge",
+            "appraise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "judgment",
+            "prejudice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"judge [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal"
+      ],
+      "DEF_EN":"A public official appointed to decide cases in a court of law.",
+      "DEF_ZH":"在法院中被任命裁决案件的公职人员；法官。",
+      "SENT_EN":"The judge sentenced the defendant to five years in prison.",
+      "SENT_ZH":"法官判处被告五年监禁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "magistrate",
+            "justice"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jury",
+            "barrister"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"judge [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To pass sentence on (someone) in a court of law.",
+      "DEF_ZH":"在法庭上对（某人）作出判决或宣判。",
+      "SENT_EN":"The court will judge the accused next week.",
+      "SENT_ZH":"法院将于下周审判被告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjudicate",
+            "try",
+            "rule"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"judge [sb]\njudge [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "competition"
+      ],
+      "DEF_EN":"A person who decides the results of a competition or the winner of a contest.",
+      "DEF_ZH":"决定比赛结果或竞赛获胜者的人；裁判员；评委。",
+      "SENT_EN":"One of the judges gave the performance a perfect score.",
+      "SENT_ZH":"其中一位评委给这个表演打了满分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "referee",
+            "umpire",
+            "pundit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, legal contexts, and competitive/evaluative settings."
+}

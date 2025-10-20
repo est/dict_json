@@ -1,0 +1,111 @@
+{
+  "WORD":"target",
+  "IPA":"/ˈtɑːrɡɪt/",
+  "CONJUGATES":"targets | targeted | targeting",
+  "ETYMOLOGY":"From Old French targette (diminutive of targe 'small shield, buckler'), ultimately from Old Norse targa ('shield'). The meaning shifted from the object itself (the shield) to the object being aimed at (the mark).",
+  "SINCE":"Late 14th century (as a shield); 18th century (as an object to aim at)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "sports"
+      ],
+      "DEF_EN":"A physical object, area, or mark aimed at in shooting, bombing, or other attack.",
+      "DEF_ZH":"在射击、轰炸或其他攻击中瞄准的实体物体、区域或标记物。",
+      "SENT_EN":"The pilot missed the primary target due to poor visibility.",
+      "SENT_ZH":"由于能见度差，飞行员错过了主要目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mark",
+            "aim",
+            "bullseye"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "business",
+        "general"
+      ],
+      "DEF_EN":"A desired result or objective; a goal planned to be achieved.",
+      "DEF_ZH":"预期的结果或目的；计划实现的目标。",
+      "SENT_EN":"The company set a target of 10% profit increase for the next fiscal year.",
+      "SENT_ZH":"公司为下一个财政年度设定了10%的利润增长目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "goal",
+            "objective",
+            "quota",
+            "benchmark"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "failure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"target [sb]\ntarget [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To select or mark someone or something as the focus of an action, attack, or promotion.",
+      "DEF_ZH":"选择或标记某人或某物作为行动、攻击或推广的焦点。",
+      "SENT_EN":"The new marketing campaign specifically targets young professionals.",
+      "SENT_ZH":"新的营销活动专门针对年轻专业人士。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aim at",
+            "focus on",
+            "designate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[group]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "social",
+        "common"
+      ],
+      "DEF_EN":"A person or group singled out for attention, criticism, or persecution.",
+      "DEF_ZH":"被挑选出来作为关注、批评或迫害对象的人或群体。",
+      "SENT_EN":"He became the target of online harassment after the interview.",
+      "SENT_ZH":"采访结束后，他成为了网络骚扰的目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "victim",
+            "prey",
+            "scapegoat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in business, military, and sports contexts."
+}

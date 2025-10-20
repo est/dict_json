@@ -1,0 +1,80 @@
+{
+  "WORD":"plea",
+  "IPA":"/pliːə/",
+  "CONJUGATES":"pleas",
+  "ETYMOLOGY":"From Middle English ple, from Old French plait ('argument, lawsuit'), ultimately from Latin placitum ('a decision, decree'), derived from placere ('to please, agree').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"make a plea [for sth]\na desperate plea",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A request made in an urgent, emotional, or serious manner.",
+      "DEF_ZH":"恳求；紧急或动情的请求；哀求。",
+      "SENT_EN":"The doctor made an urgent plea for more blood donations.",
+      "SENT_ZH":"医生紧急呼吁献出更多血液。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appeal",
+            "entreaty",
+            "supplication",
+            "petition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enter a plea [of] [guilty/not guilty]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal term",
+        "core word"
+      ],
+      "DEF_EN":"In law, the formal response of a defendant to a criminal charge, stating whether they admit guilt or claim innocence.",
+      "DEF_ZH":"（法律）答辩；抗辩；被告对刑事指控的正式回应（如认罪或不认罪）。",
+      "SENT_EN":"The suspect entered a plea of not guilty at the arraignment.",
+      "SENT_ZH":"嫌疑人在提审时做出了无罪抗辩。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "arraignment",
+            "indictment",
+            "verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plea [of] [justification]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "justification"
+      ],
+      "DEF_EN":"An excuse or justification offered in defense of an action.",
+      "DEF_ZH":"辩解；借口；理由。",
+      "SENT_EN":"His plea of fatigue was disregarded by his strict supervisor.",
+      "SENT_ZH":"他以疲劳作为辩解，但被他严格的主管无视了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excuse",
+            "justification",
+            "defense"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in general language and specialized legal contexts."
+}

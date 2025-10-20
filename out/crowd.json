@@ -1,0 +1,111 @@
+{
+  "WORD":"crowd",
+  "IPA":"/kraʊd/",
+  "CONJUGATES":"crowds (n. pl.) | crowded (v. pt.) | crowding (v. prp.) | crowds (v. 3s)",
+  "ETYMOLOGY":"From Old English crūdan (to press, push), related to Middle Dutch crūden.",
+  "SINCE":"c. 1300 (for the noun sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] crowd [of sb/sth]",
+      "POS":"n",
+      "POS_TIP":"n (countable noun)",
+      "TAGS":[
+        "core word",
+        "collective noun"
+      ],
+      "DEF_EN":"A large number of people gathered together, often without specific organization.",
+      "DEF_ZH":"人群；群众；大批人。",
+      "SENT_EN":"A huge crowd waited patiently outside the theater doors.",
+      "SENT_ZH":"一大群人耐心地在剧院门口等待着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "throng",
+            "multitude",
+            "gathering",
+            "mass",
+            "horde"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mob",
+            "audience",
+            "spectators"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"crowd [v]\ncrowd into [sth] | crowd [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr (transitive verb) | vint (intransitive verb)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To fill a space so completely as to leave little or no room for movement; to press or squeeze together.",
+      "DEF_ZH":"挤满；拥挤；群集；挤入。",
+      "SENT_EN":"Too many people were crowding the platform, waiting for the train.",
+      "SENT_ZH":"太多人挤在站台上等火车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pack",
+            "cram",
+            "squeeze",
+            "bunch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"crowd [sb/sth] out\ncrowd [sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb)",
+      "TAGS":[
+        "phrasal verb",
+        "figurative"
+      ],
+      "DEF_EN":"To approach someone too closely, causing discomfort or invading personal space; (with 'out') to push someone or something out of a space or situation by taking up all the room or attention.",
+      "DEF_ZH":"（靠得太近）侵犯空间；（与 out 连用）挤掉；排挤；压倒。",
+      "SENT_EN":"The smaller businesses were crowded out by the new chain stores.",
+      "SENT_ZH":"小企业被新的连锁店排挤掉了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "overwhelm",
+            "dominate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] crowd\nthe crowd",
+      "POS":"n",
+      "POS_TIP":"n (countable noun)",
+      "TAGS":[
+        "informal",
+        "social"
+      ],
+      "DEF_EN":"A specific group of people, typically friends or associates, who share common interests.",
+      "DEF_ZH":"（特定）圈子；一帮朋友。",
+      "SENT_EN":"She’s not usually part of the academic crowd.",
+      "SENT_ZH":"她通常不属于学术圈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clique",
+            "set",
+            "circle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, suitable for formal and informal contexts."
+}

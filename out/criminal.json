@@ -1,0 +1,90 @@
+{
+  "WORD":"criminal",
+  "IPA":"/ˈkrɪmɪnəl/",
+  "CONJUGATES":"criminals",
+  "ETYMOLOGY":"From Latin criminalis ('relating to a crime'), from crimen ('charge, offense, crime')",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"A person who has committed a crime.",
+      "DEF_ZH":"犯下罪行的人；罪犯。",
+      "SENT_EN":"The police arrested the notorious criminal after a long chase.",
+      "SENT_ZH":"警方在长期追捕后逮捕了那名臭名昭著的罪犯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offender",
+            "felon",
+            "culprit",
+            "lawbreaker"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "crime",
+            "justice",
+            "law"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"Relating to, involving, or guilty of crime.",
+      "DEF_ZH":"与罪行有关的；犯罪的；有罪的。",
+      "SENT_EN":"The court dealt with several criminal cases this morning.",
+      "SENT_ZH":"法庭今天上午处理了几起刑事案件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "legal",
+            "penal",
+            "illegal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "informal",
+        "exaggeration"
+      ],
+      "DEF_EN":"(Informal) Scandalously wrong, foolish, or unjust.",
+      "DEF_ZH":"（非正式，夸张）可耻地错误、愚蠢或不公正的。",
+      "SENT_EN":"It's a criminal waste of talent to have her doing such a boring job.",
+      "SENT_ZH":"让她做这么无聊的工作简直是对她才能的极大浪费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shameful",
+            "outrageous",
+            "terrible"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; legal contexts for core meanings"
+}

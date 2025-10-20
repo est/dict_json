@@ -1,0 +1,168 @@
+{
+  "WORD":"trim",
+  "IPA":"/trɪm/",
+  "CONJUGATES":"trim (base) | trims (3rd person singular present) | trimmed (past simple, past participle) | trimming (present participle)",
+  "ETYMOLOGY":"From Old English trymman 'to make firm, arrange, prepare, strengthen'. Later influenced by Old French trimmer 'to prepare, arrange'. The nautical sense of adjusting sails emerged in the 16th century, leading to broader meanings of neatness and order.",
+  "SINCE":"c. 1000 AD (verb), c. 16th century (nautical/adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"trim [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cut off irregular or unwanted parts of something, especially hair, hedges, or nails, to make it neater or shorter.",
+      "DEF_ZH":"修剪；剪除（不规则或多余的部分，如头发、树篱、指甲），使其整洁或变短。",
+      "SENT_EN":"I need to trim my beard before the meeting.",
+      "SENT_ZH":"开会前我需要修剪我的胡须。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut",
+            "clip",
+            "prune",
+            "snip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trim [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "specialized",
+        "nautical",
+        "aviation"
+      ],
+      "DEF_EN":"To adjust the balance of a ship or aircraft, often by distributing the load, or to adjust sails to the wind.",
+      "DEF_ZH":"配平；调整（船只或飞机）的载荷平衡；调整船帆以适应风向。",
+      "SENT_EN":"The pilot trimmed the aircraft for level flight.",
+      "SENT_ZH":"飞行员调整了飞机以进行平稳飞行。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"trim [sth] with [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb with preposition: a verb that requires a direct object and is followed by a preposition",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To decorate something, especially around the edges, with ribbons, lace, or other material.",
+      "DEF_ZH":"装饰；点缀（尤指边缘），用丝带、蕾丝或其他材料。",
+      "SENT_EN":"The dress was trimmed with delicate lace.",
+      "SENT_ZH":"这件连衣裙用精致的蕾丝镶边。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decorate",
+            "adorn",
+            "embellish",
+            "edge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] / [sth] is trim",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes a noun or pronoun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Neat, tidy, and in good order; also, slim and fit in appearance.",
+      "DEF_ZH":"整洁的；匀称的；（身材）苗条的，健康的。",
+      "SENT_EN":"She maintains a very trim figure by exercising regularly.",
+      "SENT_ZH":"她通过定期锻炼保持着非常苗条的身材。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "neat",
+            "tidy",
+            "sleek",
+            "slender",
+            "fit",
+            "well-kept"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "messy",
+            "untidy",
+            "flabby"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trim",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act of cutting off small parts of something to make it neater, especially referring to a haircut.",
+      "DEF_ZH":"修剪；剪发（尤指头发的修剪）。",
+      "SENT_EN":"I went to the salon for a quick trim.",
+      "SENT_ZH":"我去了沙龙做了一个快速的修剪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "haircut",
+            "clip",
+            "pruning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the trim",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, or idea",
+      "TAGS":[
+        "common",
+        "automotive",
+        "interior design"
+      ],
+      "DEF_EN":"Decorative fittings or accessories, especially for the interior of a car or on clothing.",
+      "DEF_ZH":"装饰物；镶边；（尤指汽车内饰或服装上的）装饰件。",
+      "SENT_EN":"The car had a luxurious leather trim.",
+      "SENT_ZH":"这辆车有豪华的皮革内饰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decoration",
+            "embellishment",
+            "lining",
+            "edging"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the trim",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, or idea",
+      "TAGS":[
+        "specialized",
+        "nautical",
+        "aviation"
+      ],
+      "DEF_EN":"The condition of a ship or aircraft in the water or air regarding its balance, stability, and position.",
+      "DEF_ZH":"（船只或飞机在水面或空中的）吃水状态；平衡状态；姿态。",
+      "SENT_EN":"The captain adjusted the vessel's trim to improve stability in rough seas.",
+      "SENT_ZH":"船长调整了船只的吃水状态，以提高在恶劣海况下的稳定性。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Technical (nautical, automotive, aviation)"
+}

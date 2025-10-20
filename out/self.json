@@ -1,0 +1,93 @@
+{
+  "WORD":"self",
+  "IPA":"/sɛlf/",
+  "CONJUGATES":"selves (n. plural) | self- (prefix)",
+  "ETYMOLOGY":"From Old English self, seolf (adjective, pronoun), meaning 'one's own' or 'the same'. Related to Old High German selb.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s self\nthe self",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"A person's essential being, individuality, personality, or identity, distinguishing them from others.",
+      "DEF_ZH":"一个人的本质、个性或身份，使其区别于他人的存在。",
+      "SENT_EN":"She spent years trying to understand her true self.",
+      "SENT_ZH":"她花了数年时间试图了解她真实的自我。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identity",
+            "individuality",
+            "ego",
+            "person"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the self",
+      "POS":"n",
+      "POS_TIP":"noun (used in philosophy and psychology)",
+      "TAGS":[
+        "technical",
+        "psychology"
+      ],
+      "DEF_EN":"In psychological theory, the totality of the individual, encompassing both conscious and unconscious personality aspects.",
+      "DEF_ZH":"（心理学）个体的总和，包括意识和潜意识层面的所有个性特征。",
+      "SENT_EN":"The development of the self is a major topic in developmental psychology.",
+      "SENT_ZH":"自我的发展是发展心理学中的一个重要课题。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "superego",
+            "psyche"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"self- [sth]",
+      "POS":"prefix / adj",
+      "POS_TIP":"prefix or attributive adjective used to form compound words",
+      "TAGS":[
+        "common",
+        "modifier"
+      ],
+      "DEF_EN":"Used to denote actions or qualities referring back to oneself or itself; automatic or independent.",
+      "DEF_ZH":"用于构成复合词的前缀，表示与自身相关的、自动的或独立的（例如：self-aware 自觉的，self-driving 自动驾驶的）。",
+      "SENT_EN":"Self-discipline is key to achieving long-term goals.",
+      "SENT_ZH":"自律是实现长期目标的关键。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "self-care",
+            "self-esteem",
+            "self-conscious"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] self",
+      "POS":"pron",
+      "POS_TIP":"pronoun (archaic or dialectal use)",
+      "TAGS":[
+        "old word",
+        "rare"
+      ],
+      "DEF_EN":"Used to intensify or emphasize a person or thing previously mentioned (now typically replaced by reflexive pronouns like 'himself' or 'myself').",
+      "DEF_ZH":"自身，本人（用于加强语气或强调，现多被反身代词取代）。",
+      "SENT_EN":"The king self announced the decree.",
+      "SENT_ZH":"国王本人亲自宣布了法令。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Academic, Psychology"
+}

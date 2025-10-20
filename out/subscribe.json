@@ -1,0 +1,93 @@
+{
+  "WORD":"subscribe",
+  "IPA":"/səbˈskraɪb/",
+  "CONJUGATES":"subscribes | subscribing | subscribed",
+  "ETYMOLOGY":"From Latin subscribere (sub- 'under' + scribere 'write'), meaning 'to write underneath' or 'to sign one's name below'.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"subscribe [to sth]",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "internet culture"
+      ],
+      "DEF_EN":"To arrange to receive or access a periodical, service, or resource, often electronically, by paying a fee or registering.",
+      "DEF_ZH":"预订、订阅（刊物、服务或资源），通常指电子形式，常需付费或注册。",
+      "SENT_EN":"I decided to subscribe to the online streaming service for a month.",
+      "SENT_ZH":"我决定订阅这个在线流媒体服务一个月。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sign up",
+            "register",
+            "enroll"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "subscription",
+            "subscriber"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"subscribe [to sth]",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "formal",
+        "opinion"
+      ],
+      "DEF_EN":"To express agreement with or support for an idea, belief, or theory.",
+      "DEF_ZH":"表示同意、支持（一种观点、信仰或理论）。",
+      "SENT_EN":"He does not subscribe to the theory that failure is inevitable.",
+      "SENT_ZH":"他不同意失败是不可避免的这种理论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "agree with",
+            "endorse",
+            "support"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disagree with",
+            "reject"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"subscribe [sth] [to sth]",
+      "POS":"v tr + prep",
+      "POS_TIP":"transitive verb with preposition",
+      "TAGS":[
+        "formal",
+        "archaic"
+      ],
+      "DEF_EN":"To contribute money to a fund or cause.",
+      "DEF_ZH":"捐款、认捐（给基金或事业）。",
+      "SENT_EN":"The members subscribed a generous amount to the charity appeal.",
+      "SENT_ZH":"会员们为慈善呼吁捐助了慷慨的数额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "donate",
+            "contribute"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly common in digital and media contexts."
+}

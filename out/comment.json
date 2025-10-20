@@ -1,0 +1,79 @@
+{
+  "WORD":"comment",
+  "IPA":"/ˈkɑːmənt/",
+  "CONJUGATES":"comments | commenting | commented",
+  "ETYMOLOGY":"From Old French comment (noun) and commenter (verb), derived from Latin commentum (interpretation, note, invention), the neuter past participle of comminisci ('to devise, invent')",
+  "SINCE":"c. 1400 (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] make a comment [on sth/sb]",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "general usage"
+      ],
+      "DEF_EN":"A verbal or written remark expressing an opinion or reaction.",
+      "DEF_ZH":"评论；意见；看法。",
+      "SENT_EN":"She refused to make any comment until she had all the facts.",
+      "SENT_ZH":"在她掌握所有事实之前，她拒绝发表任何评论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remark",
+            "observation",
+            "note",
+            "statement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] comment [on sth/sb]\n[sb] comment [that...]",
+      "POS":"vi | vt",
+      "POS_TIP":"verb, intransitive | verb, transitive",
+      "TAGS":[
+        "core word",
+        "communication"
+      ],
+      "DEF_EN":"To express an opinion or reaction; to make a remark.",
+      "DEF_ZH":"评论；发表意见或看法。",
+      "SENT_EN":"The manager commented favorably on the team's performance.",
+      "SENT_ZH":"经理对团队的表现给予了正面的评价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remark",
+            "observe",
+            "state"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"add a comment",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A non-executable note included in programming code or documentation to explain specific sections or functions.",
+      "DEF_ZH":"(计算机) 注释；程序中的说明。",
+      "SENT_EN":"Always add a comment explaining why you chose this specific algorithm.",
+      "SENT_ZH":"一定要添加注释来解释你选择这个特定算法的原因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "annotation",
+            "markup"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

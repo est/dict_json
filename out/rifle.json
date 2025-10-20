@@ -1,0 +1,88 @@
+{
+  "WORD":"rifle",
+  "IPA":"/'raɪfl/",
+  "CONJUGATES":"rifles | rifling | rifled",
+  "ETYMOLOGY":"The firearm noun comes from the verb 'rifle' (to cut spiral grooves), derived from Middle French *riffer* (to scratch or scrape). The separate verb meaning 'to rob' may be related to Middle English *riflen* (to plunder).",
+  "SINCE":"16th century (verb 'to rob'); Mid-18th century (noun 'firearm')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (nominal)",
+      "TAGS":[
+        "Core word",
+        "Military",
+        "Hunting"
+      ],
+      "DEF_EN":"A long-barreled firearm designed to be fired from the shoulder, usually having spiral grooves (rifling) inside the bore to spin the projectile for increased accuracy.",
+      "DEF_ZH":"一种长管肩射火器，通常枪膛内有螺旋状膛线（来福线），可使弹丸旋转以提高射击精准度。",
+      "SENT_EN":"The soldier secured his position, sighting his rifle on the target.",
+      "SENT_ZH":"士兵固定好位置，用步枪瞄准了目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "firearm",
+            "musket",
+            "carbine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rifling",
+            "ammunition",
+            "shotgun"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rifle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Common",
+        "Action"
+      ],
+      "DEF_EN":"To search quickly and roughly through something in order to steal things; to ransack or plunder.",
+      "DEF_ZH":"快速粗暴地翻找某物以进行偷窃；洗劫或抢劫。",
+      "SENT_EN":"The thieves rifled through the drawers, looking for jewelry.",
+      "SENT_ZH":"窃贼翻遍了抽屉，寻找珠宝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ransack",
+            "plunder",
+            "pillage",
+            "rob"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rifle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Technical",
+        "Historical"
+      ],
+      "DEF_EN":"To cut spiral grooves into the bore of a gun barrel.",
+      "DEF_ZH":"在枪管内壁切割螺旋状膛线（来福线）。",
+      "SENT_EN":"It takes specialized machinery to accurately rifle a barrel.",
+      "SENT_ZH":"给枪管精确地刻上膛线需要专门的机械。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bore",
+            "rifling"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

@@ -1,0 +1,81 @@
+{
+  "WORD":"dose",
+  "IPA":"/doʊs/",
+  "CONJUGATES":"doses (n.) | doses (v.) | dosed | dosing",
+  "ETYMOLOGY":"From Middle English *dosis*, via Medieval Latin *dosis*, derived from Ancient Greek *dosis* (a giving, the amount given), from *didonai* (to give).",
+  "SINCE":"c. 1500",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "measurement"
+      ],
+      "DEF_EN":"A specified quantity of a medicine, drug, or radiation that is administered, taken, or absorbed at one time.",
+      "DEF_ZH":"一次服用、注射或吸收的药物、毒品或辐射的规定数量。",
+      "SENT_EN":"It is crucial not to exceed the recommended daily dose of paracetamol.",
+      "SENT_ZH":"至关重要的是不要超过扑热息痛的推荐每日剂量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dosage",
+            "amount",
+            "quantity",
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a dose of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"An amount or measure of something non-medical, often used to refer to an experience or an undesirable portion.",
+      "DEF_ZH":"某种非药物的量或份，常用于指代经历或某种不愉快的部分。",
+      "SENT_EN":"The bad reviews gave the restaurant a healthy dose of humility.",
+      "SENT_ZH":"那些差评让这家餐厅承受了一次实实在在的打击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "portion",
+            "shot",
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dose [sb] [with sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "medical"
+      ],
+      "DEF_EN":"To administer a dose of medicine or drug to (someone or something).",
+      "DEF_ZH":"给（某人或某物）服用或施用一定剂量的药物。",
+      "SENT_EN":"The veterinarian had to dose the kitten with anti-parasite medication.",
+      "SENT_ZH":"兽医不得不给小猫服用抗寄生虫药物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "administer",
+            "medicate",
+            "treat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, frequently used in medical and scientific contexts."
+}

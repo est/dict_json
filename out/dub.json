@@ -1,0 +1,105 @@
+{
+  "WORD":"dub",
+  "IPA":"/dʌb/",
+  "CONJUGATES":"dubs | dubbed | dubbing",
+  "ETYMOLOGY":"The verb form (to confer a title, strike) is from Middle English, via Old French adouber ('to equip, strike'). The modern usage relating to audio/film is a shortening of 'double' or 'dubbing', first recorded in the 1920s.",
+  "SINCE":"c. 1300 (c. 1920s for audio meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"dub [sth] (in [lang])",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "core word",
+        "film/audio"
+      ],
+      "DEF_EN":"To replace the original soundtrack of a film or broadcast, especially the speech, with a translation or recording in another language.",
+      "DEF_ZH":"用另一种语言（通常是翻译后的版本）替换电影或广播的原始音轨，尤其是对白部分；配音。",
+      "SENT_EN":"We prefer watching foreign movies with subtitles rather than having them dubbed into English.",
+      "SENT_ZH":"我们更喜欢看带字幕的外国电影，而不是将它们配音成英语。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "voice-over",
+            "post-synchronize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "subtitles"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dub [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To give a title, nickname, or description to someone or something.",
+      "DEF_ZH":"授予某人头衔、绰号或某种称谓。（历史上也可指授予骑士爵位）。",
+      "SENT_EN":"The media immediately dubbed him the 'comeback kid' after his surprising victory.",
+      "SENT_ZH":"在他意外获胜后，媒体立刻给他起了个绰号叫“回归小子”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "name",
+            "christen",
+            "entitle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dub",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "music",
+        "genre"
+      ],
+      "DEF_EN":"A style of Jamaican music derived from reggae, characterized by rhythmic delay, echoing, and substantial manipulation of existing recorded tracks.",
+      "DEF_ZH":"一种源自雷鬼乐的牙买加音乐风格，特点是使用有节奏的延迟、回音以及对现有录音曲目进行大量操作。",
+      "SENT_EN":"He spent the evening mixing tracks in the studio, creating a heavy bass dub version.",
+      "SENT_ZH":"他花了一整个晚上在工作室里混音，制作了一个重低音的Dub版本。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reggae",
+            "ska"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dub [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "informal",
+        "audio"
+      ],
+      "DEF_EN":"To make a copy of a recording, typically onto a cassette tape or similar medium.",
+      "DEF_ZH":"复制一份录音，通常指复制到磁带或类似介质上。",
+      "SENT_EN":"Could you dub me a copy of that concert tape?",
+      "SENT_ZH":"你能帮我复制一份那盘演唱会录音带吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "copy",
+            "duplicate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in media production, especially film and music, and in general descriptive language."
+}

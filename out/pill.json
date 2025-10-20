@@ -1,0 +1,108 @@
+{
+  "WORD":"pill",
+  "IPA":"/pɪl/",
+  "CONJUGATES":"pills | pilling | pilled",
+  "ETYMOLOGY":"From Middle English pille, from Old French pile 'small ball', probably from Latin pilula 'little ball' (diminutive of pila 'ball').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medicine",
+        "common"
+      ],
+      "DEF_EN":"A small, usually round or oval piece of medicine to be swallowed whole.",
+      "DEF_ZH":"药丸；片剂 (一种通常为圆形或椭圆形，用于吞服的小块药物)。",
+      "SENT_EN":"The doctor prescribed a pill to help manage the patient's pain.",
+      "SENT_ZH":"医生开了一种药丸来帮助控制病人的疼痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tablet",
+            "capsule",
+            "lozenge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "medication",
+            "drug"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Pill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "medicine",
+        "common"
+      ],
+      "DEF_EN":"Used specifically to refer to the contraceptive pill, an oral form of birth control.",
+      "DEF_ZH":"（特指）避孕药（一种口服的节育药物）。",
+      "SENT_EN":"She decided to go on the Pill for birth control.",
+      "SENT_ZH":"她决定服用避孕药来避孕。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "contraceptive",
+            "birth control"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "metaphor"
+      ],
+      "DEF_EN":"An unpleasant or tedious necessity; a disagreeable fact that must be accepted.",
+      "DEF_ZH":"必须接受的讨厌或不愉快的事情（比喻用法）。",
+      "SENT_EN":"Having to work overtime every week is a bitter pill to swallow.",
+      "SENT_ZH":"每周都不得不加班是一件必须忍受的苦事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cross to bear",
+            "burden"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (usually cloth)",
+      "POS":"v intr | v tr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "textiles",
+        "verb"
+      ],
+      "DEF_EN":"To form small balls of fiber (pills) on the surface of fabric, usually through rubbing.",
+      "DEF_ZH":"（使）起球；在织物表面形成小纤维球。",
+      "SENT_EN":"This sweater tends to pill easily after washing.",
+      "SENT_ZH":"这件毛衣洗后很容易起球。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lint",
+            "fuzz"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widespread use across general conversation and medical contexts."
+}

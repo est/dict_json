@@ -1,0 +1,128 @@
+{
+  "WORD":"recall",
+  "IPA":"/rɪˈkɔːl/",
+  "CONJUGATES":"recalls | recalling | recalled",
+  "ETYMOLOGY":"From Middle English recallen, from re- (back, again) + callen (to call). Originally meaning 'to call back' (in a literal sense).",
+  "SINCE":"Late Middle Ages (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"recall [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "memory"
+      ],
+      "DEF_EN":"To bring a past fact, event, or state back into one's mind; to remember.",
+      "DEF_ZH":"回忆起；回想起 (某事或某物)。",
+      "SENT_EN":"I can clearly recall the day we first met 20 years ago.",
+      "SENT_ZH":"我能清晰地回忆起我们20年前初次见面的那天。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remember",
+            "recollect",
+            "bring to mind"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forget",
+            "obliviscere"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recall [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "official",
+        "business"
+      ],
+      "DEF_EN":"To ask for the return of a product that has been sold, usually because of a fault or safety issue.",
+      "DEF_ZH":"召回 (有缺陷的产品)。",
+      "SENT_EN":"The automobile manufacturer was forced to recall thousands of vehicles due to a safety defect.",
+      "SENT_ZH":"由于安全缺陷，汽车制造商被迫召回了数千辆汽车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "withdraw",
+            "revoke"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recall [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "diplomacy"
+      ],
+      "DEF_EN":"To order an elected official, representative, or diplomat to return from a post or position.",
+      "DEF_ZH":"召回；调回 (官员或外交官)。",
+      "SENT_EN":"The ambassador was recalled to the capital for urgent consultations.",
+      "SENT_ZH":"大使被召回首都进行紧急磋商。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summon back",
+            "repatriate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a recall of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "memory"
+      ],
+      "DEF_EN":"The ability to remember things; the act of bringing a memory back to mind.",
+      "DEF_ZH":"记忆力；回想；记起。",
+      "SENT_EN":"His immediate recall of details was impressive.",
+      "SENT_ZH":"他立即回忆细节的能力令人印象深刻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recollection",
+            "remembrance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"product recall\na recall election",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "business",
+        "politics"
+      ],
+      "DEF_EN":"An official order for the return of a product; or, a procedure to remove an elected official from office by popular vote.",
+      "DEF_ZH":"召回令 (产品)；罢免 (投票)；撤销。",
+      "SENT_EN":"The massive product recall cost the company millions in damages.",
+      "SENT_ZH":"大规模的产品召回给公司造成了数百万美元的损失。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "impeachment",
+            "revocation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, used widely in both everyday conversation and technical/formal contexts (especially business and politics)."
+}

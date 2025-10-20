@@ -1,0 +1,102 @@
+{
+  "WORD":"technical",
+  "IPA":"/tɛknɪkəl/",
+  "CONJUGATES":"technically (adv) | technicality (n) | technicalities (pl n)",
+  "ETYMOLOGY":"From Latin technicus, from Greek tekhnikos (of art, belonging to art), related to tekhnē (art, skill, craft).",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"technical [sth] (e.g., technical problem, technical device)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "science/engineering"
+      ],
+      "DEF_EN":"Relating to or characteristic of a particular subject, art, or skill, especially one involving mechanics, engineering, applied sciences, or industrial arts.",
+      "DEF_ZH":"与某一特定学科、艺术或技能相关的，尤其是涉及机械、工程、应用科学或工业艺术的。",
+      "SENT_EN":"The company hired a team of experts to solve the complex technical issues with the system's hardware.",
+      "SENT_ZH":"该公司聘请了一个专家团队来解决系统硬件方面复杂的专门技术问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mechanical",
+            "industrial",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"technical [language]\n[jargon]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "specialized"
+      ],
+      "DEF_EN":"Using terminology or knowledge specific to a particular specialized field, often making it difficult for non-experts to understand.",
+      "DEF_ZH":"使用特定专业领域术语或知识的，常使非专业人士难以理解的。",
+      "SENT_EN":"The lecture contained too much technical jargon, making it inaccessible to the general audience.",
+      "SENT_ZH":"讲座包含了太多的专业术语，使得普通听众难以理解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "specialized",
+            "expert",
+            "scientific"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"technical [point]\n[error]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "formal",
+        "legal",
+        "rare"
+      ],
+      "DEF_EN":"Relating to details of a strict procedure or rule, often implying that the matter is trivial or merely formal rather than substantial.",
+      "DEF_ZH":"关于严格程序或规则的细节，常暗示问题是琐碎的、形式上的，而非实质性的。",
+      "SENT_EN":"The judge dismissed the case based on a technical error in the filing paperwork.",
+      "SENT_ZH":"法官因提交文件中的一个程序性错误而驳回了该案件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "procedural",
+            "formalistic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"technical [skill/mastery] (e.g., in music or sport)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "arts",
+        "sports"
+      ],
+      "DEF_EN":"Relating to the execution, method, or formal skills required for an art, sport, or performance, distinct from talent or emotional expression.",
+      "DEF_ZH":"涉及艺术、体育或表演所需的执行力、方法或形式技巧，区别于天赋或情感表达。",
+      "SENT_EN":"Her technical mastery of the piano was undeniable, even if her performance lacked emotion.",
+      "SENT_ZH":"她对钢琴的技巧掌控是毋庸置疑的，尽管她的表演缺乏感情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "methodical",
+            "craftsmanship"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, academic, and professional usage, especially in fields like engineering, computing, and law."
+}

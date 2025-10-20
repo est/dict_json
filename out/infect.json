@@ -1,0 +1,88 @@
+{
+  "WORD":"infect",
+  "IPA":"/ɪnˈfɛkt/",
+  "CONJUGATES":"infects | infecting | infected",
+  "ETYMOLOGY":"From Late Middle English, derived from Latin īnfectus, past participle of īnfacere ('to put in, stain, taint'), from in- ('into') + facere ('to make, do').",
+  "SINCE":"c. 1400s (Late Middle Ages)",
+  "MEANINGS":[
+    {
+      "PATTERN":"infect [sb]\ninfect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (a verb that takes a direct object)",
+      "TAGS":[
+        "core word",
+        "biology",
+        "medicine"
+      ],
+      "DEF_EN":"To transmit a disease or pathogen to a person, animal, or tissue.",
+      "DEF_ZH":"（用病原体）感染（人、动物或组织）；传染。",
+      "SENT_EN":"He caught a highly contagious virus that quickly infected his whole family.",
+      "SENT_ZH":"他感染了一种传染性很强的病毒，很快就传染给了他的全家人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contaminate",
+            "transmit",
+            "sicken"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "infection",
+            "disease",
+            "pathogen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"infect [sb] with [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To imbue or influence someone with a feeling, attitude, or quality, often in a rapid or pervasive way.",
+      "DEF_ZH":"感染，影响（指情感或态度的快速传播）。",
+      "SENT_EN":"His boundless enthusiasm soon infected everyone working on the project.",
+      "SENT_ZH":"他那无限的热情很快就感染了所有参与这个项目的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "influence",
+            "inspire",
+            "permeate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"infect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (a verb that takes a direct object)",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"To introduce a computer virus or malicious software into a system, file, or device.",
+      "DEF_ZH":"（用计算机病毒或恶意软件）感染（系统或文件）。",
+      "SENT_EN":"Opening that unknown file infected his computer with ransomware.",
+      "SENT_ZH":"打开那个未知文件使他的电脑感染了勒索软件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "virus",
+            "malware",
+            "hack"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often medical, technical, or figurative."
+}

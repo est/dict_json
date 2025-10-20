@@ -1,0 +1,79 @@
+{
+  "WORD":"indication",
+  "IPA":"/ˌɪndɪˈkeɪʃən/",
+  "CONJUGATES":"indications (plural)",
+  "ETYMOLOGY":"From Late Latin indicatio, from indicare ('to point out, show'), based on index ('forefinger, pointer').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"indication [of sth]",
+      "POS":"n. uncount",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sign or piece of evidence that suggests the existence, occurrence, or state of something.",
+      "DEF_ZH":"迹象；表明；指示",
+      "SENT_EN":"There was no indication that the company was in financial trouble.",
+      "SENT_ZH":"没有迹象表明这家公司陷入了财务困境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sign",
+            "signal",
+            "evidence",
+            "symptom",
+            "hint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an indication [of sth]\nindications",
+      "POS":"n. count",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A slight suggestion or brief piece of information.",
+      "DEF_ZH":"提示；暗示；说明",
+      "SENT_EN":"The manager gave a strong indication of his future strategy during the meeting.",
+      "SENT_ZH":"经理在会议中强烈暗示了他未来的战略。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clue",
+            "suggestion",
+            "inkling",
+            "pointer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"indication [for sth]",
+      "POS":"n. count",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "technical",
+        "medical"
+      ],
+      "DEF_EN":"A condition or factor that suggests a specific medical treatment or procedure is necessary or appropriate.",
+      "DEF_ZH":"（医学）适应症；指征",
+      "SENT_EN":"Severe pain is a strong indication for immediate surgical intervention.",
+      "SENT_ZH":"剧烈疼痛是立即进行手术干预的强烈指征。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "contraindication"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Formal | Technical"
+}

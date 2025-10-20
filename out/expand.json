@@ -1,0 +1,91 @@
+{
+  "WORD":"expand",
+  "IPA":"/ɪkˈspænd/",
+  "CONJUGATES":"expands | expanding | expanded",
+  "ETYMOLOGY":"From Latin expandere (ex- 'out' + pandere 'to spread, stretch')",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"expand [sth]\n[sth] expand",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To increase in size, volume, scope, or importance.",
+      "DEF_ZH":"（使）体积、范围、数量或重要性增大；扩展；膨胀。",
+      "SENT_EN":"The universe continues to expand at an accelerating rate.",
+      "SENT_ZH":"宇宙正以加速的速度持续膨胀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enlarge",
+            "widen",
+            "extend",
+            "broaden",
+            "amplify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contract",
+            "shrink",
+            "compress",
+            "diminish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expand on [sth]",
+      "POS":"vint + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "common",
+        "discourse"
+      ],
+      "DEF_EN":"To give more details or fuller information about a topic or idea.",
+      "DEF_ZH":"详述；展开说明；充实细节。",
+      "SENT_EN":"The CEO was asked to expand on his remarks about future market strategy.",
+      "SENT_ZH":"首席执行官被要求详细阐述他对未来市场战略的评论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "elaborate",
+            "detail",
+            "expound",
+            "flesh out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expand [sth] (computing)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To restore compressed or minimized data, files, or windows to their original size or format.",
+      "DEF_ZH":"（在计算机中）解压缩；展开（文件或窗口）。",
+      "SENT_EN":"Click the icon to expand the folder and view its contents.",
+      "SENT_ZH":"单击该图标以展开文件夹并查看其内容。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "compress",
+            "minimize",
+            "zip"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

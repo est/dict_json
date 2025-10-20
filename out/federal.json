@@ -1,0 +1,88 @@
+{
+  "WORD":"federal",
+  "IPA":"/ˈfɛdərəl/",
+  "CONJUGATES":"federally (adv) | federalism (n) | federalist (n, adj)",
+  "ETYMOLOGY":"From Latin foedus (covenant, league, treaty), via New Latin foederālis (relating to a league or treaty). First recorded in English referring to leagues of states.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] (of a system/state)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "politics",
+        "governmental"
+      ],
+      "DEF_EN":"Relating to or denoting a system of government in which several states unite under a central authority while retaining certain residual powers.",
+      "DEF_ZH":"联邦制的；联邦政府的；指权力在中央政府和组成单位（如州或省）之间划分的政治体制。",
+      "SENT_EN":"Switzerland operates under a federal structure.",
+      "SENT_ZH":"瑞士在一个联邦结构下运行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confederate",
+            "united",
+            "centralized"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "federalism",
+            "republican"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (of an agency/law/crime)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "governmental",
+        "US specific"
+      ],
+      "DEF_EN":"Pertaining to the central government, rather than to the government of a state, province, or local jurisdiction.",
+      "DEF_ZH":"中央政府的；全国性的（区别于地方或州政府）。",
+      "SENT_EN":"The FBI is a federal law enforcement agency.",
+      "SENT_ZH":"联邦调查局是一个中央执法机构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "national",
+            "central",
+            "union"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "state",
+            "provincial",
+            "local"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (archaic/historical)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "rare",
+        "archaic",
+        "theology"
+      ],
+      "DEF_EN":"Based on or relating to a covenant or treaty.",
+      "DEF_ZH":"基于盟约的；契约的。",
+      "SENT_EN":"The theologian discussed the federal arrangement between God and mankind.",
+      "SENT_ZH":"这位神学家讨论了上帝与人类之间的盟约安排。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal and Political/Governmental, very common in contexts discussing US, Canadian, or German politics."
+}

@@ -1,0 +1,81 @@
+{
+  "WORD":"every",
+  "IPA":"/ˈɛvri/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English *everich*, a compound of Old English *ǣfre* ('ever') and *ǣlc* ('each').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"every [singular count noun]",
+      "POS":"Det.",
+      "POS_TIP":"Determiner: a word placed in front of a noun to specify quantity or clarity.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Referring to all the individual members of a set without exception.",
+      "DEF_ZH":"每一个；所有（指一个群体中的所有个体，但强调个体性）。",
+      "SENT_EN":"Every employee received a bonus this year.",
+      "SENT_ZH":"今年每一位员工都收到了奖金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "each",
+            "all"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "any"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"every [number] [plural time noun]",
+      "POS":"Det.",
+      "POS_TIP":"Determiner: a word placed in front of a noun to specify quantity or clarity.",
+      "TAGS":[
+        "frequency",
+        "interval"
+      ],
+      "DEF_EN":"Used to express how frequently or at what interval something occurs.",
+      "DEF_ZH":"每隔（一段时间/距离）；每逢。",
+      "SENT_EN":"The train leaves for the city every thirty minutes.",
+      "SENT_ZH":"开往市区的火车每隔三十分钟发车一次。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "regularly",
+            "periodically"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"every other [singular noun]",
+      "POS":"Det. + idiom",
+      "POS_TIP":"Determiner and a common idiom meaning alternating.",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Alternating; referring to every second item in a series.",
+      "DEF_ZH":"每隔一个；交替的。",
+      "SENT_EN":"We attend the club meeting every other Tuesday.",
+      "SENT_ZH":"我们每隔一个周二参加一次俱乐部会议。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "alternate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English vocabulary, used across all registers."
+}

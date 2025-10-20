@@ -1,0 +1,132 @@
+{
+  "WORD":"parallel",
+  "IPA":"/'pærəlel/",
+  "CONJUGATES":"parallels | paralleling | paralleled | (as noun/adj) parallels",
+  "ETYMOLOGY":"From Latin parallelus, from Greek parallēlos (παράλληλος) meaning 'beside one another', derived from para- (παρά, 'beside') + allēlois (ἀλλήλοις, 'one another').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] parallel [to sth else]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "description"
+      ],
+      "DEF_EN":"(Of lines, planes, or surfaces) extending in the same direction, always the same distance apart; never meeting.",
+      "DEF_ZH":"(指线条、平面或表面) 平行的，永远保持相等距离且永不相交的。",
+      "SENT_EN":"The two train tracks run strictly parallel to each other.",
+      "SENT_ZH":"这两条火车轨道是严格平行的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equidistant",
+            "nonintersecting"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "converging",
+            "intersecting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] parallel [to sth else]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "comparison"
+      ],
+      "DEF_EN":"Corresponding or similar in some essential respect; analogous.",
+      "DEF_ZH":"相似的；相应的；可相比拟的。",
+      "SENT_EN":"They found many parallel issues between the two historical periods.",
+      "SENT_ZH":"他们发现这两个历史时期之间有许多相似的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analogous",
+            "comparable",
+            "corresponding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"find a parallel [to sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "comparison",
+        "analogy"
+      ],
+      "DEF_EN":"A person, thing, or event that is similar or analogous to another; a comparison.",
+      "DEF_ZH":"可相比拟的人或事物；相似之处；类比。",
+      "SENT_EN":"His rise to power has few parallels in modern politics.",
+      "SENT_ZH":"他的崛起在现代政治中几乎没有可比拟的先例。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analogy",
+            "equivalent",
+            "counterpart"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"parallel [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "match"
+      ],
+      "DEF_EN":"To be similar or equivalent to; to match or correspond.",
+      "DEF_ZH":"与...相似；与...匹敌；与...并驾齐驱。",
+      "SENT_EN":"The film’s storyline closely parallels events from the author's own childhood.",
+      "SENT_ZH":"这部电影的故事情节与作者自己的童年经历非常相似。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "match",
+            "mirror",
+            "resemble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in parallel",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "electrical"
+      ],
+      "DEF_EN":"An arrangement of circuits, processes, or data paths where multiple functions operate simultaneously rather than sequentially.",
+      "DEF_ZH":"(电路或计算机操作) 并联；并行。",
+      "SENT_EN":"Running calculations in parallel significantly reduces processing time.",
+      "SENT_ZH":"并行运行计算能显著减少处理时间。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "series"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage in geometry, comparison, and technical fields."
+}

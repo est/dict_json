@@ -1,0 +1,79 @@
+{
+  "WORD":"cart",
+  "IPA":"/kɑːrt/",
+  "CONJUGATES":"carts | carted | carting",
+  "ETYMOLOGY":"From Middle English cart(e), possibly from Old Norse kartar (a type of wagon), related to Old English cræt (wagon, carriage).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "transport"
+      ],
+      "DEF_EN":"A strong vehicle with two or four wheels, typically used for transporting goods, and often pulled by an animal (historically) or pushed by hand.",
+      "DEF_ZH":"一种坚固的、有两个或四个轮子的车辆，通常用于运输货物，历史上常由动物拉动，现在也常手动推动（如手推车、购物车）。",
+      "SENT_EN":"The farmer used a horse-drawn cart to bring the hay in from the field.",
+      "SENT_ZH":"农民用马车将干草从田里运进来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wagon",
+            "trolley",
+            "buggy",
+            "handcart"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (online feature)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "e-commerce"
+      ],
+      "DEF_EN":"In e-commerce, a virtual container or list on a website used to hold items selected for purchase before checkout.",
+      "DEF_ZH":"在电子商务中，网站上用于暂时存放选定商品以便结账的虚拟容器或列表（购物车）。",
+      "SENT_EN":"Don’t forget to check the items you left in your cart before logging out.",
+      "SENT_ZH":"退出登录前，别忘了检查你在购物车里留下的物品。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shopping basket",
+            "checkout"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cart [sth] [prep]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To transport or carry (goods or people) in a cart or similar vehicle, often implying effort or a heavy load.",
+      "DEF_ZH":"用车或其他交通工具运输或搬运（货物或人），通常暗示费力或负载很重。",
+      "SENT_EN":"We had to cart all the old furniture up three flights of stairs.",
+      "SENT_ZH":"我们不得不把所有旧家具搬上三层楼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "haul",
+            "lug",
+            "transport"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use"
+}

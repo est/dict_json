@@ -1,0 +1,110 @@
+{
+  "WORD":"local",
+  "IPA":"/ˈloʊkəl/",
+  "CONJUGATES":"locals | locally",
+  "ETYMOLOGY":"From Latin localis, from locus ('place, spot')",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"local [adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "geographic"
+      ],
+      "DEF_EN":"Relating or restricted to a particular area or neighborhood, often the place where one lives.",
+      "DEF_ZH":"某一特定区域或邻里范围内的；本地的；当地的。",
+      "SENT_EN":"We always try to support the local economy by buying products made nearby.",
+      "SENT_ZH":"我们总是努力通过购买附近生产的产品来支持当地经济。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regional",
+            "neighborhood",
+            "provincial"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "national",
+            "global",
+            "foreign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the local [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "people"
+      ],
+      "DEF_EN":"An inhabitant of a particular area or neighborhood.",
+      "DEF_ZH":"本地居民；当地人。",
+      "SENT_EN":"The locals were friendly and gave us directions to the museum.",
+      "SENT_ZH":"当地人很友好，给我们指明了去博物馆的路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resident",
+            "native",
+            "inhabitant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"local [adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"Relating to a computer, server, or device that is accessed directly rather than remotely via a network.",
+      "DEF_ZH":"(计算机) 本机的；局部的；非远程的。",
+      "SENT_EN":"You should save a copy of the file to your local drive before uploading it.",
+      "SENT_ZH":"你应该在上传文件之前将其副本保存到你的本地驱动器上。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "remote",
+            "networked"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the local [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "British English"
+      ],
+      "DEF_EN":"A public house or bar in one's immediate neighborhood.",
+      "DEF_ZH":"（英，非正式）社区或住家附近的酒吧或酒馆。",
+      "SENT_EN":"We’re heading down to the local for a celebratory drink tonight.",
+      "SENT_ZH":"今晚我们要去社区酒吧喝一杯庆祝一下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pub",
+            "bar",
+            "tavern"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Informal"
+}

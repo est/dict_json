@@ -1,0 +1,150 @@
+{
+  "WORD":"abstract",
+  "IPA":"/ˈæbstrækt/ (adj, n) | /æbˈstrækt/ (v)",
+  "CONJUGATES":"abstracts | abstracting | abstracted | abstracter | abstractest",
+  "ETYMOLOGY":"From Latin abstractus, past participle of abstrahere 'to draw away, pull away', from ab- 'away' + trahere 'to draw'",
+  "SINCE":"Late Middle English (noun); late 16th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"abstract",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"existing only in thought or as an idea, without concrete existence; difficult to understand",
+      "DEF_ZH":"抽象的；理论上的；难以理解的",
+      "SENT_EN":"Truth and beauty are abstract concepts.",
+      "SENT_ZH":"真理和美是抽象的概念。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "theoretical",
+            "conceptual",
+            "non-concrete",
+            "abstruse",
+            "recondite"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concrete",
+            "tangible",
+            "real",
+            "physical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"abstract",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common",
+        "art"
+      ],
+      "DEF_EN":"(of art) not representing objects as they appear in the real world, but expressing ideas or emotions through shapes, colors, and textures",
+      "DEF_ZH":"(艺术) 抽象派的；非具象的",
+      "SENT_EN":"Picasso's early works were not abstract.",
+      "SENT_ZH":"毕加索的早期作品并非抽象派的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "non-representational",
+            "non-objective"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "figurative",
+            "representational",
+            "realistic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an abstract of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"a summary of the contents of a book, article, or speech",
+      "DEF_ZH":"(文章、报告等的) 摘要；梗概",
+      "SENT_EN":"The conference program included abstracts of all the presentations.",
+      "SENT_ZH":"会议日程中包含了所有报告的摘要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summary",
+            "synopsis",
+            "précis",
+            "outline",
+            "epitome"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"abstract [sth] from [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"to extract or remove something, especially information or a component",
+      "DEF_ZH":"提取；抽取 (信息或成分)",
+      "SENT_EN":"It is difficult to abstract a single principle from the complex situation.",
+      "SENT_ZH":"从这种复杂的情况中提炼出单一的原则是困难的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extract",
+            "remove",
+            "draw out",
+            "separate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"abstract [sth] from [its context]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "less common",
+        "formal",
+        "philosophy"
+      ],
+      "DEF_EN":"to consider something theoretically or separately from its practical application or concrete examples",
+      "DEF_ZH":"抽象地思考；脱离实际地看待",
+      "SENT_EN":"You cannot abstract morality from its cultural context.",
+      "SENT_ZH":"你不能把道德从其文化背景中抽象出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "theorize",
+            "generalize",
+            "disassociate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; formal or academic in specific contexts."
+}

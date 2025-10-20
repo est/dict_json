@@ -1,0 +1,113 @@
+{
+  "WORD":"shore",
+  "IPA":"/ʃɔːr/",
+  "CONJUGATES":"shores | shoring | shored",
+  "ETYMOLOGY":"From Middle English shore, from Old English scor 'bank, cliff, headland', possibly related to Old Norse skor 'notch, score, tally'. Sense 'prop, support' (as a verb and later a noun) is of uncertain origin, perhaps from Middle Dutch schore 'prop, shore'.",
+  "SINCE":"Before 900 AD (for coastal meaning); 15th century (for support meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography"
+      ],
+      "DEF_EN":"The land along the edge of a sea, lake, or large river.",
+      "DEF_ZH":"海、湖泊或大河流的边缘地带；岸，海岸，湖岸。",
+      "SENT_EN":"We walked along the sandy shore, collecting seashells.",
+      "SENT_ZH":"我们沿着沙滩漫步，收集着贝壳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coast",
+            "beach",
+            "bank",
+            "riverside"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shoreline",
+            "seashore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shore [sth] (up)",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To support or prop up a wall, building, or other structure with a shore or shores.",
+      "DEF_ZH":"用支撑物支撑（墙壁、建筑物等）；加固，支撑。",
+      "SENT_EN":"The workers had to shore up the old foundation before starting the renovations.",
+      "SENT_ZH":"工人们在开始翻修之前必须加固旧地基。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prop",
+            "brace",
+            "underpin",
+            "buttress"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "construction"
+      ],
+      "DEF_EN":"A prop or beam placed against or beneath a structure as a temporary support.",
+      "DEF_ZH":"（临时的）支撑物；支柱；撑杆。",
+      "SENT_EN":"They installed a heavy wooden shore to prevent the wall from collapsing.",
+      "SENT_ZH":"他们安装了一根沉重的木制支撑物，以防止墙壁倒塌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prop",
+            "support",
+            "strut",
+            "brace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shore [sth] (up)",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "figurative",
+        "business"
+      ],
+      "DEF_EN":"To support or strengthen something that is failing or weak (often used metaphorically for financial or political situations).",
+      "DEF_ZH":"加强，巩固（常用于比喻性地支持不景气或虚弱的状况）。",
+      "SENT_EN":"The government had to shore up the failing banking system with a massive bailout.",
+      "SENT_ZH":"政府不得不通过大规模的救助来巩固陷入困境的银行体系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bolster",
+            "fortify",
+            "reinforce",
+            "sustain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with the secondary verb/noun meanings common in construction and finance contexts."
+}

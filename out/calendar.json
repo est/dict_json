@@ -1,1 +1,87 @@
-null
+{
+  "WORD":"calendar",
+  "IPA":"/ˈkælɪndər/",
+  "CONJUGATES":"calendars",
+  "ETYMOLOGY":"From Middle English kalender, from Anglo-Norman and Old French calendier, from Latin calendarium ('account book', as interest was due on the Calends), from calendae ('the Calends', first day of the month), of uncertain ultimate origin, perhaps related to calare ('to proclaim').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A system for fixing the beginning, length, and divisions of the civil year and regulating religious festivals; also, a table or register of such a system, often displayed as a grid showing days, weeks, and months.",
+      "DEF_ZH":"一种确定民用年限的起始、长度和划分，并规范宗教节日的系统；也指显示这种系统（通常以网格形式展示日期、周和月份）的表格或登记簿。",
+      "SENT_EN":"We need to update the office calendar with all the scheduled meetings for the next quarter.",
+      "SENT_ZH":"我们需要用下个季度的所有预定会议来更新办公室日历。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schedule",
+            "almanac",
+            "ephemeris"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Gregorian calendar",
+            "Julian calendar",
+            "lunar calendar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A chronological list or sequence of events, programs, or dates; a schedule.",
+      "DEF_ZH":"事件、计划或日期的按时间顺序排列的列表或序列；时间表。",
+      "SENT_EN":"The academic calendar for the upcoming school year is now available online.",
+      "SENT_ZH":"即将到来的学年的校历现已在线公布。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "agenda",
+            "timetable",
+            "program"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To enter or list an event in a calendar or schedule.",
+      "DEF_ZH":"将事件录入或列入日历或时间表。",
+      "SENT_EN":"Please calendar the meeting for next Tuesday morning.",
+      "SENT_ZH":"请将会议安排在下周二上午的日历上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schedule",
+            "book",
+            "log"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

@@ -1,0 +1,105 @@
+{
+  "WORD":"storm",
+  "IPA":"/stɔːrm/",
+  "CONJUGATES":"storms | storming | stormed",
+  "ETYMOLOGY":"From Old English storm, from Proto-Germanic *sturmaz (related to Old Norse stormr, Dutch storm, German Sturm). Originally meaning 'a violent rush or onset'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] storm",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "weather"
+      ],
+      "DEF_EN":"A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+      "DEF_ZH":"伴有强风、通常还有雨、雷电或雪的大气剧烈扰动；风暴；暴风雨。",
+      "SENT_EN":"The ship struggled to stay afloat during the severe storm.",
+      "SENT_ZH":"这艘船在猛烈的风暴中挣扎着保持漂浮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tempest",
+            "cyclone",
+            "hurricane",
+            "squall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] storm [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "emotion"
+      ],
+      "DEF_EN":"A great disturbance, controversy, or outburst of emotion or activity.",
+      "DEF_ZH":"突发的、剧烈的感情爆发或骚动；风波；轩然大波。",
+      "SENT_EN":"The scandal caused a storm of criticism in the media.",
+      "SENT_ZH":"这起丑闻在媒体中引起了一场批评的风暴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uproar",
+            "frenzy",
+            "commotion",
+            "tumult"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"storm [sth]\nstorm [a place]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "military",
+        "action"
+      ],
+      "DEF_EN":"To attack or assault suddenly and forcibly; to rush and capture a place.",
+      "DEF_ZH":"突然而猛烈地攻击；突袭或冲进（某地）。",
+      "SENT_EN":"The rebels attempted to storm the presidential palace.",
+      "SENT_ZH":"叛乱分子试图攻占总统府。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assault",
+            "raid",
+            "charge",
+            "invade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"storm [prep]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "movement",
+        "anger"
+      ],
+      "DEF_EN":"To move quickly and angrily in a specified direction.",
+      "DEF_ZH":"（因愤怒）快速地朝着特定方向移动；怒气冲冲地走。",
+      "SENT_EN":"He stormed out of the room after the argument.",
+      "SENT_ZH":"争吵结束后，他怒气冲冲地离开了房间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rage",
+            "bluster",
+            "sprint"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage in general, weather, and military contexts."
+}

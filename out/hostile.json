@@ -1,0 +1,96 @@
+{
+  "WORD":"hostile",
+  "IPA":"/ˈhɒstaɪl/",
+  "CONJUGATES":"more hostile | most hostile | hostiley",
+  "ETYMOLOGY":"From Old French hostile (13c.), from Latin hostilis 'of or belonging to an enemy', from hostis 'enemy, stranger'",
+  "SINCE":"mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Showing or feeling opposition, disagreement, or strong dislike; unfriendly.",
+      "DEF_ZH":"表现出反对、不和或强烈不喜欢；不友好的，充满敌意的。",
+      "SENT_EN":"The locals were openly hostile towards the newcomers.",
+      "SENT_ZH":"当地人对新来者公开表现出敌意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "antagonistic",
+            "unfriendly",
+            "belligerent",
+            "inimical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "friendly",
+            "hospitable",
+            "welcoming",
+            "amicable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "military"
+      ],
+      "DEF_EN":"Relating to an enemy or an armed adversary.",
+      "DEF_ZH":"与敌人或武装对手有关的。",
+      "SENT_EN":"Troops were ordered to watch out for hostile aircraft entering the airspace.",
+      "SENT_ZH":"部队奉命监视进入领空的敌对飞机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enemy",
+            "opposing",
+            "adversarial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (environment\ntakeover)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "business",
+        "formal"
+      ],
+      "DEF_EN":"Not conducive to growth, existence, or achievement; or, in business, referring to a corporate takeover attempt that the target company's management resists.",
+      "DEF_ZH":"不利于生长、存在或实现的；或（在商业中）指目标公司管理层抵制的公司收购尝试（敌意收购）。",
+      "SENT_EN":"The company faced a hostile takeover bid from a rival firm.",
+      "SENT_ZH":"该公司面临竞争对手公司的敌意收购要约。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unfavorable",
+            "adverse",
+            "inhospitable"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hostile environment",
+            "hostile takeover"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, also frequently used in business and political contexts."
+}

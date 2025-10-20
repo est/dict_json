@@ -1,0 +1,91 @@
+{
+  "WORD":"site",
+  "IPA":"/saɪt/",
+  "CONJUGATES":"sites | siting | sited",
+  "ETYMOLOGY":"From Middle English, from Old French site, or Medieval Latin situs ('position, locality, arrangement'), related to Latin sinere ('to leave, place').",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] [site]\n[site] of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A specific location, plot of ground, or area where something is situated or where a specified activity happens, such as construction or archaeology.",
+      "DEF_ZH":"特定的位置、地块或区域，某物位于此处或某项特定活动（如建筑或考古）在此发生。",
+      "SENT_EN":"The construction company has cleared the site and is ready to pour the foundation.",
+      "SENT_ZH":"这家建筑公司已清理完场地，准备浇筑地基。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "location",
+            "place",
+            "spot",
+            "area",
+            "position"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "locale",
+            "venue",
+            "setting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"web site\nwebsite",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technology",
+        "modern usage"
+      ],
+      "DEF_EN":"A collection of related web pages, images, videos, and other assets accessible via the Internet, usually identified by a common domain name.",
+      "DEF_ZH":"通过互联网访问的一组相关的网页、图像、视频和其他资源，通常由一个共同的域名标识。（网站）",
+      "SENT_EN":"Their new e-commerce site is highly secure and easy to navigate.",
+      "SENT_ZH":"他们新的电子商务网站安全性高且易于浏览。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "webpage",
+            "domain",
+            "internet",
+            "server"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"site [sth] [at/in/on] [somewhere]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To fix or locate (a building, object, or organization) in a specific place.",
+      "DEF_ZH":"将（建筑物、物体或机构）安置或确定在特定位置。",
+      "SENT_EN":"The council decided to site the new library near the main park entrance.",
+      "SENT_ZH":"理事会决定将新图书馆设置在主公园入口附近。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "locate",
+            "position",
+            "place"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in technology and construction/urban planning."
+}

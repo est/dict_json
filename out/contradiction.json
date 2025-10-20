@@ -1,0 +1,88 @@
+{
+  "WORD":"contradiction",
+  "IPA":"/ˌkɑːntrəˈdɪkʃən/",
+  "CONJUGATES":"contradictions",
+  "ETYMOLOGY":"From Late Latin contrādictiōnem (nominative contrādictiō), from contrādictus, past participle of contrādīcere ('to speak against'), combining Latin contrā ('against') and dīcere ('to speak, say').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a contradiction (of [sth] / to [sth])",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"The action of opposing or contradicting a statement, claim, or action; denial or refutation.",
+      "DEF_ZH":"反驳、否定或反对某一陈述、主张或行动的行为。",
+      "SENT_EN":"The committee issued a sharp contradiction of the rumors circulating in the press.",
+      "SENT_ZH":"委员会对媒体流传的谣言进行了严厉的反驳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "denial",
+            "refutation",
+            "opposition"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "agreement",
+            "confirmation",
+            "acceptance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a contradiction (between [sth] and [sth])",
+      "POS":"n. (countable)",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "common",
+        "inconsistency"
+      ],
+      "DEF_EN":"A state or condition in which two or more elements are in conflict or incompatible with one another.",
+      "DEF_ZH":"两个或更多要素之间存在冲突或不相容的状态或条件；矛盾之处。",
+      "SENT_EN":"His lifestyle is a clear contradiction of his publicly stated religious beliefs.",
+      "SENT_ZH":"他的生活方式与他公开声称的宗教信仰存在明显的矛盾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inconsistency",
+            "discrepancy",
+            "conflict",
+            "paradox"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"logical contradiction",
+      "POS":"n. (countable)",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "logic",
+        "philosophy"
+      ],
+      "DEF_EN":"In logic, a proposition that is necessarily false because it affirms and denies the same statement simultaneously.",
+      "DEF_ZH":"在逻辑学中，一个断言和否定同一陈述，因而必然是错误的命题。",
+      "SENT_EN":"If you assume A and non-A are both true, you have reached a logical contradiction.",
+      "SENT_ZH":"如果你假设A和非A都为真，你就达到了一个逻辑矛盾。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fallacy",
+            "tautology"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, often used in formal or analytical contexts."
+}

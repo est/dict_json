@@ -1,0 +1,120 @@
+{
+  "WORD":"rail",
+  "IPA":"/reɪl/",
+  "CONJUGATES":"rails | railing | railed",
+  "ETYMOLOGY":"From Middle English, derived from Old French reille (bar, bolt), ultimately from Latin regula (straight stick, rule). The verb meaning 'to complain bitterly' comes from Middle French railler (to mock, jest).",
+  "SINCE":"c. 1300s (Noun); c. 1550s (Verb, to complain)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (singular or plural)",
+      "TAGS":[
+        "core word",
+        "transport",
+        "engineering"
+      ],
+      "DEF_EN":"A bar of steel or iron, usually fixed in parallel pairs, forming the track for railroad cars, streetcars, or elevated transport systems.",
+      "DEF_ZH":"（铁道的）钢轨；铁轨；轨道",
+      "SENT_EN":"The maintenance crew inspected the damaged section of the rail.",
+      "SENT_ZH":"维修人员检查了受损的这截铁轨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "track",
+            "line",
+            "permanent way"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "railway",
+            "monorail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (singular or plural)",
+      "TAGS":[
+        "core word",
+        "structure"
+      ],
+      "DEF_EN":"A horizontal bar or series of bars forming a fence, barrier, or support, such as a handrail on stairs or a guardrail on a ship.",
+      "DEF_ZH":"栏杆；扶手；横木；围栏",
+      "SENT_EN":"She held the stair rail tightly as she descended the steep steps.",
+      "SENT_ZH":"她紧紧抓住楼梯扶手，走下陡峭的台阶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barrier",
+            "handrail",
+            "guardrail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rail [against sb/sth]\nrail [at sb/sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "literary",
+        "formal",
+        "strong emotion"
+      ],
+      "DEF_EN":"To complain or protest bitterly or vehemently, often using abusive language.",
+      "DEF_ZH":"猛烈抨击；严厉指责；抱怨（常接 against 或 at）",
+      "SENT_EN":"The elderly man railed against the changes happening in his neighborhood.",
+      "SENT_ZH":"那位老人猛烈抨击着社区正在发生的变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "denounce",
+            "inveigh",
+            "fulminate",
+            "lambaste"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "praise",
+            "applaud",
+            "endorse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rail [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "transport",
+        "logistics"
+      ],
+      "DEF_EN":"To transport goods or passengers by means of railroad.",
+      "DEF_ZH":"（用铁路）运输；通过火车运送",
+      "SENT_EN":"It is cheaper to rail the heavy machinery across the country than to ship it by truck.",
+      "SENT_ZH":"通过铁路运输重型机械比用卡车运输更便宜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freight",
+            "ship",
+            "haul"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in technical contexts (transport/construction) and formally (verb of complaint)."
+}

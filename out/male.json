@@ -1,0 +1,98 @@
+{
+  "WORD":"male",
+  "IPA":"/meɪl/",
+  "CONJUGATES":"males | maleness",
+  "ETYMOLOGY":"From Middle English male, from Old French masle (modern French mâle), from Latin masculus, diminutive of mās ('a male, man').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] male",
+      "POS":"noun",
+      "POS_TIP":"a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"An individual belonging to the sex that produces sperm; a boy or man, or a male animal.",
+      "DEF_ZH":"属于能够产生精子的性别的个体；雄性动物或男性。",
+      "SENT_EN":"The zoo recently acquired a rare male white tiger for breeding.",
+      "SENT_ZH":"这家动物园最近购得一只稀有的雄性白虎用于繁殖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "man",
+            "boy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "female",
+            "woman",
+            "girl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or denoting the sex that is capable of fathering offspring; masculine.",
+      "DEF_ZH":"与能够生育后代的性别相关的；男性的；雄性的。",
+      "SENT_EN":"He felt pressure to conform to traditional male stereotypes.",
+      "SENT_ZH":"他感到有压力去迎合传统的男性刻板印象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "masculine",
+            "manly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "female",
+            "feminine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] flower/plant",
+      "POS":"adj",
+      "POS_TIP":"a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it",
+      "TAGS":[
+        "technical",
+        "botany"
+      ],
+      "DEF_EN":"(Botany) Having stamens (pollen-producing organs) but lacking pistils (seed-bearing organs); staminate.",
+      "DEF_ZH":"(植物学) 雄性的；有雄蕊的（不带雌蕊的）。",
+      "SENT_EN":"The palm tree is dioecious, requiring a separate male plant to pollinate the female trees.",
+      "SENT_ZH":"这种棕榈树是雌雄异株的，需要单独的雄株来为雌株授粉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "staminate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "female",
+            "pistillate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

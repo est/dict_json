@@ -1,0 +1,133 @@
+{
+  "WORD":"cure",
+  "IPA":"/kjʊər/",
+  "CONJUGATES":"cures | curing | cured",
+  "ETYMOLOGY":"From Middle English cure, from Old French cure ('care, healing'), derived from Latin cūra ('care, concern, trouble').",
+  "SINCE":"13th Century (c. 1250)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a cure for [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical"
+      ],
+      "DEF_EN":"A complete remedy for a disease or condition.",
+      "DEF_ZH":"治愈；疗法；解药。",
+      "SENT_EN":"Scientists are working diligently to find a cure for AIDS.",
+      "SENT_ZH":"科学家们正在努力寻找治疗艾滋病的方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remedy",
+            "treatment",
+            "antidote",
+            "solution"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "medicine",
+            "therapy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cure [sb] / cure [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "medical"
+      ],
+      "DEF_EN":"To successfully treat a person, animal, or ailment so that health is restored.",
+      "DEF_ZH":"治愈；治疗；消除（疾病）。",
+      "SENT_EN":"The new drug cured the infection within a week.",
+      "SENT_ZH":"这种新药在一周内治愈了感染。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heal",
+            "remedy",
+            "restore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cure [sth] (food)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "culinary",
+        "processing"
+      ],
+      "DEF_EN":"To preserve food, such as meat or fish, by processes like salting, drying, or smoking.",
+      "DEF_ZH":"（通过腌制、熏制、风干等方式）保存（食物）。",
+      "SENT_EN":"The butcher cures his own bacon with rock salt and brown sugar.",
+      "SENT_ZH":"这位屠夫用海盐和红糖腌制自己的培根。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preserve",
+            "smoke",
+            "pickle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] cures\ncure [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"To cause a material (such as concrete, epoxy, or rubber) to harden or set permanently by chemical reaction or heat.",
+      "DEF_ZH":"固化；硬化；硫化（使物质通过化学反应或加热永久硬化）。",
+      "SENT_EN":"The adhesive will cure fully after 48 hours at room temperature.",
+      "SENT_ZH":"胶粘剂在室温下需要48小时才能完全固化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "set",
+            "harden",
+            "solidify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the cure of souls",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "ecclesiastical",
+        "old word"
+      ],
+      "DEF_EN":"The spiritual charge or pastoral care of a parish, district, or body of people.",
+      "DEF_ZH":"（教会）牧灵事务；对教区信徒的精神照管。",
+      "SENT_EN":"The priest took on the cure of the rural parish immediately after his ordination.",
+      "SENT_ZH":"这位牧师在被任命后立即承担了乡村教区的牧灵事务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "oversight",
+            "pastorate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Technical"
+}

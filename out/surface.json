@@ -1,0 +1,94 @@
+{
+  "WORD":"surface",
+  "IPA":"/ˈsɜːrfɪs/",
+  "CONJUGATES":"surfaces | surfaced | surfacing",
+  "ETYMOLOGY":"From Middle French surface, derived from sur- (on, upon) and face (face), influenced by Latin superficiēs (super- 'above' + faciēs 'form, face').",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] surface [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry"
+      ],
+      "DEF_EN":"The exterior layer or boundary of an object, or the outermost level of an area or body of water.",
+      "DEF_ZH":"物体、区域或水体的外层、边界或最外层。",
+      "SENT_EN":"The boat floated easily on the surface of the lake.",
+      "SENT_ZH":"小船轻松地漂浮在湖面上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exterior",
+            "outside",
+            "skin",
+            "facade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] surface",
+      "POS":"vi.",
+      "POS_TIP":"verb, intransitive",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"To rise to the top of the water or ground; or, figuratively, to become known or apparent after being hidden.",
+      "DEF_ZH":"浮出水面或地面；（比喻）浮现；显露；为人所知。",
+      "SENT_EN":"The submarine surfaced after three days underwater.",
+      "SENT_ZH":"潜艇在水下三天后浮出了水面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emerge",
+            "appear",
+            "materialize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"surface [sth]",
+      "POS":"vt.",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "technical",
+        "construction"
+      ],
+      "DEF_EN":"To provide a specific kind of surface or finish to something, often relating to roads, floors, or wood.",
+      "DEF_ZH":"给...铺面；铺设（道路、地面等）；使（木材等）平整。",
+      "SENT_EN":"They used asphalt to surface the new section of the highway.",
+      "SENT_ZH":"他们使用沥青铺设了高速公路的新路段。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pave",
+            "coat",
+            "finish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"surface tension\nsurface area",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "attributes"
+      ],
+      "DEF_EN":"Relating to or situated on the surface; superficial.",
+      "DEF_ZH":"表面的；与表面相关的；肤浅的。",
+      "SENT_EN":"The experiment required calculating the object's surface area.",
+      "SENT_ZH":"该实验需要计算物体的表面积。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Technical, Science"
+}

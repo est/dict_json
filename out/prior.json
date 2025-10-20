@@ -1,0 +1,90 @@
+{
+  "WORD":"prior",
+  "IPA":"/ˈpraɪər/",
+  "CONJUGATES":"priors (n. pl.)",
+  "ETYMOLOGY":"From Latin prior (earlier, former), comparative of prae ('before').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"prior [to sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Existing or happening before something else in time, order, or importance; preceding.",
+      "DEF_ZH":"先前的；较早的；在前的。",
+      "SENT_EN":"Students must have prior approval before withdrawing from the course.",
+      "SENT_ZH":"学生必须事先获得批准才能退课。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "previous",
+            "preceding",
+            "earlier",
+            "former"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "subsequent",
+            "following"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a prior\nthe prior",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "religion",
+        "history",
+        "specialized"
+      ],
+      "DEF_EN":"A monastic superior in a religious house, ranking below an abbot, or the head of a small monastery (priory).",
+      "DEF_ZH":"（修道院中的）院长；修道院的副院长（地位低于大主教）。",
+      "SENT_EN":"The prior was responsible for the day-to-day management of the abbey.",
+      "SENT_ZH":"院长负责修道院的日常管理。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "abbot",
+            "prioress",
+            "priory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a prior",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "statistics",
+        "philosophy"
+      ],
+      "DEF_EN":"A preceding established condition, assumption, or probability, especially in Bayesian statistics (prior probability).",
+      "DEF_ZH":"（尤指在贝叶斯统计学中）先验条件；先验概率。",
+      "SENT_EN":"The model's accuracy heavily depended on the choice of priors.",
+      "SENT_ZH":"该模型的准确性在很大程度上取决于先验的选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "premise",
+            "assumption",
+            "precondition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The adjective form is common and often used in formal and legal contexts. The noun form related to religion or statistics is specialized."
+}

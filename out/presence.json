@@ -1,0 +1,87 @@
+{
+  "WORD":"presence",
+  "IPA":"/'prɛzəns/",
+  "CONJUGATES":"presences (pl.)",
+  "ETYMOLOGY":"From Old French presence, from Latin praesentia ('being present, attendance'), derived from praesens (present, at hand).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state or fact of being in a particular place at a given time; existence.",
+      "DEF_ZH":"存在；在场；出席；（在某处的）出现或发现。",
+      "SENT_EN":"His sudden presence surprised everyone at the party.",
+      "SENT_ZH":"他的突然出现让聚会上的每个人都感到惊讶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attendance",
+            "existence",
+            "appearance"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "absence",
+            "nonexistence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] (often abstract)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A person's impressive or powerful demeanor, distinctive air, or commanding personality.",
+      "DEF_ZH":"气场；风度；威严的仪态。",
+      "SENT_EN":"The actor had a commanding stage presence that captivated the audience.",
+      "SENT_ZH":"那位演员拥有令人信服的舞台气场，迷住了观众。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aura",
+            "gravitas",
+            "bearing",
+            "mien"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "literary",
+        "abstract"
+      ],
+      "DEF_EN":"An entity, force, or influence that is felt or perceived, especially one of a spiritual or mysterious nature.",
+      "DEF_ZH":"某种被感觉到的存在或实体（尤指超自然或幽灵）。",
+      "SENT_EN":"They felt an unsettling presence in the dark corridor of the old house.",
+      "SENT_ZH":"他们在老房子黑暗的走廊里感觉到了一种令人不安的存在。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spirit",
+            "entity",
+            "ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

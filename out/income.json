@@ -1,0 +1,76 @@
+{
+  "WORD":"income",
+  "IPA":"/ˈɪnkʌm/",
+  "CONJUGATES":"incomes (pl.)",
+  "ETYMOLOGY":"From Middle English, originally 'a coming in, arrival', from in- + come. The meaning of 'revenue' developed in the 15th century.",
+  "SINCE":"14th century (economic sense formalized 15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (e.g., gross income, annual income)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "economics",
+        "business"
+      ],
+      "DEF_EN":"Money or its equivalent received or accrued, usually periodically, in exchange for labor, services, sale of goods, or through investments and property.",
+      "DEF_ZH":"个人或组织通过劳动、投资、财产等途径定期或累计获得的金钱或其他经济价值。",
+      "SENT_EN":"The family's primary source of income is the mother's consulting job.",
+      "SENT_ZH":"这个家庭的主要收入来源是母亲的咨询工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revenue",
+            "earnings",
+            "wages",
+            "salary",
+            "profit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expenditure",
+            "outlay",
+            "expense"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gross income",
+            "net income",
+            "disposable income",
+            "taxable income"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "rare"
+      ],
+      "DEF_EN":"The act of coming in; entrance or arrival.",
+      "DEF_ZH":"进入；到达；来临（现已罕用）。",
+      "SENT_EN":"They waited patiently for the income of the new year.",
+      "SENT_ZH":"他们耐心地等待着新年的到来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrival",
+            "entry",
+            "inflow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, highly common in economics and finance."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"exist",
+  "IPA":"/ɪɡˈzɪst/",
+  "CONJUGATES":"exists | existing | existed",
+  "ETYMOLOGY":"From Middle French exister, from Latin exsistere or existere ('to step forth, appear, be, stand out'), formed from ex- ('out of') + sistere ('to stand').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"exist",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb (a verb that does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "fundamental"
+      ],
+      "DEF_EN":"To have actual being; to be real; to have life or objective reality.",
+      "DEF_ZH":"存在；生存；具有实体或客观现实。",
+      "SENT_EN":"I think, therefore I am, or rather, I exist.",
+      "SENT_ZH":"我思故我在，或者说，我存在。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be",
+            "live",
+            "subsist",
+            "abide"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vanish",
+            "perish",
+            "cease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exist [in sth]",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "general",
+        "situational"
+      ],
+      "DEF_EN":"To occur or be present in a particular place, situation, or time.",
+      "DEF_ZH":"（在特定地方、情况或时间）存在；发生；发现。",
+      "SENT_EN":"High rates of poverty still exist in the rural areas.",
+      "SENT_ZH":"贫困高发率仍存在于农村地区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occur",
+            "be found",
+            "prevail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exist [on sth]\nexist [by doing sth]",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "common",
+        "survival context"
+      ],
+      "DEF_EN":"To continue to live, often barely or under difficult or constrained circumstances, typically implying survival or mere subsistence.",
+      "DEF_ZH":"（在困难环境中）维持生活；勉强生存。",
+      "SENT_EN":"The refugees existed on meager rations for months.",
+      "SENT_ZH":"难民靠着微薄的口粮维持了数月的生存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subsist",
+            "survive",
+            "endure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general usage. Common in philosophical and scientific discourse."
+}

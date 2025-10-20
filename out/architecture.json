@@ -1,0 +1,89 @@
+{
+  "WORD":"architecture",
+  "IPA":"/ˈɑːrkɪtɛktʃər/",
+  "CONJUGATES":"architectures",
+  "ETYMOLOGY":"From Middle French architecture, via Latin architectura, derived from Greek arkhitektōn (arkhi- 'chief' + tektōn 'builder').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"architecture [n]",
+      "POS":"n (uncountable)",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "discipline"
+      ],
+      "DEF_EN":"The art or practice of designing and constructing buildings.",
+      "DEF_ZH":"建筑学；建筑设计与建造的实践艺术。",
+      "SENT_EN":"He pursued a career in architecture after college.",
+      "SENT_ZH":"大学毕业后，他从事了建筑学方面的工作。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "architect",
+            "building",
+            "construction",
+            "design"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"architecture [a building style]",
+      "POS":"n (countable/uncountable)",
+      "POS_TIP":"noun (countable or uncountable)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The specific design or style of a building or group of buildings.",
+      "DEF_ZH":"特定的建筑风格或样式。",
+      "SENT_EN":"The city is famous for its stunning Gothic architecture.",
+      "SENT_ZH":"这座城市以其令人惊叹的哥特式建筑风格而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "style",
+            "design",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"architecture [of a system/structure]",
+      "POS":"n (countable/uncountable)",
+      "POS_TIP":"noun (countable or uncountable)",
+      "TAGS":[
+        "technical",
+        "IT",
+        "figurative"
+      ],
+      "DEF_EN":"The fundamental layout, organization, or framework of a system or structure, especially in computing.",
+      "DEF_ZH":"（系统、结构或组织）的基本布局、组织或框架。",
+      "SENT_EN":"They decided to change the internal architecture of the computer software.",
+      "SENT_ZH":"他们决定更改计算机软件的内部架构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "framework",
+            "system",
+            "structure",
+            "layout"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "infrastructure",
+            "topology"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical, Common"
+}

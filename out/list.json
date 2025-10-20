@@ -1,0 +1,95 @@
+{
+  "WORD":"list",
+  "IPA":"/lɪst/",
+  "CONJUGATES":"lists | listing | listed",
+  "ETYMOLOGY":"From Old French liste or Italian lista 'strip, border, edge, roll', ultimately related to Germanic words for 'border' or 'strip of cloth'. The nautical sense ('to lean') is probably derived from an obsolete verb meaning 'to desire' (list, OE lystan), influenced by the idea of an edge or border.",
+  "SINCE":"Mid 15th century (as a catalog)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a list of [items]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An enumerated series of names, items, figures, or words, typically written down or printed.",
+      "DEF_ZH":"清单；目录；名册；一系列项目或名称的记录。",
+      "SENT_EN":"Before going shopping, I always make a list of everything I need.",
+      "SENT_ZH":"在去购物之前，我总是会列一张我需要的所有东西的清单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "catalog",
+            "roll",
+            "inventory",
+            "schedule"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "spreadsheet",
+            "database"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"list [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a list of items, names, or things; to include or enter something into a list.",
+      "DEF_ZH":"将…列成表；把…编入目录；列举。",
+      "SENT_EN":"The company decided to list all of its assets in the quarterly report.",
+      "SENT_ZH":"该公司决定在季度报告中列出其所有资产。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enumerate",
+            "itemize",
+            "register",
+            "record"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[ship] lists to [side]",
+      "POS":"vintr | n",
+      "POS_TIP":"intransitive verb | noun",
+      "TAGS":[
+        "specialized",
+        "nautical"
+      ],
+      "DEF_EN":"(Of a ship) to lean over to one side, especially due to damage or uneven cargo distribution (also used as a noun meaning the degree of inclination).",
+      "DEF_ZH":"（尤指船只因损坏或载重不均而）倾斜；侧向（也可作名词，指倾斜的程度）。",
+      "SENT_EN":"The injured vessel began to list dangerously to starboard.",
+      "SENT_ZH":"这艘受损的船只开始危险地向右舷倾斜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lean",
+            "tilt",
+            "incline"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "heeling",
+            "trim"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specialized meaning in nautical contexts."
+}

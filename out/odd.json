@@ -1,0 +1,108 @@
+{
+  "WORD":"odd",
+  "IPA":"/ɒd/",
+  "CONJUGATES":"odd | odder | oddest",
+  "ETYMOLOGY":"From Old Norse oddi, meaning 'point of a weapon, angle, triangle', or 'the single one left over'. Originally related to the idea of something being singular or sticking out.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] or [sb] is odd",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describes nouns)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Different from what is usual or expected; strange or peculiar.",
+      "DEF_ZH":"与通常或预期情况不同的；奇怪的；古怪的。",
+      "SENT_EN":"It was odd that the usually loud neighbors were completely silent today.",
+      "SENT_ZH":"今天平时很吵的邻居竟然完全安静了，这很奇怪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strange",
+            "peculiar",
+            "bizarre",
+            "weird"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "normal",
+            "usual",
+            "ordinary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"odd number",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describes nouns)",
+      "TAGS":[
+        "mathematics",
+        "core word"
+      ],
+      "DEF_EN":"(Of a number) unable to be divided exactly by two.",
+      "DEF_ZH":"（指数字）奇数的；单数的，不能被二整除的。",
+      "SENT_EN":"Please list the odd numbers between twenty and thirty.",
+      "SENT_ZH":"请列出二十到三十之间的奇数。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "even"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an odd [item]\nodd socks",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describes nouns)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Not part of a pair or set; unmatched or solitary.",
+      "DEF_ZH":"不成对的；不属于一套的；单独的；剩余的。",
+      "SENT_EN":"I found an odd glove tucked behind the radiator.",
+      "SENT_ZH":"我在暖气片后面发现了一只不成对的手套。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unmatched",
+            "single",
+            "solitary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the odd [occasion/time/job]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describes nouns)",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Occurring or done only occasionally or sporadically.",
+      "DEF_ZH":"偶尔的；零星的。",
+      "SENT_EN":"She still takes on the odd freelance design job, despite retiring.",
+      "SENT_ZH":"尽管退休了，她仍然偶尔会接一些自由设计工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occasional",
+            "sporadic",
+            "infrequent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage."
+}

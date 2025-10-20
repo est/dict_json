@@ -1,0 +1,124 @@
+{
+  "WORD":"case",
+  "IPA":"/keɪs/",
+  "CONJUGATES":"cases (n.) | cased (v.) | casing (v.)",
+  "ETYMOLOGY":"Via Old French *cas* ('event, chance') and *casse* ('box'), both ultimately derived from Latin *casus* (past participle of *cadere*, meaning 'to fall, chance, occasion').",
+  "SINCE":"Mid-13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a case of [sth]\nin [a/the] case of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"An instance of a particular situation, set of circumstances, or state of affairs.",
+      "DEF_ZH":"情况；情形；事实；事例。",
+      "SENT_EN":"This is a classic case of poor management, not poor performance.",
+      "SENT_ZH":"这是一个管理不善的典型事例，而非表现不佳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "situation",
+            "circumstance",
+            "instance",
+            "occurrence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a court case\nthe case against [sb]",
+      "POS":"n",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "law",
+        "politics"
+      ],
+      "DEF_EN":"A matter that is investigated or tried in a court of law.",
+      "DEF_ZH":"案件；诉讼；官司。",
+      "SENT_EN":"The defense lawyer presented a strong case for his client's innocence.",
+      "SENT_ZH":"辩护律师为他客户的清白提出了强有力的案情陈述。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lawsuit",
+            "trial",
+            "litigation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a storage case\na phone case",
+      "POS":"n",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "physical",
+        "object"
+      ],
+      "DEF_EN":"A container or protective outer covering designed to hold or protect something.",
+      "DEF_ZH":"箱子；盒子；套子；容器。",
+      "SENT_EN":"She bought a hard plastic case for her new laptop.",
+      "SENT_ZH":"她为她的新笔记本电脑买了一个硬塑料保护套。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "box",
+            "container",
+            "housing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a medical case\na serious case",
+      "POS":"n",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "medical",
+        "professional"
+      ],
+      "DEF_EN":"An instance of a disease, or a patient suffering from a disease or injury that requires study or treatment.",
+      "DEF_ZH":"病例；病人；待诊或待治的实例。",
+      "SENT_EN":"The hospital reported a rare case of the tropical virus.",
+      "SENT_ZH":"医院报告了一例罕见的热带病毒病例。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "patient",
+            "diagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the possessive case\nnominative case",
+      "POS":"n",
+      "POS_TIP":"Noun, countable/uncountable",
+      "TAGS":[
+        "linguistics",
+        "technical"
+      ],
+      "DEF_EN":"In grammar, the form of a noun, pronoun, or adjective that shows its relationship (such as possession or object of a verb) to other words in a sentence.",
+      "DEF_ZH":"（语法）格（如主格、宾格、属格）。",
+      "SENT_EN":"English largely lacks the complex case system found in Latin or German.",
+      "SENT_ZH":"英语在很大程度上缺乏拉丁语或德语中复杂的格系统。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inflection",
+            "declension"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Law, Medicine, Linguistics"
+}

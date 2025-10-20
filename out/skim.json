@@ -1,0 +1,131 @@
+{
+  "WORD":"skim",
+  "IPA":"/skɪm/",
+  "CONJUGATES":"skims | skimming | skimmed",
+  "ETYMOLOGY":"From Middle English skimmen, from Old French escumer, related to escume 'scum, foam'. Originally meaning 'to remove foam from liquid'.",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"skim [sth] (off [sth])",
+      "POS":"vtr | vtr + prep",
+      "POS_TIP":"transitive verb | transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "cooking"
+      ],
+      "DEF_EN":"To remove a layer of material (such as cream, fat, or dirt) from the surface of a liquid.",
+      "DEF_ZH":"从液体表面除去一层物质（如奶油、脂肪或污垢）。",
+      "SENT_EN":"She carefully skimmed the fat off the stock before serving the soup.",
+      "SENT_ZH":"她在上汤之前仔细地撇去了汤上的浮油。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "de-fat",
+            "clarify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skim [sth]\ngive [sth] a skim",
+      "POS":"vtr | nc",
+      "POS_TIP":"transitive verb | countable noun",
+      "TAGS":[
+        "core word",
+        "reading"
+      ],
+      "DEF_EN":"To read or look through material quickly to grasp the main points or general idea.",
+      "DEF_ZH":"快速阅读或浏览材料，以掌握要点或大致概念。",
+      "SENT_EN":"I didn't read the whole article, I just gave it a quick skim.",
+      "SENT_ZH":"我没有阅读整篇文章，只是快速浏览了一下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scan",
+            "glance over",
+            "browse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "peruse",
+            "scrutinize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skim (over/across [sth])",
+      "POS":"vi | vi + prep",
+      "POS_TIP":"intransitive verb | intransitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "motion"
+      ],
+      "DEF_EN":"To move quickly, lightly, or smoothly just above or along a surface.",
+      "DEF_ZH":"快速、轻盈或平稳地掠过或沿着某个表面移动。",
+      "SENT_EN":"The flat stones skimmed across the surface of the water easily.",
+      "SENT_ZH":"扁平的石头轻而易举地掠过水面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graze",
+            "skip",
+            "brush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skim [money/profits]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "finance",
+        "crime"
+      ],
+      "DEF_EN":"To secretly and fraudulently take money, especially by intercepting funds before they are officially recorded or taxed.",
+      "DEF_ZH":"秘密地、欺诈性地截取金钱，通常指在正式记录或征税前截留资金。",
+      "SENT_EN":"The manager was caught skimming profits from the daily cash register.",
+      "SENT_ZH":"这位经理因私吞每日收银机的利润而被捕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "embezzle",
+            "siphon off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skim [data/cards]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "jargon",
+        "crime"
+      ],
+      "DEF_EN":"To illegally copy electronic data, especially credit card information, usually using a hidden electronic device (a skimmer).",
+      "DEF_ZH":"非法复制电子数据，尤指使用隐藏的电子设备（读卡器）窃取信用卡信息。",
+      "SENT_EN":"Criminals often install devices on ATMs to skim card details.",
+      "SENT_ZH":"犯罪分子经常在自动取款机上安装设备来窃取银行卡信息。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "phish",
+            "identity theft"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, suitable for both formal and informal contexts, although meanings 4 and 5 are informal or technical jargon."
+}

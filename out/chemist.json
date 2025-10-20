@@ -1,0 +1,79 @@
+{
+  "WORD":"chemist",
+  "IPA":"/ˈkɛmɪst/",
+  "CONJUGATES":"chemists",
+  "ETYMOLOGY":"Derived from the word 'chemistry' and the suffix '-ist', replacing the older term 'chymist'. 'Chemistry' comes from New Latin 'chemia' or 'chymia', related to alchemy.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "profession",
+        "science"
+      ],
+      "DEF_EN":"A scientist specializing in chemistry; a person who studies or practices the science of the composition, structure, properties, and reactions of matter.",
+      "DEF_ZH":"研究化学的科学家或专家；从事物质组成、结构、性质和反应研究的人。",
+      "SENT_EN":"The research chemist was awarded a Nobel Prize for discovering the new compound.",
+      "SENT_ZH":"这位研究化学家因发现新化合物而获得了诺贝尔奖。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "biochemist",
+            "physicist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "regional",
+        "UK English",
+        "profession"
+      ],
+      "DEF_EN":"(Chiefly British) A pharmacist; a person licensed to dispense medication and counsel patients on its use.",
+      "DEF_ZH":"（主要英式用法）药剂师；经许可配药并指导病人用药的人。",
+      "SENT_EN":"The chemist prepared the prescription immediately.",
+      "SENT_ZH":"药剂师立即配好了处方药。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pharmacist",
+            "druggist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "regional",
+        "UK English",
+        "store"
+      ],
+      "DEF_EN":"(Chiefly British) A shop or store where medicines and toiletries are sold; a pharmacy.",
+      "DEF_ZH":"（主要英式用法）出售药品和洗漱用品的商店；药店，药房。",
+      "SENT_EN":"I need to stop by the chemist to buy some sunscreen.",
+      "SENT_ZH":"我需要顺道去药店买些防晒霜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pharmacy",
+            "drugstore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in professional scientific contexts globally; common as a synonym for 'pharmacist' in Commonwealth countries."
+}

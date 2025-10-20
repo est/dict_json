@@ -1,0 +1,81 @@
+{
+  "WORD":"extent",
+  "IPA":"/ɪkˈstɛnt/",
+  "CONJUGATES":"extents (plural)",
+  "ETYMOLOGY":"From Old French estente, from Latin extentus, past participle of extendere ('to stretch out, spread out').",
+  "SINCE":"c. 1350 (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s extent\nto what extent",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The degree, distance, or limit to which something reaches or operates; scope or magnitude.",
+      "DEF_ZH":"事物所能达到的程度、范围或限度；规模。",
+      "SENT_EN":"The committee investigated the full extent of the fraud.",
+      "SENT_ZH":"委员会调查了欺诈的全部程度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "degree",
+            "scope",
+            "range",
+            "magnitude",
+            "scale"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "extension",
+            "extensive",
+            "extend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an extent (of land)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "spatial"
+      ],
+      "DEF_EN":"The amount of space that something covers or encompasses; physical area.",
+      "DEF_ZH":"物体占据或覆盖的物理空间或面积。",
+      "SENT_EN":"They walked across a vast extent of open prairie.",
+      "SENT_ZH":"他们走过了一大片开阔的草原。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "area",
+            "expanse",
+            "stretch",
+            "territory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"writ of extent",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "legal term"
+      ],
+      "DEF_EN":"A judicial writ ordering the valuation of land or goods in order to satisfy a debt.",
+      "DEF_ZH":"（法律，古）为清偿债务而要求对土地或财产进行估价的司法令状。",
+      "SENT_EN":"Historically, the King could seize assets through a writ of extent.",
+      "SENT_ZH":"在历史上，国王可以通过估价令状查封资产。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, often used abstractly to discuss limits or scope."
+}

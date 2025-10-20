@@ -1,0 +1,64 @@
+{
+  "WORD":"hardware",
+  "IPA":"/ˈhɑːrdwɛr/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound word formed from Old English 'heard' (hard, firm) and 'ware' (goods, merchandise). Originally referred to general metal goods and tools.",
+  "SINCE":"Mid 15th Century (traditional meaning); Mid 20th Century (computing meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[computing] [sth]",
+      "POS":"nu",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"The physical components of a computer or electronic system (e.g., monitor, hard drive, CPU), as opposed to the data or software.",
+      "DEF_ZH":"计算机或电子系统的物理组件（例如显示器、硬盘、CPU），与数据或软件相对。",
+      "SENT_EN":"We need to upgrade the server hardware to handle the increased traffic.",
+      "SENT_ZH":"我们需要升级服务器硬件以应对流量的增加。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "software"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "equipment",
+            "components",
+            "machinery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[tools] [sth]",
+      "POS":"nu",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "core word",
+        "traditional",
+        "commerce"
+      ],
+      "DEF_EN":"Tools, implements, and general metal goods used in home improvement, construction, or maintenance, typically sold in a hardware store.",
+      "DEF_ZH":"用于家居装修、建筑或维护的工具、器具和一般金属制品，通常在五金店出售。",
+      "SENT_EN":"He went to the store to buy some basic hardware like nails and screws.",
+      "SENT_ZH":"他去商店买了一些基本的五金件，比如钉子和螺丝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ironmongery",
+            "metalware",
+            "tools"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical/computing, commerce"
+}

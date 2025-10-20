@@ -1,0 +1,120 @@
+{
+  "WORD":"function",
+  "IPA":"/ˈfʌŋkʃən/",
+  "CONJUGATES":"functions | functioning | functioned",
+  "ETYMOLOGY":"From Latin functio (accusative functionem), from fungi 'to perform, execute, discharge'. Entered English via Old French fonction.",
+  "SINCE":"Mid-15th century (as a noun, referring to religious ceremony); late 17th century (as a mathematical term).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] has a function",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The special purpose or duty for which a person or thing is designed or used; a role.",
+      "DEF_ZH":"功用；职能；作用；职责。",
+      "SENT_EN":"The primary function of the heart is to pump blood throughout the body.",
+      "SENT_ZH":"心脏的主要功能是泵血至全身。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "role",
+            "purpose",
+            "duty",
+            "operation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "functionality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] function",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To work or operate in a proper or intended way; to perform its specified task.",
+      "DEF_ZH":"起作用；运行；正常运作。",
+      "SENT_EN":"After the update, the security software started functioning correctly again.",
+      "SENT_ZH":"更新后，安全软件又开始正常运行了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "operate",
+            "work",
+            "run",
+            "perform"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "malfunction",
+            "fail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mathematical function\na computer function",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "computing"
+      ],
+      "DEF_EN":"(Math) A relation between a set of inputs and a set of permissible outputs where each input is related to exactly one output. (Comp) A defined block of code that performs a specific task and often returns a value.",
+      "DEF_ZH":"(数学) 函数；(计算机) 功能块；子程序。",
+      "SENT_EN":"This software module contains a recursive function to process the data.",
+      "SENT_ZH":"该软件模块包含一个用于处理数据的递归函数。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "variable",
+            "algorithm",
+            "routine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a function",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "formal",
+        "less common",
+        "UK English"
+      ],
+      "DEF_EN":"A large, formal social gathering, ceremony, or official public event.",
+      "DEF_ZH":"正式集会；庆典；宴会。",
+      "SENT_EN":"They hosted a lavish function to celebrate the company’s anniversary.",
+      "SENT_ZH":"他们举办了一场盛大的庆典来庆祝公司周年纪念日。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "event",
+            "gathering",
+            "reception",
+            "ceremony"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard and Formal, heavily used in technical fields (Engineering, IT, Science)."
+}

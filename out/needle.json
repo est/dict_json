@@ -1,0 +1,95 @@
+{
+  "WORD":"needle",
+  "IPA":"/ˈniːdəl/",
+  "CONJUGATES":"needles | needling | needled",
+  "ETYMOLOGY":"From Old English nǣdl, from Proto-Germanic *nēþlō, ultimately deriving from the Proto-Indo-European root *snē- meaning 'to spin, weave, or sew'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "tool",
+        "medical"
+      ],
+      "DEF_EN":"A small, thin piece of polished metal with a sharp point at one end and an eye or hole at the other, used for sewing or surgical purposes (often attached to a syringe).",
+      "DEF_ZH":"（缝纫、编织、注射、外科手术用的）针。",
+      "SENT_EN":"The nurse prepared the syringe and replaced the needle.",
+      "SENT_ZH":"护士准备好注射器并更换了针头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stylus",
+            "pin"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "thread",
+            "syringe",
+            "suture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "botany",
+        "instrument"
+      ],
+      "DEF_EN":"A thin, sharp, stiff leaf, such as those found on pine or fir trees; or, the pointer or indicator on a gauge, compass, or record player.",
+      "DEF_ZH":"（松柏等树木的）针叶；（指南针、仪表等的）指针。",
+      "SENT_EN":"We followed the compass needle which pointed due north.",
+      "SENT_ZH":"我们跟着指南针的指针，它指向正北方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pointer",
+            "spine",
+            "foliage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"needle [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "common"
+      ],
+      "DEF_EN":"To provoke, tease, or annoy someone, especially by continuous criticism or questioning.",
+      "DEF_ZH":"激怒；挑衅；不断地揶揄或批评某人。",
+      "SENT_EN":"His teammates continued to needle him about missing the winning shot.",
+      "SENT_ZH":"他的队友们不断地挖苦他错失了制胜的一球。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "goad",
+            "pester",
+            "badger",
+            "taunt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "soothe",
+            "placate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used."
+}

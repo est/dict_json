@@ -1,0 +1,93 @@
+{
+  "WORD":"expedition",
+  "IPA":"/ˌɛkspəˈdɪʃən/",
+  "CONJUGATES":"expeditions",
+  "ETYMOLOGY":"Late Middle English. From Anglo-French, or directly from Latin expeditio (expeditionem), meaning 'a setting forth, an enterprise, quick action', derived from expedire ('to set free, prepare, make ready, hasten').",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"an [adj] [sth] to [location/goal]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Travel",
+        "Exploration"
+      ],
+      "DEF_EN":"A long journey or voyage undertaken by a group of people with a specific purpose, especially one of exploration, scientific research, or war.",
+      "DEF_ZH":"（有特定目的，尤指考察、研究或战争的）远征；探险；旅行。",
+      "SENT_EN":"The scientific expedition faced severe weather while collecting samples near the pole.",
+      "SENT_ZH":"这支科学考察队在极地附近收集样本时遭遇了恶劣的天气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "journey",
+            "voyage",
+            "trek",
+            "mission",
+            "exploration"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "excursion",
+            "jaunt",
+            "campaign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the [adj] [sth] of [people]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Metonymy",
+        "Group"
+      ],
+      "DEF_EN":"The group of people and equipment undertaking the specific journey or mission.",
+      "DEF_ZH":"远征队；探险队；考察团。",
+      "SENT_EN":"The entire expedition suffered from altitude sickness during their ascent of the Himalayas.",
+      "SENT_ZH":"在攀登喜马拉雅山的过程中，整个探险队都患上了高原反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "team",
+            "party",
+            "crew",
+            "contingent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"with [adj] [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Rare",
+        "Formal"
+      ],
+      "DEF_EN":"Speed or promptness in execution; haste.",
+      "DEF_ZH":"迅速；敏捷；快速（通常用于正式或过时的语境）。",
+      "SENT_EN":"They finished the bureaucratic process with great expedition.",
+      "SENT_ZH":"他们以极快的速度完成了行政流程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "celerity",
+            "haste",
+            "promptness",
+            "dispatch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in geographical, historical, or military contexts."
+}

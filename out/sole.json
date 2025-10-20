@@ -1,0 +1,111 @@
+{
+  "WORD":"sole",
+  "IPA":"/soʊl/",
+  "CONJUGATES":"soles | soled | soling",
+  "ETYMOLOGY":"Root 1 (Adjective 'only'): From Old French *sol*, from Latin *solus* ('alone', 'only'). | Root 2 (Noun 'foot/fish'): From Latin *solea* ('sandal', 'flat fish'), related to *solum* ('ground', 'bottom').",
+  "SINCE":"c. 1300 (both roots)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[attributive adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (修饰性形容词)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Being the only one; belonging or restricted to one person or group.",
+      "DEF_ZH":"唯一的；单独的；独有的。",
+      "SENT_EN":"She is the sole beneficiary of the estate, receiving everything.",
+      "SENT_ZH":"她是该遗产的唯一受益人，继承了所有财产。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "only",
+            "exclusive",
+            "single",
+            "unique"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "shared",
+            "joint",
+            "multiple"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[count n] (part of body or shoe)",
+      "POS":"n",
+      "POS_TIP":"Noun (可数名词)",
+      "TAGS":[
+        "core word",
+        "anatomy",
+        "footwear"
+      ],
+      "DEF_EN":"The undersurface of a person's foot or the corresponding piece of material on the bottom of a shoe or boot.",
+      "DEF_ZH":"脚底；鞋底。",
+      "SENT_EN":"He felt a sharp stone right through the thin sole of his sandal.",
+      "SENT_ZH":"他透过凉鞋薄薄的鞋底感受到一块尖锐的石头。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "insole",
+            "heel",
+            "outsole"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[count n] (fish)",
+      "POS":"n",
+      "POS_TIP":"Noun (可数名词)",
+      "TAGS":[
+        "common",
+        "cooking",
+        "biology"
+      ],
+      "DEF_EN":"A commercially important flatfish valued as food, typically belonging to the family Soleidae.",
+      "DEF_ZH":"鲽鱼或鳎鱼（一种扁平状食用鱼，肉质细腻）。",
+      "SENT_EN":"The restaurant is famous for its grilled Dover sole.",
+      "SENT_ZH":"这家餐厅以其烤多佛鳎鱼而闻名。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "flounder",
+            "halibut",
+            "flatfish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sole [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (及物动词)",
+      "TAGS":[
+        "technical",
+        "specific"
+      ],
+      "DEF_EN":"To put a sole on a shoe or boot; to repair the sole of footwear.",
+      "DEF_ZH":"给（鞋）换底或修补鞋底。",
+      "SENT_EN":"The cobbler needed an hour to sole and heel my worn-out dress shoes.",
+      "SENT_ZH":"鞋匠需要一小时来给我的旧皮鞋换底和换鞋跟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resole"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

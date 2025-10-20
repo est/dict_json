@@ -1,0 +1,124 @@
+{
+  "WORD":"drip",
+  "IPA":"/drɪp/",
+  "CONJUGATES":"drips | dripping | dripped",
+  "ETYMOLOGY":"From Middle English drippen, likely of Germanic origin, related to the Old Norse verb drypa 'to drop'.",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] drip",
+      "POS":"vintr",
+      "POS_TIP":"'vintr' is intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fall or let fall in small drops.",
+      "DEF_ZH":"（液体）滴下；滴落。",
+      "SENT_EN":"The melted snow began to drip from the eaves of the roof.",
+      "SENT_ZH":"融化的雪开始从屋檐滴落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drop",
+            "trickle",
+            "leak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] drip\n[a] drip",
+      "POS":"nc | nu",
+      "POS_TIP":"'nc' is countable noun, 'nu' is uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A drop of liquid or the sound made by liquid falling in drops.",
+      "DEF_ZH":"滴下的水滴；滴水声。",
+      "SENT_EN":"I couldn't sleep because of the steady drip of the tap.",
+      "SENT_ZH":"水龙头持续不断的滴水声让我无法入睡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drop",
+            "trickle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] IV drip\n[a] drip",
+      "POS":"nc",
+      "POS_TIP":"'nc' is countable noun",
+      "TAGS":[
+        "medical",
+        "technical"
+      ],
+      "DEF_EN":"An apparatus used in medicine to deliver fluid slowly and continuously into a patient's vein; intravenous infusion.",
+      "DEF_ZH":"（静脉）输液；点滴；输液装置。",
+      "SENT_EN":"The doctor put the patient on a saline drip to prevent dehydration.",
+      "SENT_ZH":"医生给病人挂了生理盐水点滴以防止脱水。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "infusion",
+            "IV"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] drip\n[sb] has drip",
+      "POS":"nu",
+      "POS_TIP":"'nu' is uncountable noun",
+      "TAGS":[
+        "slang",
+        "informal",
+        "modern"
+      ],
+      "DEF_EN":"A measure of style, fashion, or coolness, often implying expensive clothing or high confidence (derived from 'iced out' jewelry looking like melting ice).",
+      "DEF_ZH":"时尚感；潮范儿；引人注目的酷炫风格（常指昂贵的服饰）。",
+      "SENT_EN":"That rapper’s outfit has serious drip, he’s wearing all designer brands.",
+      "SENT_ZH":"那个说唱歌手的服装非常有范儿，他穿的都是名牌设计。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swag",
+            "style",
+            "flex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] drip",
+      "POS":"nc",
+      "POS_TIP":"'nc' is countable noun",
+      "TAGS":[
+        "informal",
+        "derogatory"
+      ],
+      "DEF_EN":"A weak, dull, or uninteresting person.",
+      "DEF_ZH":"懦弱乏味或愚蠢的人。",
+      "SENT_EN":"He’s such a drip, he never has anything interesting to say.",
+      "SENT_ZH":"他真是个窝囊废，从没说过什么有趣的话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wimp",
+            "dullard",
+            "bore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, covering literal, medical, and modern slang uses."
+}

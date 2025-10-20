@@ -1,0 +1,125 @@
+{
+  "WORD":"string",
+  "IPA":"/strɪŋ/",
+  "CONJUGATES":"strings | stringing | strung (past tense, past participle)",
+  "ETYMOLOGY":"From Old English streng (masculine noun), derived from Proto-Germanic *strangiz, meaning 'rope, cord, line'. Related to 'strong' and 'strength'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] string [of sth]",
+      "POS":"Noun",
+      "POS_TIP":"Countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "physical object"
+      ],
+      "DEF_EN":"A length of thin cord, twine, thread, or wire used for tying, pulling, or restricting.",
+      "DEF_ZH":"细绳；线；带子；（乐器的）弦。",
+      "SENT_EN":"He tied the identification tag to the luggage with a piece of brown string.",
+      "SENT_ZH":"他用一根棕色的绳子把识别标签系在了行李上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cord",
+            "twine",
+            "thread",
+            "filament"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a string of [sth]",
+      "POS":"Noun",
+      "POS_TIP":"Countable noun, usually followed by 'of'",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A continuous sequence, chain, or series of things, events, or arguments.",
+      "DEF_ZH":"一连串；一系列；一串（如珍珠）。",
+      "SENT_EN":"The investor suffered a string of bad luck and financial losses last quarter.",
+      "SENT_ZH":"这位投资者上个季度经历了一连串的厄运和财务损失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "series",
+            "sequence",
+            "chain",
+            "run"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] string [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common action"
+      ],
+      "DEF_EN":"To thread objects onto a string, or to hang or arrange something in a line.",
+      "DEF_ZH":"用线穿；把…串起来；悬挂（成一排）。",
+      "SENT_EN":"They strung colorful lights around the perimeter of the garden.",
+      "SENT_ZH":"他们在花园周围挂了一圈彩灯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thread",
+            "hang",
+            "drape"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"string",
+      "POS":"Noun",
+      "POS_TIP":"Countable noun (Computing/Programming)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In programming, a sequence of characters (letters, numbers, or symbols) treated as a single piece of data.",
+      "DEF_ZH":"（计算机）字符串；字符序列。",
+      "SENT_EN":"The function checks whether the input string is empty before processing.",
+      "SENT_ZH":"该函数在处理之前会检查输入字符串是否为空。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "character",
+            "integer",
+            "boolean"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"string [an instrument]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "music"
+      ],
+      "DEF_EN":"To put new strings on a musical instrument, such as a guitar or violin.",
+      "DEF_ZH":"给（乐器）上弦。",
+      "SENT_EN":"The guitarist needs to string his bass before the concert tonight.",
+      "SENT_ZH":"这位吉他手需要在今晚的音乐会前给他的贝斯装上弦。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tune",
+            "fret"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, common, technical (computing), musical"
+}

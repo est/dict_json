@@ -1,0 +1,96 @@
+{
+  "WORD":"deficiency",
+  "IPA":"/dɪˈfɪʃənsi/",
+  "CONJUGATES":"deficiencies (plural)",
+  "ETYMOLOGY":"From Late Latin deficientia, from deficiens, present participle of deficere ('to fail, lack').",
+  "SINCE":"c. 1620",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] deficiency (in [sth]\nof [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state of being incomplete, insufficient, or lacking something essential or necessary.",
+      "DEF_ZH":"缺乏；不足；短缺（尤指必需品）。",
+      "SENT_EN":"The current power supply system has a significant deficiency in capacity.",
+      "SENT_ZH":"当前的电力供应系统在容量上存在严重不足。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shortage",
+            "lack",
+            "inadequacy",
+            "insufficiency",
+            "shortfall"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "surplus",
+            "abundance",
+            "excess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] deficiency\na deficiency",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "medical",
+        "technical"
+      ],
+      "DEF_EN":"A specific lack of a necessary nutrient, enzyme, hormone, or other physical or mental function that results in a disease or impairment.",
+      "DEF_ZH":"缺陷；障碍；（营养、酶或机能上的）不足症。",
+      "SENT_EN":"Vitamin D deficiency is widespread in colder climates.",
+      "SENT_ZH":"维生素D缺乏症在寒冷气候地区非常普遍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defect",
+            "impairment",
+            "disability"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "anemia",
+            "malnutrition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a deficiency (in [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "finance",
+        "formal"
+      ],
+      "DEF_EN":"The amount by which a total or necessary sum, especially of money, falls short; a deficit.",
+      "DEF_ZH":"差额；不足之数；亏空（特指财务或预算）。",
+      "SENT_EN":"The audit revealed a severe financial deficiency in the company's pension fund.",
+      "SENT_ZH":"审计显示公司养老基金存在严重的资金亏空。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deficit",
+            "shortfall",
+            "arrears"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Medical"
+}

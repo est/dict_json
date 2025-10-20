@@ -1,0 +1,77 @@
+{
+  "WORD":"child",
+  "IPA":"/tʃaɪld/",
+  "CONJUGATES":"children (plural) | childhood (n) | childish (adj) | childlike (adj)",
+  "ETYMOLOGY":"From Old English cild, perhaps originally meaning 'fetus' or 'descendant'. The plural form 'children' is a double plural, reflecting a combination of Old English pluralization strategies.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] child",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A young human being below the age of puberty or below the legal age of majority.",
+      "DEF_ZH":"指年龄在青春期以下或未达到法定成年年龄的人类幼崽。",
+      "SENT_EN":"The playground was full of laughing children.",
+      "SENT_ZH":"操场上挤满了欢笑的孩子们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kid",
+            "youngster",
+            "minor",
+            "youth"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "adult",
+            "elder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] child",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "relationship"
+      ],
+      "DEF_EN":"A son or daughter of any age, relating to their parent(s).",
+      "DEF_ZH":"某人的儿子或女儿，不论其年龄大小。",
+      "SENT_EN":"They have three grown children who all live abroad.",
+      "SENT_ZH":"他们有三个已经成年的孩子，都住在国外。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offspring",
+            "descendant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] child [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A person who is strongly influenced or characteristic of a particular time, place, or condition.",
+      "DEF_ZH":"受特定时代、环境或条件强烈影响或具有其特征的人。",
+      "SENT_EN":"She was a child of the Depression era, always careful with money.",
+      "SENT_ZH":"她是大萧条时代的孩子，花钱总是非常谨慎。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

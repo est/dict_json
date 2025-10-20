@@ -1,0 +1,109 @@
+{
+  "WORD":"unit",
+  "IPA":"/ˈjuːnɪt/",
+  "CONJUGATES":"units | uniting | united",
+  "ETYMOLOGY":"From Latin unitas ('unity, oneness'), from unus ('one').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A single, complete, and separate item or thing, considered as part of a whole.",
+      "DEF_ZH":"构成整体的一部分的单一、完整且独立的项目或事物。",
+      "SENT_EN":"The apartment complex contains 50 residential units.",
+      "SENT_ZH":"这个公寓大楼包含50个住宅单元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "item",
+            "element",
+            "component",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [measurement]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A standard quantity used in measurement, such as a metre or a second.",
+      "DEF_ZH":"测量中使用的标准量，例如米或秒。",
+      "SENT_EN":"The metre is the basic unit of length in the metric system.",
+      "SENT_ZH":"米是公制系统中长度的基本单位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "SI unit",
+            "measurement"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "standard",
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[military/organization]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "military",
+        "organization"
+      ],
+      "DEF_EN":"A self-contained subdivision of a larger military or organizational body.",
+      "DEF_ZH":"大型军事或组织机构中独立运作的分支或部门。",
+      "SENT_EN":"He was assigned to a special operations unit.",
+      "SENT_ZH":"他被分配到一个特种作战部队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "squad",
+            "division",
+            "section",
+            "department"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[numerical]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "mathematics",
+        "technical"
+      ],
+      "DEF_EN":"The smallest whole number; the number one.",
+      "DEF_ZH":"最小的整数；数字“一”。",
+      "SENT_EN":"The number 45 has five units and four tens.",
+      "SENT_ZH":"数字45有五个个位和四个十位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "one",
+            "singularity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Military"
+}

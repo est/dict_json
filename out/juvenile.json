@@ -1,0 +1,115 @@
+{
+  "WORD":"juvenile",
+  "IPA":"/ˈdʒuːvənaɪl/",
+  "CONJUGATES":"juvenility | juvenilia",
+  "ETYMOLOGY":"From Latin iuvenīlis ('of or belonging to youth, youthful'), derived from iuvenis ('young person, young').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or characteristic of young people.",
+      "DEF_ZH":"青少年的；与青少年相关的。",
+      "SENT_EN":"The program is designed to address issues of juvenile delinquency.",
+      "SENT_ZH":"该计划旨在解决青少年犯罪问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "youthful",
+            "adolescent",
+            "young"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "puberty",
+            "teenager"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [behavior] (often derogatory)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "negative connotation"
+      ],
+      "DEF_EN":"Childish; characteristic of immaturity.",
+      "DEF_ZH":"幼稚的；不成熟的；孩子气的。",
+      "SENT_EN":"His comment was extremely juvenile and unnecessary.",
+      "SENT_ZH":"他的评论非常幼稚且不必要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "childish",
+            "immature",
+            "puerile"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mature",
+            "adult",
+            "responsible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] juvenile (legal context)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "sociological"
+      ],
+      "DEF_EN":"A young person who is not yet old enough to be considered legally as an adult.",
+      "DEF_ZH":"未成年人；少年（法律术语）。",
+      "SENT_EN":"The court heard evidence from several juveniles involved in the incident.",
+      "SENT_ZH":"法庭听取了几名涉案未成年人的证词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minor",
+            "youth",
+            "adolescent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "adult",
+            "major"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] juvenile (biological context)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "scientific",
+        "biological"
+      ],
+      "DEF_EN":"An organism, animal, or plant that is young or in an early stage of development.",
+      "DEF_ZH":"幼体；幼生动物/植物（生物学）。",
+      "SENT_EN":"The pond was full of juveniles, including tadpoles and young fish.",
+      "SENT_ZH":"池塘里到处都是幼体，包括蝌蚪和小鱼。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Legal, Biological"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"glance",
+  "IPA":"/ˈɡlæns/",
+  "CONJUGATES":"glances | glancing | glanced",
+  "ETYMOLOGY":"Middle English (glansen, glenchen), of uncertain origin, possibly related to Middle High German glinzen 'to glitter, shine'",
+  "SINCE":"c. 1300s (oblique movement); c. 1500s (quick look)",
+  "MEANINGS":[
+    {
+      "PATTERN":"glance (at [sth]\nat [sb])",
+      "POS":"vintr (+ prep)",
+      "POS_TIP":"intransitive verb (vintr) followed by an optional preposition (prep)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take a brief or hurried look.",
+      "DEF_ZH":"快速地看一眼；瞥见；扫视。",
+      "SENT_EN":"He glanced nervously at the clock while waiting for the interview results.",
+      "SENT_ZH":"他紧张地瞥了一眼时钟，等待着面试结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peek",
+            "glimpse",
+            "scan"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stare",
+            "gaze",
+            "examine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a glance",
+      "POS":"n",
+      "POS_TIP":"noun (n)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A quick or casual look.",
+      "DEF_ZH":"匆匆的一瞥；一览。",
+      "SENT_EN":"A quick glance confirmed that the email was spam.",
+      "SENT_ZH":"快速地扫了一眼，证实那封邮件是垃圾邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "look",
+            "sight",
+            "glimpse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"glance (off [sth])",
+      "POS":"vintr (+ prep)",
+      "POS_TIP":"intransitive verb (vintr) followed by an optional preposition (prep)",
+      "TAGS":[
+        "technical",
+        "physics",
+        "less common"
+      ],
+      "DEF_EN":"To strike a surface at an oblique angle and move away or deflect.",
+      "DEF_ZH":"（光线或物体）斜射；擦过；掠过。",
+      "SENT_EN":"The stone hit the window and glanced harmlessly off the thick glass.",
+      "SENT_ZH":"石头击中窗户，擦过厚厚的玻璃，没有造成伤害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deflect",
+            "ricochet",
+            "graze"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in all contexts."
+}

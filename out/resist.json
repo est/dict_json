@@ -1,0 +1,90 @@
+{
+  "WORD":"resist",
+  "IPA":"/rɪˈzɪst/",
+  "CONJUGATES":"resists | resisting | resisted",
+  "ETYMOLOGY":"From Old French resister, from Latin resistere (re- 'back, against' + sistere 'to take a stand, stop').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"resist [sb/sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action",
+        "conflict"
+      ],
+      "DEF_EN":"To refuse to accept or comply with something; to oppose or fight against a force, action, or authority.",
+      "DEF_ZH":"抵抗；反抗；抵制（武力、权威或行动）。",
+      "SENT_EN":"The citizens vowed to resist the oppressive new laws.",
+      "SENT_ZH":"市民们发誓要抵抗压迫性的新法律。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oppose",
+            "defy",
+            "withstand",
+            "fight"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "yield",
+            "submit",
+            "surrender"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"resist [sth]\nresist [doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "behavior",
+        "mental"
+      ],
+      "DEF_EN":"To refrain from or successfully avoid something tempting or desirable, or an urge to do something.",
+      "DEF_ZH":"忍住；抑制住；抵御（诱惑或冲动）。",
+      "SENT_EN":"I tried to resist the urge to eat the whole cake.",
+      "SENT_ZH":"我努力抵抗住吃掉整个蛋糕的冲动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "forbear",
+            "abstain",
+            "curb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"resist [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "material science"
+      ],
+      "DEF_EN":"To be undamaged or unaffected by the action or effect of something, such as heat, corrosion, or wear.",
+      "DEF_ZH":"抗（腐蚀、磨损）；耐受；不受…的影响。",
+      "SENT_EN":"The metal is specifically formulated to resist high temperatures.",
+      "SENT_ZH":"这种金属经过特殊配制，能够抵抗高温。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "resilient",
+            "impervious",
+            "waterproof"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

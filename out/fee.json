@@ -1,0 +1,90 @@
+{
+  "WORD":"fee",
+  "IPA":"/fiː/",
+  "CONJUGATES":"Noun: fees | Verb: fees (present 3rd singular) | feeing (present participle) | feed (simple past/past participle, rarely used)",
+  "ETYMOLOGY":"From Middle English fee, fe, from Old French fieu, feu, fief (fiefdom, tenure), ultimately from Old High German fihu (cattle, property), related to Old English feoh (money, cattle).",
+  "SINCE":"Before 1000 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (payment for service)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"A fixed sum charged for a service, permission, or privilege.",
+      "DEF_ZH":"为服务、许可或特权收取的固定金额或酬劳。",
+      "SENT_EN":"The bank charges a service fee for international transfers.",
+      "SENT_ZH":"银行对国际转账收取服务费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "cost",
+            "rate",
+            "tariff"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fief",
+            "remuneration",
+            "gratuity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[legal term] (e.g., fee simple)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"An estate held in perpetual inheritance; a fief. (Used primarily in legal compound terms like 'fee simple').",
+      "DEF_ZH":"永久继承的地产；封地。（主要用于法律复合词，如'简单地产权'）。",
+      "SENT_EN":"He held the property in fee simple, granting him unrestricted rights.",
+      "SENT_ZH":"他拥有该房产的简单地产权，赋予他不受限制的权利。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fief",
+            "estate",
+            "tenure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fee [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "verb usage",
+        "less common"
+      ],
+      "DEF_EN":"To pay a fee or reward to someone, especially a professional; or, to charge a fee to someone.",
+      "DEF_ZH":"向某人支付费用或报酬，尤指专业人士；或向某人收取费用。",
+      "SENT_EN":"They decided to highly fee the architect for the specialized plans.",
+      "SENT_ZH":"他们决定为该专业计划向建筑师支付高额费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pay",
+            "remunerate",
+            "hire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Finance, Legal, General Usage"
+}

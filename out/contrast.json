@@ -1,0 +1,92 @@
+{
+  "WORD":"contrast",
+  "IPA":"/ˈkɒntræst/, /kənˈtræst/",
+  "CONJUGATES":"contrasts | contrasted | contrasting",
+  "ETYMOLOGY":"From Middle French contraste, from Italian contrasto ('conflict, opposition'), from Latin contra- ('against') + stare ('to stand').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"contrast [between sth] and [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state of being strikingly different from something else, or a difference that is clearly noticeable.",
+      "DEF_ZH":"（事物之间）显著的差异或对立；对比。",
+      "SENT_EN":"The stark contrast between the city and the countryside was immediately apparent.",
+      "SENT_ZH":"城市和乡村之间鲜明的对比立即显现出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "difference",
+            "disparity",
+            "distinction",
+            "opposition"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "similarity",
+            "analogy",
+            "equivalence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"contrast (in media/visuals)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "art",
+        "photography"
+      ],
+      "DEF_EN":"The degree of difference between the light and dark parts in a photograph, video, or painting.",
+      "DEF_ZH":"（图像或影像的）反差；对比度。",
+      "SENT_EN":"He increased the contrast on the screen to improve readability.",
+      "SENT_ZH":"他提高了屏幕的对比度以改善可读性。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"contrast [sth] with [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive Verb + Preposition (stress on second syllable: /kənˈtræst/)",
+      "TAGS":[
+        "core word",
+        "academic"
+      ],
+      "DEF_EN":"To compare two or more items in order to show the differences between them.",
+      "DEF_ZH":"使对照；对比（以突出差异）。",
+      "SENT_EN":"When contrasting the two proposals, we found several key weaknesses in the first one.",
+      "SENT_ZH":"在对比这两项提案时，我们发现第一项有几个主要的弱点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "differentiate",
+            "compare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"contrast with [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"Intransitive Verb + Preposition (stress on second syllable: /kənˈtræst/)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To be clearly different from something else when placed together; to set off.",
+      "DEF_ZH":"形成对比；显得不同。",
+      "SENT_EN":"The bright yellow furniture contrasts sharply with the pale blue walls.",
+      "SENT_ZH":"明亮的黄色家具与淡蓝色的墙壁形成鲜明的对比。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, highly common in academic, descriptive, and technical contexts."
+}

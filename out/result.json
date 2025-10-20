@@ -1,0 +1,113 @@
+{
+  "WORD":"result",
+  "IPA":"/rɪˈzʌlt/",
+  "CONJUGATES":"results | resulting | resulted",
+  "ETYMOLOGY":"From Middle French résulter, from Medieval Latin resultāre 'to spring back, to follow as a consequence', frequentative of Latin resilīre 'to leap back' (re- 'back' + salīre 'to jump').",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] result\nthe result of [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A consequence, effect, or outcome of an action, process, or event.",
+      "DEF_ZH":"（行动、过程或事件的）结果；成果；后果",
+      "SENT_EN":"The doctor discussed the lab results with the patient.",
+      "SENT_ZH":"医生与病人讨论了化验结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outcome",
+            "consequence",
+            "effect",
+            "upcome"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cause",
+            "origin",
+            "source"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] result (in sports)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specific domain",
+        "sports"
+      ],
+      "DEF_EN":"The final score or official standing in a sporting event or competition.",
+      "DEF_ZH":"比赛成绩；比分",
+      "SENT_EN":"What was the final result of the match between the two teams?",
+      "SENT_ZH":"这两支球队的比赛结果如何？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "score",
+            "standing",
+            "tally"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"result in [sth]",
+      "POS":"v. intr + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "causative"
+      ],
+      "DEF_EN":"To cause a particular situation or event; to lead to a specific outcome.",
+      "DEF_ZH":"导致；造成；引起（某种结果）",
+      "SENT_EN":"This delay will inevitably result in increased costs.",
+      "SENT_ZH":"这种延误将不可避免地导致成本增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cause",
+            "lead to",
+            "produce",
+            "culminate in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"result from [sth]",
+      "POS":"v. intr + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To occur or follow as the effect or consequence of something preceding (indicating the source).",
+      "DEF_ZH":"由...产生；源于；起因于",
+      "SENT_EN":"The damage resulted from a faulty circuit.",
+      "SENT_ZH":"损坏是由于电路故障引起的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stem from",
+            "arise from",
+            "proceed from",
+            "be caused by"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

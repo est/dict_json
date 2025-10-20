@@ -1,0 +1,89 @@
+{
+  "WORD":"insurance",
+  "IPA":"/ɪnˈʃʊərəns/",
+  "CONJUGATES":"insurances (plural, referring to policies or types)",
+  "ETYMOLOGY":"From Middle English *insuren* (to assure, secure) + suffix *-ance*. Ultimately related to Old French *enseurer* and Latin *securus* ('safe', 'secure'). The modern financial sense developed in the 17th century.",
+  "SINCE":"Mid-16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"insurance [n\nuncount] | [type] insurance",
+      "POS":"n | uncount",
+      "POS_TIP":"Noun | uncountable",
+      "TAGS":[
+        "core word",
+        "financial",
+        "legal"
+      ],
+      "DEF_EN":"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a specified premium.",
+      "DEF_ZH":"一种制度或安排，由公司或政府机构以收取固定保费为代价，为特定损失、损害、疾病或死亡提供赔偿保障。",
+      "SENT_EN":"We need to review our health insurance policy before the end of the year.",
+      "SENT_ZH":"我们需要在年底前审查我们的健康保险政策。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indemnity",
+            "assurance",
+            "coverage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "policy",
+            "premium",
+            "insurer",
+            "reinsurance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the insurance [n\nmass]",
+      "POS":"n | mass",
+      "POS_TIP":"Noun | mass/collective",
+      "TAGS":[
+        "finance",
+        "commerce"
+      ],
+      "DEF_EN":"The money paid as a premium for a policy or the compensation received from an insurer.",
+      "DEF_ZH":"作为保单支付的保费，或从保险人那里获得的赔偿金。",
+      "SENT_EN":"The monthly insurance on the new apartment is quite high.",
+      "SENT_ZH":"这套新公寓的每月保费相当高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "premium",
+            "payment",
+            "benefit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"insurance [against sth]",
+      "POS":"n | count/uncount",
+      "POS_TIP":"Noun | countable or uncountable",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A measure or precaution taken to ensure safety or security against a possible eventuality.",
+      "DEF_ZH":"为确保安全或预防潜在的意外情况而采取的措施或保障手段。",
+      "SENT_EN":"Keeping extra cash is good insurance against unforeseen financial difficulties.",
+      "SENT_ZH":"保留额外的现金是对未预料到的经济困难的一种良好保障。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "safeguard",
+            "protection",
+            "security"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general usage, especially prevalent in finance, business, and legal contexts."
+}

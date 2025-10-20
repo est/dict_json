@@ -1,0 +1,128 @@
+{
+  "WORD":"issue",
+  "IPA":"/ˈɪʃuː/",
+  "CONJUGATES":"issues | issuing | issued",
+  "ETYMOLOGY":"From Old French *issue* (exit, way out, result), feminine past participle of *issir* (to go out), from Latin *exīre* (ex- 'out' + īre 'go').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (topic)",
+      "POS":"n",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An important topic or problem for debate or discussion.",
+      "DEF_ZH":"议题；问题；争论点。",
+      "SENT_EN":"Funding for schools is a key issue in the upcoming election.",
+      "SENT_ZH":"学校经费是即将到来的选举中的一个关键问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "topic",
+            "matter",
+            "concern",
+            "problem"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (publication)",
+      "POS":"n",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "common",
+        "media"
+      ],
+      "DEF_EN":"A numbered or dated edition of a newspaper, magazine, or other periodical.",
+      "DEF_ZH":"（报刊的）期，号；（文件）份。",
+      "SENT_EN":"The latest issue of the journal is entirely dedicated to artificial intelligence.",
+      "SENT_ZH":"该期刊最新一期全部致力于人工智能研究。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "edition",
+            "copy",
+            "number"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"issue [sth] (to [sb])\nissue [sb] with [sth]",
+      "POS":"vtr | vtr + prep",
+      "POS_TIP":"transitive verb | transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To supply or formally distribute something, especially official documents, warnings, or equipment.",
+      "DEF_ZH":"正式发放；配给；颁布（文件、警告等）。",
+      "SENT_EN":"The bank issued a new credit card to the customer.",
+      "SENT_ZH":"银行向客户发放了一张新的信用卡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "release",
+            "publish",
+            "distribute",
+            "supply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (financial/stock)",
+      "POS":"n",
+      "POS_TIP":"noun, countable/uncountable",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"The action of supplying or announcing something, typically stock, currency, or bonds.",
+      "DEF_ZH":"（股票、债券等的）发行；配股。",
+      "SENT_EN":"The company announced a new issue of shares to raise capital.",
+      "SENT_ZH":"该公司宣布发行新股以筹集资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "float",
+            "release",
+            "offering"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"without issue",
+      "POS":"n",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "legal",
+        "archaic"
+      ],
+      "DEF_EN":"Children, descendants, or offspring.",
+      "DEF_ZH":"子嗣；后代（主要用于法律或历史语境）。",
+      "SENT_EN":"The old woman died without male issue to inherit the title.",
+      "SENT_ZH":"这位老妇人去世时没有男性子嗣来继承头衔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offspring",
+            "descendants",
+            "progeny"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly frequent in journalistic, corporate, and governmental contexts."
+}

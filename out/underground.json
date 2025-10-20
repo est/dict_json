@@ -1,0 +1,94 @@
+{
+  "WORD":"underground",
+  "IPA":"/ˈʌndərˌɡraʊnd/",
+  "CONJUGATES":"undergrounds (n.)",
+  "ETYMOLOGY":"Compound of Middle English under (below) and ground (earth). The sense of 'secret resistance' emerged in the 19th century.",
+  "SINCE":"c. 1300 (literal meaning); 1880s (sense of secrecy/resistance)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[located] underground",
+      "POS":"adv | adj",
+      "POS_TIP":"Adverb (副词) | Adjective (形容词)",
+      "TAGS":[
+        "core word",
+        "location"
+      ],
+      "DEF_EN":"Beneath the surface of the ground or earth.",
+      "DEF_ZH":"在地下；地下的；地底的。",
+      "SENT_EN":"Miners work hundreds of meters underground.",
+      "SENT_ZH":"矿工在地下数百米深处工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subterranean",
+            "below ground"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "above ground",
+            "overhead"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"underground [culture/movement/activity]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (形容词)",
+      "TAGS":[
+        "common",
+        "cultural",
+        "political"
+      ],
+      "DEF_EN":"Operating in secret, often because the activities are illegal, rebellious, or contrary to mainstream conventions or standards.",
+      "DEF_ZH":"秘密的；地下的；非主流的（尤指政治或艺术活动）。",
+      "SENT_EN":"The police cracked down on the illegal underground gambling circuit.",
+      "SENT_ZH":"警方镇压了非法的地下赌博圈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clandestine",
+            "secret",
+            "covert"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "counterculture",
+            "resistance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the underground",
+      "POS":"n",
+      "POS_TIP":"Noun (名词)",
+      "TAGS":[
+        "common",
+        "British English",
+        "transportation"
+      ],
+      "DEF_EN":"A system of electric railways in which the trains run in tunnels below the city streets; a subway (used commonly in the UK, often capitalized 'The Underground' for London's system).",
+      "DEF_ZH":"地铁；地下铁路系统（尤指英国或欧洲）。",
+      "SENT_EN":"It's quicker to take the Underground during rush hour.",
+      "SENT_ZH":"在高峰时段，乘坐地铁会更快。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subway",
+            "metro",
+            "tube"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; Varies by meaning (e.g., transportation usage is highly specific to British English)."
+}

@@ -1,0 +1,116 @@
+{
+  "WORD":"rent",
+  "IPA":"/rɛnt/",
+  "CONJUGATES":"rents | renting | rented | rent",
+  "ETYMOLOGY":"From Old French rente, from Vulgar Latin *rendita, variant of Latin reddita, past participle feminine of reddere 'to return, render'. The verb form is from the noun or from Old French renter.",
+  "SINCE":"Late 13th century (noun), Late 14th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "housing"
+      ],
+      "DEF_EN":"A fixed payment, usually monthly, made by a tenant to a landlord for the use of land or buildings.",
+      "DEF_ZH":"租金；房租；地租。租户每月向房东支付的固定费用，用于使用土地或建筑物。",
+      "SENT_EN":"We pay the rent on the first day of every month.",
+      "SENT_ZH":"我们每月的第一天支付房租。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lease payment",
+            "hire charge",
+            "rental fee"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lease",
+            "tenancy",
+            "landlord"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rent [sth] out\nrent [sth] from [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "commerce"
+      ],
+      "DEF_EN":"To allow someone to use something in exchange for payment, or to pay for the use of something.",
+      "DEF_ZH":"出租；租用。允许他人付费使用某物，或付费使用某物。",
+      "SENT_EN":"They decided to rent out their spare room to a student.",
+      "SENT_ZH":"他们决定把他们的空房间租给一个学生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lease",
+            "hire",
+            "let"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "linguistics",
+        "economics"
+      ],
+      "DEF_EN":"A term used in classical economics to denote unearned income derived from ownership of a limited resource, particularly land.",
+      "DEF_ZH":"（经济学）地租；垄断利润。古典经济学中指从有限资源（尤其是土地）的所有权中获得的非劳动收入。",
+      "SENT_EN":"Economic rent is the surplus value derived from a factor of production above the minimum necessary payment.",
+      "SENT_ZH":"经济地租是指生产要素高于最低必要报酬的剩余价值。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "economic rent",
+            "ground rent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rent [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "poetic"
+      ],
+      "DEF_EN":"A tear or split in a garment, cloth, or surface (derived from a separate, older root 'rend').",
+      "DEF_ZH":"裂缝；裂口；撕裂处。（源自一个更古老的词根'rend'）",
+      "SENT_EN":"He found a large rent in his cloak after the fight.",
+      "SENT_ZH":"打架后，他发现斗篷上有一个大裂口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tear",
+            "rip",
+            "split"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

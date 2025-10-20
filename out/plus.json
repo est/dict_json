@@ -1,0 +1,128 @@
+{
+  "WORD":"plus",
+  "IPA":"/plʌs/",
+  "CONJUGATES":"Noun plural: pluses",
+  "ETYMOLOGY":"From Latin *plūs* (more, in greater quantity), comparative of *multus* (much, many). Adopted into English via French in the 17th century, particularly in mathematical notation.",
+  "SINCE":"17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[X] plus [Y]",
+      "POS":"prep | conj",
+      "POS_TIP":"Preposition | Conjunction",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"Added to; indicating the operation of mathematical addition.",
+      "DEF_ZH":"加上；与...相加，表示加法运算。",
+      "SENT_EN":"Three plus five equals eight.",
+      "SENT_ZH":"三加五等于八。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "and",
+            "added to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plus",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "symbol"
+      ],
+      "DEF_EN":"The symbol (+) indicating addition or a positive quantity; a plus sign.",
+      "DEF_ZH":"加号（+）；正号。",
+      "SENT_EN":"Make sure you include a plus or minus sign for the final result.",
+      "SENT_ZH":"确保在最终结果中包含一个加号或减号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "minus",
+            "negative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plus",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"An advantage, benefit, or positive factor.",
+      "DEF_ZH":"优点；好处；有利因素。",
+      "SENT_EN":"His experience in the industry is a definite plus for our team.",
+      "SENT_ZH":"他在该行业的经验对我们团队来说绝对是一个优势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "asset",
+            "advantage",
+            "pro"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "minus",
+            "drawback",
+            "disadvantage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plus [adj]\n[number] plus",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "grading"
+      ],
+      "DEF_EN":"On the positive side of a scale or range; above zero (often used for temperature or grades).",
+      "DEF_ZH":"正的；高于零的；表示略高于某一等级或数量。",
+      "SENT_EN":"The temperature is expected to be three degrees plus tomorrow.",
+      "SENT_ZH":"明天的气温预计在零上三度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "positive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "minus",
+            "negative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plus-size [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "fashion",
+        "specific use"
+      ],
+      "DEF_EN":"Relating to clothing sizes that are larger than the average or standard range.",
+      "DEF_ZH":"加大的；大号的（特指服装尺码）。",
+      "SENT_EN":"The store introduced a new line of plus-size clothing models.",
+      "SENT_ZH":"这家商店推出了一系列新的大码服装款式。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

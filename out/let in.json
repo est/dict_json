@@ -1,0 +1,85 @@
+{
+  "WORD":"let in",
+  "IPA":"/lɛt ɪn/",
+  "CONJUGATES":"lets in | letting in | let in (past/past participle)",
+  "ETYMOLOGY":"Phrasal verb formed from Middle English 'leten' (to allow, permit) and Old English 'in' (toward the inside).",
+  "SINCE":"c. 1600s",
+  "MEANINGS":[
+    {
+      "PATTERN":"let [sb] [sth] in",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive phrasal verb (takes a direct object) followed by an adverbial particle.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To allow or permit someone or something to enter a place, structure, or organization.",
+      "DEF_ZH":"允许或许可某人或某物进入某个地方、结构或组织。",
+      "SENT_EN":"The security guard refused to let us in without identification.",
+      "SENT_ZH":"保安拒绝在没有身份证明的情况下让我们进去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admit",
+            "allow entry",
+            "permit access"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "keep out",
+            "exclude",
+            "bar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"let [sb] in on [sth]",
+      "POS":"vtr + adv + prep",
+      "POS_TIP":"Transitive phrasal verb followed by an adverbial particle and a preposition.",
+      "TAGS":[
+        "idiom",
+        "common"
+      ],
+      "DEF_EN":"To reveal a secret or share private information with someone; to allow participation in exclusive knowledge or plans.",
+      "DEF_ZH":"向某人透露秘密或分享私人信息；允许某人参与独家知识或计划。",
+      "SENT_EN":"After years of waiting, they finally let me in on the family business secrets.",
+      "SENT_ZH":"经过多年的等待，他们终于向我透露了家族企业的秘密。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disclose",
+            "reveal",
+            "confide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"let [sth] in",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive phrasal verb (takes a direct object) followed by an adverbial particle.",
+      "TAGS":[
+        "specialized",
+        "tailoring"
+      ],
+      "DEF_EN":"To make a garment smaller or tighter by sewing in the seams (opposite of 'let out').",
+      "DEF_ZH":"通过缝合接缝使衣物变小或收紧（与“let out”相反）。",
+      "SENT_EN":"This dress is too loose; I will have the tailor let it in by an inch.",
+      "SENT_ZH":"这件连衣裙太宽松了；我会让裁缝收进去一英寸。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "let out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with Meaning 3 specific to tailoring."
+}

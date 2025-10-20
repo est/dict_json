@@ -1,0 +1,90 @@
+{
+  "WORD":"proceedings",
+  "IPA":"/prəˈsiːdɪŋz/",
+  "CONJUGATES":"proceeding (singular noun/present participle) | proceed (verb base)",
+  "ETYMOLOGY":"Derived from the noun 'proceeding', which comes from the verb 'proceed' (Middle English *proceden*, from Old French *proceder*, from Latin *procedere*, meaning 'to go forward': *pro-* 'forward' + *cedere* 'to go'). The plural form specifically denoting legal/official actions arose in later English.",
+  "SINCE":"c. 17th century (in current plural usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] proceedings [of sth]",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"Legal or official action or set of actions; the established course of action taken in a court, legislative body, or formal meeting.",
+      "DEF_ZH":"诉讼、审判或正式会议所采取的法律或官方行动；一套正式程序。",
+      "SENT_EN":"The court proceedings were delayed due to a lack of evidence.",
+      "SENT_ZH":"由于缺乏证据，法庭诉讼程序被推迟了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "litigation",
+            "hearing",
+            "action",
+            "trial",
+            "suit"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jurisprudence",
+            "judiciary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"proceedings [of sth]",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "academic",
+        "publishing"
+      ],
+      "DEF_EN":"The published written record of discussions, papers, and findings from a conference or academic society meeting.",
+      "DEF_ZH":"会议、研讨会或学术学会的已出版的书面记录（论文集）。",
+      "SENT_EN":"She referenced a paper published in the proceedings of the International Physics Conference.",
+      "SENT_ZH":"她引用了国际物理学会议论文集中的一篇论文。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minutes",
+            "records",
+            "transactions",
+            "papers"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the proceedings",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "general"
+      ],
+      "DEF_EN":"A sequence of events or steps carried out in an organized manner.",
+      "DEF_ZH":"有组织地进行的一系列事件或步骤。",
+      "SENT_EN":"The proceedings of the opening ceremony were watched by millions.",
+      "SENT_ZH":"开幕式的所有程序被数百万人观看。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "events",
+            "happenings",
+            "actions",
+            "course"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Legal contexts"
+}

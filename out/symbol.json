@@ -1,0 +1,67 @@
+{
+  "WORD":"symbol",
+  "IPA":"/ˈsɪmbəl/",
+  "CONJUGATES":"symbols (pl.) | symbolic (adj.) | symbolize (v.) | symbolization (n.)",
+  "ETYMOLOGY":"From Latin symbolum, from Ancient Greek sýmbolon (σύμβολον, 'token, watchword'), from symbállein (συμβάλλειν, 'to throw or put together'), from syn- ('together') + bállein ('to throw').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth concrete] is a symbol of [sth abstract]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thing that represents or stands for something else, especially an abstract idea or concept.",
+      "DEF_ZH":"代表或象征其他事物（尤其是抽象观念或概念）的事物。",
+      "SENT_EN":"The dove is universally recognized as a symbol of peace.",
+      "SENT_ZH":"鸽子被公认为和平的象征。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emblem",
+            "sign",
+            "representation",
+            "icon",
+            "token"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "allegory",
+            "metaphor",
+            "sigil"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A chemical/mathematical/logic symbol",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "science",
+        "mathematics"
+      ],
+      "DEF_EN":"A graphic mark or character used in specific technical fields (like chemistry or mathematics) to denote a specific operation, element, quantity, or relationship.",
+      "DEF_ZH":"在特定技术领域（如化学或数学）中使用的图形标记或字符，用于表示特定的操作、元素、数量或关系。",
+      "SENT_EN":"The mathematical symbol '+' represents addition.",
+      "SENT_ZH":"数学符号“+”代表加法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notation",
+            "character",
+            "sign"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, academic, technical"
+}

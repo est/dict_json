@@ -1,0 +1,123 @@
+{
+  "WORD":"lean",
+  "IPA":"/liːn/",
+  "CONJUGATES":"leans | leaning | leaned | leant (UK) | leaner | leanest",
+  "ETYMOLOGY":"Old English hlæne (adjective, 'thin, meager') and Old English hlinian or hleonian (verb, 'to incline, bend'). Both ultimately derive from Proto-Germanic roots.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"lean [sth]\nlean [sb] against [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr: transitive verb | vint: intransitive verb",
+      "TAGS":[
+        "core word",
+        "physical action"
+      ],
+      "DEF_EN":"To incline or bend from a vertical position; to rest against something for support.",
+      "DEF_ZH":"倾斜；倚靠；侧身。",
+      "SENT_EN":"Please don't lean your bike against the freshly painted wall.",
+      "SENT_ZH":"请不要把你的自行车靠在刚粉刷的墙上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incline",
+            "slant",
+            "tilt",
+            "rest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lean on/upon [sb] [sth]",
+      "POS":"vint + prep",
+      "POS_TIP":"vint: intransitive verb | prep: preposition",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To rely on someone or something for moral or practical support.",
+      "DEF_ZH":"依赖；依靠（精神或物质上的支持）。",
+      "SENT_EN":"In difficult times, family members often have to lean on each other.",
+      "SENT_ZH":"在困难时期，家庭成员往往不得不互相依靠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rely",
+            "depend",
+            "trust",
+            "count on"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (e.g., lean meat/body)",
+      "POS":"adj",
+      "POS_TIP":"adj: adjective",
+      "TAGS":[
+        "core word",
+        "description",
+        "health"
+      ],
+      "DEF_EN":"(Of a person, animal, or meat) containing little fat; thin but healthy and muscular.",
+      "DEF_ZH":"瘦的；精瘦的（指人或肉）；脂肪少的。",
+      "SENT_EN":"The athlete maintained a lean physique through rigorous training.",
+      "SENT_ZH":"通过严格的训练，这名运动员保持着精瘦的体格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slim",
+            "trim",
+            "slender",
+            "fat-free"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fat",
+            "obese",
+            "plump"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (e.g., lean budget, lean production)",
+      "POS":"adj",
+      "POS_TIP":"adj: adjective",
+      "TAGS":[
+        "business",
+        "economics",
+        "management"
+      ],
+      "DEF_EN":"Minimal in quantity, resources, or budget; efficient and waste-free, often referring to industrial processes.",
+      "DEF_ZH":"贫乏的；精益的；高效的，无浪费的（尤指生产或经营管理）。",
+      "SENT_EN":"The startup was forced to operate on a very lean budget during its first year.",
+      "SENT_ZH":"这家初创公司在第一年被迫以非常精简的预算运营。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Lean Manufacturing",
+            "Lean Six Sigma"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "scanty",
+            "meager",
+            "streamlined",
+            "efficient"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

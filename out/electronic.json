@@ -1,0 +1,66 @@
+{
+  "WORD":"electronic",
+  "IPA":"/ɪˌlɛkˈtrɑːnɪk/",
+  "CONJUGATES":"electronically (adv.) | electronics (n.)",
+  "ETYMOLOGY":"Formed from 'electron' + the suffix '-ic'. 'Electron' is derived from the Greek 'ēlektron', meaning 'amber', because rubbing amber generates static electricity.",
+  "SINCE":"c. 1904 (in the sense of using electron tubes); widespread use from the 1940s onward.",
+  "MEANINGS":[
+    {
+      "PATTERN":"electronic [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology"
+      ],
+      "DEF_EN":"Relating to or operating by means of the control of the flow of electrons, especially in circuits using microprocessors, transistors, or other semiconductor devices.",
+      "DEF_ZH":"电子的；采用电子设备或技术的；涉及电子学原理的。",
+      "SENT_EN":"Most modern cars have complex electronic systems to manage engine performance and safety features.",
+      "SENT_ZH":"大多数现代汽车都配有复杂的电子系统来管理发动机性能和安全功能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "digital",
+            "computerized",
+            "electric"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "device",
+            "gadget",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"electronic [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "physics",
+        "chemistry"
+      ],
+      "DEF_EN":"Of or relating to electrons or phenomena influenced by their behavior, such as electronic states or transitions.",
+      "DEF_ZH":"（物理、化学）电子的；与电子及其特性相关的。",
+      "SENT_EN":"The absorption of light causes an electronic transition within the atom.",
+      "SENT_ZH":"光的吸收引起原子内的电子跃迁。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "electron",
+            "atomic",
+            "quantum"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical"
+}

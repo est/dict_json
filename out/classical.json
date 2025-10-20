@@ -1,0 +1,110 @@
+{
+  "WORD":"classical",
+  "IPA":"/'klæsɪkl/",
+  "CONJUGATES":"classically (adv.) | classic (n., adj.) | classicism (n.)",
+  "ETYMOLOGY":"From Latin classicus ('of the highest class of citizens, of the first rank'), derived from classis ('class'). In English, it first referred to authors of the first rank, then narrowed to relating to ancient Greco-Roman culture.",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (adj)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "academic",
+        "history"
+      ],
+      "DEF_EN":"Relating to ancient Greek or Latin literature, art, culture, or architecture, especially the period of their highest development.",
+      "DEF_ZH":"与古希腊或古罗马的文学、艺术、文化或建筑相关的，尤指在其鼎盛时期的。",
+      "SENT_EN":"She specialized in classical archaeology, focusing on Roman ruins.",
+      "SENT_ZH":"她专门研究古典考古学，重点是罗马遗迹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ancient",
+            "Greco-Roman",
+            "Hellenic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (adj)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common word",
+        "standard"
+      ],
+      "DEF_EN":"Judged over a period of time to be of the highest quality and outstanding of its kind; traditional and authoritative.",
+      "DEF_ZH":"经过长时间检验，被认为质量最高和最杰出的；传统的或具有权威性的。",
+      "SENT_EN":"He prefers classical Hollywood films over modern CGI blockbusters.",
+      "SENT_ZH":"他更喜欢经典的旧好莱坞电影，而不是现代的电脑特效大片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "traditional",
+            "definitive",
+            "exemplary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"classical music/ballet (adj)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "music",
+        "art"
+      ],
+      "DEF_EN":"Relating specifically to music written in the European tradition during the period roughly from 1750 to 1830 (the Classical period), or more broadly, all serious orchestral music.",
+      "DEF_ZH":"特指欧洲传统中约1750年至1830年间的音乐（古典主义时期），或更广义上指所有严肃的管弦乐。",
+      "SENT_EN":"The concert hall only plays classical pieces, avoiding popular modern scores.",
+      "SENT_ZH":"这个音乐厅只演奏古典乐曲，避免演奏流行的现代乐谱。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "baroque",
+            "romantic",
+            "symphony"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"classical theory/mechanics (adj)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "academic",
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"Based on long-established theories or principles, often contrasted with newer theories (e.g., quantum or relativistic).",
+      "DEF_ZH":"基于长期既定的理论或原则的，常与新的理论（如量子或相对论）相对。",
+      "SENT_EN":"The experiment confirmed the predictions of classical physics.",
+      "SENT_ZH":"该实验证实了经典物理学的预测。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conventional",
+            "Newtonian"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "modern",
+            "quantum"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Arts"
+}

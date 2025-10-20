@@ -1,0 +1,79 @@
+{
+  "WORD":"neither",
+  "IPA":"/ˈnaɪðər/ | /ˈniːðər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English *neithir*, from Old English *nāwðer*, a contraction of *nā* ('no, not') + *hwæðer* ('which of two, whether').",
+  "SINCE":"c. 12th Century (OE/ME)",
+  "MEANINGS":[
+    {
+      "PATTERN":"neither [sth1] nor [sth2]",
+      "POS":"conj",
+      "POS_TIP":"conjunction (correlative conjunction)",
+      "TAGS":[
+        "core word",
+        "correlative"
+      ],
+      "DEF_EN":"Used to show that two or more people or things are not included in a statement; not one thing and not the other.",
+      "DEF_ZH":"既不...也不... (表示两者都否定)",
+      "SENT_EN":"Neither rain nor snow could stop the delivery.",
+      "SENT_ZH":"无论是雨还是雪，都不能阻止交货。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "either",
+            "both"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"neither",
+      "POS":"pron",
+      "POS_TIP":"indefinite pronoun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Not the one and not the other of two people or things that have been mentioned.",
+      "DEF_ZH":"两者都不。",
+      "SENT_EN":"I offered him cake and pie, but he wanted neither.",
+      "SENT_ZH":"我给他提供了蛋糕和馅饼，但他哪个都不想要。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"neither [singular noun]",
+      "POS":"det",
+      "POS_TIP":"determiner",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"Not one of two choices; used before a singular noun.",
+      "DEF_ZH":"两者中的任何一个都不是。",
+      "SENT_EN":"Neither candidate seemed interested in the debate.",
+      "SENT_ZH":"两位候选人似乎对辩论都不感兴趣。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"neither [auxiliary verb] [subject]",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "agreement",
+        "inversion"
+      ],
+      "DEF_EN":"Used to express agreement with a preceding negative statement, often causing inverted word order.",
+      "DEF_ZH":"也不，同样不 (用于否定句后表示赞同或补充)",
+      "SENT_EN":"I can't swim, and neither can my sister.",
+      "SENT_ZH":"我不会游泳，我姐姐也不会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, highly common."
+}

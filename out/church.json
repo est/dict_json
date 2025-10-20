@@ -1,0 +1,90 @@
+{
+  "WORD":"church",
+  "IPA":"/tʃɜːrtʃ/",
+  "CONJUGATES":"churches | churching | churched",
+  "ETYMOLOGY":"From Old English cirice, ultimately from Late Greek kyriakón (dôma) meaning 'Lord's (house)', derived from kýrios 'lord'. The term likely passed through Germanic languages before entering English.",
+  "SINCE":"c. 800 (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c]hurch",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "religion"
+      ],
+      "DEF_EN":"A building used for public Christian worship.",
+      "DEF_ZH":"用于基督教公众礼拜的建筑物；教堂。",
+      "SENT_EN":"They attend mass at the local church every Sunday.",
+      "SENT_ZH":"他们每周日都会去当地的教堂参加弥撒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chapel",
+            "cathedral",
+            "basilica",
+            "temple"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mosque",
+            "synagogue",
+            "pagoda"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the [C]hurch",
+      "POS":"n",
+      "POS_TIP":"noun (usually capitalized and singular)",
+      "TAGS":[
+        "core word",
+        "religion",
+        "institution"
+      ],
+      "DEF_EN":"The whole body of Christian believers; the Christian religious society or its hierarchy.",
+      "DEF_ZH":"基督教信徒的全体；基督教宗教团体或其神职阶层。",
+      "SENT_EN":"The Church has played a significant role in Western history and culture.",
+      "SENT_ZH":"教会（基督教）在西方历史和文化中扮演了重要角色。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Christianity",
+            "clergy",
+            "faith"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"church [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "historical",
+        "religion"
+      ],
+      "DEF_EN":"To bring (a woman) to church after childbirth for a ceremony of thanksgiving and purification (often 'churching').",
+      "DEF_ZH":"（在分娩后）举行感恩和洁净仪式，带（妇女）去教堂（现已罕用）。",
+      "SENT_EN":"In some traditions, the mother was formally churched forty days after giving birth.",
+      "SENT_ZH":"在某些传统中，母亲会在分娩后四十天正式接受教堂仪式（被带到教堂进行感恩）。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bless",
+            "purify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Religious"
+}

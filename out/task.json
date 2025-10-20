@@ -1,0 +1,88 @@
+{
+  "WORD":"task",
+  "IPA":"/tæsk/",
+  "CONJUGATES":"tasks | tasking | tasked",
+  "ETYMOLOGY":"From Old Northern French tasque (tax, duty), related to Old French tasche (charge, duty), ultimately from Vulgar Latin taxare (to tax, estimate, handle), related to Latin taxare (to touch sharply, censure, estimate).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (N)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A piece of work or duty assigned to or required of a person or group.",
+      "DEF_ZH":"分配给个人或团体的一项工作或职责。",
+      "SENT_EN":"The primary task of the committee is to review the budget proposal.",
+      "SENT_ZH":"该委员会的首要任务是审查预算提案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assignment",
+            "duty",
+            "job",
+            "chore",
+            "mission"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "task force",
+            "task management"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"task [sb] (with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To assign a specific duty or piece of work to someone.",
+      "DEF_ZH":"给某人分配一项具体的职责或工作。",
+      "SENT_EN":"We were tasked with finding a solution before the deadline.",
+      "SENT_ZH":"我们肩负着在截止日期前找到解决方案的任务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assign",
+            "charge",
+            "delegate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (N) (often negative connotation)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"A difficult or burdensome undertaking.",
+      "DEF_ZH":"一项困难的或繁重的任务；负担。",
+      "SENT_EN":"It proved to be a daunting task to move all the equipment in one day.",
+      "SENT_ZH":"事实证明，在一天之内搬运所有设备是一项艰巨的任务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "burden",
+            "trial",
+            "labor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Professional, Academic"
+}

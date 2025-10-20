@@ -1,0 +1,75 @@
+{
+  "WORD":"guest",
+  "IPA":"/ɡɛst/",
+  "CONJUGATES":"guests (n. pl.) | guest (v. base) | guests (v. 3rd p. sing.) | guesting (v. present part.) | guested (v. past tense/part.)",
+  "ETYMOLOGY":"From Old English *ġiest* (later *gæst*), from Proto-Germanic *gastiz* ('guest, stranger'). Ultimately related to the concept of hospitality.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] [person] [invited] [to] [a] [place]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who is invited to visit, stay in, or be entertained at another's home, club, or workplace.",
+      "DEF_ZH":"客人；宾客；房客。",
+      "SENT_EN":"We have two guests arriving this afternoon who will be staying the week.",
+      "SENT_ZH":"我们今天下午有两位客人要来，他们会住一周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "visitor",
+            "invitee"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "host",
+            "resident"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] [special] [performer] [or] [speaker]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "common",
+        "media"
+      ],
+      "DEF_EN":"A performer, speaker, or celebrity who is invited to appear temporarily on a show, broadcast, or stage.",
+      "DEF_ZH":"特邀嘉宾；客座演员/讲师。",
+      "SENT_EN":"The talk show featured a famous politician as its special guest.",
+      "SENT_ZH":"这个脱口秀请了一位著名政治家作为特邀嘉宾。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "guest star",
+            "cameo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"guest [on] [a] [show]",
+      "POS":"v. intr.",
+      "POS_TIP":"Intransitive Verb: action performed without a direct object",
+      "TAGS":[
+        "common",
+        "media"
+      ],
+      "DEF_EN":"To appear or perform as a guest, often on a television or radio program.",
+      "DEF_ZH":"以嘉宾身份出演；客串。",
+      "SENT_EN":"She will be guesting on the late-night panel next Friday.",
+      "SENT_ZH":"她将于下周五在深夜座谈节目中客串嘉宾。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage"
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"learn",
+  "IPA":"/lɜːn/",
+  "CONJUGATES":"learns | learning | learned | learnt",
+  "ETYMOLOGY":"From Old English leornian, from Proto-Germanic *liznananą ('to follow a trace', 'to find out'), related to German lernen.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"learn [sth]\nlearn (how to) [do sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To gain knowledge or skill in something through study, experience, or being taught.",
+      "DEF_ZH":"通过学习、经验或被教导而获得某方面的知识或技能。",
+      "SENT_EN":"It takes time and dedication to learn a new language.",
+      "SENT_ZH":"学习一门新语言需要时间和奉献精神。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acquire",
+            "master",
+            "grasp",
+            "study"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forget",
+            "unlearn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"learn [sth]\nlearn [that...]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To become aware of something; to receive information or discover a fact.",
+      "DEF_ZH":"获知某事；收到信息或发现某个事实。",
+      "SENT_EN":"We were surprised to learn that the company was moving headquarters.",
+      "SENT_ZH":"我们得知公司将搬迁总部时感到很惊讶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discover",
+            "find out",
+            "hear",
+            "ascertain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"learn [sth] by heart\nlearn [sth] off",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive Verb with Adverb/Phrase",
+      "TAGS":[
+        "idiomatic",
+        "memorization"
+      ],
+      "DEF_EN":"To commit something to memory, usually for recitation without error.",
+      "DEF_ZH":"将某事物牢记于心，通常是为了准确背诵。",
+      "SENT_EN":"The actor had to learn all his lines by heart before rehearsal.",
+      "SENT_ZH":"这位演员必须在排练前将所有台词背下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "memorize",
+            "commit to memory",
+            "rote learn"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, extremely common."
+}

@@ -1,0 +1,92 @@
+{
+  "WORD":"secondary",
+  "IPA":"/ˈsɛkəndi/ | /ˌsɛkənˈdɛri/",
+  "CONJUGATES":"secondaries (plural)",
+  "ETYMOLOGY":"From Latin *secundarius* 'belonging to the second class or rank', derived from *secundus* 'following, second' (from *sequi* 'to follow').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"secondary [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Coming after, derived from, or subordinate to something primary; of lesser importance or value.",
+      "DEF_ZH":"次要的；第二的；从属的；非主要的。",
+      "SENT_EN":"While profits are important, customer satisfaction should never be considered a secondary concern.",
+      "SENT_ZH":"虽然利润很重要，但客户满意度绝不应被视为次要问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subordinate",
+            "minor",
+            "ancillary",
+            "auxiliary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "primary",
+            "main",
+            "principal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"secondary [adj] school\neducation",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "education",
+        "UK usage"
+      ],
+      "DEF_EN":"Relating to education that follows primary (elementary) education, typically for children aged 11 to 18.",
+      "DEF_ZH":"中等的；中学的（指小学教育之后的教育阶段）。",
+      "SENT_EN":"She will be moving to secondary school next fall after graduating primary.",
+      "SENT_ZH":"小学毕业后，她将于明年秋天升入中学。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "junior high",
+            "high school"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"secondary [adj] sources\ncauses",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "academic",
+        "technical"
+      ],
+      "DEF_EN":"Derived from or relating to a second stage or a follow-up process.",
+      "DEF_ZH":"继发的；二次的（指由第一阶段或原因引起的）。",
+      "SENT_EN":"The historian relied heavily on primary documents and only used secondary sources for contextual background.",
+      "SENT_ZH":"这位历史学家主要依赖一手文献，仅使用二手资料作为背景参考。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a secondary [n]\nsecondary [n] in football",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "US sports"
+      ],
+      "DEF_EN":"A person or thing that is secondary or subordinate to another; specifically, the defensive backfield in American football.",
+      "DEF_ZH":"次要事物；从属物；（美式橄榄球）二线防守队员。",
+      "SENT_EN":"The strength of the team lies in its aggressive secondary.",
+      "SENT_ZH":"该球队的实力在于其具有侵略性的二线防守。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Academic, Educational"
+}

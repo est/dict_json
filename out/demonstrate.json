@@ -1,0 +1,86 @@
+{
+  "WORD":"demonstrate",
+  "IPA":"/'dɛmənˌstreɪt/",
+  "CONJUGATES":"demonstrates | demonstrating | demonstrated",
+  "ETYMOLOGY":"From Latin dēmonstrāre (dē- 'completely' + monstrāre 'to show'), meaning 'to point out, exhibit, prove'.",
+  "SINCE":"1540s",
+  "MEANINGS":[
+    {
+      "PATTERN":"demonstrate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To clearly show the existence or truth of something by giving proof or evidence.",
+      "DEF_ZH":"通过证据或行动清楚地显示某物的存在或真实性；证明；表明。",
+      "SENT_EN":"The experiment successfully demonstrated the principle of gravity.",
+      "SENT_ZH":"该实验成功地证明了万有引力原理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prove",
+            "show",
+            "establish",
+            "confirm"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "demonstrable",
+            "demonstration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"demonstrate [sth]\ndemonstrate [how] to [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To show how to use, operate, or perform something.",
+      "DEF_ZH":"演示如何使用、操作或执行某事；示范。",
+      "SENT_EN":"The salesperson demonstrated the features of the new vacuum cleaner.",
+      "SENT_ZH":"销售人员演示了这款新型吸尘器的功能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "illustrate",
+            "showcase",
+            "exhibit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"demonstrate (against [sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "politics",
+        "social action"
+      ],
+      "DEF_EN":"To participate in a public display of opinion or solidarity, usually a march or rally.",
+      "DEF_ZH":"举行示威游行，以表达观点或抗议。",
+      "SENT_EN":"Thousands of citizens demonstrated peacefully in the capital square.",
+      "SENT_ZH":"数千名市民在首都广场和平示威。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protest",
+            "march",
+            "rally"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in general academic, technical, and political contexts."
+}

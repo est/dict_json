@@ -1,0 +1,108 @@
+{
+  "WORD":"wax",
+  "IPA":"/wæks/",
+  "CONJUGATES":"waxes | waxing | waxed",
+  "ETYMOLOGY":"From Old English weax (noun), from Proto-Germanic *wahsą; the verb meaning 'to grow' or 'to increase' (as in the moon) also comes from Old English weaxan, from Proto-Germanic *wahsijaną.",
+  "SINCE":"Before 900 AD (Old English Period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "material"
+      ],
+      "DEF_EN":"A sticky, yellowish, heat-sensitive substance secreted by bees, or any similar substance (such as paraffin) used for making candles, polishes, or seals.",
+      "DEF_ZH":"一种粘稠、黄色、遇热易融化的物质，通常指蜜蜂分泌的蜂蜡，或用于制作蜡烛、抛光剂或密封件的类似物质（如石蜡）。",
+      "SENT_EN":"The candle wax dripped onto the table cloth.",
+      "SENT_ZH":"蜡烛的蜡滴到了桌布上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "beeswax",
+            "paraffin",
+            "cerumen",
+            "crayons"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wax [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common use"
+      ],
+      "DEF_EN":"To cover, treat, or polish something with wax, often to protect it or make it shiny.",
+      "DEF_ZH":"用蜡覆盖、处理或抛光某物，通常是为了保护或使其发亮。",
+      "SENT_EN":"She spends hours waxing her classic car every weekend.",
+      "SENT_ZH":"她每周周末都会花几个小时给她的老爷车打蜡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "polish",
+            "buff",
+            "coat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] wax",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "astronomy",
+        "formal",
+        "old word"
+      ],
+      "DEF_EN":"(Of the moon, or figuratively of intensity) To appear progressively larger, brighter, or more intense; to increase.",
+      "DEF_ZH":"（指月亮）逐渐变大、增亮；（或比喻指力量、程度）增强或增大。",
+      "SENT_EN":"After the new moon, the visible surface of the moon begins to wax.",
+      "SENT_ZH":"新月之后，月亮的可见表面开始渐盈。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "wane"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "grow",
+            "increase"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wax [adj/prep]",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "idiomatic",
+        "colloquial"
+      ],
+      "DEF_EN":"To enter a specified emotional or behavioral state, especially to speak or write eloquently or enthusiastically (often used with 'lyrical' or 'poetic').",
+      "DEF_ZH":"陷入某种特定的情绪或行为状态，尤指热情洋溢、滔滔不绝地讲述。",
+      "SENT_EN":"The historian began to wax eloquent about the golden age of the Roman Empire.",
+      "SENT_ZH":"这位历史学家开始滔滔不绝地赞美罗马帝国的黄金时代。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gush",
+            "rave",
+            "expound"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific formal/archaic use in astronomy contexts."
+}

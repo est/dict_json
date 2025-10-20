@@ -1,0 +1,93 @@
+{
+  "WORD":"output",
+  "IPA":"/ˈaʊtpʊt/",
+  "CONJUGATES":"outputs | outputting | outputted | output",
+  "ETYMOLOGY":"Formed from the prefix 'out-' meaning 'outside, away' and the verb 'put'. First recorded as a noun in the mid-19th century in the context of industrial production.",
+  "SINCE":"c. 1840s",
+  "MEANINGS":[
+    {
+      "PATTERN":"output [of sth]",
+      "POS":"nc. | nu.",
+      "POS_TIP":"countable noun | uncountable noun",
+      "TAGS":[
+        "core word",
+        "economics",
+        "industry"
+      ],
+      "DEF_EN":"The amount of something produced by a person, machine, or industry during a specific period.",
+      "DEF_ZH":"在特定时期内，个人、机器或工业所生产的产品的数量；产量；输出量。",
+      "SENT_EN":"The factory increased its daily output by optimizing the assembly line.",
+      "SENT_ZH":"这家工厂通过优化装配线提高了其日产量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "production",
+            "yield",
+            "volume",
+            "throughput"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "input"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"output [from sth]",
+      "POS":"nu.",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"The information, data, or signals delivered by a computer, electrical circuit, or electronic device after processing.",
+      "DEF_ZH":"计算机、电路或电子设备在处理后所发出的信息、数据或信号；输出数据。",
+      "SENT_EN":"The program's output was saved as a text file for later analysis.",
+      "SENT_ZH":"该程序的输出结果被保存为一个文本文件以供后续分析。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "input"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "data",
+            "result"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"output [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"To produce, generate, or deliver data, information, or results (often done by a machine).",
+      "DEF_ZH":"（由机器）生产、生成或交付数据、信息或结果；输出。",
+      "SENT_EN":"The algorithm is designed to output a precise prediction every hour.",
+      "SENT_ZH":"该算法被设计为每小时输出一个精确的预测。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "generate",
+            "produce",
+            "release"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, highly common in technical, computing, and economic contexts."
+}

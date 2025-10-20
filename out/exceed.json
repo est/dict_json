@@ -1,0 +1,86 @@
+{
+  "WORD":"exceed",
+  "IPA":"/ɪkˈsiːd/",
+  "CONJUGATES":"exceeds | exceeding | exceeded",
+  "ETYMOLOGY":"From Old French exceder, from Latin excedere (ex- 'out of' + cedere 'to go, yield').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"exceed [sth]\nexceed [a limit/measure]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To be greater in number or size than a specified limit or standard.",
+      "DEF_ZH":"在数量、大小上超过指定的限制或标准。",
+      "SENT_EN":"The cost of the project should not exceed the budget.",
+      "SENT_ZH":"该项目的成本不应超过预算。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surpass",
+            "transcend",
+            "outstrip",
+            "top"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fall short of",
+            "be less than"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exceed [sb] in [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To be superior to or better than someone or something else.",
+      "DEF_ZH":"在某方面优于或胜过某人或某事。",
+      "SENT_EN":"His performance exceeded all previous expectations.",
+      "SENT_ZH":"他的表现超出了所有先前的预期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excel",
+            "outdo",
+            "better"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exceed [a boundary/territory]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "literary"
+      ],
+      "DEF_EN":"To go beyond the limits of a place or area.",
+      "DEF_ZH":"越过一个地方或区域的界限。",
+      "SENT_EN":"The floodwaters threatened to exceed the river banks.",
+      "SENT_ZH":"洪水威胁要漫过河岸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overstep",
+            "go beyond"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often used in formal, business, or regulatory contexts."
+}

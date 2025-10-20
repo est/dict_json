@@ -1,0 +1,57 @@
+{
+  "WORD":"million",
+  "IPA":"/ˈmɪl.jən/",
+  "CONJUGATES":"millions",
+  "ETYMOLOGY":"From Old French million, from Italian millione, an augmentative of mille ('thousand'), literally meaning 'a great thousand.'",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] million (n)",
+      "POS":"num | n",
+      "POS_TIP":"cardinal number | noun",
+      "TAGS":[
+        "core word",
+        "mathematics"
+      ],
+      "DEF_EN":"The number equal to 1,000,000; one thousand times one thousand.",
+      "DEF_ZH":"基数一百万；一千个一千。",
+      "SENT_EN":"The population of the city reached five million last year.",
+      "SENT_ZH":"去年该城市的人口达到了五百万。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "thousand",
+            "billion",
+            "trillion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"millions (of [sth])",
+      "POS":"n (pl)",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "common",
+        "hyperbole",
+        "informal"
+      ],
+      "DEF_EN":"A very large, indefinite number or amount.",
+      "DEF_ZH":"无数；大量；数不清的数量。",
+      "SENT_EN":"There are millions of stars visible on a clear night.",
+      "SENT_ZH":"在晴朗的夜晚可以看到无数颗星星。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "countless",
+            "myriad",
+            "loads"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

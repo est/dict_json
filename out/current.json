@@ -1,0 +1,114 @@
+{
+  "WORD":"current",
+  "IPA":"/ˈkʌrənt/",
+  "CONJUGATES":"currently (adv) | currentness (n, rare)",
+  "ETYMOLOGY":"From Middle English *curraunt*, from Old French *corant* (present participle of *courre* 'to run'), ultimately from Latin *currere* 'to run'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] current",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Belonging to the present time; happening or being used now.",
+      "DEF_ZH":"现时的；当前的；正在进行的。",
+      "SENT_EN":"What is the current price of gold?",
+      "SENT_ZH":"黄金的现价是多少？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "present",
+            "contemporary",
+            "ongoing",
+            "topical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "past",
+            "former",
+            "previous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the current of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun, referring to a physical entity or concept (countable or uncountable)",
+      "TAGS":[
+        "core word",
+        "nature"
+      ],
+      "DEF_EN":"A continuous, directed movement of liquid (especially water) or air.",
+      "DEF_ZH":"水流；气流；（方向性的）流动。",
+      "SENT_EN":"Be careful when swimming here; the tidal current is very strong.",
+      "SENT_ZH":"在这里游泳要小心；潮汐水流非常强劲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stream",
+            "flow",
+            "tide",
+            "drift"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"electric current\ndirect current (DC) | alternating current (AC)",
+      "POS":"n",
+      "POS_TIP":"noun, referring to a physical entity or concept (countable or uncountable)",
+      "TAGS":[
+        "technical",
+        "science",
+        "engineering"
+      ],
+      "DEF_EN":"The rate of flow of electric charge through a conductor.",
+      "DEF_ZH":"电流；电荷的流量（常以安培计）。",
+      "SENT_EN":"The motor requires a high starting current.",
+      "SENT_ZH":"该马达需要高启动电流。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "voltage",
+            "amperage",
+            "circuit",
+            "resistance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"current of opinion\ncurrent events",
+      "POS":"n",
+      "POS_TIP":"noun, referring to a physical entity or concept (countable)",
+      "TAGS":[
+        "abstract",
+        "formal"
+      ],
+      "DEF_EN":"A general trend or movement of opinion, events, or fashion.",
+      "DEF_ZH":"趋势；潮流；倾向。",
+      "SENT_EN":"There is a strong current of anti-government feeling in the nation.",
+      "SENT_ZH":"全国上下有一股强烈的反政府情绪倾向。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trend",
+            "movement",
+            "drift"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Science, Finance"
+}

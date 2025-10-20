@@ -1,0 +1,150 @@
+{
+  "WORD":"jam",
+  "IPA":"/dʒæm/",
+  "CONJUGATES":"jams | jamming | jammed",
+  "ETYMOLOGY":"Of uncertain origin; the verb sense ('to press tight') likely emerged in the 17th century, possibly imitative. The noun sense relating to fruit preserve dates to the 18th century, derived from the verb's meaning of pressing or setting tightly.",
+  "SINCE":"c. 1670 (verb) | c. 1700 (food noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (on [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "food",
+        "common"
+      ],
+      "DEF_EN":"A sweet spread or preserve made by boiling fruit and sugar until thick, often spread on bread or toast.",
+      "DEF_ZH":"果酱；由水果和糖煮至浓稠而成的甜味涂抹酱或蜜饯。",
+      "SENT_EN":"I prefer homemade apricot jam to store-bought jelly.",
+      "SENT_ZH":"我喜欢自制的杏子酱，而不是商店里买的果冻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preserve",
+            "jelly",
+            "marmalade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"jam [sth] (in/into [sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "physical action"
+      ],
+      "DEF_EN":"To squeeze, wedge, or push something tightly into a space.",
+      "DEF_ZH":"塞进；挤压；将某物紧紧地塞入或楔入一个空间。",
+      "SENT_EN":"She jammed her keys into the lock, struggling to open the door.",
+      "SENT_ZH":"她把钥匙使劲塞进锁孔里，努力想打开门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wedge",
+            "force",
+            "cram",
+            "stuff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a jam (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "metaphoric"
+      ],
+      "DEF_EN":"A difficult situation caused by a large number of people or vehicles blocking movement, such as a traffic jam.",
+      "DEF_ZH":"拥堵；堵塞；因大量人或车辆阻碍移动而造成的困难局面（如交通堵塞）。",
+      "SENT_EN":"We were stuck in a massive traffic jam for over two hours.",
+      "SENT_ZH":"我们被困在一个巨大的交通堵塞中超过两个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bottleneck",
+            "blockage",
+            "congestion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] jam (up)",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "technical",
+        "mechanism"
+      ],
+      "DEF_EN":"To become stuck or unable to move or operate, often referring to a machine or part of a machine (e.g., paper in a printer).",
+      "DEF_ZH":"卡住；（机器或机制）因堵塞或卡住而无法移动或操作。",
+      "SENT_EN":"The photocopier keeps jamming whenever I try to use thick paper.",
+      "SENT_ZH":"每当我试着用厚纸时，复印机就会卡住。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snag",
+            "stick",
+            "malfunction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"jam (with [sb])\na jam session",
+      "POS":"vi | n",
+      "POS_TIP":"intransitive verb | noun",
+      "TAGS":[
+        "slang",
+        "music",
+        "informal"
+      ],
+      "DEF_EN":"To play music with others informally and spontaneously, especially improvising jazz or rock music.",
+      "DEF_ZH":"即兴演奏；即兴合奏；（非正式地）与他人即兴演奏音乐。",
+      "SENT_EN":"The band decided to jam together after their scheduled rehearsal ended.",
+      "SENT_ZH":"乐队决定在排练结束后一起即兴演奏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "improvise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"jam [sth] (signals)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "military",
+        "radio"
+      ],
+      "DEF_EN":"To block or interfere with radio signals or electronic communication by broadcasting competing signals.",
+      "DEF_ZH":"干扰（信号）；通过发射竞争信号来阻断或扰乱无线电或电子通信。",
+      "SENT_EN":"The military aircraft used special equipment to jam the enemy radar.",
+      "SENT_ZH":"军用飞机使用特殊设备来干扰敌方雷达。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scramble",
+            "obstruct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical uses in computing and military contexts."
+}

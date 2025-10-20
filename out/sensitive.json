@@ -1,0 +1,109 @@
+{
+  "WORD":"sensitive",
+  "IPA":"/'sɛnsɪtɪv/",
+  "CONJUGATES":"more sensitive | most sensitive | sensitively | sensitiveness | sensitivity",
+  "ETYMOLOGY":"From Medieval Latin *sensitivus*, derived from Latin *sensus* (sense, feeling) and the adjectival suffix *-ivus*.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"sensitive [to sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "physical"
+      ],
+      "DEF_EN":"Easily or quickly affected, damaged, or irritated by slight changes or external influences (especially referring to skin, organs, or biology).",
+      "DEF_ZH":"容易受到微小变化或外部影响的，敏感的（尤指皮肤、器官或生物反应）。",
+      "SENT_EN":"She has sensitive skin and must use specialized sunscreen.",
+      "SENT_ZH":"她的皮肤很敏感，必须使用专门的防晒霜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reactive",
+            "responsive",
+            "delicate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sensitive [to sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "psychological"
+      ],
+      "DEF_EN":"Having or displaying a quick and delicate appreciation of others' feelings; easily offended or distressed.",
+      "DEF_ZH":"情感细腻的；容易被冒犯或感到苦恼的；有同情心的。",
+      "SENT_EN":"He is very sensitive to criticism and takes negative comments personally.",
+      "SENT_ZH":"他对批评非常敏感，把负面评论看作是针对个人的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emotional",
+            "perceptive",
+            "vulnerable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insensitive",
+            "thick-skinned"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sensitive [information/data/topic]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "official",
+        "security"
+      ],
+      "DEF_EN":"Dealing with or containing information that needs to be treated with great care because it may cause problems or harm if revealed.",
+      "DEF_ZH":"涉及需要严格保密的重大信息或数据的；机密的。",
+      "SENT_EN":"The diplomat was handling sensitive documents related to national security.",
+      "SENT_ZH":"这位外交官正在处理有关国家安全的敏感文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confidential",
+            "classified",
+            "secret"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sensitive [instrument/device]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical"
+      ],
+      "DEF_EN":"(Of a device) capable of detecting or reacting to very slight changes or stimuli; highly accurate.",
+      "DEF_ZH":"（指仪器或设备）高度精确的；能够检测到或响应微小变化的。",
+      "SENT_EN":"The seismic monitor is sensitive enough to detect tremors miles away.",
+      "SENT_ZH":"这台地震监测仪非常灵敏，足以探测到数英里外的震颤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precise",
+            "fine-tuned",
+            "acute"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Formal"
+}

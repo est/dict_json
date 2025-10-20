@@ -1,0 +1,128 @@
+{
+  "WORD":"mode",
+  "IPA":"/moʊd/",
+  "CONJUGATES":"modes",
+  "ETYMOLOGY":"From Middle French mode, from Latin modus ('measure', 'manner', 'way', 'limit'), related to English measure.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\na mode of [doing sth]",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A way or manner in which something is done, occurs, or expressed; a method.",
+      "DEF_ZH":"方式；方法；样式。",
+      "SENT_EN":"We need to adopt a more aggressive mode of marketing to reach new customers.",
+      "SENT_ZH":"我们需要采取一种更具进取性的营销模式来接触新客户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "method",
+            "manner",
+            "style",
+            "approach",
+            "fashion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]\n[uncountable]",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun; [uncountable] means it cannot be counted.",
+      "TAGS":[
+        "technical",
+        "computing",
+        "engineering"
+      ],
+      "DEF_EN":"A distinct operating condition or status, often referring to electronic devices or software settings.",
+      "DEF_ZH":"状态；模式；配置（尤指设备或系统的运行状态）。",
+      "SENT_EN":"She accidentally put her laptop into safe mode and couldn't open certain programs.",
+      "SENT_ZH":"她不小心把笔记本电脑设置成了安全模式，导致一些程序无法打开。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "configuration",
+            "setting",
+            "status"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the mode",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun.",
+      "TAGS":[
+        "style",
+        "dated"
+      ],
+      "DEF_EN":"The prevailing fashion or style, especially in clothing or societal manners (often used in the phrase 'in mode').",
+      "DEF_ZH":"时尚；风尚；流行（尤指衣着）。",
+      "SENT_EN":"Longer dresses are currently the mode in Parisian fashion houses.",
+      "SENT_ZH":"长裙目前是巴黎时装界的时尚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trend",
+            "vogue",
+            "fashion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[countable]",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun; [countable] means it can be counted.",
+      "TAGS":[
+        "academic",
+        "statistics"
+      ],
+      "DEF_EN":"In statistics, the value that occurs most frequently in a given set of data.",
+      "DEF_ZH":"众数（统计学中出现频率最高的数值）。",
+      "SENT_EN":"To find the average of the scores, you must calculate the mean, median, and mode.",
+      "SENT_ZH":"要找到这些分数的平均水平，你必须计算平均值、中位数和众数。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "mean",
+            "median",
+            "range"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[countable]",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun; [countable] means it can be counted.",
+      "TAGS":[
+        "academic",
+        "music theory"
+      ],
+      "DEF_EN":"A type of scale, historically and theoretically defined by its sequence of intervals and starting point.",
+      "DEF_ZH":"调式（乐理中由特定音程顺序定义的音阶类型）。",
+      "SENT_EN":"The composer utilized the Mixolydian mode to give the song a bluesy feel.",
+      "SENT_ZH":"这位作曲家使用了米索利底亚调式来给这首歌带来布鲁斯的感觉。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "scale",
+            "key",
+            "tonality"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday language, technology, and academia."
+}

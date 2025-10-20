@@ -1,0 +1,129 @@
+{
+  "WORD":"signal",
+  "IPA":"/ˈsɪɡnəl/",
+  "CONJUGATES":"signals (pl. n.) | signaling (US pres. p.) | signalling (UK pres. p.) | signaled (US p. t./p. p.) | signalled (UK p. t./p. p.) | signaler | signaller",
+  "ETYMOLOGY":"From Old French signal (sign, token), ultimately derived from Medieval Latin signale, neuter of signālis ('pertaining to a sign'), based on Latin signum ('mark, sign, token').",
+  "SINCE":"Late 14th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable/uncountable)",
+      "TAGS":[
+        "core word",
+        "communication"
+      ],
+      "DEF_EN":"A gesture, sound, action, or device used to convey information, instructions, or warning.",
+      "DEF_ZH":"用于传达信息、指令或警告的手势、声音、动作或设备。",
+      "SENT_EN":"The umpire raised his hand as a signal for the timeout.",
+      "SENT_ZH":"裁判举手示意暂停。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indication",
+            "mark",
+            "cue",
+            "sign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"signal [sth]\nsignal [that]",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To make a gesture or sound, or use a device, to convey information or command.",
+      "DEF_ZH":"做出手势、声音或使用设备来传达信息或命令。",
+      "SENT_EN":"She signaled her intention to turn right by using the car's indicator.",
+      "SENT_ZH":"她通过使用汽车指示灯来示意她打算右转。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indicate",
+            "motion",
+            "gesture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable/uncountable)",
+      "TAGS":[
+        "technical",
+        "electronics"
+      ],
+      "DEF_EN":"An electrical quantity or a radio wave that can be varied to transmit information or data.",
+      "DEF_ZH":"一种可变动的电量或无线电波，用于传输信息或数据。",
+      "SENT_EN":"We are getting a weak radio signal from the remote station.",
+      "SENT_ZH":"我们从远程电台接收到的无线电信号很弱。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "frequency",
+            "transmission",
+            "wave",
+            "bandwidth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"signal [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"To indicate or be a sign of something that is likely to happen or exists.",
+      "DEF_ZH":"暗示或表明某事可能发生或存在。",
+      "SENT_EN":"The recent hiring spree signaled renewed confidence in the economy.",
+      "SENT_ZH":"最近的招聘热潮预示着人们对经济重拾信心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "portend",
+            "hint",
+            "suggest",
+            "foreshadow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a signal [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "rare",
+        "formal",
+        "old word"
+      ],
+      "DEF_EN":"Outstanding or remarkable; highly important (often used in the phrase 'signal achievement' or 'signal success').",
+      "DEF_ZH":"杰出的；显著的；非常重要的（常用于“显著成就”等正式表达）。",
+      "SENT_EN":"That breakthrough represented a signal moment in medical history.",
+      "SENT_ZH":"那次突破代表了医学史上一个重要的时刻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notable",
+            "prominent",
+            "striking"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across general and technical contexts."
+}

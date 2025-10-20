@@ -1,0 +1,95 @@
+{
+  "WORD":"risk",
+  "IPA":"/rɪsk/",
+  "CONJUGATES":"risks | risking | risked",
+  "ETYMOLOGY":"From French risque, from Italian risco/rischio (danger, peril), possibly ultimately related to Greek rhiza (root, cliff base) or Arabic rizq (livelihood). Entered English primarily via maritime terminology.",
+  "SINCE":"c. 1620s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] risk / [sth] risk",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The possibility of suffering harm, loss, or danger.",
+      "DEF_ZH":"遭受伤害、损失或危险的可能性；危险性。",
+      "SENT_EN":"Smoking increases the risk of heart disease.",
+      "SENT_ZH":"吸烟会增加患心脏病的风险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "danger",
+            "hazard",
+            "peril",
+            "jeopardy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "safety",
+            "security"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exposure",
+            "vulnerability"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"risk [sth] / risk [doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To expose someone or something valued to danger, harm, or loss.",
+      "DEF_ZH":"使某人或某物（例如财富、名誉）面临危险、伤害或损失。",
+      "SENT_EN":"He risked his career by speaking out against the policy.",
+      "SENT_ZH":"他冒着断送职业生涯的风险公开反对该政策。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "venture",
+            "hazard",
+            "gamble",
+            "jeopardize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] risk (in finance)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "finance"
+      ],
+      "DEF_EN":"The chance that an investment or business venture may lose value or fail.",
+      "DEF_ZH":"投资或商业活动可能贬值或失败的机会；金融风险。",
+      "SENT_EN":"Diversifying the portfolio helps to mitigate market risk.",
+      "SENT_ZH":"投资组合多样化有助于减轻市场风险。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "volatility",
+            "return",
+            "liability"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and informal, general usage"
+}

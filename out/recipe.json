@@ -1,0 +1,89 @@
+{
+  "WORD":"recipe",
+  "IPA":"/'resɪpi/",
+  "CONJUGATES":"recipes",
+  "ETYMOLOGY":"From Latin *recipere* (to receive, take), specifically the imperative singular *recipe* ('take!'), originally used as the heading of medical prescriptions. The culinary sense arose later by extension.",
+  "SINCE":"Early 18th century (culinary sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a recipe for sth]",
+      "POS":"Noun",
+      "POS_TIP":"Noun (N)",
+      "TAGS":[
+        "core word",
+        "cooking",
+        "common"
+      ],
+      "DEF_EN":"A set of instructions for preparing a particular dish, including a list of the ingredients required.",
+      "DEF_ZH":"制作特定菜肴的一系列说明，包括所需原料的清单（食谱）。",
+      "SENT_EN":"Could you share the recipe for your famous apple pie?",
+      "SENT_ZH":"你能分享一下你那著名的苹果派的食谱吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "formula",
+            "instructions",
+            "method"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cookery",
+            "cookbook",
+            "cuisine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a recipe for sth]",
+      "POS":"Noun",
+      "POS_TIP":"Noun (N)",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A method or procedure for achieving a desired outcome; a plan or formula for success or failure.",
+      "DEF_ZH":"达成预期结果的方法或程序；成功的秘诀或失败的根源。",
+      "SENT_EN":"Long hours and poor communication proved to be a recipe for disaster.",
+      "SENT_ZH":"长时间的工作和糟糕的沟通被证明是导致灾难的根源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blueprint",
+            "plan",
+            "formula",
+            "key"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a recipe for sth]",
+      "POS":"Noun",
+      "POS_TIP":"Noun (N)",
+      "TAGS":[
+        "historical",
+        "medical",
+        "rare"
+      ],
+      "DEF_EN":"(Archaic) A medical prescription, often indicated by the symbol Rx.",
+      "DEF_ZH":"（古语）药方，处方（通常用符号 Rx 表示）。",
+      "SENT_EN":"The apothecary carefully followed the recipe given by the doctor.",
+      "SENT_ZH":"药剂师仔细地遵照医生开出的药方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prescription",
+            "formula"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, widely used in culinary and general contexts."
+}

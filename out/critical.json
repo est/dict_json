@@ -1,0 +1,130 @@
+{
+  "WORD":"critical",
+  "IPA":"/ˈkrɪtɪkəl/",
+  "CONJUGATES":"critically (adv) | criticalness (n)",
+  "ETYMOLOGY":"From Late Latin criticus, from Greek kritikos (able to discern or judge), ultimately from krinein (to judge, separate).",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"critical [time/factor/situation]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "very common",
+        "importance"
+      ],
+      "DEF_EN":"Extremely important or essential, especially for the success or continuation of something.",
+      "DEF_ZH":"至关重要的；关键的；决定性的。",
+      "SENT_EN":"Effective communication is critical to the success of any project.",
+      "SENT_ZH":"有效的沟通对任何项目的成功都至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crucial",
+            "vital",
+            "pivotal",
+            "essential"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "trivial",
+            "peripheral",
+            "minor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"critical [assessment/review]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "academic",
+        "common"
+      ],
+      "DEF_EN":"Involving careful judgment, analysis, or evaluation, often implying the pointing out of faults or flaws.",
+      "DEF_ZH":"评论性的；批评性的；审慎判断的。",
+      "SENT_EN":"The professor wrote a critical review of the student's dissertation.",
+      "SENT_ZH":"教授对这名学生的学位论文撰写了一份批判性的评论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analytical",
+            "evaluative",
+            "fault-finding"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "complimentary",
+            "uncritical",
+            "approving"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"critical [condition/patient]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "medical",
+        "severe",
+        "common"
+      ],
+      "DEF_EN":"Relating to or denoting a state or situation involving immediate danger, especially a severe medical condition requiring intensive care.",
+      "DEF_ZH":"危险的；病危的（特指病情严重）。",
+      "SENT_EN":"The accident victim remains in critical condition in the intensive care unit.",
+      "SENT_ZH":"事故受害者仍在重症监护室处于危急状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perilous",
+            "grave",
+            "serious"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stable",
+            "safe",
+            "recovering"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"critical [mass/temperature/point]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "physics",
+        "engineering"
+      ],
+      "DEF_EN":"Relating to a threshold point at which a fundamental change in the state or properties of a system occurs.",
+      "DEF_ZH":"临界的；转折点的（特指物理学或工程学）。",
+      "SENT_EN":"The system reached a critical point and began to self-destruct.",
+      "SENT_ZH":"系统达到了临界点，开始自我毁灭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "threshold",
+            "inflectional"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely across general, academic, technical, and medical language."
+}

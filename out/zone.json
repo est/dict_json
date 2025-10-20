@@ -1,0 +1,105 @@
+{
+  "WORD":"zone",
+  "IPA":"/zoʊn/",
+  "CONJUGATES":"zones (nc) | zones (v) | zoning | zoned",
+  "ETYMOLOGY":"From Old French zone, derived from Latin zona 'girdle, belt, climatic zone,' ultimately from Ancient Greek ζώνη (zṓnē) 'girdle, belt.' The meaning of 'climatic region of the earth' was the earliest use in English.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] zone [of sth]",
+      "POS":"nc",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "geography",
+        "planning"
+      ],
+      "DEF_EN":"An area or region distinguished from adjacent parts by a particular characteristic, purpose, or restriction.",
+      "DEF_ZH":"具有特定特征、目的或限制的区域或地带。",
+      "SENT_EN":"The city established a pedestrian zone downtown where cars are prohibited.",
+      "SENT_ZH":"市政府在市中心设立了禁止汽车通行的步行区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "area",
+            "region",
+            "district",
+            "belt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zone [sth] [for sth]",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive",
+      "TAGS":[
+        "planning",
+        "official"
+      ],
+      "DEF_EN":"To divide (an area) into zones, especially for municipal or regulatory planning purposes; to designate for a specific land use.",
+      "DEF_ZH":"将（区域）划分为特定区域，特别是出于市政或监管规划目的；指定用于特定的土地用途。",
+      "SENT_EN":"The council voted to zone the empty field for mixed commercial and residential use.",
+      "SENT_ZH":"理事会投票决定将这片空地划为商业和住宅混合用途区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "designate",
+            "allocate",
+            "demarcate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[be] in the zone",
+      "POS":"nu",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "slang",
+        "informal",
+        "sports"
+      ],
+      "DEF_EN":"A mental state of focused concentration or peak performance where one acts effortlessly and achieves optimal results.",
+      "DEF_ZH":"一种高度专注或最佳表现的精神状态，在此状态下人们能轻松行动并取得最佳结果。",
+      "SENT_EN":"The drummer was completely in the zone during the final solo.",
+      "SENT_ZH":"在最后的独奏中，这位鼓手完全进入了状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flow",
+            "trance",
+            "groove"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zone out",
+      "POS":"vi + adv",
+      "POS_TIP":"Verb, intransitive + adverb (phrasal verb)",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"To become mentally disengaged or unfocused, losing awareness of one's immediate surroundings, often due to boredom or fatigue.",
+      "DEF_ZH":"变得心不在焉或走神，失去对自己周围环境的意识，通常是由于无聊或疲劳。",
+      "SENT_EN":"The presentation was so dry that I started zoning out after the first ten minutes.",
+      "SENT_ZH":"这个演示太枯燥了，十分钟后我就开始走神了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "daydream",
+            "drift",
+            "daze"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

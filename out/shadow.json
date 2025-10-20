@@ -1,0 +1,103 @@
+{
+  "WORD":"shadow",
+  "IPA":"/ˈʃædoʊ/",
+  "CONJUGATES":"shadows | shadowing | shadowed",
+  "ETYMOLOGY":"From Old English sceadwe (dative singular of sceadu 'shade, darkness, sheltered place'), related to Old High German scato. Ultimately from Proto-Germanic *skadwaz.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "concrete"
+      ],
+      "DEF_EN":"A dark shape or area produced by an opaque object blocking the light source.",
+      "DEF_ZH":"光源被不透明物体阻挡而产生的黑暗形状或区域；阴影。",
+      "SENT_EN":"The building cast a long shadow across the park in the evening.",
+      "SENT_ZH":"傍晚时分，那栋建筑在公园上投下了长长的阴影。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shade",
+            "darkness",
+            "gloom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shadow [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To follow and observe someone closely and usually secretly, often as a detective or security measure.",
+      "DEF_ZH":"紧密且通常秘密地跟踪并监视某人（通常指侦探或安全措施）。",
+      "SENT_EN":"The private investigator was hired to shadow the unfaithful spouse.",
+      "SENT_ZH":"那位私人侦探受雇暗中跟踪不忠的配偶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trail",
+            "tail",
+            "stalk",
+            "monitor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a shadow of sth]",
+      "POS":"n + prep",
+      "POS_TIP":"noun + preposition",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"A slight trace, hint, or remnant of something, often implying that only a weak resemblance remains.",
+      "DEF_ZH":"某物的微弱迹象或残余；（常指衰退、疾病等原因造成的）面貌或形象的衰退。",
+      "SENT_EN":"After the grueling surgery, he was a shadow of his former athletic self.",
+      "SENT_ZH":"经过艰苦的手术后，他已不复往日那般健壮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trace",
+            "vestige",
+            "ghost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shadow [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "poetic",
+        "action"
+      ],
+      "DEF_EN":"To cast darkness or gloom upon something; to make dark or obscure.",
+      "DEF_ZH":"给某物投下阴影；使变暗或模糊；笼罩。",
+      "SENT_EN":"A profound sadness seemed to shadow her every waking moment.",
+      "SENT_ZH":"一种深深的悲伤似乎笼罩着她醒着的每一刻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "darken",
+            "obscure",
+            "overshadow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

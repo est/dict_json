@@ -1,0 +1,97 @@
+{
+  "WORD":"export",
+  "IPA":"/ɪkˈspɔːrt/ (v.), /ˈek.spɔːrt/ (n.)",
+  "CONJUGATES":"exports (n) | exports (v) | exporting | exported",
+  "ETYMOLOGY":"From Latin exportare, from ex- 'out' + portare 'to carry'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"export [sth] (to [sb/place])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "economics"
+      ],
+      "DEF_EN":"To send (goods or services) to another country or area for sale.",
+      "DEF_ZH":"出口（商品或服务）；将商品或服务运往国外销售。",
+      "SENT_EN":"The nation exports more manufactured goods than raw materials.",
+      "SENT_ZH":"该国出口的制成品多于原材料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ship",
+            "sell overseas",
+            "send out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "import"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an export\nthe exports",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "economics"
+      ],
+      "DEF_EN":"A commodity, article, or service shipped abroad for sale.",
+      "DEF_ZH":"出口商品；出口额（通常强调第一音节：/ˈek.spɔːrt/）。",
+      "SENT_EN":"Coffee remains Brazil's largest agricultural export.",
+      "SENT_ZH":"咖啡仍然是巴西最大的农产品出口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outbound shipment",
+            "foreign sale"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "import"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"export [data/file] (to [system])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To save or transfer data or a file from one computer program or system to another, usually into a different format.",
+      "DEF_ZH":"导出（数据或文件）；将数据从一个程序或系统转移到另一个程序或系统中。",
+      "SENT_EN":"Please export the spreadsheet data as a PDF file.",
+      "SENT_ZH":"请将电子表格数据导出为 PDF 文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "output"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "import"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Commercial, Technical"
+}

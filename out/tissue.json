@@ -1,0 +1,93 @@
+{
+  "WORD":"tissue",
+  "IPA":"/ˈtɪʃuː/",
+  "CONJUGATES":"tissues",
+  "ETYMOLOGY":"From Old French tissu, past participle of tistre 'to weave', from Latin texere 'to weave'. Originally referred to rich, woven fabric (like gold cloth). Modern biological and paper meanings developed later.",
+  "SINCE":"Late 14th century (for woven fabric); Early 17th century (for biological structure); 20th century (for paper product)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c/u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A disposable piece of soft, absorbent paper, used especially for wiping the nose.",
+      "DEF_ZH":"（尤其用于擦鼻子的）纸巾，面巾纸。",
+      "SENT_EN":"Could you hand me a box of tissues? I have a terrible cold.",
+      "SENT_ZH":"你能递给我一盒纸巾吗？我感冒很严重。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "facial tissue",
+            "kleenex"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "napkin",
+            "toilet paper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "science",
+        "biology",
+        "core word"
+      ],
+      "DEF_EN":"Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products.",
+      "DEF_ZH":"组织（构成动植物体的细胞群及其产物）。",
+      "SENT_EN":"Nerve tissue is responsible for carrying messages between the brain and the rest of the body.",
+      "SENT_ZH":"神经组织负责在大脑和身体其他部位之间传递信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cell structure",
+            "organic material"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "organ",
+            "cells",
+            "muscle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "dated"
+      ],
+      "DEF_EN":"Light, sheer woven fabric, especially one interwoven with gold or silver.",
+      "DEF_ZH":"（尤指带有金线或银线的）薄纱，织物。",
+      "SENT_EN":"The princess wore a gown made of shimmering silk tissue.",
+      "SENT_ZH":"公主穿着一件由闪闪发光的丝绸薄纱制成的礼服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fabric",
+            "cloth",
+            "gauze"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage (for paper and biology); Specialized (for fabric)"
+}

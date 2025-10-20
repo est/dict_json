@@ -1,0 +1,113 @@
+{
+  "WORD":"tax",
+  "IPA":"/tæks/",
+  "CONJUGATES":"taxes | taxed | taxing",
+  "ETYMOLOGY":"From Old French taxer, from Latin taxare 'to touch, to censure, to estimate', frequentative of tangere 'to touch'. The sense 'to impose a levy' emerged in Late Middle English.",
+  "SINCE":"Late 14th century (as a verb); early 15th century (as a noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[C] [U]",
+      "POS":"n",
+      "POS_TIP":"noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "finance",
+        "government"
+      ],
+      "DEF_EN":"A compulsory financial contribution levied by a state or governing body on income, property, or goods and services, for public expenditure.",
+      "DEF_ZH":"政府或管理机构为公共开支而对收入、财产或商品和服务征收的强制性财政捐款。",
+      "SENT_EN":"Income tax is deducted directly from monthly wages.",
+      "SENT_ZH":"所得税直接从月工资中扣除。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "levy",
+            "duty",
+            "tariff",
+            "excise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "VAT",
+            "IRS",
+            "taxation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tax [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "finance",
+        "government"
+      ],
+      "DEF_EN":"To impose a tax on something or someone.",
+      "DEF_ZH":"对某物或某人征税。",
+      "SENT_EN":"The government decided to tax sugary drinks heavily.",
+      "SENT_ZH":"政府决定对含糖饮料征收重税。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impose a levy",
+            "charge duty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tax [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To make heavy demands on someone's resources, strength, or abilities; to strain.",
+      "DEF_ZH":"对某人的资源、力量或能力提出过高要求；使某人感到紧张或负担过重。",
+      "SENT_EN":"The long journey really taxed my endurance.",
+      "SENT_ZH":"漫长的旅程确实考验了我的耐力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strain",
+            "burden",
+            "stress",
+            "overtax"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tax [sb] (with [sth])",
+      "POS":"vtr + prep",
+      "POS_TIP":"verb, transitive with preposition",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To accuse someone of an offense, especially one related to demanding an account or explanation.",
+      "DEF_ZH":"指责某人犯有某种罪行，尤指要求解释或说明的方面。",
+      "SENT_EN":"He was taxed with failing to report the transaction.",
+      "SENT_ZH":"他被指责未能报告该笔交易。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accuse",
+            "charge",
+            "censure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and general usage"
+}

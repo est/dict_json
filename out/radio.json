@@ -1,0 +1,99 @@
+{
+  "WORD":"radio",
+  "IPA":"/ˈreɪdiˌoʊ/",
+  "CONJUGATES":"radios | radioed | radioing",
+  "ETYMOLOGY":"Shortened from radiotelegraphy, coined from Latin radius ('ray, spoke, radius') and Greek graphia ('writing')",
+  "SINCE":"Early 20th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c/u] [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology"
+      ],
+      "DEF_EN":"The transmission and reception of electromagnetic waves, especially those carrying sound messages; also, a device used for receiving or transmitting such waves.",
+      "DEF_ZH":"电磁波的传输和接收，特别是携带声音信息的电磁波；也指用于接收或传输此类电波的设备（收音机，无线电）。",
+      "SENT_EN":"She listens to the radio every morning for the news.",
+      "SENT_ZH":"她每天早上听收音机了解新闻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wireless"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "broadcast",
+            "telecommunications",
+            "FM",
+            "AM"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] [sb]\n[v] [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To send a message by radio waves.",
+      "DEF_ZH":"用无线电波发送消息或进行通信。",
+      "SENT_EN":"The pilot radioed for assistance after engine failure.",
+      "SENT_ZH":"发动机故障后，飞行员用无线电呼叫援助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "call",
+            "transmit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"Relating to or using electromagnetic waves, especially those in the radio frequency range.",
+      "DEF_ZH":"与电磁波相关或使用电磁波的，特别是无线电频率范围内的。",
+      "SENT_EN":"Scientists are studying the radio emissions from distant galaxies.",
+      "SENT_ZH":"科学家正在研究来自遥远星系的无线电发射。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "electromagnetic",
+            "wireless"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u] [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "science",
+        "short for"
+      ],
+      "DEF_EN":"Short for 'radiotelegraphy' or 'radiocommunication.'",
+      "DEF_ZH":"无线电报或无线电通信的简称。",
+      "SENT_EN":"Early maritime communication relied heavily on radio.",
+      "SENT_ZH":"早期的海上通信严重依赖无线电。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, common in technology, communications, and media contexts."
+}

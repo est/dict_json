@@ -1,0 +1,108 @@
+{
+  "WORD":"profit",
+  "IPA":"/ˈprɑːfɪt/",
+  "CONJUGATES":"profits | profiting | profited",
+  "ETYMOLOGY":"From Old French *profit*, derived from Latin *profectus* ('progress, advance, increase'), the past participle of *proficere* ('to advance, benefit').",
+  "SINCE":"c. 1300 (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (financial term)",
+      "POS":"n, uncount/count",
+      "POS_TIP":"noun, uncountable or countable",
+      "TAGS":[
+        "core word",
+        "finance",
+        "economics"
+      ],
+      "DEF_EN":"A financial gain, especially the difference between the revenue received and the costs incurred in buying, operating, or producing something.",
+      "DEF_ZH":"利润；盈利；净收益（指总收入减去运营成本后的余额）。",
+      "SENT_EN":"The quarterly report showed a substantial operating profit despite slower sales.",
+      "SENT_ZH":"季度报告显示，尽管销售放缓，但营业利润仍然可观。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gain",
+            "earnings",
+            "return",
+            "yield"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "loss",
+            "deficit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Advantage or benefit derived from an action or situation.",
+      "DEF_ZH":"好处；益处；裨益。",
+      "SENT_EN":"There is little profit in arguing over details that cannot be changed.",
+      "SENT_ZH":"争论那些无法改变的细节没有什么益处。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "benefit",
+            "utility",
+            "use"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"profit [from sth]",
+      "POS":"v. intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To obtain a financial advantage or benefit; to make a gain.",
+      "DEF_ZH":"获利；营利；赚取利润。",
+      "SENT_EN":"The construction company profited significantly from the city's infrastructure boom.",
+      "SENT_ZH":"该建筑公司从城市基础设施建设热潮中获得了巨大的利润。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gain",
+            "capitalize",
+            "monetize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"profit [from sth]",
+      "POS":"v. intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To derive advantage or benefit from something, such as an experience or lesson.",
+      "DEF_ZH":"受益；从中得到好处或教训。",
+      "SENT_EN":"I hope you will profit from the warnings I have given you.",
+      "SENT_ZH":"我希望你能从我给你的警告中受益。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "learn",
+            "improve"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Business, Economics"
+}

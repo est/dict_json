@@ -1,0 +1,73 @@
+{
+  "WORD":"upstairs",
+  "IPA":"/ʌpˈstɛərz/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Middle English, from up (adv.) + stair (n.) + the adverbial genitive suffix -s, meaning 'on or toward the upper floor.'",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[v] upstairs",
+      "POS":"adv",
+      "POS_TIP":"Adverb: modifies a verb, adjective, or other adverb, indicating manner, place, time, or degree.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To or toward an upper floor or story of a building.",
+      "DEF_ZH":"向楼上；在楼上。",
+      "SENT_EN":"He ran quickly upstairs when he heard the phone ringing.",
+      "SENT_ZH":"他听到电话响，就迅速跑上楼了。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "downstairs"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"upstairs [n]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Situated on an upper floor.",
+      "DEF_ZH":"楼上的；位于上层的。",
+      "SENT_EN":"The guests will be using the upstairs bathroom.",
+      "SENT_ZH":"客人们将使用楼上的卫生间。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "downstairs"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the upstairs",
+      "POS":"n",
+      "POS_TIP":"Noun: identifies a person, place, or thing.",
+      "TAGS":[
+        "informal",
+        "part of building"
+      ],
+      "DEF_EN":"The upper floor or floors of a building.",
+      "DEF_ZH":"(建筑物中的)楼上部分；上层。",
+      "SENT_EN":"The renovations are complete downstairs, but we still have a lot of work to do on the upstairs.",
+      "SENT_ZH":"楼下的翻修已经完成了，但楼上部分还有很多工作要做。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "downstairs"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general use"
+}

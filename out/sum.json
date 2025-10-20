@@ -1,0 +1,135 @@
+{
+  "WORD":"sum",
+  "IPA":"/sʌm/",
+  "CONJUGATES":"sums | summing | summed",
+  "ETYMOLOGY":"From Middle English, derived from Old French summe, which originates from Latin summa ('highest part, main point, total'), feminine of summus ('highest').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"the sum [of sth]",
+      "POS":"n | nc",
+      "POS_TIP":"noun | countable noun",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"The total amount resulting from the addition of two or more numbers or quantities.",
+      "DEF_ZH":"两个或多个数字或数量相加后得到的总数或结果；和。",
+      "SENT_EN":"The sum of 12, 8, and 5 is 25.",
+      "SENT_ZH":"12、8和5的和是25。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "total",
+            "aggregate",
+            "result"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "difference",
+            "product",
+            "quotient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sum [of money]",
+      "POS":"n | nc",
+      "POS_TIP":"noun | countable noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"A specific quantity or amount of money.",
+      "DEF_ZH":"一笔（特定的）金钱或款项。",
+      "SENT_EN":"He invested a substantial sum in the startup company.",
+      "SENT_ZH":"他向那家初创公司投入了一大笔资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amount",
+            "figure",
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sum [sth] up",
+      "POS":"vtr + adv | phrasal v",
+      "POS_TIP":"transitive verb + adverb | phrasal verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To calculate the total of numbers or quantities; add up.",
+      "DEF_ZH":"计算（数字或数量的）总和；加总。",
+      "SENT_EN":"Could you sum up the expenses for the trip?",
+      "SENT_ZH":"你能算出这次旅行的总花费吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculate",
+            "tally",
+            "total"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sum [sth] up",
+      "POS":"vtr + adv | phrasal v",
+      "POS_TIP":"transitive verb + adverb | phrasal verb",
+      "TAGS":[
+        "core word",
+        "idiomatic"
+      ],
+      "DEF_EN":"To summarize or state the main points of something briefly.",
+      "DEF_ZH":"概述或简要地说明某事物的要点。",
+      "SENT_EN":"To sum up the findings, the experiment was a success.",
+      "SENT_ZH":"总结调查结果，这次实验是成功的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summarize",
+            "recapitulate",
+            "encapsulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the sum [of sth]",
+      "POS":"n | usu sing",
+      "POS_TIP":"noun | usually singular",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"The full extent, essence, or totality of something.",
+      "DEF_ZH":"事物的全部、要旨或核心（常用于固定搭配如 'sum and substance'）。",
+      "SENT_EN":"The sum of his advice was to remain calm and wait.",
+      "SENT_ZH":"他的忠告要点就是保持冷静并等待。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gist",
+            "essence",
+            "totality"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Mathematics, Finance"
+}

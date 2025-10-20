@@ -1,0 +1,65 @@
+{
+  "WORD":"surgery",
+  "IPA":"/ˈsɜːrdʒəri/",
+  "CONJUGATES":"surgeries (pl.)",
+  "ETYMOLOGY":"From Middle English *surgerie*, derived from Old French *surgerie* (later *chirurgie*), ultimately from Latin *chirurgia*, which stems from Ancient Greek *kheirourgia* (κ χειρουργία), meaning 'working by hand' (*kheir* 'hand' + *ergon* 'work').",
+  "SINCE":"c. 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (e.g., undergo surgery\ncosmetic surgery)",
+      "POS":"n",
+      "POS_TIP":"noun (countable or uncountable)",
+      "TAGS":[
+        "core word",
+        "medical",
+        "formal"
+      ],
+      "DEF_EN":"The treatment of injuries or diseases in a patient, either by cutting open the body and removing or repairing the damaged part, or by mechanical manipulation of tissue.",
+      "DEF_ZH":"通过切开人体并移除或修复受损部位，或通过对组织进行机械操作来治疗疾病或损伤的医疗专业或程序。",
+      "SENT_EN":"He underwent major heart surgery last year and is now recovering well.",
+      "SENT_ZH":"他去年接受了大型心脏手术，现在恢复得很好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "operation",
+            "procedure",
+            "intervention"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "surgeon",
+            "anesthesia",
+            "scalpel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] surgery\ngo to the surgery",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "regional (UK)",
+        "common"
+      ],
+      "DEF_EN":"(UK) The period of time during which a doctor, dentist, or veterinarian is available to advise or treat patients; also, the office or building where this work takes place.",
+      "DEF_ZH":"(英式) 医生、牙医或兽医看诊或咨询病人的时间段；或进行此项工作的诊所或办公室。",
+      "SENT_EN":"The doctor holds surgery every morning from 9 to 12.",
+      "SENT_ZH":"这位医生每天早上9点到12点坐诊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clinic",
+            "consulting room",
+            "office (US)"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, primarily medical and technical."
+}

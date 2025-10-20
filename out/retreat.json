@@ -1,0 +1,114 @@
+{
+  "WORD":"retreat",
+  "IPA":"/rɪˈtriːt/",
+  "CONJUGATES":"retreats | retreating | retreated",
+  "ETYMOLOGY":"From Old French *retraite*, the feminine past participle of *retraire* 'to pull back, withdraw', derived from Latin *retrahere* (re- 'back' + *trahere* 'to draw').",
+  "SINCE":"Late 14th century (as a noun), early 15th century (as a verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"retreat [from sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "military",
+        "action"
+      ],
+      "DEF_EN":"To move back or withdraw from a position, especially from danger, an enemy, or an undesirable situation.",
+      "DEF_ZH":"撤退；退却；后退（尤指在战斗或危险中）。",
+      "SENT_EN":"The enemy forces were compelled to retreat after heavy shelling.",
+      "SENT_ZH":"敌军在猛烈的炮击下被迫撤退。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "withdraw",
+            "pull back",
+            "fall back",
+            "recede"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "advance",
+            "proceed",
+            "attack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a retreat [for sb]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "place"
+      ],
+      "DEF_EN":"A quiet or secluded place used for rest, reflection, or privacy; a sanctuary or hideaway.",
+      "DEF_ZH":"隐居地；静修处；避难所。",
+      "SENT_EN":"They bought a small cabin by the lake to use as a weekend retreat.",
+      "SENT_ZH":"他们在湖边买了一间小木屋作为周末隐居地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "haven",
+            "sanctuary",
+            "hideaway",
+            "refuge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a retreat",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "specialized",
+        "wellness",
+        "religious"
+      ],
+      "DEF_EN":"A period of time set aside for religious practice, meditation, reflection, or wellness activities away from one's normal environment.",
+      "DEF_ZH":"（尤指宗教或健康相关的）静修期；修行活动。",
+      "SENT_EN":"She attended a silent meditation retreat for ten days.",
+      "SENT_ZH":"她参加了为期十天的静默冥想修行活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "respite",
+            "spiritual break",
+            "seminar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a retreat",
+      "POS":"ncu",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "formal",
+        "action"
+      ],
+      "DEF_EN":"The act or process of moving back or retiring.",
+      "DEF_ZH":"退却；撤离（的行动）。",
+      "SENT_EN":"The general ordered a swift retreat before the reinforcements arrived.",
+      "SENT_ZH":"将军命令在援军到来之前迅速撤离。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "withdrawal",
+            "retirement",
+            "recession"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Military, Formal"
+}

@@ -1,0 +1,82 @@
+{
+  "WORD":"skill",
+  "IPA":"/skɪl/",
+  "CONJUGATES":"skills | skilled | skilling",
+  "ETYMOLOGY":"From Old Norse skil ('distinction', 'discernment', 'knowledge'), related to skilia ('to divide', 'separate', 'discern'). Influenced in Middle English by Scandinavian languages.",
+  "SINCE":"c. 13th century (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The ability, coming from one's knowledge, practice, aptitude, etc., to do something well.",
+      "DEF_ZH":"通过知识、实践、能力等获得的，做好某事的能力或技巧。",
+      "SENT_EN":"Learning a foreign language requires time and dedication, but it is a valuable skill.",
+      "SENT_ZH":"学习一门外语需要时间和奉献，但这是一项宝贵的技能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ability",
+            "proficiency",
+            "competence",
+            "expertise",
+            "talent",
+            "aptitude"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "incompetence",
+            "inability",
+            "awkwardness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n (plural: skills)",
+      "POS_TIP":"noun (plural)",
+      "TAGS":[
+        "core word",
+        "common",
+        "professional"
+      ],
+      "DEF_EN":"A specific, learned ability or type of competence required to perform a job or task.",
+      "DEF_ZH":"执行某项工作或任务所需的特定、习得的能力或胜任力类型。",
+      "SENT_EN":"His strongest professional skills are in data analysis and strategic planning.",
+      "SENT_ZH":"他最强的专业技能在于数据分析和战略规划。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "soft skill",
+            "hard skill",
+            "interpersonal skill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"To know; to discern; to understand.",
+      "DEF_ZH":"知道；辨别；理解。",
+      "SENT_EN":"Though he skilled the meaning of the ancient text, he could not translate it wholly.",
+      "SENT_ZH":"尽管他理解了古代文本的含义，但他无法完全翻译出来。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, particularly common in educational and professional contexts."
+}

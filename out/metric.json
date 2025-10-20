@@ -1,0 +1,87 @@
+{
+  "WORD":"metric",
+  "IPA":"/ˈmɛtrɪk/",
+  "CONJUGATES":"metrics (n. plural)",
+  "ETYMOLOGY":"From French métrique, derived from Latin metricus, ultimately from Greek metron 'measure.'",
+  "SINCE":"Mid-17th century (adj.); Late 18th century (specifically related to the system)",
+  "MEANINGS":[
+    {
+      "PATTERN":"metric [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technical",
+        "business"
+      ],
+      "DEF_EN":"A standard unit of measurement or criterion used to assess, track, or evaluate the performance, status, or effectiveness of a process, project, or organization.",
+      "DEF_ZH":"度量标准；衡量指标；用于评估项目、流程或组织表现的标准数据。",
+      "SENT_EN":"The company relies on customer satisfaction metrics to guide its product development.",
+      "SENT_ZH":"公司依靠客户满意度指标来指导其产品开发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure",
+            "standard",
+            "criterion",
+            "indicator",
+            "benchmark"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "KPI"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"metric [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "standard",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or denoting the decimal system of weights and measures based on the meter, kilogram, and second.",
+      "DEF_ZH":"米制的；公制的；与国际单位制相关的。",
+      "SENT_EN":"All measurements in the lab must be converted into metric units.",
+      "SENT_ZH":"实验室中的所有测量都必须转换为公制单位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "SI system",
+            "imperial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"metric [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "literary",
+        "specialized"
+      ],
+      "DEF_EN":"Relating to or composed in meter; metrical.",
+      "DEF_ZH":"韵律的；格律的；（诗歌）有韵律或节奏的。",
+      "SENT_EN":"He analyzed the complex metric structure of the ancient poem.",
+      "SENT_ZH":"他分析了这首古诗复杂的韵律结构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "metrical",
+            "rhythmic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in science, technology, engineering, and business management."
+}

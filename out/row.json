@@ -1,0 +1,105 @@
+{
+  "WORD":"row",
+  "IPA":"/roʊ/",
+  "CONJUGATES":"rows | rowing | rowed",
+  "ETYMOLOGY":"For meanings 1 & 2: From Old English *rāw* (line, series) and *rōwan* (to row a boat), both of Germanic origin. | For meaning 3 & 4 (quarrel): Mid-18th century, likely originating as dialectal or regional English, possibly imitative of noise.",
+  "SINCE":"Before 900 AD (for line/boat meanings)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] row of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "arrangement"
+      ],
+      "DEF_EN":"A number of people or things placed or arranged in a straight line.",
+      "DEF_ZH":"一排；一列；一行。",
+      "SENT_EN":"The students formed three neat rows in the auditorium.",
+      "SENT_ZH":"学生们在礼堂里排成了三排整齐的队伍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "line",
+            "file",
+            "rank",
+            "series"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"row [a boat]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "nautical"
+      ],
+      "DEF_EN":"To propel a boat using oars.",
+      "DEF_ZH":"划船；用桨推进（船）。",
+      "SENT_EN":"They rowed silently to the opposite bank of the river.",
+      "SENT_ZH":"他们默默地划船到了河的对岸。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "oar",
+            "scull",
+            "paddle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[have a] row [with sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "British English",
+        "informal",
+        "different pronunciation: /raʊ/"
+      ],
+      "DEF_EN":"A noisy argument or quarrel, especially one involving shouting.",
+      "DEF_ZH":"吵架；口角；激烈争论。",
+      "SENT_EN":"The couple had a huge row about money last night.",
+      "SENT_ZH":"昨晚那对夫妇因为钱的问题大吵了一架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quarrel",
+            "dispute",
+            "spat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"row [with sb] over [sth]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "rare",
+        "British English",
+        "different pronunciation: /raʊ/"
+      ],
+      "DEF_EN":"To engage in a noisy argument or dispute.",
+      "DEF_ZH":"争吵；争论（常指大声地）。",
+      "SENT_EN":"Don't row with him; it’s not worth the effort.",
+      "SENT_ZH":"不要和他争吵；不值得费这个劲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "argue",
+            "bicker"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (Nautical, Arrangement, British Informal for quarrel)"
+}

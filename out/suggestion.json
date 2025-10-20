@@ -1,0 +1,87 @@
+{
+  "WORD":"suggestion",
+  "IPA":"/səˈdʒestʃən/",
+  "CONJUGATES":"suggestions",
+  "ETYMOLOGY":"From Latin suggestio (a hinting, an intimation), derived from suggerere (to bring up, propose, hint), from sub- ('under' or 'secretly') + gerere ('to carry, bear').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"suggestion [for sth]\nsuggestion [that]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An idea or plan put forward for consideration.",
+      "DEF_ZH":"提议；建议；意见。",
+      "SENT_EN":"The committee is open to any suggestions for improving public transport.",
+      "SENT_ZH":"委员会对任何改进公共交通的建议持开放态度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proposal",
+            "recommendation",
+            "advice",
+            "idea",
+            "tip"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "suggest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suggestion [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "formal"
+      ],
+      "DEF_EN":"A slight indication or hint of something, often implied rather than stated directly.",
+      "DEF_ZH":"暗示；迹象；影射。",
+      "SENT_EN":"There was a suggestion of sadness in her eyes, even as she smiled.",
+      "SENT_ZH":"尽管她在微笑，但她的眼中带有一丝悲伤的迹象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hint",
+            "trace",
+            "indication",
+            "implication"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"susceptible to suggestion",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "psychology"
+      ],
+      "DEF_EN":"The process by which an idea is introduced into someone's mind, often influencing their behavior or thoughts, especially in the context of hypnosis.",
+      "DEF_ZH":"心理暗示；暗示作用。",
+      "SENT_EN":"Hypnotism works primarily through verbal suggestion.",
+      "SENT_ZH":"催眠术主要通过口头暗示发挥作用。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hypnosis",
+            "autosuggestion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, business, and formal writing."
+}

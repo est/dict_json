@@ -1,0 +1,96 @@
+{
+  "WORD":"inform",
+  "IPA":"/ɪnˈfɔːrm/",
+  "CONJUGATES":"informs | informed | informing",
+  "ETYMOLOGY":"From Middle French informer, derived from Latin informāre ('to shape, instruct, describe'), from in- ('into') + formāre ('to form, shape'). The sense of imparting knowledge developed from the earlier sense of shaping the mind.",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"inform [sb] [of/about sth]\ninform [sb] that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "communication"
+      ],
+      "DEF_EN":"To give someone facts or information; to notify or apprise.",
+      "DEF_ZH":"告知；通知；向（某人）提供信息。",
+      "SENT_EN":"We informed the residents that the water would be shut off for maintenance.",
+      "SENT_ZH":"我们通知了居民，将停止供水进行维护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notify",
+            "apprise",
+            "advise",
+            "tell"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misinform",
+            "conceal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inform [on sb/sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "negative connotation",
+        "legal"
+      ],
+      "DEF_EN":"To give incriminating information about another person (often secretly) to authorities, usually involving illegal activity.",
+      "DEF_ZH":"告发；检举；（尤指对当局）告密。",
+      "SENT_EN":"The witness agreed to inform on his former associates in exchange for immunity.",
+      "SENT_ZH":"该证人同意告发他以前的同伙以换取豁免权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snitch",
+            "denounce",
+            "squeal",
+            "tattle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "informant",
+            "whistleblower"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inform [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "abstract"
+      ],
+      "DEF_EN":"To give form or essential character to something; to influence or inspire.",
+      "DEF_ZH":"赋予（某事物）本质或特征；影响；渗透。",
+      "SENT_EN":"Ethical considerations inform the design of the new policy.",
+      "SENT_ZH":"道德考量为新政策的设计提供了基础。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shape",
+            "influence",
+            "pervade",
+            "characterize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

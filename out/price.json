@@ -1,0 +1,110 @@
+{
+  "WORD":"price",
+  "IPA":"/praɪs/",
+  "CONJUGATES":"prices | priced | pricing",
+  "ETYMOLOGY":"From Middle English pris (value, worth, reward), from Old French pris (price, value, prize), from Latin pretium (worth, value, reward, payment).",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"the price of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "economics"
+      ],
+      "DEF_EN":"The amount of money required or paid for something.",
+      "DEF_ZH":"为购买某物所需支付或要求的金额；价钱。",
+      "SENT_EN":"What is the current price of gold?",
+      "SENT_ZH":"黄金目前的价格是多少？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cost",
+            "charge",
+            "fee",
+            "rate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "worthlessness",
+            "free"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the price for [sth]\nat a heavy price",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "metaphorical"
+      ],
+      "DEF_EN":"The consequence, sacrifice, or effort required to achieve or gain something.",
+      "DEF_ZH":"为了获得某物所必须付出的代价、后果或牺牲。",
+      "SENT_EN":"He achieved success, but it came at the price of his health.",
+      "SENT_ZH":"他获得了成功，但代价却是牺牲了自己的健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cost",
+            "consequence",
+            "sacrifice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"price [sth] at [amount]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "business",
+        "commerce"
+      ],
+      "DEF_EN":"To fix or set the selling price of an item or service.",
+      "DEF_ZH":"为某件物品或服务定价或标价。",
+      "SENT_EN":"The new manager priced the luxury items too high.",
+      "SENT_ZH":"新经理给那些奢侈品的定价太高了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "value",
+            "appraise",
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"price [sth] out\nprice out [sth]",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb used with an adverb (phrasal verb)",
+      "TAGS":[
+        "phrasal verb",
+        "informal"
+      ],
+      "DEF_EN":"To find out the price of something, often to compare options or estimate a budget.",
+      "DEF_ZH":"询价；比价；查明某物的价格，通常用于做预算或进行比较。",
+      "SENT_EN":"I need to price out several different flight options before booking.",
+      "SENT_ZH":"在预订之前，我需要比较一下几个不同航班的价格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shop around",
+            "survey"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage in general conversation, business, and economics."
+}

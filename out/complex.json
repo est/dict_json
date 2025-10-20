@@ -1,0 +1,112 @@
+{
+  "WORD":"complex",
+  "IPA":"/kəmˈplɛks/",
+  "CONJUGATES":"complexes (n, plural)",
+  "ETYMOLOGY":"From Latin complexus (past participle of complectere 'to embrace, encircle'), formed from com- ('together') + plectere ('to weave, twine').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] be complex",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Consisting of many different and connected parts; not easy to analyze or understand.",
+      "DEF_ZH":"由许多不同且相互关联的部分组成；难以分析或理解的；复杂的，错综的。",
+      "SENT_EN":"The problem we are facing is highly complex and requires careful consideration.",
+      "SENT_ZH":"我们面临的问题非常复杂，需要仔细考虑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "complicated",
+            "intricate",
+            "elaborate",
+            "involved"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "simple",
+            "basic",
+            "straightforward"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a complex of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "countable"
+      ],
+      "DEF_EN":"A group of associated buildings, facilities, or units.",
+      "DEF_ZH":"一组相互关联的建筑、设施或单位；综合体，集合。",
+      "SENT_EN":"The new sports complex includes a swimming pool and two gyms.",
+      "SENT_ZH":"新的体育综合体包括一个游泳池和两个健身房。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "structure",
+            "system",
+            "center",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] has a complex",
+      "POS":"n",
+      "POS_TIP":"noun (Psychology)",
+      "TAGS":[
+        "psychology",
+        "countable"
+      ],
+      "DEF_EN":"A group of emotionally charged ideas, feelings, and memories, often repressed, that significantly influence a person's attitude and behavior.",
+      "DEF_ZH":"（心理学）一组带有强烈情感的、通常被压抑的思想、感受和记忆，显著影响一个人的态度和行为；情结，心结。",
+      "SENT_EN":"He developed a complex about his height after years of bullying.",
+      "SENT_ZH":"经过多年的欺凌，他形成了关于自己身高的情结。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inferiority complex",
+            "Oedipus complex",
+            "guilt complex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"complex [sth] (math/chem)",
+      "POS":"adj",
+      "POS_TIP":"adjective (Technical)",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "chemistry"
+      ],
+      "DEF_EN":"(Mathematics) Involving both real and imaginary numbers; (Chemistry) Denoting a molecule or ion composed of several groups bonded around a central atom.",
+      "DEF_ZH":"（数学）涉及实数和虚数的；复数的。（化学）指由围绕中心原子键合的多个基团组成的分子或离子；络合的。",
+      "SENT_EN":"We need to understand how to graph complex numbers in the plane.",
+      "SENT_ZH":"我们需要了解如何在平面上绘制复数。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "imaginary number",
+            "coordination complex"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

@@ -1,0 +1,96 @@
+{
+  "WORD":"may",
+  "IPA":"/meɪ/",
+  "CONJUGATES":"might (past form)",
+  "ETYMOLOGY":"From Old English mæg (first and third person singular present indicative of magan, 'to be able'), from Proto-Germanic *maganan ('to be able'). The noun (month name) comes from Latin Maius, named after the Greek goddess Maia.",
+  "SINCE":"Before 900 AD (modal verb); 12th century (month name)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] may [v]",
+      "POS":"modal v",
+      "POS_TIP":"Modal verb: used to express mood or tense.",
+      "TAGS":[
+        "core word",
+        "possibility"
+      ],
+      "DEF_EN":"Used to express possibility or probability.",
+      "DEF_ZH":"表示可能性或不确定性。",
+      "SENT_EN":"It may rain later, so take an umbrella.",
+      "SENT_ZH":"可能稍后会下雨，所以带把伞吧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "might",
+            "could"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "maybe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"May [I] [v]",
+      "POS":"modal v",
+      "POS_TIP":"Modal verb: used to express mood or tense.",
+      "TAGS":[
+        "core word",
+        "permission",
+        "formal"
+      ],
+      "DEF_EN":"Used to ask for or grant permission (often considered more formal than 'can').",
+      "DEF_ZH":"用于请求或授予许可（通常比can更正式）。",
+      "SENT_EN":"May I use your phone for a moment?",
+      "SENT_ZH":"我能用一下您的电话吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "can"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"May [sb] [v]",
+      "POS":"modal v",
+      "POS_TIP":"Modal verb: used to express mood or tense.",
+      "TAGS":[
+        "wish",
+        "archaic",
+        "literary"
+      ],
+      "DEF_EN":"Used to express a wish, hope, or formal blessing.",
+      "DEF_ZH":"用于表达愿望、希望或正式的祝福。",
+      "SENT_EN":"May peace prevail throughout the world.",
+      "SENT_ZH":"愿和平遍及全世界。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"May",
+      "POS":"n",
+      "POS_TIP":"Noun: a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "month"
+      ],
+      "DEF_EN":"The fifth month of the year, following April and preceding June.",
+      "DEF_ZH":"一年中的第五个月，四月之后，六月之前（五月）。",
+      "SENT_EN":"We are planning our vacation for the middle of May.",
+      "SENT_ZH":"我们正计划在五月中旬休假。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "May Day"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly frequent in daily conversation and writing."
+}

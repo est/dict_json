@@ -1,0 +1,68 @@
+{
+  "WORD":"whichever",
+  "IPA":"/wɪˈtʃɛvər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound word formed from the indefinite relative pronoun 'which' and the intensifier 'ever'.",
+  "SINCE":"Late Middle English (c. 1350)",
+  "MEANINGS":[
+    {
+      "PATTERN":"whichever [N]",
+      "POS":"det",
+      "POS_TIP":"Determiner (a word that precedes a noun, determining or limiting its reference)",
+      "TAGS":[
+        "core word",
+        "unrestricted choice"
+      ],
+      "DEF_EN":"Used before a noun to mean any one out of a definite set, without limitation or restriction.",
+      "DEF_ZH":"任何一个（在限定的选择范围内）；无论哪个",
+      "SENT_EN":"You can use whichever tool you find most suitable for the job.",
+      "SENT_ZH":"你可以使用你认为最适合这份工作的任何一个工具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "any",
+            "no matter which"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb] whichever",
+      "POS":"pron",
+      "POS_TIP":"Pronoun (a word that takes the place of a noun or noun phrase)",
+      "TAGS":[
+        "core word",
+        "relative pronoun"
+      ],
+      "DEF_EN":"Referring to any one or ones from a definite group, regardless of which.",
+      "DEF_ZH":"无论哪一个；随便哪一个（代替名词）",
+      "SENT_EN":"Take whichever is closest to you.",
+      "SENT_ZH":"拿离你最近的那个。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "any one",
+            "whatever"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"whichever [clause]",
+      "POS":"conj/adv",
+      "POS_TIP":"Conjunction (a word used to connect clauses or sentences) / Adverb (modifies a verb, adjective, or other adverb)",
+      "TAGS":[
+        "clause starter",
+        "concessive"
+      ],
+      "DEF_EN":"Used to introduce a clause showing that the identity or choice is irrelevant to the main outcome.",
+      "DEF_ZH":"不论是哪种情况（用于引导让步从句）",
+      "SENT_EN":"We must submit the proposal by the deadline, whichever date that happens to be.",
+      "SENT_ZH":"我们必须在截止日期前提交提案，无论那个日期是哪一天。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General English, often used when expressing flexibility or indifference regarding choice."
+}

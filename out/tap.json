@@ -1,0 +1,100 @@
+{
+  "WORD":"tap",
+  "IPA":"/tæp/",
+  "CONJUGATES":"taps (n) | taps | tapping | tapped (v)",
+  "ETYMOLOGY":"N (faucet): From Old English *tæppa* (stopper, peg). V (strike): Immitative origin, Middle English *tappen*.",
+  "SINCE":"pre-1000",
+  "MEANINGS":[
+    {
+      "PATTERN":"tap [sth]\ntap [on sth]",
+      "POS":"vtr/vi",
+      "POS_TIP":"Transitive or intransitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To strike something gently, often repeatedly, especially with the fingers or knuckles, usually producing a light sound.",
+      "DEF_ZH":"轻敲；轻击（尤指用手指或关节），常发出轻微的声音。",
+      "SENT_EN":"He started tapping his fingers nervously on the table.",
+      "SENT_ZH":"他开始紧张地用手指轻轻地敲着桌子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "knock",
+            "pat",
+            "rap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a tap (nc)",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "British English"
+      ],
+      "DEF_EN":"A device (known as a faucet or spigot in American English) used to control the flow of liquid from a pipe or container.",
+      "DEF_ZH":"水龙头；阀门 (主要用于英式英语)。",
+      "SENT_EN":"She turned on the hot water tap to fill the bath.",
+      "SENT_ZH":"她打开热水龙头放水洗澡。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "faucet",
+            "spigot",
+            "valve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tap [into sth]\ntap [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb often followed by a preposition",
+      "TAGS":[
+        "business",
+        "common"
+      ],
+      "DEF_EN":"To gain access to or draw upon a resource, fund, market, or source of energy or knowledge.",
+      "DEF_ZH":"开发利用；发掘（资源、市场、潜能或信息）。",
+      "SENT_EN":"Companies are looking for ways to tap into the growing Asian market.",
+      "SENT_ZH":"各公司正寻求开发日益增长的亚洲市场的方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exploit",
+            "utilize",
+            "access"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tap [a line/phone]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "legal",
+        "security"
+      ],
+      "DEF_EN":"To install a device to secretly monitor telephone or internet conversations; to wiretap.",
+      "DEF_ZH":"窃听；监听（通信线路或电话）。",
+      "SENT_EN":"The police had to obtain a warrant before they could tap his phone line.",
+      "SENT_ZH":"警方必须获得搜查令才能窃听他的电话线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bug",
+            "wiretap"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Usage"
+}

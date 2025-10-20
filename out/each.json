@@ -1,0 +1,76 @@
+{
+  "WORD":"each",
+  "IPA":"/iːtʃ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English ech, from Old English ǣlc (a contraction of ā 'ever, always' + geliċ 'like, similar').",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"each [noun]",
+      "POS":"det",
+      "POS_TIP":"Determiner, a modifying word that determines the kind of reference a noun has (e.g., a, the, every).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Every one of two or more things or people, regarded separately.",
+      "DEF_ZH":"各自的；每一（个）。用于强调群体中的个体性。",
+      "SENT_EN":"Each participant received a certificate of completion.",
+      "SENT_ZH":"每一位参与者都收到了一份结业证书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "every",
+            "individual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"each (of [group])",
+      "POS":"pron",
+      "POS_TIP":"Pronoun, a word that takes the place of a noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Every one of a number of people or things, used to refer to the individual items in a group already mentioned or understood.",
+      "DEF_ZH":"每个人；每件（指代群体中的个体）。",
+      "SENT_EN":"They brought five gifts, and each was beautifully wrapped.",
+      "SENT_ZH":"他们带来了五个礼物，每一个都包装得很精美。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "each other",
+            "one another"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[number] [unit] each",
+      "POS":"adv",
+      "POS_TIP":"Adverb, a word that modifies a verb, adjective, or another adverb.",
+      "TAGS":[
+        "common",
+        "distributive"
+      ],
+      "DEF_EN":"To or for each person or thing in a group; apiece.",
+      "DEF_ZH":"各自；每人/每件（用于表示价格或分配数量）。",
+      "SENT_EN":"The flowers cost five dollars each.",
+      "SENT_ZH":"这些花每束五美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apiece",
+            "individually"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English usage"
+}

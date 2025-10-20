@@ -1,0 +1,113 @@
+{
+  "WORD":"statement",
+  "IPA":"/ˈsteɪtmənt/",
+  "CONJUGATES":"statements",
+  "ETYMOLOGY":"From state (v.) + -ment. The verb 'state' originates from Old French estat, from Latin status 'a standing, position, condition'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"make a statement\nstatement [about sth]",
+      "POS":"n, countable",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "formal",
+        "communication"
+      ],
+      "DEF_EN":"A definite or clear expression of something in speech or writing, often formal or official.",
+      "DEF_ZH":"以口头或书面形式对某事物的明确表达或正式陈述，通常具有官方性质。",
+      "SENT_EN":"The CEO released a written statement regarding the company’s recent merger.",
+      "SENT_ZH":"首席执行官就公司最近的合并发表了一份书面声明。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "declaration",
+            "assertion",
+            "announcement",
+            "testimony"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "denial",
+            "concealment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bank statement\nfinancial statement",
+      "POS":"n, countable",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"A formal written summary of financial transactions, such as an account summary sent by a bank to its customer.",
+      "DEF_ZH":"正式的书面财务交易摘要，例如银行发送给客户的账户总结。",
+      "SENT_EN":"I noticed an incorrect charge on my monthly bank statement.",
+      "SENT_ZH":"我注意到我的月度银行对账单上有一笔错误的收费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "account",
+            "summary",
+            "ledger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a statement\nstatement piece",
+      "POS":"n, countable",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "figurative",
+        "style",
+        "art"
+      ],
+      "DEF_EN":"Something (such as clothing, design, or behavior) that expresses a particular attitude or opinion, often dramatically or visually.",
+      "DEF_ZH":"通过外表、行为或物品（如服饰或设计）表达某种态度或观点，通常具有引人注目的效果。",
+      "SENT_EN":"The architect intended the new building to be a bold statement about modern urban design.",
+      "SENT_ZH":"这位建筑师打算让这座新建筑成为关于现代城市设计的大胆宣言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expression",
+            "impression",
+            "declaration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"program statement\nlogical statement",
+      "POS":"n, countable",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "technical",
+        "linguistics",
+        "computing"
+      ],
+      "DEF_EN":"In logic or computing, a single line or command that orders a system to perform an action, or a proposition that can be either true or false.",
+      "DEF_ZH":"在逻辑学或计算机编程中，命令系统执行某项操作的单行代码或表达式；或一个可以判断真假的命题。",
+      "SENT_EN":"Every program statement must end with a semicolon in this language.",
+      "SENT_ZH":"在这种语言中，每条程序语句都必须以分号结尾。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "proposition",
+            "instruction",
+            "command"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general usage, highly common in legal, political, and financial contexts."
+}

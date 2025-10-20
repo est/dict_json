@@ -1,0 +1,81 @@
+{
+  "WORD":"strap",
+  "IPA":"/stræp/",
+  "CONJUGATES":"n: straps | v: straps, strapped, strapping",
+  "ETYMOLOGY":"From Middle English strappe, from Old English stropp, from Latin stroppus 'strap, thong'.",
+  "SINCE":"12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"strap",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A flat, narrow strip of flexible material, typically leather or plastic, used for fastening, securing, or carrying things.",
+      "DEF_ZH":"一条扁平窄长的柔性材料，通常是皮革或塑料，用于固定、系紧或携带物品。",
+      "SENT_EN":"He tightened the strap of his backpack before starting the hike.",
+      "SENT_ZH":"在开始徒步之前，他收紧了背包的肩带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "band",
+            "strip",
+            "thong",
+            "belt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strap [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fasten or secure (something) with a strap or straps.",
+      "DEF_ZH":"用带子固定或系紧（某物）。",
+      "SENT_EN":"She strapped her suitcase to the roof rack of the car.",
+      "SENT_ZH":"她把手提箱绑到汽车的车顶架上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fasten",
+            "tie",
+            "bind",
+            "secure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strap [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "older usage"
+      ],
+      "DEF_EN":"To beat (someone) with a strap as a form of punishment.",
+      "DEF_ZH":"用带子鞭打（某人）作为惩罚。",
+      "SENT_EN":"In some old schools, teachers used to strap unruly students.",
+      "SENT_ZH":"在一些旧学校里，老师过去常常用皮带鞭打不守规矩的学生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whip",
+            "flog",
+            "beat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

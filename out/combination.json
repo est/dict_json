@@ -1,0 +1,89 @@
+{
+  "WORD":"combination",
+  "IPA":"/ˌkɑːmbɪˈneɪʃən/",
+  "CONJUGATES":"combinations (plural)",
+  "ETYMOLOGY":"From Late Latin combinatio, from combinare 'to combine', ultimately from Latin con- 'together' + bini 'two by two'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a combination of [things]",
+      "POS":"noun",
+      "POS_TIP":"A word (such as a person, place, or thing) that functions as the main subject of a sentence or clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A joining or mixing of two or more things together; the resulting mixture or blend.",
+      "DEF_ZH":"两种或两种以上事物的结合或混合；由此产生的混合物或融合体。",
+      "SENT_EN":"The new design is a combination of traditional and modern styles.",
+      "SENT_ZH":"新设计是传统与现代风格的结合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mixture",
+            "blend",
+            "amalgam",
+            "fusion",
+            "synthesis"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separation",
+            "division",
+            "disintegration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"combination (for a lock)",
+      "POS":"noun",
+      "POS_TIP":"A word (such as a person, place, or thing) that functions as the main subject of a sentence or clause.",
+      "TAGS":[
+        "common",
+        "specific usage"
+      ],
+      "DEF_EN":"A sequence of numbers, letters, or other symbols that must be entered in the correct order to open a lock, especially a combination lock.",
+      "DEF_ZH":"为打开锁（特别是密码锁）而必须按正确顺序输入的一系列数字、字母或其他符号。",
+      "SENT_EN":"He wrote down the combination to the safe in case he forgot it.",
+      "SENT_ZH":"他写下了保险箱的密码，以防忘记。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "password",
+            "key",
+            "code"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mathematical combination",
+      "POS":"noun",
+      "POS_TIP":"A word (such as a person, place, or thing) that functions as the main subject of a sentence or clause.",
+      "TAGS":[
+        "specialized",
+        "mathematics"
+      ],
+      "DEF_EN":"(Mathematics) A selection of items from a set where the order of selection does not matter.",
+      "DEF_ZH":"(数学) 从一个集合中选择项目的一种方式，其中选择的顺序无关紧要。",
+      "SENT_EN":"In probability, combinations are used when the order of elements is not important.",
+      "SENT_ZH":"在概率论中，当元素的顺序不重要时，使用组合。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "permutation",
+            "set",
+            "subset"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally used in formal and informal contexts across various fields."
+}

@@ -1,0 +1,70 @@
+{
+  "WORD":"efficiency",
+  "IPA":"/ɪˈfɪʃənsi/",
+  "CONJUGATES":"efficiencies (pl.)",
+  "ETYMOLOGY":"From Latin efficientia, derived from efficiens (present participle of efficere 'to effect, accomplish'), related to 'effect'.",
+  "SINCE":"c. 1590s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "business",
+        "general usage"
+      ],
+      "DEF_EN":"The state or quality of being efficient; achieving maximum productivity with minimum wasted effort or expense.",
+      "DEF_ZH":"有效利用时间、资源或精力，以最小的投入获得最大的产出或效果的能力；效率。",
+      "SENT_EN":"The company dramatically improved its operating efficiency by automating several key processes.",
+      "SENT_ZH":"公司通过自动化几个关键流程，显著提高了运营效率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "productivity",
+            "effectiveness",
+            "economy",
+            "streamlining"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inefficiency",
+            "wastefulness"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "efficient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[of a system/machine]",
+      "POS":"n",
+      "POS_TIP":"noun (countable/uncountable)",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"The ratio of useful work or energy output to the total input of energy, often expressed as a percentage.",
+      "DEF_ZH":"有用功或能量输出与总能量输入之比，通常用百分比表示，衡量机械或系统的性能。",
+      "SENT_EN":"Modern solar panels often achieve efficiencies above 20%.",
+      "SENT_ZH":"现代太阳能电池板的效率通常能达到20%以上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "COP",
+            "performance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in business, engineering, management, and everyday language."
+}

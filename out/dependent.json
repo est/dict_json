@@ -1,0 +1,90 @@
+{
+  "WORD":"dependent",
+  "IPA":"/dɪˈpɛndənt/",
+  "CONJUGATES":"dependents | dependently",
+  "ETYMOLOGY":"From Middle English, derived from Old French *dependre* (to depend), ultimately from Medieval Latin *dependens*, present participle of *dependere* (to hang down, to rely upon), formed by combining Latin *de-* (down) + *pendere* (to hang).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"dependent [adj] [on sth/sb]",
+      "POS":"adj + prep",
+      "POS_TIP":"Adjective followed by a preposition.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relying on someone or something else for financial support, survival, or necessary functions.",
+      "DEF_ZH":"依靠他人或某物以获得经济支持、生存或持续运作。",
+      "SENT_EN":"The success of the colony was dependent on maintaining a supply line.",
+      "SENT_ZH":"这个殖民地的成功取决于维持一条补给线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reliant",
+            "subject"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "independent",
+            "self-sufficient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dependent [adj] [on sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"Adjective followed by a preposition.",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"Determined or conditioned by something else; contingent.",
+      "DEF_ZH":"由某事物决定或制约的；取决于；附带的。",
+      "SENT_EN":"The outcome of the lawsuit is dependent on the interpretation of the contract.",
+      "SENT_ZH":"诉讼的结果取决于对合同的解读。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contingent",
+            "conditional"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dependent [n]",
+      "POS":"n",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "core word",
+        "legal",
+        "financial"
+      ],
+      "DEF_EN":"A person who relies on another, especially a relative, for financial support, often for tax or insurance purposes.",
+      "DEF_ZH":"依靠他人（通常是亲属）获取经济支持的人；受抚养人。",
+      "SENT_EN":"Employees can typically add their immediate family members as dependents on their health plan.",
+      "SENT_ZH":"员工通常可以将他们的直系亲属作为受抚养人添加到他们的医疗保险计划中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "ward"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "provider",
+            "sponsor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across general, financial, and legal contexts."
+}

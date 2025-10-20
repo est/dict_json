@@ -1,0 +1,117 @@
+{
+  "WORD":"leak",
+  "IPA":"/liːk/",
+  "CONJUGATES":"leaks | leaking | leaked (verb) | leaks (noun)",
+  "ETYMOLOGY":"From Middle English leken, possibly from Middle Dutch leken (to drip, leak), or from Old Norse leka (to drip, leak). Of Germanic origin.",
+  "SINCE":"Late 14th century (verb), early 16th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] leak\nleak [through/into]",
+      "POS":"v. intr.",
+      "POS_TIP":"intransitive verb: verb not requiring a direct object",
+      "TAGS":[
+        "core word",
+        "physical"
+      ],
+      "DEF_EN":"To allow liquid, gas, light, or electricity to escape or enter through a hole, fissure, or porous material.",
+      "DEF_ZH":"渗漏；漏出（液体、气体、光线或电荷）",
+      "SENT_EN":"The old faucet has been leaking for weeks and needs to be replaced.",
+      "SENT_ZH":"那个旧水龙头已经漏水好几周了，需要更换。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seep",
+            "drip",
+            "ooze"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contain",
+            "seal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leak [sth] (to [sb/media])",
+      "POS":"v. tr.",
+      "POS_TIP":"transitive verb: verb requiring a direct object",
+      "TAGS":[
+        "common",
+        "information"
+      ],
+      "DEF_EN":"To disclose secret information, intentionally or unintentionally, to the public or the media.",
+      "DEF_ZH":"（有意或无意地）泄露（秘密信息）",
+      "SENT_EN":"A source inside the government leaked the documents to the newspaper.",
+      "SENT_ZH":"一位政府内部消息人士向报纸泄露了这些文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disclose",
+            "divulge",
+            "reveal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "withhold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a leak\nfix a leak",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical",
+        "countable"
+      ],
+      "DEF_EN":"A hole, crack, or defect in a container, pipe, or barrier that allows fluid or gas to escape or enter.",
+      "DEF_ZH":"漏洞；渗漏处；（水、气体等的）漏失",
+      "SENT_EN":"They spent the morning searching for the source of the roof leak.",
+      "SENT_ZH":"他们花了一上午时间寻找屋顶漏水的地方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fissure",
+            "puncture",
+            "breach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a leak (of [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "information",
+        "countable"
+      ],
+      "DEF_EN":"The unauthorized disclosure of confidential information.",
+      "DEF_ZH":"（秘密信息的）泄露事件；泄密",
+      "SENT_EN":"The massive data leak caused the company's stock to drop sharply.",
+      "SENT_ZH":"这次大规模的数据泄露导致该公司的股价急剧下跌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disclosure",
+            "betrayal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

@@ -1,0 +1,109 @@
+{
+  "WORD":"cage",
+  "IPA":"/keɪdʒ/",
+  "CONJUGATES":"cages (n, pl) | cages (v, 3rd sg) | caged (v, pt, pp) | caging (v, ppr)",
+  "ETYMOLOGY":"From Old French *cagie* (cage), derived from Latin *cavea* (hollow place, cage, den), ultimately related to *cavus* (hollow).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A structure of bars or wires in which birds or other animals are kept for confinement or display.",
+      "DEF_ZH":"用于限制或展示鸟类或其他动物的由金属条或铁丝构成的结构；笼子。",
+      "SENT_EN":"The parrot flew around happily inside its large cage.",
+      "SENT_ZH":"鹦鹉在它的大笼子里开心地飞来飞去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coop",
+            "pen",
+            "hutch",
+            "enclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "metaphorical",
+        "common"
+      ],
+      "DEF_EN":"A confining or restrictive environment; a small prison cell.",
+      "DEF_ZH":"限制性或束缚性的环境；小囚室，拘留所。",
+      "SENT_EN":"He felt trapped in the corporate cage of his desk job.",
+      "SENT_ZH":"他感觉自己被困在了办公桌工作的企业牢笼中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cell",
+            "prison",
+            "bondage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cage [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To confine or imprison an animal or person in a cage or similar restrictive place.",
+      "DEF_ZH":"将动物或人关在笼子或类似限制性的地方；囚禁。",
+      "SENT_EN":"The zoo keepers had to cage the new leopard before feeding time.",
+      "SENT_ZH":"动物园管理员不得不在喂食时间前将新的豹子关进笼子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confine",
+            "imprison",
+            "trap"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "free",
+            "release"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "specific"
+      ],
+      "DEF_EN":"A specialized structure or framework used in various technical fields, such as the goal area in ice hockey or a lift used in mining shafts.",
+      "DEF_ZH":"用于各种技术领域的专业结构或框架，例如冰球中的球门区域，或采矿竖井中使用的升降梯。",
+      "SENT_EN":"The final shot hit the post and bounced away from the cage.",
+      "SENT_ZH":"最后一击击中了门柱，弹离了球门（笼子）。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rib cage",
+            "goal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, common in conversation and literature."
+}

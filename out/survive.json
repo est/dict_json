@@ -1,0 +1,85 @@
+{
+  "WORD":"survive",
+  "IPA":"/sərˈvaɪv/",
+  "CONJUGATES":"survives | surviving | survived",
+  "ETYMOLOGY":"From Old French sourvivre (sur- 'over, beyond' + vivre 'to live'), from Latin supervivere.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"survive [sb] [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To remain alive after a dangerous event or difficult situation.",
+      "DEF_ZH":"在危险事件或困难处境后仍存活下来；幸存。",
+      "SENT_EN":"Only a few passengers survived the plane crash.",
+      "SENT_ZH":"只有少数乘客在这次空难中幸存下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "live through",
+            "come through",
+            "pull through"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "perish",
+            "die"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"survive [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"To continue to live after the death of someone else, especially a relative or partner.",
+      "DEF_ZH":"比...活得久；（在某人死后）尚存（亲属等）。",
+      "SENT_EN":"She is survived by her two daughters and four grandchildren.",
+      "SENT_ZH":"在她去世后，留下了她的两个女儿和四个孙辈。",
+      "RELATED":[
+        {
+          "T":"derivatives",
+          "V":[
+            "survivor",
+            "survival"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"survive [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To continue to exist or remain in effect after a period of time or in spite of difficulties.",
+      "DEF_ZH":"（事物）持续存在；经受住（困难或时间）。",
+      "SENT_EN":"The company managed to survive the economic recession.",
+      "SENT_ZH":"这家公司设法度过了经济衰退。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endure",
+            "persist",
+            "withstand"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in news and everyday conversation."
+}

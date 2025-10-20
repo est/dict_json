@@ -1,0 +1,80 @@
+{
+  "WORD":"appendix",
+  "IPA":"/əˈpɛndɪks/",
+  "CONJUGATES":"appendices | appendixes",
+  "ETYMOLOGY":"From Latin appendix (literally 'something attached'), derived from appendere (ad- 'to' + pendere 'hang')",
+  "SINCE":"circa 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (to a book/document)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "writing",
+        "academic"
+      ],
+      "DEF_EN":"Supplementary material or explanatory matter added at the end of a book, document, or legal agreement.",
+      "DEF_ZH":"附录；书籍或文件末尾附加的补充材料。",
+      "SENT_EN":"The charts and graphs supporting the findings are located in the appendix.",
+      "SENT_ZH":"支持这些发现的图表位于附录中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supplement",
+            "addendum",
+            "annex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (vermiform) appendix",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "anatomy",
+        "medical"
+      ],
+      "DEF_EN":"A small, tube-shaped sac attached to the large intestine in the lower right abdomen, having no known digestive function in humans.",
+      "DEF_ZH":"阑尾；附于盲肠末端的小管状器官。",
+      "SENT_EN":"He felt sharp pain and was diagnosed with an inflamed appendix.",
+      "SENT_ZH":"他感到剧烈的疼痛，被诊断为阑尾发炎。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "appendicitis",
+            "appendectomy",
+            "cecum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an appendix to [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "technical"
+      ],
+      "DEF_EN":"A general term for an appendage or an attached part.",
+      "DEF_ZH":"附属物；任何附加或增添的东西。",
+      "SENT_EN":"The feature was considered an aesthetic appendix rather than a functional component.",
+      "SENT_ZH":"该特征被认为是一种美学附属物，而非功能性组件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appendage",
+            "outgrowth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical (Medical)"
+}

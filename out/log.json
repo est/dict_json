@@ -1,0 +1,173 @@
+{
+  "WORD":"log",
+  "IPA":"/lɒɡ/",
+  "CONJUGATES":"logs (n. pl.) | logs (v. 3rd pers. sing.) | logged (v. past tense, past participle) | logging (v. present participle)",
+  "ETYMOLOGY":"From Middle English 'logge' (c. 1390), probably of Germanic origin, akin to Old Norse 'lag' (felled tree). The sense of 'record' (verb and noun) is a shortening of 'logbook' (mid-17th century), which originally referred to a book for recording a ship's speed measured by a wooden 'log' thrown overboard.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a log\nlogs",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A portion of the trunk or a large branch of a tree that has been cut off.",
+      "DEF_ZH":"一段被砍下来的树干或大树枝。",
+      "SENT_EN":"We gathered some logs to build a campfire.",
+      "SENT_ZH":"我们收集了一些木头来生篝火。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "branch",
+            "timber",
+            "trunk",
+            "lumber"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a log of [sth]\nlogs",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A systematic record of events or observations, especially one kept by a ship during a voyage, by an aircraft on a flight, or by a computer system.",
+      "DEF_ZH":"事件或观察的系统记录，尤指航海日志、飞行日志或计算机系统记录。",
+      "SENT_EN":"The pilot meticulously kept a log of all flights.",
+      "SENT_ZH":"飞行员一丝不苟地记录了所有航班的飞行日志。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "record",
+            "journal",
+            "diary",
+            "register"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"log [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To make a systematic record of (events or observations).",
+      "DEF_ZH":"系统地记录（事件或观察）。",
+      "SENT_EN":"The security camera logs every entry and exit.",
+      "SENT_ZH":"安全摄像头记录了每一次进出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "record",
+            "register",
+            "document",
+            "enter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"log in\nlog out | log on | log off",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb followed by a preposition (often forms a phrasal verb)",
+      "TAGS":[
+        "common",
+        "computing",
+        "idiomatic"
+      ],
+      "DEF_EN":"To gain or relinquish access to a computer system or network by entering or exiting a session. Often used with 'in', 'out', 'on', or 'off'.",
+      "DEF_ZH":"通过进入或退出会话来获得或放弃对计算机系统或网络的访问。常与“in”、“out”、“on”或“off”连用。",
+      "SENT_EN":"Don't forget to log out of your account when you're done.",
+      "SENT_ZH":"完成后别忘了从你的账户注销。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "login",
+            "logout",
+            "logon",
+            "logoff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"log [sth] (e.g., miles, hours)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To achieve or cover a particular distance or amount of time.",
+      "DEF_ZH":"达到或完成特定的距离或时间量。",
+      "SENT_EN":"The long-distance runner has logged thousands of miles this year.",
+      "SENT_ZH":"这位长跑运动员今年已跑了数千英里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accumulate",
+            "achieve",
+            "cover",
+            "record"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"saw logs",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "informal",
+        "idiomatic"
+      ],
+      "DEF_EN":"To snore loudly while sleeping.",
+      "DEF_ZH":"（非正式）睡觉时大声打鼾。",
+      "SENT_EN":"My partner was sawing logs all night, keeping me awake.",
+      "SENT_ZH":"我的伴侣整晚都在打鼾，吵得我睡不着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"log",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "abbreviation"
+      ],
+      "DEF_EN":"(informal, mathematics) A logarithm.",
+      "DEF_ZH":"（非正式，数学）对数。",
+      "SENT_EN":"Can you calculate the log base 10 of 100?",
+      "SENT_ZH":"你能计算100的常用对数吗？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "logarithm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Informal, Computing"
+}

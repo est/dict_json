@@ -1,0 +1,100 @@
+{
+  "WORD":"delay",
+  "IPA":"/dɪˈleɪ/",
+  "CONJUGATES":"delays | delayed | delaying (V) | delays (N)",
+  "ETYMOLOGY":"From Middle English delaier, from Old French delaier, equivalent to de- (away, off) + laier (to leave, let).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"delay [sth]\ndelay [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone or something late or slow down the progress of something.",
+      "DEF_ZH":"推迟；耽搁；使（某人或某事）迟缓。",
+      "SENT_EN":"Traffic congestion delayed the delivery of the goods by several hours.",
+      "SENT_ZH":"交通堵塞使货物交付延迟了几个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "postpone",
+            "defer",
+            "hold up",
+            "detain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expedite",
+            "hasten",
+            "accelerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"delay (in doing [sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To put off action until a later time; to wait or be slow in doing something.",
+      "DEF_ZH":"拖延；迟延行动。",
+      "SENT_EN":"If you delay any further, we might lose the opportunity.",
+      "SENT_ZH":"如果你再拖延下去，我们可能会失去这个机会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stall",
+            "lag",
+            "linger"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "procrastinate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a delay (in [sth])",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A period of time when something is held up or postponed; the amount of time by which something is late.",
+      "DEF_ZH":"延误；耽搁；延迟的时间或时段。",
+      "SENT_EN":"There was a two-hour delay due to adverse weather conditions.",
+      "SENT_ZH":"由于恶劣的天气条件，出现了两小时的延误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "holdup",
+            "postponement",
+            "wait"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "latency"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage (travel, business, logistics)"
+}

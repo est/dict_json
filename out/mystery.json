@@ -1,0 +1,90 @@
+{
+  "WORD":"mystery",
+  "IPA":"/ˈmɪstəri/",
+  "CONJUGATES":"mysteries",
+  "ETYMOLOGY":"From Old French mystere (12c.), from Latin mysterium 'secret rite, secret worship; a secret thing,' from Greek mystērion 'secret rite or doctrine' (plural mystēria), from mystēs 'one initiated' (into religious rites) from myein 'to close (the eyes or mouth)'.",
+  "SINCE":"c. 1300 (religious sense), late 14th century (general sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a mystery",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Something that is difficult or impossible to understand, explain, or identify.",
+      "DEF_ZH":"难以理解、解释或辨认的事物；秘密；谜团。",
+      "SENT_EN":"The origin of the universe remains a profound mystery to scientists.",
+      "SENT_ZH":"宇宙的起源对科学家来说仍然是一个深奥的谜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enigma",
+            "riddle",
+            "puzzle",
+            "conundrum"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "solution",
+            "explanation",
+            "clarity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mystery [novel/film/story]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "genre"
+      ],
+      "DEF_EN":"A story, novel, or play involving a crime or other event that needs to be solved.",
+      "DEF_ZH":"侦探小说；悬疑片；神秘故事。",
+      "SENT_EN":"She spent the weekend engrossed in a thrilling mystery novel.",
+      "SENT_ZH":"她整个周末都沉浸在一本扣人心弦的侦探小说中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "thriller",
+            "detective fiction",
+            "whodunit",
+            "crime fiction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the mysteries [of faith/religion]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "formal",
+        "religious",
+        "less common"
+      ],
+      "DEF_EN":"A religious truth that is difficult or impossible to comprehend by reason alone and is believed to be divinely revealed.",
+      "DEF_ZH":"（宗教）奥秘；圣迹；秘仪。",
+      "SENT_EN":"The ancient rituals were designed to reveal the mysteries of the divine to the initiates.",
+      "SENT_ZH":"这些古老的仪式旨在向受启者揭示神圣的奥秘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secret",
+            "dogma",
+            "rite"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally used in everyday conversation and literature; the third meaning is more formal or specific to religious contexts."
+}

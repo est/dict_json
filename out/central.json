@@ -1,0 +1,98 @@
+{
+  "WORD":"central",
+  "IPA":"/'sentrəl/",
+  "CONJUGATES":"centrally (adv.) | centrality (n.)",
+  "ETYMOLOGY":"From Late Latin centralis, from Latin centrum ('center', 'midpoint'), derived from Greek kentron.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"central [location]\ncentral [area]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "location"
+      ],
+      "DEF_EN":"Situated in the middle or main part of something.",
+      "DEF_ZH":"位于中心或中间部分的。",
+      "SENT_EN":"The new restaurant is located in the central district of the city.",
+      "SENT_ZH":"这家新餐厅位于城市的中心区域。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "middle",
+            "midmost",
+            "inner",
+            "focal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "peripheral",
+            "outer",
+            "edge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"central [issue]\ncentral [role]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "crucial",
+        "figurative"
+      ],
+      "DEF_EN":"Of main or primary importance; essential or fundamental.",
+      "DEF_ZH":"主要的；核心的；至关重要的。",
+      "SENT_EN":"The witness's testimony was central to the outcome of the trial.",
+      "SENT_ZH":"证人的证词对审判结果至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "key",
+            "vital",
+            "fundamental",
+            "essential"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "minor",
+            "trivial",
+            "secondary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"central [government]\ncentral [authority]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "politics",
+        "administration"
+      ],
+      "DEF_EN":"Relating to the system of control or authority governing an entire state or organization from one point.",
+      "DEF_ZH":"中央的；由一个主要机构或权力集中控制的（指政府、系统等）。",
+      "SENT_EN":"The central government issued new regulations on environmental protection.",
+      "SENT_ZH":"中央政府发布了有关环境保护的新规定。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "federal",
+            "national",
+            "centralized"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general use, academia, and administration."
+}

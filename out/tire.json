@@ -1,0 +1,98 @@
+{
+  "WORD":"tire",
+  "IPA":"/taɪər/",
+  "CONJUGATES":"tires | tired | tiring",
+  "ETYMOLOGY":"For the verb meaning 'to exhaust or become weary': From Old English *tēorian* 'to fail, cease, become weary, vex'.\nFor the noun meaning 'wheel covering': From Old French *tire*, *atire* 'dress, array, equipment', from *atirier* 'to equip, dress'.",
+  "SINCE":"Verb: Mid-13th century; Noun: Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"tire [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone or something feel in need of rest or sleep; to exhaust the physical or mental strength of.",
+      "DEF_ZH":"使某人或某物感到需要休息或睡觉；耗尽体力或精神。",
+      "SENT_EN":"The long hike completely tired us out.",
+      "SENT_ZH":"这次长途徒步把我们彻底累垮了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exhaust",
+            "fatigue",
+            "weary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "energize",
+            "invigorate",
+            "refresh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tire",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To become weary or fatigued; to lose strength or interest.",
+      "DEF_ZH":"变得疲倦或疲劳；失去体力或兴趣。",
+      "SENT_EN":"He tires easily after a full day of work.",
+      "SENT_ZH":"他工作一整天后很容易疲劳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fatigue",
+            "weary",
+            "flag"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "recover",
+            "freshen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tire",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "automotive",
+        "American English"
+      ],
+      "DEF_EN":"A rubber covering, usually inflatable, placed around the rim of a wheel to provide cushioning, grip, and traction with the road (used in American English; in British English, the spelling is 'tyre').",
+      "DEF_ZH":"（通常为充气的）橡胶罩，安装在车轮的轮辋上，以提供缓冲、抓地力并增加与路面的牵引力（美式英语用法；英式英语拼写为 'tyre'）。",
+      "SENT_EN":"My car needs two new front tires.",
+      "SENT_ZH":"我的车需要两个新前轮胎。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tyre",
+            "wheel",
+            "rim",
+            "tread",
+            "puncture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

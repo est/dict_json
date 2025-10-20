@@ -1,0 +1,95 @@
+{
+  "WORD":"indirect",
+  "IPA":"/ˌɪndɪˈrɛkt/",
+  "CONJUGATES":"indirectly | indirectness",
+  "ETYMOLOGY":"From Latin *in-* (not) combined with *directus* (straight, immediate, direct). First appeared in English as a prefixed form of 'direct'.",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] indirect",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not resulting immediately and obviously from an action or cause; circuitous or roundabout (referring to means, path, or result).",
+      "DEF_ZH":"不直接的；迂回的；间接的 (指路径、方法或结果)。",
+      "SENT_EN":"The economic sanctions had an indirect but severe impact on the civilian population.",
+      "SENT_ZH":"经济制裁对平民产生了间接但严重的冲击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "circuitous",
+            "roundabout",
+            "oblique",
+            "mediate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "direct",
+            "immediate",
+            "straight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] indirect (communication/speech)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "communication"
+      ],
+      "DEF_EN":"Expressed in a subtle or hint-like way rather than explicitly or straightforwardly.",
+      "DEF_ZH":"委婉的；暗示的；不坦率的 (指言语或表达方式)。",
+      "SENT_EN":"She used an indirect way of asking for a raise by talking about her increased workload.",
+      "SENT_ZH":"她通过谈论自己增加的工作量来委婉地要求加薪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "veiled",
+            "implicit",
+            "evasive",
+            "suggested"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "frank",
+            "explicit",
+            "unambiguous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] indirect (grammar)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "grammar"
+      ],
+      "DEF_EN":"(Grammar) Relating to reported speech or objects that are not the primary focus of the action.",
+      "DEF_ZH":"（语法）间接的，指间接引语或间接宾语。",
+      "SENT_EN":"The sentence contained an indirect quotation.",
+      "SENT_ZH":"这个句子包含一个间接引语。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "indirect object",
+            "indirect speech"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

@@ -1,0 +1,94 @@
+{
+  "WORD":"gang",
+  "IPA":"/ɡæŋ/",
+  "CONJUGATES":"gangs | ganged | ganging",
+  "ETYMOLOGY":"From Middle English, derived from Old Norse 'gangr' or Old English 'gang,' originally meaning 'a going, journey, path, troop, or company.' The meaning 'band of criminals' developed in the 17th century.",
+  "SINCE":"c. 12th Century (original meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "derogatory"
+      ],
+      "DEF_EN":"An organized group of criminals or violent young people.",
+      "DEF_ZH":"有组织的罪犯或不良青少年的团伙、帮派。",
+      "SENT_EN":"The police launched an investigation into the local drug trafficking gang.",
+      "SENT_ZH":"警方对当地贩毒团伙展开了调查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mob",
+            "syndicate",
+            "cartel",
+            "crew"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "informal",
+        "common"
+      ],
+      "DEF_EN":"A close and informal group of friends or associates who regularly meet.",
+      "DEF_ZH":"一群经常在一起的朋友或伙伴；圈子。",
+      "SENT_EN":"The whole gang from college is meeting up this weekend.",
+      "SENT_ZH":"大学时的整个朋友圈这周末要聚会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clique",
+            "crowd",
+            "bunch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gang up on [sb]",
+      "POS":"phr. v",
+      "POS_TIP":"Phrasal Verb",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To form a group to attack, intimidate, or collectively oppose someone.",
+      "DEF_ZH":"结伙攻击、欺负或围攻（某人）。",
+      "SENT_EN":"It felt unfair when everyone started ganging up on him during the debate.",
+      "SENT_ZH":"当每个人都在辩论中开始围攻他时，这让人感觉不公平。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bully",
+            "conspire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of workers/tools)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "archaic"
+      ],
+      "DEF_EN":"A company or body of working people, often performing physical labor (e.g., a work gang or railway gang).",
+      "DEF_ZH":"一组工人或一组相互关联的工具/装置（多指体力劳动者或专业术语）。",
+      "SENT_EN":"The road repair gang finished their work ahead of schedule.",
+      "SENT_ZH":"修路工人小组提前完成了他们的工作。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use, ranges from highly derogatory (criminal meaning) to casual (friend group meaning)."
+}

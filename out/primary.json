@@ -1,0 +1,111 @@
+{
+  "WORD":"primary",
+  "IPA":"/praɪˈmɛri/",
+  "CONJUGATES":"primaries (n. plural) | primarier (adj. comparative) | primariest (adj. superlative)",
+  "ETYMOLOGY":"From Latin primarius ('of the first rank'), derived from primus ('first').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is primary",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Of chief importance; principal; essential.",
+      "DEF_ZH":"最重要的；主要的；首要的。",
+      "SENT_EN":"The primary goal of the organization is poverty reduction.",
+      "SENT_ZH":"该组织的首要目标是减贫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "main",
+            "principal",
+            "chief",
+            "essential"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "secondary",
+            "minor",
+            "subordinate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"primary [sth] (e.g., education, stage)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "education"
+      ],
+      "DEF_EN":"First or earliest in time, development, or sequence; relating to the initial stage.",
+      "DEF_ZH":"最初的；初级的 (指顺序或阶段的开始)。",
+      "SENT_EN":"Children begin their formal schooling with primary education.",
+      "SENT_ZH":"孩子们通过初等教育开始他们的正规学校教育。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "initial",
+            "basic",
+            "elementary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"primary [sth] (e.g., source, data, color)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "academic"
+      ],
+      "DEF_EN":"Relating to the source, origin, or fundamental elements; not derived from something else.",
+      "DEF_ZH":"原始的；最初级的；直接来源的 (指未经加工或未引申的)。",
+      "SENT_EN":"Historians prefer to consult primary sources whenever possible.",
+      "SENT_ZH":"历史学家们倾向于尽可能地查阅原始资料。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "original",
+            "fundamental",
+            "secondary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a primary",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "politics",
+        "US"
+      ],
+      "DEF_EN":"A preliminary election in which voters nominate candidates for a principal election or convention.",
+      "DEF_ZH":"初选 (美国政治中，选民提名候选人参加主要选举的预选)。",
+      "SENT_EN":"The candidate won the majority of votes in the state's primary.",
+      "SENT_ZH":"这位候选人在该州的初选中赢得了多数选票。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "caucus",
+            "election",
+            "referendum"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Academic, Political (US)"
+}

@@ -1,0 +1,103 @@
+{
+  "WORD":"reasonable",
+  "IPA":"/ˌriːzənəbəl/",
+  "CONJUGATES":"more reasonable | most reasonable | reasonably | reasonableness",
+  "ETYMOLOGY":"From Middle English resonable, from Old French raisonnable, derived from Latin rationabilis, ultimately from ratio ('reckoning, reason'). Formed by combining 'reason' and the suffix '-able'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] [sb] is reasonable",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Possessing sound judgment; fair, sensible, and not extreme.",
+      "DEF_ZH":"具有健全的判断力；公平、明智、不极端的；合情合理的。",
+      "SENT_EN":"It was a reasonable decision given the limitations of the budget.",
+      "SENT_ZH":"考虑到预算的限制，这是一个合理的决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sensible",
+            "logical",
+            "fair",
+            "rational"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unreasonable",
+            "illogical",
+            "irrational"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[price] [amount] is reasonable",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "commerce",
+        "common"
+      ],
+      "DEF_EN":"Not too expensive; moderate in cost.",
+      "DEF_ZH":"价格适中；不太昂贵的；负担得起的。",
+      "SENT_EN":"They offer quality services at a reasonable price.",
+      "SENT_ZH":"他们以合理的价格提供优质的服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "affordable",
+            "moderate",
+            "cheap (informal)"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exorbitant",
+            "expensive",
+            "outrageous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reasonable [degree] [amount]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"Sufficient or appropriate in the circumstances; not excessive.",
+      "DEF_ZH":"在特定情况下足够或适当的；不过度的（尤指法律用语）。",
+      "SENT_EN":"The police used a reasonable amount of force to subdue the suspect.",
+      "SENT_ZH":"警察使用了合理的武力来制服嫌疑人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adequate",
+            "sufficient",
+            "justifiable"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reasonable doubt",
+            "reasonable force"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

@@ -1,0 +1,96 @@
+{
+  "WORD":"defend",
+  "IPA":"/dɪˈfend/",
+  "CONJUGATES":"defends | defending | defended",
+  "ETYMOLOGY":"From Old French defendre, derived from Latin dēfendere (dē- 'away from' + fendere 'to strike, ward off').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"defend [sb]\ndefend [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "physical"
+      ],
+      "DEF_EN":"To protect someone or something from attack, danger, or threat.",
+      "DEF_ZH":"保护；保卫；防御。",
+      "SENT_EN":"The military was mobilized to defend the national border.",
+      "SENT_ZH":"军队被动员起来保卫国界。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guard",
+            "protect",
+            "secure",
+            "fortify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "attack",
+            "assault",
+            "betray"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"defend [sth] (against [sth])\ndefend [sb]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (takes a direct object)",
+      "TAGS":[
+        "argumentative",
+        "legal"
+      ],
+      "DEF_EN":"To speak, write, or argue in support of something or someone who is being criticized or accused.",
+      "DEF_ZH":"辩护；为…辩解；为…作证。",
+      "SENT_EN":"The journalist defended her sources when questioned by the authorities.",
+      "SENT_ZH":"这位记者在受到当局质询时为她的消息来源辩护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "justify",
+            "vindicate",
+            "champion",
+            "uphold"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "criticize",
+            "condemn",
+            "accuse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"defend [sth] (title/goal)\ndefend (position)",
+      "POS":"vtr | vitr",
+      "POS_TIP":"verb transitive or intransitive",
+      "TAGS":[
+        "sports"
+      ],
+      "DEF_EN":"In sports, to attempt to retain a championship title or to prevent the opposing team from scoring.",
+      "DEF_ZH":"卫冕（冠军头衔）；防守（球门或球场区域）。",
+      "SENT_EN":"The home team struggled to defend their lead in the final minutes.",
+      "SENT_ZH":"主队在最后几分钟努力防守，以保持领先地位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retain",
+            "hold",
+            "resist"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common"
+}

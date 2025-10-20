@@ -1,0 +1,88 @@
+{
+  "WORD":"communicate",
+  "IPA":"/kəˈmjuːnɪkeɪt/",
+  "CONJUGATES":"communicates | communicating | communicated",
+  "ETYMOLOGY":"From Latin communicare ('to share', 'to impart', 'to join'), from communis ('common', 'public').",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"communicate (with [sb/sth])\ncommunicate [sth] (to [sb])",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To exchange information, ideas, or feelings, often through speaking, writing, or technology.",
+      "DEF_ZH":"交换信息、想法或感情，通常通过说话、写作或技术。",
+      "SENT_EN":"It is vital for team members to communicate effectively with each other.",
+      "SENT_ZH":"团队成员之间有效地交流至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "convey",
+            "impart",
+            "transmit",
+            "interact",
+            "speak"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "communication",
+            "communicator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"communicate [disease] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "medical"
+      ],
+      "DEF_EN":"To transmit or pass on a disease or infection.",
+      "DEF_ZH":"传播或传染疾病。",
+      "SENT_EN":"The doctor warned that the infection could communicate quickly in crowded environments.",
+      "SENT_ZH":"医生警告说，这种感染在拥挤的环境中可能会迅速传播。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transmit",
+            "spread",
+            "infect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] communicate with [sth]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "formal",
+        "architecture"
+      ],
+      "DEF_EN":"(Of rooms, passages, or vessels) to be connected with or open into each other.",
+      "DEF_ZH":"（指房间、通道或容器）相互连接或相通。",
+      "SENT_EN":"The two labs communicate through a sliding glass door.",
+      "SENT_ZH":"这两个实验室通过一扇玻璃推拉门相通。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "adjoin",
+            "link"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

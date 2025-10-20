@@ -1,0 +1,113 @@
+{
+  "WORD":"refresh",
+  "IPA":"/rɪˈfrɛʃ/",
+  "CONJUGATES":"refreshes | refreshing | refreshed",
+  "ETYMOLOGY":"From Old French refreschir (re- 'again' + fresch 'fresh'), equivalent to re- + fresh. Ultimately related to Germanic roots.",
+  "SINCE":"c. 1300 (originally used in the sense of restoring vigor or coolness)",
+  "MEANINGS":[
+    {
+      "PATTERN":"refresh [sb]\nrefresh [oneself]",
+      "POS":"vtr | v refl",
+      "POS_TIP":"vtr (transitive verb) | v refl (reflexive verb)",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical state"
+      ],
+      "DEF_EN":"To give new strength or energy to (someone or oneself); revive or invigorate.",
+      "DEF_ZH":"使（某人）恢复精力；提神；使复苏。",
+      "SENT_EN":"A short walk and a glass of cold water helped refresh the tired hikers.",
+      "SENT_ZH":"短暂的散步和一杯冷水帮助恢复了疲惫徒步者的精力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rejuvenate",
+            "revive",
+            "reinvigorate",
+            "perk up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fatigue",
+            "exhaust",
+            "drain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"refresh [sth]\nrefresh",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr (transitive verb) | vi (intransitive verb)",
+      "TAGS":[
+        "computing",
+        "technical",
+        "very common"
+      ],
+      "DEF_EN":"In computing, to reload or update the contents of a display, especially a web browser page, to show the most recent data.",
+      "DEF_ZH":"（计算机）刷新（页面或数据）；重新载入以显示最新内容。",
+      "SENT_EN":"If the data looks outdated, try to refresh the page.",
+      "SENT_ZH":"如果数据看起来过时了，试着刷新一下页面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reload",
+            "update",
+            "reboot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"refresh [sb's] memory",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb)",
+      "TAGS":[
+        "idiomatic",
+        "mental state"
+      ],
+      "DEF_EN":"To remind someone of facts or events they had forgotten or vaguely remembered.",
+      "DEF_ZH":"唤醒（某人的）记忆；提醒。",
+      "SENT_EN":"I need to look over the old notes to refresh my memory before the meeting.",
+      "SENT_ZH":"开会前我需要查看一下旧笔记，以唤醒我的记忆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recall",
+            "remind",
+            "jog"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"refresh [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb)",
+      "TAGS":[
+        "less common",
+        "action"
+      ],
+      "DEF_EN":"To make something clean, cool, or new again, often air or a physical space.",
+      "DEF_ZH":"使（空气、地方等）焕然一新；使冷却。",
+      "SENT_EN":"Opening the windows helps refresh the air inside the kitchen.",
+      "SENT_ZH":"打开窗户有助于让厨房里的空气清新。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cool",
+            "freshen",
+            "ventilate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

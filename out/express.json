@@ -1,0 +1,142 @@
+{
+  "WORD":"express",
+  "IPA":"/ɪkˈsprɛs/",
+  "CONJUGATES":"expresses | expressing | expressed",
+  "ETYMOLOGY":"From Latin exprimere (ex- 'out' + premere 'to press'), meaning 'to press out, utter, represent'. The past participle is expressus.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"express [sth]\nexpress [oneself]",
+      "POS":"vtr | vi",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "communication"
+      ],
+      "DEF_EN":"To convey (a thought, feeling, or idea) in words, gestures, or actions; to communicate.",
+      "DEF_ZH":"表达；陈述；表示（情感、思想或想法）。",
+      "SENT_EN":"It is often difficult to express complex emotions adequately.",
+      "SENT_ZH":"充分地表达复杂的情感通常是很困难的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "articulate",
+            "voice",
+            "communicate",
+            "convey"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "suppress",
+            "hide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"express [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "formal",
+        "literal"
+      ],
+      "DEF_EN":"To squeeze out (liquid or a substance); to extract by pressure.",
+      "DEF_ZH":"榨出；挤压出（液体或物质）。",
+      "SENT_EN":"The chemist used a machine to express the oil from the seeds.",
+      "SENT_ZH":"化学家使用机器从种子中榨取油脂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "squeeze",
+            "extract",
+            "wring"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"express [adj] (transport/delivery)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "logistics"
+      ],
+      "DEF_EN":"Operating at high speed or designated for fast transit with few or no stops.",
+      "DEF_ZH":"特快的；快速的；直达的（指交通工具或服务）。",
+      "SENT_EN":"We need to take the express lane to avoid traffic.",
+      "SENT_ZH":"我们需要走快速通道来避开交通堵塞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rapid",
+            "swift",
+            "non-stop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"express [adj] (statement/instruction)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"Clearly and unmistakably stated; explicit and definite.",
+      "DEF_ZH":"明确的；清楚表示的；直言不讳的。",
+      "SENT_EN":"The contract includes an express requirement that all materials must be locally sourced.",
+      "SENT_ZH":"合同中包含一项明确要求，即所有材料必须在本地采购。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "explicit",
+            "specific",
+            "unequivocal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "implied",
+            "vague",
+            "tacit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an express [n]",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "transportation",
+        "commerce"
+      ],
+      "DEF_EN":"A rapid delivery service, or a fast vehicle (like a train or bus) that makes few intermediate stops.",
+      "DEF_ZH":"特快列车；直达巴士；快件服务。",
+      "SENT_EN":"The package arrived yesterday via overnight express.",
+      "SENT_ZH":"包裹昨天通过隔夜特快送达了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "courier",
+            "freight",
+            "bullet train"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, business, and transportation terminology."
+}

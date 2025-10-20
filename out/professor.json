@@ -1,0 +1,79 @@
+{
+  "WORD":"professor",
+  "IPA":"/prəˈfɛsər/",
+  "CONJUGATES":"professors",
+  "ETYMOLOGY":"From Middle English professour, via Old French professeur, ultimately from Latin professor ('one who professes, public teacher'), from profitēri ('to profess, declare').",
+  "SINCE":"Mid 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "academic",
+        "common"
+      ],
+      "DEF_EN":"A teacher of the highest rank in a department of a university or college, often holding an established chair.",
+      "DEF_ZH":"大学或学院中部门级别最高的教师或学者，通常持有终身教职或特定教席。",
+      "SENT_EN":"She was recently appointed full professor of chemistry at Oxford.",
+      "SENT_ZH":"她最近被任命为牛津大学化学系的正式教授。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "academic",
+            "lecturer",
+            "faculty member"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "associate professor",
+            "assistant professor",
+            "adjunct professor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Professor [Name]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "title",
+        "usage",
+        "common"
+      ],
+      "DEF_EN":"A title used to address or refer to any university teacher, regardless of their official academic rank (especially common in the US).",
+      "DEF_ZH":"用于称呼任何大学教师的头衔，无论其正式学术级别如何（尤其在美国常见）。",
+      "SENT_EN":"Excuse me, Professor Johnson, I have a question about the syllabus.",
+      "SENT_ZH":"请问，约翰逊教授，我有一个关于教学大纲的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "Dr.",
+            "Sir"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "old word",
+        "specialized"
+      ],
+      "DEF_EN":"A person who publicly declares or teaches a specific art, sport, or skill, often outside of formal academia.",
+      "DEF_ZH":"公开传授某种艺术、运动或技能的人（现在较少用于正式大学体系外的人）。",
+      "SENT_EN":"He was known throughout the town as the Professor of Magic and illusions.",
+      "SENT_ZH":"他在全镇被称为魔术和幻术教授。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Academic and common usage"
+}

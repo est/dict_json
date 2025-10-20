@@ -1,0 +1,110 @@
+{
+  "WORD":"repeat",
+  "IPA":"/rɪˈpiːt/",
+  "CONJUGATES":"repeats | repeating | repeated",
+  "ETYMOLOGY":"From Middle English repēten, from Old French repeter, derived from Latin repetere (re- 'back, again' + petere 'to seek, demand').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"repeat [sth]\nrepeat [oneself]",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr: transitive verb (requires a direct object) | vint: intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To say, state, or perform an action again; to do something identical to what was done previously.",
+      "DEF_ZH":"重复；重说；重做。",
+      "SENT_EN":"Could you please repeat the last sentence? I didn't hear you clearly.",
+      "SENT_ZH":"您能重复一下刚才那句话吗？我没听清楚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reiterate",
+            "restate",
+            "reproduce",
+            "do over"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stop",
+            "halt",
+            "cease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] repeat [itself]",
+      "POS":"vint",
+      "POS_TIP":"vint: intransitive verb",
+      "TAGS":[
+        "general usage",
+        "recurrence"
+      ],
+      "DEF_EN":"To happen or occur again, usually referencing events or historical patterns.",
+      "DEF_ZH":"再发生；重演；重现。",
+      "SENT_EN":"We hope the mistakes of the past will not repeat themselves.",
+      "SENT_ZH":"我们希望过去的错误不会重演。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recur",
+            "happen again",
+            "come back"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"repeat [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "media",
+        "broadcast"
+      ],
+      "DEF_EN":"To broadcast a television or radio program again.",
+      "DEF_ZH":"重播；重映（节目或电影）。",
+      "SENT_EN":"The channel often repeats old comedy shows late at night.",
+      "SENT_ZH":"这个频道经常在深夜重播旧的喜剧节目。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rerun",
+            "rebroadcast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a repeat of [sth]",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "noun form",
+        "common"
+      ],
+      "DEF_EN":"An item or event that is repeated, especially a broadcast program.",
+      "DEF_ZH":"重复；（尤指）重播节目。",
+      "SENT_EN":"That documentary was a repeat; I saw it last year.",
+      "SENT_ZH":"那部纪录片是重播的，我去年看过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rerun",
+            "encore",
+            "duplication"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

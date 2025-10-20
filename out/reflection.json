@@ -1,0 +1,102 @@
+{
+  "WORD":"reflection",
+  "IPA":"/rɪˈflɛkʃən/",
+  "CONJUGATES":"reflections",
+  "ETYMOLOGY":"From Medieval Latin reflexio (stem reflection-), derived from Latin reflectere ('to bend back'), from re- ('back') + flectere ('to bend').",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] reflection (of [sth])",
+      "POS":"nc | nu",
+      "POS_TIP":"countable noun | uncountable noun",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"An image seen in a mirror, water, or shiny surface; the visual representation of an object produced by reflected light.",
+      "DEF_ZH":"倒影；镜像；反光形成的像。",
+      "SENT_EN":"The smooth lake offered a perfect reflection of the surrounding mountains.",
+      "SENT_ZH":"平静的湖面完美地映出了周围群山的倒影。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "image",
+            "mirror image",
+            "likeness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reflection (on [sth])",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "Abstract",
+        "Core Word"
+      ],
+      "DEF_EN":"Serious thought or consideration about a subject, event, or experience.",
+      "DEF_ZH":"深思；沉思；反思。",
+      "SENT_EN":"After careful reflection, he decided to turn down the offer.",
+      "SENT_ZH":"经过深思熟虑，他决定拒绝这份邀约。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contemplation",
+            "meditation",
+            "deliberation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reflection (of [sth])",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Figurative",
+        "Formal"
+      ],
+      "DEF_EN":"Something that shows or represents the nature or quality of something else; an indication.",
+      "DEF_ZH":"体现；反映；写照。",
+      "SENT_EN":"The condition of the school library is a sad reflection of the lack of funding.",
+      "SENT_ZH":"学校图书馆的状况反映了资金缺乏的窘境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manifestation",
+            "evidence",
+            "indicator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reflection (of/by [sth])",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "Technical",
+        "Physics"
+      ],
+      "DEF_EN":"The phenomenon of light, heat, sound, or other waves being thrown back from a surface without passing through it.",
+      "DEF_ZH":"反射（光、热、声波等被表面弹回的现象）。",
+      "SENT_EN":"The reflection of sound waves caused a noticeable echo in the large hall.",
+      "SENT_ZH":"声波的反射在大厅内造成了明显的B回音。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "refraction",
+            "absorption",
+            "diffraction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, General"
+}

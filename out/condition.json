@@ -1,0 +1,128 @@
+{
+  "WORD":"condition",
+  "IPA":"/kənˈdɪʃən/",
+  "CONJUGATES":"conditions | conditioned | conditioning",
+  "ETYMOLOGY":"From Old French condicion, from Latin condiciōnem (nominative condiciō, 'status, agreement, premise'), ultimately related to con- ('together') and dicere ('to say, speak').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth/sb]'s condition",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state of something or someone with regard to its health, fitness, functioning, or appearance.",
+      "DEF_ZH":"状态；状况；健康或身体的特定状况。",
+      "SENT_EN":"The patient's condition stabilized overnight.",
+      "SENT_ZH":"病人的状况在一夜之间稳定了下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "state",
+            "status",
+            "shape",
+            "health"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a condition for [sth]\nunder the condition that [clause]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"A requirement or prerequisite that must be met before a specified action, contract, or agreement can take effect.",
+      "DEF_ZH":"条件；先决条件；必须满足的要求或条款。",
+      "SENT_EN":"The loan was granted on the condition that interest rates remain fixed.",
+      "SENT_ZH":"贷款是以利率保持固定为条件发放的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "requirement",
+            "prerequisite",
+            "stipulation",
+            "term"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"conditions",
+      "POS":"n. (plural)",
+      "POS_TIP":"noun (used in plural form)",
+      "TAGS":[
+        "common",
+        "environment"
+      ],
+      "DEF_EN":"The circumstances or factors affecting the way people live or work, or affecting the operation of something.",
+      "DEF_ZH":"环境；情况；外部因素或生活环境。",
+      "SENT_EN":"The extreme weather conditions made travel impossible.",
+      "SENT_ZH":"极端的天气条件使得出行变得不可能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "circumstances",
+            "environment",
+            "surroundings"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"condition [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common",
+        "cosmetic"
+      ],
+      "DEF_EN":"To bring something (such as hair, skin, or muscles) into a good or desired state of repair or fitness.",
+      "DEF_ZH":"使处于良好状态；保养；调节（如头发或皮肤）。",
+      "SENT_EN":"Regular training has conditioned her body for the marathon.",
+      "SENT_ZH":"定期的训练使她的身体为马拉松做好了准备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prepare",
+            "tone",
+            "treat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"condition [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "technical",
+        "psychology"
+      ],
+      "DEF_EN":"To train or influence a person or animal to behave or think in a particular way through repeated exposure or rewarding/punishing actions (often related to behavioral psychology).",
+      "DEF_ZH":"制约；训练；使习惯于（通过条件反射或重复接触来影响行为）。",
+      "SENT_EN":"The military conditions recruits to respond instantly to commands.",
+      "SENT_ZH":"军队训练新兵，使其对命令做出即时反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "train",
+            "habituate",
+            "discipline"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

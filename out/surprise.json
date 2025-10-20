@@ -1,0 +1,109 @@
+{
+  "WORD":"surprise",
+  "IPA":"/sərˈpraɪz/",
+  "CONJUGATES":"surprises | surprised | surprising",
+  "ETYMOLOGY":"From Old French surprendre (sur- 'over, above' + prendre 'to take'), meaning literally 'to seize unexpectedly' or 'to take over'.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"surprise [sb] / surprise [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To strike someone with astonishment or sudden wonder by presenting something unexpected.",
+      "DEF_ZH":"使（某人）感到惊讶；出乎意料。",
+      "SENT_EN":"Her excellent performance completely surprised the judges.",
+      "SENT_ZH":"她出色的表现完全让评委们感到惊讶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "astonish",
+            "amaze",
+            "startle",
+            "astound"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expect",
+            "predict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] feels surprise",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "emotion"
+      ],
+      "DEF_EN":"The feeling excited by something sudden, unexpected, or unusual.",
+      "DEF_ZH":"惊讶；惊奇；出人意料（之情）。",
+      "SENT_EN":"The audience gasped in surprise when the magician vanished.",
+      "SENT_ZH":"魔术师消失时，观众们惊讶地喘了口气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "astonishment",
+            "wonder",
+            "shock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"give [sb] a surprise",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Something that causes the feeling of astonishment because it was unexpected, often referring to a gift or an event.",
+      "DEF_ZH":"意外的事物；惊喜（通常指礼物或聚会）。",
+      "SENT_EN":"The small antique clock was a lovely surprise from her grandmother.",
+      "SENT_ZH":"那个小古董钟是她祖母送的一个可爱的惊喜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "treat",
+            "unexpected gift",
+            "bombshell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"surprise [sth/sb] (military/legal context)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "military"
+      ],
+      "DEF_EN":"To take, capture, or attack suddenly and without warning.",
+      "DEF_ZH":"突然袭击；出其不意地捕获。",
+      "SENT_EN":"The troops managed to surprise the enemy encampment at dawn.",
+      "SENT_ZH":"部队设法在黎明时突袭了敌军营地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ambush",
+            "raid",
+            "assault"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

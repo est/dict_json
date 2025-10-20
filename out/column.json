@@ -1,0 +1,105 @@
+{
+  "WORD":"column",
+  "IPA":"/ˈkɑːləm/",
+  "CONJUGATES":"columns | columnist | columnar",
+  "ETYMOLOGY":"From Middle English columpne, from Old French columpne, from Latin columna 'pillar, post'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (architecture)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "architecture",
+        "engineering"
+      ],
+      "DEF_EN":"A long, rigid, vertical support structure, typically cylindrical, designed to bear weight from above; a pillar.",
+      "DEF_ZH":"柱子；圆柱；支柱 (建筑物中垂直的、通常呈圆柱形的承重结构)。",
+      "SENT_EN":"The temple façade featured six massive Doric columns.",
+      "SENT_ZH":"这座庙宇的正面有六根巨大的多立克柱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pillar",
+            "post",
+            "support",
+            "shaft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"column of [sth] (data/typography)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "typography",
+        "computing"
+      ],
+      "DEF_EN":"A vertical division of a page or text; or a vertical line of entries, cells, or items in a table, spreadsheet, or matrix.",
+      "DEF_ZH":"栏；列 (印刷品页面上的垂直分区；或表格、矩阵中的垂直单元格)。",
+      "SENT_EN":"The spreadsheet showed the sales figures in the last column.",
+      "SENT_ZH":"电子表格在最后一列显示了销售数据。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "row",
+            "table",
+            "matrix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s column",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "journalism",
+        "media"
+      ],
+      "DEF_EN":"A regular article or feature in a newspaper or magazine, usually written by the same journalist or contributor.",
+      "DEF_ZH":"专栏；栏目 (报纸或杂志中由固定作者定期撰写的文章)。",
+      "SENT_EN":"I always read her political column every Sunday morning.",
+      "SENT_ZH":"我每周日早上都会读她的政治专栏。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "article",
+            "editorial",
+            "feature"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"column of [sth] (military)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "military",
+        "formal"
+      ],
+      "DEF_EN":"A long, organized, single-file formation of troops, ships, or vehicles.",
+      "DEF_ZH":"纵队；列队 (士兵、车辆或舰艇的长形编队)。",
+      "SENT_EN":"The heavy armored column moved quickly down the main road.",
+      "SENT_ZH":"重型装甲纵队沿着主干道快速移动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "file",
+            "convoy",
+            "formation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

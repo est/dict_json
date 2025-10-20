@@ -1,0 +1,94 @@
+{
+  "WORD":"threat",
+  "IPA":"/θrɛt/",
+  "CONJUGATES":"threats (plural)",
+  "ETYMOLOGY":"From Middle English threte, from Old English þreāt ('crowd, pressure, coercion, threat').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A statement expressing the intention to inflict pain, injury, damage, or hostile action on someone in retribution for something done or not done.",
+      "DEF_ZH":"表达意图对某人施加痛苦、伤害、损害或敌对行动的言论或声明。",
+      "SENT_EN":"The manager received an anonymous threat after cutting several jobs.",
+      "SENT_ZH":"这位经理在裁掉数个职位后收到了匿名的威胁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "menace",
+            "ultimatum",
+            "warning"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "threaten",
+            "intimidation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "common",
+        "danger"
+      ],
+      "DEF_EN":"A person, thing, or situation that is likely to cause danger, harm, or pain.",
+      "DEF_ZH":"可能导致危险、伤害或痛苦的人、物或情况，即危险源。",
+      "SENT_EN":"Disease is a serious threat to the local ecosystem.",
+      "SENT_ZH":"疾病对当地生态系统构成了严重的威胁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "danger",
+            "hazard",
+            "risk"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "security",
+            "safeguard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"threat of [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun, uncountable, often followed by 'of'",
+      "TAGS":[
+        "contextual",
+        "imminent"
+      ],
+      "DEF_EN":"The possibility of something unwelcome or undesirable happening soon.",
+      "DEF_ZH":"不愉快或不良事件即将发生的可能性或迹象。",
+      "SENT_EN":"They continued playing despite the clear threat of rain.",
+      "SENT_ZH":"尽管有明显的下雨迹象，他们还是继续玩耍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indication",
+            "prospect",
+            "omen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use in various contexts including legal, political, and environmental discussions."
+}

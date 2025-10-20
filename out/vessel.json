@@ -1,0 +1,107 @@
+{
+  "WORD":"vessel",
+  "IPA":"/'vɛsəl/",
+  "CONJUGATES":"vessels (plural)",
+  "ETYMOLOGY":"From Middle English vessel, derived from Old French vessel (small vase), which is the diminutive form of Latin vas (vessel, jar, dish).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[large vessel]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "maritime"
+      ],
+      "DEF_EN":"A ship or large boat, especially one used for commercial transport or military purposes.",
+      "DEF_ZH":"船只；舰艇（尤指大型的海洋交通工具）",
+      "SENT_EN":"The coast guard inspected the foreign fishing vessel anchored near the harbor.",
+      "SENT_ZH":"海岸警卫队检查了停泊在港口附近的外国渔船。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ship",
+            "craft",
+            "boat",
+            "liner"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a vessel]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "container"
+      ],
+      "DEF_EN":"A hollow container, such as a bowl, cup, or barrel, used primarily to hold liquids or other substances.",
+      "DEF_ZH":"容器；器皿（用来盛放液体或其他物质的空心容器）",
+      "SENT_EN":"He carefully poured the wine from the glass vessel into the decanter.",
+      "SENT_ZH":"他小心翼翼地将玻璃器皿中的葡萄酒倒入醒酒器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "container",
+            "receptacle",
+            "jar",
+            "flask"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[blood vessel] [lymph vessel]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "biology",
+        "anatomy",
+        "technical"
+      ],
+      "DEF_EN":"A tube or duct in an animal or plant (such as an artery, vein, or xylem) that conveys a fluid, especially blood in animals.",
+      "DEF_ZH":"血管；导管（动植物体内输送液体的管道，尤指血液的血管）",
+      "SENT_EN":"An obstructed blood vessel can lead to serious cardiovascular problems.",
+      "SENT_ZH":"血管阻塞可能导致严重的心血管问题。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "artery",
+            "vein",
+            "capillary",
+            "duct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a vessel of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable, figurative)",
+      "TAGS":[
+        "literary",
+        "religious",
+        "figurative"
+      ],
+      "DEF_EN":"A person viewed as a vehicle or recipient for a spirit, quality, or power.",
+      "DEF_ZH":"载体；工具；（精神、品质或力量的）承载者",
+      "SENT_EN":"The prophet was considered a holy vessel of God’s will.",
+      "SENT_ZH":"这位先知被认为是上帝意志的神圣载体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instrument",
+            "vehicle",
+            "medium"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, technical (biology), and literary contexts."
+}

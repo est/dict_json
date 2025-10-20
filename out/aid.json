@@ -1,0 +1,109 @@
+{
+  "WORD":"aid",
+  "IPA":"/eɪd/",
+  "CONJUGATES":"aids | aiding | aided | aids (n. pl.)",
+  "ETYMOLOGY":"From Middle English, derived from Old French aide (noun) and aider (verb), ultimately from Latin adiūtāre (to help often), derived from adiuvare (to help).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Help or assistance given to someone or something.",
+      "DEF_ZH":"帮助；援助；支持。",
+      "SENT_EN":"With the aid of a detailed map, they found the hidden trail.",
+      "SENT_ZH":"在详细地图的帮助下，他们找到了那条隐藏的小路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assistance",
+            "help",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"aid [sb]\naid [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To provide help, support, or relief to someone or something.",
+      "DEF_ZH":"帮助；援助；促进。",
+      "SENT_EN":"The foundation was established to aid victims of natural disasters.",
+      "SENT_ZH":"该基金会旨在援助自然灾害的受害者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assist",
+            "help",
+            "facilitate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hinder",
+            "impede"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (usually financial or material)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "countable",
+        "formal"
+      ],
+      "DEF_EN":"Money, food, equipment, or resources supplied to a country or area in need, often humanitarian or governmental.",
+      "DEF_ZH":"（尤指国际或政府提供的）援助物资；救济金。",
+      "SENT_EN":"The government approved $5 million in foreign aid for the developing nation.",
+      "SENT_ZH":"政府批准了向该发展中国家提供500万美元的对外援助。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "foreign aid",
+            "financial aid",
+            "humanitarian aid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a/an [sth] aid",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "device",
+        "specific usage"
+      ],
+      "DEF_EN":"A device or tool that helps a person to do something, often compensating for a physical deficiency.",
+      "DEF_ZH":"辅助设备；工具（如助听器）。",
+      "SENT_EN":"She relies on a walking aid when navigating stairs.",
+      "SENT_ZH":"她上下楼梯时需要依靠助行器。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hearing aid",
+            "visual aid",
+            "first aid"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, frequently used in formal and humanitarian contexts."
+}

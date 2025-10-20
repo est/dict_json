@@ -1,0 +1,153 @@
+{
+  "WORD":"shell",
+  "IPA":"/ʃɛl/",
+  "CONJUGATES":"shells | shelling | shelled",
+  "ETYMOLOGY":"From Old English sciell, sciell, of Germanic origin; related to Middle Dutch schelle and Old Norse skel (all meaning 'scale' or 'covering').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s shell",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The hard outer covering of an animal (like a snail or turtle), egg, or nut.",
+      "DEF_ZH":"动物（如蜗牛或乌龟）、蛋或坚果的坚硬外壳或保护层。",
+      "SENT_EN":"We collected many beautiful seashells during our walk on the beach.",
+      "SENT_ZH":"我们在海滩散步时收集了许多漂亮的贝壳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "husk",
+            "casing",
+            "exoskeleton"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "seashell",
+            "eggshell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the shell of [sth]",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The external framework or structure of something, especially a building, vehicle, or ship, when the interior is removed or destroyed.",
+      "DEF_ZH":"某物（尤指建筑物、车辆或船只）的外部框架或结构，通常指内部已被移除或摧毁后留下的部分；空壳。",
+      "SENT_EN":"After the fire, only the burnt-out shell of the factory remained.",
+      "SENT_ZH":"火灾后，工厂只剩下了烧毁的空壳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frame",
+            "hull",
+            "skeleton"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fire a shell",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "military",
+        "specific"
+      ],
+      "DEF_EN":"A metal projectile filled with explosives, fired from a large gun or mortar.",
+      "DEF_ZH":"从大炮或迫击炮发射的充满炸药的金属弹丸；炮弹。",
+      "SENT_EN":"The artillery unit fired several heavy shells at the enemy position.",
+      "SENT_ZH":"炮兵部队向敌方阵地发射了几枚重型炮弹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "projectile",
+            "bomb",
+            "ordinance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shell [sth] (often food)",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "common",
+        "cooking"
+      ],
+      "DEF_EN":"To remove the outer hard covering or shell from something, especially peas, nuts, or prawns.",
+      "DEF_ZH":"剥去（某物，尤其是豌豆、坚果或虾）的硬壳。",
+      "SENT_EN":"We spent the afternoon shelling peanuts while watching the game.",
+      "SENT_ZH":"我们一边看比赛，一边花了一个下午的时间剥花生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shuck",
+            "hull",
+            "peel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shell [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "military"
+      ],
+      "DEF_EN":"To fire explosive shells at a place or person; to bombard.",
+      "DEF_ZH":"用炮弹轰击某地或某人；炮轰。",
+      "SENT_EN":"The troops continued to shell the trenches until the resistance ceased.",
+      "SENT_ZH":"部队继续炮击战壕，直到抵抗停止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bombard",
+            "bomb",
+            "blast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"use a shell",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"A program interface that provides access to the operating system's services, usually via a command-line interface.",
+      "DEF_ZH":"提供对操作系统服务访问的程序界面，通常是通过命令行界面。",
+      "SENT_EN":"Experienced developers often prefer using a command-line shell for system management tasks.",
+      "SENT_ZH":"经验丰富的开发人员通常更喜欢使用命令行 shell 进行系统管理任务。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bash",
+            "kernel",
+            "command line"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use across multiple contexts (Biology, Military, Computing)."
+}

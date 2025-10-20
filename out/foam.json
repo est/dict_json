@@ -1,0 +1,100 @@
+{
+  "WORD":"foam",
+  "IPA":"/fəʊm/",
+  "CONJUGATES":"n: foam | v: foams | foaming | foamed",
+  "ETYMOLOGY":"From Old English fām 'foam, froth', from Proto-Germanic *faima-, from Proto-Indo-European *poim- 'foam'.",
+  "SINCE":"Before 12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"foam",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A mass of small bubbles formed on or in a liquid, typically white and appearing as a light, frothy substance.",
+      "DEF_ZH":"液体表面或内部形成的大量小气泡，通常为白色，呈轻盈的、起泡的物质。",
+      "SENT_EN":"The beer had a thick head of foam.",
+      "SENT_ZH":"啤酒上有一层厚厚的泡沫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "froth",
+            "suds",
+            "lather",
+            "scum"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sea foam",
+            "shaving foam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] foam",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"(of a liquid or mouth) To produce or emit a mass of small bubbles.",
+      "DEF_ZH":"（指液体或嘴巴）产生或发出大量小气泡。",
+      "SENT_EN":"The waves foamed as they crashed against the rocks.",
+      "SENT_ZH":"海浪拍打着岩石，泛起了泡沫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "froth",
+            "lather",
+            "effervesce",
+            "bubble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"foam",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A lightweight cellular material, such as polyurethane or polystyrene, made by trapping pockets of gas in a liquid or plastic.",
+      "DEF_ZH":"一种轻质蜂窝状材料，例如聚氨酯或聚苯乙烯，通过将气泡困在液体或塑料中制成。",
+      "SENT_EN":"The cushion was made of memory foam for extra comfort.",
+      "SENT_ZH":"这个坐垫是用记忆海绵制成的，以提供额外的舒适感。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "memory foam",
+            "Styrofoam",
+            "foam rubber"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] foam [sth] (up)",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "technical"
+      ],
+      "DEF_EN":"To cause a liquid to produce a mass of small bubbles.",
+      "DEF_ZH":"使液体产生大量小气泡。",
+      "SENT_EN":"The barista foamed the milk for the cappuccino.",
+      "SENT_ZH":"咖啡师为卡布奇诺打发了牛奶。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

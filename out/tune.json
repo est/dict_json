@@ -1,0 +1,110 @@
+{
+  "WORD":"tune",
+  "IPA":"/tuːn/",
+  "CONJUGATES":"tunes | tuning | tuned",
+  "ETYMOLOGY":"From Middle English toun (pitch, musical sound), ultimately via Old French ton, from Latin tonus, from Greek tonos (stretching, tension, pitch).",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth], a tune",
+      "POS":"n. c.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "music"
+      ],
+      "DEF_EN":"A melody, especially one that is short, simple, or popular.",
+      "DEF_ZH":"曲调；旋律；歌曲。",
+      "SENT_EN":"That's a very catchy tune; I can't get it out of my head.",
+      "SENT_ZH":"那是一个非常上口的曲子；我无法把它从脑海中抹去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "melody",
+            "song",
+            "jingle",
+            "air"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tune [sth]\ntune [sth] to [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "music",
+        "technical"
+      ],
+      "DEF_EN":"To adjust a musical instrument, radio, or television to the correct pitch, frequency, or channel.",
+      "DEF_ZH":"调音；调谐；调整频率或频道。",
+      "SENT_EN":"He spent an hour tuning his guitar before the performance.",
+      "SENT_ZH":"他在表演前花了一个小时调他的吉他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjust",
+            "calibrate",
+            "pitch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth], in/out of tune",
+      "POS":"n. u.",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "idiomatic",
+        "music"
+      ],
+      "DEF_EN":"The correct state of adjustment or pitch, often used in phrases referring to harmony or alignment.",
+      "DEF_ZH":"音准；协调状态；相合。",
+      "SENT_EN":"The old upright piano was sadly out of tune.",
+      "SENT_ZH":"那架旧立式钢琴音准实在太差了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pitch",
+            "concord"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dissonance",
+            "discord"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tune up [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "automotive"
+      ],
+      "DEF_EN":"To adjust an engine or machine so that it operates smoothly and efficiently (often used with 'up').",
+      "DEF_ZH":"（对发动机或机器）进行调整以提高性能；检修。",
+      "SENT_EN":"The mechanic recommended that I get the car engine tuned up before the long trip.",
+      "SENT_ZH":"机械师建议我在长途旅行前给汽车发动机进行检修。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "optimize",
+            "fine-tune",
+            "service"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage across music, radio/media, and technical/mechanical contexts."
+}

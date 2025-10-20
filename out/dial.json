@@ -1,0 +1,115 @@
+{
+  "WORD":"dial",
+  "IPA":"/ˈdaɪəl/",
+  "CONJUGATES":"dials | dialing | dialling | dialed | dialled",
+  "ETYMOLOGY":"From Late Latin diālis ('of a day'), related to Latin diēs ('day'). It originally referred to a sundial, the primary device for telling time by the sun.",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"The face of a clock, watch, or instrument (such as a meter or gauge) marked with divisions or numbers, typically having a movable pointer to indicate time or measurement.",
+      "DEF_ZH":"刻度盘；（钟表、仪表等的）盘面。",
+      "SENT_EN":"The car's speedometer dial showed that they were exceeding the speed limit.",
+      "SENT_ZH":"汽车的速度计刻度盘显示他们超速了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "face",
+            "gauge",
+            "display"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sundial",
+            "manometer"
+          ]
+        }
+      ],
+      "REGISTER":"General"
+    },
+    {
+      "PATTERN":"dial [a number]\ndial [sb]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To make a telephone call by entering a sequence of numbers or pressing buttons on the phone.",
+      "DEF_ZH":"拨号（通过电话按键或旋转来输入号码）。",
+      "SENT_EN":"He had to dial the international code before calling his friend in London.",
+      "SENT_ZH":"在给他在伦敦的朋友打电话之前，他必须先拨国际区号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "call",
+            "ring up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hang up"
+          ]
+        }
+      ],
+      "REGISTER":"Telephony"
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A movable knob or control on a device, such as a radio or oven, that is turned to set a particular measurement, level, or channel.",
+      "DEF_ZH":"旋转式调节器；旋钮。",
+      "SENT_EN":"She adjusted the volume using the small dial on the side of the speaker.",
+      "SENT_ZH":"她用扬声器侧面的小旋钮调节音量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "knob",
+            "control",
+            "selector"
+          ]
+        }
+      ],
+      "REGISTER":"General"
+    },
+    {
+      "PATTERN":"dial [sth] in\ndial [sth] up/down",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"To adjust a setting or performance parameter with high precision to achieve a specific or optimal result.",
+      "DEF_ZH":"精确调整；调校到位（常指优化设置或性能）。",
+      "SENT_EN":"The mechanic spent an hour dialing in the engine timing for maximum efficiency.",
+      "SENT_ZH":"机械师花了一个小时精确调整发动机正时，以达到最大效率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calibrate",
+            "fine-tune",
+            "optimize"
+          ]
+        }
+      ],
+      "REGISTER":"Technical | Informal"
+    }
+  ],
+  "REGISTER":"Widely used in everyday contexts, technology, and engineering."
+}

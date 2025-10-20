@@ -1,0 +1,89 @@
+{
+  "WORD":"relate",
+  "IPA":"/rɪˈleɪt/",
+  "CONJUGATES":"relates | relating | related",
+  "ETYMOLOGY":"From Old French relater ('to tell, report'), derived from Latin relatus, the past participle of referre ('to bring back, refer'), combined from re- ('back, again') and lātus (used as the past participle of ferre 'to bear, carry').",
+  "SINCE":"c. 1425",
+  "MEANINGS":[
+    {
+      "PATTERN":"relate [sth] to [sth]\n[sth] relates to [sth]",
+      "POS":"vtr + prep | vitr + prep",
+      "POS_TIP":"vtr: transitive verb; vitr: intransitive verb; prep: preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To show or establish a connection or association between two or more things; to concern or be relevant to.",
+      "DEF_ZH":"将…联系起来；与…有关联；涉及；涉及（某事）。",
+      "SENT_EN":"The current economic slowdown relates directly to the housing market crisis.",
+      "SENT_ZH":"当前的经济放缓直接关系到住房市场危机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "associate",
+            "link",
+            "pertain",
+            "refer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"relate to [sb]\nrelate to [sth]",
+      "POS":"vitr + prep",
+      "POS_TIP":"vitr: intransitive verb; prep: preposition",
+      "TAGS":[
+        "common",
+        "psychological"
+      ],
+      "DEF_EN":"To feel a sense of connection, empathy, or understanding with a person or situation; to identify with.",
+      "DEF_ZH":"理解；产生共鸣；有同感。",
+      "SENT_EN":"Many people relate to the struggles of balancing work and family life.",
+      "SENT_ZH":"许多人对平衡工作与家庭生活的挣扎深有同感。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "empathize",
+            "identify",
+            "understand",
+            "sympathize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "relatable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"relate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To tell, narrate, or recount a story or sequence of events.",
+      "DEF_ZH":"叙述；讲述；报告（故事或事件）。",
+      "SENT_EN":"The witness proceeded to relate the events of that evening in detail.",
+      "SENT_ZH":"证人接着详细讲述了那天晚上发生的事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narrate",
+            "recount",
+            "tell",
+            "report"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in academic writing (M1) and conversational language (M2)."
+}

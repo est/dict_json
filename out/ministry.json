@@ -1,0 +1,88 @@
+{
+  "WORD":"ministry",
+  "IPA":"/ˈmɪnɪstri/",
+  "CONJUGATES":"ministries",
+  "ETYMOLOGY":"From Middle English ministrie, derived from Old French menistrie, ultimately from Latin ministerium ('service, office, attendance'), from minister ('servant, attendant').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] ministry [of sth]",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "core word",
+        "politics",
+        "government"
+      ],
+      "DEF_EN":"A department of a government, often headed by a minister, responsible for a specific governmental function.",
+      "DEF_ZH":"政府部门，通常由一位部长领导，负责特定的政府职能。",
+      "SENT_EN":"The Ministry of Finance released its annual economic report.",
+      "SENT_ZH":"财政部发布了年度经济报告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "department",
+            "office",
+            "agency"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "minister",
+            "cabinet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] ministry",
+      "POS":"nu",
+      "POS_TIP":"noun uncountable",
+      "TAGS":[
+        "religion",
+        "formal"
+      ],
+      "DEF_EN":"The vocation, office, or work of a religious minister or priest; the clerical profession.",
+      "DEF_ZH":"牧师、神职人员的职业、职务或工作。",
+      "SENT_EN":"After graduating, he decided to enter the ministry.",
+      "SENT_ZH":"毕业后，他决定进入神职工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "priesthood",
+            "clergy",
+            "vocation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] ministry [of sb]",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "politics",
+        "formal",
+        "British English"
+      ],
+      "DEF_EN":"The period during which a specific government or cabinet is in office.",
+      "DEF_ZH":"特定政府或内阁的任期。",
+      "SENT_EN":"The first ministry under the new president lasted only two years.",
+      "SENT_ZH":"新总统领导下的第一届内阁只持续了两年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "administration",
+            "government",
+            "regime"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Political, Religious"
+}

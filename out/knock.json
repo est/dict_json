@@ -1,0 +1,140 @@
+{
+  "WORD":"knock",
+  "IPA":"/nɒk/",
+  "CONJUGATES":"knocks | knocking | knocked",
+  "ETYMOLOGY":"From Middle English knokken (c. 1300), likely of imitative origin, perhaps related to Old English cnocian 'to knock, beat', or Old Norse knokka 'to strike, hit'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"knock [on/at] [sth]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"Intransitive verb | Transitive verb",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"To strike a door or hard surface sharply, usually with the knuckles, to gain attention or entrance.",
+      "DEF_ZH":"敲击（门或其他硬表面），通常是用指关节，以引起注意或要求进入。",
+      "SENT_EN":"Please knock before you enter the office.",
+      "SENT_ZH":"请在进入办公室前先敲门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rap",
+            "tap",
+            "pound"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "strike",
+            "hit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knock [sth] [down/over/off]",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive verb + adverb (phrasal verb component)",
+      "TAGS":[
+        "Core word",
+        "Action"
+      ],
+      "DEF_EN":"To hit something hard enough to cause it to move, fall, or be displaced.",
+      "DEF_ZH":"撞击某物使其移动、跌倒或移位。",
+      "SENT_EN":"He accidentally knocked the vase over while cleaning the shelf.",
+      "SENT_ZH":"他打扫架子时不小心把花瓶撞倒了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "topple",
+            "overturn",
+            "bump"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knock [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Informal",
+        "Slang",
+        "Criticism"
+      ],
+      "DEF_EN":"To criticize something or someone, especially in a disparaging or negative way.",
+      "DEF_ZH":"批评或贬低某事或某人。",
+      "SENT_EN":"Don't knock the idea until you've tried it.",
+      "SENT_ZH":"在你尝试之前不要贬低这个想法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "criticize",
+            "badmouth",
+            "denigrate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "praise",
+            "applaud"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a knock [at the door]",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "Core word",
+        "Sound"
+      ],
+      "DEF_EN":"The act or sound of striking a surface to gain attention.",
+      "DEF_ZH":"敲击的动作或声音；敲门声。",
+      "SENT_EN":"I heard a loud knock and then the door opened.",
+      "SENT_ZH":"我听到一声巨响，然后门开了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rap",
+            "tap",
+            "thump"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"engine knock\ntake a knock",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "Technical",
+        "Figurative"
+      ],
+      "DEF_EN":"A metallic noise indicating faulty combustion in an internal combustion engine (detonation); or, informally, a setback or misfortune.",
+      "DEF_ZH":"（发动机）爆震声；（非正式）挫折或打击。",
+      "SENT_EN":"The company took a serious knock to its reputation after the scandal.",
+      "SENT_ZH":"丑闻发生后，该公司的声誉遭受了严重的打击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blow",
+            "setback",
+            "detonation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use across all registers, though meaning 3 (criticism) is informal."
+}

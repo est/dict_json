@@ -1,0 +1,119 @@
+{
+  "WORD":"direct",
+  "IPA":"/dəˈrɛkt/ | /daɪˈrɛkt/",
+  "CONJUGATES":"directs | directed | directing | more direct | most direct | directly | director | directness",
+  "ETYMOLOGY":"From Latin dīrectus (past participle of dīrigere 'to set straight, guide'), from dī- (intensive prefix) + regere 'to guide, rule, lead straight'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"direct [sth] / direct [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "command"
+      ],
+      "DEF_EN":"To manage, control, or govern the movements, operations, or performance of something or someone.",
+      "DEF_ZH":"管理；指挥；指导；给（某人）指路。",
+      "SENT_EN":"The film director directed the actors through the difficult scene.",
+      "SENT_ZH":"这位电影导演指导演员们完成了那个困难的场景。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guide",
+            "manage",
+            "command",
+            "supervise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a direct route\na direct answer",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Going straight from one point to another without turning or stopping; straightforward and without pretense or ambiguity.",
+      "DEF_ZH":"直接的；径直的；坦率的；不拐弯抹角的。",
+      "SENT_EN":"We took the most direct route to avoid traffic.",
+      "SENT_ZH":"我们走了最直接的路线以避开交通。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "straight",
+            "immediate",
+            "blunt",
+            "candid"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "indirect",
+            "circuitous",
+            "evasive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"direct [sth] at/towards [sth/sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "focus"
+      ],
+      "DEF_EN":"To aim something, such as attention, force, or a statement, toward a specific person or object.",
+      "DEF_ZH":"将（注意力、努力或言论）对准；针对。",
+      "SENT_EN":"The government directed its financial aid towards the most affected regions.",
+      "SENT_ZH":"政府将其财政援助导向受影响最严重的地区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aim",
+            "point",
+            "target",
+            "focus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"direct democracy\ndirect line of descent",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"Operating or resulting without an intervening medium, agent, or step; immediate and primary.",
+      "DEF_ZH":"亲身的；直接（没有中间环节）的。",
+      "SENT_EN":"The consumer buys the product through direct selling, cutting out the middleman.",
+      "SENT_ZH":"消费者通过直接销售购买产品，避免了中间商。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unmediated",
+            "primary",
+            "immediate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "direct debit",
+            "direct current"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across formal, informal, and technical contexts."
+}

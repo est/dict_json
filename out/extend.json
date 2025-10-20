@@ -1,0 +1,109 @@
+{
+  "WORD":"extend",
+  "IPA":"/ɪkˈstɛnd/",
+  "CONJUGATES":"extends | extending | extended",
+  "ETYMOLOGY":"From Middle English extenden, from Old French extendre, from Latin extendere (ex- 'out' + tendere 'to stretch').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"extend [sth]\nextend [sth] (to/by [amount])",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To stretch out, lengthen, or increase the duration, area, or scope of something.",
+      "DEF_ZH":"延伸；延长；扩大（时间、范围或区域）。",
+      "SENT_EN":"We need to extend the deadline for submitting the proposals.",
+      "SENT_ZH":"我们需要延长提交提案的截止日期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lengthen",
+            "prolong",
+            "stretch",
+            "expand"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "shorten",
+            "reduce",
+            "curtail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"extend [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To offer or give something, such as courtesy, invitation, help, or sympathy.",
+      "DEF_ZH":"给予；致以（邀请、帮助、问候等）。",
+      "SENT_EN":"The host extended a warm welcome to all the guests.",
+      "SENT_ZH":"主人向所有客人致以热烈的欢迎。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offer",
+            "proffer",
+            "grant",
+            "bestow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] extends (from [place] to [place])",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "physical"
+      ],
+      "DEF_EN":"To cover a specified area or distance, or to reach physically to a point.",
+      "DEF_ZH":"（指地域、线等）延伸；绵延。",
+      "SENT_EN":"The forest extends all the way to the coast.",
+      "SENT_ZH":"这片森林一直延伸到海岸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reach",
+            "stretch",
+            "span"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"extend (to [sth/sb])",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "abstract",
+        "legal"
+      ],
+      "DEF_EN":"To apply or be relevant to a wider group, area, or subject.",
+      "DEF_ZH":"适用；延伸（指某规则或影响）。",
+      "SENT_EN":"This new policy does not extend to temporary employees.",
+      "SENT_ZH":"这项新政策不适用于临时工。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apply",
+            "include",
+            "cover"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general usage, administration, and formal contexts."
+}

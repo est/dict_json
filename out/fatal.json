@@ -1,0 +1,89 @@
+{
+  "WORD":"fatal",
+  "IPA":"/ˈfeɪtl/",
+  "CONJUGATES":"fatally (adv.) | fatality (n.)",
+  "ETYMOLOGY":"From Middle French fatal, from Latin fātālis ('of fate'), from fātum ('fate, destiny, prediction'), ultimately from the root of fārī ('to speak').",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is fatal",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"Causing or capable of causing death; deadly.",
+      "DEF_ZH":"导致死亡的；致命的。",
+      "SENT_EN":"The car crash resulted in two serious injuries and one fatal outcome.",
+      "SENT_ZH":"这场车祸导致两人重伤和一人死亡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deadly",
+            "lethal",
+            "mortal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "harmless",
+            "nonlethal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is a fatal error/flaw",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Leading to failure, ruin, or disaster; having disastrous consequences.",
+      "DEF_ZH":"导致失败或灾难的；决定性失败的。",
+      "SENT_EN":"A fatal flaw in the structural design caused the bridge to collapse.",
+      "SENT_ZH":"结构设计中的一个致命缺陷导致桥梁倒塌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disastrous",
+            "ruinous",
+            "catastrophic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is fatal",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "less common",
+        "literary",
+        "formal"
+      ],
+      "DEF_EN":"Relating to or determined by fate or destiny; inevitable.",
+      "DEF_ZH":"命中注定的；宿命的。",
+      "SENT_EN":"The oracle predicted the fatal events that would soon befall the kingdom.",
+      "SENT_ZH":"甲骨文预言了王国即将遭遇的宿命事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fated",
+            "destined",
+            "inevitable"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often formal or medical contexts."
+}

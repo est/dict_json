@@ -1,0 +1,126 @@
+{
+  "WORD":"event",
+  "IPA":"/ɪˈvent/",
+  "CONJUGATES":"events | evented | eventing",
+  "ETYMOLOGY":"From Latin eventus ('outcome, result, occurrence'), past participle of evenire ('to happen, turn out'), from e- ('out') + venire ('to come').",
+  "SINCE":"Late 16th century (originally meaning 'outcome' or 'result')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A planned public or social occasion.",
+      "DEF_ZH":"一个有计划的公共或社会性场合；活动。",
+      "SENT_EN":"The concert was the main event of the festival.",
+      "SENT_ZH":"这场音乐会是这个节日的主要活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occasion",
+            "function",
+            "gathering",
+            "affair"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "celebration",
+            "ceremony",
+            "party"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thing that happens or takes place, especially one of importance.",
+      "DEF_ZH":"发生的或发生的事情，尤指重要的事件。",
+      "SENT_EN":"The discovery of a new planet was a major scientific event.",
+      "SENT_ZH":"新行星的发现是一个重大的科学事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incident",
+            "occurrence",
+            "happening",
+            "episode"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (often plural)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports term"
+      ],
+      "DEF_EN":"A specific competition or set of competitions in a sports program.",
+      "DEF_ZH":"体育项目中的特定比赛或一系列比赛。",
+      "SENT_EN":"She will compete in three running events at the Olympics.",
+      "SENT_ZH":"她将在奥运会上参加三项跑步项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "competition",
+            "race",
+            "match",
+            "discipline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (computing)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"An action or occurrence recognized by software, often originating asynchronously from the external environment (like a user input or a sensor signal), that may be handled by the software.",
+      "DEF_ZH":"被软件识别的动作或发生的事情，通常异步地起源于外部环境（如用户输入或传感器信号），并可能被软件处理。",
+      "SENT_EN":"Clicking the mouse triggers an event in the application.",
+      "SENT_ZH":"点击鼠标会在应用程序中触发一个事件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "listener",
+            "callback",
+            "trigger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"event [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"To arrange or organize an event; to manage or direct an event.",
+      "DEF_ZH":"组织或安排一项活动；管理或指导一项活动。",
+      "SENT_EN":"The company evented the gala successfully.",
+      "SENT_ZH":"公司成功地组织了这次盛会。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use, particularly frequent in business, media, and sports contexts."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"potential",
+  "IPA":"/pəˈtɛnʃəl/",
+  "CONJUGATES":"potentials | potentially",
+  "ETYMOLOGY":"From Late Latin potentiālis ('powerful, pertaining to power'), derived from Latin potentia ('power, force').",
+  "SINCE":"Late 14th century (as adjective); 17th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth] potential [for sth/to do sth]",
+      "POS":"n. uncount/count",
+      "POS_TIP":"noun, uncountable or countable",
+      "TAGS":[
+        "core word",
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"The inherent ability or capacity for development, success, or future usefulness; undeveloped talent.",
+      "DEF_ZH":"潜力；潜能；可能性；发展前景。",
+      "SENT_EN":"The manager believes the new hire has great leadership potential.",
+      "SENT_ZH":"经理相信这位新员工具有巨大的领导潜力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "promise",
+            "aptitude",
+            "capability",
+            "prospects"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "limitations",
+            "inability"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a potential [n]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Existing in possibility but not yet in actuality; capable of becoming real.",
+      "DEF_ZH":"潜在的；可能的；有希望的（尚未实现但可能实现）。",
+      "SENT_EN":"The company identified several potential clients for its new product.",
+      "SENT_ZH":"公司为其新产品确定了几位潜在客户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "latent",
+            "possible",
+            "prospective",
+            "implied"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] potential",
+      "POS":"n. uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"Stored energy, especially the difference in electrical charge or voltage between two points in a circuit.",
+      "DEF_ZH":"电势；势能（物体由于其位置或状态而具有的能量）。",
+      "SENT_EN":"The change in gravitational potential was measured by the sensor.",
+      "SENT_ZH":"传感器测量了引力势能的变化。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "voltage",
+            "potential energy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, or Technical use."
+}

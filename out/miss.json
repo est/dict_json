@@ -1,0 +1,109 @@
+{
+  "WORD":"miss",
+  "IPA":"/mɪs/",
+  "CONJUGATES":"misses | missed | missing",
+  "ETYMOLOGY":"From Old English missan 'fail to hit, fail to reach, escape the notice of', related to Old Norse missa 'to miss, lack'. The use as a title (Miss) is a contraction of mistress (late 17th century).",
+  "SINCE":"Pre-1100s (Verb/Noun); Late 17th Century (Title)",
+  "MEANINGS":[
+    {
+      "PATTERN":"miss [sth]\nmiss [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"Fail to hit, catch, or reach (something aimed at or intended); fail to perceive or understand.",
+      "DEF_ZH":"错过；未击中；未赶上；未理解或未注意到。",
+      "SENT_EN":"He swung the bat hard but completely missed the ball.",
+      "SENT_ZH":"他用力挥动球棒，但完全错过了球。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fail",
+            "fall short of",
+            "overlook"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hit",
+            "catch",
+            "achieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"miss [sb]\nmiss [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "emotion"
+      ],
+      "DEF_EN":"Feel the absence of (a person or thing) with regret or sadness.",
+      "DEF_ZH":"想念；怀念；感到缺失。",
+      "SENT_EN":"I really miss my friends and the cold weather back home.",
+      "SENT_ZH":"我真的很想念我的朋友和家乡的寒冷天气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yearn for",
+            "long for",
+            "grieve for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Miss [Name]",
+      "POS":"n",
+      "POS_TIP":"noun (used as a title)",
+      "TAGS":[
+        "title",
+        "polite"
+      ],
+      "DEF_EN":"A title prefixed to the name of an unmarried woman or girl.",
+      "DEF_ZH":"小姐；女士（用于未婚女性或女孩的姓氏或全名前）。",
+      "SENT_EN":"We are honored to welcome Miss Jane Doe to the competition.",
+      "SENT_ZH":"我们很荣幸欢迎简·多伊小姐参加比赛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Mrs.",
+            "Ms.",
+            "Madam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a miss",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"An act or instance of failing to hit, meet, or achieve something.",
+      "DEF_ZH":"未击中；失误；差错（常指可数名词）。",
+      "SENT_EN":"The rocket launch was a near miss, but the spacecraft landed safely.",
+      "SENT_ZH":"火箭发射险些失败，但航天器安全着陆了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "failure",
+            "error",
+            "mistake"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal (Title)"
+}

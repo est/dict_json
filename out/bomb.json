@@ -1,0 +1,142 @@
+{
+  "WORD":"bomb",
+  "IPA":"/bɒm/",
+  "CONJUGATES":"bombs | bombing | bombed",
+  "ETYMOLOGY":"From Old French bombe, which itself came from Italian bomba. Ultimately imitative of the sound of an explosion.",
+  "SINCE":"Early 17th century (as a military projectile)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "weapon"
+      ],
+      "DEF_EN":"An explosive device or container filled with explosive material designed to detonate upon impact or activation.",
+      "DEF_ZH":"一种爆炸装置或装满爆炸材料的容器，设计用于撞击或激活时引爆。",
+      "SENT_EN":"A hidden bomb exploded near the entrance, causing significant damage.",
+      "SENT_ZH":"一枚隐藏的炸弹在入口附近爆炸，造成了重大损失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "explosive",
+            "munition",
+            "charge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "grenade",
+            "shell",
+            "torpedo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bomb [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "common",
+        "military"
+      ],
+      "DEF_EN":"To attack or destroy (a place) using bombs.",
+      "DEF_ZH":"用炸弹攻击或摧毁（某地）；轰炸。",
+      "SENT_EN":"The allied forces continued to bomb strategic targets throughout the city.",
+      "SENT_ZH":"盟军继续轰炸全市的战略目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blitz",
+            "shell",
+            "attack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (informal)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "informal",
+        "negative"
+      ],
+      "DEF_EN":"A total and spectacular failure, especially a commercial flop (of a film, play, or product).",
+      "DEF_ZH":"彻底的失败，尤指商业上的惨败（指电影、戏剧或产品）。",
+      "SENT_EN":"Despite the massive budget, the summer blockbuster was a critical bomb.",
+      "SENT_ZH":"尽管预算庞大，这部暑期大片在评论界彻底失败了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flop",
+            "disaster",
+            "bust"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hit",
+            "success"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bomb (informal)",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (does not require direct object)",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"To fail disastrously, especially in an exam or performance.",
+      "DEF_ZH":"（在考试、演出等方面）惨败；搞砸。",
+      "SENT_EN":"I thought I studied enough, but I completely bombed the calculus test.",
+      "SENT_ZH":"我以为我学得够多了，但微积分考试我彻底考砸了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fail",
+            "flunk",
+            "mess up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cost a bomb\npay a bomb",
+      "POS":"n",
+      "POS_TIP":"noun (used idiomatically)",
+      "TAGS":[
+        "idiom",
+        "UK slang"
+      ],
+      "DEF_EN":"A very large or exorbitant amount of money.",
+      "DEF_ZH":"巨额的钱；非常高的价格。",
+      "SENT_EN":"We had to pay a bomb for the renovation, but the results were worth it.",
+      "SENT_ZH":"我们不得不为这次翻新支付一大笔钱，但结果是值得的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fortune",
+            "mint",
+            "packet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used broadly in military contexts, and frequently as highly informal slang for failure or expense."
+}

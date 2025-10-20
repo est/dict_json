@@ -1,0 +1,92 @@
+{
+  "WORD":"submit",
+  "IPA":"/səˈmɪt/",
+  "CONJUGATES":"submits | submitting | submitted",
+  "ETYMOLOGY":"From Latin submittere (sub- 'under' + mittere 'send'), originally meaning 'to bring or place under'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"submit [sth] (to [sb/sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To present (a document, proposal, application, etc.) for consideration, approval, or decision.",
+      "DEF_ZH":"提交（文件、提案、申请等）供审议、批准或决定。",
+      "SENT_EN":"All essays must be submitted online by midnight tonight.",
+      "SENT_ZH":"所有论文必须在今晚午夜前在线提交。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hand in",
+            "present",
+            "tender",
+            "put forward"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"submit (to [sth/sb])\nsubmit [oneself] to [sth]",
+      "POS":"vi | vtr + prep",
+      "POS_TIP":"intransitive verb (does not require a direct object) | transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To accept or yield to a superior force, authority, or will; to surrender.",
+      "DEF_ZH":"服从或屈服于更高的力量、权威或意愿；投降。",
+      "SENT_EN":"He finally submitted to the authority of the court.",
+      "SENT_ZH":"他最终屈服于法院的权威。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yield",
+            "surrender",
+            "acquiesce",
+            "defer"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "resist",
+            "defy",
+            "oppose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"submit that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "legal",
+        "rhetorical"
+      ],
+      "DEF_EN":"To suggest or state (an opinion or idea) to others for consideration, especially in a formal or legal setting.",
+      "DEF_ZH":"提出或陈述（意见或想法）供他人审议，尤指在正式或法律场合。",
+      "SENT_EN":"Counsel submitted that the prosecution had failed to prove its case.",
+      "SENT_ZH":"律师提出控方未能证明其案情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "propose",
+            "suggest",
+            "assert",
+            "contend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in academic, professional, legal, and bureaucratic contexts."
+}

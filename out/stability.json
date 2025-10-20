@@ -1,0 +1,81 @@
+{
+  "WORD":"stability",
+  "IPA":"/stəˈbɪlɪti/",
+  "CONJUGATES":"stabilities (plural) | stable (adj) | stabilize (v)",
+  "ETYMOLOGY":"From Middle English stabilite, from Old French estabilité, from Latin stabilitās (stābilitātem), derived from stabilis 'stable, firm'.",
+  "SINCE":"Late Middle English (c. 1400s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (structural) stability",
+      "POS":"n (uncountable)",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state or quality of being steady, firm, or resistant to sudden change, movement, or collapse.",
+      "DEF_ZH":"稳定；稳固性；牢固性（指结构或抵抗运动的能力）。",
+      "SENT_EN":"The engineers must ensure the structural stability of the new skyscraper.",
+      "SENT_ZH":"工程师们必须确保这座新摩天大楼的结构稳定性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "firmness",
+            "steadiness",
+            "rigidity",
+            "solidity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "instability",
+            "unsteadiness",
+            "volatility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(economic\npolitical | emotional) stability",
+      "POS":"n (uncountable)",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "abstract",
+        "economics",
+        "politics"
+      ],
+      "DEF_EN":"The condition of being secure, consistent, and resistant to abrupt, undesirable changes or fluctuations (often applied to political systems, economics, or emotional health).",
+      "DEF_ZH":"（经济、政治、情绪等）稳定状态；安稳；持久性。",
+      "SENT_EN":"The country is striving for political stability after years of civil unrest.",
+      "SENT_ZH":"经过多年的内乱，该国正在努力实现政治稳定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "security",
+            "equilibrium",
+            "permanence",
+            "tranquility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chemical stability",
+      "POS":"n (uncountable)",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"The ability of a chemical compound or system to resist decomposition or alteration under certain environmental conditions.",
+      "DEF_ZH":"（化学、物理体系的）耐变化能力；稳定度；耐分解性。",
+      "SENT_EN":"The chemical stability of the preservative allows the food to have a longer shelf life.",
+      "SENT_ZH":"这种防腐剂的化学稳定性使食物能够拥有更长的保质期。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Used widely across general, formal, and technical contexts."
+}

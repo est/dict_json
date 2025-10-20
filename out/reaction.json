@@ -1,0 +1,110 @@
+{
+  "WORD":"reaction",
+  "IPA":"/riˈækʃən/",
+  "CONJUGATES":"reactions (pl.)",
+  "ETYMOLOGY":"From French réaction, derived from Medieval Latin reactiō, from Latin re- (back, again) + actiō (action, doing).",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s reaction (to [sth])",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A response or feeling caused by a specific event, situation, or statement.",
+      "DEF_ZH":"对某一事件、情况或陈述所产生的回答、行为或感受。",
+      "SENT_EN":"His immediate reaction to the bad news was absolute silence.",
+      "SENT_ZH":"他对这个坏消息的即时反应是彻底的沉默。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "response",
+            "feedback",
+            "reply",
+            "answer"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "repercussion",
+            "consequence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chemical reaction",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "science",
+        "chemistry"
+      ],
+      "DEF_EN":"A process involving the rearrangement of molecular or ionic structure, especially the change of reactants into products.",
+      "DEF_ZH":"涉及分子或离子结构重新排列的过程，特别是反应物转化为产物的过程（化学变化）。",
+      "SENT_EN":"Mixing sodium and water produces a violent chemical reaction.",
+      "SENT_ZH":"将钠与水混合会产生剧烈的化学反应。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "catalyst",
+            "equation",
+            "synthesis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"physical reaction (to [sth])",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "medical",
+        "biology"
+      ],
+      "DEF_EN":"A physical effect or symptom resulting from exposure to a substance, especially an adverse one like an allergic reaction.",
+      "DEF_ZH":"暴露于某种物质后产生的生理效应或症状，特别是过敏等不良反应。",
+      "SENT_EN":"She developed an allergic reaction to the bee sting.",
+      "SENT_ZH":"她对蜜蜂蜇伤产生了过敏反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "symptom",
+            "effect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"action and reaction",
+      "POS":"nu",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"The equal and opposite force exerted by a body when acted upon by another force (Newton's Third Law).",
+      "DEF_ZH":"当物体受到另一种力的作用时，物体所施加的相等且相反的力（牛顿第三定律中的反作用力）。",
+      "SENT_EN":"The principle of action and reaction governs how rockets lift off.",
+      "SENT_ZH":"作用力与反作用力的原理支配着火箭的升空方式。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "force",
+            "momentum",
+            "gravity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely across general, scientific, and technical contexts."
+}

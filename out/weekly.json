@@ -1,0 +1,84 @@
+{
+  "WORD":"weekly",
+  "IPA":"/ˈwiːkli/",
+  "CONJUGATES":"weeklier | weekliest (rarely used as comparative/superlative adjective)",
+  "ETYMOLOGY":"From Middle English wekely, from Old English wīclīc (combining wīc 'week' and -līc '-ly')",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] weekly",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "time measurement"
+      ],
+      "DEF_EN":"Occurring, appearing, or calculated once every seven days.",
+      "DEF_ZH":"每周的；一周一次的",
+      "SENT_EN":"We need to submit weekly reports to the manager.",
+      "SENT_ZH":"我们需要每周向经理提交报告。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "daily",
+            "monthly",
+            "annually"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[do sth] weekly",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "frequency"
+      ],
+      "DEF_EN":"Once every week; done or happening every seven days.",
+      "DEF_ZH":"每周地；一周一次地",
+      "SENT_EN":"The cleaners come weekly to sanitize the office.",
+      "SENT_ZH":"保洁员每周都会来给办公室消毒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "per week",
+            "once a week"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a weekly",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "publication",
+        "common"
+      ],
+      "DEF_EN":"A newspaper or magazine published once a week.",
+      "DEF_ZH":"周刊；周报（每周出版一次的报纸或杂志）",
+      "SENT_EN":"She picks up her favorite financial weekly every Friday.",
+      "SENT_ZH":"她每周五都会去拿她最喜欢的金融周刊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "periodical",
+            "magazine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "daily",
+            "monthly"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

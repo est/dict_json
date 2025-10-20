@@ -1,0 +1,112 @@
+{
+  "WORD":"venture",
+  "IPA":"/ˈvɛntʃər/",
+  "CONJUGATES":"ventures | venturing | ventured",
+  "ETYMOLOGY":"Shortening of Middle English 'aventure', derived from Old French 'aventure' (event, chance, accident), ultimately from Latin 'adventura' (things about to happen). The 'v' substitution is related to the evolution of 'adventure'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] venture (into [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"A business enterprise or undertaking, especially one involving risk or uncertainty, aiming for profit.",
+      "DEF_ZH":"商业活动；（有风险的）企业或项目；风险投资。",
+      "SENT_EN":"The company invested heavily in a new tech venture.",
+      "SENT_ZH":"这家公司在新科技风险项目中投入了大量资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enterprise",
+            "project",
+            "undertaking",
+            "speculation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "startup",
+            "joint venture",
+            "capital"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"venture (into [somewhere])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To dare to go to a dangerous, unknown, or potentially unpleasant place or situation.",
+      "DEF_ZH":"冒险前往；敢于涉足（危险或未知之地）。",
+      "SENT_EN":"They finally ventured into the abandoned mine.",
+      "SENT_ZH":"他们最终冒险进入了那座废弃的矿井。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dare",
+            "proceed",
+            "go"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"venture [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To express or put forward (an idea, opinion, or suggestion) tentatively, often expressing hesitation or risk.",
+      "DEF_ZH":"冒昧地提出；试探性地表述（观点或建议）。",
+      "SENT_EN":"I would venture the opinion that the plan is flawed.",
+      "SENT_ZH":"我斗胆提出一个意见，那就是这个计划是有缺陷的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggest",
+            "propose",
+            "hazard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"venture [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "finance",
+        "risk"
+      ],
+      "DEF_EN":"To risk the loss of (something, usually money or reputation) on a chance.",
+      "DEF_ZH":"拿...冒险；拿...做赌注。",
+      "SENT_EN":"He decided to venture all his savings on the stock market.",
+      "SENT_ZH":"他决定把他所有的积蓄都投入到股市中去冒险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stake",
+            "gamble",
+            "risk"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in business and exploration contexts."
+}

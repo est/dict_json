@@ -1,0 +1,93 @@
+{
+  "WORD":"finger",
+  "IPA":"/'fɪŋɡər/",
+  "CONJUGATES":"fingers | fingered | fingering",
+  "ETYMOLOGY":"From Old English finger, corresponding to Old High German fingar, Old Norse fingr. Ultimately derived from a Proto-Germanic root.",
+  "SINCE":"Pre-1100 (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s finger",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "anatomy"
+      ],
+      "DEF_EN":"Any of the five terminal parts of the hand (four digits and a thumb, although 'finger' sometimes excludes the thumb).",
+      "DEF_ZH":"手的五个末端部分之一（四个手指和一个拇指，尽管在某些语境中'finger'可能不包括拇指）。",
+      "SENT_EN":"He bruised his index finger while moving the heavy box.",
+      "SENT_ZH":"他在搬运重箱子时弄伤了食指。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "thumb",
+            "digit",
+            "phalanges"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a finger of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "measurement"
+      ],
+      "DEF_EN":"A small quantity of liquor (especially whiskey or brandy) corresponding to the width of one finger.",
+      "DEF_ZH":"少量烈酒（尤其是威士忌或白兰地），通常以一个手指的宽度作为衡量标准。",
+      "SENT_EN":"He ordered a double, meaning two fingers of Scotch.",
+      "SENT_ZH":"他点了一份双份，也就是两指苏格兰威士忌。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"finger [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common usage",
+        "action"
+      ],
+      "DEF_EN":"To touch, feel, or manipulate (something) with the fingers.",
+      "DEF_ZH":"用手指触摸、感觉或操纵（某物）。",
+      "SENT_EN":"The musician nervously fingered the keys of the piano before starting the piece.",
+      "SENT_ZH":"这位音乐家在开始演奏之前紧张地用手指摸了摸钢琴键。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "touch",
+            "handle",
+            "feel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"finger [sb] (as [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "criminology"
+      ],
+      "DEF_EN":"To point out or identify (a person) as the culprit or informer.",
+      "DEF_ZH":"指认或指出（某人）是罪犯或告密者。",
+      "SENT_EN":"Under interrogation, the accomplice eventually fingered the leader of the gang.",
+      "SENT_ZH":"在审讯中，同伙最终指认了帮派头目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identify",
+            "denounce",
+            "accuse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

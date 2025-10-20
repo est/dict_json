@@ -1,0 +1,93 @@
+{
+  "WORD":"paint",
+  "IPA":"/peɪnt/",
+  "CONJUGATES":"paints | painting | painted (v) | paints (n)",
+  "ETYMOLOGY":"From Middle English peinten, borrowed from Old French peindre, ultimately derived from Latin pingere ('to paint, to embroider, to stain')",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"paint [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cover a surface with a liquid substance for decoration or protection.",
+      "DEF_ZH":"用液体物质覆盖某表面以达到装饰或保护的目的。",
+      "SENT_EN":"They hired a contractor to paint the exterior of the house.",
+      "SENT_ZH":"他们雇佣了一名承包商来粉刷房屋的外部。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coat",
+            "varnish",
+            "colorize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"paint [a picture]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "art",
+        "creative"
+      ],
+      "DEF_EN":"To create a picture or representation using colors and pigments, typically on canvas.",
+      "DEF_ZH":"使用颜料创作图片或艺术作品，通常在画布上。",
+      "SENT_EN":"She likes to paint abstract landscapes in her free time.",
+      "SENT_ZH":"她喜欢在空闲时间画抽象风景画。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "draw",
+            "sketch",
+            "illustrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] paint\n[some] paint",
+      "POS":"n [U] [C]",
+      "POS_TIP":"uncountable or countable noun",
+      "TAGS":[
+        "core word",
+        "substance"
+      ],
+      "DEF_EN":"A colored liquid or viscous substance that hardens after application to a surface, forming a protective or decorative layer.",
+      "DEF_ZH":"一种有色液体或粘稠物质，涂抹到表面后会硬化，形成保护或装饰层。",
+      "SENT_EN":"Be careful not to spill the can of white paint.",
+      "SENT_ZH":"小心不要打翻那罐白漆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coating",
+            "pigment",
+            "emulsion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"paint [one's face/nails]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "informal"
+      ],
+      "DEF_EN":"To apply cosmetic makeup, especially lipstick or nail polish.",
+      "DEF_ZH":"涂抹化妆品，尤指口红或指甲油。",
+      "SENT_EN":"She took a moment to paint her nails a bright red.",
+      "SENT_ZH":"她花了一点时间把指甲涂成亮红色。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

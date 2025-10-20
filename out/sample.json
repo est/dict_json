@@ -1,0 +1,107 @@
+{
+  "WORD":"sample",
+  "IPA":"/ˈsæmpəl/",
+  "CONJUGATES":"samples | sampling | sampled",
+  "ETYMOLOGY":"From Middle English, ultimately from Old French 'essample' (example), derived from Latin 'exemplum' (a thing taken out), related to 'eximere' (to take out).",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small part or quantity intended to show what the whole is like, often used for analysis or testing.",
+      "DEF_ZH":"样本；样品；标本。用来展示整体特征的小部分或数量，常用于分析或测试。",
+      "SENT_EN":"The chemist took a small water sample from the river for quality inspection.",
+      "SENT_ZH":"化学家从河里取了一个水样进行质量检查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "specimen",
+            "example",
+            "test piece"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sampling",
+            "statistics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (free product)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "marketing",
+        "commerce"
+      ],
+      "DEF_EN":"A free product provided to customers to encourage purchase.",
+      "DEF_ZH":"试用品；免费赠品。免费提供给顾客以鼓励购买的产品。",
+      "SENT_EN":"She was given a small perfume sample when she checked out at the department store.",
+      "SENT_ZH":"她在百货商店结账时得到了一份小的香水试用品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "taster",
+            "giveaway"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sample [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To take a small quantity of something in order to test, taste, or experience it.",
+      "DEF_ZH":"尝试；品尝；体验；取样。取少量东西进行测试、品尝或体验。",
+      "SENT_EN":"We went to the local market to sample traditional dishes.",
+      "SENT_ZH":"我们去了当地市场品尝传统菜肴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "try",
+            "taste",
+            "test"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sample [sth] (music/sound)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "music",
+        "technical"
+      ],
+      "DEF_EN":"To record a segment of sound or music from another source and incorporate it into a new composition.",
+      "DEF_ZH":"（音乐）采样。将一段声音或音乐从其他来源录制并纳入新的作品中。",
+      "SENT_EN":"The DJ decided to sample a 1970s funk drum break for his new track.",
+      "SENT_ZH":"这位DJ决定为他的新曲目采样一段1970年代的放克鼓点。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "loop",
+            "remix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and technical usage (Science, Marketing, Music)"
+}

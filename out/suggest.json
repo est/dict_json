@@ -1,0 +1,79 @@
+{
+  "WORD":"suggest",
+  "IPA":"/səˈdʒɛst/",
+  "CONJUGATES":"suggests | suggesting | suggested",
+  "ETYMOLOGY":"From Late Latin suggestāre ('to supply, prompt'), frequentative of sugerere ('to carry under, prompt, suggest'), from sub- ('under') + gerere ('to bear, carry').",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"suggest [sth]\nsuggest [doing sth] | suggest that [clause]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object); vintr: intransitive verb (can stand alone or in specific structures).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put forward an idea, plan, or recommendation for consideration by others.",
+      "DEF_ZH":"提出一个想法、计划或建议供他人考虑或采纳。",
+      "SENT_EN":"The manager suggested that we try a new marketing strategy.",
+      "SENT_ZH":"经理建议我们尝试一种新的营销策略。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recommend",
+            "propose",
+            "advise",
+            "advocate"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "suggestion",
+            "suggestive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suggest [sth]\nsuggest that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object).",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"To call to mind or indicate something indirectly; to imply or hint.",
+      "DEF_ZH":"间接表明或暗示某事；使人联想到。",
+      "SENT_EN":"The look on his face suggested that he was worried about the results.",
+      "SENT_ZH":"他脸上的表情暗示着他对结果感到担忧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indicate",
+            "imply",
+            "hint",
+            "denote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suggest [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object).",
+      "TAGS":[
+        "rare",
+        "psychology"
+      ],
+      "DEF_EN":"To implant a thought or impulse into the mind of someone else.",
+      "DEF_ZH":"（在心理学或催眠中）将想法或冲动植入他人的心智中。",
+      "SENT_EN":"The hypnotist attempted to suggest a feeling of calmness to the patient.",
+      "SENT_ZH":"催眠师试图向病人灌输一种平静的感觉。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

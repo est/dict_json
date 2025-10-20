@@ -1,0 +1,111 @@
+{
+  "WORD":"send",
+  "IPA":"/sɛnd/",
+  "CONJUGATES":"sends | sending | sent",
+  "ETYMOLOGY":"From Old English *sendan*, related to Old Norse *senda* and Gothic *sandjan*, ultimately from Proto-Germanic *sandijaną* (meaning 'to cause to go').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"send [sth]\nsend [sth] to [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To arrange for the delivery of a message, package, or person to a destination.",
+      "DEF_ZH":"安排将信息、包裹或某人送至目的地；寄送；发送。",
+      "SENT_EN":"Please send me an email with the details attached as soon as possible.",
+      "SENT_ZH":"请尽快给我发送一封附带详细信息的电子邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dispatch",
+            "transmit",
+            "forward",
+            "convey"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "receive",
+            "get"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"send [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "general"
+      ],
+      "DEF_EN":"To commission or instruct a person to go somewhere or perform a specific task.",
+      "DEF_ZH":"委派、指派某人去某地或执行特定任务。",
+      "SENT_EN":"They decided to send a medical team to the disaster area immediately.",
+      "SENT_ZH":"他们决定立即派遣一支医疗队前往灾区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deploy",
+            "assign",
+            "delegate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"send [sth] [adv/prep]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "figurative",
+        "physical"
+      ],
+      "DEF_EN":"To cause something or someone to move suddenly or violently, often implying projection or propulsion.",
+      "DEF_ZH":"使某物或某人突然或猛烈地移动；抛出；驱动。",
+      "SENT_EN":"The collision sent debris flying across the highway.",
+      "SENT_ZH":"碰撞将碎片抛洒在高速公路上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "propel",
+            "drive",
+            "launch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"send [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "slang",
+        "dated",
+        "colloquial"
+      ],
+      "DEF_EN":"To fill someone with strong, often positive, emotion; to thrill or delight.",
+      "DEF_ZH":"使人感到兴奋或狂喜（俚语）。",
+      "SENT_EN":"That bass line really sends me; it's so catchy.",
+      "SENT_ZH":"那段低音线真让我兴奋，太好听了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thrill",
+            "excite",
+            "delight"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

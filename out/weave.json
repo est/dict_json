@@ -1,0 +1,106 @@
+{
+  "WORD":"weave",
+  "IPA":"/wiːv/",
+  "CONJUGATES":"weaves | weaving | wove | woven",
+  "ETYMOLOGY":"From Old English wefan, from Proto-Germanic *webaną, meaning 'to weave, plait'.",
+  "SINCE":"Old English (pre-12th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"weave [sth] (cloth/basket)",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "textile",
+        "craft"
+      ],
+      "DEF_EN":"To form fabric or material by interlacing threads or strips of material.",
+      "DEF_ZH":"编织；织造。通过交错或交织线或材料条来形成布料或材料。",
+      "SENT_EN":"It takes great skill to weave silk into fine fabric.",
+      "SENT_ZH":"将丝绸织成精美的布料需要高超的技巧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "knit",
+            "plait",
+            "braid",
+            "interlace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weave [sth] (story/plot)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"To interlock or blend distinct elements, events, or facts into a coherent whole, such as a story or plan.",
+      "DEF_ZH":"编造；组织（故事、情节）。将不同的元素、事件或事实相互连接或融合，形成一个连贯的整体。",
+      "SENT_EN":"The director managed to weave comedy and tragedy throughout the film.",
+      "SENT_ZH":"导演成功地将喜剧和悲剧贯穿在整部电影中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "construct",
+            "blend",
+            "intertwine",
+            "integrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weave (through/around)",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb",
+      "TAGS":[
+        "movement",
+        "driving"
+      ],
+      "DEF_EN":"To move by twisting and turning, especially to make one's way in a winding or zigzag course through obstacles.",
+      "DEF_ZH":"穿梭；蜿蜒前行。通过扭曲和转向的方式移动，通常是为了在障碍物中走出一个之字形或弯曲的路线。",
+      "SENT_EN":"The car illegally wove in and out of the lanes during rush hour.",
+      "SENT_ZH":"在高峰时段，那辆车非法地在车道中穿梭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "zigzag",
+            "meander",
+            "thread",
+            "snake"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a weave",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "textile",
+        "technical"
+      ],
+      "DEF_EN":"A particular pattern or method of interlacing threads in the process of weaving fabric.",
+      "DEF_ZH":"织法；编织图案。在织布过程中将线交织在一起的特定图案或方法。",
+      "SENT_EN":"Twill is a type of weave often used for durable trousers.",
+      "SENT_ZH":"斜纹布是一种常用于制作耐穿裤子的织法。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "twill",
+            "satin",
+            "basketweave"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across general, literary, and technical usage."
+}

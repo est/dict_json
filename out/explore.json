@@ -1,0 +1,92 @@
+{
+  "WORD":"explore",
+  "IPA":"/ɪkˈsplɔːr/",
+  "CONJUGATES":"explores | exploring | explored",
+  "ETYMOLOGY":"From French explorer, and directly from Latin explōrāre, meaning 'to search out, investigate, examine', possibly related to plōrāre ('to weep, cry out').",
+  "SINCE":"c. 1530s",
+  "MEANINGS":[
+    {
+      "PATTERN":"explore [sth] (a region\na place)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To travel through an unfamiliar area to learn about it, or to survey a new place.",
+      "DEF_ZH":"勘探；考察；游历（不熟悉的地方）。",
+      "SENT_EN":"The scientists decided to explore the depths of the Mariana Trench.",
+      "SENT_ZH":"科学家们决定探索马里亚纳海沟的深处。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "investigate",
+            "survey",
+            "reconnoiter",
+            "traverse"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exploration",
+            "discover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"explore [sth] (an idea\na concept | a problem)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"To examine or discuss a subject, problem, or concept thoroughly in order to understand it fully.",
+      "DEF_ZH":"探究；研讨；深入分析（主题、想法、问题）。",
+      "SENT_EN":"We need to explore all possible options before making a final decision.",
+      "SENT_ZH":"在做出最终决定之前，我们需要探讨所有可能的选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analyze",
+            "study",
+            "delve into",
+            "consider"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"explore (for [sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To search randomly or aimlessly.",
+      "DEF_ZH":"漫游；随意搜寻。",
+      "SENT_EN":"The children spent the afternoon exploring near the creek.",
+      "SENT_ZH":"孩子们花了整个下午在小溪附近漫游。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"explore [sth] (a wound\na body cavity)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "technical",
+        "medical"
+      ],
+      "DEF_EN":"To examine a patient's body internally, usually by feeling or surgically, to diagnose or treat a problem.",
+      "DEF_ZH":"探查（伤口或身体内部，通常指手术或触诊）。",
+      "SENT_EN":"The surgeon was forced to explore the abdominal area for hidden trauma.",
+      "SENT_ZH":"外科医生被迫探查腹部区域以寻找隐藏的创伤。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, academic, and technical (medical, geographical)."
+}

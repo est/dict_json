@@ -1,0 +1,132 @@
+{
+  "WORD":"tube",
+  "IPA":"/tuːb/",
+  "CONJUGATES":"tubes | tubing | tubed",
+  "ETYMOLOGY":"From Middle English, derived from Old French *tube*, from Latin *tubus* 'pipe, channel'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical object"
+      ],
+      "DEF_EN":"A long, hollow cylinder, typically made of plastic, metal, or glass, used for conveying or holding fluids, gases, or other materials; a pipe or hose.",
+      "DEF_ZH":"细长的空心圆柱体，通常由塑料、金属或玻璃制成，用于输送或容纳流体、气体或其他材料；管道或软管。",
+      "SENT_EN":"The chemist poured the liquid into a test tube.",
+      "SENT_ZH":"化学家将液体倒入试管中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pipe",
+            "conduit",
+            "hose"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cylinder",
+            "test tube"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "packaging"
+      ],
+      "DEF_EN":"A collapsible, sealed container, usually cylindrical, holding a semi-liquid or viscous substance, such as toothpaste, adhesive, or ointment.",
+      "DEF_ZH":"一种可挤压的密封容器，通常呈圆柱形，用于盛装半液体或粘稠物质，如牙膏、胶水或药膏。",
+      "SENT_EN":"Please hand me the tube of antiseptic cream.",
+      "SENT_ZH":"请把那管抗菌药膏递给我。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "toothpaste",
+            "ointment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The Tube",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "British English",
+        "colloquial",
+        "proper noun"
+      ],
+      "DEF_EN":"The common name for the London Underground railway system.",
+      "DEF_ZH":"伦敦地铁系统的俗称。",
+      "SENT_EN":"We took the Tube from Heathrow straight into central London.",
+      "SENT_ZH":"我们乘地铁从希思罗机场直接进入伦敦市中心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subway",
+            "metro",
+            "underground"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "electronics",
+        "dated"
+      ],
+      "DEF_EN":"Short for vacuum tube or cathode ray tube (CRT); an electronic device used to control or amplify electric current (now largely replaced by solid-state components).",
+      "DEF_ZH":"真空管或阴极射线管 (CRT) 的简称；用于控制或放大电流的电子设备（现已被固态元件取代）。",
+      "SENT_EN":"Many audiophiles prefer the sound quality of classic tube amplifiers.",
+      "SENT_ZH":"许多发烧友偏爱经典电子管放大器的音质。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "valve",
+            "CRT",
+            "vacuum tube"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tube [sth]\ntube [through sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To furnish, supply, or enclose something in a tube or pipe; to move or convey something through a tube.",
+      "DEF_ZH":"用管子装备、供给或包裹某物；通过管道移动或输送某物。",
+      "SENT_EN":"The company tubes fresh water directly into the houses.",
+      "SENT_ZH":"该公司通过管道直接向房屋输送淡水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "channel",
+            "pipe",
+            "convey"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific regional/technical applications."
+}

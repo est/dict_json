@@ -1,0 +1,88 @@
+{
+  "WORD":"discriminate",
+  "IPA":"/dɪˈskrɪmɪneɪt/",
+  "CONJUGATES":"discriminates | discriminating | discriminated",
+  "ETYMOLOGY":"From Latin discriminare 'distinguish between', from discrimen 'distinction', from discernere 'to separate, discern'",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"discriminate between [sth] and [sth]",
+      "POS":"v.intr.",
+      "POS_TIP":"v.intr. stands for 'intransitive verb', a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To recognize or perceive a difference; to distinguish between things.",
+      "DEF_ZH":"识别或察觉差异；区分事物。",
+      "SENT_EN":"It is important to discriminate between fact and opinion.",
+      "SENT_ZH":"区分事实和观点很重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distinguish",
+            "differentiate",
+            "discern",
+            "separate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discriminate against [sb]/[sth]",
+      "POS":"v.intr.",
+      "POS_TIP":"v.intr. stands for 'intransitive verb', a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "often negative connotation"
+      ],
+      "DEF_EN":"To make an unjust or prejudicial distinction in the treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+      "DEF_ZH":"对不同类别的人或事物（尤指基于种族、年龄或性别）作出不公正或带有偏见的区别对待。",
+      "SENT_EN":"It is illegal to discriminate against job applicants because of their age.",
+      "SENT_ZH":"因年龄歧视求职者是违法的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prejudice",
+            "bias",
+            "show prejudice"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "treat equally",
+            "be impartial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discriminate [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"v.tr. stands for 'transitive verb', a verb that takes a direct object.",
+      "TAGS":[
+        "common",
+        "slightly formal"
+      ],
+      "DEF_EN":"To perceive or constitute the difference between (things or people).",
+      "DEF_ZH":"察觉或构成（事物或人）之间的差异。",
+      "SENT_EN":"The human eye can discriminate millions of colors.",
+      "SENT_ZH":"人眼能辨别出数百万种颜色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perceive",
+            "discern",
+            "distinguish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general. Often used in legal, social, and academic contexts for the negative meaning, and general or scientific contexts for the neutral meaning."
+}

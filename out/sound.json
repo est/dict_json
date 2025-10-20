@@ -1,0 +1,143 @@
+{
+  "WORD":"sound",
+  "IPA":"/saʊnd/",
+  "CONJUGATES":"sounds | sounded | sounding (v) | sounder | soundest (adj)",
+  "ETYMOLOGY":"For Noun 1 and Verb 3/4: From Old French 'son', via Latin 'sonus' (noise, tone). For Adjective 2: From Old English 'gesund' (healthy, safe). For Noun 5 (strait): From Old English 'sund' (act of swimming, stretch of water).",
+  "SINCE":"Pre-1000 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physics",
+        "sensation"
+      ],
+      "DEF_EN":"Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.",
+      "DEF_ZH":"声音；声波；听觉",
+      "SENT_EN":"The sudden sound of the car horn made everyone jump.",
+      "SENT_ZH":"汽车喇叭发出的突然声响把所有人都吓了一跳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "noise",
+            "tone",
+            "audio"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "decibel",
+            "ultrasound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] sound [adj]\nsound like [sth]",
+      "POS":"v link | v intr",
+      "POS_TIP":"linking verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "perception"
+      ],
+      "DEF_EN":"To convey a particular impression when heard or read; to seem or appear to be.",
+      "DEF_ZH":"听起来（像）；似乎是；给人的印象是",
+      "SENT_EN":"That sounds like an excellent idea for the presentation.",
+      "SENT_ZH":"这听起来像是关于演示的一个绝佳主意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seem",
+            "appear",
+            "suggest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "quality",
+        "formal"
+      ],
+      "DEF_EN":"In good condition; not damaged, diseased, or flawed; based on good judgment or logic.",
+      "DEF_ZH":"健康的；完好的；合理的；可靠的",
+      "SENT_EN":"The lawyer gave them sound advice regarding the contract terms.",
+      "SENT_ZH":"律师就合同条款向他们提供了可靠的建议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reliable",
+            "robust",
+            "valid",
+            "sensible"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unreliable",
+            "flawed",
+            "unsound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] sound [sth]",
+      "POS":"v tr | v intr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "action"
+      ],
+      "DEF_EN":"To make or emit a noise, often a signal or warning.",
+      "DEF_ZH":"发出声音；鸣响；吹响（号角等）",
+      "SENT_EN":"The trumpets sounded a loud fanfare as the king arrived.",
+      "SENT_ZH":"国王驾到时，号手吹响了响亮的号声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ring",
+            "blare",
+            "resound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the [place] Sound",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geography",
+        "nautical",
+        "less common"
+      ],
+      "DEF_EN":"A large, wide inlet of the sea, or a narrow channel connecting two seas or large bodies of water.",
+      "DEF_ZH":"海峡；海湾；水道（特指连接大水域的狭窄水道）",
+      "SENT_EN":"The ferry travels across the Long Island Sound every hour.",
+      "SENT_ZH":"渡轮每小时都会穿过长岛海湾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strait",
+            "channel",
+            "firth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

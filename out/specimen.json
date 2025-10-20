@@ -1,0 +1,90 @@
+{
+  "WORD":"specimen",
+  "IPA":"/'spɛsɪmən/",
+  "CONJUGATES":"specimens (plural)",
+  "ETYMOLOGY":"From Latin specimen, meaning 'a means of seeing, a sign, a mark, a model', from specere 'to look at, behold'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (N)",
+      "TAGS":[
+        "core word",
+        "science",
+        "biology"
+      ],
+      "DEF_EN":"An individual animal, plant, mineral, or other object collected as an example of its species or type for scientific study or display.",
+      "DEF_ZH":"用于科学研究或展示的，作为其物种或类型代表的个体动物、植物、矿物或其他物体；标本。",
+      "SENT_EN":"The biologist examined the blood specimen under the microscope.",
+      "SENT_ZH":"这位生物学家在显微镜下检查了血液标本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sample",
+            "example",
+            "type",
+            "case"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "biopsy",
+            "archive",
+            "slide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a specimen of [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (N)",
+      "TAGS":[
+        "general",
+        "representative"
+      ],
+      "DEF_EN":"A typical or representative example or instance of something.",
+      "DEF_ZH":"某事物的典型或具有代表性的实例或例子。",
+      "SENT_EN":"The cathedral is a magnificent specimen of Gothic architecture.",
+      "SENT_ZH":"这座大教堂是哥特式建筑的宏伟典范。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instance",
+            "illustration",
+            "model"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a specimen of [sb]",
+      "POS":"noun",
+      "POS_TIP":"Noun (N)",
+      "TAGS":[
+        "figurative",
+        "humorous",
+        "derogatory"
+      ],
+      "DEF_EN":"A particular person or type of person, often used informally to refer to someone unusual, strange, or noteworthy.",
+      "DEF_ZH":"某类或某种类型的人（常非正式地指代不寻常、古怪或值得注意的人）。",
+      "SENT_EN":"He was a rather curious specimen, dressed in clothes thirty years out of style.",
+      "SENT_ZH":"他是一个相当古怪的家伙，穿着三十年前就已过时的衣服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "character",
+            "individual",
+            "oddity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard; formal in scientific contexts."
+}

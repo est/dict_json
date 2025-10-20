@@ -1,0 +1,61 @@
+{
+  "WORD":"forecast",
+  "IPA":"/ˈfɔːrˌkæst/",
+  "CONJUGATES":"verb: forecasts | forecasting | forecast (past tense, past participle) | noun: forecasts",
+  "ETYMOLOGY":"From Old English 'fore-' (before) + 'cast' (to throw, plan). The meaning 'to predict' developed later.",
+  "SINCE":"Late 14th century (for planning); early 17th century (for prediction)",
+  "MEANINGS":[
+    {
+      "PATTERN":"forecast [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; takes a direct object",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"To predict or estimate a future event or trend based on available data or analysis.",
+      "DEF_ZH":"根据现有数据或分析，预测或估计未来的事件或趋势。",
+      "SENT_EN":"Economists forecast slow growth for the coming year.",
+      "SENT_ZH":"经济学家预测未来一年经济增长缓慢。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "predict",
+            "foretell",
+            "foresee",
+            "project",
+            "anticipate",
+            "estimate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a forecast of [sth]\nthe weather forecast",
+      "POS":"n",
+      "POS_TIP":"noun; a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"A statement about what is likely to happen in the future, often based on data or analysis, especially concerning weather or economic conditions.",
+      "DEF_ZH":"关于未来可能发生的事情的陈述，通常基于数据或分析，特别是关于天气或经济状况。",
+      "SENT_EN":"The weather forecast predicts rain for tomorrow.",
+      "SENT_ZH":"天气预报说明天有雨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prediction",
+            "prognosis",
+            "projection",
+            "outlook",
+            "estimate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,112 @@
+{
+  "WORD":"main",
+  "IPA":"/meɪn/",
+  "CONJUGATES":"mains",
+  "ETYMOLOGY":"From Old English mægen ('power, strength, force'), related to Old Norse megn. The sense of 'principal' or 'chief' developed later, likely influenced by the earlier meaning of 'force' or 'magnitude'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"main [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Chief in size, importance, or influence; principal.",
+      "DEF_ZH":"主要的；最重要的；首要的。",
+      "SENT_EN":"The main reason for the delay was heavy traffic.",
+      "SENT_ZH":"延误的主要原因是交通拥堵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chief",
+            "principal",
+            "primary",
+            "leading"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "minor",
+            "subsidiary",
+            "secondary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the main\na water/gas main",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "infrastructure"
+      ],
+      "DEF_EN":"A principal pipe, conduit, or channel in a system, often supplying gas, water, or electricity to a building or district.",
+      "DEF_ZH":"（管道或线路）总干线；主管道（如水管、煤气管）。",
+      "SENT_EN":"A burst water main caused extensive flooding in the street.",
+      "SENT_ZH":"一根爆裂的水管总干线导致街道大面积积水。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "conduit",
+            "trunk line",
+            "utility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"main",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "computing",
+        "jargon"
+      ],
+      "DEF_EN":"In computer programming, the primary or starting function or routine of a program (often referred to as 'main function').",
+      "DEF_ZH":"（计算机编程）主程序；主函数，程序的入口点。",
+      "SENT_EN":"The execution starts immediately in the main function.",
+      "SENT_ZH":"程序执行立即从主函数开始。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "routine",
+            "function",
+            "entry point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"might and main",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "archaic",
+        "idiomatic",
+        "set phrase"
+      ],
+      "DEF_EN":"Physical strength or power; force (used primarily in fixed phrases like 'with might and main').",
+      "DEF_ZH":"体力；力量（仅用于'with might and main'等固定短语中）。",
+      "SENT_EN":"He struggled with might and main to lift the heavy box.",
+      "SENT_ZH":"他竭尽全力去搬那个沉重的箱子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "might",
+            "power",
+            "force"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, technical, and programming contexts."
+}

@@ -1,0 +1,83 @@
+{
+  "WORD":"guess",
+  "IPA":"/ɡɛs/",
+  "CONJUGATES":"guesses | guessed | guessing",
+  "ETYMOLOGY":"Origin uncertain, possibly from Middle Dutch *gissen* (to estimate, conjecture) or Old Norse *giska*.",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"guess [sth]\nguess [that]",
+      "POS":"vtr | vit",
+      "POS_TIP":"vtr (transitive verb, requiring a direct object) | vit (intransitive verb)",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To form an opinion, conclusion, or estimation about something without having sufficient evidence or certain knowledge.",
+      "DEF_ZH":"猜测；估计；推测；凭直觉判断",
+      "SENT_EN":"It is difficult to guess the exact cost before we start the project.",
+      "SENT_ZH":"在项目开始前，很难猜出确切的成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conjecture",
+            "speculate",
+            "surmise",
+            "estimate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hazard a guess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] guess\n[the] guess",
+      "POS":"nc",
+      "POS_TIP":"nc (countable noun)",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"An opinion, estimate, or judgment formed by guessing.",
+      "DEF_ZH":"猜测；推测；估计（名词）",
+      "SENT_EN":"My guess is that the population will continue to increase.",
+      "SENT_ZH":"我的猜测是人口将继续增长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conjecture",
+            "estimation",
+            "hunch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"I guess [so/that]",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb)",
+      "TAGS":[
+        "informal",
+        "colloquial"
+      ],
+      "DEF_EN":"To suppose, believe, or assume, often used to express a reluctant acceptance, agreement, or resignation.",
+      "DEF_ZH":"我想；我认为；大概（常用于表示勉强同意或无奈）",
+      "SENT_EN":"\"Are you going to join us?\" \"I guess I should.\"",
+      "SENT_ZH":"“你打算加入我们吗？” “我想我应该加入。”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suppose",
+            "assume"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

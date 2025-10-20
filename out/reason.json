@@ -1,0 +1,93 @@
+{
+  "WORD":"reason",
+  "IPA":"/ˈriːzən/",
+  "CONJUGATES":"reasons | reasoning | reasoned",
+  "ETYMOLOGY":"From Middle English, via Old French raison, ultimately from Latin ratiōnem (nominative ratiō) meaning 'reckoning, computation, system, reason'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"reason [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A cause, explanation, or justification for an action, event, or belief.",
+      "DEF_ZH":"某事、某行为或某一信念的原因、解释或正当理由。",
+      "SENT_EN":"What was the reason for the sudden change in plans?",
+      "SENT_ZH":"计划突然改变的原因是什么？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cause",
+            "motive",
+            "justification",
+            "basis"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rationale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reason",
+      "POS":"n.",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "abstract",
+        "philosophical"
+      ],
+      "DEF_EN":"The power of the mind to think, understand, and form judgments logically.",
+      "DEF_ZH":"运用逻辑、进行思考和形成判断的心智能力；理性，理智。",
+      "SENT_EN":"The belief system defied common sense and reason.",
+      "SENT_ZH":"这个信仰体系违背了常识和理性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "logic",
+            "intellect",
+            "sense",
+            "mind"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rationality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reason [v]\nreason [with sb]",
+      "POS":"vit | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To think, understand, and infer in a logical way; to persuade someone using logical arguments.",
+      "DEF_ZH":"以逻辑方式思考、理解并推断；或使用逻辑论证说服某人（通常与 'with' 连用）。",
+      "SENT_EN":"We need to reason out the solution before we start building the structure.",
+      "SENT_ZH":"我们需要在开始构建结构之前，先推理出解决方案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deduce",
+            "infer",
+            "deliberate",
+            "persuade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common (General, Academic, Philosophical)"
+}

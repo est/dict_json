@@ -1,0 +1,74 @@
+{
+  "WORD":"pollution",
+  "IPA":"/pəˈluːʃən/",
+  "CONJUGATES":"pollutions (pl)",
+  "ETYMOLOGY":"From Middle English pollucioun, from Old French pollution, from Latin pollutio ('a soiling, defilement'), from polluere ('to soil, defile, contaminate').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] [sth]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "environmental",
+        "common"
+      ],
+      "DEF_EN":"The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+      "DEF_ZH":"指将有害或有毒物质引入环境中所造成的污染或有害影响。",
+      "SENT_EN":"Air pollution in major cities is a serious health concern.",
+      "SENT_ZH":"大城市的空气污染是一个严重的健康问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contamination",
+            "defilement",
+            "taint",
+            "poisoning"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "purification",
+            "cleanliness",
+            "decontamination"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pollutant",
+            "environmentalism",
+            "smog",
+            "effluent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[C] [sth]",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "specific",
+        "technical"
+      ],
+      "DEF_EN":"A specific substance or source causing harm to the environment.",
+      "DEF_ZH":"造成环境危害的特定物质或污染源。",
+      "SENT_EN":"The factory was fined for releasing several pollutions into the river.",
+      "SENT_ZH":"这家工厂因向河流排放了几种污染物而被罚款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contaminant",
+            "pollutant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and general contexts, particularly relating to environment, health, and industry."
+}

@@ -1,0 +1,110 @@
+{
+  "WORD":"spill",
+  "IPA":"/spɪl/",
+  "CONJUGATES":"spills | spilled | spilt | spilling",
+  "ETYMOLOGY":"From Middle English spillen, ultimately from Old English spillan ('to destroy, waste, kill'). The modern sense of 'cause to flow over' was strongly influenced by Middle Dutch spillen ('to waste, pour out').",
+  "SINCE":"Before 12th century (meaning 'to waste'); 14th century (meaning 'to overflow')",
+  "MEANINGS":[
+    {
+      "PATTERN":"spill [sth]\nspill over",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive verb (takes a direct object) | Intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cause or allow liquid or granular material to flow or run over the edge of a container, usually unintentionally.",
+      "DEF_ZH":"（使液体或颗粒物）溢出，洒出；流出容器。",
+      "SENT_EN":"Be careful not to spill the milk when you pour it into the glass.",
+      "SENT_ZH":"把牛奶倒进杯子里时要小心，别洒了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overflow",
+            "slop",
+            "pour out"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "leak",
+            "drip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spill the beans\nspill [sth]",
+      "POS":"vtr (idiom)",
+      "POS_TIP":"Transitive verb (takes a direct object) | Idiom",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To reveal secret, confidential, or previously unknown information.",
+      "DEF_ZH":"泄露（秘密）；说出实情；透露消息。",
+      "SENT_EN":"The investigative journalist threatened to spill the secrets of the corporation.",
+      "SENT_ZH":"这名调查记者威胁要曝光这家公司的秘密。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reveal",
+            "disclose",
+            "divulge",
+            "let the cat out of the bag"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a spill (of [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "environmental"
+      ],
+      "DEF_EN":"An amount of liquid or substance that has been spilled, often used specifically for large environmental incidents (e.g., oil spill).",
+      "DEF_ZH":"溢出物；洒出的量；（尤指环境事故中的）泄漏。",
+      "SENT_EN":"The recent oil spill caused serious damage to the coastal ecosystem.",
+      "SENT_ZH":"最近的石油泄漏对沿海生态系统造成了严重破坏。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "leakage",
+            "slick",
+            "effluent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take a spill",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "informal",
+        "common"
+      ],
+      "DEF_EN":"An accidental fall or tumble.",
+      "DEF_ZH":"跌倒；摔跤。",
+      "SENT_EN":"The mountain biker took a nasty spill when he hit the jump too fast.",
+      "SENT_ZH":"那名山地车手冲坡太快，摔了一跤（摔得很惨）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fall",
+            "tumble",
+            "crash"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly common in informal conversation and environmental reporting."
+}

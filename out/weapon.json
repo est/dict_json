@@ -1,0 +1,95 @@
+{
+  "WORD":"weapon",
+  "IPA":"/ˈwɛpən/",
+  "CONJUGATES":"weapons (plural) | weapons (3rd person singular present) | weaponing (present participle) | weaponed (past tense, past participle)",
+  "ETYMOLOGY":"From Old English wæpen, from Proto-Germanic *wēpanom.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"weapon",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An instrument or device used for fighting or hunting, or for defense against an enemy.",
+      "DEF_ZH":"用于战斗、狩猎或防御敌人的工具或装置。",
+      "SENT_EN":"The police found a dangerous weapon at the scene of the crime.",
+      "SENT_ZH":"警方在犯罪现场发现了一件危险武器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arm",
+            "firearm",
+            "implement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "armament",
+            "weaponry",
+            "weaponize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weapon [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Something used to gain an advantage or to defend oneself in a non-physical conflict or situation.",
+      "DEF_ZH":"在非物理冲突或情境中，用于获得优势或自卫的手段。",
+      "SENT_EN":"Her sharp wit was her most formidable weapon in the debate.",
+      "SENT_ZH":"她敏锐的才智是她在辩论中最强大的武器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tool",
+            "means",
+            "asset",
+            "instrument"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weapon [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To equip with weapons; to provide with arms; to turn something into a weapon.",
+      "DEF_ZH":"用武器装备；提供武器；将某物变成武器。",
+      "SENT_EN":"The rebels were secretly weaponed by a foreign power.",
+      "SENT_ZH":"反叛者被外国势力秘密武装起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arm",
+            "equip",
+            "furnish",
+            "munition"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "weaponize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

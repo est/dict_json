@@ -1,0 +1,90 @@
+{
+  "WORD":"ounce",
+  "IPA":"/aʊns/",
+  "CONJUGATES":"ounces",
+  "ETYMOLOGY":"From Old French once, from Latin uncia 'a twelfth part', referring to a twelfth of a pound (though its value has varied). Related to 'inch'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"an ounce (of [sth])",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun, a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "measurement"
+      ],
+      "DEF_EN":"A unit of weight in the avoirdupois system, equal to approximately 28.35 grams or one sixteenth of a pound. Also a unit of weight in the troy and apothecaries' systems, equal to 31.103 grams.",
+      "DEF_ZH":"一种重量单位，在常衡制中约等于28.35克，或一磅的十六分之一。在金衡制和药衡制中约等于31.103克。",
+      "SENT_EN":"The recipe calls for three ounces of chocolate.",
+      "SENT_ZH":"这个食谱需要三盎司巧克力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gram",
+            "pound",
+            "kilogram"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fluid ounce (of [sth])",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun, a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "measurement",
+        "liquid"
+      ],
+      "DEF_EN":"A unit of liquid measure, equal to 1/16 of a pint (approximately 28.4 ml in the UK and 29.6 ml in the US).",
+      "DEF_ZH":"一种液体容量单位，等于1/16品脱（在英国约合28.4毫升，在美国约合29.6毫升）。",
+      "SENT_EN":"Add eight fluid ounces of water to the mixture.",
+      "SENT_ZH":"向混合物中加入八液量盎司的水。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "milliliter",
+            "pint",
+            "liter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an ounce of [sth abstract]",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun, a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A very small amount of something, especially an abstract quality or characteristic.",
+      "DEF_ZH":"极少量（尤指抽象的品质或特征）。",
+      "SENT_EN":"She didn't show an ounce of regret for her actions.",
+      "SENT_ZH":"她对自己的行为丝毫没有表现出悔意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bit",
+            "trace",
+            "scrap",
+            "smidgen"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plenty",
+            "abundance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, used in various contexts from everyday measurements to idiomatic expressions."
+}

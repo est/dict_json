@@ -1,0 +1,110 @@
+{
+  "WORD":"trade",
+  "IPA":"/treɪd/",
+  "CONJUGATES":"trades | trading | traded",
+  "ETYMOLOGY":"From Middle English, derived from Middle Low German *trade* (track, course). Originally meant 'path' or 'habitual course of action,' evolving into 'occupation' (15th century) and finally to 'commerce' (16th century). Related to Old English *tredan* (to tread).",
+  "SINCE":"c. 1400 (occupation/course); c. 1540 (commerce)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] trade\ntrade [in sth]",
+      "POS":"n, mass",
+      "POS_TIP":"noun, mass (uncountable)",
+      "TAGS":[
+        "core word",
+        "economics"
+      ],
+      "DEF_EN":"The commercial activity of buying and selling goods and services, often on a large or international scale.",
+      "DEF_ZH":"商业性的货物和服务交换；贸易；商业。",
+      "SENT_EN":"The current trade surplus indicates strong exports for the country.",
+      "SENT_ZH":"当前的贸易顺差表明该国出口强劲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commerce",
+            "business",
+            "exchange"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "import",
+            "export",
+            "tariff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trade [sth]\ntrade [in sth]",
+      "POS":"v, tr | v, intr",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "business"
+      ],
+      "DEF_EN":"To engage in the exchange, purchase, or sale of goods, especially professionally or as a business.",
+      "DEF_ZH":"进行交易；买卖；从事贸易。",
+      "SENT_EN":"They primarily trade agricultural commodities on the global market.",
+      "SENT_ZH":"他们主要在全球市场上交易农产品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deal",
+            "sell",
+            "market"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] trade\n[the] trade",
+      "POS":"n, count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "common",
+        "workplace"
+      ],
+      "DEF_EN":"A skilled occupation, especially one requiring manual skill and specialized training (often contrasted with a profession or academic field).",
+      "DEF_ZH":"手艺；行业；职业（特指需要技术或培训的蓝领工作）。",
+      "SENT_EN":"He decided to learn a skilled trade like plumbing rather than go to university.",
+      "SENT_ZH":"他决定学习一门技术性行业，比如水管工，而不是去上大学。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "craft",
+            "vocation",
+            "occupation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trade [sth] for [sth else]",
+      "POS":"v, tr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To give one thing in exchange for another, usually of similar value; to swap.",
+      "DEF_ZH":"交换；以物易物。",
+      "SENT_EN":"I traded my sandwich for his apple during lunch break.",
+      "SENT_ZH":"午休时，我用我的三明治换了他的苹果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swap",
+            "barter",
+            "exchange"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Business, Economics, Informal"
+}

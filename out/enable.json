@@ -1,0 +1,102 @@
+{
+  "WORD":"enable",
+  "IPA":"/ɪˈneɪbəl/",
+  "CONJUGATES":"enables | enabling | enabled",
+  "ETYMOLOGY":"From Middle English enablen, from en- (make, put into) + able (having the power or means).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"enable [sb] [sth]\nenable [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To make something possible or easy for someone or something to do; to provide with the means or opportunity.",
+      "DEF_ZH":"使（某事）可能或容易；提供手段或机会。",
+      "SENT_EN":"The new software will enable us to process orders much faster.",
+      "SENT_ZH":"这款新软件将使我们能够更快地处理订单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allow",
+            "permit",
+            "authorize",
+            "facilitate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "prevent",
+            "hinder",
+            "disable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enable [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To activate a setting, function, or feature on a device or system.",
+      "DEF_ZH":"（在设备或系统中）激活设置、功能或特性。",
+      "SENT_EN":"Please enable the two-factor authentication for your account security.",
+      "SENT_ZH":"请为您的账户安全启用双因素认证。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "activate",
+            "turn on"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disable",
+            "deactivate",
+            "turn off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enable [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "psychology",
+        "often negative"
+      ],
+      "DEF_EN":"(In psychology, often negative) To behave in a way that allows or encourages a person with an addiction or problem to continue their destructive behavior.",
+      "DEF_ZH":"（心理学，常含贬义）纵容或鼓励有瘾癖或问题的人继续其破坏性行为。",
+      "SENT_EN":"His constant willingness to lend money only enabled his brother's gambling habit.",
+      "SENT_ZH":"他持续不断地愿意借钱，只是纵容了他兄弟的赌博习惯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condone",
+            "support (negatively)",
+            "foster"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "co-dependency"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal to informal; common in technology and general conversation"
+}

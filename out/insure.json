@@ -1,0 +1,65 @@
+{
+  "WORD":"insure",
+  "IPA":"/ɪnˈʃʊər/",
+  "CONJUGATES":"insures | insuring | insured",
+  "ETYMOLOGY":"From Middle English *ensuren*, from Anglo-Norman *enseurer*, variant of Old French *asseurer* (to assure, make sure). The specific financial meaning related to risk protection crystallized distinctively in English from 'assure' and 'ensure' around the 17th century.",
+  "SINCE":"Late 15th century (meaning developed c. 17th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"insure [sth] against [risk]\ninsure [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "finance",
+        "legal"
+      ],
+      "DEF_EN":"To cover with an insurance policy; to provide compensation for a specified potential loss, damage, illness, or death in exchange for regular payments (premiums).",
+      "DEF_ZH":"为（某事物）投保；通过定期缴纳保费的方式，为指定的潜在损失、损坏、疾病或死亡提供补偿。",
+      "SENT_EN":"You must insure your vehicle against theft before driving it off the lot.",
+      "SENT_ZH":"你必须在将车辆开出停车场之前为其投保防盗险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "underwrite",
+            "cover"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "insurance",
+            "policy",
+            "premium",
+            "ensure",
+            "assure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"insure [sth] (less common, usually replaced by 'ensure')",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "archaic",
+        "dated"
+      ],
+      "DEF_EN":"To make certain that something will occur or be established; to guarantee.",
+      "DEF_ZH":"（旧式用法，现多用 'ensure'）确保某事发生或确立；保证。",
+      "SENT_EN":"The contract was written to insure the timely delivery of goods.",
+      "SENT_ZH":"合同起草的目的是保证货物按时交付。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ensure",
+            "guarantee"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, Legal, Finance"
+}

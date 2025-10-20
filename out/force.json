@@ -1,0 +1,142 @@
+{
+  "WORD":"force",
+  "IPA":"/fɔːrs/",
+  "CONJUGATES":"forces | forcing | forced",
+  "ETYMOLOGY":"From Old French force (strength, power, violence), from Vulgar Latin *fortia*, neuter plural of Latin *fortis* 'strong, powerful'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (n)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"Strength or power, especially physical power or violence exerted to compel or restrain.",
+      "DEF_ZH":"力量；武力；胁迫；权力。",
+      "SENT_EN":"The police had to use force to control the crowd.",
+      "SENT_ZH":"警察不得不使用武力来控制人群。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "might",
+            "strength",
+            "power",
+            "coercion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "duress",
+            "violence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "compulsion"
+      ],
+      "DEF_EN":"To make someone do something against their will or judgment by pressure, threat, or physical power.",
+      "DEF_ZH":"强迫；迫使；促使。",
+      "SENT_EN":"The manager was forced to resign after the scandal broke.",
+      "SENT_ZH":"丑闻爆发后，那位经理被迫辞职。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compel",
+            "oblige",
+            "coerce",
+            "pressure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (n, physics)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"An influence that causes a body of mass to accelerate; a push or pull that tends to change the velocity or shape of an object (often expressed as F=ma).",
+      "DEF_ZH":"力；作用力 (指改变物体运动状态或形状的因素)。",
+      "SENT_EN":"The force of gravity keeps the moon orbiting the Earth.",
+      "SENT_ZH":"引力使月球围绕地球运行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gravity",
+            "friction",
+            "vector",
+            "momentum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] force [of sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "collective",
+        "military",
+        "police"
+      ],
+      "DEF_EN":"A body of people organized for a particular purpose, typically military, police, or emergency service personnel.",
+      "DEF_ZH":"部队；警力；专门的组织或队伍。",
+      "SENT_EN":"She decided to join the air force immediately after college.",
+      "SENT_ZH":"大学毕业后，她决定立即加入空军。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "squad",
+            "corps"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "taskforce",
+            "workforce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"force [sth] open/shut/through",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "physical action"
+      ],
+      "DEF_EN":"To break open, move, or achieve entry using physical strength or effort.",
+      "DEF_ZH":"用力打开；撬开；破门而入。",
+      "SENT_EN":"The firefighters had to force the door open to reach the occupants.",
+      "SENT_ZH":"消防员不得不破门而入以接触里面的住户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "break",
+            "pry",
+            "breach"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"All registers (common in scientific, legal, and everyday speech)"
+}

@@ -1,0 +1,135 @@
+{
+  "WORD":"value",
+  "IPA":"/ˈvæljuː/",
+  "CONJUGATES":"values | valuing | valued",
+  "ETYMOLOGY":"From Old French value (feminine past participle of valoir 'to be worth'), ultimately from Latin valere 'to be strong, be well, be worth'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (monetary)",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "core word",
+        "economic"
+      ],
+      "DEF_EN":"The monetary worth or equivalent of something determined by assessment or market price.",
+      "DEF_ZH":"通过评估或市场价格确定的某物的金钱价值或等价物。",
+      "SENT_EN":"The current market value of the antique vase is considerable.",
+      "SENT_ZH":"这件古董花瓶当前的市值相当可观。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "price",
+            "cost",
+            "worth",
+            "valuation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (importance)",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The importance, worth, or usefulness of something to someone.",
+      "DEF_ZH":"某事物对某人的重要性、价值或用途。",
+      "SENT_EN":"The seminar was of great value to all the participating researchers.",
+      "SENT_ZH":"这次研讨会对所有参与的研究人员都具有巨大的价值。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "significance",
+            "benefit",
+            "importance",
+            "merit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"value [sth/sb]\nvalue [sb] at [amount]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To estimate the monetary worth of something, or to consider something/someone to be important or beneficial.",
+      "DEF_ZH":"估计某物的金钱价值，或认为某事物/某人很重要或有益。",
+      "SENT_EN":"I truly value her insight and dedication to the project.",
+      "SENT_ZH":"我非常珍视她对该项目的洞察力和奉献精神。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cherish",
+            "treasure",
+            "appreciate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disregard",
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[pl. values] (principles)",
+      "POS":"n",
+      "POS_TIP":"noun (countable, usually plural)",
+      "TAGS":[
+        "social",
+        "ethical"
+      ],
+      "DEF_EN":"A person's or society's standards of behavior; principles or beliefs that are considered important.",
+      "DEF_ZH":"个人或社会的行为标准；被认为重要的原则或信念。",
+      "SENT_EN":"The company stresses traditional values like integrity and accountability.",
+      "SENT_ZH":"该公司强调诚信和责任等传统价值观。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ethics",
+            "morals",
+            "principles",
+            "beliefs"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (numerical)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"A numerical quantity or amount determined by or assigned to a variable, calculation, or function.",
+      "DEF_ZH":"通过变量、计算或函数确定或分配的数值或数量。",
+      "SENT_EN":"The scientist plotted the measured value on the graph.",
+      "SENT_ZH":"科学家在图表上绘制了测量值。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quantity",
+            "number",
+            "magnitude"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Economic"
+}

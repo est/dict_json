@@ -1,0 +1,109 @@
+{
+  "WORD":"leaf",
+  "IPA":"/liːf/",
+  "CONJUGATES":"leaves (n, pl) | leafed (v, past/pp) | leafing (v, present part.)",
+  "ETYMOLOGY":"From Old English lēaf, from Proto-Germanic *laubą, meaning 'leaf', ultimately related to broader Indo-European roots potentially linked to 'peel' or 'skin'.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n, countable",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "botany",
+        "nature"
+      ],
+      "DEF_EN":"A flattened green structure of a plant, typically attached to a stem, which is the principal organ of photosynthesis and transpiration.",
+      "DEF_ZH":"植物的扁平绿色结构，通常附着在茎上，是光合作用和蒸腾作用的主要器官。",
+      "SENT_EN":"The tree sheds its leaves in the autumn.",
+      "SENT_ZH":"这棵树在秋天会落叶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blade",
+            "foliage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "petal",
+            "frond",
+            "needle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a leaf of [sth]",
+      "POS":"n, countable",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "common",
+        "print"
+      ],
+      "DEF_EN":"A single sheet of paper, especially in a book, manuscript, or stack.",
+      "DEF_ZH":"一张纸页，尤其指书本、手稿或叠纸中的单张。",
+      "SENT_EN":"The book contains 300 leaves, totaling 600 pages.",
+      "SENT_ZH":"这本书包含 300 张纸页，总共 600 页。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "page",
+            "sheet",
+            "folio"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leaf through [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"verb, intransitive + preposition",
+      "TAGS":[
+        "common",
+        "verb usage"
+      ],
+      "DEF_EN":"To turn the pages of a book or magazine quickly, glancing at them rather than reading carefully.",
+      "DEF_ZH":"快速翻阅（书或杂志），粗略地看一眼而不是仔细阅读。",
+      "SENT_EN":"He leafed through the encyclopedia looking for the entry on Rome.",
+      "SENT_ZH":"他快速翻阅百科全书，寻找关于罗马的条目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flick",
+            "skim",
+            "browse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[material] leaf",
+      "POS":"n, countable",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "specialized"
+      ],
+      "DEF_EN":"A very thin sheet or layer of material, especially metal (like gold or silver), used for decorative purposes.",
+      "DEF_ZH":"一层极薄的材料薄片，尤指用于装饰的金属（如金或银）。",
+      "SENT_EN":"The frame was gilded with fine gold leaf.",
+      "SENT_ZH":"这个框架用上好的金箔镀金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "foil",
+            "lamina"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, literary, and botanical"
+}

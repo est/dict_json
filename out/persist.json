@@ -1,0 +1,94 @@
+{
+  "WORD":"persist",
+  "IPA":"/pərˈsɪst/",
+  "CONJUGATES":"persists | persisting | persisted",
+  "ETYMOLOGY":"From Latin persistere (per- 'through, thoroughly' + sistere 'to stand, stop, or set'), meaning 'to stand firm, continue steadfastly'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth] persist in [doing sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To continue steadfastly or obstinately in a course of action or state, often despite difficulties or opposition.",
+      "DEF_ZH":"坚持不懈或固执地继续某种行动或状态，通常指克服困难或反对。",
+      "SENT_EN":"She persisted in her studies despite working a full-time job.",
+      "SENT_ZH":"尽管她有一份全职工作，但她仍然坚持学习。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "persevere",
+            "continue",
+            "insist"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "quit",
+            "cease",
+            "give up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] persist",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To continue to exist or occur for a prolonged period; to remain.",
+      "DEF_ZH":"持续存在或发生较长时间；保持。",
+      "SENT_EN":"The dry weather is expected to persist throughout the summer.",
+      "SENT_ZH":"预计这种干燥天气将持续整个夏天。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endure",
+            "remain",
+            "linger"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disappear",
+            "vanish",
+            "fade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] persist",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "computing",
+        "specialized"
+      ],
+      "DEF_EN":"To retain data or state beyond the execution of a program or the session in which it was created.",
+      "DEF_ZH":"（数据或状态）在程序执行或创建它的会话结束后仍然保留。",
+      "SENT_EN":"When the user closes the application, the settings will persist to the hard drive.",
+      "SENT_ZH":"当用户关闭应用程序时，设置将持久化到硬盘上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "persistence",
+            "storage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific usage in Computing/IT."
+}

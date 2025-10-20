@@ -1,0 +1,81 @@
+{
+  "WORD":"mile",
+  "IPA":"/maɪl/",
+  "CONJUGATES":"miles | miler | mileage",
+  "ETYMOLOGY":"From Old English mīl, derived from Latin mīlle passuum ('a thousand paces'), the standard Roman measure of distance, corresponding to about 5,000 Roman feet.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (distance)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "measurement",
+        "common"
+      ],
+      "DEF_EN":"A unit of length equal to 5,280 feet (about 1,609 meters), used as the standard measure in the US and UK.",
+      "DEF_ZH":"英里，一种长度单位，等于 5,280 英尺（约 1,609 米），在美国和英国用作标准计量单位。",
+      "SENT_EN":"The speed limit on this highway is 65 miles per hour.",
+      "SENT_ZH":"这条高速公路的限速是每小时 65 英里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "kilometer",
+            "yard",
+            "foot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"nautical mile",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "maritime",
+        "aviation"
+      ],
+      "DEF_EN":"A unit of distance used primarily for navigation at sea and in the air, equal to 1,852 meters (6,076 feet).",
+      "DEF_ZH":"海里，主要用于海上和空中导航的距离单位，等于 1,852 米。",
+      "SENT_EN":"A knot is equivalent to one nautical mile per hour.",
+      "SENT_ZH":"一节相当于每小时一海里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "knot",
+            "league"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"miles (colloquial)",
+      "POS":"n",
+      "POS_TIP":"noun (often used figuratively, usually plural)",
+      "TAGS":[
+        "figurative",
+        "colloquial",
+        "idiomatic"
+      ],
+      "DEF_EN":"A very great distance, space, or difference (used figuratively, often to emphasize magnitude).",
+      "DEF_ZH":"非常远的距离；巨大的程度或差异（常用于比喻，以强调程度）。",
+      "SENT_EN":"This new design is miles better than the previous version.",
+      "SENT_ZH":"这个新设计比以前的版本好得多。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "far",
+            "considerably",
+            "a long way"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

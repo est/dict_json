@@ -1,0 +1,113 @@
+{
+  "WORD":"hedge",
+  "IPA":"/hɛdʒ/",
+  "CONJUGATES":"hedges | hedging | hedged",
+  "ETYMOLOGY":"From Middle English *hegge*, derived from Old English *hecg* (meaning 'fence' or 'enclosure'). Related to Old High German *hegga* and Dutch *heg*.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] hedge (usually plural: hedges)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "horticulture"
+      ],
+      "DEF_EN":"A fence or boundary formed by a row of closely planted shrubs or bushes.",
+      "DEF_ZH":"由一排紧密种植的灌木或矮树形成的篱笆或边界。",
+      "SENT_EN":"The garden was surrounded by a neatly trimmed hedge.",
+      "SENT_ZH":"花园被修剪整齐的树篱环绕着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bush",
+            "fence",
+            "boundary",
+            "screen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hedge against [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To protect oneself against financial loss or risk by making counterbalancing investments.",
+      "DEF_ZH":"通过进行补偿性投资或交易来减轻或抵消金融风险或损失。",
+      "SENT_EN":"Many investors hedge against market volatility by holding gold.",
+      "SENT_ZH":"许多投资者通过持有黄金来对冲市场波动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offset",
+            "counterbalance",
+            "insure"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "arbitrage",
+            "option",
+            "derivative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hedge [one's answer/comments]\nhedge on [sth]",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "common",
+        "discourse"
+      ],
+      "DEF_EN":"To avoid giving a direct answer or making a firm commitment, often by using cautious or ambiguous phrasing.",
+      "DEF_ZH":"避免直接回答或明确表态，通常使用谨慎或模棱两可的措辞。",
+      "SENT_EN":"The minister continued to hedge on the issue of tax reform.",
+      "SENT_ZH":"部长在税收改革问题上继续采取回避态度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equivocate",
+            "prevaricate",
+            "fudge",
+            "dodge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hedge [sth] in",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To enclose, confine, or restrict something (often mentally or physically).",
+      "DEF_ZH":"将某物围起来，限制或束缚（通常指思想或行动）。",
+      "SENT_EN":"His career was hedged in by bureaucratic rules.",
+      "SENT_ZH":"他的职业生涯被官僚主义的规定所限制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confine",
+            "limit",
+            "restrict",
+            "circumscribe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, financial, and horticultural contexts."
+}

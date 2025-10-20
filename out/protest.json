@@ -1,0 +1,110 @@
+{
+  "WORD":"protest",
+  "IPA":"/prəˈtɛst/ | /ˈproʊtɛst/",
+  "CONJUGATES":"protests | protested | protesting",
+  "ETYMOLOGY":"From Old French *protester* (14c.), from Latin *protestari* 'to declare publicly, bear witness, give evidence' (pro- 'forth, publicly' + *testari* 'to bear witness', from *testis* 'witness').",
+  "SINCE":"Early 15th century (verb), 16th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"protest [sth]\nprotest against [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb (stress on second syllable: prəˈtɛst)",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To express strong disapproval or objection publicly, often through organized actions like marches or boycotts.",
+      "DEF_ZH":"（尤指通过集会、游行或罢工等有组织的行动）公开表示强烈反对或异议；抗议。",
+      "SENT_EN":"Thousands of citizens gathered to protest the government's new austerity measures.",
+      "SENT_ZH":"数千名市民聚集在一起抗议政府新的紧缩措施。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demonstrate",
+            "object",
+            "complain",
+            "dissent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "support",
+            "agree",
+            "approve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a protest\nprotest action",
+      "POS":"n [c | u]",
+      "POS_TIP":"countable noun | uncountable noun (stress on first syllable: ˈproʊtɛst)",
+      "TAGS":[
+        "core word",
+        "social action"
+      ],
+      "DEF_EN":"A public demonstration of objection or disapproval.",
+      "DEF_ZH":"反对或异议的公开表达或示威活动；抗议。",
+      "SENT_EN":"The police had to intervene when the protest turned violent.",
+      "SENT_ZH":"当抗议活动演变为暴力事件时，警察不得不介入干预。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demonstration",
+            "objection",
+            "rally",
+            "march"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "protester"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"protest [one's innocence]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (stress on second syllable: prəˈtɛst)",
+      "TAGS":[
+        "formal",
+        "dated"
+      ],
+      "DEF_EN":"To declare solemnly or assert formally, especially when denying guilt or affirming belief.",
+      "DEF_ZH":"郑重声明或正式断言（尤指申明自己无罪或确信某事）。",
+      "SENT_EN":"He protested his innocence until his dying day, despite the overwhelming evidence.",
+      "SENT_ZH":"尽管证据确凿，他仍在临终前声明自己是无辜的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "affirm",
+            "assert",
+            "avow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"note of protest",
+      "POS":"n [c]",
+      "POS_TIP":"countable noun (stress on first syllable: ˈproʊtɛst)",
+      "TAGS":[
+        "legal",
+        "finance",
+        "specialized"
+      ],
+      "DEF_EN":"A formal written statement, usually drawn up by a notary public, testifying that a bill of exchange or promissory note has been dishonored (not paid or accepted).",
+      "DEF_ZH":"（法律或金融）拒绝承兑证书；拒付证明书（证明汇票或期票被拒绝付款）。",
+      "SENT_EN":"The bank attached a formal protest to the unpaid document.",
+      "SENT_ZH":"银行将一份正式的拒付证明书附在了未付款单据上。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Widely used in media, politics, and everyday conversation."
+}

@@ -1,0 +1,110 @@
+{
+  "WORD":"security",
+  "IPA":"/sɪˈkjʊərɪti/",
+  "CONJUGATES":"securities (plural)",
+  "ETYMOLOGY":"From Middle English securite, from Old French securite, from Latin sēcūritās, derived from sēcūrus ('safe, secure'), which is from sē- ('without') + cūra ('care, worry').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"security",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The state of being free from danger or threat; safety.",
+      "DEF_ZH":"安全; 保障; 免受威胁或危险的状态。",
+      "SENT_EN":"The primary role of the police is to ensure public security.",
+      "SENT_ZH":"警察的首要职责是确保公共安全。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "safety",
+            "protection",
+            "safeguard"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "danger",
+            "insecurity",
+            "threat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"security\nsecurity measures",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable or collective, referring to measures or personnel)",
+      "TAGS":[
+        "common",
+        "law enforcement"
+      ],
+      "DEF_EN":"Procedures, physical barriers, or personnel involved in preventing unauthorized access, theft, or harm.",
+      "DEF_ZH":"保卫措施; 安保系统; 安保人员（指为维护安全而采取的措施或人员）。",
+      "SENT_EN":"Airport security checked all our bags thoroughly.",
+      "SENT_ZH":"机场安保彻底检查了我们所有的行李。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defenses",
+            "surveillance",
+            "guard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"securities (plural)\nsecurity",
+      "POS":"n",
+      "POS_TIP":"noun (countable, usually plural in finance)",
+      "TAGS":[
+        "finance",
+        "technical"
+      ],
+      "DEF_EN":"Tradable financial assets, such as stocks, bonds, and notes, representing ownership or debt.",
+      "DEF_ZH":"证券; 有价证券; 金融资产（如股票、债券等）。",
+      "SENT_EN":"She manages a large portfolio of fixed-income securities.",
+      "SENT_ZH":"她管理着大量固定收益证券的投资组合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bond",
+            "stock",
+            "asset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"security for [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"Property or assets deposited or pledged to ensure the fulfillment of an obligation, especially the repayment of a debt; collateral.",
+      "DEF_ZH":"担保品; 抵押物; 保证。",
+      "SENT_EN":"The land was offered as security for the massive loan.",
+      "SENT_ZH":"这片土地被作为大额贷款的担保。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "collateral",
+            "guarantee",
+            "surety"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Law Enforcement, Finance, Technology"
+}

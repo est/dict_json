@@ -1,0 +1,97 @@
+{
+  "WORD":"equation",
+  "IPA":"/ɪˈkweɪʒən/",
+  "CONJUGATES":"equations",
+  "ETYMOLOGY":"From Late Latin aequatio 'a making equal', from aequare 'make equal', from aequus 'equal'.",
+  "SINCE":"Late 14th century (mathematical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"an equation\nsolve an equation",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"A mathematical statement in which two expressions are set equal to each other (e.g., 2x + 3 = 7).",
+      "DEF_ZH":"一个数学式，表示两个表达式相等（例如：2x + 3 = 7）。",
+      "SENT_EN":"Students learned how to solve linear equations.",
+      "SENT_ZH":"学生们学习了如何解线性方程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "formula",
+            "expression",
+            "identity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "algebra",
+            "calculus",
+            "variable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the equation of [sth] with [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The act of equating one thing with another; the process of considering two things as equal or making them equal.",
+      "DEF_ZH":"将两事物视作相等或使之相等的过程；相等状态。",
+      "SENT_EN":"The equation of wealth with happiness is a common misconception.",
+      "SENT_ZH":"将财富等同于幸福是一种普遍的误解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equivalence",
+            "balancing",
+            "comparison"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inequality",
+            "differentiation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"part of the equation\ncomplicate the equation",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A complex set of factors or variables that must be considered in a situation or problem.",
+      "DEF_ZH":"在某个情况或问题中需要考虑的复杂因素或变量的集合。",
+      "SENT_EN":"His lack of experience was an important part of the equation.",
+      "SENT_ZH":"他缺乏经验是这个等式中重要的一部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "factor",
+            "variable",
+            "consideration",
+            "situation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral, depending on the specific meaning and context (e.g., mathematical usage is specific, general usage is neutral)."
+}

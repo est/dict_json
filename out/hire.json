@@ -1,0 +1,87 @@
+{
+  "WORD":"hire",
+  "IPA":"/ˈhaɪər/",
+  "CONJUGATES":"hires | hiring | hired",
+  "ETYMOLOGY":"From Middle English hȳren, derived from Old English hȳrian 'to pay for use, reward', related to hȳr 'rent, wages'.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"hire [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To employ someone for work, usually in exchange for wages or a salary.",
+      "DEF_ZH":"雇佣；聘用（某人）担任工作。",
+      "SENT_EN":"The manager decided to hire a new assistant immediately.",
+      "SENT_ZH":"经理决定立即聘请一位新助理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "employ",
+            "recruit",
+            "engage",
+            "appoint"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fire",
+            "dismiss",
+            "sack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hire [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "UK usage"
+      ],
+      "DEF_EN":"To obtain the temporary use of something (like equipment, property, or transport) by paying a fee; to rent.",
+      "DEF_ZH":"租借；租用（通常指交通工具或设备）。",
+      "SENT_EN":"We need to hire a car for our trip across Scotland.",
+      "SENT_ZH":"我们需要为苏格兰之旅租一辆车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rent",
+            "lease",
+            "charter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] for hire",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "countable/uncountable"
+      ],
+      "DEF_EN":"The temporary use of something for an agreed payment (rent), or the service of being employed.",
+      "DEF_ZH":"租金；租用；可供雇佣或租用的状态。",
+      "SENT_EN":"Bicycles are available for hire near the tourist center.",
+      "SENT_ZH":"旅游中心附近有自行车可供租借。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rental",
+            "lease"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English, Business, Commerce"
+}

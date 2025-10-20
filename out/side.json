@@ -1,0 +1,160 @@
+{
+  "WORD":"side",
+  "IPA":"/saɪd/",
+  "CONJUGATES":"sides | sided | siding",
+  "ETYMOLOGY":"From Old English sīde 'flank, long edge, margin', akin to Dutch zijde and German Seite.",
+  "SINCE":"before 1000 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] side [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A line or surface that limits or defines an object, especially one of the flat surfaces of a solid object.",
+      "DEF_ZH":"物体的一个表面、边缘或界限，尤指立体的一个平面。",
+      "SENT_EN":"The painting was damaged on the right side.",
+      "SENT_ZH":"这幅画的右侧被损坏了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surface",
+            "edge",
+            "face",
+            "flank"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] side [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A spatial region next to or away from the center of something; a specific direction or location.",
+      "DEF_ZH":"在某物旁边或远离中心的区域；一个特定的方向或位置。",
+      "SENT_EN":"He found a seat on the far side of the room.",
+      "SENT_ZH":"他在房间的另一边找到了一个座位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "area",
+            "region",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] side [in a debate/contest]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "social",
+        "politics"
+      ],
+      "DEF_EN":"A group of people or a party holding one position in a dispute, conflict, or contest; a team.",
+      "DEF_ZH":"在争议、冲突或比赛中持有某一立场的群体或一方；队伍。",
+      "SENT_EN":"Which side is expected to win the championship?",
+      "SENT_ZH":"哪一方有望赢得冠军？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "faction",
+            "camp",
+            "team",
+            "party"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "viewpoint",
+            "allegiance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"side [with sb/sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "common verb use"
+      ],
+      "DEF_EN":"To support, align oneself with, or favor one person or group in a conflict or argument.",
+      "DEF_ZH":"在冲突或争论中支持、站队或偏爱某人或某群体。",
+      "SENT_EN":"I had to side with my sister on that difficult decision.",
+      "SENT_ZH":"在那个艰难的决定上，我不得不支持我的姐姐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "support",
+            "back",
+            "agree with"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "oppose",
+            "contradict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"side [dish/order]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "food industry",
+        "colloquial"
+      ],
+      "DEF_EN":"An extra item of food or beverage served separately from the main course; a side dish.",
+      "DEF_ZH":"与主菜分开供应的额外食物或饮料；配菜。",
+      "SENT_EN":"The steak comes with a side of mashed potatoes.",
+      "SENT_ZH":"牛排配有一份土豆泥作配菜。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "entree",
+            "appetizer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"side [noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "attributive"
+      ],
+      "DEF_EN":"Auxiliary; situated at, or coming from, the side; secondary or non-essential.",
+      "DEF_ZH":"辅助的；位于侧面的；次要的或非主要的。",
+      "SENT_EN":"A major drug discovery often comes with unexpected side effects.",
+      "SENT_ZH":"一项重大的药物发现往往伴随着意想不到的副作用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "auxiliary",
+            "secondary",
+            "lateral"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage (applies to geometry, location, social groupings, and conflict)."
+}

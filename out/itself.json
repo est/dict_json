@@ -1,0 +1,81 @@
+{
+  "WORD":"itself",
+  "IPA":"/ɪtˈsɛlf/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Middle English, from it + self.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] itself\n[abstract idea] itself",
+      "POS":"pron",
+      "POS_TIP":"pronoun",
+      "TAGS":[
+        "core word",
+        "reflexive"
+      ],
+      "DEF_EN":"Used as the reflexive form of 'it', referring back to the subject of the clause or sentence when the subject is an inanimate object, animal, or abstract idea.",
+      "DEF_ZH":"“it”的反身代词形式，指代句子的主语（当主语是无生命物体、动物或抽象概念时）。",
+      "SENT_EN":"The cat managed to clean itself thoroughly after the mud bath.",
+      "SENT_ZH":"那只猫在泥浴后彻底把自己清理干净了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "myself",
+            "yourself",
+            "himself",
+            "herself",
+            "ourselves",
+            "yourselves",
+            "themselves"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] itself (emphatic)",
+      "POS":"pron",
+      "POS_TIP":"pronoun",
+      "TAGS":[
+        "core word",
+        "intensive"
+      ],
+      "DEF_EN":"Used to emphasize the specified inanimate subject, often indicating that the subject performs the action without external aid or is notable for its own sake.",
+      "DEF_ZH":"用于强调特定的非生命主语，通常表示主语没有外部帮助自行完成动作，或其本身值得注意。",
+      "SENT_EN":"The city itself is not the problem; it's the lack of proper planning.",
+      "SENT_ZH":"城市本身不是问题；缺乏适当的规划才是问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "per se"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"by itself",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "core word",
+        "idiomatic"
+      ],
+      "DEF_EN":"Alone; without companions or assistance.",
+      "DEF_ZH":"独自地；没有陪伴或帮助地。",
+      "SENT_EN":"The machine started moving all by itself.",
+      "SENT_ZH":"这台机器完全是自己启动运转的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alone",
+            "unattended",
+            "independently"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

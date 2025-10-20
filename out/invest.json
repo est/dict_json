@@ -1,0 +1,96 @@
+{
+  "WORD":"invest",
+  "IPA":"/ɪnˈvɛst/",
+  "CONJUGATES":"invests | investing | invested",
+  "ETYMOLOGY":"From Latin investire, from in- ('into, upon') + vestire ('to clothe'). The original meaning was 'to clothe, surround, or confer official dignity upon'. The modern financial meaning emerged in the 17th century.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"invest [money] in [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "finance",
+        "economics"
+      ],
+      "DEF_EN":"To commit money or capital in order to gain a financial return, income, or profit.",
+      "DEF_ZH":"投入（资金）以期获得利润、收入或回报。",
+      "SENT_EN":"She plans to invest her savings in real estate.",
+      "SENT_ZH":"她计划将积蓄投资于房地产。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commit",
+            "stake",
+            "fund"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdraw",
+            "divest"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "investment",
+            "investor",
+            "portfolio"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"invest [time/effort/resources] in [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To dedicate a significant amount of time, energy, or resources toward something for long-term benefit or improvement.",
+      "DEF_ZH":"投入大量时间、精力或资源，以获得长期利益或改进。",
+      "SENT_EN":"If you want to master a language, you must invest time and effort.",
+      "SENT_ZH":"如果你想掌握一门语言，你必须投入时间和精力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dedicate",
+            "devote",
+            "allocate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"invest [sb] with [authority/power]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "formal",
+        "literary",
+        "old word"
+      ],
+      "DEF_EN":"To formally grant or endow someone with authority, rights, power, or official dignity.",
+      "DEF_ZH":"正式授予或赋予（某人）权威、权利或官职。",
+      "SENT_EN":"The council was invested with the power to approve the new zoning laws.",
+      "SENT_ZH":"理事会被授予批准新分区法的权力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bestow",
+            "endow",
+            "confer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in finance, business, and general discussion about resource allocation."
+}

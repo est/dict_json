@@ -1,0 +1,119 @@
+{
+  "WORD":"plug",
+  "IPA":"/plʌɡ/",
+  "CONJUGATES":"plugs | plugging | plugged",
+  "ETYMOLOGY":"From Middle Dutch plugge or Low German plugge meaning 'peg' or 'wedge', related to blocking or filling.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"A device with pins used to connect electrical equipment to a power supply by inserting it into a corresponding socket.",
+      "DEF_ZH":"插头；插销。用于将电子设备连接到电源，需插入插座的装置。",
+      "SENT_EN":"Remember to pull the plug out when you're finished charging your phone.",
+      "SENT_ZH":"记得在手机充完电后拔掉插头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connector",
+            "adapter",
+            "jack"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "socket",
+            "outlet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plug [sth] (up)",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To stop, block, or fill a hole, gap, or opening with a suitable object or substance.",
+      "DEF_ZH":"堵塞；塞住 (用物体或物质封住孔洞、缝隙或开口)。",
+      "SENT_EN":"The dentist had to plug the cavity in her tooth.",
+      "SENT_ZH":"牙医必须堵住她牙齿上的蛀洞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stop up",
+            "cork",
+            "seal",
+            "block"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unplug",
+            "clear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "media",
+        "slang"
+      ],
+      "DEF_EN":"A mention or reference intended to promote a product, event, or person, usually brief and often unsolicited.",
+      "DEF_ZH":"（非正式）宣传；推介；广告 (通常指在媒体上的简短提及)。",
+      "SENT_EN":"The actor took a moment to give a quick plug for his upcoming movie.",
+      "SENT_ZH":"这位演员花了一点时间来简短宣传他即将上映的电影。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mention",
+            "promotion",
+            "advertisement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plug [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "media"
+      ],
+      "DEF_EN":"To promote or publicize something, often enthusiastically, usually within a non-advertising context.",
+      "DEF_ZH":"推介；宣传；打广告 (通常指在非广告场合大力推荐)。",
+      "SENT_EN":"The radio host spent the last segment plugging the charity concert.",
+      "SENT_ZH":"电台主持人把最后一段时间都用来宣传慈善音乐会了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "promote",
+            "hype",
+            "publicize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, especially common in technology and informal media contexts."
+}

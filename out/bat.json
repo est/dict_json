@@ -1,0 +1,100 @@
+{
+  "WORD":"bat",
+  "IPA":"/bæt/",
+  "CONJUGATES":"bats | batting | batted",
+  "ETYMOLOGY":"Old English batt (meaning 'cudgel, club'), possibly reinforced by Old French batte (club, stick). The animal sense may derive from the club/cudgel sense due to similarity in appearance or motion, or may be of Scandinavian origin.",
+  "SINCE":"c. 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "sports"
+      ],
+      "DEF_EN":"A heavy wooden or aluminum club used to hit the ball in sports like baseball, softball, or cricket.",
+      "DEF_ZH":"（棒球、板球等运动中使用的）球棒，球拍。",
+      "SENT_EN":"He took a swing with the bat and drove the ball into the outfield.",
+      "SENT_ZH":"他挥动球棒，把球打到了外野。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "club",
+            "cudgel",
+            "paddle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "zoology"
+      ],
+      "DEF_EN":"A nocturnal flying mammal of the order Chiroptera, having leathery wings and typically navigating using echolocation.",
+      "DEF_ZH":"蝙蝠（一种夜行性哺乳动物，通过回声定位导航）。",
+      "SENT_EN":"We saw a colony of bats flying out of the cave at dusk.",
+      "SENT_ZH":"我们在黄昏时看到一群蝙蝠飞出洞穴。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chiroptera",
+            "vampire bat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bat [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "core word",
+        "sports"
+      ],
+      "DEF_EN":"To hit a ball with a bat; to strike at something.",
+      "DEF_ZH":"用球棒击球；击打。",
+      "SENT_EN":"The player managed to bat the slow pitch toward third base.",
+      "SENT_ZH":"这名球员设法将慢速投球打向三垒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hit",
+            "strike",
+            "smack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bat [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To flutter or wink the eyelids quickly (often used in the negative idiom 'not bat an eye', meaning to show no surprise or reaction).",
+      "DEF_ZH":"眨眼；（通常用于否定结构）不为所动，无动于衷。",
+      "SENT_EN":"She batted her eyelashes to try and get his attention.",
+      "SENT_ZH":"她眨着眼睫毛，试图引起他的注意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blink",
+            "flutter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

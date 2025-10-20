@@ -1,0 +1,89 @@
+{
+  "WORD":"training",
+  "IPA":"/ˈtreɪnɪŋ/",
+  "CONJUGATES":"train (v) | trains (v) | trained (v) | trainer (n) | trainable (adj)",
+  "ETYMOLOGY":"Derived from the verb 'train', from Old French trainer (to drag, pull), ultimately related to Latin trahere (to pull). The meaning shifted to instruction and discipline around the 16th century.",
+  "SINCE":"c. 1600s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (for/in [sth])",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "business",
+        "education"
+      ],
+      "DEF_EN":"The process of teaching or learning a skill or type of behavior, often for a specific job or activity.",
+      "DEF_ZH":"传授或学习特定技能或行为的过程；培训；训练。",
+      "SENT_EN":"New recruits must undergo six weeks of intensive military training.",
+      "SENT_ZH":"新兵必须接受为期六周的集中军事训练。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instruction",
+            "coaching",
+            "education",
+            "preparation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inactivity",
+            "ignorance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (for [sth])",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "sports",
+        "health"
+      ],
+      "DEF_EN":"The rigorous physical exercise and practice undertaken in preparation for a competition or physical feat.",
+      "DEF_ZH":"为比赛或体育壮举进行的严格体育锻炼和练习；体能训练。",
+      "SENT_EN":"She increased her weight training to prepare for the boxing match.",
+      "SENT_ZH":"为了备战拳击比赛，她增加了重量训练。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exercise",
+            "conditioning",
+            "workout",
+            "practice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "modifier",
+        "common"
+      ],
+      "DEF_EN":"Used to describe equipment, personnel, or methods associated with instruction or practical preparation.",
+      "DEF_ZH":"用于描述与指导或实际准备相关的设备、人员或方法。",
+      "SENT_EN":"The pilot used a flight training simulator before flying the real jet.",
+      "SENT_ZH":"飞行员在驾驶真正的喷气式飞机之前使用了飞行训练模拟器。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "instructional",
+            "preparatory",
+            "educational"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, Education, Sports"
+}

@@ -1,0 +1,80 @@
+{
+  "WORD":"locality",
+  "IPA":"/loʊˈkæləti/",
+  "CONJUGATES":"localities",
+  "ETYMOLOGY":"From Latin localis ('of a place') + -itas (suffix forming nouns of state or quality), via Old French localité or directly from Medieval Latin localitas. English 'local' + '-ity'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a locality",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A particular spot, situation, or district; a specific area or place.",
+      "DEF_ZH":"一个特定的地点、位置或区域；一个具体的区域或地方。",
+      "SENT_EN":"The police searched the entire locality for clues regarding the missing child.",
+      "SENT_ZH":"警方搜查了整个区域，寻找有关失踪儿童的线索。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "area",
+            "region",
+            "district",
+            "place",
+            "location",
+            "vicinity",
+            "neighborhood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the locality of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"The quality or state of being local; local existence.",
+      "DEF_ZH":"地方性；本地的性质或状态。",
+      "SENT_EN":"The unique architecture contributed to the distinct locality of the town.",
+      "SENT_ZH":"独特的建筑风格赋予了这座小镇鲜明的地方特色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "localness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the principle of locality",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "technical",
+        "physics",
+        "philosophy"
+      ],
+      "DEF_EN":"In physics or philosophy, the principle that influences or effects can only be exerted by objects or fields that are spatially close to one another.",
+      "DEF_ZH":"在物理学或哲学中，指因果关系只能在空间上彼此接近的物体或场之间发生作用的原则。",
+      "SENT_EN":"Quantum entanglement appears to challenge the classical principle of locality.",
+      "SENT_ZH":"量子纠缠似乎挑战了经典的局域性原则。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "non-locality"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage; specific technical contexts for the third meaning."
+}

@@ -1,0 +1,93 @@
+{
+  "WORD":"rabbit",
+  "IPA":"/'ræbɪt/",
+  "CONJUGATES":"rabbits (n. pl.) | rabbits (v. 3rd sg.) | rabbited (v. past) | rabbiting (v. pres. part.)",
+  "ETYMOLOGY":"Middle English *rabet*, possibly from Old French *rabotte* (diminutive of *rabe*), or influenced by Middle Dutch *robbe*.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small burrowing mammal of the family Leporidae, distinguished by its long ears, short fluffy tail, and long hind legs, often kept as a pet or hunted for food.",
+      "DEF_ZH":"一种小型穴居哺乳动物，属兔科，特点是长耳、短绒尾和长后腿，常被作为宠物饲养或因食用而被捕猎。",
+      "SENT_EN":"The children were delighted to see a fluffy white rabbit hopping across the lawn.",
+      "SENT_ZH":"孩子们很高兴看到一只毛茸茸的白兔跳过草坪。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hare",
+            "bunny",
+            "lagomorph"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[uncountable]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "common",
+        "food"
+      ],
+      "DEF_EN":"The flesh of the rabbit used as food.",
+      "DEF_ZH":"用作食物的兔肉。",
+      "SENT_EN":"Rabbit pie is a surprisingly rich and savory dish.",
+      "SENT_ZH":"兔肉派是一道出奇地丰盛美味的菜肴。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "venison",
+            "poultry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rabbit [on] (about [sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "slang",
+        "UK English",
+        "informal"
+      ],
+      "DEF_EN":"To talk or chatter continuously and often excessively or meaninglessly (usually followed by 'on').",
+      "DEF_ZH":"持续地、通常是过度或无意义地说话或闲聊（常与'on'连用）。",
+      "SENT_EN":"Stop rabbiting on and get to the point!",
+      "SENT_ZH":"别再唠叨了，说重点！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prattle",
+            "chatter",
+            "babble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rabbit [v]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "rare",
+        "specialized"
+      ],
+      "DEF_EN":"To hunt, trap, or breed rabbits.",
+      "DEF_ZH":"捕捉、诱捕或饲养兔子。",
+      "SENT_EN":"They spent the afternoon rabbiting with ferrets on the local moor.",
+      "SENT_ZH":"他们下午在当地的荒原上用雪貂捕兔。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, also Colloquial (UK slang usage)"
+}

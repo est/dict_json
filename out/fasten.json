@@ -1,0 +1,83 @@
+{
+  "WORD":"fasten",
+  "IPA":"/ˈfæsən/",
+  "CONJUGATES":"fastens | fastening | fastened",
+  "ETYMOLOGY":"From Middle English fasten, from Old English fæstnian ('to make fast, confirm, secure'), derived from fæst ('firm, fixed').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"fasten [sth]\nfasten [sth] to [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"Transitive verb (takes direct object) | Intransitive verb (does not take direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical action"
+      ],
+      "DEF_EN":"To attach or secure something, usually by tying, buttoning, clipping, or locking.",
+      "DEF_ZH":"固定或系紧某物，通常通过捆绑、扣紧、夹住或锁定。",
+      "SENT_EN":"Please fasten your seat belt before the plane takes off.",
+      "SENT_ZH":"请在飞机起飞前系好安全带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secure",
+            "attach",
+            "affix",
+            "lock",
+            "buckle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unfasten",
+            "undo",
+            "detach",
+            "loosen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] fasten",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb (does not take direct object)",
+      "TAGS":[
+        "common",
+        "mechanical"
+      ],
+      "DEF_EN":"(Of a device or object) to become securely closed or locked.",
+      "DEF_ZH":"（指设备或物体）变得牢固地关闭或锁定。",
+      "SENT_EN":"The latch will fasten automatically when the door swings shut.",
+      "SENT_ZH":"当门摆动关闭时，门闩会自动锁上。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"fasten [sth] upon [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb combined with a preposition",
+      "TAGS":[
+        "formal",
+        "literary",
+        "figurative"
+      ],
+      "DEF_EN":"To fix one’s attention or gaze intently upon something.",
+      "DEF_ZH":"集中注意力或目光凝视某物。",
+      "SENT_EN":"She fastened her gaze upon the handwritten note with great curiosity.",
+      "SENT_ZH":"她好奇地将目光投向那张手写的便条。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "focus",
+            "fix",
+            "direct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly common in instructional and procedural contexts."
+}

@@ -1,0 +1,95 @@
+{
+  "WORD":"woman",
+  "IPA":"/ˈwʊmən/",
+  "CONJUGATES":"plural: women (/ˈwɪmɪn/) | possessive: woman's",
+  "ETYMOLOGY":"From Middle English womman, combining Old English wīf (woman, wife) and mann (person, human being, originally gender-neutral). The original compound was wīfmann.",
+  "SINCE":"Old English (before 1000 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] woman",
+      "POS":"noun",
+      "POS_TIP":"count noun (C Noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An adult female human being.",
+      "DEF_ZH":"成年女性人类。",
+      "SENT_EN":"The doctor examined the young woman's arm.",
+      "SENT_ZH":"医生检查了那位年轻女性的胳膊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "female",
+            "lady",
+            "dame"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "man",
+            "boy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "girl",
+            "mother"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"woman [as a gender or category]",
+      "POS":"noun",
+      "POS_TIP":"mass noun (M Noun)",
+      "TAGS":[
+        "collective",
+        "social"
+      ],
+      "DEF_EN":"Women collectively; the female gender; womankind.",
+      "DEF_ZH":"女性的集体；妇女界；女性气质。",
+      "SENT_EN":"The fight for woman's suffrage began decades ago.",
+      "SENT_ZH":"争取妇女选举权的斗争始于几十年前。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "womanhood",
+            "womankind",
+            "femininity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] woman",
+      "POS":"noun",
+      "POS_TIP":"count noun (C Noun)",
+      "TAGS":[
+        "informal",
+        "dated",
+        "sometimes offensive"
+      ],
+      "DEF_EN":"A wife, girlfriend, or female sexual partner.",
+      "DEF_ZH":"妻子、女朋友或女性伴侣（非正式或带有感情色彩的用法）。",
+      "SENT_EN":"He referred to his partner affectionately as his woman.",
+      "SENT_ZH":"他亲昵地称呼他的伴侣为“他的女人”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wife",
+            "partner",
+            "girlfriend",
+            "lover"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, highly frequent in all contexts."
+}

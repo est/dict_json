@@ -1,0 +1,106 @@
+{
+  "WORD":"convert",
+  "IPA":"/kənˈvɜːrt/",
+  "CONJUGATES":"converts | converted | converting",
+  "ETYMOLOGY":"From Latin convertere, derived from com- ('together, with') + vertere ('to turn'). Originally meant 'to turn about' or 'to turn from one use to another'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"convert [sth] (into [sth])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "general use"
+      ],
+      "DEF_EN":"To change the form, character, or function of something.",
+      "DEF_ZH":"改变某事物的形式、性质或功能；转换。",
+      "SENT_EN":"They converted the attic into a comfortable guest room.",
+      "SENT_ZH":"他们把阁楼改造成了一个舒适的客房。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transform",
+            "change",
+            "modify",
+            "restructure"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "conversion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"convert (to [sth])\nconvert [sb] (to [sth])",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive or Intransitive verb",
+      "TAGS":[
+        "common word",
+        "theology"
+      ],
+      "DEF_EN":"To persuade or be persuaded to adopt a new religion, belief, or political orientation.",
+      "DEF_ZH":"（使某人）改变宗教、信仰或政治立场；皈依。",
+      "SENT_EN":"After years of study, she decided to convert to Islam.",
+      "SENT_ZH":"经过多年的研究，她决定皈依伊斯兰教。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proselytize",
+            "revert",
+            "embrace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"convert (a penalty/goal)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "sports",
+        "jargon"
+      ],
+      "DEF_EN":"To successfully score an extra point, penalty, or similar attempt in sports like rugby or soccer.",
+      "DEF_ZH":"成功得分（尤指橄榄球、足球等运动中的加分或点球）。",
+      "SENT_EN":"He converted the penalty kick in the final minute of the game.",
+      "SENT_ZH":"他在比赛的最后一分钟踢进了点球。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "score",
+            "kick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a convert",
+      "POS":"n",
+      "POS_TIP":"Noun (Note: Noun stressed differently: /ˈkɒnvɜːrt/)",
+      "TAGS":[
+        "noun form"
+      ],
+      "DEF_EN":"A person who has adopted a new religion, belief, or lifestyle.",
+      "DEF_ZH":"皈依者；改变信仰或生活方式的人。",
+      "SENT_EN":"He is a recent convert to the keto diet.",
+      "SENT_ZH":"他是酮类饮食的新信奉者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proselyte",
+            "neophyte"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Formal"
+}

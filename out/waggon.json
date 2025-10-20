@@ -1,0 +1,78 @@
+{
+  "WORD":"WAGGON",
+  "IPA":"/ˈwæɡən/",
+  "CONJUGATES":"waggons (pl.) | waggoned (pt.) | waggoning (pp.)",
+  "ETYMOLOGY":"From Middle Dutch *wagen* (related to Old Frisian *weien*), later reinforced by Old English *wægn* or Old Norse *vagn*. The spelling 'waggon' is the standard British English variant, while 'wagon' is the standard American English variant.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (used for transport)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "British English",
+        "historical",
+        "transportation"
+      ],
+      "DEF_EN":"A heavy four-wheeled vehicle used for carrying goods or agricultural produce, usually pulled by animals like horses or oxen.",
+      "DEF_ZH":"一种重型的四轮车辆，用于运输货物或农产品，通常由马或牛等动物牵引。（英式拼法）",
+      "SENT_EN":"The family loaded all their possessions onto the canvas-covered waggon.",
+      "SENT_ZH":"这家人把所有的财产都装上了盖着帆布的马车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cart",
+            "dray",
+            "lorry"
+          ]
+        },
+        {
+          "T":"alternate spelling",
+          "V":[
+            "wagon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"railway waggon",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "British English",
+        "rail transport",
+        "specialized"
+      ],
+      "DEF_EN":"(British usage) A railway vehicle used for carrying goods or freight; a freight car (US).",
+      "DEF_ZH":"（英式用法）铁路货运车辆；货车车厢（美式称 freight car）。",
+      "SENT_EN":"The shunting yard was full of empty coal waggons.",
+      "SENT_ZH":"调车场里装满了空的运煤车厢。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freight car",
+            "boxcar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"waggon [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"To convey or transport something using a waggon.",
+      "DEF_ZH":"用马车或货车运输某物。",
+      "SENT_EN":"They spent the afternoon waggoning the hay into the barn.",
+      "SENT_ZH":"他们花了整个下午用货车把干草运进谷仓。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English (UK and historical contexts; 'wagon' is standard US)"
+}

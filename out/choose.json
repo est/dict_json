@@ -1,0 +1,88 @@
+{
+  "WORD":"choose",
+  "IPA":"/tʃuːz/",
+  "CONJUGATES":"chooses | choosing | chose | chosen",
+  "ETYMOLOGY":"From Middle English chosen, from Old English ċēosan (to choose, select, try), derived from Proto-Germanic *keusaną.",
+  "SINCE":"Before 900 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"choose [sth]\nchoose between [A] and [B]",
+      "POS":"vtr | vi",
+      "POS_TIP":"verb transitive or verb intransitive (动词及物或动词不及物)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To select one or more items from a number of alternatives after consideration.",
+      "DEF_ZH":"在经过考虑后，从若干备选项中挑选一个或多个。",
+      "SENT_EN":"You must choose which path to take before nightfall.",
+      "SENT_ZH":"你必须在天黑前选择要走哪条路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "select",
+            "pick",
+            "opt",
+            "elect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reject",
+            "abandon",
+            "disregard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"choose to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (动词及物)",
+      "TAGS":[
+        "volition",
+        "common"
+      ],
+      "DEF_EN":"To decide or prefer to act in a particular way.",
+      "DEF_ZH":"决定或宁愿以某种特定方式行事。",
+      "SENT_EN":"Despite the threats, she chose to speak the truth.",
+      "SENT_ZH":"尽管受到威胁，她还是选择说出真相。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decide",
+            "resolve",
+            "determine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"choose [sb] [as/for sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (动词及物)",
+      "TAGS":[
+        "formal",
+        "appointment"
+      ],
+      "DEF_EN":"To appoint or elect someone for a position, role, or task.",
+      "DEF_ZH":"任命或选举某人担任某一职位、角色或任务。",
+      "SENT_EN":"The members chose Mr. Smith as their representative.",
+      "SENT_ZH":"成员们选举史密斯先生作为他们的代表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "designate",
+            "appoint",
+            "nominate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

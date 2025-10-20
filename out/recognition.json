@@ -1,0 +1,119 @@
+{
+  "WORD":"recognition",
+  "IPA":"/ˌrɛkəɡˈnɪʃən/",
+  "CONJUGATES":"recognition (usually uncountable)",
+  "ETYMOLOGY":"From Late Middle English, via Old French recognicion or Medieval Latin recognicio, from Latin recognoscere ('to know again, recall, inspect'), formed from re- ('again') + cognoscere ('to know').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"recognition [of sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "general use"
+      ],
+      "DEF_EN":"The action or process of recognizing or being recognized; the identification of a person or thing from previous knowledge.",
+      "DEF_ZH":"认出；识别；辨认能力。",
+      "SENT_EN":"He searched the crowd, but found no recognition on any face.",
+      "SENT_ZH":"他在人群中搜索，但任何一张脸上都没有发现认得他的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identification",
+            "recall",
+            "remembrance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "recognize",
+            "cognition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive/gain recognition [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common use",
+        "professional"
+      ],
+      "DEF_EN":"Public acknowledgment of achievement, merit, or service; appreciation or acceptance.",
+      "DEF_ZH":"认可；赞誉；表彰。",
+      "SENT_EN":"She finally received the recognition she deserved for her groundbreaking work in physics.",
+      "SENT_ZH":"她最终因其在物理学上的开创性工作而获得了应得的认可。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acknowledgment",
+            "validation",
+            "praise",
+            "fame"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disregard",
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diplomatic recognition [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "political",
+        "legal"
+      ],
+      "DEF_EN":"Official formal acceptance by a state or government that another state or government is legitimate and valid.",
+      "DEF_ZH":"（国家或政府间的）正式承认；外交承认。",
+      "SENT_EN":"The new republic is seeking full international recognition.",
+      "SENT_ZH":"这个新共和国正在寻求全面的国际承认。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sanction",
+            "approval",
+            "legitimization"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[pattern/face/voice] recognition",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "science"
+      ],
+      "DEF_EN":"The ability of a computer or biological system to identify and process a specific stimulus or pattern.",
+      "DEF_ZH":"（生物或机器的）识别能力；辨识（如模式识别）。",
+      "SENT_EN":"The latest software uses advanced voice recognition technology.",
+      "SENT_ZH":"最新的软件使用了先进的语音识别技术。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "AI",
+            "biometrics",
+            "identification"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Academic"
+}

@@ -1,0 +1,111 @@
+{
+  "WORD":"mind",
+  "IPA":"/maɪnd/",
+  "CONJUGATES":"minds | minded | minding",
+  "ETYMOLOGY":"From Old English gemynd (memory, remembrance, intellect), related to Gothic gamunds (memory) and Latin mens (mind, intelligence). Traces back to Proto-Germanic *gamundiz.",
+  "SINCE":"c. 8th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] mind",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The element of a person that enables them to be aware of the world and their experiences, to think, and to feel.",
+      "DEF_ZH":"意识、思维、情感和意志的所在；人的精神实体。",
+      "SENT_EN":"The thought kept running through my mind all day.",
+      "SENT_ZH":"那个想法整天在我的脑海中萦绕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consciousness",
+            "intellect",
+            "psyche",
+            "brain"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mental",
+            "mindset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make up [one's] mind\nhave a good mind to [do sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"A person's opinion, intention, or decision.",
+      "DEF_ZH":"某人的想法、意愿或决定。",
+      "SENT_EN":"She hasn't made up her mind about the job offer yet.",
+      "SENT_ZH":"关于这份工作邀请，她还没有做出决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decision",
+            "viewpoint",
+            "inclination"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mind [sth]\nmind [doing sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common",
+        "usage"
+      ],
+      "DEF_EN":"To object, care, or feel annoyed about something (often used in questions or negatives).",
+      "DEF_ZH":"介意；对某事感到烦恼或不快。",
+      "SENT_EN":"Do you mind if I open the window?",
+      "SENT_ZH":"你介意我打开窗户吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "object",
+            "bother",
+            "care"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mind [sth]\nmind [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "directive",
+        "archaic"
+      ],
+      "DEF_EN":"To take care of or look after; to be careful about.",
+      "DEF_ZH":"照看；留意；注意（安全或警告）。",
+      "SENT_EN":"Mind the gap between the train and the platform.",
+      "SENT_ZH":"请注意火车和站台之间的空隙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heed",
+            "observe",
+            "look after",
+            "watch out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English (Common)"
+}

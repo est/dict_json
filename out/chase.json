@@ -1,0 +1,112 @@
+{
+  "WORD":"chase",
+  "IPA":"/tʃeɪs/",
+  "CONJUGATES":"chases | chasing | chased",
+  "ETYMOLOGY":"From Old French chacier (to hunt, pursue), from Vulgar Latin *captiāre (to hunt, to try to catch), from Latin captāre (to try to catch, chase), frequentative of capere (to take, seize).",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"chase [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"To pursue in order to catch or catch up with.",
+      "DEF_ZH":"追逐；追赶；追捕",
+      "SENT_EN":"The police chased the suspect through the streets.",
+      "SENT_ZH":"警察在街上追捕嫌犯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pursue",
+            "hunt",
+            "run after",
+            "follow"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "flee",
+            "escape",
+            "retreat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chase [sb/sth] away/off",
+      "POS":"vtr + adv",
+      "POS_TIP":"verb, transitive + adverb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To force someone or something to leave a place; to drive away.",
+      "DEF_ZH":"赶走；驱逐；吓跑",
+      "SENT_EN":"We chased the birds out of the garden.",
+      "SENT_ZH":"我们把鸟赶出了花园。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expel",
+            "drive out",
+            "banish",
+            "shoo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a chase\nin hot chase",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"An act of pursuing someone or something.",
+      "DEF_ZH":"追逐；追捕；追赶",
+      "SENT_EN":"The car chase lasted for over an hour.",
+      "SENT_ZH":"那场汽车追逐持续了一个多小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pursuit",
+            "hunt",
+            "race"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a chase",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "less common"
+      ],
+      "DEF_EN":"A groove or channel cut into a wall or other surface to accommodate pipes, wires, etc.",
+      "DEF_ZH":"（墙壁等的）凹槽；线槽；管道槽",
+      "SENT_EN":"The electrician cut a chase in the wall for the new wiring.",
+      "SENT_ZH":"电工在墙上凿了一个槽来走新线。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "groove",
+            "channel",
+            "conduit",
+            "duct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

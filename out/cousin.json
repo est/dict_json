@@ -1,0 +1,81 @@
+{
+  "WORD":"cousin",
+  "IPA":"/ˈkʌzən/",
+  "CONJUGATES":"cousins (plural)",
+  "ETYMOLOGY":"From Old French cusin, earlier cosin (12th century), from Latin consobrinus ('mother's sister's son', 'first cousin'), from con- (together) + sobrinus ('nephew or niece', later 'cousin'), probably related to soror ('sister'). The meaning broadened in Old French.",
+  "SINCE":"c. 1300 (English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "family"
+      ],
+      "DEF_EN":"A child of one's aunt or uncle; a first cousin.",
+      "DEF_ZH":"姑、姨、叔、舅的孩子；表兄弟姐妹或堂兄弟姐妹。",
+      "SENT_EN":"My cousin is visiting from Canada next week.",
+      "SENT_ZH":"我的表/堂兄弟下周要从加拿大来看我们。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "first cousin",
+            "second cousin",
+            "first cousin once removed",
+            "aunt",
+            "uncle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "dated"
+      ],
+      "DEF_EN":"A term used informally to address or refer to a relative or close friend (often in regional or older dialects, particularly among royalty or high status).",
+      "DEF_ZH":"（非正式，旧时或方言）称呼亲戚或密友的用语。",
+      "SENT_EN":"Well met, my dear cousin. How fares your family?",
+      "SENT_ZH":"我们很高兴相聚，我亲爱的表兄/弟。你的家人怎么样？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kin",
+            "relative",
+            "comrade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "less common"
+      ],
+      "DEF_EN":"Something that is related to or closely resembles another thing; an equivalent or counterpart.",
+      "DEF_ZH":"（比喻）与某事物相关或相似的事物；同类或对应物。",
+      "SENT_EN":"The small regional dialect is a distant cousin of the national language.",
+      "SENT_ZH":"这种小型地区方言是国家语言的一个远房“亲戚”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relative",
+            "analogue",
+            "counterpart"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common usage (Meaning 1)"
+}

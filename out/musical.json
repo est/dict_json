@@ -1,0 +1,91 @@
+{
+  "WORD":"musical",
+  "IPA":"/ˈmjuːzɪkəl/",
+  "CONJUGATES":"musically (adv) | musicality (n)",
+  "ETYMOLOGY":"From Medieval Latin mūsicālis, from Latin mūsica ('music'), from Greek mousikē (technē) ('(art) of the Muses').",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or connected with music.",
+      "DEF_ZH":"与音乐有关的；属于音乐的。",
+      "SENT_EN":"He has a great musical talent.",
+      "SENT_ZH":"他拥有非凡的音乐天赋。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "melodic",
+            "rhythmic",
+            "harmonious"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Skilled at or fond of music.",
+      "DEF_ZH":"精通音乐的；爱好音乐的。",
+      "SENT_EN":"She comes from a highly musical family.",
+      "SENT_ZH":"她出身于一个很有音乐天赋的家庭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tuneful",
+            "melodious"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unmusical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "countable"
+      ],
+      "DEF_EN":"A play or film in which the story is told through a combination of spoken dialogue, acting, song, and dance.",
+      "DEF_ZH":"音乐剧；歌舞片。",
+      "SENT_EN":"They went to see a popular Broadway musical last night.",
+      "SENT_ZH":"他们昨晚去看了一部热门的百老汇音乐剧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "operetta",
+            "revue"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "opera",
+            "show"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

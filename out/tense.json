@@ -1,0 +1,128 @@
+{
+  "WORD":"tense",
+  "IPA":"/tens/",
+  "CONJUGATES":"tenses | tensing | tensed | tenser | tensest",
+  "ETYMOLOGY":"From Latin *tendere* (to stretch, strain) via Old French *tens*. The grammatical noun meaning derives separately from Latin *tempus* (time).",
+  "SINCE":"15th century (grammatical noun); 17th century (adjective/verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[situation]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "emotion",
+        "psychology"
+      ],
+      "DEF_EN":"Feeling or showing nervousness, anxiety, or strain; characterized by stress or mutual distrust.",
+      "DEF_ZH":"紧张的；焦虑的；（局势）一触即发的。",
+      "SENT_EN":"The atmosphere in the room was tense before the final scores were announced.",
+      "SENT_ZH":"最终分数公布之前，房间里的气氛非常紧张。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anxious",
+            "stressful",
+            "strained",
+            "apprehensive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "relaxed",
+            "calm",
+            "easygoing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[body part]\n[material]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "physical",
+        "common"
+      ],
+      "DEF_EN":"Drawn tight or rigid; not relaxed or slack.",
+      "DEF_ZH":"绷紧的；拉紧的；僵硬的。",
+      "SENT_EN":"He felt his shoulder muscles grow tense as he lifted the heavy box.",
+      "SENT_ZH":"他举起沉重的箱子时，感到肩膀上的肌肉绷紧了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tight",
+            "rigid",
+            "taut",
+            "stiff"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "loose",
+            "slack",
+            "limp"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tense [sth]\ntense up",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To make or become rigid or tight, often due to stress or anticipation.",
+      "DEF_ZH":"（使）变紧张；（使）绷紧。",
+      "SENT_EN":"She tried to relax, but she could feel her whole body tensing up.",
+      "SENT_ZH":"她试图放松，但能感觉到全身都绷紧了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tighten",
+            "strain",
+            "stiffen"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "relax",
+            "loosen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the present tense",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "grammar",
+        "technical"
+      ],
+      "DEF_EN":"Any of the forms of a verb that may be used to show the time of the action or state (e.g., past, present, or future).",
+      "DEF_ZH":"（语法）时态。",
+      "SENT_EN":"When writing an essay, it is important to maintain a consistent verb tense.",
+      "SENT_ZH":"写论文时，保持动词时态的一致性非常重要。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "aspect",
+            "mood",
+            "verb"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common"
+}

@@ -1,0 +1,93 @@
+{
+  "WORD":"justify",
+  "IPA":"/'dʒʌstɪˌfaɪ/",
+  "CONJUGATES":"justifies | justifying | justified",
+  "ETYMOLOGY":"From Old French justifier, from Late Latin iūstificāre (iūstus 'just, righteous' + facere 'to make, do'). Originally meaning 'to show to be just or righteous'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"justify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To demonstrate or prove to be correct, reasonable, or necessary.",
+      "DEF_ZH":"证明或证实某事是正确、合理或必要的。",
+      "SENT_EN":"It is difficult to justify spending so much money on a new car.",
+      "SENT_ZH":"很难证明花这么多钱买一辆新车是合理的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "validate",
+            "warrant",
+            "vindicate",
+            "substantiate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "condemn",
+            "disprove",
+            "invalidate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "justification"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"justify [text]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "printing"
+      ],
+      "DEF_EN":"To adjust the spacing of text so that the lines fill a specified width evenly, typically meaning aligning both the left and right margins (full justification).",
+      "DEF_ZH":"（印刷或排版中）调整文本间距，使行头和行尾在指定的宽度内对齐（两端对齐）。",
+      "SENT_EN":"The editor asked me to justify the body text to make the document look cleaner.",
+      "SENT_ZH":"编辑要求我对正文进行两端对齐，使文档看起来更整洁。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "alignment",
+            "typesetting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"justify [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "theology",
+        "formal"
+      ],
+      "DEF_EN":"(In Christian theology) To declare or make someone righteous in the sight of God, especially through grace or faith.",
+      "DEF_ZH":"（在基督教神学中）宣告或使其在上帝眼中成为义人（称义）。",
+      "SENT_EN":"Theology discusses how God justifies the sinner.",
+      "SENT_ZH":"神学讨论了上帝如何使罪人称义。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "justification",
+            "redemption",
+            "sanctify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard to Formal"
+}

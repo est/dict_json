@@ -1,0 +1,104 @@
+{
+  "WORD":"story",
+  "IPA":"/ˈstɔːri/",
+  "CONJUGATES":"stories",
+  "ETYMOLOGY":"From Middle English storie, borrowed from Anglo-Norman estorie, from Latin historia ('history', 'narrative', 'account'), ultimately from Ancient Greek historia ('inquiry', 'knowledge acquired by investigation').",
+  "SINCE":"c. 1250",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] [story] [about sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An account of events, either real or imaginary, told for entertainment or information.",
+      "DEF_ZH":"为了娱乐或信息而讲述的，关于真实或虚构事件的记述或叙述。",
+      "SENT_EN":"My grandmother told us a fantastic story about her adventures abroad.",
+      "SENT_ZH":"我祖母给我们讲了一个关于她在国外冒险的精彩故事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narrative",
+            "tale",
+            "anecdote",
+            "fable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] [story] [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "literary",
+        "common"
+      ],
+      "DEF_EN":"The plot or main sequence of events in a work of fiction, a film, or a play.",
+      "DEF_ZH":"虚构作品、电影或戏剧中的情节或主要事件序列。",
+      "SENT_EN":"Critics praised the director's visual style but criticized the weak story.",
+      "SENT_ZH":"评论家称赞了导演的视觉风格，但批评了薄弱的故事情节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plot",
+            "scenario",
+            "subject matter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] [news] [story]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "journalism",
+        "specific use"
+      ],
+      "DEF_EN":"An article or report in a newspaper, magazine, or news broadcast.",
+      "DEF_ZH":"报纸、杂志或新闻广播中的文章或报道。",
+      "SENT_EN":"The front-page story covered the mayor's resignation.",
+      "SENT_ZH":"头版报道涵盖了市长辞职的消息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "report",
+            "article",
+            "piece",
+            "scoop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] [multi-story] [building]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "US English",
+        "architecture"
+      ],
+      "DEF_EN":"A floor or level of a building (often spelled 'storey' in British English).",
+      "DEF_ZH":"建筑物的一层或一个水平部分 (美式英语用法)。",
+      "SENT_EN":"They converted the third story of the house into an office.",
+      "SENT_ZH":"他们把房子的第三层改造成了办公室。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "storey",
+            "floor",
+            "level"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

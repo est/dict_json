@@ -1,0 +1,110 @@
+{
+  "WORD":"detail",
+  "IPA":"/ˈdiːteɪl/",
+  "CONJUGATES":"details | detailing | detailed",
+  "ETYMOLOGY":"From Old French detaillier ('to cut into pieces', 'to specify'), from de- (off, thoroughly) + taillier (to cut, related to tailor).",
+  "SINCE":"Late 14th century (verb); early 17th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] detail [of sth]",
+      "POS":"nc",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small, individual fact, feature, or piece of information.",
+      "DEF_ZH":"细节；细枝末节；微小的特征或事实",
+      "SENT_EN":"The architect paid attention to every small detail of the building design.",
+      "SENT_ZH":"建筑师关注了建筑设计的每一个微小细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minutia",
+            "particular",
+            "aspect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "gist",
+            "summary",
+            "overview"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the details [of sth]",
+      "POS":"npl",
+      "POS_TIP":"Noun (plural)",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Full particulars; all the specific facts or comprehensive information relating to a situation or event.",
+      "DEF_ZH":"详情；全部细节；具体信息",
+      "SENT_EN":"I need all the details before I can approve the project.",
+      "SENT_ZH":"在我批准这个项目之前，我需要所有的详细信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "particulars",
+            "specifications",
+            "information"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"detail [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"Verb (transitive)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To describe or report every aspect or specific part of something.",
+      "DEF_ZH":"详述；详细说明；列举",
+      "SENT_EN":"The witness detailed the events of the robbery to the police.",
+      "SENT_ZH":"证人向警方详细叙述了抢劫事件的经过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "elaborate",
+            "specify",
+            "enumerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"detail [sb] (for/to [sth])",
+      "POS":"vtr",
+      "POS_TIP":"Verb (transitive)",
+      "TAGS":[
+        "military",
+        "specialized"
+      ],
+      "DEF_EN":"To select and assign a person or group for a particular duty, often involving military or police service.",
+      "DEF_ZH":"选派；指派（某人或某小组执行特定任务）",
+      "SENT_EN":"A unit was detailed to guard the prisoner transfer.",
+      "SENT_ZH":"一个单位被指派去守卫犯人转移。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assign",
+            "designate",
+            "deploy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly common in business, technical, and academic contexts."
+}

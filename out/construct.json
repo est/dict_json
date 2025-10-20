@@ -1,0 +1,89 @@
+{
+  "WORD":"construct",
+  "IPA":"/ˈkɒnstrʌkt/",
+  "CONJUGATES":"constructs | constructing | constructed | (n.) constructs",
+  "ETYMOLOGY":"From Latin construere, from com- (together, thoroughly) + struere (to pile up, build).",
+  "SINCE":"Late 15th century (Verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"construct [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb requiring a direct object)",
+      "TAGS":[
+        "core word",
+        "engineering"
+      ],
+      "DEF_EN":"To build or erect something, typically a large physical structure, framework, or machine.",
+      "DEF_ZH":"建造；修建；构筑",
+      "SENT_EN":"They began to construct the skyscraper in the downtown area last spring.",
+      "SENT_ZH":"他们去年春天开始在市中心建造那座摩天大楼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "build",
+            "erect",
+            "assemble",
+            "fabricate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "construction",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"construct [sth] (e.g., theory, argument, sentence)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb requiring a direct object)",
+      "TAGS":[
+        "abstract",
+        "academic"
+      ],
+      "DEF_EN":"To form or create an idea, argument, or theory by arranging different parts logically.",
+      "DEF_ZH":"创立；组织；构建（理论、论点、句子等）",
+      "SENT_EN":"The lawyer had to construct a flawless argument to convince the jury.",
+      "SENT_ZH":"律师必须构建一个毫无瑕疵的论点才能说服陪审团。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "formulate",
+            "devise",
+            "create",
+            "frame"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [mental/social] construct",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "social science",
+        "philosophy"
+      ],
+      "DEF_EN":"An idea or theory containing various conceptual elements, especially one that is not directly observable but is inferred or created within a specific context.",
+      "DEF_ZH":"构想；概念；结构体（尤指社会或心理概念）",
+      "SENT_EN":"The concept of race is often discussed as a social construct.",
+      "SENT_ZH":"种族的概念常被视为一种社会构念。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concept",
+            "idea",
+            "notion",
+            "framework"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and technical language, used widely in engineering, philosophy, and social sciences."
+}

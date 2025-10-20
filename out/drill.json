@@ -1,0 +1,161 @@
+{
+  "WORD":"drill",
+  "IPA":"/drɪl/",
+  "CONJUGATES":"n: drills | v: drills, drilling, drilled",
+  "ETYMOLOGY":"From Middle Dutch drillen 'to bore, turn, whirl' or Low German drillen 'to bore'. Possibly related to Old English þyrlian 'to pierce'.",
+  "SINCE":"Late 16th century (for tool/action), early 17th century (for training)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a drill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "tool",
+        "mechanical"
+      ],
+      "DEF_EN":"A tool or machine with a rotating cutting tip or reciprocating hammer/chisel, used for making holes.",
+      "DEF_ZH":"一种带有旋转刀头或往复式锤/凿的工具或机器，用于打孔。",
+      "SENT_EN":"He used an electric drill to make a hole in the wall.",
+      "SENT_ZH":"他用电钻在墙上打了个洞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "borer",
+            "auger",
+            "perforator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drill [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "action",
+        "mechanical"
+      ],
+      "DEF_EN":"To make a hole in something with a drill.",
+      "DEF_ZH":"用钻头在某物上打孔。",
+      "SENT_EN":"We need to drill a few holes for the new shelves.",
+      "SENT_ZH":"我们需要为新架子钻几个孔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bore",
+            "pierce",
+            "perforate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a drill\na fire drill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "education",
+        "training"
+      ],
+      "DEF_EN":"An exercise or rehearsal of a procedure, especially a military or emergency procedure.",
+      "DEF_ZH":"对某个程序（尤其是军事或紧急程序）进行的练习或排练。",
+      "SENT_EN":"The school conducted a fire drill this morning to ensure student safety.",
+      "SENT_ZH":"学校今天早上进行了一次消防演习，以确保学生安全。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exercise",
+            "practice",
+            "rehearsal",
+            "training"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drill [sb] in [sth]\ndrill [sth] into [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "education",
+        "training"
+      ],
+      "DEF_EN":"To train or instruct (someone) in a military manner or by repetition; to subject to an exercise or rehearsal.",
+      "DEF_ZH":"以军事方式或通过重复训练（某人）；使进行练习或排练。",
+      "SENT_EN":"The coach drilled the team on their defensive strategies for hours.",
+      "SENT_ZH":"教练花了数小时对球队进行防守策略的训练。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "train",
+            "instruct",
+            "coach",
+            "rehearse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drill (fabric)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "material",
+        "textile"
+      ],
+      "DEF_EN":"A strong, durable twilled cotton fabric, typically used for workwear and uniforms.",
+      "DEF_ZH":"一种结实耐用的斜纹棉布，通常用于工作服和制服。",
+      "SENT_EN":"His work trousers were made of heavy drill, designed to withstand tough conditions.",
+      "SENT_ZH":"他的工作裤是由厚实的钻布制成的，旨在承受恶劣条件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "denim",
+            "canvas",
+            "twill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drill [sth] into [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb with preposition",
+      "TAGS":[
+        "figurative",
+        "common",
+        "persistent"
+      ],
+      "DEF_EN":"To force or impress (an idea or information) into someone's mind by repetition.",
+      "DEF_ZH":"通过重复将（想法或信息）强行或深刻地灌输到某人的脑海中。",
+      "SENT_EN":"The teacher tried to drill the importance of safety into the students' heads.",
+      "SENT_ZH":"老师试图将安全的重要性灌输到学生们的脑海中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instill",
+            "ingrain",
+            "implant",
+            "inculcate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in everyday conversation, professional settings (construction, military, education), and certain technical fields (textiles)."
+}

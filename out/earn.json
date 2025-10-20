@@ -1,0 +1,90 @@
+{
+  "WORD":"earn",
+  "IPA":"/ɜːrn/",
+  "CONJUGATES":"earns | earning | earned",
+  "ETYMOLOGY":"From Old English earnian 'to deserve, merit, acquire by labor, work for', from Proto-Germanic *azanōną (compare Old High German arnēn 'to reap, earn', Old Norse arna 'to afford'), perhaps related to Old English eornest 'earnest, serious'",
+  "SINCE":"Before 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"earn [money]\nearn [a living]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To obtain money in return for labor or services; to receive as salary or wages.",
+      "DEF_ZH":"通过工作或服务获得金钱；挣得薪水或报酬。",
+      "SENT_EN":"She works hard to earn a decent living for her family.",
+      "SENT_ZH":"她努力工作以赚取体面的生活费来养家糊口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gain",
+            "acquire",
+            "make",
+            "bring in"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "income",
+            "salary",
+            "wage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"earn [sth]\nearn [a reputation] | earn [respect]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"To deserve or obtain something desirable, such as respect, reward, or recognition, because of one's actions or qualities.",
+      "DEF_ZH":"因某人的行为或品质而应得或获得某些令人称羡的东西，如尊重、回报或认可。",
+      "SENT_EN":"His dedication and honesty earned him the trust of his colleagues.",
+      "SENT_ZH":"他的奉献和诚实赢得了同事的信任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "merit",
+            "deserve",
+            "acquire",
+            "win"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"earn [interest]\nearn [profit]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"To generate profit or interest from investments, savings, or business operations.",
+      "DEF_ZH":"通过投资、储蓄或商业运营产生利润或利息。",
+      "SENT_EN":"The savings account will earn 5% interest annually.",
+      "SENT_ZH":"这个储蓄账户每年将赚取5%的利息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yield",
+            "return",
+            "bring in"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use in everyday conversation and professional contexts."
+}

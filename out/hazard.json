@@ -1,0 +1,88 @@
+{
+  "WORD":"hazard",
+  "IPA":"/ˈhæzərd/",
+  "CONJUGATES":"hazards (n.) | hazards (v.) | hazarded | hazarding",
+  "ETYMOLOGY":"From Old French hasard, derived from Spanish azar or Arabic az-zahr (meaning 'the dice'), reflecting its original usage as a game of chance.",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is a hazard",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "safety"
+      ],
+      "DEF_EN":"A danger or risk; a potential source of harm or damage.",
+      "DEF_ZH":"危险；风险；隐患。",
+      "SENT_EN":"The wet floor sign warns of a slipping hazard.",
+      "SENT_ZH":"湿地板的标志警告有滑倒的危险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "danger",
+            "risk",
+            "peril",
+            "threat"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "risk management",
+            "vulnerability"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] hazard",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "insurance",
+        "environmental"
+      ],
+      "DEF_EN":"A specific condition or factor that increases the possibility of loss, damage, or injury.",
+      "DEF_ZH":"（尤指保险或环境科学中的）危害因素；灾害源。",
+      "SENT_EN":"Chemical exposure is a serious occupational hazard in this factory.",
+      "SENT_ZH":"化学品暴露是这家工厂里严重的职业危害因素。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "moral hazard",
+            "physical hazard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hazard [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "slightlly rare"
+      ],
+      "DEF_EN":"To venture or risk; to put forward an opinion or action that is speculative or uncertain.",
+      "DEF_ZH":"冒险提出（意见）；斗胆尝试或猜测。",
+      "SENT_EN":"I would hazard a guess that she will accept the promotion.",
+      "SENT_ZH":"我斗胆猜测她会接受这次升职。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "venture",
+            "risk",
+            "speculate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in contexts discussing safety, environment, and risk assessment."
+}

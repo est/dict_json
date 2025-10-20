@@ -1,0 +1,105 @@
+{
+  "WORD":"mail",
+  "IPA":"/meɪl/",
+  "CONJUGATES":"mails | mailing | mailed",
+  "ETYMOLOGY":"From Middle English male (bag, trunk), from Old French male (bag, wallet, satchel), likely originating from Frankish *malha (bag). The meaning shifted from the bag itself to the contents (letters) and then to the system of delivery.",
+  "SINCE":"c. 1300 (as bag/container); c. 1650 (as post/letters system)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (uncountable)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Letters, packages, and other items sent or received through the public post office or delivery service.",
+      "DEF_ZH":"邮件；邮递 (通过公共邮政系统发送或接收的信件或包裹)。",
+      "SENT_EN":"The daily mail arrived late due to the storm.",
+      "SENT_ZH":"由于暴风雨，当天的邮件迟到了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "post",
+            "correspondence",
+            "letters",
+            "delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mail [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To send a letter or package via the postal system.",
+      "DEF_ZH":"邮寄；投寄 (通过邮政系统发送信件或包裹)。",
+      "SENT_EN":"Did you mail that urgent document yet?",
+      "SENT_ZH":"你把那份紧急文件寄出去了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "post",
+            "send",
+            "ship"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (uncountable)",
+      "POS":"n",
+      "POS_TIP":"noun (informal abbreviation for 'e-mail')",
+      "TAGS":[
+        "core word",
+        "computing",
+        "modern"
+      ],
+      "DEF_EN":"Electronic messages sent and received over a computer network.",
+      "DEF_ZH":"电子邮件；电邮 (通过计算机网络发送和接收的电子信息)。",
+      "SENT_EN":"Please check your mail for the attachment I just sent.",
+      "SENT_ZH":"请检查你的邮件，看看我刚才发送的附件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "e-mail",
+            "inbox",
+            "server",
+            "message"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (uncountable)",
+      "POS":"n",
+      "POS_TIP":"noun (historically distinct origin, often specified as 'chain mail')",
+      "TAGS":[
+        "historical",
+        "specialized"
+      ],
+      "DEF_EN":"Armor consisting of small metal rings linked together (chain mail).",
+      "DEF_ZH":"锁子甲 (由互相连接的金属环构成的盔甲)。",
+      "SENT_EN":"The museum displayed a complete suit of medieval mail.",
+      "SENT_ZH":"博物馆展示了一套完整的中世纪锁子甲。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chainmail",
+            "armor",
+            "cuirass"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly in North America (where 'mail' is preferred over 'post' for the system)."
+}

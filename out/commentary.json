@@ -1,0 +1,60 @@
+{
+  "WORD":"commentary",
+  "IPA":"/ˈkɒm.ən.tər.i/",
+  "CONJUGATES":"commentary | commentaries",
+  "ETYMOLOGY":"From Latin commentārius 'notebook, annotation', from commentārī 'to comment upon, discuss', from com- (intensive prefix) + mentārī 'to think, devise'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"commentary [on sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A detailed explanation or interpretation of a text, event, or situation.",
+      "DEF_ZH":"对文本、事件或情况的详细解释或阐述。",
+      "SENT_EN":"The book provides an insightful commentary on modern society.",
+      "SENT_ZH":"这本书对现代社会提供了深刻的评论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analysis",
+            "interpretation",
+            "explication",
+            "critique",
+            "observation",
+            "remark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[live] commentary\nsports commentary",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "broadcast"
+      ],
+      "DEF_EN":"A broadcast description of an event as it happens, often delivered by a speaker.",
+      "DEF_ZH":"对正在发生的事件（尤指体育赛事）的广播解说或口头描述。",
+      "SENT_EN":"We listened to the live commentary of the football match on the radio.",
+      "SENT_ZH":"我们在收音机上听了足球比赛的现场解说。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narration",
+            "reportage",
+            "play-by-play"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in academic, journalistic, and broadcast contexts."
+}

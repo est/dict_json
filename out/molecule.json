@@ -1,0 +1,38 @@
+{
+  "WORD":"molecule",
+  "IPA":"/ˈmɒl.ɪ.kjuːl/",
+  "CONJUGATES":"molecules",
+  "ETYMOLOGY":"From French molécule, from New Latin molecula 'small mass', diminutive of Latin moles 'mass, lump'.",
+  "SINCE":"Late 18th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"molecule",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "science",
+        "chemistry"
+      ],
+      "DEF_EN":"A group of atoms bonded together, representing the smallest fundamental unit of a chemical compound or element that can take part in a chemical reaction.",
+      "DEF_ZH":"由两个或更多原子键合在一起的基团，代表可参与化学反应的化合物或元素的最小基本单元。",
+      "SENT_EN":"A water molecule consists of two hydrogen atoms and one oxygen atom.",
+      "SENT_ZH":"一个水分子由两个氢原子和一个氧原子组成。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "atom",
+            "ion",
+            "compound",
+            "element",
+            "substance",
+            "chemistry"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, technical, but also commonly used in general language when discussing basic chemistry."
+}

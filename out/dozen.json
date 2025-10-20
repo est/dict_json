@@ -1,0 +1,76 @@
+{
+  "WORD":"dozen",
+  "IPA":"/ˈdʌzən/",
+  "CONJUGATES":"dozens",
+  "ETYMOLOGY":"From Middle English dozeine, from Old French dozaine, from douze ('twelve'), ultimately from Latin duodecim (duo 'two' + decem 'ten').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] dozen [of sth]",
+      "POS":"noun",
+      "POS_TIP":"noun (a word used to identify any of a class of people, places, or things, or to name a particular one)",
+      "TAGS":[
+        "core word",
+        "quantity",
+        "common"
+      ],
+      "DEF_EN":"A group or set of twelve.",
+      "DEF_ZH":"十二个，一打（数量单位）。",
+      "SENT_EN":"She ordered a baker's dozen (thirteen) of rolls from the bakery.",
+      "SENT_ZH":"她从面包店订购了一打（十三）个面包卷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "twelve"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "score (20)",
+            "gross (144)"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dozens of [sth]",
+      "POS":"plural noun",
+      "POS_TIP":"plural noun (multiple items, usually referring to an unspecified large quantity)",
+      "TAGS":[
+        "idiomatic",
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A large, unspecified number of people or things.",
+      "DEF_ZH":"许多，几十个，不计其数（常用于复数形式）。",
+      "SENT_EN":"We have received dozens of applications for the position.",
+      "SENT_ZH":"我们收到了几十份（许多）该职位的申请。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "many",
+            "lots",
+            "plenty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dozen [sth]",
+      "POS":"determiner",
+      "POS_TIP":"determiner (a modifying word that determines the kind of reference a noun or noun group has)",
+      "TAGS":[
+        "common usage"
+      ],
+      "DEF_EN":"Used before a noun to indicate a quantity of twelve.",
+      "DEF_ZH":"（作限定词）用于名词前，表示十二个的量。",
+      "SENT_EN":"Please bring a dozen cans of soda to the party.",
+      "SENT_ZH":"请带一打苏打水去派对。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

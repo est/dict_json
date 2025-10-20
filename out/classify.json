@@ -1,0 +1,79 @@
+{
+  "WORD":"classify",
+  "IPA":"/ˈklæsɪfaɪ/",
+  "CONJUGATES":"classifies | classifying | classified",
+  "ETYMOLOGY":"From French classer (to classify), ultimately from Latin classis (a class, division) + the suffix -ify.",
+  "SINCE":"Early 19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"classify [sth] (into [category])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"To arrange a group of people or things in classes or categories according to shared qualities or characteristics.",
+      "DEF_ZH":"根据共同的品质或特征将一群人或事物排列或分配到类别中。",
+      "SENT_EN":"The librarian had to classify all the new books before they could be shelved.",
+      "SENT_ZH":"图书管理员必须对所有新书进行分类，然后才能将它们上架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "categorize",
+            "sort",
+            "group",
+            "grade",
+            "label"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "classification",
+            "category"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"classify [information/document]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "official use",
+        "government",
+        "military"
+      ],
+      "DEF_EN":"To officially designate (information or documents) as secret or restricted, often for national security purposes.",
+      "DEF_ZH":"正式指定（信息或文件）为秘密或受限制的，通常用于国家安全目的。",
+      "SENT_EN":"The agency chose to classify the details of the mission as top secret.",
+      "SENT_ZH":"该机构选择将任务的细节列为绝密。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrict",
+            "designate as secret"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "declassify",
+            "release"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "classified"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

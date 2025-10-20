@@ -1,0 +1,94 @@
+{
+  "WORD":"population",
+  "IPA":"/ˌpɒpjuˈleɪʃən/",
+  "CONJUGATES":"populations",
+  "ETYMOLOGY":"From Latin populatio (nominative populatio, genitive populationis), derived from populus ('people'). First attested in English meaning 'act of populating' and later 'body of people inhabiting a place'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[The] population [of a place]",
+      "POS":"n. sing. or collective",
+      "POS_TIP":"noun, singular or used as a collective noun",
+      "TAGS":[
+        "core word",
+        "demographics",
+        "common"
+      ],
+      "DEF_EN":"The total number of people or inhabitants in a specific place, such as a country, city, or area.",
+      "DEF_ZH":"指一个特定地点（如国家、城市或区域）的居民或常住人口的总数。",
+      "SENT_EN":"The city's population has increased significantly over the last decade.",
+      "SENT_ZH":"在过去十年中，该市的人口显著增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inhabitants",
+            "residents",
+            "populace"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "demographics",
+            "census"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"population [of species/animals/objects]",
+      "POS":"n. collective",
+      "POS_TIP":"noun, collective",
+      "TAGS":[
+        "biology",
+        "ecology",
+        "common"
+      ],
+      "DEF_EN":"A group of individuals of the same species living and interbreeding within a given area; also used for any defined group of items or data in statistics.",
+      "DEF_ZH":"指在特定区域内生活并相互繁殖的同一物种的个体群；在统计学中，也指任何被界定的项目或数据集。",
+      "SENT_EN":"The whale population in the North Atlantic is recovering slowly.",
+      "SENT_ZH":"北大西洋的鲸鱼种群正在缓慢恢复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "community",
+            "group",
+            "stock"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ecosystem",
+            "sample"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"population [growth/density/studies]",
+      "POS":"n. uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "academic",
+        "sociology"
+      ],
+      "DEF_EN":"The state or process of inhabiting an area or the study of group dynamics and changes.",
+      "DEF_ZH":"居住在一个区域的状态或过程，或指对群体动态和变化的学术研究。",
+      "SENT_EN":"The government is concerned about the rate of population aging.",
+      "SENT_ZH":"政府关注人口老龄化的速度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "overpopulation",
+            "depopulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and General Usage (Geography, Biology, Statistics)"
+}

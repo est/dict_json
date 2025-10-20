@@ -1,0 +1,106 @@
+{
+  "WORD":"orbit",
+  "IPA":"/ˈɔːrbɪt/",
+  "CONJUGATES":"orbits | orbiting | orbited",
+  "ETYMOLOGY":"From Latin orbita 'track of a wheel, rut', from orbis 'wheel, disk, circle'. The astronomical sense (path of a celestial body) dates from the late 16th century. The verb dates from the mid-19th century.",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"the orbit of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "astronomy"
+      ],
+      "DEF_EN":"The curved path, usually elliptical, described by a celestial body, satellite, or spacecraft around a star, planet, or other object.",
+      "DEF_ZH":"天体、卫星或航天器围绕恒星、行星或其他物体运行的（通常为椭圆形的）弯曲路径。",
+      "SENT_EN":"The Earth completes its orbit around the sun in approximately 365 days.",
+      "SENT_ZH":"地球大约在365天内完成其绕太阳的轨道运行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "path",
+            "trajectory",
+            "course",
+            "circuit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] orbits [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "astronomy"
+      ],
+      "DEF_EN":"To move in an orbit around a celestial body or another object, or to cause something to do so.",
+      "DEF_ZH":"（使）沿轨道运行；围绕…运行。",
+      "SENT_EN":"The moon orbits the Earth, and many satellites orbit the Earth as well.",
+      "SENT_ZH":"月球绕地球运行，许多卫星也绕地球运行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revolve",
+            "circulate",
+            "go around"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the orbit of [sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A sphere of influence, activity, or control.",
+      "DEF_ZH":"影响、活动或控制的范围；势力范围。",
+      "SENT_EN":"Many smaller nations found themselves in the economic orbit of the global superpower.",
+      "SENT_ZH":"许多小国发现自己处于全球超级大国的经济势力范围之内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sphere",
+            "domain",
+            "realm",
+            "purview"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] orbits around [sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To revolve or center conceptually around something, often in discussions or personal life.",
+      "DEF_ZH":"（思想、话题等）围绕…转；以…为中心。",
+      "SENT_EN":"The entire conference seemed to orbit around the theme of sustainable development.",
+      "SENT_ZH":"整个会议似乎都围绕着可持续发展的主题展开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "center on",
+            "focus on",
+            "revolve around"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Scientific"
+}

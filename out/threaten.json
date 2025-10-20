@@ -1,0 +1,91 @@
+{
+  "WORD":"threaten",
+  "IPA":"/'θrɛtən/",
+  "CONJUGATES":"threatens | threatening | threatened",
+  "ETYMOLOGY":"From Middle English thretenen, from Old English þreatnian ('to urge, rebuke, threaten'), derived from þreat ('a threat, pressure, crowd').",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"threaten [sb] [with sth]\nthreaten [to do sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To express an intention to inflict injury, punishment, or damage on someone in retaliation or coercion.",
+      "DEF_ZH":"扬言要伤害、惩罚或对某人造成损害，以进行报复或胁迫。",
+      "SENT_EN":"The manager threatened to fire any employee caught using company time for personal errands.",
+      "SENT_ZH":"经理威胁要解雇任何被发现在工作时间处理私人事务的员工。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "menace",
+            "intimidate",
+            "bully"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "threat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"threaten [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common",
+        "situational"
+      ],
+      "DEF_EN":"To pose a danger or risk to something or someone; to indicate imminent danger.",
+      "DEF_ZH":"对某事物或某人构成危险或风险；表示迫在眉睫的危险。",
+      "SENT_EN":"Climate change continues to threaten global biodiversity.",
+      "SENT_ZH":"气候变化继续威胁着全球生物多样性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endanger",
+            "jeopardize",
+            "imperil"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "protect",
+            "secure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"threaten [to do sth]",
+      "POS":"vint",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"Of an undesirable thing, to seem likely or imminent.",
+      "DEF_ZH":"（指不希望发生的事物）似乎很可能发生或即将发生。",
+      "SENT_EN":"After the argument, a serious silence threatened to settle over the room.",
+      "SENT_ZH":"争论结束后，一种可怕的寂静似乎将要笼罩房间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loom",
+            "portend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

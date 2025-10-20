@@ -1,0 +1,68 @@
+{
+  "WORD":"entail",
+  "IPA":"/ɪnˈteɪl/",
+  "CONJUGATES":"entails | entailing | entailed",
+  "ETYMOLOGY":"From Old French entaillier 'to cut, carve, limit, impose', from en- 'in, on' + tailler 'to cut'. Originally referred to the cutting or limiting of inheritance.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"entail [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr = transitive verb, takes a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To involve (something) as a necessary part or consequence; to have as a necessary result or consequence.",
+      "DEF_ZH":"必然导致；使…成为必需；使承担（某种后果或必要条件）。",
+      "SENT_EN":"Such a large investment inevitably entails some risk.",
+      "SENT_ZH":"如此大规模的投资必然会带来一定的风险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "involve",
+            "necessitate",
+            "require",
+            "imply",
+            "occasion",
+            "cause"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "preclude",
+            "obviate",
+            "avert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"entail [sth] upon [sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr = transitive verb, takes a direct object",
+      "TAGS":[
+        "rare",
+        "legal",
+        "old word"
+      ],
+      "DEF_EN":"To settle the inheritance of (property) upon a person and a series of heirs in such a way that it cannot be alienated or bequeathed at will by any one owner.",
+      "DEF_ZH":"（尤指土地）限定继承；把…遗赠给（特定继承人）。",
+      "SENT_EN":"The estate was entailed upon the eldest son.",
+      "SENT_ZH":"这片地产被限定由长子继承。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hereditary succession",
+            "primogeniture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or academic for the common meaning; legal or archaic for the older meaning related to inheritance."
+}

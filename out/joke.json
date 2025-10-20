@@ -1,0 +1,111 @@
+{
+  "WORD":"joke",
+  "IPA":"/dʒoʊk/",
+  "CONJUGATES":"jokes | joking | joked",
+  "ETYMOLOGY":"From Latin iocus 'jest, sport, pastime,' via Old French joc and Middle English joken, earlier possibly meaning 'to talk nonsense'",
+  "SINCE":"Late 16th century (circa 1570s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Something said or done to evoke laughter, often a short story with a punchline.",
+      "DEF_ZH":"为了引人发笑而说或做的事情，通常是带有笑点的短故事。",
+      "SENT_EN":"He told a funny joke about a programmer and a snail.",
+      "SENT_ZH":"他讲了一个关于程序员和蜗牛的有趣笑话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jest",
+            "gag",
+            "prank",
+            "quip",
+            "witticism"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "humor",
+            "comedy",
+            "wit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"as a joke\nno joke",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"A ridiculous or contemptible person or thing; something that is not serious or effective.",
+      "DEF_ZH":"一个可笑或不值得重视的人或事；不严肃或无效的东西。",
+      "SENT_EN":"His attempt at fixing the engine was an absolute joke.",
+      "SENT_ZH":"他修理发动机的尝试简直就是个笑话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mockery",
+            "farce",
+            "sham"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"joke [about sth]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To tell jokes or be playful and humorous.",
+      "DEF_ZH":"讲笑话或开玩笑，表现得幽默风趣。",
+      "SENT_EN":"Stop joking and start taking this seriously.",
+      "SENT_ZH":"别开玩笑了，开始认真对待这件事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jest",
+            "quip",
+            "kidding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"joke [sth] away",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb with adverbial particle",
+      "TAGS":[
+        "phrasal verb",
+        "less common"
+      ],
+      "DEF_EN":"To dismiss or minimize the seriousness of something by treating it lightly or humorously.",
+      "DEF_ZH":"通过轻描淡写或幽默的方式来消除某事的严肃性或重要性。",
+      "SENT_EN":"He tried to joke away his mistake, but his boss was not amused.",
+      "SENT_ZH":"他试图用开玩笑的方式来淡化自己的错误，但他的老板并不觉得有趣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brush aside",
+            "make light of"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General conversation, media, literature"
+}

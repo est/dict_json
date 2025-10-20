@@ -1,0 +1,89 @@
+{
+  "WORD":"hunt",
+  "IPA":"/hʌnt/",
+  "CONJUGATES":"hunts | hunting | hunted",
+  "ETYMOLOGY":"From Old English huntian, related to Middle Low German hunten. Likely connected to Proto-Germanic *hundaz (dog).",
+  "SINCE":"c. 900 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"hunt [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To pursue and kill or capture (wild animals) for food, sport, or profit.",
+      "DEF_ZH":"追捕并杀死或捕获（野生动物）以获取食物、娱乐或利润。",
+      "SENT_EN":"They trained the dogs to hunt deer in the forest.",
+      "SENT_ZH":"他们训练了狗在森林里猎鹿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chase",
+            "pursue",
+            "stalk",
+            "track"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "poach",
+            "fowling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hunt for [sth/sb]\nhunt [sb/sth] down",
+      "POS":"vtr | vi + prep",
+      "POS_TIP":"transitive verb | intransitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To search thoroughly for something or someone; to seek out in a determined manner.",
+      "DEF_ZH":"彻底搜寻某物或某人；以坚决的方式寻找。",
+      "SENT_EN":"The police are still hunting for the missing witness.",
+      "SENT_ZH":"警方仍在搜寻失踪的目击证人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seek",
+            "search",
+            "look for",
+            "scour"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hunt (for [sth])",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act or instance of chasing or searching for game or quarry; a determined search.",
+      "DEF_ZH":"追逐或搜寻猎物或目标的行为；一次坚决的搜索。",
+      "SENT_EN":"The job hunt lasted six months before she found a suitable position.",
+      "SENT_ZH":"在找到合适职位之前，找工作的过程持续了六个月。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chase",
+            "pursuit",
+            "search",
+            "expedition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in nature/sport contexts, and frequently used figuratively for searching."
+}

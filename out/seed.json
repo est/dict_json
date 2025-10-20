@@ -1,0 +1,157 @@
+{
+  "WORD":"seed",
+  "IPA":"/siːd/",
+  "CONJUGATES":"seeds | seeded | seeding",
+  "ETYMOLOGY":"From Old English sǣd, sēd (neuter), of Germanic origin; related to Dutch zaad and German Saat, ultimately related to the verb 'to sow'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] seed",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "botany",
+        "common"
+      ],
+      "DEF_EN":"A small embryonic plant enclosed in a protective covering, generally found within a fruit or cone, from which a new plant can grow.",
+      "DEF_ZH":"植物的胚胎部分，包裹在种皮中，通常含有储存的食物，是植物的繁殖体；种子。",
+      "SENT_EN":"The birds often scatter sunflower seeds across the garden.",
+      "SENT_ZH":"鸟儿经常把向日葵种子撒得到处都是。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pip",
+            "grain",
+            "kernel"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sprout",
+            "germination",
+            "sow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"seed [sth/a field]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "agriculture"
+      ],
+      "DEF_EN":"To sow or plant seeds in or on (a piece of ground).",
+      "DEF_ZH":"在（土地上）播种或散播种子。",
+      "SENT_EN":"They spent the afternoon seeding the lawn to repair the bare patches.",
+      "SENT_ZH":"他们花了一个下午给草坪播种以修复那些光秃的斑块。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sow",
+            "plant",
+            "broadcast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the seed of [sth abstract]",
+      "POS":"n",
+      "POS_TIP":"noun (countable, often used singularly or figuratively)",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"The source or beginning of a feeling, idea, or development.",
+      "DEF_ZH":"某种感觉、想法或发展的根源或开端；萌芽；缘由。",
+      "SENT_EN":"His early research planted the seed of a revolutionary new theory.",
+      "SENT_ZH":"他早期的研究播下了革命性新理论的种子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "origin",
+            "root",
+            "source",
+            "genesis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] seed",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "sports",
+        "common"
+      ],
+      "DEF_EN":"A competitor or team that has been ranked according to their potential performance in a knockout tournament.",
+      "DEF_ZH":"在淘汰赛中，根据预期表现而排名的竞争者或队伍；种子选手/队。",
+      "SENT_EN":"The third seed was unexpectedly defeated in the quarter-finals.",
+      "SENT_ZH":"三号种子在四分之一决赛中意外落败。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rank",
+            "tournament",
+            "bracket"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"seed [sb/sth] (into a tournament)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "sports"
+      ],
+      "DEF_EN":"To arrange competitors in a tournament so that the highest ranked do not meet until the later rounds.",
+      "DEF_ZH":"在锦标赛中将竞争者进行排名，以避免强手过早相遇；定为种子选手。",
+      "SENT_EN":"They decided to seed the top eight players in the tournament.",
+      "SENT_ZH":"他们决定将比赛中的前八名选手定为种子选手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rank",
+            "pre-qualify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"seed [a file]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "computing",
+        "technical",
+        "jargon"
+      ],
+      "DEF_EN":"In peer-to-peer networking (like BitTorrent), to continue uploading data after completing the file download, thereby contributing to the file's availability.",
+      "DEF_ZH":"在点对点网络中，在完成文件下载后，继续上传数据，从而帮助他人获取文件（做种）。",
+      "SENT_EN":"It is good etiquette to seed the file for a few hours after downloading.",
+      "SENT_ZH":"下载后，最好持续做种几个小时。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "leech",
+            "torrent",
+            "P2P"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Specific Contexts (Botany, Sports, Computing)"
+}

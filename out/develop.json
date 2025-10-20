@@ -1,0 +1,109 @@
+{
+  "WORD":"develop",
+  "IPA":"/dɪˈvɛləp/",
+  "CONJUGATES":"develops | developing | developed",
+  "ETYMOLOGY":"From Old French desveloper, desvoluper (unfold, unroll), from des- (un-) + voluper (to wrap, to wrap up), of unknown ultimate origin, possibly from a Germanic source.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"develop [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To grow or evolve over time, or to create something new or more advanced.",
+      "DEF_ZH":"使（事物）成长；发展；创造；研发。",
+      "SENT_EN":"The company plans to develop a new line of software for educational purposes.",
+      "SENT_ZH":"该公司计划研发一条新的教育软件产品线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "create",
+            "invent",
+            "produce",
+            "formulate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "development",
+            "developer",
+            "developed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] develop",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To progress or advance from an earlier or simpler form.",
+      "DEF_ZH":"（人或事物）发展；成长；进化。",
+      "SENT_EN":"Their friendship began to develop over the course of the semester.",
+      "SENT_ZH":"他们的友谊在那个学期中开始发展起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grow",
+            "mature",
+            "progress",
+            "evolve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"develop [sth]\ndevelop",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "photography"
+      ],
+      "DEF_EN":"To treat (a photographic film or plate) with chemicals to make a latent image visible.",
+      "DEF_ZH":"冲洗（胶卷或底片）。",
+      "SENT_EN":"I need to develop the film from my old camera.",
+      "SENT_ZH":"我需要冲洗我的旧相机里的胶卷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "darkroom",
+            "photograph"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"develop [sth] (e.g. skill/disease)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To start to have or suffer from a particular illness, problem, or skill.",
+      "DEF_ZH":"患上（疾病）；养成（技能或习惯）。",
+      "SENT_EN":"Many elderly people develop cataracts.",
+      "SENT_ZH":"许多老年人会患上白内障。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acquire",
+            "contract",
+            "form"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

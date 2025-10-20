@@ -1,0 +1,128 @@
+{
+  "WORD":"introduce",
+  "IPA":"/ˌɪntrəˈduːs/",
+  "CONJUGATES":"introduces | introducing | introduced",
+  "ETYMOLOGY":"From Latin introducere (intro- 'inward, within' + ducere 'to lead'), meaning 'to lead in, bring in'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"introduce [sb] to [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone known to another person for the first time.",
+      "DEF_ZH":"首次将某人介绍给另一个人，使他们认识。",
+      "SENT_EN":"Allow me to introduce my colleague, Sarah, to you.",
+      "SENT_ZH":"请允许我将我的同事莎拉介绍给您。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "present"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"introduce [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bring something into use or existence for the first time.",
+      "DEF_ZH":"首次将某事物投入使用或使其出现；推出。",
+      "SENT_EN":"The company plans to introduce a new line of products next quarter.",
+      "SENT_ZH":"该公司计划在下一季度推出一条新的产品线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "launch",
+            "start",
+            "inaugurate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdraw",
+            "eliminate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"introduce [sth] to [sth/sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb with preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bring a subject, idea, or substance into a discussion or environment.",
+      "DEF_ZH":"将一个主题、想法或物质带入讨论或环境中；引入。",
+      "SENT_EN":"He introduced the topic of climate change during the meeting.",
+      "SENT_ZH":"他在会议期间引入了气候变化的话题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insert",
+            "inject",
+            "bring in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"introduce [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "academic",
+        "common"
+      ],
+      "DEF_EN":"To provide a preliminary explanation or overview of a subject, especially in a book or speech.",
+      "DEF_ZH":"对某个主题进行初步的解释或概述，尤其是在书籍或演讲的开头部分。",
+      "SENT_EN":"The first chapter introduces the basic concepts of physics.",
+      "SENT_ZH":"第一章介绍了物理学的基本概念。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preface",
+            "outline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"introduce [sth] (in biology/medicine)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "technical",
+        "biology"
+      ],
+      "DEF_EN":"To insert or bring a substance, foreign body, or organism into a body or system.",
+      "DEF_ZH":"将物质、异物或有机体插入或带入身体或系统中（生物学/医学）。",
+      "SENT_EN":"The researchers introduced a marker gene into the bacteria.",
+      "SENT_ZH":"研究人员将一个标记基因导入了细菌中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inject",
+            "implant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, suitable for formal and informal contexts."
+}

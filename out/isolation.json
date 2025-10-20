@@ -1,0 +1,92 @@
+{
+  "WORD":"isolation",
+  "IPA":"/ˌaɪsəˈleɪʃən/",
+  "CONJUGATES":"isolations (pl.)",
+  "ETYMOLOGY":"From isolate (v.) + -ation. Isolate derived from French isolé, past participle of isoler, from Italian isolato, ultimately from Latin insula 'island'. Thus, the meaning literally relates to making something like an island, separate from others.",
+  "SINCE":"c. 1800",
+  "MEANINGS":[
+    {
+      "PATTERN":"in isolation\nself-isolation",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "sociology",
+        "psychology"
+      ],
+      "DEF_EN":"The state of being separated or set apart from others; solitude or complete separation from society.",
+      "DEF_ZH":"孤立；隔绝；与世隔绝的状态。",
+      "SENT_EN":"After years of self-isolation in the wilderness, the old man found returning to the city challenging.",
+      "SENT_ZH":"在荒野中自我隔离多年后，这位老人发现回到城市生活很有挑战性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "solitude",
+            "seclusion",
+            "quarantine",
+            "segregation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "integration",
+            "association",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"isolation of [sth] (chemistry/biology)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "science",
+        "chemistry"
+      ],
+      "DEF_EN":"The process of separating a substance, compound, or microorganism from a mixture or a culture.",
+      "DEF_ZH":"（物质、化合物或微生物的）分离；提取。",
+      "SENT_EN":"The primary goal of the experiment was the successful isolation of the pure compound.",
+      "SENT_ZH":"实验的主要目标是成功分离出纯净的化合物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extraction",
+            "separation",
+            "purification"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thermal\nelectrical | mechanical isolation",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "engineering",
+        "physics"
+      ],
+      "DEF_EN":"The condition of being separated physically or functionally to prevent the passage of energy, such as electricity, heat, or vibration.",
+      "DEF_ZH":"绝缘；隔离（指电、热、机械振动等能量的阻断）。",
+      "SENT_EN":"The computer chip required mechanical isolation to prevent damage from external vibrations.",
+      "SENT_ZH":"该计算机芯片需要机械隔离以防止外部振动造成损坏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insulation",
+            "shielding",
+            "barrier"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, highly common in scientific and psychological contexts."
+}

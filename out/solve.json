@@ -1,0 +1,87 @@
+{
+  "WORD":"solve",
+  "IPA":"/sɒlv/",
+  "CONJUGATES":"solves | solving | solved",
+  "ETYMOLOGY":"From Middle English *solven, from Latin solvere ('to loosen, unbind, release, melt, dissolve', hence 'to clear up, explain'), from se- ('apart') + luere ('to loosen, release').",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"solve [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To find an answer, explanation, or solution for a problem, mystery, or puzzle.",
+      "DEF_ZH":"找到一个问题、谜团或难题的答案、解释或解决办法。",
+      "SENT_EN":"The detectives are still trying to solve the complex case.",
+      "SENT_ZH":"侦探们仍在努力解决这个复杂的案件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resolve",
+            "figure out",
+            "decipher",
+            "crack"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "solution",
+            "solver",
+            "unravel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"solve [sth] (mathematics)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"To find the numerical value or values of an unknown quantity in an equation, or to find the solution to a calculation.",
+      "DEF_ZH":"找出方程中未知数的数值或计算题的解。",
+      "SENT_EN":"Can you solve this algebraic equation for 'x'?",
+      "SENT_ZH":"你能解出这个代数方程中的 'x' 吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculate",
+            "compute",
+            "work out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"solve [sth] (chemistry/archaic)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "archaic",
+        "chemistry"
+      ],
+      "DEF_EN":"To dissolve or cause to become liquid.",
+      "DEF_ZH":"溶解或使之液化。",
+      "SENT_EN":"The substance will solve when heated to a high temperature.",
+      "SENT_ZH":"这种物质加热到高温时会溶解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dissolve",
+            "melt"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, academic, technical"
+}

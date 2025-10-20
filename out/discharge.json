@@ -1,0 +1,110 @@
+{
+  "WORD":"discharge",
+  "IPA":"/dɪsˈtʃɑːrdʒ/",
+  "CONJUGATES":"discharges | discharging | discharged",
+  "ETYMOLOGY":"From Middle English deschargen, from Old French descharger (des- 'un-' + charger 'to load'), meaning 'to unload' or 'to relieve of a load.'",
+  "SINCE":"Late 13th century (verb), Late 14th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"discharge [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "official"
+      ],
+      "DEF_EN":"To officially allow someone to leave a place or service, such as a patient from a hospital or a soldier from the military.",
+      "DEF_ZH":"准许（病人、士兵等）离开或退役；释放（某人）。",
+      "SENT_EN":"The doctor decided to discharge the patient the next morning.",
+      "SENT_ZH":"医生决定第二天早上让病人出院。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "release",
+            "dismiss",
+            "set free"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "admit",
+            "enlist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discharge [sth] (into sth)",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or intransitive verb",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To release or emit a substance (such as a liquid, gas, or electricity).",
+      "DEF_ZH":"排放；流出；释放（液体、气体、电流等）。",
+      "SENT_EN":"The factory was fined for illegally discharging chemicals into the river.",
+      "SENT_ZH":"该工厂因非法向河流排放化学物质而被罚款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emit",
+            "eject",
+            "exude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discharge [a duty/a debt]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To perform or fulfill a duty, obligation, or responsibility; also, to pay off a debt.",
+      "DEF_ZH":"履行（职责、义务）；清偿（债务）。",
+      "SENT_EN":"It is essential to discharge your professional responsibilities promptly.",
+      "SENT_ZH":"及时履行你的职业职责至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fulfill",
+            "execute",
+            "satisfy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a discharge [of sth]",
+      "POS":"ncu | nu",
+      "POS_TIP":"Countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "military"
+      ],
+      "DEF_EN":"The action of releasing someone or something; a flowing out or emission (often referring to pus, liquid, or electricity); an official document of release.",
+      "DEF_ZH":"排放；流出物；分泌物；（士兵或病人的）退役令或出院令。",
+      "SENT_EN":"The wound had a yellowish discharge, indicating infection.",
+      "SENT_ZH":"伤口有黄色分泌物，表明受到感染。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emission",
+            "flow",
+            "effluent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across general, medical, military, and legal contexts."
+}

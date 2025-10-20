@@ -1,0 +1,93 @@
+{
+  "WORD":"relate",
+  "IPA":"/rɪˈleɪt/",
+  "CONJUGATES":"relates | related | relating",
+  "ETYMOLOGY":"From Old French relater ('to tell, report'), derived from Latin relatus, the past participle of referre ('to bring back, refer'). The meaning shifted later to 'to establish a connection'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"relate [to sb/sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "social",
+        "common"
+      ],
+      "DEF_EN":"To feel sympathy or empathy for someone or something because you understand their situation or experiences; to connect emotionally.",
+      "DEF_ZH":"对...感同身受；产生共鸣；理解或认同（他人的处境或经验）。",
+      "SENT_EN":"Many students found it easy to relate to the struggles described in the novel.",
+      "SENT_ZH":"许多学生发现他们很容易对小说中描述的挣扎产生共鸣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "empathize",
+            "connect",
+            "understand",
+            "identify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"relate [sth] to [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "formal",
+        "analytical"
+      ],
+      "DEF_EN":"To show or establish a connection or relationship between two or more things.",
+      "DEF_ZH":"将...关联起来；说明...之间的关系；使...相关联。",
+      "SENT_EN":"The study attempts to relate poverty levels to educational attainment.",
+      "SENT_ZH":"这项研究试图将贫困程度与教育成就联系起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "associate",
+            "link",
+            "correlate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "relationship",
+            "relative",
+            "relation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"relate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "literary",
+        "narrative"
+      ],
+      "DEF_EN":"To tell or give an account of events, facts, or stories.",
+      "DEF_ZH":"讲述；叙述；报告或回顾（事件）。",
+      "SENT_EN":"The old fisherman often related tales of his adventures at sea.",
+      "SENT_ZH":"这位老渔夫经常讲述他在海上的冒险故事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narrate",
+            "recount",
+            "tell",
+            "report"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

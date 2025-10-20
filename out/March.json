@@ -1,0 +1,133 @@
+{
+  "WORD":"March",
+  "IPA":"/mɑːrtʃ/",
+  "CONJUGATES":"marches | marching | marched (verb)",
+  "ETYMOLOGY":"Month name: From Middle English March, from Old French mars, from Latin Martius, originally meaning 'month of Mars,' the Roman God of War. | Verb/Movement: From Middle French marcher ('to tread, walk'), likely of Frankish (Germanic) origin.",
+  "SINCE":"Antiquity (as a month name) | c. 1300 (as a verb of movement)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the month]",
+      "POS":"proper n",
+      "POS_TIP":"A specific named period of time.",
+      "TAGS":[
+        "core word",
+        "time",
+        "calendar"
+      ],
+      "DEF_EN":"The third month of the year in the Gregorian calendar, usually considered the beginning of spring in the Northern Hemisphere.",
+      "DEF_ZH":"格里高利历中一年中的第三个月份，在北半球通常被认为是春季的开始。",
+      "SENT_EN":"We are planning our trip for late March.",
+      "SENT_ZH":"我们正计划在三月下旬进行旅行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "February",
+            "April",
+            "vernal equinox"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"march [vi]\nmarch [vt] [sb] [somewhere]",
+      "POS":"vi | vt",
+      "POS_TIP":"Intransitive verb | Transitive verb",
+      "TAGS":[
+        "core word",
+        "action",
+        "movement"
+      ],
+      "DEF_EN":"To walk in a regular, measured, and rhythmic way, often done by soldiers or groups in a formal procession.",
+      "DEF_ZH":"以有规律、有节奏的方式行走，常指士兵或群体以正式的队列行进。",
+      "SENT_EN":"The demonstrators marched silently toward the city hall.",
+      "SENT_ZH":"示威者们静静地朝着市政厅行进。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tramp",
+            "stride",
+            "parade"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cadence",
+            "procession"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a march]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "event",
+        "protest"
+      ],
+      "DEF_EN":"An organized walk or procession by a large group of people, typically protesting something or celebrating an event.",
+      "DEF_ZH":"由一大群人组织的步行或游行，通常用于抗议某事或庆祝活动。",
+      "SENT_EN":"The civil rights march drew thousands of participants.",
+      "SENT_ZH":"这场民权游行吸引了数千名参与者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demonstration",
+            "walk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a march] (music)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "music",
+        "specific"
+      ],
+      "DEF_EN":"A piece of music specifically written to accompany troops or a procession, typically characterized by a strong, steady, repeated beat.",
+      "DEF_ZH":"专门为行军或游行伴奏而写的乐曲，通常以强烈、稳定的重复节拍为特征（进行曲）。",
+      "SENT_EN":"The military band struck up a rousing Sousa march.",
+      "SENT_ZH":"军乐队奏起了振奋人心的苏萨进行曲。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "anthem",
+            "tempo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the marches]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "historical",
+        "geography",
+        "rare"
+      ],
+      "DEF_EN":"(Often plural) A border area or frontier between two countries or territories.",
+      "DEF_ZH":"（常作复数）两国或两地之间的边境地区或前沿地带。",
+      "SENT_EN":"The Welsh Marches are the borderlands between England and Wales.",
+      "SENT_ZH":"威尔士边境地区是英格兰和威尔士之间的边境地带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "borderland",
+            "frontier",
+            "perimeter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

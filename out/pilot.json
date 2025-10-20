@@ -1,0 +1,95 @@
+{
+  "WORD":"pilot",
+  "IPA":"/ˈpaɪlət/",
+  "CONJUGATES":"pilots | piloting | piloted",
+  "ETYMOLOGY":"From Middle French pilote, from Italian piloto, ultimately from Medieval Greek pedōtēs ('steersman'), related to pēdon ('oar').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] pilot (aircraft/spacecraft)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "aviation",
+        "common"
+      ],
+      "DEF_EN":"A person who operates the flying controls of an aircraft or spacecraft.",
+      "DEF_ZH":"飞行员；驾驶员（操作飞机或航天器的人）。",
+      "SENT_EN":"The airline pilot announced the plane was ready for immediate takeoff.",
+      "SENT_ZH":"这位航空公司飞行员宣布飞机已准备好立即起飞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aviator",
+            "airman",
+            "captain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] pilot (maritime)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "maritime",
+        "historical"
+      ],
+      "DEF_EN":"A person with specialized knowledge of local waters who steers ships into or out of a harbor or through difficult navigation areas.",
+      "DEF_ZH":"引水员；领港员（拥有当地水域专业知识，引导船只进出港口或通过复杂航行区域的人）。",
+      "SENT_EN":"The captain waited for the harbor pilot to board before attempting to dock.",
+      "SENT_ZH":"船长等待港口引水员登船，然后才尝试靠岸。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"pilot [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "action",
+        "common use"
+      ],
+      "DEF_EN":"To operate or guide an aircraft, ship, or vehicle.",
+      "DEF_ZH":"驾驶；操纵；充当向导。",
+      "SENT_EN":"She piloted the rescue boat skillfully through the rough seas.",
+      "SENT_ZH":"她熟练地驾驶着救援船穿越了波涛汹涌的大海。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steer",
+            "navigate",
+            "guide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pilot (program/episode)",
+      "POS":"adj. | n.",
+      "POS_TIP":"adjective | noun",
+      "TAGS":[
+        "media",
+        "business",
+        "technology"
+      ],
+      "DEF_EN":"Serving as an initial or preliminary trial or test; or, an initial episode of a potential television series used to gauge audience reaction.",
+      "DEF_ZH":"试验性的；初步的；（电视节目）试播集。",
+      "SENT_EN":"The success of the pilot program led to a nationwide rollout of the new software.",
+      "SENT_ZH":"试点项目的成功导致了新软件在全国范围内的推广。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trial",
+            "experimental",
+            "preliminary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Aviation, Maritime, Media Production"
+}

@@ -1,0 +1,121 @@
+{
+  "WORD":"land",
+  "IPA":"/lænd/",
+  "CONJUGATES":"lands | landing | landed",
+  "ETYMOLOGY":"From Old English land, lond (neuter), ultimately from Proto-Germanic *landą. Originally meaning 'tract of ground' or 'definite portion of the earth's surface'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"land",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The part of the earth's surface that is not covered by water, as opposed to the sea or the air.",
+      "DEF_ZH":"陆地；地面；与海洋或天空相对的地球表面未被水覆盖的部分。",
+      "SENT_EN":"After months at sea, the sailors were overjoyed to finally see land.",
+      "SENT_ZH":"在海上航行数月后，水手们看到陆地时欣喜若狂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ground",
+            "earth",
+            "terrain",
+            "dry land"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sea",
+            "ocean",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a piece of land\none's land",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "countable"
+      ],
+      "DEF_EN":"An area of ground, especially one used for agriculture or as property; also used to refer to a country or territory.",
+      "DEF_ZH":"土地；田地；（某人拥有的）地产、产业；国家；国土。",
+      "SENT_EN":"He bought a small tract of land outside the city to build a house.",
+      "SENT_ZH":"他在城外买了一小块地来盖房子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "property",
+            "estate",
+            "country",
+            "nation",
+            "soil"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"land [v]",
+      "POS":"vtr/vi",
+      "POS_TIP":"transitive/intransitive verb",
+      "TAGS":[
+        "core word",
+        "motion"
+      ],
+      "DEF_EN":"(Of an aircraft, bird, or person) to come or bring down to the ground or another surface.",
+      "DEF_ZH":"（使）（飞机、鸟类等）着陆；降落；到达某地。",
+      "SENT_EN":"The helicopter was unable to land due to the high winds.",
+      "SENT_ZH":"由于风力太大，直升机无法降落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alight",
+            "settle",
+            "touch down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "take off",
+            "ascend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"land [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To succeed in acquiring or securing something desirable, such as a job, a contract, or a large fish.",
+      "DEF_ZH":"获得；得到（尤指期待已久的工作或合同等）；捕获（鱼）。",
+      "SENT_EN":"She was thrilled when she finally landed the leading role in the film.",
+      "SENT_ZH":"她最终得到电影中的主角时非常激动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secure",
+            "clinch",
+            "obtain",
+            "net"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in all contexts."
+}

@@ -1,0 +1,92 @@
+{
+  "WORD":"quit",
+  "IPA":"/kwɪt/",
+  "CONJUGATES":"quit | quitting | quits",
+  "ETYMOLOGY":"From Middle English quiten, from Old French quiter ('to free, release, discharge'), ultimately from Latin quietus ('quiet, discharged, free'). Originally meaning 'to release a claim or debt'.",
+  "SINCE":"c. 1300 (used initially to mean 'release' or 'discharge'); modern sense 'resign' c. 1800",
+  "MEANINGS":[
+    {
+      "PATTERN":"quit [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To resign from a job, position, or membership.",
+      "DEF_ZH":"辞职；离职；退出（职位或团体）。",
+      "SENT_EN":"After years of frustration, she finally decided to quit her high-paying job.",
+      "SENT_ZH":"在经历了多年的沮丧之后，她终于决定辞去那份高薪工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resign",
+            "step down",
+            "relinquish"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "quitter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quit [sth]\nquit doing [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To stop or cease doing something, especially a routine or habit.",
+      "DEF_ZH":"停止；戒除（尤指习惯或活动）。",
+      "SENT_EN":"I need to quit drinking so much coffee if I want to sleep better.",
+      "SENT_ZH":"如果我想睡得更好，我就得少喝点咖啡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stop",
+            "cease",
+            "discontinue"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "continue",
+            "start"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "dated",
+        "formal"
+      ],
+      "DEF_EN":"To depart or leave a place.",
+      "DEF_ZH":"离开；退出（场所）。",
+      "SENT_EN":"The army was forced to quit the field after the decisive battle.",
+      "SENT_ZH":"在决定性的战斗之后，军队被迫退出该地区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "leave",
+            "exit",
+            "withdraw"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard usage in both formal (resignation) and informal (stopping an activity) contexts."
+}

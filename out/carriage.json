@@ -1,0 +1,134 @@
+{
+  "WORD":"carriage",
+  "IPA":"/ˈkærɪdʒ/",
+  "CONJUGATES":"carriages",
+  "ETYMOLOGY":"From Middle English cariage, from Anglo-Norman and Old French cariage ('the act of carrying; burden'), related to the verb 'carry'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] carriage",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "historical",
+        "common"
+      ],
+      "DEF_EN":"A four-wheeled vehicle, usually pulled by horses, designed for conveying people, especially one used in past eras or for ceremonial purposes.",
+      "DEF_ZH":"（尤指旧时由马匹或牲畜牵引的）马车；客车。",
+      "SENT_EN":"The bride and groom left the church in a beautiful white carriage.",
+      "SENT_ZH":"新娘和新郎乘坐一辆漂亮的白色马车离开了教堂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coach",
+            "buggy",
+            "chaise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chariot",
+            "hansom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] carriage",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "UK usage",
+        "railway"
+      ],
+      "DEF_EN":"A separate section of a train designated for carrying passengers; a railway car (US usage).",
+      "DEF_ZH":"（火车）客运车厢。",
+      "SENT_EN":"We managed to find an empty seat in the smoking carriage.",
+      "SENT_ZH":"我们在吸烟车厢里找到一个空座。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "compartment",
+            "wagon",
+            "railroad car"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] carriage",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"A person's posture, bearing, or the way they hold and move their body.",
+      "DEF_ZH":"姿态；仪态；举止。",
+      "SENT_EN":"Her regal carriage immediately impressed everyone in the room.",
+      "SENT_ZH":"她威严的仪态立刻给房间里的每个人留下了深刻印象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bearing",
+            "mien",
+            "deportment",
+            "posture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"carriage [cost/charge]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "commercial",
+        "business"
+      ],
+      "DEF_EN":"The cost of transporting goods from one place to another; freight or shipping charge.",
+      "DEF_ZH":"运费；运输费用。",
+      "SENT_EN":"Please note that the listed price does not include carriage.",
+      "SENT_ZH":"请注意，所列价格不包含运费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freight",
+            "shipping",
+            "portage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] carriage [of a machine]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "specialized"
+      ],
+      "DEF_EN":"A moving part in a machine (such as a typewriter or lathe) designed to hold or transport a tool or workpiece across a given distance.",
+      "DEF_ZH":"（机械上的）滑架；托架；机座。",
+      "SENT_EN":"He had to lubricate the carriage to ensure smooth movement on the CNC machine.",
+      "SENT_ZH":"他必须给滑架上润滑油，以确保数控机床上的运动平稳。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "slide",
+            "sled"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical (depending on meaning)"
+}

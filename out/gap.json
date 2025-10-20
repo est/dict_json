@@ -1,0 +1,102 @@
+{
+  "WORD":"gap",
+  "IPA":"/ɡæp/",
+  "CONJUGATES":"gaps | gapping | gapped",
+  "ETYMOLOGY":"From Middle English, derived from Old Norse gap (meaning 'chasm, opening').",
+  "SINCE":"c. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[in sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical"
+      ],
+      "DEF_EN":"A space, opening, or hole in the middle of something or between two things.",
+      "DEF_ZH":"裂缝；缝隙；缺口",
+      "SENT_EN":"He squeezed through a small gap in the hedge.",
+      "SENT_ZH":"他挤过篱笆上的一个小缝隙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "space",
+            "opening",
+            "fissure",
+            "break"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[between sth and sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"A wide difference or disparity, especially between two groups, ideas, or levels of achievement.",
+      "DEF_ZH":"差距；分歧；代沟（如 generation gap）",
+      "SENT_EN":"There is a significant wealth gap between the richest and poorest nations.",
+      "SENT_ZH":"最富裕和最贫穷国家之间存在巨大的贫富差距。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disparity",
+            "difference",
+            "divergence",
+            "gulf"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chasm",
+            "void"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [time] gap",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "time"
+      ],
+      "DEF_EN":"A break or interval in continuity, especially a period taken out of studies or work (a gap year).",
+      "DEF_ZH":"（时间上的）中断；间歇期",
+      "SENT_EN":"After graduating high school, she took a one-year gap to travel the world.",
+      "SENT_ZH":"高中毕业后，她休了一年间隔年去环游世界。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interval",
+            "hiatus",
+            "break"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gap [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "less common",
+        "action verb"
+      ],
+      "DEF_EN":"To make a gap or breach in something; to open or diverge.",
+      "DEF_ZH":"使裂开；使成缺口",
+      "SENT_EN":"The heavy traffic gapped the line of protestors.",
+      "SENT_ZH":"繁忙的交通在抗议者队伍中拉开了缺口。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general usage"
+}

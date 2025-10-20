@@ -1,0 +1,125 @@
+{
+  "WORD":"heap",
+  "IPA":"/hiːp/",
+  "CONJUGATES":"heaps | heaping | heaped",
+  "ETYMOLOGY":"From Old English hēap ('a troop, company, large number'), related to Old Norse hópr ('troop, crowd').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] heap [of sth]",
+      "POS":"Noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A collection of objects piled up in a loose, disorganized mass.",
+      "DEF_ZH":"一堆杂乱地堆在一起的物体；堆，垛。",
+      "SENT_EN":"The children left a huge heap of toys on the floor.",
+      "SENT_ZH":"孩子们把一大堆玩具扔在了地板上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pile",
+            "stack",
+            "mound",
+            "mass"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heap [sth] [on/up]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put objects into a pile; to pile up.",
+      "DEF_ZH":"堆放；堆积。",
+      "SENT_EN":"She heaped coals on the fire to keep it going.",
+      "SENT_ZH":"她把煤堆在火上以保持燃烧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pile",
+            "stack",
+            "amass"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heap [sth] [on sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition (figurative)",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"To give or bestow a large quantity of something intangible (such as praise, blame, or shame) upon someone.",
+      "DEF_ZH":"大量给予（如赞扬、侮辱或困难）。",
+      "SENT_EN":"The critics heaped scorn upon the new film.",
+      "SENT_ZH":"评论家们对这部新电影极尽嘲讽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lavish",
+            "bestow",
+            "shower"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heaps [of sth]",
+      "POS":"Noun",
+      "POS_TIP":"plural countable noun (informal)",
+      "TAGS":[
+        "informal",
+        "UK English"
+      ],
+      "DEF_EN":"A large quantity or number; a lot.",
+      "DEF_ZH":"大量，许多（非正式用法）。",
+      "SENT_EN":"We still have heaps of time before the deadline.",
+      "SENT_ZH":"在截止日期之前我们还有很多时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lots",
+            "tons",
+            "plenty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the heap",
+      "POS":"Noun",
+      "POS_TIP":"uncountable noun (technical)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computer science, a region of a process's memory used for dynamic memory allocation.",
+      "DEF_ZH":"（计算机科学）堆；用于动态内存分配的内存区域。",
+      "SENT_EN":"Variables created dynamically are usually stored on the heap.",
+      "SENT_ZH":"动态创建的变量通常存储在堆上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stack",
+            "memory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use; informal in the context of 'a lot'."
+}

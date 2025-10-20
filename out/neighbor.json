@@ -1,0 +1,84 @@
+{
+  "WORD":"neighbor",
+  "IPA":"/ˈneɪbər/",
+  "CONJUGATES":"neighbors | neighboring | neighbored",
+  "ETYMOLOGY":"From Middle English neighebour, from Old English nēahgebūr (nēah 'nigh, near' + gebūr 'dweller, farmer'), akin to Dutch nabuur and German Nachbar.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth] ",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person living next door to or very near to the speaker or person referred to.",
+      "DEF_ZH":"住在演讲者或被指代的人隔壁或非常近的人。",
+      "SENT_EN":"My neighbor always waters his plants early in the morning.",
+      "SENT_ZH":"我的邻居总是很早浇花。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "next-door resident",
+            "co-dweller"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "neighborhood",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] ",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "general"
+      ],
+      "DEF_EN":"A person or thing situated next to or very near to another.",
+      "DEF_ZH":"位于另一个旁边或非常靠近的物体或人。",
+      "SENT_EN":"France is a close neighbor of Germany.",
+      "SENT_ZH":"法国是德国的近邻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjacent entity",
+            "next-door country"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To be situated next to or near (something or someone).",
+      "DEF_ZH":"毗邻或靠近（某物或某人）。",
+      "SENT_EN":"The quiet village neighbors the dense forest.",
+      "SENT_ZH":"这个安静的村庄毗邻着茂密的森林。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjoin",
+            "border",
+            "abut"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (Note: 'neighbour' is the standard spelling in British English and Commonwealth countries)"
+}

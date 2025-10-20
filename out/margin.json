@@ -1,0 +1,128 @@
+{
+  "WORD":"margin",
+  "IPA":"/ˈmɑːrdʒɪn/",
+  "CONJUGATES":"n: margins | v: margins, margining, margined",
+  "ETYMOLOGY":"From Old French margine, from Latin marginem (nominative margo) 'border, edge, brink'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"margin",
+      "POS":"n",
+      "POS_TIP":"noun: a word identifying a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The blank space surrounding the text on a page; an edge or border of something.",
+      "DEF_ZH":"页边空白；边缘，边界。",
+      "SENT_EN":"Please make notes in the margins of the textbook.",
+      "SENT_ZH":"请在教科书的空白处做笔记。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "border",
+            "edge",
+            "periphery",
+            "verge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"margin of [something]\nmargin",
+      "POS":"n",
+      "POS_TIP":"noun: a word identifying a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"The difference between the cost and the selling price of a product or service; a spare amount or degree allowed for a particular purpose.",
+      "DEF_ZH":"利润；差额；安全余地；容错率。",
+      "SENT_EN":"The company's profit margins are very thin this quarter.",
+      "SENT_ZH":"公司本季度的利润空间非常小。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "difference",
+            "profit",
+            "surplus",
+            "allowance",
+            "cushion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"by a margin of [amount]",
+      "POS":"n",
+      "POS_TIP":"noun: a word identifying a person, place, thing, or idea.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The amount by which one thing is greater or less than another, especially in a contest or comparison.",
+      "DEF_ZH":"（尤指在比赛或比较中）领先或落后的幅度，差额。",
+      "SENT_EN":"She won the election by a significant margin.",
+      "SENT_ZH":"她以显著优势赢得了选举。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lead",
+            "gap",
+            "difference"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"margin",
+      "POS":"n",
+      "POS_TIP":"noun: a word identifying a person, place, thing, or idea.",
+      "TAGS":[
+        "specialized",
+        "finance"
+      ],
+      "DEF_EN":"Collateral deposited by a trader with a broker to cover the credit risk inherent in trading financial instruments.",
+      "DEF_ZH":"保证金（为弥补金融交易中的信用风险而存入经纪人的抵押品）。",
+      "SENT_EN":"Investors are required to maintain a certain margin in their accounts.",
+      "SENT_ZH":"投资者被要求在账户中维持一定的保证金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "collateral",
+            "futures",
+            "options"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"margin [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To provide something with a margin; to mark or furnish with a border.",
+      "DEF_ZH":"给……加边，在……加空白。",
+      "SENT_EN":"The old printing press would often margin the pages unevenly.",
+      "SENT_ZH":"那台旧印刷机经常把页面留白不均匀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "border",
+            "frame",
+            "edge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, but specific meanings are common in business and finance contexts."
+}

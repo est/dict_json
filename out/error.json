@@ -1,0 +1,89 @@
+{
+  "WORD":"ERROR",
+  "IPA":"/ˈɛrər/",
+  "CONJUGATES":"errors (n. pl.) | erroring (v. pres. part.) | errored (v. pt.)",
+  "ETYMOLOGY":"From Middle English errour, from Old French erreur, from Latin error ('a wandering, going astray, error'), derivative of errare ('to wander').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (in calculation/judgment)",
+      "POS":"Noun",
+      "POS_TIP":"可数名词 (Countable Noun)",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"A mistake, whether in action, calculation, or judgment; something that is incorrect.",
+      "DEF_ZH":"错误；谬误；过失",
+      "SENT_EN":"It was an unfortunate error on my part to forget the meeting.",
+      "SENT_ZH":"忘记会议是我犯下的一个不幸的错误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mistake",
+            "fault",
+            "blunder",
+            "slip"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "accuracy",
+            "correctness",
+            "verity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (in computing/system)",
+      "POS":"Noun",
+      "POS_TIP":"可数/不可数名词 (Countable/Uncountable Noun)",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"A defect or flaw in a computer program or system that prevents it from operating normally, or the message displayed when such an issue occurs.",
+      "DEF_ZH":"(计算机) 故障；程序错误；报错信息",
+      "SENT_EN":"The program crashed and displayed a fatal error message.",
+      "SENT_ZH":"程序崩溃并显示了一个致命的错误信息。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bug",
+            "glitch",
+            "exception",
+            "failure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (measurement)",
+      "POS":"Noun",
+      "POS_TIP":"不可数名词 (Uncountable Noun)",
+      "TAGS":[
+        "Science",
+        "Formal"
+      ],
+      "DEF_EN":"The difference between an estimated or measured quantity and the true or theoretically correct quantity.",
+      "DEF_ZH":"(统计学/测量学) 误差；偏差",
+      "SENT_EN":"The experiment confirmed the hypothesis, though there was a small margin of error.",
+      "SENT_ZH":"该实验证实了假设，尽管存在很小的误差范围。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "deviation",
+            "discrepancy",
+            "variance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Formal"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"guide",
+  "IPA":"/ɡaɪd/",
+  "CONJUGATES":"guides | guiding | guided | guides",
+  "ETYMOLOGY":"From Old French guider 'to lead, direct, instruct', possibly of Germanic origin (compare Old High German wīzan 'to show, point out').",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"guide [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To show or lead the way for someone; to direct or influence the course of action or movement.",
+      "DEF_ZH":"指引；引导；带领（某人或某物）沿着特定路径前进或朝着某个目标发展。",
+      "SENT_EN":"The pilot guided the plane safely through the storm.",
+      "SENT_ZH":"飞行员安全地引导飞机穿过了风暴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lead",
+            "direct",
+            "steer",
+            "conduct"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mislead",
+            "disorient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a guide",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "profession"
+      ],
+      "DEF_EN":"A person who shows the way to others, especially one employed to conduct tourists, visitors, or students.",
+      "DEF_ZH":"导游；向导；向他人指路的人，尤指受雇带领游客或访问者的人。",
+      "SENT_EN":"We hired a local guide to take us up the mountain.",
+      "SENT_ZH":"我们雇了一位当地向导带我们上山。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "escort",
+            "tour leader",
+            "mentor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a guide [to sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "resource"
+      ],
+      "DEF_EN":"A book, pamphlet, or manual that provides detailed information, instruction, or advice on a particular subject.",
+      "DEF_ZH":"指南；手册；提供特定主题详细信息、说明或建议的书籍或资料。",
+      "SENT_EN":"This practical guide to gardening is extremely helpful for beginners.",
+      "SENT_ZH":"这本实用的园艺指南对初学者非常有帮助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manual",
+            "handbook",
+            "primer",
+            "instruction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

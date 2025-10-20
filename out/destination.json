@@ -1,0 +1,76 @@
+{
+  "WORD":"destination",
+  "IPA":"/ˌdɛstɪˈneɪʃən/",
+  "CONJUGATES":"destinations",
+  "ETYMOLOGY":"From Old French destination (14c.), from Latin destinatio 'a determining, purpose,' noun of action from destinare 'to determine, establish, make firm,' from de- 'fully, thoroughly' + stare 'to stand'. The meaning 'a place to which one is going' emerged in the 18th century.",
+  "SINCE":"c. 1720 (for the modern primary meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth]'s destination\na destination for [sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The place to which someone or something is going or being sent.",
+      "DEF_ZH":"目的地；终点；旅途的终点",
+      "SENT_EN":"Our flight's final destination is London Heathrow Airport.",
+      "SENT_ZH":"我们航班的最终目的地是伦敦希思罗机场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "terminus",
+            "goal",
+            "target",
+            "objective",
+            "end point",
+            "port of call"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "origin",
+            "starting point",
+            "departure point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"The predetermined end or purpose of a journey or process; fate or destiny.",
+      "DEF_ZH":"命运；归宿；注定的结局",
+      "SENT_EN":"Some philosophers argue that all human actions lead to a predetermined destination.",
+      "SENT_ZH":"一些哲学家认为，人类所有的行为都通向一个注定的归宿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "destiny",
+            "fate",
+            "outcome",
+            "end",
+            "lot"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "predetermination",
+            "providence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,148 @@
+{
+  "WORD":"float",
+  "IPA":"/floʊt/",
+  "CONJUGATES":"floats | floating | floated",
+  "ETYMOLOGY":"From Middle English floten, ultimately from Old English flēotan 'to drift, swim,' derived from Proto-Germanic *fleutaną, related to flow.",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"float",
+      "POS":"v. (intr.)",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "physical action"
+      ],
+      "DEF_EN":"To rest on the surface of a liquid or in the air without sinking.",
+      "DEF_ZH":"漂浮；浮动（在液体或气体表面不下沉）。",
+      "SENT_EN":"Oil does not mix with water, so it will always float on top.",
+      "SENT_ZH":"油与水不相容，所以它总是浮在上面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drift",
+            "hover",
+            "bob"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sink",
+            "submerge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"float [sth]",
+      "POS":"v. (tr.)",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To cause something to rest or move lightly on the surface of a liquid or gas.",
+      "DEF_ZH":"使...漂浮；使...浮起。",
+      "SENT_EN":"They floated the boat out into the middle of the lake.",
+      "SENT_ZH":"他们把船浮到湖中央。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"float [sth]",
+      "POS":"v. (tr.)",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"To offer the shares of a company for sale to the public for the first time (launch an IPO).",
+      "DEF_ZH":"（公司）上市；发行（股票、证券）。",
+      "SENT_EN":"The successful startup is planning to float the company on the stock exchange next year.",
+      "SENT_ZH":"这家成功的初创公司计划明年在证券交易所上市。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "launch",
+            "issue"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "IPO",
+            "listing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"float (around/past)",
+      "POS":"v. (intr.)",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "movement",
+        "figurative"
+      ],
+      "DEF_EN":"To move gently and effortlessly, often in a graceful or smooth way.",
+      "DEF_ZH":"飘动；轻盈地移动；（消息或想法）传播。",
+      "SENT_EN":"A rumor about the merger started to float around the office.",
+      "SENT_ZH":"关于合并的谣言开始在办公室里传播开来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glide",
+            "waft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a float",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "parade",
+        "culture"
+      ],
+      "DEF_EN":"A decorated platform, typically built on a vehicle, used for display in a procession or parade.",
+      "DEF_ZH":"花车；彩车（游行中使用的装饰性车辆）。",
+      "SENT_EN":"The children cheered when the massive dragon float came down the street.",
+      "SENT_ZH":"当巨大的龙形花车驶过街道时，孩子们欢呼起来。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "carnival",
+            "procession"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a float",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "device",
+        "tool"
+      ],
+      "DEF_EN":"Any light object or device designed to remain buoyant on water, such as a cork used on a fishing line or a buoy.",
+      "DEF_ZH":"浮标；浮子（如鱼线上的软木塞）；浮筒。",
+      "SENT_EN":"He adjusted the depth of the float on his line to catch the fish.",
+      "SENT_ZH":"他调整了线上浮子的高度来捕鱼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "buoy",
+            "bobber"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (with specialized meanings in Finance and Engineering)"
+}

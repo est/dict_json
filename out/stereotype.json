@@ -1,0 +1,100 @@
+{
+  "WORD":"stereotype",
+  "IPA":"/ˈstɛriətaɪp/",
+  "CONJUGATES":"stereotypes (n. pl.) | stereotypes (v. 3rd pers. sg. pres.) | stereotyped (v. past tense, past participle) | stereotyping (v. pres. participle)",
+  "ETYMOLOGY":"From French stéréotype, from Greek stereos 'solid' + typos 'impression, type'. Originally referred to a printing process where a solid plate was cast from a mold of set type.",
+  "SINCE":"Late 18th century (for printing sense), mid-19th century (for figurative sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"stereotype [of sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "sociology",
+        "psychology"
+      ],
+      "DEF_EN":"A widely held but oversimplified and often inaccurate image or idea of a particular type of person or thing.",
+      "DEF_ZH":"对某一类型的人或事物普遍持有但过于简化且常常不准确的形象或看法。",
+      "SENT_EN":"It's harmful to rely on stereotypes when forming opinions about people.",
+      "SENT_ZH":"在形成对人的看法时，依赖刻板印象是有害的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cliché",
+            "preconception",
+            "generalization",
+            "fixed idea"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "individuality",
+            "uniqueness",
+            "complexity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stereotype [sb/sth] (as sth)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "sociology",
+        "psychology"
+      ],
+      "DEF_EN":"To view or represent someone or something as a fixed, oversimplified type.",
+      "DEF_ZH":"将某人或某事物视为一个固定、过于简化的类型，或以此方式呈现。",
+      "SENT_EN":"The media often stereotypes teenagers as lazy and rebellious.",
+      "SENT_ZH":"媒体经常将青少年刻板地描绘成懒惰和叛逆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "label",
+            "categorize",
+            "pigeonhole",
+            "typecast"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "individualize",
+            "diversify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stereotype",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "printing"
+      ],
+      "DEF_EN":"A printing plate cast from a mold of a page of type.",
+      "DEF_ZH":"一种用模具铸造出来的印刷版，用于大量复制文本。",
+      "SENT_EN":"In the early 19th century, the stereotype process revolutionized book printing.",
+      "SENT_ZH":"在19世纪早期，铅板印刷工艺革新了书籍印刷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "printing plate",
+            "typography",
+            "matrix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; often used in academic and social discussions."
+}

@@ -1,0 +1,95 @@
+{
+  "WORD":"chronic",
+  "IPA":"/ˈkrɒnɪk/",
+  "CONJUGATES":"chronically",
+  "ETYMOLOGY":"From Latin chronicus, from Greek chronikos 'of time', from chronos 'time'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"chronic [illness/condition/problem]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"Long-lasting and recurring, especially a disease or problem that persists for a long time or constantly recurs.",
+      "DEF_ZH":"长期存在的，慢性的 (尤指疾病或问题持续很长时间或反复发作)。",
+      "SENT_EN":"She suffers from chronic pain in her back.",
+      "SENT_ZH":"她患有慢性的背部疼痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "persistent",
+            "long-term",
+            "recurrent",
+            "protracted",
+            "enduring"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "acute",
+            "temporary",
+            "short-term",
+            "fleeting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chronic [person/habit]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "informal",
+        "common"
+      ],
+      "DEF_EN":"(Of a person) having a particular bad habit for a long time and being difficult to change; (of a habit) inveterate.",
+      "DEF_ZH":"(指人) 长期有某种坏习惯且难以改变的；(指习惯) 根深蒂固的。",
+      "SENT_EN":"He's a chronic procrastinator, always leaving things until the last minute.",
+      "SENT_ZH":"他是个惯性拖延症患者，总是把事情拖到最后一刻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "habitual",
+            "inveterate",
+            "persistent",
+            "addicted",
+            "ingrained"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chronic [lack/shortage/situation]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "colloquial",
+        "informal",
+        "less common"
+      ],
+      "DEF_EN":"Extremely bad or serious.",
+      "DEF_ZH":"极其糟糕的，严重的。",
+      "SENT_EN":"The city is facing a chronic housing shortage that needs immediate attention.",
+      "SENT_ZH":"这座城市面临着严重的住房短缺，需要立即关注。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "severe",
+            "dire",
+            "extreme",
+            "terrible"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical (especially for diseases), Informal (for habits or severity)."
+}

@@ -1,0 +1,127 @@
+{
+  "WORD":"fence",
+  "IPA":"/fɛns/",
+  "CONJUGATES":"fences | fencing | fenced",
+  "ETYMOLOGY":"From Middle English *fens*, shortened form of Old French *defense* ('defense, protection'). The meaning shifted from 'defense' to 'defensive enclosure' and then simply 'enclosure' or 'barrier'.",
+  "SINCE":"c. 1300 (as 'defense'); c. 1400 (as 'barrier')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical barrier"
+      ],
+      "DEF_EN":"A barrier, railing, or other upright structure, typically of wood, wire, or metal, enclosing an area of ground to prevent or restrict access, mark a boundary, or provide security.",
+      "DEF_ZH":"栅栏；围栏；篱笆（通常由木头、金属或铁丝制成，用于限制进入、划定界限或提供安全保护）。",
+      "SENT_EN":"The farmer built a high wooden fence around his vegetable patch to keep the deer out.",
+      "SENT_ZH":"农民在他的菜地周围建了一道高高的木栅栏，以防止鹿进入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barrier",
+            "enclosure",
+            "palisade",
+            "railing",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fence [sth] (in/off)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To enclose or separate (an area or object) with a fence.",
+      "DEF_ZH":"用围栏围住；隔开；装设栅栏。",
+      "SENT_EN":"They decided to fence off the playground area for safety reasons.",
+      "SENT_ZH":"出于安全原因，他们决定用围栏将游乐场区域隔开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enclose",
+            "surround",
+            "wall off",
+            "partition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fence",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "sport",
+        "specialized"
+      ],
+      "DEF_EN":"To engage in the sport of fencing, which involves fighting with foils, épées, or sabers.",
+      "DEF_ZH":"进行击剑运动；练剑。",
+      "SENT_EN":"She trained for years and now fences competitively at the national level.",
+      "SENT_ZH":"她训练多年，现在在国家级比赛中进行击剑对抗。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fencing",
+            "foil",
+            "épée",
+            "saber",
+            "parry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fence [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "criminal"
+      ],
+      "DEF_EN":"A receiver of stolen goods; a person who buys and sells stolen merchandise knowing it is illegal.",
+      "DEF_ZH":"（俚语）销赃者；收赃人。",
+      "SENT_EN":"The crook took the electronics to his fence in the back alleys of the city.",
+      "SENT_ZH":"那个骗子把电子产品带给了他在城市后巷的销赃者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "receiver",
+            "handler"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fence [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "slang",
+        "criminal"
+      ],
+      "DEF_EN":"To sell or pass along stolen goods to a receiver.",
+      "DEF_ZH":"（俚语）销赃；转卖赃物。",
+      "SENT_EN":"He planned to fence the stolen paintings overseas for a large profit.",
+      "SENT_ZH":"他计划在海外销赃这些被盗的画作以获取巨额利润。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "smuggle",
+            "pawn"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, except for senses 4 and 5 which are criminal slang."
+}

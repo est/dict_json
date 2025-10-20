@@ -1,0 +1,81 @@
+{
+  "WORD":"infant",
+  "IPA":"/'ɪnfənt/",
+  "CONJUGATES":"infants | infancy",
+  "ETYMOLOGY":"From Latin *infantem* (nominative *infans*), meaning 'not speaking' (in- 'not' + *fari* 'speak').",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"A very young child, usually defined as being under one year of age (or sometimes under two).",
+      "DEF_ZH":"婴儿；幼孩。通常指一岁以下（有时指两岁以下）的儿童。",
+      "SENT_EN":"The nurses checked the vital signs of the premature infant every hour.",
+      "SENT_ZH":"护士每小时检查一次早产婴儿的生命体征。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "baby",
+            "newborn",
+            "babe",
+            "tot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "rare"
+      ],
+      "DEF_EN":"In law, a minor; a person who has not yet reached the age of majority.",
+      "DEF_ZH":"（法律）未成年人；尚未达到法定成年年龄的人。",
+      "SENT_EN":"The contract was voidable because the signatory was an infant at the time of signing.",
+      "SENT_ZH":"这份合同是可撤销的，因为签署人在签署时是一名未成年人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minor",
+            "juvenile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"infant [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative",
+        "economics"
+      ],
+      "DEF_EN":"Relating to infants or infancy, or describing something in its very early stages of development or existence.",
+      "DEF_ZH":"与婴儿或婴儿期有关的；处于发展初期或存在初期的（常用于形容行业、组织等）。",
+      "SENT_EN":"The country established tariffs to protect its infant steel industry.",
+      "SENT_ZH":"该国设立了关税以保护其处于发展初期的钢铁工业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nascent",
+            "early-stage",
+            "rudimentary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

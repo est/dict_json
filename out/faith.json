@@ -1,0 +1,106 @@
+{
+  "WORD":"faith",
+  "IPA":"/feɪθ/",
+  "CONJUGATES":"faiths (plural)",
+  "ETYMOLOGY":"From Middle English feith, from Anglo-Norman feid, fed, from Latin fidem (accusative of fidēs 'trust, belief'), from Proto-Indo-European *bʰeydʰ- ('to trust, rely upon').",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s faith in [sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Complete trust or confidence in someone or something.",
+      "DEF_ZH":"对某人或某事物的完全信任或信心。",
+      "SENT_EN":"I have great faith in your ability to handle this project.",
+      "SENT_ZH":"我对你处理这个项目的能力抱有极大的信心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trust",
+            "confidence",
+            "belief",
+            "reliance"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "distrust",
+            "doubt",
+            "skepticism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the faith\n[a] faith",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "religion"
+      ],
+      "DEF_EN":"Strong belief in the doctrines of a religion, without proof; or a particular system of religious belief.",
+      "DEF_ZH":"对宗教教义的强烈信仰（无须证明）；或指特定的宗教信仰体系。",
+      "SENT_EN":"He converted to the Catholic faith later in life.",
+      "SENT_ZH":"他在晚年皈依了天主教信仰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "religion",
+            "creed",
+            "doctrine",
+            "devotion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "paganism",
+            "theism",
+            "agnosticism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"good/bad faith",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiom",
+        "law",
+        "formal"
+      ],
+      "DEF_EN":"Honesty or integrity of intention; the absence of intention to defraud or to take unfair advantage (often used in legal contexts, e.g., 'good faith').",
+      "DEF_ZH":"意图的诚实或正直；不打算欺骗或利用他人的意图（常用于法律语境，如“善意”）。",
+      "SENT_EN":"The negotiations were conducted in good faith by both parties.",
+      "SENT_ZH":"双方本着诚信的原则进行了谈判。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sincerity",
+            "honesty",
+            "fidelity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deceit",
+            "fraud",
+            "bad faith"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

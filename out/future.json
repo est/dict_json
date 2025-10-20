@@ -1,0 +1,106 @@
+{
+  "WORD":"future",
+  "IPA":"/ˈfjuːtʃər/",
+  "CONJUGATES":"futures",
+  "ETYMOLOGY":"From Middle English, from Old French futur, from Latin futūrus (the future active participle of esse 'to be').",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] future",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The time that is yet to come, following the present.",
+      "DEF_ZH":"即将到来的时间，在现在之后。",
+      "SENT_EN":"We need to plan carefully for the future of our company.",
+      "SENT_ZH":"我们需要为公司的未来认真规划。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hereafter",
+            "time to come",
+            "tomorrow"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "past",
+            "present"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] future\n[sth's] future",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A person's or organization's prospective status, success, or condition.",
+      "DEF_ZH":"个人或组织的预期状态、成功或前景。",
+      "SENT_EN":"She worried about her son's financial future.",
+      "SENT_ZH":"她担心她儿子的经济前途。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prospects",
+            "outlook",
+            "destiny"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] future [n]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Relating to or existing in the time to come; prospective.",
+      "DEF_ZH":"与即将到来的时间有关的；未来的；预期的。",
+      "SENT_EN":"We discussed the future implications of the new policy.",
+      "SENT_ZH":"我们讨论了新政策的未来影响。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prospective",
+            "impending",
+            "upcoming"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[plural] futures",
+      "POS":"n pl",
+      "POS_TIP":"plural noun, financial term",
+      "TAGS":[
+        "technical",
+        "finance"
+      ],
+      "DEF_EN":"Commodities or assets bought or sold for delivery at a specified future date and price, often referred to as futures contracts.",
+      "DEF_ZH":"在特定未来日期和价格交付的商品或资产（通常指期货合约）。",
+      "SENT_EN":"He made a fortune trading gold futures.",
+      "SENT_ZH":"他通过交易黄金期货赚了一大笔钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "derivatives",
+            "futures contract"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, academic, financial"
+}

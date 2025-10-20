@@ -1,0 +1,88 @@
+{
+  "WORD":"ratio",
+  "IPA":"/ˈreɪʃioʊ/",
+  "CONJUGATES":"ratio | ratios | ratioed (slang verb) | ratioing (slang verb)",
+  "ETYMOLOGY":"From Latin ratiō (calculation, computation, reasoning, relationship), from the root of rērī 'to think, calculate, judge'.",
+  "SINCE":"Late 16th century (c. 1590)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ratio of [sth] to [sth]\na ratio of X:Y",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "formal"
+      ],
+      "DEF_EN":"The quantitative relation between two amounts, showing the number of times one value contains or is contained within the other.",
+      "DEF_ZH":"两个数量之间的定量关系，表示为一个数值或比值。",
+      "SENT_EN":"The ratio of staff to students is approximately 1:12.",
+      "SENT_ZH":"教职员工与学生的比例大约是 1:12。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proportion",
+            "correlation",
+            "fraction"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rate",
+            "percentage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive a ratio\nget ratioed",
+      "POS":"n. (slang)",
+      "POS_TIP":"noun (slang)",
+      "TAGS":[
+        "slang",
+        "internet",
+        "modern"
+      ],
+      "DEF_EN":"On social media, the condition where a post's replies or quote-tweets greatly exceed its likes or shares, signifying widespread public disagreement or criticism.",
+      "DEF_ZH":"（社交媒体俚语）指某个帖子的回复或引用转发数量远远多于点赞或分享数量，表明该帖子受到广泛反对或批评的现象。",
+      "SENT_EN":"His overly aggressive comment resulted in him getting a massive ratio.",
+      "SENT_ZH":"他那过于激进的评论导致他受到了大量的“比例”批评。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "roast",
+            "owned",
+            "L + ratio"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ratio [sb]\nratio [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "internet",
+        "rare"
+      ],
+      "DEF_EN":"To criticize or discredit a social media post severely by replying to it in large numbers rather than liking it.",
+      "DEF_ZH":"通过大量的回复而非点赞或分享来严厉批评或否定一个社交媒体帖子。",
+      "SENT_EN":"If you post misinformation, people will quickly ratio you in the replies.",
+      "SENT_ZH":"如果你发布错误信息，人们会很快在回复中批评你。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "criticize",
+            "debunk"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely across mathematics, finance, engineering, and general conversation. Slang usage is common on platforms like Twitter/X."
+}

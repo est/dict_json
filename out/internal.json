@@ -1,0 +1,97 @@
+{
+  "WORD":"internal",
+  "IPA":"/ɪnˈtɜːrnəl/",
+  "CONJUGATES":"internally (adv) | internality (n)",
+  "ETYMOLOGY":"From Late Latin internalis, from Latin internus 'inward, internal', related to inter 'between'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is internal",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Of or situated on the inside; inner.",
+      "DEF_ZH":"内部的；里面的（指身体或结构）。",
+      "SENT_EN":"The mechanism had many complex internal components.",
+      "SENT_ZH":"该机制有许多复杂的内部组件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inner",
+            "interior",
+            "inward"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "external",
+            "exterior",
+            "outer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"internal [policy/memo/affairs]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "business",
+        "political"
+      ],
+      "DEF_EN":"Relating to the affairs or aspects within a specific country, organization, or group, rather than with those of others.",
+      "DEF_ZH":"国内的；组织内部的；专属的。",
+      "SENT_EN":"The security breach was an internal issue and did not involve outside parties.",
+      "SENT_ZH":"这次安全漏洞是内部问题，不涉及外部人员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "domestic",
+            "intrinsic",
+            "institutional"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "foreign",
+            "international",
+            "external"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"internal [feeling/thought/struggle]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "psychological",
+        "literary"
+      ],
+      "DEF_EN":"Subjective; existing or felt in the mind or spirit, not openly expressed.",
+      "DEF_ZH":"精神上的；内心的；主观的（未公开表达的）。",
+      "SENT_EN":"She felt an internal pressure to succeed, even though no one had asked her to.",
+      "SENT_ZH":"她感到一种内在的成功压力，尽管没有人要求她这样做。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subjective",
+            "inherent",
+            "mental",
+            "psychic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and general use"
+}

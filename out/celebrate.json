@@ -1,0 +1,94 @@
+{
+  "WORD":"celebrate",
+  "IPA":"/ˈsɛlɪbreɪt/",
+  "CONJUGATES":"celebrates | celebrating | celebrated",
+  "ETYMOLOGY":"From Latin celebratus, past participle of celebrare 'to frequent, to honor, to solemnize', from celeber 'frequented, renowned'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"celebrate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To mark a significant or happy day or event with a social gathering or enjoyable activity.",
+      "DEF_ZH":"以社交聚会或愉快活动来纪念一个重要或快乐的日子或事件。",
+      "SENT_EN":"We are going to celebrate our wedding anniversary next week.",
+      "SENT_ZH":"我们下周将庆祝我们的结婚纪念日。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commemorate",
+            "observe",
+            "fete",
+            "rejoice"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "celebration",
+            "celebrator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"celebrate [sb]\ncelebrate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "praise"
+      ],
+      "DEF_EN":"To praise or speak highly of a person or thing publicly.",
+      "DEF_ZH":"公开赞扬或高度评价某人或某事。",
+      "SENT_EN":"The concert celebrates the works of classical composers.",
+      "SENT_ZH":"这场音乐会赞颂了古典作曲家的作品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "praise",
+            "extol",
+            "glorify",
+            "honor"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "denigrate",
+            "disparage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"celebrate (the Mass/Holy Communion)",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "religious",
+        "formal"
+      ],
+      "DEF_EN":"To perform a religious rite, especially the Eucharist or Mass.",
+      "DEF_ZH":"举行宗教仪式，尤其是圣体圣事或弥撒。",
+      "SENT_EN":"The priest will celebrate Mass on Sunday morning.",
+      "SENT_ZH":"那位牧师将在周日早上举行弥撒。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "officiate",
+            "consecrate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

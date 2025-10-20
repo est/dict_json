@@ -1,0 +1,92 @@
+{
+  "WORD":"manage",
+  "IPA":"/'mænɪdʒ/",
+  "CONJUGATES":"manages | managing | managed",
+  "ETYMOLOGY":"From Italian maneggiare ('to handle', especially a horse), via French ménager ('to administer, save'), ultimately from Latin manus ('hand').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"manage [sth]\nmanage [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "business",
+        "administration"
+      ],
+      "DEF_EN":"To be in charge of or organize and control a company, department, project, or group of people; to handle resources effectively.",
+      "DEF_ZH":"经营；管理；主持（公司、项目、人员或资源）；有效处理。",
+      "SENT_EN":"The CEO decided to manage the crisis personally.",
+      "SENT_ZH":"首席执行官决定亲自管理这场危机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "administer",
+            "supervise",
+            "oversee",
+            "direct",
+            "control"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mismanage",
+            "neglect",
+            "abdicate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"manage to [do sth]",
+      "POS":"vi + inf",
+      "POS_TIP":"intransitive verb followed by an infinitive",
+      "TAGS":[
+        "common",
+        "achievement"
+      ],
+      "DEF_EN":"To succeed in doing or achieving something, especially despite difficulty or limited resources.",
+      "DEF_ZH":"设法完成；做到；勉强成功（尤指在困难的情况下）。",
+      "SENT_EN":"We managed to finish the report just before the deadline.",
+      "SENT_ZH":"我们设法在截止日期前完成了这份报告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contrive",
+            "succeed",
+            "achieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"manage (without [sth/sb])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "everyday usage",
+        "coping"
+      ],
+      "DEF_EN":"To cope or deal with a difficult situation; to be able to live or operate despite the lack of something.",
+      "DEF_ZH":"应付；处理；勉强维持；（在缺少某物的情况下）过得去。",
+      "SENT_EN":"We managed fine without electricity for two days.",
+      "SENT_ZH":"我们在没有电的情况下过了两天，一切都好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handle",
+            "cope",
+            "deal with",
+            "get by",
+            "survive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

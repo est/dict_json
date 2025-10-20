@@ -1,0 +1,109 @@
+{
+  "WORD":"exhibit",
+  "IPA":"/ɪɡˈzɪbɪt/",
+  "CONJUGATES":"exhibits | exhibiting | exhibited",
+  "ETYMOLOGY":"From Latin *exhibitus*, past participle of *exhibēre* ('to hold forth, display'), derived from *ex-* ('out') + *habēre* ('to hold').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"exhibit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To publicly display works of art or items of interest in a museum, fair, or gallery.",
+      "DEF_ZH":"公开展示（艺术品、物品等）；展出。",
+      "SENT_EN":"The artist will exhibit his latest sculptures next month.",
+      "SENT_ZH":"这位艺术家将于下月展出他最新的雕塑作品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "display",
+            "show",
+            "present",
+            "showcase"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exhibition",
+            "exposition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exhibit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object.",
+      "TAGS":[
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To show or manifest a quality, trait, feeling, or symptom.",
+      "DEF_ZH":"表现出；显露（某种品质、特征或症状）。",
+      "SENT_EN":"The ancient rocks exhibited signs of heavy erosion.",
+      "SENT_ZH":"这些古老的岩石显示出严重的侵蚀迹象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manifest",
+            "demonstrate",
+            "reveal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an exhibit (in a museum/show)",
+      "POS":"nc",
+      "POS_TIP":"Countable noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An object or collection of objects placed on public display, typically in an art gallery or museum.",
+      "DEF_ZH":"展品；陈列物。",
+      "SENT_EN":"The new dinosaur fossil is the most popular exhibit at the museum.",
+      "SENT_ZH":"新的恐龙化石是博物馆里最受欢迎的展品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "display",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Exhibit A/B/C...",
+      "POS":"nc",
+      "POS_TIP":"Countable noun.",
+      "TAGS":[
+        "legal",
+        "specialized"
+      ],
+      "DEF_EN":"A document or object formally presented and identified in a court of law as evidence.",
+      "DEF_ZH":"（法庭上的）证据；证物。",
+      "SENT_EN":"The prosecutor introduced the signed confession as Exhibit B.",
+      "SENT_ZH":"检察官将签署的供词作为证物B提交。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "evidence",
+            "proof",
+            "document"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, and specialized in Legal contexts."
+}

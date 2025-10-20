@@ -1,0 +1,112 @@
+{
+  "WORD":"provision",
+  "IPA":"/prəˈvɪʒən/",
+  "CONJUGATES":"provisions (n. pl.) | provisioned (v. past) | provisioning (v. pres. part.)",
+  "ETYMOLOGY":"From Latin prōvīsiō (act of foreseeing), from prōvidēre (to foresee, attend to, provide), formed from prō- 'before, forward' + vidēre 'to see'.",
+  "SINCE":"Late Middle English (14th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"provision [of sth]\nmake provision [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "uncountable"
+      ],
+      "DEF_EN":"The action of supplying or providing something for use.",
+      "DEF_ZH":"供应；供给；提供。",
+      "SENT_EN":"The government is responsible for the provision of essential services.",
+      "SENT_ZH":"政府有责任提供基本服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supply",
+            "delivery",
+            "arrangement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "provider",
+            "proviso"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"provision (usually plural)",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "common",
+        "countable",
+        "business"
+      ],
+      "DEF_EN":"A stock of necessary materials or supplies, especially food, used for a journey or a period of time.",
+      "DEF_ZH":"（尤指旅行或长期所需的）粮食，物资，储备。",
+      "SENT_EN":"They packed adequate provisions for the desert crossing.",
+      "SENT_ZH":"他们为穿越沙漠准备了充足的物资。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stores",
+            "rations",
+            "supplies"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"provision [in a document]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"A stipulation, condition, or requirement specified in a legal document, contract, or statute.",
+      "DEF_ZH":"（法律或合同中的）条款，规定。",
+      "SENT_EN":"The agreement includes a provision for mandatory arbitration.",
+      "SENT_ZH":"该协议包含一项强制仲裁的条款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clause",
+            "stipulation",
+            "condition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"provision [sb] / provision [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "logistics"
+      ],
+      "DEF_EN":"To supply someone or something with provisions.",
+      "DEF_ZH":"为……提供所需的物资（或食物）。",
+      "SENT_EN":"The troops were provisioned before deployment.",
+      "SENT_ZH":"部队在部署前获得了物资补给。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stock",
+            "equip",
+            "supply"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Military, Legal, Business"
+}

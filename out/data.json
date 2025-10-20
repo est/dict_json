@@ -1,0 +1,92 @@
+{
+  "WORD":"data",
+  "IPA":"/ˈdeɪtə/, /ˈdɑːtə/",
+  "CONJUGATES":"datum (singular, rarely used)",
+  "ETYMOLOGY":"From Latin data (plural of datum), neuter past participle of dare 'to give', meaning 'something given'. Entered English as a plural noun in philosophy and mathematics.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"data [unc]",
+      "POS":"Noun (uncountable)",
+      "POS_TIP":"Noun (uncountable): a noun referring to things that cannot be counted or are treated as a single body.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology",
+        "business"
+      ],
+      "DEF_EN":"Facts and statistics collected together for reference or analysis, typically in digital form, usually treated as an uncountable mass noun in modern English.",
+      "DEF_ZH":"用于参考或分析而收集的事实和统计数据，通常以数字形式存在；在现代英语中通常被视为不可数名词。",
+      "SENT_EN":"The scientists analyzed a vast amount of seismic data.",
+      "SENT_ZH":"科学家分析了大量的地震数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "information",
+            "statistics",
+            "figures",
+            "input"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "database",
+            "analytics",
+            "metadata"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"data [computing/telecom]",
+      "POS":"Noun (uncountable)",
+      "POS_TIP":"Noun (uncountable): a noun referring to things that cannot be counted or are treated as a single body.",
+      "TAGS":[
+        "technical",
+        "computing",
+        "telecommunications"
+      ],
+      "DEF_EN":"Information that is processed, stored, or transmitted by a computer or communications system, often referring to mobile internet bandwidth.",
+      "DEF_ZH":"通过计算机或通信系统处理、存储或传输的信息，常指移动互联网流量。",
+      "SENT_EN":"I need to upgrade my phone plan because I keep running out of mobile data.",
+      "SENT_ZH":"我需要升级我的手机套餐，因为我总是用完手机流量。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bandwidth",
+            "packet",
+            "signal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"data [pl] (archaic/formal)",
+      "POS":"Noun (plural)",
+      "POS_TIP":"Noun (plural): a noun form used for multiple instances of a count noun.",
+      "TAGS":[
+        "formal",
+        "historical",
+        "archaic"
+      ],
+      "DEF_EN":"Individual facts or propositions used as premises for an argument or calculation (historically treated strictly as the plural of 'datum' and requiring a plural verb).",
+      "DEF_ZH":"用作论据或计算前提的单独的事实或命题（历史上被严格视为 'datum' 的复数，需要使用复数动词）。",
+      "SENT_EN":"These data were insufficient to draw a conclusion. (Used formally, contrasting with modern usage 'This data was')",
+      "SENT_ZH":"这些数据不足以得出结论。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "datum",
+            "evidence",
+            "premise"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Technical | Academic"
+}

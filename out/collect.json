@@ -1,0 +1,132 @@
+{
+  "WORD":"collect",
+  "IPA":"/kəˈlɛkt/",
+  "CONJUGATES":"collects | collecting | collected",
+  "ETYMOLOGY":"From Latin colligere (com- 'together' + legere 'to gather, choose'), meaning 'to gather together, assemble'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"collect [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bring or gather together items or things, often as a hobby or for storage.",
+      "DEF_ZH":"收集；采集；聚拢；汇集。",
+      "SENT_EN":"He enjoys collecting rare coins from different historical periods.",
+      "SENT_ZH":"他喜欢收集不同历史时期的稀有硬币。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gather",
+            "assemble",
+            "accumulate",
+            "hoard"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "distribute",
+            "scatter",
+            "disperse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"collect [sb]\ncollect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "daily use",
+        "transport"
+      ],
+      "DEF_EN":"To go and bring someone or something from a place; to pick up.",
+      "DEF_ZH":"接（人）；取回（物品）。",
+      "SENT_EN":"Could you collect the dry cleaning on your way home?",
+      "SENT_ZH":"你能在回家的路上取一下干洗衣物吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pick up",
+            "fetch",
+            "retrieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"collect [sth] (money/debts)",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"To receive or obtain payment for money owed or a service rendered.",
+      "DEF_ZH":"收取（款项）；征收；收债。",
+      "SENT_EN":"The treasurer's office is responsible for collecting taxes.",
+      "SENT_ZH":"财务办公室负责征收税款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "receive",
+            "claim",
+            "demand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"collect oneself",
+      "POS":"vtr + reflexive",
+      "POS_TIP":"transitive verb + reflexive pronoun",
+      "TAGS":[
+        "idiomatic",
+        "mental state"
+      ],
+      "DEF_EN":"To regain composure and control of one's emotions or thoughts after a shock or distraction.",
+      "DEF_ZH":"镇定下来；使自己恢复平静。",
+      "SENT_EN":"After the news, she paused for a moment to collect herself.",
+      "SENT_ZH":"听到这个消息后，她停顿了一下，让自己镇定下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compose",
+            "calm down",
+            "gather"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"collect call\ncall collect",
+      "POS":"adj | adv",
+      "POS_TIP":"adjective | adverb",
+      "TAGS":[
+        "telecommunications",
+        "dated"
+      ],
+      "DEF_EN":"(Of a telephone call) made so that the recipient pays for the charges.",
+      "DEF_ZH":"（指电话）对方付费的（或地）。",
+      "SENT_EN":"In the nineties, if you ran out of coins, you had to call collect.",
+      "SENT_ZH":"在九十年代，如果你没零钱了，你就必须打对方付费电话。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "collect call"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across all registers."
+}

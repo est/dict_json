@@ -1,0 +1,103 @@
+{
+  "WORD":"path",
+  "IPA":"/pæθ/ | /pɑːθ/",
+  "CONJUGATES":"paths (pl.)",
+  "ETYMOLOGY":"From Old English pæþ, related to Dutch pad and German Pfad, ultimately Germanic in origin.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] path (through [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A track or way trodden by foot, often narrow and rough, especially through woods or fields.",
+      "DEF_ZH":"小径；路；步道。通常指人走出来的、狭窄的道路。",
+      "SENT_EN":"The hikers followed the muddy path up the hillside.",
+      "SENT_ZH":"徒步旅行者沿着泥泞的小径爬上山坡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trail",
+            "track",
+            "footpath",
+            "walkway"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] path (to/of [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A course of action, way of life, or a specified direction taken to achieve a goal.",
+      "DEF_ZH":"途径；路线；人生道路；解决问题的方向。",
+      "SENT_EN":"Choosing the right career path is critical for future success.",
+      "SENT_ZH":"选择正确的职业道路对未来的成功至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "course",
+            "route",
+            "direction",
+            "method"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the path of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"The trajectory or curve along which a moving object travels.",
+      "DEF_ZH":"轨迹；运行路线（指运动物体）。",
+      "SENT_EN":"The meteor changed its path as it entered the atmosphere.",
+      "SENT_ZH":"陨石进入大气层时改变了它的轨迹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trajectory",
+            "orbit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] path (to [file])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"In computing, a sequence of directory names that specifies the location of a file or folder in a hierarchical file system.",
+      "DEF_ZH":"(计算机) 路径；用于定位文件或目录的地址序列。",
+      "SENT_EN":"The full path to the configuration file was displayed on the screen.",
+      "SENT_ZH":"配置文件的完整路径显示在了屏幕上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "directory",
+            "file system",
+            "URL"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

@@ -1,0 +1,89 @@
+{
+  "WORD":"Roman",
+  "IPA":"/ˈroʊmən/",
+  "CONJUGATES":"Romans (plural noun)",
+  "ETYMOLOGY":"From Latin Rōmānus, derived from Rōma ('Rome'). Attested in Old English, reinforced through Old French Roman.",
+  "SINCE":"Before 12th Century (referencing the city/empire)",
+  "MEANINGS":[
+    {
+      "PATTERN":"Roman [adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "historical"
+      ],
+      "DEF_EN":"Relating to the city of Rome, its inhabitants, or the historical Roman Empire.",
+      "DEF_ZH":"罗马（城）的；古罗马的；罗马帝国的。",
+      "SENT_EN":"The archaeologists discovered a large Roman villa near the coast.",
+      "SENT_ZH":"考古学家在海岸附近发现了一座大型罗马别墅。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Imperial",
+            "Latin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a Roman [sb]",
+      "POS":"n",
+      "POS_TIP":"Noun (Person)",
+      "TAGS":[
+        "core word",
+        "people"
+      ],
+      "DEF_EN":"A native or inhabitant of the city of Rome, especially a citizen of the ancient republic or empire.",
+      "DEF_ZH":"罗马人；古罗马公民。",
+      "SENT_EN":"The general, being a Roman, held great pride in military discipline.",
+      "SENT_ZH":"这位将军是罗马人，对军事纪律感到非常自豪。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"Roman [adj] (typography)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "specialized",
+        "typography"
+      ],
+      "DEF_EN":"Denoting the standard upright style of typeface, contrasting with italic or boldface.",
+      "DEF_ZH":"（印刷）正体的，非斜体的。",
+      "SENT_EN":"The main text should be in 12pt Roman font.",
+      "SENT_ZH":"正文应使用12磅正体字体。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "Italic",
+            "Bold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Roman [adj] (numerals)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "mathematical"
+      ],
+      "DEF_EN":"Relating to the system of numerical notation using letters (I, V, X, L, C, D, M).",
+      "DEF_ZH":"罗马数字的。",
+      "SENT_EN":"He still doesn't understand how to read large Roman numerals.",
+      "SENT_ZH":"他仍然不明白如何阅读较大的罗马数字。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Arabic Numerals"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and common usage, historical context"
+}

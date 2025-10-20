@@ -1,0 +1,134 @@
+{
+  "WORD":"edge",
+  "IPA":"/ɛdʒ/",
+  "CONJUGATES":"edges | edged | edging",
+  "ETYMOLOGY":"From Old English ecg ('corner, point, sword-blade'), from Proto-Germanic *agjō, related to Latin acus ('needle') and ultimately associated with the PIE root *h₂eḱ- ('sharp, pointed').",
+  "SINCE":"before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"edge (of [sth])",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "geometry"
+      ],
+      "DEF_EN":"The outside limit of an object, surface, or area; the border or perimeter.",
+      "DEF_ZH":"边界；边缘；边线。",
+      "SENT_EN":"Don't stand too close to the edge of the platform.",
+      "SENT_ZH":"不要站得离站台边缘太近。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rim",
+            "border",
+            "verge",
+            "periphery",
+            "brim"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the edge (of a blade)",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "tool/weaponry"
+      ],
+      "DEF_EN":"The sharpened side of a blade, knife, or cutting tool.",
+      "DEF_ZH":"刀刃；锋利面。",
+      "SENT_EN":"He ran his thumb along the smooth edge of the razor.",
+      "SENT_ZH":"他用拇指沿着剃刀锋利的刀刃滑过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blade",
+            "cutting surface",
+            "sharpness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have/gain the edge (over [sb/sth])",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "idiomatic",
+        "competitive"
+      ],
+      "DEF_EN":"A slight but important advantage or superiority over others.",
+      "DEF_ZH":"优势；胜势；领先。",
+      "SENT_EN":"Our superior technology gave us the edge over the competition.",
+      "SENT_ZH":"我们卓越的技术使我们相对于竞争对手占有优势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advantage",
+            "superiority",
+            "lead"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "leverage",
+            "upper hand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"edge [v] (towards/along/away)",
+      "POS":"v | vt | vi",
+      "POS_TIP":"v: verb | vt: verb transitive | vi: verb intransitive",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"To move gradually, slowly, or cautiously in a specified direction.",
+      "DEF_ZH":"缓慢而谨慎地移动；侧身移动。",
+      "SENT_EN":"The crowd edged closer to the stage as the show began.",
+      "SENT_ZH":"演出开始时，人群慢慢地靠近舞台。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sidle",
+            "creep",
+            "inch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an edge (in [sb's] voice)",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "figurative",
+        "emotion"
+      ],
+      "DEF_EN":"A sharp, often negative, quality in a voice or manner suggesting tension, nervousness, or hostility.",
+      "DEF_ZH":"尖锐感；紧张或急躁的情绪（声音中的）。",
+      "SENT_EN":"I detected an edge of irritation in her reply.",
+      "SENT_ZH":"我听出了她的回复中带着一丝不耐烦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sharpness",
+            "tension",
+            "hostility"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

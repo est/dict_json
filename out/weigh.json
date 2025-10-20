@@ -1,0 +1,122 @@
+{
+  "WORD":"weigh",
+  "IPA":"/weɪ/",
+  "CONJUGATES":"weighs | weighed | weighing",
+  "ETYMOLOGY":"From Middle English weyen, from Old English wegan 'to carry, bear, move; lift; weigh', from Proto-Germanic *weganą. Related to the concept of moving or lifting a heavy object.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"weigh [sth]\nweigh [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb requiring a direct object)",
+      "TAGS":[
+        "core word",
+        "measurement"
+      ],
+      "DEF_EN":"To determine the mass or heaviness of an object or person, typically by using a scale or balance.",
+      "DEF_ZH":"称量；测量（某物或某人）的重量。",
+      "SENT_EN":"The pharmacist carefully weighed the ingredients for the prescription.",
+      "SENT_ZH":"药剂师仔细称量了处方所需的原料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure mass",
+            "scale"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "weight",
+            "scale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] weigh [value]",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb (verb not requiring a direct object)",
+      "TAGS":[
+        "common",
+        "state of being"
+      ],
+      "DEF_EN":"To have a specific or designated amount of heaviness.",
+      "DEF_ZH":"重达；有...的重量。",
+      "SENT_EN":"My suitcase weighs over 20 kilograms, so I might have to pay extra.",
+      "SENT_ZH":"我的手提箱重达20多公斤，所以我可能得支付额外的费用。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "heaviness",
+            "mass"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weigh [sth]\nweigh [sth] against [sth else] | weigh up [sth]",
+      "POS":"vtr | vphr",
+      "POS_TIP":"transitive verb | phrasal verb",
+      "TAGS":[
+        "figurative",
+        "assessment"
+      ],
+      "DEF_EN":"To consider or assess the relative importance, value, or influence of different facts, arguments, or possibilities, especially before making a decision.",
+      "DEF_ZH":"权衡；斟酌；比较（重要性或利弊）。",
+      "SENT_EN":"She weighed the advantages against the disadvantages before accepting the new job.",
+      "SENT_ZH":"她在接受新工作之前，权衡了利弊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consider",
+            "evaluate",
+            "ponder",
+            "assess"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deliberation",
+            "judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weigh down [sb] [sth]",
+      "POS":"vphr",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "idiomatic",
+        "burden"
+      ],
+      "DEF_EN":"To oppress, burden, or cause someone to feel heavy and worried, usually figuratively with responsibility or sadness.",
+      "DEF_ZH":"使（某人）感到压抑；使不堪重负。",
+      "SENT_EN":"The guilt of the accident began to weigh her down.",
+      "SENT_ZH":"事故带来的内疚开始使她不堪重负。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "burden",
+            "overwhelm",
+            "oppress"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "relieve",
+            "lighten"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Common usage in various contexts, including scientific measurement and abstract decision-making."
+}

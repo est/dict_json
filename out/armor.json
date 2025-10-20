@@ -1,0 +1,125 @@
+{
+  "WORD":"armor",
+  "IPA":"/ˈɑːrmər/",
+  "CONJUGATES":"armors (n.) | armors (v.) | armored (v.) | armoring (v.)",
+  "ETYMOLOGY":"From Middle English 'armure', from Old French 'armeure', from Latin 'armatura' ('equipment, armor'), from 'armare' ('to arm').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"armor",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Protective covering, usually made of metal or leather, worn to protect the body during combat or in dangerous situations.",
+      "DEF_ZH":"用于保护身体的防护性覆盖物，通常由金属或皮革制成，在战斗或危险情况下穿着。",
+      "SENT_EN":"Knights in medieval times wore heavy armor into battle.",
+      "SENT_ZH":"中世纪的骑士穿着厚重的盔甲投入战斗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mail",
+            "plate",
+            "suit of armor"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vulnerability",
+            "weakness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"armor [against sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Anything that provides protection or defense, especially against emotional or psychological harm.",
+      "DEF_ZH":"任何提供保护或防御的东西，尤其是针对情感或心理伤害。",
+      "SENT_EN":"His emotional armor made him seem distant and unapproachable.",
+      "SENT_ZH":"他的情感盔甲让他显得疏远而难以接近。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shield",
+            "protection",
+            "defense"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exposure",
+            "openness",
+            "vulnerability"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"armor",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific (zoology)",
+        "common"
+      ],
+      "DEF_EN":"The hard, protective outer layer of an animal, such as a turtle's shell or an armadillo's plates.",
+      "DEF_ZH":"动物坚硬的保护性外层，如乌龟的甲壳或犰狳的鳞甲。",
+      "SENT_EN":"The armadillo's armor protects it from predators.",
+      "SENT_ZH":"犰狳的甲壳保护它免受捕食者的侵害。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "exoskeleton",
+            "shell",
+            "carapace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"armor [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To equip or cover with armor; to provide with a protective covering.",
+      "DEF_ZH":"为（某人/某物）穿戴或覆盖盔甲；提供防护性覆盖物。",
+      "SENT_EN":"The soldiers were armored for battle.",
+      "SENT_ZH":"士兵们全副武装，准备战斗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equip",
+            "protect",
+            "clad",
+            "fortify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disarm",
+            "expose",
+            "uncover"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

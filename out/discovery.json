@@ -1,0 +1,85 @@
+{
+  "WORD":"discovery",
+  "IPA":"/dɪˈskʌvəri/",
+  "CONJUGATES":"discoveries (plural)",
+  "ETYMOLOGY":"From Middle English discoverie, from Old French descovrir (to uncover, expose), formed from des- (un-) + couvrir (to cover).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act or process of finding or finding out something for the first time.",
+      "DEF_ZH":"首次发现、找到或发觉某事物的行为或过程。",
+      "SENT_EN":"The discovery of gravity is attributed to Isaac Newton.",
+      "SENT_ZH":"万有引力的发现归功于艾萨克·牛顿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uncovering",
+            "detection",
+            "revelation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concealment",
+            "hiding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Something that is discovered, especially a notable new finding in science or geography.",
+      "DEF_ZH":"被发现的事物，尤指科学或地理方面重大的新发现物。",
+      "SENT_EN":"The ruins were an incredible archeological discovery.",
+      "SENT_ZH":"这些废墟是一个令人难以置信的考古发现。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "finding",
+            "breakthrough",
+            "innovation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[legal context]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable, legal term)",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"The pre-trial procedure in which each party requests and obtains evidence, documents, or information from the opposing party.",
+      "DEF_ZH":"审判前程序，诉讼中一方要求另一方强制性披露证据、文件或信息的行为。",
+      "SENT_EN":"Both legal teams spent months compiling documents during the discovery phase.",
+      "SENT_ZH":"两个法律团队都在证据披露阶段花费了数月时间来整理文件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "disclosure",
+            "interrogatories"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Scientific, Legal"
+}

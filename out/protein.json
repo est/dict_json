@@ -1,0 +1,60 @@
+{
+  "WORD":"PROTEIN",
+  "IPA":"/'proʊtiːn/",
+  "CONJUGATES":"proteins",
+  "ETYMOLOGY":"Coined in 1838 by Jöns Jacob Berzelius from the Greek prōteios ('primary, of the first rank'), derived from prōtos ('first'), reflecting its perceived fundamental importance to life.",
+  "SINCE":"1838",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (uncountable or countable)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "biology",
+        "biochemistry",
+        "common"
+      ],
+      "DEF_EN":"A large, complex biomolecule essential to all living organisms, consisting of one or more long chains of amino acids; they perform a vast array of functions, including catalyzing metabolic reactions, DNA replication, and providing structure.",
+      "DEF_ZH":"对所有生物体至关重要的大型复杂生物分子，由一个或多个氨基酸长链组成；它们执行多种功能，包括催化代谢反应、DNA复制和提供结构支持。",
+      "SENT_EN":"Hemoglobin is a highly complex protein responsible for transporting oxygen in the blood.",
+      "SENT_ZH":"血红蛋白是一种高度复杂的蛋白质，负责在血液中运输氧气。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "amino acid",
+            "enzyme",
+            "polypeptide",
+            "nucleic acid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (uncountable)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "nutrition",
+        "food"
+      ],
+      "DEF_EN":"Food or dietary substances rich in proteins, such as meat, dairy, eggs, or legumes, considered essential for growth and repair of tissue.",
+      "DEF_ZH":"富含蛋白质的食物或膳食物质，例如肉类、乳制品、鸡蛋或豆类，被认为是组织生长和修复所必需的。",
+      "SENT_EN":"For breakfast, I always try to include some lean protein, like Greek yogurt.",
+      "SENT_ZH":"我早餐总是尝试加入一些精益蛋白质，比如希腊酸奶。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "carbohydrate",
+            "fat",
+            "vitamin",
+            "fiber"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, nutritional, and everyday conversation."
+}

@@ -1,0 +1,125 @@
+{
+  "WORD":"pipe",
+  "IPA":"/paɪp/",
+  "CONJUGATES":"pipes | piping | piped",
+  "ETYMOLOGY":"From Old English pīpe (musical instrument, tube), reinforced by Old French pipe, both ultimately from Late Latin pipa (a pipe, whistle), likely imitative of sound.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A hollow cylinder, typically metal, plastic, or concrete, used for conveying water, gas, oil, or other fluids.",
+      "DEF_ZH":"用于输送水、气、油或其他流体的空心圆筒或长管。",
+      "SENT_EN":"The city crews are replacing old cast-iron water pipes.",
+      "SENT_ZH":"市政工作人员正在更换旧的铸铁水管。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tube",
+            "conduit",
+            "duct",
+            "hose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "smoking"
+      ],
+      "DEF_EN":"A device used for smoking tobacco or other substances, consisting of a small bowl for the material and a long stem for drawing the smoke.",
+      "DEF_ZH":"一种用于吸烟草或其他物质的器具，由一个装烟料的小碗和一个长烟嘴组成。",
+      "SENT_EN":"He sat by the fire, puffing thoughtfully on his favorite wooden pipe.",
+      "SENT_ZH":"他坐在炉火旁，若有所思地吸着他最喜欢的木制烟斗。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tobacco",
+            "hookah",
+            "cigar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pipe [sth] (to [sb]/[sth])",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "engineering",
+        "supply"
+      ],
+      "DEF_EN":"To convey or supply (a liquid or gas) through a network of pipes.",
+      "DEF_ZH":"通过管道系统输送或供应（液体或气体）。",
+      "SENT_EN":"They had to pipe clean water from the reservoir down to the village.",
+      "SENT_ZH":"他们必须将水库的净水通过管道输送到村庄。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "channel",
+            "conduct",
+            "convey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pipe up\npipe [sth] out",
+      "POS":"vi | vtr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "idiomatic",
+        "speech"
+      ],
+      "DEF_EN":"To speak or sing in a high, often sudden, tone.",
+      "DEF_ZH":"以高亢或突然的声调说话或唱歌（尤指小孩）。",
+      "SENT_EN":"The youngest child suddenly piped up with an unexpected question.",
+      "SENT_ZH":"那个最小的孩子突然高声提出了一个意想不到的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "squeak",
+            "chirp",
+            "trill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pipe [sth]\npipe [sth] (to [sth])",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"(In computing) To redirect the output data stream of one command or process to be the input stream of another.",
+      "DEF_ZH":"（计算机中）将一个命令或程序的输出数据流重定向为另一个命令或程序的输入流。",
+      "SENT_EN":"We can pipe the results of the search command to a file using the '>' symbol.",
+      "SENT_ZH":"我们可以使用“>”符号将搜索命令的结果导入（管道）到一个文件中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "redirection",
+            "stream"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage; often technical (engineering, plumbing, computing) or nautical (referring to boatswain's whistle/calls)."
+}

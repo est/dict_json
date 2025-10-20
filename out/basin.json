@@ -1,0 +1,72 @@
+{
+  "WORD":"basin",
+  "IPA":"/ˈbeɪsɪn/",
+  "CONJUGATES":"basins",
+  "ETYMOLOGY":"From Middle English, derived from Old French bacin, from Vulgar Latin *baccinum (a vessel), possibly related to Latin bacca (berry), suggesting a round shape.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "domestic",
+        "common"
+      ],
+      "DEF_EN":"A wide, open, typically round container used for holding water or other liquids, especially one fixed to a wall and used for washing; a sink.",
+      "DEF_ZH":"盆；盥洗盆；洗手池。",
+      "SENT_EN":"She poured the soapy water down the basin.",
+      "SENT_ZH":"她将肥皂水倒进了盥洗盆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bowl",
+            "sink",
+            "lavabo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geography",
+        "geology",
+        "scientific"
+      ],
+      "DEF_EN":"A large natural depression on the earth's surface, often drained by a river (a drainage basin) or surrounded by higher land (a topographical basin).",
+      "DEF_ZH":"流域；盆地；凹陷地带。",
+      "SENT_EN":"The Amazon River basin is the largest drainage basin in the world.",
+      "SENT_ZH":"亚马逊河流域是世界上最大的水系流域。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "watershed",
+            "valley",
+            "crater"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "nautical"
+      ],
+      "DEF_EN":"A water area that is partially or fully enclosed, often man-made, such as a dock, harbor, or reservoir.",
+      "DEF_ZH":"船坞；港池；人工水库。",
+      "SENT_EN":"The ships were moored safely in the inner basin during the storm.",
+      "SENT_ZH":"暴风雨期间，船只安全地停泊在内港池中。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"common"
+}

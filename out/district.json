@@ -1,0 +1,67 @@
+{
+  "WORD":"district",
+  "IPA":"/ˈdɪstrɪkt/",
+  "CONJUGATES":"districts",
+  "ETYMOLOGY":"From Old French 'destreit' (meaning 'constraint, jurisdiction'), which came from Medieval Latin 'districtus' (meaning 'restraint, jurisdiction, territory'), past participle of 'distringere' (to distrain, compel), from Latin 'dis-' (apart) + 'stringere' (to draw tight, bind). The sense of 'territory or region' developed from the idea of an area under a specific legal jurisdiction.",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is a district",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "administrative"
+      ],
+      "DEF_EN":"An area of a country or city, often with clearly defined boundaries, that is set aside for a specific purpose or is characterized by a particular feature or administration.",
+      "DEF_ZH":"国家或城市的区域，通常有明确的界限，被划定用于特定目的或具有特定特征或行政管理。",
+      "SENT_EN":"The city is divided into several administrative districts, each with its own local council.",
+      "SENT_ZH":"这座城市被划分为几个行政区，每个区都有自己的地方议会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "region",
+            "zone",
+            "area",
+            "territory",
+            "ward",
+            "precinct"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "borough",
+            "county",
+            "province"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"district of [sth/sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "old word"
+      ],
+      "DEF_EN":"A territory or sphere of jurisdiction.",
+      "DEF_ZH":"管辖范围或司法领域。",
+      "SENT_EN":"The sheriff's district covered the entire northern part of the state.",
+      "SENT_ZH":"治安官的管辖范围覆盖了该州的整个北部地区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jurisdiction",
+            "bailiwick",
+            "dominion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal or common language, especially when referring to geography, urban planning, or politics"
+}

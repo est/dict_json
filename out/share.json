@@ -1,0 +1,110 @@
+{
+  "WORD":"share",
+  "IPA":"/ʃɛər/",
+  "CONJUGATES":"shares | sharing | shared (v.) | shares (n.)",
+  "ETYMOLOGY":"From Old English scearu 'a cutting, division, part, portion', related to scieran 'to cut, shear'. The financial meaning (stock) dates to the late 17th century.",
+  "SINCE":"c. 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"share [sth] with [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb followed by a preposition: an action verb requiring a direct object, connecting to another phrase via a preposition.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To divide and distribute something among a number of people; to use, occupy, or enjoy something jointly with others.",
+      "DEF_ZH":"分享；共同拥有；分配（某物）。",
+      "SENT_EN":"We decided to share the cost of the trip.",
+      "SENT_ZH":"我们决定分摊这次旅行的费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divide",
+            "apportion",
+            "split"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hoard",
+            "keep",
+            "monopolize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"share [sth] (with [sb])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: an action verb requiring a direct object.",
+      "TAGS":[
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To disclose or communicate information, ideas, feelings, or experiences to someone.",
+      "DEF_ZH":"交流；告知；吐露（信息、想法或感受）。",
+      "SENT_EN":"I feel comfortable sharing my deepest secrets with my best friend.",
+      "SENT_ZH":"和最好的朋友分享我最深的秘密让我感到很舒服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "communicate",
+            "disclose",
+            "impart"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] share of [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun: a person, place, or thing.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A part or portion of a larger amount which belongs to one person out of a whole.",
+      "DEF_ZH":"份额；应得的一份。",
+      "SENT_EN":"Did you get your fair share of the leftover pizza?",
+      "SENT_ZH":"你拿到你应得的那份剩下的披萨了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "portion",
+            "quota",
+            "allotment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"buy\nsell | own [a] share",
+      "POS":"n.",
+      "POS_TIP":"Noun: a person, place, or thing.",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"One of the equal parts into which a company's capital is divided, giving the holder proportional ownership and profits; a stock.",
+      "DEF_ZH":"股份；股票。",
+      "SENT_EN":"She decided to invest her savings by purchasing shares in several reliable companies.",
+      "SENT_ZH":"她决定通过购买几家可靠公司的股票来投资她的储蓄。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stock",
+            "equity",
+            "security"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"competition",
+  "IPA":"/ˌkɑːmpəˈtɪʃən/",
+  "CONJUGATES":"competitions",
+  "ETYMOLOGY":"From Latin competitionem (nominative competitio), meaning 'a striving together,' derived from competere (to strive after something, meet, agree).",
+  "SINCE":"c. 1590s",
+  "MEANINGS":[
+    {
+      "PATTERN":"competition [U] (between [A] and [B])",
+      "POS":"n",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The activity or condition of striving to gain or win something by defeating or establishing superiority over others.",
+      "DEF_ZH":"为获得某物、赢得胜利或超越他人而进行的活动或状态；竞争。",
+      "SENT_EN":"There is fierce competition for jobs in the tech industry.",
+      "SENT_ZH":"在科技行业，就业竞争非常激烈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rivalry",
+            "contention",
+            "emulation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cooperation",
+            "collaboration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"competition [C] (for [sth])",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "event",
+        "common"
+      ],
+      "DEF_EN":"A specific contest, game, or event in which people compete for a prize or award.",
+      "DEF_ZH":"为争夺奖品或荣誉而举行的特定竞赛、比赛或活动。",
+      "SENT_EN":"The poetry competition attracted entries from across the country.",
+      "SENT_ZH":"这次诗歌比赛吸引了来自全国各地的参赛作品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contest",
+            "match",
+            "tournament"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the competition [U]",
+      "POS":"n",
+      "POS_TIP":"Noun (referring to people/organizations)",
+      "TAGS":[
+        "business",
+        "collective"
+      ],
+      "DEF_EN":"The people, businesses, or organizations against whom one is competing; rivals collectively.",
+      "DEF_ZH":"竞争对手（总称）；敌对的公司或个人。",
+      "SENT_EN":"Our new product is priced lower than the competition.",
+      "SENT_ZH":"我们的新产品定价低于竞争对手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rivals",
+            "opponents",
+            "adversary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, General"
+}

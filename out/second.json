@@ -1,0 +1,132 @@
+{
+  "WORD":"second",
+  "IPA":"/'sekənd/",
+  "CONJUGATES":"seconds | seconding | seconded",
+  "ETYMOLOGY":"From Middle English secound, borrowed from Old French second, ultimately from Latin secundus ('following, next in order'), related to sequi ('to follow'). The time unit meaning derives from the 'second minute' division of the hour.",
+  "SINCE":"c. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"the second [sth]",
+      "POS":"adj | ord | det",
+      "POS_TIP":"adjective | ordinal number | determiner",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Coming immediately after the first in order, rank, position, or importance.",
+      "DEF_ZH":"顺序、等级、位置或重要性上仅次于第一的；第二的。",
+      "SENT_EN":"This is the second largest city in the country.",
+      "SENT_ZH":"这是该国第二大的城市。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "next",
+            "subsequent",
+            "alternate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "first",
+            "third"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a second\nseconds",
+      "POS":"n [C]",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "measurement"
+      ],
+      "DEF_EN":"The basic unit of time in the International System of Units, equal to 1/60th of a minute.",
+      "DEF_ZH":"国际单位制中的基本时间单位，等于一分钟的六十分之一；秒。",
+      "SENT_EN":"He finished the race in 10.5 seconds.",
+      "SENT_ZH":"他以10.5秒完成了比赛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "minute",
+            "hour",
+            "millisecond"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a second",
+      "POS":"n [C]",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"A very brief moment or period of time; an instant.",
+      "DEF_ZH":"极短的一段时间；瞬间。",
+      "SENT_EN":"Hold on a second, I need to find my keys.",
+      "SENT_ZH":"等一下，我需要找我的钥匙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moment",
+            "instant",
+            "jiffy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"second [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "politics"
+      ],
+      "DEF_EN":"Formally express support for a motion or resolution so that it can be further discussed or voted upon.",
+      "DEF_ZH":"正式附议或支持某动议，使其能够被讨论或投票。",
+      "SENT_EN":"The chairperson asked if anyone wished to second the proposal.",
+      "SENT_ZH":"主席问是否有人愿意附议该提议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "support",
+            "endorse",
+            "approve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a second",
+      "POS":"n [C]",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "archaic",
+        "specialized"
+      ],
+      "DEF_EN":"A person assisting a boxer or duelist; or a manufactured item that is defective or below first quality ('a factory second').",
+      "DEF_ZH":"（拳击或决斗中的）助手，副手；（常指工业产品中）有瑕疵的次品。",
+      "SENT_EN":"The store often sold factory seconds at a huge discount.",
+      "SENT_ZH":"这家商店经常以巨大的折扣出售工厂次品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assistant",
+            "aide",
+            "defective"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English, Formal, Technical"
+}

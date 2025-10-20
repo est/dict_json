@@ -1,0 +1,90 @@
+{
+  "WORD":"destroy",
+  "IPA":"/dɪˈstrɔɪ/",
+  "CONJUGATES":"destroys | destroying | destroyed",
+  "ETYMOLOGY":"From Old French destruire, from Latin dēstruere (dē- 'down, away' + struere 'to build'). Literally meaning 'to unbuild'",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"destroy [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put an end to the existence of something by severely damaging or attacking it.",
+      "DEF_ZH":"彻底摧毁或毁坏某物，使其不复存在或无法修复。",
+      "SENT_EN":"The earthquake destroyed hundreds of homes in the region.",
+      "SENT_ZH":"地震摧毁了该地区数百栋房屋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demolish",
+            "ruin",
+            "wreck",
+            "obliterate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "build",
+            "create",
+            "construct",
+            "repair"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"destroy [sb]\ndestroy [sth] (reputation, confidence)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To ruin someone's life, career, or reputation, or to completely undermine a feeling or idea.",
+      "DEF_ZH":"彻底破坏某人的名誉、信心、生活或事业；使某种情感或想法完全破灭。",
+      "SENT_EN":"The scandal destroyed his chances of being elected president.",
+      "SENT_ZH":"这场丑闻毁掉了他当选总统的机会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shatter",
+            "devastate",
+            "crush",
+            "undo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"destroy [sb] (opponent)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "informal",
+        "hyperbolic"
+      ],
+      "DEF_EN":"To defeat an opponent comprehensively and decisively in a competition or conflict.",
+      "DEF_ZH":"（在竞赛或冲突中）彻底、决定性地击败对手。",
+      "SENT_EN":"Our football team completely destroyed their rivals in the final match, winning 5-0.",
+      "SENT_ZH":"我们的足球队在决赛中彻底击败了他们的对手，以 5-0 获胜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crush",
+            "vanquish",
+            "overwhelm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

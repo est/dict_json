@@ -1,0 +1,105 @@
+{
+  "WORD":"dense",
+  "IPA":"/dɛns/",
+  "CONJUGATES":"denser | densest | densely (adv) | density (n)",
+  "ETYMOLOGY":"From Latin densus ('thick, crowded'), probably related to Greek dasús ('thick, bushy').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "common"
+      ],
+      "DEF_EN":"Having components that are crowded closely together; having high mass per unit volume.",
+      "DEF_ZH":"密度大的；紧密的；浓密的 (指物质)。",
+      "SENT_EN":"Iron is a very dense material compared to foam.",
+      "SENT_ZH":"与泡沫相比，铁是一种密度非常大的材料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compact",
+            "solid",
+            "heavy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sparse",
+            "porous",
+            "light"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Crowded or packed together so closely as to be difficult to move through, see, or penetrate; thick.",
+      "DEF_ZH":"（人群、森林、烟雾等）稠密的，茂密的，浓厚的。",
+      "SENT_EN":"A dense fog settled over the airport, delaying flights.",
+      "SENT_ZH":"一场浓雾笼罩了机场，导致航班延误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impenetrable",
+            "thick",
+            "crowded"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "thin",
+            "scattered",
+            "clear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "informal",
+        "derogatory",
+        "colloquial"
+      ],
+      "DEF_EN":"Slow to understand; stupid or dull-witted.",
+      "DEF_ZH":"（人）迟钝的；愚蠢的。",
+      "SENT_EN":"You’re so dense! I just explained that rule for the third time.",
+      "SENT_ZH":"你真迟钝！我刚才已经解释了三遍那个规则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dull",
+            "stupid",
+            "obtuse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sharp",
+            "clever",
+            "quick-witted"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

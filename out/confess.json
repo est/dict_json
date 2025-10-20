@@ -1,0 +1,86 @@
+{
+  "WORD":"CONFESS",
+  "IPA":"/kənˈfɛs/",
+  "CONJUGATES":"confesses | confessed | confessing",
+  "ETYMOLOGY":"From Old French confesser, from Latin confiterī (con- 'thoroughly' + faterī 'acknowledge'), meaning 'to acknowledge, disclose, or admit'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"confess [sth]\nconfess to [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "core word",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To admit or acknowledge, usually formally, that one has committed a crime, fault, or wrongdoing.",
+      "DEF_ZH":"（通常指正式地）承认或坦白犯下的罪行、错误或过失。",
+      "SENT_EN":"The suspect finally confessed to the theft after three hours of interrogation.",
+      "SENT_ZH":"经过三个小时的审讯，嫌疑人最终承认了盗窃罪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admit",
+            "acknowledge",
+            "own up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deny",
+            "conceal",
+            "dispute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confess [sth]\nconfess that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To reveal or disclose something personal or secret, such as a feeling, opinion, or lack of knowledge.",
+      "DEF_ZH":"坦白或透露个人秘密、感情或观点。",
+      "SENT_EN":"I must confess that I have no idea how this machine works.",
+      "SENT_ZH":"我必须承认，我不知道这台机器是如何工作的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reveal",
+            "divulge",
+            "disclose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confess [sth] to [sb]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "religious"
+      ],
+      "DEF_EN":"(In Christianity) To declare one's sins to a priest or God in order to receive absolution.",
+      "DEF_ZH":"（基督教中）向神父或上帝忏悔自己的罪孽，以获得赦免。",
+      "SENT_EN":"The faithful went to the chapel to confess their sins.",
+      "SENT_ZH":"信徒们去小教堂忏悔他们的罪孽。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "penance",
+            "absolution",
+            "shrive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal contexts (legal, religious)."
+}

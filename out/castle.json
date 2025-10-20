@@ -1,0 +1,108 @@
+{
+  "WORD":"castle",
+  "IPA":"/ˈkæsəl/",
+  "CONJUGATES":"castles | castled | castling",
+  "ETYMOLOGY":"From Middle English castel, from Old North French castel (Old French chastel), from Latin castellum (diminutive of castrum 'fortified place, camp').",
+  "SINCE":"c. 1100s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "history",
+        "architecture"
+      ],
+      "DEF_EN":"A large building or complex of buildings fortified against attack, typically built during the Middle Ages in Europe by a noble or royal family.",
+      "DEF_ZH":"城堡；堡垒。中世纪欧洲由贵族或王室建造的、用于防御的大型建筑或建筑群。",
+      "SENT_EN":"The ruins of the old castle attract thousands of tourists every year.",
+      "SENT_ZH":"这座古老城堡的废墟每年吸引数千名游客。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fortress",
+            "citadel",
+            "keep",
+            "stronghold"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "palace",
+            "château"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A large, imposing, or very secure house or dwelling, often used figuratively.",
+      "DEF_ZH":"宏伟或安全的居所（常用于比喻，尤其指私人住宅）。",
+      "SENT_EN":"They felt their cozy cabin was their own private castle, safe from the city noise.",
+      "SENT_ZH":"他们觉得他们舒适的小木屋就是他们自己的私人城堡，远离城市的喧嚣。",
+      "RELATED":[
+        {
+          "T":"idiom",
+          "V":[
+            "An Englishman's home is his castle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific usage",
+        "game",
+        "chess"
+      ],
+      "DEF_EN":"The rook piece in the game of chess.",
+      "DEF_ZH":"国际象棋中的“车”（Rook）棋子。",
+      "SENT_EN":"A castle moves horizontally or vertically across any number of unoccupied squares.",
+      "SENT_ZH":"“车”可以横向或纵向移动任意格数的未被占用的棋盘方格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rook"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] castle",
+      "POS":"v.",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "specific usage",
+        "game",
+        "chess"
+      ],
+      "DEF_EN":"(In chess) To perform the special defensive move of moving the king two squares towards a rook and placing the rook on the square the king has just crossed.",
+      "DEF_ZH":"（国际象棋）王车易位。",
+      "SENT_EN":"The player chose to castle on the queenside to protect his king.",
+      "SENT_ZH":"那个棋手选择在后翼进行王车易位来保护他的王。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "checkmate",
+            "en passant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Historical, Chess"
+}

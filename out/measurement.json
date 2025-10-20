@@ -1,0 +1,94 @@
+{
+  "WORD":"measurement",
+  "IPA":"/'mɛʒərmənt/",
+  "CONJUGATES":"measurements",
+  "ETYMOLOGY":"From Middle English mesurement, formed from the verb 'measure' (from Old French mesure, from Latin mensura) and the suffix '-ment' (indicating an action or result).",
+  "SINCE":"c. 1380s",
+  "MEANINGS":[
+    {
+      "PATTERN":"measurement (of [sth])",
+      "POS":"n (uncountable)",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The process or action of determining the quantity, extent, or degree of something.",
+      "DEF_ZH":"确定某事物的数量、范围或程度的过程或行为。",
+      "SENT_EN":"Accurate measurement of time is essential for astronomical studies.",
+      "SENT_ZH":"对时间的精确测量对于天文学研究至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measuring",
+            "gauging",
+            "assessment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "calibration",
+            "quantification"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"measurement\nmeasurements (of [sth])",
+      "POS":"n (countable/plural)",
+      "POS_TIP":"noun (countable, often used in plural)",
+      "TAGS":[
+        "common",
+        "concrete"
+      ],
+      "DEF_EN":"A size, amount, or dimension recorded after being measured.",
+      "DEF_ZH":"经过测量后记录下来的尺寸、大小或数量。",
+      "SENT_EN":"She took her body measurements before ordering a customized suit.",
+      "SENT_ZH":"她在订购定制西装前量了她的身体尺寸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dimension",
+            "size",
+            "quantity",
+            "extent"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "parameter",
+            "specification"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"measurement",
+      "POS":"n (uncountable)",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"A specific system or standard used for expressing a size or quantity.",
+      "DEF_ZH":"用于表达尺寸或数量的特定系统或标准。",
+      "SENT_EN":"The metric system is the most widely adopted international measurement.",
+      "SENT_ZH":"公制是国际上最广泛采用的测量体系。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "unit",
+            "standard",
+            "metric"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Scientific, Technical"
+}

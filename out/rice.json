@@ -1,0 +1,86 @@
+{
+  "WORD":"rice",
+  "IPA":"/raɪs/",
+  "CONJUGATES":"rices | riced | ricing",
+  "ETYMOLOGY":"From Middle English rys, from Old French ris, from Old Italian riso, from Latin oryza, from Ancient Greek ὄρυζα (óryza), from an unknown eastern language, perhaps Old Iranian via Indo-Aryan (compare Sanskrit व्रीहि (vrīhí)).",
+  "SINCE":"before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] [C]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "food",
+        "plant"
+      ],
+      "DEF_EN":"A cereal grain, Oryza sativa, widely cultivated in warm climates, especially in Asia, for its edible seeds.",
+      "DEF_ZH":"一种谷物，即稻米，在温暖的气候中广泛种植，尤其是在亚洲，以获取其可食用的种子。",
+      "SENT_EN":"We usually eat rice with our dinner.",
+      "SENT_ZH":"我们晚餐通常吃米饭。",
+      "RELATED":[
+        {
+          "T":"hyponyms",
+          "V":[
+            "paddy",
+            "brown rice",
+            "white rice",
+            "wild rice"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "grain",
+            "cereal",
+            "wheat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "food",
+        "cooking"
+      ],
+      "DEF_EN":"The cooked grains of this plant.",
+      "DEF_ZH":"这种植物的煮熟的谷粒（米饭）。",
+      "SENT_EN":"The plate was served with chicken curry and a side of plain rice.",
+      "SENT_ZH":"盘子里盛着咖喱鸡和一份清淡的米饭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cooked rice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[vtr] [sth]",
+      "POS":"v",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "cooking",
+        "rare"
+      ],
+      "DEF_EN":"To press (food, especially potatoes) through a ricer or strainer to form a uniform mash.",
+      "DEF_ZH":"用榨泥器或滤网将（食物，尤其是土豆）压成均匀的泥。",
+      "SENT_EN":"She riced the boiled potatoes for a smoother texture.",
+      "SENT_ZH":"她将煮好的土豆压成泥，以获得更顺滑的口感。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "mash",
+            "puree"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, especially in discussions about food, agriculture, and cooking."
+}

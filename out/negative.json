@@ -1,0 +1,109 @@
+{
+  "WORD":"negative",
+  "IPA":"/'nɛgətɪv/",
+  "CONJUGATES":"negatively (adv.) | negativity (n.)",
+  "ETYMOLOGY":"From Latin negātīvus, from negātus, past participle of negāre ('to deny').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] is negative\nhave a negative attitude",
+      "POS":"adj.",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common",
+        "opinion"
+      ],
+      "DEF_EN":"Expressing or characterized by denial, opposition, or refusal; gloomy or pessimistic.",
+      "DEF_ZH":"否定的；消极的；悲观的；不利的。",
+      "SENT_EN":"Despite the good news, she still maintained a negative outlook on the situation.",
+      "SENT_ZH":"尽管有好消息，她对局势仍然持消极态度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adverse",
+            "detrimental",
+            "pessimistic"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "positive",
+            "optimistic",
+            "constructive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a negative number\nnegative quantity",
+      "POS":"adj.",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"Denoting a quantity less than zero.",
+      "DEF_ZH":"（数学）负的；表示小于零的数量。",
+      "SENT_EN":"The temperature dropped to negative ten degrees Celsius.",
+      "SENT_ZH":"温度降到了零下十摄氏度。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "positive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"test result is negative",
+      "POS":"adj.",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "technical",
+        "medical",
+        "science"
+      ],
+      "DEF_EN":"In a medical or scientific test, indicating the absence of the disease, organism, or substance being tested for.",
+      "DEF_ZH":"（医学、科学）阴性的；显示没有某种疾病或物质的。",
+      "SENT_EN":"The blood test came back negative, confirming she was healthy.",
+      "SENT_ZH":"血液检测结果呈阴性，证实她很健康。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "positive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the photo negative",
+      "POS":"n.",
+      "POS_TIP":"noun (a person, place, or thing)",
+      "TAGS":[
+        "technical",
+        "photography",
+        "less common"
+      ],
+      "DEF_EN":"A photographic image in which the tones or colors are reversed, used to make positive prints.",
+      "DEF_ZH":"（摄影）底片；负片。",
+      "SENT_EN":"She stored the negatives carefully so she could print more copies later.",
+      "SENT_ZH":"她小心地保存着底片，以便日后能冲印更多照片。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "film",
+            "print"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Mathematics, Science"
+}

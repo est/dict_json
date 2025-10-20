@@ -1,0 +1,77 @@
+{
+  "WORD":"observer",
+  "IPA":"/əbˈzɜːrvər/",
+  "CONJUGATES":"observers",
+  "ETYMOLOGY":"From Middle English *observour*, from the Anglo-Norman *observeur*, agent noun derived from the verb *observe* (from Latin *observare* 'to watch, heed').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who watches, notices, or pays careful attention to someone or something.",
+      "DEF_ZH":"观察者；旁观者；目击者。",
+      "SENT_EN":"He was a quiet observer of human nature, rarely intervening.",
+      "SENT_ZH":"他是一个安静的人性观察者，很少干预。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spectator",
+            "onlooker",
+            "witness",
+            "monitor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "observation",
+            "observe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "politics"
+      ],
+      "DEF_EN":"A delegate or representative officially present at a meeting, conference, or election to witness the proceedings without participating in the decision-making or voting.",
+      "DEF_ZH":"观察员（指正式出席会议或活动但无投票权或决策权的代表）。",
+      "SENT_EN":"The organization sent international observers to verify the fairness of the election.",
+      "SENT_ZH":"该组织派遣了国际观察员来核实选举的公正性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "delegate",
+            "representative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"A person, especially a scientist, who conducts systematic measurements or studies using specialized instruments, such as in astronomy or meteorology.",
+      "DEF_ZH":"观测员；研究人员（尤其指在天文学或气象学中使用仪器进行系统观测的人）。",
+      "SENT_EN":"The radio observer plotted the trajectory of the newly discovered comet.",
+      "SENT_ZH":"无线电观测员描绘了新发现彗星的轨迹。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, common in official and scientific contexts."
+}

@@ -1,0 +1,109 @@
+{
+  "WORD":"connection",
+  "IPA":"/kəˈnɛkʃən/",
+  "CONJUGATES":"connections (plural)",
+  "ETYMOLOGY":"From Late Latin connexiō, stem connexiōn-, via Old French connexion, from Latin connectere (com- 'together' + nectere 'to bind, tie').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"connection [between sth]\nconnection [with sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Abstract"
+      ],
+      "DEF_EN":"A relationship, association, or link between two or more ideas, facts, things, or people.",
+      "DEF_ZH":"两个或多个想法、事实、事物或人之间的关系、关联或联系。",
+      "SENT_EN":"Researchers found a direct connection between sleep deprivation and poor memory.",
+      "SENT_ZH":"研究人员发现睡眠不足与记忆力差之间有直接关联。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "link",
+            "relation",
+            "association",
+            "tie"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disconnection",
+            "separation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a connection",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "Technical",
+        "Communication"
+      ],
+      "DEF_EN":"A physical or technical system that joins or links devices, allowing the transmission of data, electricity, or utilities.",
+      "DEF_ZH":"连接设备的物理或技术系统，允许数据、电力或公用事业的传输。",
+      "SENT_EN":"Check if your Wi-Fi connection is active before starting the download.",
+      "SENT_ZH":"开始下载前，请检查您的 Wi-Fi 连接是否处于活动状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "access",
+            "interface",
+            "linkup"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"connections [with sb]",
+      "POS":"n",
+      "POS_TIP":"noun (often plural and informal)",
+      "TAGS":[
+        "Social",
+        "Informal"
+      ],
+      "DEF_EN":"A person, usually with influence or power, with whom one is professionally or socially associated; networking contacts.",
+      "DEF_ZH":"与某人有专业或社交关系的人（通常具有影响或权力）；人脉。",
+      "SENT_EN":"He utilized his connections in the local government to fast-track the project permit.",
+      "SENT_ZH":"他利用自己在当地政府的人脉来加速项目许可的审批。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contact",
+            "network",
+            "influence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a connection",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "Travel",
+        "Specific"
+      ],
+      "DEF_EN":"A scheduled transfer between two public transportation services, such as flights, trains, or buses.",
+      "DEF_ZH":"两种公共交通服务（如航班、火车或公共汽车）之间的预定转乘。",
+      "SENT_EN":"We missed our connection because the first train was delayed by two hours.",
+      "SENT_ZH":"我们错过了转乘，因为第一班火车晚点了两个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "layover"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

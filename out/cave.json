@@ -1,0 +1,118 @@
+{
+  "WORD":"cave",
+  "IPA":"/keɪv/",
+  "CONJUGATES":"caves | caved | caving",
+  "ETYMOLOGY":"From Middle English cave, from Old French cave, derived from Latin cava, the feminine form of cavus ('hollow').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] cave (natural formation)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography"
+      ],
+      "DEF_EN":"A large natural hollow formed in the side of a hill, cliff, or underground.",
+      "DEF_ZH":"山坡、悬崖或地下形成的天然大洞穴；岩洞。",
+      "SENT_EN":"The explorers used ropes to descend into the deep cave.",
+      "SENT_ZH":"探险者们用绳索下降到那个深邃的洞穴中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cavern",
+            "grotto",
+            "den"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "spelunking",
+            "karst"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cave in",
+      "POS":"vi + adv",
+      "POS_TIP":"intransitive verb + adverb (phrasal verb)",
+      "TAGS":[
+        "common",
+        "physical action"
+      ],
+      "DEF_EN":"To collapse or cause to collapse inwards.",
+      "DEF_ZH":"（使）坍塌；向内塌陷。",
+      "SENT_EN":"The old mine shaft threatened to cave in due to poor maintenance.",
+      "SENT_ZH":"由于维护不善，那个旧矿井有坍塌的危险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "collapse",
+            "fall in",
+            "subside"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cave in [to sb/sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb + preposition (phrasal verb, figurative)",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"To surrender or yield completely to pressure, demands, or resistance.",
+      "DEF_ZH":"屈服于（压力、要求）；让步；放弃抵抗。",
+      "SENT_EN":"Despite his initial refusal, the mayor finally caved in to public pressure and resigned.",
+      "SENT_ZH":"尽管市长最初拒绝，但他最终还是屈服于公众压力并辞职了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yield",
+            "submit",
+            "capitulate",
+            "give in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "resist",
+            "withstand",
+            "hold out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] cave (informal)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"A term for a private room or space, often messy or dedicated as a personal retreat (e.g., a 'man cave').",
+      "DEF_ZH":"（非正式）个人的私密房间或空间，常指远离他人的避世场所（如“男人洞穴”）。",
+      "SENT_EN":"He spends most evenings relaxing in his media cave, surrounded by gadgets.",
+      "SENT_ZH":"他大部分晚上都在他的媒体洞穴里放松，周围都是小玩意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "den",
+            "hideout",
+            "sanctuary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

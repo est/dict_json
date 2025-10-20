@@ -1,0 +1,119 @@
+{
+  "WORD":"assembly",
+  "IPA":"/əˈsembli/",
+  "CONJUGATES":"assemblies (pl.)",
+  "ETYMOLOGY":"From Old French assemblee (gathering), feminine past participle of assembler (to assemble), ultimately from Latin simul (together).",
+  "SINCE":"Mid-13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] attends an assembly",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A group of people gathered together in one place for a common purpose, typically for a meeting or instruction.",
+      "DEF_ZH":"为特定目的聚集在一起的一群人或会议、集会。",
+      "SENT_EN":"The students attended the mandatory morning assembly.",
+      "SENT_ZH":"学生们参加了强制性的晨间集会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gathering",
+            "meeting",
+            "convocation",
+            "congregation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "convention",
+            "forum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the National Assembly",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"A body of elected representatives or legislators, often referring to a specific legislative branch or lower house of a government.",
+      "DEF_ZH":"由民选代表或立法者组成的机构，通常指特定的立法机关或政府的下议院。",
+      "SENT_EN":"The new legislation was debated in the State Assembly for three weeks.",
+      "SENT_ZH":"这项新立法在州议会中辩论了三周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "legislature",
+            "parliament",
+            "congress",
+            "diet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"product assembly",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "manufacturing"
+      ],
+      "DEF_EN":"The process or action of fitting together the component parts of a machine, structure, or product.",
+      "DEF_ZH":"将机器、结构或产品的零部件组装在一起的过程或行为。",
+      "SENT_EN":"The furniture kit requires minimal assembly.",
+      "SENT_ZH":"这套家具只需要最少的组装。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "construction",
+            "fitting",
+            "fabrication"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disassembly",
+            "dismantling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mechanical assembly",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "engineering",
+        "technical"
+      ],
+      "DEF_EN":"A machine part or component consisting of various pieces fitted together and designed to function as a unit.",
+      "DEF_ZH":"由各种零件组装在一起并设计成一个单元运作的机器部件或组件（总成）。",
+      "SENT_EN":"We had to replace the entire transmission assembly.",
+      "SENT_ZH":"我们不得不更换整个变速器总成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "mechanism",
+            "component",
+            "module"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical (Manufacturing/Engineering)"
+}

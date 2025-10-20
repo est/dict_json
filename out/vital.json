@@ -1,0 +1,88 @@
+{
+  "WORD":"vital",
+  "IPA":"/ˈvaɪtəl/",
+  "CONJUGATES":"vitally (adv.) | vitalness (n.) | vitals (n. pl.)",
+  "ETYMOLOGY":"From Latin vītālis ('pertaining to life'), from vīta ('life').",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"vital [sth]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "essential"
+      ],
+      "DEF_EN":"Absolutely necessary or important; essential for the success or continued existence of something.",
+      "DEF_ZH":"至关重要的；必不可少的；攸关存亡的。",
+      "SENT_EN":"Communication is vital to a healthy relationship.",
+      "SENT_ZH":"沟通对于一段健康的关系至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "essential",
+            "crucial",
+            "indispensable",
+            "critical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "trivial",
+            "unimportant",
+            "nonessential"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vital [sth]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "medical",
+        "biological"
+      ],
+      "DEF_EN":"Relating to or characteristic of life; necessary for the maintenance of life.",
+      "DEF_ZH":"生命的；维持生命所必需的。",
+      "SENT_EN":"The patient lost a vital amount of blood during the operation.",
+      "SENT_ZH":"病人在手术过程中失血量达到了危及生命的地步。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "vital signs",
+            "vitality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vital [sb]\nvital [sth]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "descriptive",
+        "energy"
+      ],
+      "DEF_EN":"Full of energy, life, and vigor.",
+      "DEF_ZH":"充满活力的；生气勃勃的。",
+      "SENT_EN":"She has a vital personality that draws people to her.",
+      "SENT_ZH":"她有着充满活力的个性，吸引着人们靠近她。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vigorous",
+            "dynamic",
+            "energetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in academic, professional, and medical contexts."
+}

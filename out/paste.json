@@ -1,0 +1,117 @@
+{
+  "WORD":"paste",
+  "IPA":"/peɪst/",
+  "CONJUGATES":"pastes | pasting | pasted",
+  "ETYMOLOGY":"From Old French paste (dough, glue, pastry), from Late Latin pasta (dough, pastry, cake), derived from Greek pastos (sprinkled with salt, salted), from the verb passein (to strew, sprinkle).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (as adhesive)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thick, moist, and often sticky mixture, typically used as an adhesive for paper or similar materials.",
+      "DEF_ZH":"浆糊；糊状粘合剂。",
+      "SENT_EN":"He spread the wallpaper with a thick layer of paste before applying it to the wall.",
+      "SENT_ZH":"他先在墙纸上涂了一层厚厚的浆糊，然后把它贴到墙上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glue",
+            "mucilage",
+            "adhesive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"paste [sth] (physically)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fasten or stick something using an adhesive paste.",
+      "DEF_ZH":"用浆糊粘贴；贴。",
+      "SENT_EN":"The children spent the afternoon pasting colorful cutouts onto cardboard.",
+      "SENT_ZH":"孩子们花了一个下午的时间把五颜六色的剪纸粘贴到硬纸板上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "affix",
+            "glue",
+            "stick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"paste [sth] (computing)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "computing",
+        "jargon"
+      ],
+      "DEF_EN":"To insert previously copied or 'cut' data (text, images, etc.) into a document, file, or application from the clipboard.",
+      "DEF_ZH":"（计算机）粘贴（数据、文本等）。",
+      "SENT_EN":"Just copy the link and paste it into the search bar.",
+      "SENT_ZH":"只需复制链接并将其粘贴到搜索栏中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "copy",
+            "cut",
+            "clipboard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (as food/substance)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "food"
+      ],
+      "DEF_EN":"A soft, thick, smooth mixture, often used as an ingredient or preparation (e.g., toothpaste, tomato paste).",
+      "DEF_ZH":"糊状食物；浓酱；膏状物。",
+      "SENT_EN":"She mixed the curry paste with coconut milk to make a sauce.",
+      "SENT_ZH":"她将咖喱酱与椰奶混合制成酱汁。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sth] (gemology)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "technical",
+        "dated"
+      ],
+      "DEF_EN":"A brilliant, heavy glass used to imitate gemstones, especially diamonds.",
+      "DEF_ZH":"仿宝石玻璃；铅晶玻璃（用于制作人造宝石）。",
+      "SENT_EN":"The antique ring was set with a piece of paste rather than a true sapphire.",
+      "SENT_ZH":"这枚古董戒指镶嵌的是一块仿宝石玻璃，而非真正的蓝宝石。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strass",
+            "rhinestone"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Computing, Gemology)"
+}

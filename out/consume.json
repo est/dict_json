@@ -1,0 +1,111 @@
+{
+  "WORD":"consume",
+  "IPA":"/kənˈsuːm/",
+  "CONJUGATES":"consumes | consumed | consuming | consumer (n) | consumable (adj/n)",
+  "ETYMOLOGY":"From Latin cōnsūmere ('to take completely, devour, waste'), from com- (intensifier) + sūmere ('to take, use').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"consume [sth] (resources\nenergy | time)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "economics"
+      ],
+      "DEF_EN":"To use up resources, energy, goods, or time.",
+      "DEF_ZH":"消耗；用尽；花费（资源、能量、商品、时间等）。",
+      "SENT_EN":"The rapidly growing city consumes vast amounts of electricity.",
+      "SENT_ZH":"这座快速发展的城市消耗大量的电力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "use up",
+            "expend",
+            "utilize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "save",
+            "conserve",
+            "hoard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consume [sth] (food\ndrink)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To eat, drink, or ingest (food or drink).",
+      "DEF_ZH":"食用；饮用；摄取。",
+      "SENT_EN":"It is not recommended to consume large quantities of processed food.",
+      "SENT_ZH":"不建议摄入大量的加工食品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ingest",
+            "devour",
+            "eat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consume [sth] (by fire\ndisease)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object.",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To destroy completely, often by fire or gradual decay.",
+      "DEF_ZH":"烧毁；彻底毁灭或吞噬。",
+      "SENT_EN":"The raging fire quickly consumed the wooden structure.",
+      "SENT_ZH":"熊熊大火迅速吞噬了木质结构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "destroy",
+            "ravage",
+            "obliterate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consume [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object.",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"If an emotion or thought consumes someone, it completely dominates their mind and attention.",
+      "DEF_ZH":"使某人全神贯注；占据（思想或情感）。",
+      "SENT_EN":"Fear of failure consumed her thoughts leading up to the competition.",
+      "SENT_ZH":"对失败的恐惧占据了她赛前所有的思绪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "engross",
+            "preoccupy",
+            "dominate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Economic, and Formal"
+}

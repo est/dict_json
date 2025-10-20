@@ -1,0 +1,118 @@
+{
+  "WORD":"trial",
+  "IPA":"/ˈtraɪəl/",
+  "CONJUGATES":"trials",
+  "ETYMOLOGY":"From Anglo-Norman and Old French trial, derived from the verb trier ('to try, examine, select'), related to modern English 'try'.",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a trial (of [sb] / for [sth])",
+      "POS":"Noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A formal examination of evidence by a judge and often a jury, typically in a court of law, to decide if someone accused of a crime is guilty or innocent.",
+      "DEF_ZH":"审判；庭审；讯问（对犯罪嫌疑人定罪或判无罪的法律过程）",
+      "SENT_EN":"The high-profile murder trial lasted three weeks.",
+      "SENT_ZH":"这起备受瞩目的谋杀案审判持续了三周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hearing",
+            "litigation",
+            "judgement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jury",
+            "verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trial / (on) trial",
+      "POS":"Noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "testing",
+        "technical"
+      ],
+      "DEF_EN":"A test of the performance, qualities, or suitability of someone or something, often prior to widespread acceptance or use.",
+      "DEF_ZH":"试验；测试；试用（在正式采用前评估性能或品质）",
+      "SENT_EN":"The company is currently running clinical trials for its new drug.",
+      "SENT_ZH":"该公司目前正在对其新药进行临床试验。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "test",
+            "experiment",
+            "assessment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pilot",
+            "probation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trial (to [sb] / of faith)",
+      "POS":"Noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A difficult, annoying, or painful experience; a source of affliction or suffering.",
+      "DEF_ZH":"磨难；苦难；考验（令人烦恼或痛苦的经历）",
+      "SENT_EN":"The entire bankruptcy process was a severe trial for the family.",
+      "SENT_ZH":"整个破产过程对这个家庭来说是一场巨大的磨难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hardship",
+            "ordeal",
+            "affliction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trial",
+      "POS":"Noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "sports",
+        "specialized"
+      ],
+      "DEF_EN":"An athletic competition used to select competitors for a team or main event.",
+      "DEF_ZH":"选拔赛；预赛；（体育）选拔测试",
+      "SENT_EN":"She won the Olympic diving trials by a narrow margin.",
+      "SENT_ZH":"她以微弱的优势赢得了奥林匹克跳水选拔赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "qualifier",
+            "tryout"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, ranging from formal (legal) to common (testing/sports)."
+}

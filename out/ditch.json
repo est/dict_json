@@ -1,0 +1,101 @@
+{
+  "WORD":"ditch",
+  "IPA":"/dɪtʃ/",
+  "CONJUGATES":"ditches | ditching | ditched",
+  "ETYMOLOGY":"From Old English dīc 'dike, trench, moat'. The word split its meaning later in Middle English, where 'dike' came to mean the embankment and 'ditch' the excavation.",
+  "SINCE":"c. 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (a long narrow trench)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A long, narrow excavation or channel dug in the ground, typically used for draining water from roads, fields, or for irrigation.",
+      "DEF_ZH":"沟渠；壕沟；排水沟",
+      "SENT_EN":"After the heavy rain, the ditch overflowed onto the road.",
+      "SENT_ZH":"大雨过后，沟渠里的水漫到了路上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trench",
+            "channel",
+            "gully",
+            "moat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ditch [sb]\nditch [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"To get rid of or abandon something or someone, often abruptly or secretly.",
+      "DEF_ZH":"抛弃；甩掉；遗弃（某人或某物）；逃避（某项活动）",
+      "SENT_EN":"We decided to ditch the car and walk the rest of the way.",
+      "SENT_ZH":"我们决定把车扔下，步行走完剩下的路程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abandon",
+            "discard",
+            "drop",
+            "jettison"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "skip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ditch [sth] (into water)",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "technical",
+        "aviation",
+        "nautical"
+      ],
+      "DEF_EN":"(Of an aircraft or crew) to make an emergency landing on water; to intentionally sink or abandon a vehicle or vessel at sea.",
+      "DEF_ZH":"（飞机）水上迫降；（船只）弃船入水或故意沉没",
+      "SENT_EN":"The pilot successfully ditched the aircraft just off the coast, saving all passengers.",
+      "SENT_ZH":"飞行员成功地将飞机在海岸边迫降，救了所有乘客。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "splash down",
+            "crash-land"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ditch [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "literal",
+        "rare"
+      ],
+      "DEF_EN":"To dig or cut a ditch in or around an area.",
+      "DEF_ZH":"挖沟；开沟（在某处或周围）",
+      "SENT_EN":"They spent the afternoon ditching the perimeter of the new garden bed.",
+      "SENT_ZH":"他们花了一个下午的时间在新花坛周围挖沟。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General/Informal"
+}

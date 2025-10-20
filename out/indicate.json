@@ -1,0 +1,101 @@
+{
+  "WORD":"indicate",
+  "IPA":"/ˈɪndɪkeɪt/",
+  "CONJUGATES":"indicates | indicating | indicated",
+  "ETYMOLOGY":"From Latin indicatus, past participle of indicare ('to point out, disclose'), from in- ('in, toward') + dicare ('to proclaim, show').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"indicate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To point out or show something, especially through an action or sign.",
+      "DEF_ZH":"指出或表明某事物，尤指通过行动或迹象。",
+      "SENT_EN":"The graph indicates a sharp decline in sales.",
+      "SENT_ZH":"该图表表明销售额急剧下降。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "show",
+            "point out",
+            "suggest",
+            "reveal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"indicate [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To state or express briefly; to communicate a specific intention or wish.",
+      "DEF_ZH":"简要陈述或表达；传达特定的意图或愿望。",
+      "SENT_EN":"He indicated his willingness to cooperate with the investigation.",
+      "SENT_ZH":"他表示愿意配合调查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "state",
+            "express",
+            "mention"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"indicate [direction]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "driving"
+      ],
+      "DEF_EN":"To use a turn signal in a vehicle to show the direction in which one intends to turn.",
+      "DEF_ZH":"在车辆中使用转向灯来表示打算转弯的方向。",
+      "SENT_EN":"Remember to indicate before you change lanes on the highway.",
+      "SENT_ZH":"记住在高速公路上变道前要打转向灯。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "signal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"indicate [condition/disease]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "medical",
+        "technical"
+      ],
+      "DEF_EN":"To suggest as necessary or advisable; often used in medical contexts regarding treatment or diagnosis.",
+      "DEF_ZH":"暗示为必需或可取的；常用于医疗环境中，指治疗或诊断。",
+      "SENT_EN":"The patient's high fever might indicate an infection.",
+      "SENT_ZH":"病人高烧可能预示着感染。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggest",
+            "call for",
+            "require"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and general communication."
+}

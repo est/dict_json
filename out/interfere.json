@@ -1,0 +1,100 @@
+{
+  "WORD":"interfere",
+  "IPA":"/ˌɪntərˈfɪər/",
+  "CONJUGATES":"interferes | interfering | interfered",
+  "ETYMOLOGY":"From Anglo-Norman and Old French enterferer (inter- 'between, among' + *ferer, possibly related to Latin ferire 'to strike, hit'), originally meaning 'to strike against or into each other,' especially of horses' legs.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"interfere [with sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To hinder, obstruct, or prevent something from happening or being done effectively; to conflict with something.",
+      "DEF_ZH":"妨碍；干扰；冲突；影响某事的有效进行。",
+      "SENT_EN":"The loud music started to interfere with my concentration.",
+      "SENT_ZH":"吵闹的音乐开始干扰我的注意力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obstruct",
+            "hinder",
+            "impede",
+            "disrupt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "assist",
+            "facilitate",
+            "aid"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interference"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interfere [in sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To get involved in the concerns of others without invitation or necessity; meddle.",
+      "DEF_ZH":"干涉；介入；多管闲事（未经邀请或不必要地介入他人的事务）。",
+      "SENT_EN":"You shouldn't interfere in your sister's marriage problems.",
+      "SENT_ZH":"你不应该干涉你姐姐的婚姻问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meddle",
+            "intervene",
+            "intrude"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "abstain",
+            "refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interfere",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"(Of waves) To combine with other waves, resulting in the cancellation or amplification of the resultant wave.",
+      "DEF_ZH":"（指波）干涉；叠加（与其他波结合，导致合成波的抵消或增强）。",
+      "SENT_EN":"When two sound waves of the same frequency interfere, they can produce beats.",
+      "SENT_ZH":"当两个相同频率的声波发生干涉时，它们会产生拍频。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "diffraction",
+            "superposition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal and informal contexts."
+}

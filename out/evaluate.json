@@ -1,0 +1,74 @@
+{
+  "WORD":"evaluate",
+  "IPA":"/ɪˈvæljuˌeɪt/",
+  "CONJUGATES":"evaluates | evaluating | evaluated",
+  "ETYMOLOGY":"From French évaluer, from é- (ex-, 'out, thoroughly') + value ('worth'), ultimately from Latin valere ('to be strong, be worth').",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"evaluate [sth]\nevaluate [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To determine or estimate the nature, value, quality, ability, or significance of something or someone.",
+      "DEF_ZH":"评估或确定某事物或某人的性质、价值、质量、能力或重要性。",
+      "SENT_EN":"We need to evaluate the risks before we approve the project.",
+      "SENT_ZH":"在批准该项目之前，我们需要评估其风险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assess",
+            "appraise",
+            "rate",
+            "judge",
+            "gauge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignore",
+            "disregard"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "evaluation",
+            "re-evaluate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"evaluate [sth] (expression/function)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "computing"
+      ],
+      "DEF_EN":"To find the numerical value of (a formula, algebraic expression, or function) by substitution and calculation.",
+      "DEF_ZH":"通过代入和计算来求出（公式、代数表达式或函数）的数值。",
+      "SENT_EN":"The program can evaluate complex mathematical expressions instantly.",
+      "SENT_ZH":"该程序可以立即计算复杂的数学表达式的值。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculate",
+            "compute",
+            "solve"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Business"
+}

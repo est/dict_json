@@ -1,0 +1,117 @@
+{
+  "WORD":"distance",
+  "IPA":"/ˈdɪstəns/",
+  "CONJUGATES":"distances | distanced | distancing",
+  "ETYMOLOGY":"From Old French distance, from Latin distantia, from distāns, present participle of distāre ('to stand apart'), from dis- ('apart') + stāre ('to stand').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The length of the space between two points or objects.",
+      "DEF_ZH":"两点或两物体之间的空间长度；距离。",
+      "SENT_EN":"The distance between the Earth and the Moon is vast.",
+      "SENT_ZH":"地球和月球之间的距离是巨大的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "span",
+            "length",
+            "interval",
+            "separation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mileage",
+            "range",
+            "remoteness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"The state of being physically or emotionally far apart; remoteness or separation.",
+      "DEF_ZH":"（物理或情感上的）遥远；疏远；隔阂。",
+      "SENT_EN":"There was a noticeable distance between the two brothers after the argument.",
+      "SENT_ZH":"争吵之后，两兄弟之间出现了明显的疏远。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reserve",
+            "aloofness",
+            "coldness"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "closeness",
+            "intimacy",
+            "proximity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[vtr] [sth] [prep] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To place or keep something far away from another thing or person.",
+      "DEF_ZH":"使（某物或某人）保持距离；疏远。",
+      "SENT_EN":"She tried to distance herself from the scandal.",
+      "SENT_ZH":"她试图与这场丑闻保持距离。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "isolate",
+            "detach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "specialized"
+      ],
+      "DEF_EN":"A race of a specified length, especially in running or swimming.",
+      "DEF_ZH":"特定长度的比赛（尤其指跑步或游泳）。",
+      "SENT_EN":"He specializes in the long-distance events.",
+      "SENT_ZH":"他擅长长距离项目。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "marathon",
+            "sprint"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (physics, mathematics), and sports contexts."
+}

@@ -1,0 +1,142 @@
+{
+  "WORD":"record",
+  "IPA":"/ˈrɛkərd/ (n.) | /rɪˈkɔːrd/ (v.)",
+  "CONJUGATES":"records | recording | recorded (v.) | records (n. pl.)",
+  "ETYMOLOGY":"From Middle English recorden, from Old French recorder (to repeat, recount), ultimately from Latin recordari (to remember, recall), combining re- (again) + cors (genitive cordis, heart). The sense of writing down for evidence emerged around the 14th century.",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"record [sth] (on/in [medium])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "media",
+        "technology"
+      ],
+      "DEF_EN":"To convert sound, images, or data into a permanent form (such as tape, disk, or digital file) for later playback or preservation.",
+      "DEF_ZH":"录制；记录（声音、图像、数据等）",
+      "SENT_EN":"They decided to record the band's live performance for their upcoming album.",
+      "SENT_ZH":"他们决定录制乐队的现场表演，用于即将发行的专辑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tape",
+            "film",
+            "capture",
+            "log"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [record]\nbreak a [record]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "sports",
+        "achievement"
+      ],
+      "DEF_EN":"The highest measured speed, greatest distance, or best performance ever achieved in a particular sport or activity.",
+      "DEF_ZH":"纪录；最高成就或最佳表现",
+      "SENT_EN":"The swimmer broke the Olympic record in the 400-meter freestyle.",
+      "SENT_ZH":"这位游泳运动员打破了400米自由泳的奥运纪录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maximum",
+            "best",
+            "peak"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "personal best",
+            "world record",
+            "track record"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [record]\nkeep [records]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal",
+        "archive"
+      ],
+      "DEF_EN":"A document or data set that preserves evidence, information, or an account of past events or transactions.",
+      "DEF_ZH":"记录；档案；卷宗；病历",
+      "SENT_EN":"We must keep accurate financial records for tax purposes.",
+      "SENT_ZH":"出于税务目的，我们必须保留准确的财务记录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "document",
+            "file",
+            "report",
+            "history"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [record]\nlisten to a [record]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "music",
+        "vintage"
+      ],
+      "DEF_EN":"A flat disc (usually vinyl) on which music or sound is recorded for playback on a phonograph.",
+      "DEF_ZH":"唱片；密纹唱片（特指黑胶唱片）",
+      "SENT_EN":"He spent the entire afternoon listening to old blues records.",
+      "SENT_ZH":"他整个下午都在听旧的布鲁斯唱片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disc",
+            "vinyl",
+            "LP"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] record [a value/measurement]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "statistical"
+      ],
+      "DEF_EN":"To register or indicate a particular value or measurement.",
+      "DEF_ZH":"显示；表明；录得（数值或测量结果）",
+      "SENT_EN":"The thermometer recorded the highest temperature in a decade.",
+      "SENT_ZH":"温度计记录了十年来的最高气温。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "register",
+            "show",
+            "indicate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, sports, music, and official contexts."
+}

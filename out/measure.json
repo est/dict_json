@@ -1,0 +1,123 @@
+{
+  "WORD":"measure",
+  "IPA":"/ˈmɛʒər/",
+  "CONJUGATES":"measures | measuring | measured",
+  "ETYMOLOGY":"From Old French mesure (noun and verb), from Latin mēnsūra 'measuring, measure, standard', related to mētīrī 'to measure'.",
+  "SINCE":"c. 1300 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"measure [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "scientific"
+      ],
+      "DEF_EN":"To ascertain the size, amount, or degree of something, typically by comparison with a standard unit.",
+      "DEF_ZH":"测量；度量；估量（通过与标准单位比较来确定大小或数量）。",
+      "SENT_EN":"Engineers are measuring the stress on the bridge supports.",
+      "SENT_ZH":"工程师正在测量桥梁支架上的压力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculate",
+            "gauge",
+            "quantify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dimension",
+            "calibrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a measure of [sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A standard unit used to express quantity, size, or capacity; a criterion or gauge.",
+      "DEF_ZH":"量度单位；计量标准；衡量标准或准则。",
+      "SENT_EN":"Weight is a common measure of an object's mass.",
+      "SENT_ZH":"重量是衡量物体质量的常用单位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "standard",
+            "scale",
+            "criterion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take measures\na preventative measure",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "administrative",
+        "formal"
+      ],
+      "DEF_EN":"An action or procedure intended as a means to achieve a particular end; a step taken.",
+      "DEF_ZH":"措施；步骤；办法（为达到某一目的而采取的行动）。",
+      "SENT_EN":"The committee decided to take immediate measures to prevent further losses.",
+      "SENT_ZH":"委员会决定立即采取措施以防止进一步的损失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "action",
+            "step",
+            "procedure",
+            "tactic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"measure [X] long/wide",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "descriptive"
+      ],
+      "DEF_EN":"To be of a specified size or extent.",
+      "DEF_ZH":"（长度/尺寸）为（某个特定大小或范围）。",
+      "SENT_EN":"The new fence measures exactly two meters high.",
+      "SENT_ZH":"这道新栅栏的高度正好是两米。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"musical measure",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "music theory",
+        "specialized"
+      ],
+      "DEF_EN":"A segment of time in music corresponding to a specific number of beats, marked by barlines; a bar.",
+      "DEF_ZH":"拍子；小节（音乐中由小节线划分的特定拍数的时段）。",
+      "SENT_EN":"The trumpet player missed the beat in the third measure.",
+      "SENT_ZH":"小号手在第三个小节错过了节拍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bar"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical, and formal (when referring to policy measures)."
+}

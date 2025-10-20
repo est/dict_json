@@ -1,0 +1,81 @@
+{
+  "WORD":"usual",
+  "IPA":"/ˈjuːʒuəl/",
+  "CONJUGATES":"usually (adv) | unusual (adj)",
+  "ETYMOLOGY":"From Old French usuel, from Latin usūālis, derived from ūsus ('use, practice'), past participle of ūtī ('to use').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is usual",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Done, happening, or existing in a common or routine manner; normal or customary.",
+      "DEF_ZH":"通常的；习惯性的；平常的；符合常规的。",
+      "SENT_EN":"He arrived late, which is quite usual for him.",
+      "SENT_ZH":"他迟到了，这对他来说是很平常的事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "normal",
+            "customary",
+            "habitual",
+            "regular",
+            "typical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unusual",
+            "extraordinary",
+            "rare",
+            "uncommon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the usual [noun]",
+      "POS":"noun",
+      "POS_TIP":"noun (informal)",
+      "TAGS":[
+        "informal",
+        "colloquial"
+      ],
+      "DEF_EN":"A drink or item that a person regularly orders, often without having to specify it fully.",
+      "DEF_ZH":"（非正式）老一套；常点的东西（尤指饮料）。",
+      "SENT_EN":"He walked into the coffee shop and just asked for 'the usual'.",
+      "SENT_ZH":"他走进咖啡店，只说：“老样子（常点的东西）。”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regular order",
+            "standard",
+            "routine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] and usual",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "old word",
+        "formal"
+      ],
+      "DEF_EN":"(Obsolete or formal) Relating to usage; customary.",
+      "DEF_ZH":"（旧或正式）与使用相关的；习惯性的。",
+      "SENT_EN":"They followed the usual procedure in their meeting.",
+      "SENT_ZH":"他们在会议中遵循了惯常的程序。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General vocabulary, often used informally when referring to routines."
+}

@@ -1,0 +1,89 @@
+{
+  "WORD":"permit",
+  "IPA":"/pərˈmɪt/",
+  "CONJUGATES":"permits | permitted | permitting",
+  "ETYMOLOGY":"From Latin permittere (per- 'through' + mittere 'send'), originally meaning 'to let go, let pass, allow'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"permit [sb/sth] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: an action verb that requires a direct object to complete the meaning",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To allow someone to do something or to allow something to happen; to give authorization.",
+      "DEF_ZH":"允许某人做某事或允许某事发生；授权。",
+      "SENT_EN":"The rules do not permit smoking in the building.",
+      "SENT_ZH":"规定不允许在建筑物内吸烟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allow",
+            "authorize",
+            "consent",
+            "let"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forbid",
+            "prohibit",
+            "prevent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"permit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: an action verb that requires a direct object to complete the meaning",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To make something possible or to give an opportunity for something to happen.",
+      "DEF_ZH":"使某事成为可能，或为某事提供机会。",
+      "SENT_EN":"If time permits, we will visit the museum after lunch.",
+      "SENT_ZH":"如果时间允许，我们午饭后会去参观博物馆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enable",
+            "facilitate",
+            "admit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a permit for [sth]\na permit to [do sth]",
+      "IPA":"/ˈpɜːrmɪt/",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any class of people, places, or things (concrete or abstract)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An official document or license that allows you to do something.",
+      "DEF_ZH":"允许你做某事的官方文件或执照。",
+      "SENT_EN":"You need a special permit to fish in this river.",
+      "SENT_ZH":"你需要在这条河里捕鱼的特殊许可证。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "license",
+            "authorization",
+            "pass",
+            "visa"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and General Usage"
+}

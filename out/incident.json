@@ -1,0 +1,87 @@
+{
+  "WORD":"incident",
+  "IPA":"/ˈɪnsɪdənt/",
+  "CONJUGATES":"incidents (pl.)",
+  "ETYMOLOGY":"From Middle French incident, from Latin incidentem (nominative incidens), the present participle of incidere ('to fall upon, happen to'), from in- ('into, upon') + cadere ('to fall').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (event)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An event or occurrence, especially one that is unusual, important, or violent, or a minor event that happens during the course of a larger action.",
+      "DEF_ZH":"事件；事故；发生的事情，尤指不寻常、重要或暴力的小事件。",
+      "SENT_EN":"Despite the minor incident, the whole conference proceeded smoothly.",
+      "SENT_ZH":"尽管发生了小事故，整个会议还是顺利进行了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occurrence",
+            "episode",
+            "happening",
+            "event"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "accident",
+            "affair"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"serious [incident]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "conflict"
+      ],
+      "DEF_EN":"A serious conflict or confrontation, often requiring police or military intervention.",
+      "DEF_ZH":"冲突；事端；严重的安全问题或争端。",
+      "SENT_EN":"A diplomatic incident occurred after the ambassador's remarks were made public.",
+      "SENT_ZH":"大使的言论公开后，发生了一起外交事端。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disturbance",
+            "clash",
+            "confrontation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[incident] ray/light",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "physics",
+        "rare"
+      ],
+      "DEF_EN":"Falling upon or striking something, used primarily in physics to describe light, radiation, or particles.",
+      "DEF_ZH":"(光线、辐射等) 入射的；投射到物体上的。",
+      "SENT_EN":"The angle of the incident beam was measured before reflection.",
+      "SENT_ZH":"在反射之前，测量了入射光束的角度。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "reflected",
+            "emergent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in news and formal reporting contexts."
+}

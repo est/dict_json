@@ -1,0 +1,100 @@
+{
+  "WORD":"whatever",
+  "IPA":"/wɑːtˈɛvər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound of Middle English 'what' (from Old English hwæt) and 'ever' (from Old English æfre). The sense meaning 'anything' dates back to the 14th century.",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[whatever] + [sb] / [sth] (indefinite pronoun)",
+      "POS":"pron",
+      "POS_TIP":"pronoun, refers to any thing or things",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Anything or everything that is the case; no matter what thing.",
+      "DEF_ZH":"任何事物；无论什么（指任何种类、情况或数量的事物）。",
+      "SENT_EN":"Take whatever you need from the fridge.",
+      "SENT_ZH":"从冰箱里拿走你需要的任何东西。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anything",
+            "whatsoever"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[whatever] + [noun] (determiner)",
+      "POS":"det",
+      "POS_TIP":"determiner, used before a noun to express quantity or choice",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to emphasize that it makes no difference which specific thing is referred to or chosen.",
+      "DEF_ZH":"任何的；无论哪种的（强调没有区别或选择不重要）。",
+      "SENT_EN":"Whatever advice he gives, I won't follow it.",
+      "SENT_ZH":"无论他给出什么样的建议，我都不会听从。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "any",
+            "no matter what"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[whatever] (interjection)",
+      "POS":"interj",
+      "POS_TIP":"interjection, an abrupt remark or exclamation",
+      "TAGS":[
+        "informal",
+        "colloquial",
+        "dismissive"
+      ],
+      "DEF_EN":"An expression used to signal indifference, boredom, or dismissal of the preceding statement or opinion, often implying 'I don't care'.",
+      "DEF_ZH":"（口语，表示无所谓、不屑或不耐烦）随便；管它呢。",
+      "SENT_EN":"“We missed the bus.” “Whatever, we can just walk.”",
+      "SENT_ZH":"“我们错过了公共汽车。”“随便啦，我们走路就行。”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "so what",
+            "meh",
+            "who cares"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[whatever] (adverbial emphasis)",
+      "POS":"adv",
+      "POS_TIP":"adverb, modifies a verb, adjective, or other adverb",
+      "TAGS":[
+        "rhetorical",
+        "emphasis"
+      ],
+      "DEF_EN":"Used at the end of a clause to intensify or generalize a statement, often meaning 'or something like that'.",
+      "DEF_ZH":"等等；诸如此类（用在句末，表示泛指或加强语气）。",
+      "SENT_EN":"He claimed he was robbed of forty dollars, fifty dollars, whatever.",
+      "SENT_ZH":"他声称被抢了四十块、五十块，诸如此类的钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "or so",
+            "and such"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, though the interjection meaning is highly informal."
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"stranger",
+  "IPA":"/ˈstreɪn.dʒər/",
+  "CONJUGATES":"strangers",
+  "ETYMOLOGY":"From Middle English straunger, from Old French estranger ('foreigner, alien'), derived from estrange ('foreign'), ultimately from Latin extraneus ('external, foreign'), from extra ('outside').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person whom one does not know or has not previously met.",
+      "DEF_ZH":"陌生人；不认识的人",
+      "SENT_EN":"My parents always warned me not to talk to strangers.",
+      "SENT_ZH":"我的父母总是警告我不要和陌生人说话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unknown",
+            "unfamiliar face",
+            "newcomer"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "friend",
+            "acquaintance",
+            "known"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [in/to sth]",
+      "POS":"n + prep",
+      "POS_TIP":"noun followed by a preposition",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A person who is unaccustomed to or ignorant of something specified, often used in the phrase 'no stranger to something'.",
+      "DEF_ZH":"对某事不陌生的人；对某事物熟稔的人（常用于否定句中，如'对…不陌生'）",
+      "SENT_EN":"The CEO was no stranger to controversy, having faced several lawsuits during his career.",
+      "SENT_ZH":"这位首席执行官对争议并不陌生，他的职业生涯中曾面临多起诉讼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unacquainted",
+            "unfamiliar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [in/to sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"A person who is not native or local to a particular place or community; an outsider.",
+      "DEF_ZH":"外地人；局外人；不熟悉某地的人",
+      "SENT_EN":"He felt like a stranger in his own land after the political upheaval.",
+      "SENT_ZH":"政治动荡之后，他在自己的国土上感觉像个异乡人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "foreigner",
+            "alien",
+            "outsider"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage in spoken and written English."
+}

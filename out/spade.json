@@ -1,0 +1,110 @@
+{
+  "WORD":"spade",
+  "IPA":"/speɪd/",
+  "CONJUGATES":"Noun: spade | spades; Verb: spade | spades | spading | spaded",
+  "ETYMOLOGY":"From Old English spadu 'spade, digging tool', from Proto-Germanic *spadō. The card suit meaning (c. 16th century) comes from Italian spada 'sword', referring to the shape.",
+  "SINCE":"Before 12th century (for the tool meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a spade",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "tool"
+      ],
+      "DEF_EN":"A tool with a broad metal blade and a long handle, used for digging earth or cutting turf.",
+      "DEF_ZH":"一种带有宽金属刃和长柄的工具，用于挖掘泥土或切割草皮。",
+      "SENT_EN":"He used a spade to dig up the old rose bushes in the garden.",
+      "SENT_ZH":"他用一把铁锹挖掉花园里的老玫瑰丛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shovel",
+            "digger",
+            "trowel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spades",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "card games"
+      ],
+      "DEF_EN":"One of the four suits in a deck of playing cards, marked with a black symbol resembling a stylized heart with a short stem.",
+      "DEF_ZH":"扑克牌的四种花色之一，其标志是一个带短柄的黑色心形图案。",
+      "SENT_EN":"The ace of spades is often considered the most powerful card in many card games.",
+      "SENT_ZH":"黑桃A在许多纸牌游戏中常被认为是威力最大的牌。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "heart",
+            "diamond",
+            "club"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spade [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "gardening"
+      ],
+      "DEF_EN":"To dig (soil or ground) with a spade.",
+      "DEF_ZH":"用铁锹挖掘（泥土或地面）。",
+      "SENT_EN":"We spent the morning spading the new vegetable patch.",
+      "SENT_ZH":"我们花了一个上午的时间用铁锹翻整新的菜地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dig",
+            "excavate",
+            "turn over"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"call a spade a spade",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To speak directly and plainly about something, even if it is unpleasant or blunt.",
+      "DEF_ZH":"直言不讳，坦率地说出事情，即使可能令人不快或有些生硬。",
+      "SENT_EN":"She's always been known to call a spade a spade, which some people appreciate and others find rude.",
+      "SENT_ZH":"她一直以直言不讳著称，有些人欣赏这一点，而另一些人则觉得她粗鲁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speak plainly",
+            "be blunt",
+            "mince no words"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "beat around the bush",
+            "sugarcoat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

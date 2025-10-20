@@ -1,0 +1,84 @@
+{
+  "WORD":"diary",
+  "IPA":"/ˈdaɪəri/",
+  "CONJUGATES":"diaries (pl.)",
+  "ETYMOLOGY":"From Latin diarium 'daily allowance', from dies 'day'",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A book in which one keeps a daily record of events and experiences.",
+      "DEF_ZH":"一本用于记录每天发生事件和个人经历的簿子。",
+      "SENT_EN":"She wrote down her innermost thoughts in her private diary.",
+      "SENT_ZH":"她把内心深处的想法写在了她的私人日记里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "journal",
+            "logbook",
+            "chronicle",
+            "memoir"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "blog",
+            "vlog"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A book containing a schedule of appointments and social engagements for a specific period.",
+      "DEF_ZH":"一本包含特定时期约会和社交活动安排的日程簿；日程表。",
+      "SENT_EN":"Check your diary to see if you are free next Tuesday afternoon.",
+      "SENT_ZH":"查一下你的日程表，看看下周二下午你是否有空。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "planner",
+            "appointment book",
+            "agenda"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "countable"
+      ],
+      "DEF_EN":"A daily record of transactions or events, often in a business context.",
+      "DEF_ZH":"交易或事件的每日记录，常用于商业环境。",
+      "SENT_EN":"The company maintains a financial diary to track all expenditures.",
+      "SENT_ZH":"该公司保留了一份财务日记，用于追踪所有支出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ledger",
+            "register"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

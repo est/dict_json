@@ -1,0 +1,97 @@
+{
+  "WORD":"assault",
+  "IPA":"/əˈsɔːlt/",
+  "CONJUGATES":"assault (n. sing.) | assaults (n. pl.) | assault (v. base) | assaults (v. 3rd pers. sing. present) | assaulting (v. present participle) | assaulted (v. past tense, past participle)",
+  "ETYMOLOGY":"From Old French asaut, assalt (noun) and assalir (verb), from Vulgar Latin *assalire 'to leap on', from Latin ad- 'to' + salire 'to leap'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"an assault [on/against sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sudden, violent attack on someone or something.",
+      "DEF_ZH":"对某人或某物发起的突然、猛烈的攻击。",
+      "SENT_EN":"The police reported a series of brutal assaults in the city.",
+      "SENT_ZH":"警方报告称该市发生了一系列残忍的袭击事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attack",
+            "onslaught",
+            "raid",
+            "strike"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "defense",
+            "protection",
+            "retreat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assault [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a sudden, violent attack on someone or something.",
+      "DEF_ZH":"对某人或某物进行突然、猛烈的攻击。",
+      "SENT_EN":"The enemy troops assaulted the fortress at dawn.",
+      "SENT_ZH":"敌军在黎明时分攻打了堡垒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attack",
+            "strike",
+            "charge",
+            "invade"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "defend",
+            "protect",
+            "shield"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an assault",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal term",
+        "specific"
+      ],
+      "DEF_EN":"(Law) An intentional act that causes another person to fear an immediate harmful or offensive contact. Physical contact is not always required.",
+      "DEF_ZH":"（法律）故意实施的、使他人害怕立即受到伤害或冒犯性接触的行为。不一定需要实际的身体接触。",
+      "SENT_EN":"He was charged with assault for threatening his neighbor, even though no physical contact occurred.",
+      "SENT_ZH":"他因威胁邻居而被控袭击罪，尽管没有发生身体接触。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "battery",
+            "harassment",
+            "menace"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday speech, news reporting, and legal contexts."
+}

@@ -1,0 +1,103 @@
+{
+  "WORD":"remove",
+  "IPA":"/rɪˈmuːv/",
+  "CONJUGATES":"removes | removing | removed",
+  "ETYMOLOGY":"From Old French removoir (to move back, remove), from Latin removēre (re- 'back, away' + movēre 'to move').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"remove [sth] (from [a place/surface])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take something away from the place where it is; to lift, carry, or move something from one place to another.",
+      "DEF_ZH":"移走；拿开；清除。",
+      "SENT_EN":"Please remove your shoes before entering the house.",
+      "SENT_ZH":"进屋前请脱鞋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "take away",
+            "withdraw",
+            "displace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "add",
+            "place",
+            "insert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"remove [sth] (from [existence/condition])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "general"
+      ],
+      "DEF_EN":"To eliminate, get rid of, or erase something completely.",
+      "DEF_ZH":"去除；消除；根除。",
+      "SENT_EN":"The doctor had to remove the tumor surgically.",
+      "SENT_ZH":"医生不得不通过手术切除肿瘤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "eliminate",
+            "erase",
+            "delete",
+            "wipe out"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "removal",
+            "remover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"remove [sb] (from [a position])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "administrative"
+      ],
+      "DEF_EN":"To dismiss someone from an office, position, or employment.",
+      "DEF_ZH":"解职；罢免；开除。",
+      "SENT_EN":"The CEO was removed from his post after the financial scandal.",
+      "SENT_ZH":"金融丑闻发生后，该首席执行官被解除职务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dismiss",
+            "oust",
+            "fire",
+            "discharge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "appoint",
+            "install",
+            "hire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

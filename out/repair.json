@@ -1,0 +1,107 @@
+{
+  "WORD":"repair",
+  "IPA":"/rɪˈpɛər/",
+  "CONJUGATES":"repairs | repairing | repaired",
+  "ETYMOLOGY":"From Old French *reparer* ('to restore, put back in order'), from Latin *reparare*, composed of *re-* ('again') and *parare* ('to prepare, set in order').",
+  "SINCE":"Mid 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"repair [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To restore something damaged, faulty, or worn to a good condition.",
+      "DEF_ZH":"修复；修理；修补（损坏、故障或磨损的物体）。",
+      "SENT_EN":"It took the engineers several hours to repair the broken bridge section.",
+      "SENT_ZH":"工程师们花了几个小时才修好断裂的桥梁部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mend",
+            "fix",
+            "restore",
+            "overhaul"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "break",
+            "damage",
+            "ruin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"undergo\nin | needing repair",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act or process of restoring something to a sound condition.",
+      "DEF_ZH":"维修；修理；修补（行为或过程）。",
+      "SENT_EN":"The elevator is out of service while undergoing repair.",
+      "SENT_ZH":"电梯正在维修中，暂停使用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maintenance",
+            "upkeep",
+            "mending"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in good\npoor | bad repair",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The physical condition of a building or object, especially regarding its soundness and need for maintenance.",
+      "DEF_ZH":"状况；状态（尤指建筑或物品的完好程度和对维护的需求）。",
+      "SENT_EN":"Despite its age, the historic clock tower was kept in excellent repair.",
+      "SENT_ZH":"尽管年代久远，这座历史悠久的时钟塔仍保持着良好的状态。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"repair [tissue\ndamage]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "biology",
+        "technical"
+      ],
+      "DEF_EN":"To restore damaged or diseased tissue or parts of the body.",
+      "DEF_ZH":"（生物学）修复（受损组织或身体部位）。",
+      "SENT_EN":"Sleep is crucial for the body to repair muscle tissue.",
+      "SENT_ZH":"睡眠对于身体修复肌肉组织至关重要。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"repair to [a place]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "literary",
+        "formal",
+        "rare"
+      ],
+      "DEF_EN":"To go to a particular place, often as a refuge or for a specific purpose.",
+      "DEF_ZH":"（正式，文学）前往；常去（某地）。",
+      "SENT_EN":"After the conference, the delegates repaired to the dining hall for lunch.",
+      "SENT_ZH":"会议结束后，代表们前往餐厅吃午餐。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

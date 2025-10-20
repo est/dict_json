@@ -1,0 +1,88 @@
+{
+  "WORD":"ignite",
+  "IPA":"/ɪɡˈnaɪt/",
+  "CONJUGATES":"ignites | ignited | igniting",
+  "ETYMOLOGY":"From Latin ignitus, past participle of ignire 'to set on fire', from ignis 'fire'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"ignite [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "literal usage",
+        "chemistry"
+      ],
+      "DEF_EN":"To set something on fire; to cause to start burning.",
+      "DEF_ZH":"点燃；使开始燃烧。",
+      "SENT_EN":"A small spark was enough to ignite the dry grass.",
+      "SENT_ZH":"一个小火花就足以点燃干燥的草地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kindle",
+            "light",
+            "set alight"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "extinguish",
+            "quench",
+            "put out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] ignite",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "literal usage"
+      ],
+      "DEF_EN":"To catch fire; to begin to burn.",
+      "DEF_ZH":"着火；开始燃烧。",
+      "SENT_EN":"The fuel spilled on the ground could ignite at any moment.",
+      "SENT_ZH":"洒在地上的燃料随时都可能着火。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "catch fire",
+            "blaze up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ignite [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "figurative usage",
+        "common"
+      ],
+      "DEF_EN":"To arouse or excite (feelings, passions, or emotions); to spark an intense reaction.",
+      "DEF_ZH":"激起（感情、情绪）；煽动；点燃（希望、争议等）。",
+      "SENT_EN":"His passionate speech ignited hope in the hearts of the crowd.",
+      "SENT_ZH":"他充满激情的演讲点燃了群众心中的希望。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spark",
+            "arouse",
+            "provoke",
+            "stimulate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

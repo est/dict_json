@@ -1,0 +1,163 @@
+{
+  "WORD":"hit",
+  "IPA":"/hɪt/",
+  "CONJUGATES":"hits | hitting | hit",
+  "ETYMOLOGY":"From Old English hittan 'to come upon, meet, find', possibly of Scandinavian origin (compare Old Norse hitta 'to find, meet'). The sense of 'strike' developed in Middle English.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"hit [sth]\nhit [sb]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "physical action",
+        "common"
+      ],
+      "DEF_EN":"To strike or touch something or someone forcibly or suddenly.",
+      "DEF_ZH":"用力或突然地击打或接触某物或某人。",
+      "SENT_EN":"The baseball player hit the ball out of the park.",
+      "SENT_ZH":"那位棒球运动员将球击出了公园。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strike",
+            "smack",
+            "slug",
+            "tap"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "miss",
+            "fail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hit [a target/a goal/a place]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To reach or arrive at a particular point, level, or location.",
+      "DEF_ZH":"达到或到达特定的点、水平或位置。",
+      "SENT_EN":"The stock market hit a new low yesterday.",
+      "SENT_ZH":"股市昨天创下了新低。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reach",
+            "attain",
+            "achieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hit [sb/sth] (of a disaster/problem)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "negative connotation",
+        "idiomatic"
+      ],
+      "DEF_EN":"To affect someone or something suddenly and severely (usually negative events like disasters or economic problems).",
+      "DEF_ZH":"突然且严重地影响某人或某事（通常指负面事件，如灾难或经济问题）。",
+      "SENT_EN":"The region was hit hard by the hurricane.",
+      "SENT_ZH":"该地区受到了飓风的严重打击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "afflict",
+            "strike",
+            "befall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] hit (song/movie/performance)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "entertainment",
+        "core word"
+      ],
+      "DEF_EN":"A great success, especially a popular song, movie, or theatrical production.",
+      "DEF_ZH":"巨大的成功，尤指流行的歌曲、电影或戏剧作品。",
+      "SENT_EN":"Their new single is a massive worldwide hit.",
+      "SENT_ZH":"他们的新单曲是全球性的巨大热门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "success",
+            "bestseller",
+            "smash"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "flop",
+            "failure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] hit (in sports/combat)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "physical action"
+      ],
+      "DEF_EN":"An instance of striking or being struck, especially in sports (like baseball or boxing).",
+      "DEF_ZH":"击打或被击打的实例，尤其是在体育运动中（如棒球或拳击）。",
+      "SENT_EN":"He needs one more base hit to tie the record.",
+      "SENT_ZH":"他还需要一次安打才能追平记录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blow",
+            "strike",
+            "impact"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hit [a website/a key]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "computing",
+        "slang"
+      ],
+      "DEF_EN":"To access a website or a server; to press a key or button.",
+      "DEF_ZH":"访问网站或服务器；按下按键或按钮。",
+      "SENT_EN":"The website hit a million visitors in its first month.",
+      "SENT_ZH":"该网站在第一个月就达到了百万访客。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "page view",
+            "traffic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English, commonly used across various domains including sports, media, and technology."
+}

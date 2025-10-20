@@ -1,0 +1,126 @@
+{
+  "WORD":"axis",
+  "IPA":"/ˈæksɪs/",
+  "CONJUGATES":"plural: axes",
+  "ETYMOLOGY":"From Latin 'axis' meaning 'axle, pivot, axis', from Proto-Indo-European *aks- 'axle'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"axis (of something)",
+      "POS":"n. (geom, phys)",
+      "POS_TIP":"noun (geometry, physics)",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"An imaginary or real straight line passing through the center of a body or system, about which the body or system rotates or is regarded as rotating.",
+      "DEF_ZH":"穿过物体或系统中心的虚构或真实的直线，物体或系统围绕其旋转或被视为旋转。",
+      "SENT_EN":"The Earth rotates on its axis, completing one full rotation approximately every 24 hours.",
+      "SENT_ZH":"地球绕其轴心自转，大约每24小时完成一次完整的旋转。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pivot",
+            "fulcrum",
+            "center line",
+            "spindle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"X/Y/Z-axis",
+      "POS":"n. (math, sci)",
+      "POS_TIP":"noun (mathematics, science)",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A fixed reference line for the measurement of coordinates in a coordinate system.",
+      "DEF_ZH":"坐标系中用于测量坐标的固定参考线。",
+      "SENT_EN":"In a standard graph, the horizontal line is typically the x-axis, and the vertical line is the y-axis.",
+      "SENT_ZH":"在标准图中，水平线通常是x轴，垂直线是y轴。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "coordinate",
+            "plane",
+            "dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"axis (of something)",
+      "POS":"n. (anat, bot)",
+      "POS_TIP":"noun (anatomy, botany)",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"The central or principal line of a body, organ, or plant part.",
+      "DEF_ZH":"身体、器官或植物部分的中心线或主线。",
+      "SENT_EN":"The spinal column forms the main axis of the human skeleton.",
+      "SENT_ZH":"脊柱构成人类骨骼的主轴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spine",
+            "stem",
+            "central line"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an axis (between A and B)\nthe Axis powers",
+      "POS":"n. (pol, hist)",
+      "POS_TIP":"noun (politics, history)",
+      "TAGS":[
+        "common",
+        "historical"
+      ],
+      "DEF_EN":"An alliance between two or more countries, especially when seen as a unifying force or common ideological stance. Often refers to the Axis powers of WWII (Germany, Italy, Japan).",
+      "DEF_ZH":"两个或多个国家之间的联盟，特别是被视为统一力量或共同意识形态立场的联盟。常指二战时的轴心国（德国、意大利、日本）。",
+      "SENT_EN":"The formation of a new economic axis in the region shifted geopolitical dynamics.",
+      "SENT_ZH":"该地区新经济轴心的形成改变了地缘政治格局。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Axis Powers",
+            "alliance",
+            "coalition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"axis of symmetry",
+      "POS":"n. (geol, cryst)",
+      "POS_TIP":"noun (geology, crystallography)",
+      "TAGS":[
+        "technical"
+      ],
+      "DEF_EN":"A line about which a body or figure is symmetrical.",
+      "DEF_ZH":"物体或图形关于其对称的线。",
+      "SENT_EN":"Many crystals are classified based on their unique axes of symmetry.",
+      "SENT_ZH":"许多晶体根据其独特的对称轴进行分类。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "symmetry",
+            "plane"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies from general usage to formal/technical, depending on the specific meaning."
+}

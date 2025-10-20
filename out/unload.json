@@ -1,0 +1,119 @@
+{
+  "WORD":"unload",
+  "IPA":"/ʌnˈloʊd/",
+  "CONJUGATES":"unloads | unloaded | unloading",
+  "ETYMOLOGY":"From Middle English 'unladen', equivalent to 'un-' (prefix meaning 'not, opposite of') + 'load' (from Old English 'lād' meaning 'journey, carrying, burden'). Literally, to remove a burden or cargo.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"unload [sth] (from/off [sth])",
+      "POS":"vtr",
+      "POS_TIP":"vtr means 'transitive verb', which takes a direct object.",
+      "TAGS":[
+        "common",
+        "core word",
+        "physical action"
+      ],
+      "DEF_EN":"To remove goods, cargo, or contents from a vehicle, ship, or other container.",
+      "DEF_ZH":"从车辆、船只或其他容器中卸下货物、运载物或内容物。",
+      "SENT_EN":"The port workers began to unload the containers from the ship.",
+      "SENT_ZH":"港口工人开始从船上卸下集装箱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discharge",
+            "unburden",
+            "empty"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "load",
+            "load up",
+            "fill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unload [sth] (on/onto [sb])",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr means 'transitive verb', which takes a direct object; prep means 'preposition'.",
+      "TAGS":[
+        "common",
+        "idiomatic",
+        "informal",
+        "emotional"
+      ],
+      "DEF_EN":"To express or release a large amount of feelings, worries, or information, usually to another person, in order to feel relief.",
+      "DEF_ZH":"（向某人）倾诉、宣泄大量的感情、担忧或信息，通常是为了减轻自己的负担。",
+      "SENT_EN":"She needed to unload all her frustrations on her best friend after a tough day.",
+      "SENT_ZH":"辛苦了一天后，她需要向她最好的朋友倾诉所有的挫折。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vent",
+            "confide",
+            "share",
+            "express"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "suppress",
+            "bottle up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unload [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr means 'transitive verb', which takes a direct object.",
+      "TAGS":[
+        "specific",
+        "technical",
+        "firearms"
+      ],
+      "DEF_EN":"To remove the ammunition from a firearm or weapon.",
+      "DEF_ZH":"从枪械或武器中取出弹药。",
+      "SENT_EN":"Always unload the gun before cleaning it for safety reasons.",
+      "SENT_ZH":"为了安全起见，清洁枪支前务必卸下弹药。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "load"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unload [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr means 'transitive verb', which takes a direct object.",
+      "TAGS":[
+        "technical",
+        "computing",
+        "less common"
+      ],
+      "DEF_EN":"To remove a program, data, or a module from a computer's memory or system.",
+      "DEF_ZH":"从计算机内存或系统中移除程序、数据或模块。",
+      "SENT_EN":"The operating system can unload inactive applications to free up resources.",
+      "SENT_ZH":"操作系统可以卸载不活跃的应用程序以释放资源。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "load"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; informal when referring to emotional release; technical in specific contexts like firearms or computing."
+}

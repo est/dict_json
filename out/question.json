@@ -1,0 +1,121 @@
+{
+  "WORD":"question",
+  "IPA":"/ˈkwɛstʃən/",
+  "CONJUGATES":"questions | questioning | questioned",
+  "ETYMOLOGY":"From Old French question (n.), derived from Latin quaestiō, quaestiōnis ('a seeking, inquiry, investigation'), ultimately from quaerere ('to seek, ask').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sentence or expression used to elicit information, seek clarification, or test knowledge.",
+      "DEF_ZH":"用于获取信息、寻求澄清或检验知识的语句或表达。",
+      "SENT_EN":"He raised his hand to ask a difficult question.",
+      "SENT_ZH":"他举手问了一个难题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inquiry",
+            "query",
+            "interrogation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "answer",
+            "reply",
+            "statement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the/a] question of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A matter or subject requiring discussion, investigation, or decision; an issue.",
+      "DEF_ZH":"需要讨论、调查或决定的事项或主题；一个问题或争议。",
+      "SENT_EN":"The most important question before us is how to fund the project.",
+      "SENT_ZH":"我们面前最重要的问题是如何为该项目提供资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "issue",
+            "matter",
+            "problem",
+            "topic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"question [sb] (about [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To ask someone a series of questions, often formally or in depth.",
+      "DEF_ZH":"向某人提出一系列问题，通常是正式或深入的盘问。",
+      "SENT_EN":"The detective questioned the witness about her whereabouts that night.",
+      "SENT_ZH":"侦探就她当晚的行踪盘问了证人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interrogate",
+            "interview",
+            "quiz",
+            "examine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"question [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To challenge or express skepticism about the truth, validity, or propriety of something.",
+      "DEF_ZH":"对某事的真实性、有效性或适当性提出质疑或表示怀疑。",
+      "SENT_EN":"I question the reliability of those statistics.",
+      "SENT_ZH":"我质疑那些统计数据的可靠性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "doubt",
+            "challenge",
+            "dispute",
+            "be skeptical of"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "believe",
+            "trust",
+            "accept"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

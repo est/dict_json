@@ -1,0 +1,120 @@
+{
+  "WORD":"service",
+  "IPA":"/ˈsɜːrvɪs/",
+  "CONJUGATES":"services | servicing | serviced",
+  "ETYMOLOGY":"From Old French servise, from Latin servitium ('slavery', 'attendance', 'duty'), derived from servus ('slave').",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"service [for sb] [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "economics"
+      ],
+      "DEF_EN":"The action of helping or doing work for someone; the provision of systems or processes to meet a need.",
+      "DEF_ZH":"服务; 为他人或机构提供帮助、工作或支持。",
+      "SENT_EN":"The hotel prides itself on excellent customer service.",
+      "SENT_ZH":"这家酒店以卓越的客户服务为傲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assistance",
+            "help",
+            "support",
+            "aid"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hospitality",
+            "duty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"service [public]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "infrastructure",
+        "utilities"
+      ],
+      "DEF_EN":"A facility or system supplying a public need, such as transport, water, or communication.",
+      "DEF_ZH":"公共设施或系统; 满足公众需求的系统（通常指交通、通讯、水电等）。",
+      "SENT_EN":"The town expanded its local bus service to include the new industrial park.",
+      "SENT_ZH":"该镇扩大了当地的公交服务，将新的工业园区也纳入其中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "utility",
+            "network",
+            "provision"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"service [in]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "military",
+        "government"
+      ],
+      "DEF_EN":"Employment in the armed forces or in a branch of government; duty done for the state or a cause.",
+      "DEF_ZH":"服役; 在军队或政府部门中的任职或工作; 为国家或事业所做的贡献。",
+      "SENT_EN":"He completed ten years of military service before retiring.",
+      "SENT_ZH":"他退役前完成了十年的军事服役。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "enlistment",
+            "tenure",
+            "duty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"service [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "technical",
+        "maintenance"
+      ],
+      "DEF_EN":"To perform routine maintenance, checking, or repairs on a vehicle, machine, or system.",
+      "DEF_ZH":"检修，保养; 对设备或系统进行维护、检查或修理。",
+      "SENT_EN":"The technician serviced the boiler to ensure it was running efficiently.",
+      "SENT_ZH":"技术人员检修了锅炉，以确保其高效运行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maintain",
+            "repair",
+            "overhaul"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "neglect",
+            "ignore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in business, technical, and general conversation."
+}

@@ -1,0 +1,83 @@
+{
+  "WORD":"science",
+  "IPA":"/ˈsaɪəns/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English, via Old French 'science', from Latin 'scientia' ('knowledge, knowing'), derived from 'sciens', present participle of 'scire' ('to know').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[uncountable]",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"The systematic study of the structure and behavior of the physical and natural world through observation and experiment.",
+      "DEF_ZH":"通过观察和实验对物质和自然世界的结构和行为进行系统研究的知识和实践活动；科学。",
+      "SENT_EN":"Modern science relies heavily on reproducible experiments.",
+      "SENT_ZH":"现代科学很大程度上依赖于可重复的实验。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "research",
+            "knowledge",
+            "physics",
+            "biology",
+            "chemistry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[countable]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "specialized"
+      ],
+      "DEF_EN":"A particular branch of study or body of knowledge, especially one based on accurately observed facts or organized principles.",
+      "DEF_ZH":"某一特定的学科或知识体系，尤指基于精确观察的事实或组织原则的学科。",
+      "SENT_EN":"Computer science is a highly demanding field.",
+      "SENT_ZH":"计算机科学是一个要求很高的领域。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discipline",
+            "field of study",
+            "subject"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[uncountable]",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "rare",
+        "literary"
+      ],
+      "DEF_EN":"Skill or technique resulting from training or expert knowledge.",
+      "DEF_ZH":"由训练或专业知识产生的技能或技艺。",
+      "SENT_EN":"He mastered the science of negotiation.",
+      "SENT_ZH":"他掌握了谈判的艺术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skill",
+            "art",
+            "craft",
+            "technique"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic"
+}

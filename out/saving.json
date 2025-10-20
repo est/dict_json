@@ -1,0 +1,90 @@
+{
+  "WORD":"saving",
+  "IPA":"/'seɪvɪŋ/",
+  "CONJUGATES":"save (v) | saved (pt, pp) | saves (3sg) | savings (pl. n)",
+  "ETYMOLOGY":"Middle English, from the verb 'save', which comes from Old French sauver, derived from Late Latin salvare ('to save, make safe'), from salvus ('safe').",
+  "SINCE":"c. 14th century (as a gerund/noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (often in the plural 'savings')",
+      "POS":"n | gerund",
+      "POS_TIP":"noun, gerund (a form of verb functioning as a noun)",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"The act of setting aside money or resources rather than spending them; also, the resulting reduction in expenditure or cost.",
+      "DEF_ZH":"储蓄；节省；节约或减少的量（如开支）。",
+      "SENT_EN":"Careful saving allowed the company to weather the recession.",
+      "SENT_ZH":"小心的储蓄让公司得以度过经济衰退。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thrift",
+            "frugality",
+            "economy",
+            "reduction"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "spending",
+            "waste",
+            "extravagance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a saving [adj] [grace/feature]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Serving to compensate for or remedy something bad; having a redeeming or salvational quality.",
+      "DEF_ZH":"挽救的；补救的；起到积极作用的（常用于习语'saving grace'，救命稻草）。",
+      "SENT_EN":"His kindness was his only saving virtue in an otherwise difficult personality.",
+      "SENT_ZH":"在他原本难以相处的性格中，他的善良是他唯一的优点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "redeeming",
+            "compensating",
+            "mitigating"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [is] saving [sth/sb]",
+      "POS":"v. pres. part.",
+      "POS_TIP":"verb, present participle",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"Present continuous action of rescuing, preserving, or storing (as in data).",
+      "DEF_ZH":"正在拯救、保存或存储。",
+      "SENT_EN":"The lifeguard is currently saving the swimmer caught in the rip tide.",
+      "SENT_ZH":"救生员目前正在抢救被卷入激流的游泳者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preserving",
+            "protecting",
+            "storing",
+            "rescuing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly in finance and computing."
+}

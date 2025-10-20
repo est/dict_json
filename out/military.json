@@ -1,0 +1,87 @@
+{
+  "WORD":"military",
+  "IPA":"/ˈmɪlɪteri/",
+  "CONJUGATES":"militarily (adv)",
+  "ETYMOLOGY":"From Middle French militaire, and directly from Latin militaris ('of or belonging to soldiers or war'), from miles, militis ('soldier').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"military [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or characteristic of soldiers, armed forces, or war.",
+      "DEF_ZH":"军事的；军队的；与武装力量或战争有关的。",
+      "SENT_EN":"The nation increased its military spending to upgrade its defense systems.",
+      "SENT_ZH":"该国增加了军事开支以升级其防御系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "martial",
+            "army",
+            "warlike",
+            "defense"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "civilian",
+            "noncombatant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the military [n]",
+      "POS":"n (collective)",
+      "POS_TIP":"noun (collective, usually treated as singular or plural depending on context)",
+      "TAGS":[
+        "institution",
+        "politics"
+      ],
+      "DEF_EN":"The armed forces of a country, usually including the army, navy, and air force.",
+      "DEF_ZH":"军队；武装力量；一个国家的军事机构或全体军人。",
+      "SENT_EN":"After the disaster, the military was called in to assist with rescue operations.",
+      "SENT_ZH":"灾难发生后，军队被召集进来协助救援行动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "armed forces",
+            "services",
+            "defense force"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"military [adj] (of style or discipline)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "style"
+      ],
+      "DEF_EN":"Characterized by strict discipline, precision, or conformity.",
+      "DEF_ZH":"军人作风的；严格遵守纪律的；精准的。",
+      "SENT_EN":"The students kept a military schedule, waking up at 5:00 AM sharp.",
+      "SENT_ZH":"学生们保持着严格的军人作息，早上五点准时起床。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regimented",
+            "disciplined",
+            "strict"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, institutional, and political discourse."
+}

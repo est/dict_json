@@ -1,0 +1,75 @@
+{
+  "WORD":"refine",
+  "IPA":"/rɪˈfaɪn/",
+  "CONJUGATES":"refines | refining | refined",
+  "ETYMOLOGY":"From Middle French refiner (re- 'again' + finer 'to bring to an end, perfect'), late 15th century, ultimately derived from the word 'fine' (pure, excellent).",
+  "SINCE":"c. 1475",
+  "MEANINGS":[
+    {
+      "PATTERN":"refine [sth] (material/substance)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"To remove impurities or unwanted elements from a substance, typically a liquid or metal, in order to make it pure or higher quality.",
+      "DEF_ZH":"提炼；精炼；精制（去除物质中的杂质）",
+      "SENT_EN":"Crude oil must be refined before it can be used for gasoline.",
+      "SENT_ZH":"原油必须经过精炼才能用作汽油。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "purify",
+            "process",
+            "distill",
+            "clarify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "refinery",
+            "refinement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"refine [sth] (idea/skill/plan)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"To improve something by making subtle changes or additions; to make more precise, perfect, or sophisticated.",
+      "DEF_ZH":"改进；完善；使更精确或更复杂",
+      "SENT_EN":"They spent weeks refining the software interface based on user feedback.",
+      "SENT_ZH":"他们花了数周时间根据用户反馈来完善软件界面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "improve",
+            "polish",
+            "hone",
+            "enhance",
+            "perfect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "degrade",
+            "worsen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/general usage"
+}

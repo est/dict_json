@@ -1,0 +1,91 @@
+{
+  "WORD":"fundamental",
+  "IPA":"/ˌfʌndəˈmɛntəl/",
+  "CONJUGATES":"fundamentally (adv) | fundamentality (n)",
+  "ETYMOLOGY":"From Late Middle English, derived from Old French fondamental, ultimately from Late Latin fundamentalis, based on Latin fundamentum ('foundation'), related to fundus ('bottom, base').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"fundamental [adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describing a noun)",
+      "TAGS":[
+        "core word",
+        "essential"
+      ],
+      "DEF_EN":"Forming a necessary base or core; of central importance.",
+      "DEF_ZH":"基础的；根本的；基本的；至关重要的。",
+      "SENT_EN":"Access to clean water is a fundamental human right.",
+      "SENT_ZH":"获得清洁饮用水是一项基本人权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "basic",
+            "essential",
+            "primary",
+            "foundational",
+            "core"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "superficial",
+            "secondary",
+            "nonessential",
+            "ancillary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the fundamentals [n]",
+      "POS":"n",
+      "POS_TIP":"Noun (a person, place, or thing), usually used in the plural.",
+      "TAGS":[
+        "specialized",
+        "plural form common"
+      ],
+      "DEF_EN":"A basic principle, rule, or piece of knowledge.",
+      "DEF_ZH":"基本原理；基础知识；要素。",
+      "SENT_EN":"Before practicing martial arts, you must master the fundamentals.",
+      "SENT_ZH":"在练习武术之前，你必须掌握基本功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "basics",
+            "rudiments",
+            "essentials",
+            "principles"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fundamental [adj] (Physics/Music)",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describing a noun)",
+      "TAGS":[
+        "technical",
+        "acoustics"
+      ],
+      "DEF_EN":"Relating to the lowest or main frequency of a vibrating object, which determines the basic pitch of a note.",
+      "DEF_ZH":"（物理/音乐）基频的；基音的。",
+      "SENT_EN":"The fundamental frequency determines the perceived pitch of the complex tone.",
+      "SENT_ZH":"基频决定了复合音的感知音高。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "overtone",
+            "harmonic",
+            "pitch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

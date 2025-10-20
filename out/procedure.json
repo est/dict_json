@@ -1,0 +1,110 @@
+{
+  "WORD":"procedure",
+  "IPA":"/prəˈsiːdʒər/",
+  "CONJUGATES":"procedures",
+  "ETYMOLOGY":"From Middle French procédure, from procéder (to proceed), ultimately from Latin procedere (pro- 'forward' + cedere 'to go').",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "systematic"
+      ],
+      "DEF_EN":"A series of actions conducted in a certain order or manner; an established or official way of doing something.",
+      "DEF_ZH":"做事的方式、步骤或方法，尤指既定或正式的操作规程。",
+      "SENT_EN":"The manager implemented a new procedure for filing expense reports.",
+      "SENT_ZH":"经理实施了一项新的费用报告归档程序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "method",
+            "process",
+            "protocol",
+            "routine",
+            "system"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "SOP"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[medical sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "medical",
+        "clinical"
+      ],
+      "DEF_EN":"A medical or surgical operation or treatment involving a specific sequence of steps.",
+      "DEF_ZH":"医疗或外科手术（操作），涉及一系列特定的步骤。",
+      "SENT_EN":"They scheduled the patient for a minor diagnostic procedure next week.",
+      "SENT_ZH":"他们安排患者下周进行一项小的诊断性手术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "operation",
+            "treatment",
+            "intervention"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[legal sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"The established methods and rules governing the conduct of court or legal proceedings.",
+      "DEF_ZH":"法院或法律诉讼中使用的既定方法和规则；诉讼程序。",
+      "SENT_EN":"The defense attorney argued that the police had violated proper legal procedure.",
+      "SENT_ZH":"辩护律师辩称警方违反了适当的法律程序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jurisprudence",
+            "due process"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[computing sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"In programming, a set of instructions that performs a specific task within a larger computer program (often interchangeable with function or subroutine).",
+      "DEF_ZH":"在编程中，计算机程序内执行特定任务的一组指令（常与函数或子程序互换使用）。",
+      "SENT_EN":"The main program calls this sorting procedure whenever new data arrives.",
+      "SENT_ZH":"每当新数据到达时，主程序就会调用这个排序过程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "function",
+            "subroutine",
+            "routine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in technical, formal, professional, medical, and legal contexts."
+}

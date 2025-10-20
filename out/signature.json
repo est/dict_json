@@ -1,0 +1,80 @@
+{
+  "WORD":"signature",
+  "IPA":"/ˈsɪɡnətʃər/",
+  "CONJUGATES":"signatures (plural)",
+  "ETYMOLOGY":"From Middle French signature, from Late Latin signatura ('act of signing'), from Latin signare ('to mark, seal').",
+  "SINCE":"c. 1590s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] signature",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"A person's name or a mark representing it, handwritten by that person, used to identify or authorize a document or identity.",
+      "DEF_ZH":"（某人手写的）签名；署名；签字。",
+      "SENT_EN":"He forged his boss's signature on the expense report.",
+      "SENT_ZH":"他伪造了他老板在费用报告上的签名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "autograph",
+            "sign",
+            "mark"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "signatory",
+            "endorsement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth's] signature [n/adj]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "descriptive",
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A distinctive quality, style, or feature that uniquely identifies a person, organization, or product.",
+      "DEF_ZH":"标志性的特征；独特的风格或印记；招牌。",
+      "SENT_EN":"The artist’s signature style involves blending vibrant colors with abstract shapes.",
+      "SENT_ZH":"这位艺术家的标志性风格是将鲜艳的色彩与抽象的形状融合在一起。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hallmark",
+            "trademark",
+            "distinctive feature"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"time signature\nkey signature",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "music",
+        "printing"
+      ],
+      "DEF_EN":"In music, a fraction-like symbol indicating the meter; (In printing) a letter or figure placed at the foot of the first page of a sheet to guide the binder.",
+      "DEF_ZH":"（音乐）拍号；调号；（印刷）帖码。",
+      "SENT_EN":"The composer used an unusual time signature for the opening movement.",
+      "SENT_ZH":"作曲家为开场乐章使用了不寻常的拍号。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"formal and general usage"
+}

@@ -1,0 +1,66 @@
+{
+  "WORD":"describe",
+  "IPA":"/dɪˈskraɪb/",
+  "CONJUGATES":"describes | describing | described",
+  "ETYMOLOGY":"From Middle French descrire, from Latin dēscrībere ('to write down, copy, sketch, define'), from dē- ('down, completely') + scrībere ('to write').",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"describe [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To give a detailed account in words of someone or something, including characteristics, qualities, or events.",
+      "DEF_ZH":"用语言描述某人或某事，包括其特征、品质或发生的事件。",
+      "SENT_EN":"Could you describe the feeling you had when you won the lottery?",
+      "SENT_ZH":"你能描述一下你中彩票时的感受吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narrate",
+            "portray",
+            "relate",
+            "depict",
+            "characterize",
+            "explain"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "description",
+            "describable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"describe [a shape]\ndescribe [a motion]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"To trace or delineate the outline of a figure or shape, or to move in a particular geometric path.",
+      "DEF_ZH":"描绘或勾勒出一个图形或形状的轮廓，或以特定的几何路径移动。",
+      "SENT_EN":"The pendulum describes a smooth arc as it swings.",
+      "SENT_ZH":"摆锤在摆动时描绘出一条平滑的弧线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trace",
+            "outline",
+            "delineate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (academic and daily use)"
+}

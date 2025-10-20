@@ -1,0 +1,110 @@
+{
+  "WORD":"phrase",
+  "IPA":"/freɪz/",
+  "CONJUGATES":"phrases | phrasing | phrased",
+  "ETYMOLOGY":"From Old French phrase, via Latin phrasis, from Ancient Greek φράσις (phrásis, 'speech, diction, manner of expression').",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "linguistics"
+      ],
+      "DEF_EN":"A small group of words standing together as a conceptual unit, typically forming a component of a clause.",
+      "DEF_ZH":"一个由词语组成的小单位，通常构成一个句子的组成部分，表达一个单一的概念。",
+      "SENT_EN":"We analyzed the structure of the noun phrase in the sentence.",
+      "SENT_ZH":"我们分析了句中名词短语的结构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expression",
+            "idiom",
+            "clause"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sentence",
+            "grammar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "saying"
+      ],
+      "DEF_EN":"A short, clever, or memorable statement or remark, especially one frequently used.",
+      "DEF_ZH":"一句简短、巧妙或令人难忘的陈述或评论，尤指经常使用的话。",
+      "SENT_EN":"He keeps repeating the same catchphrase every time he speaks.",
+      "SENT_ZH":"他每次说话都会重复同样的口头禅。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maxim",
+            "motto",
+            "slogan",
+            "epigram"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"phrase [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To express something in a particular manner or style; to word (something).",
+      "DEF_ZH":"以特定的方式或风格表达某事；措辞。",
+      "SENT_EN":"She carefully phrased her rebuttal to avoid causing offense.",
+      "SENT_ZH":"她小心翼翼地措辞了她的反驳，以避免引起冒犯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "articulate",
+            "word",
+            "express"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "music"
+      ],
+      "DEF_EN":"A small, coherent musical unit, often analogous to a linguistic sentence or clause.",
+      "DEF_ZH":"一个短小、连贯的音乐单元，通常类似于语言中的乐句或乐段。",
+      "SENT_EN":"The conductor asked the string section to emphasize the opening phrase.",
+      "SENT_ZH":"指挥要求弦乐部分强调开场的乐句。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "motif",
+            "melody",
+            "passage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

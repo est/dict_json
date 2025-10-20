@@ -1,0 +1,87 @@
+{
+  "WORD":"wine",
+  "IPA":"/waɪn/",
+  "CONJUGATES":"wines | wining | wined",
+  "ETYMOLOGY":"From Old English wīn, ultimately from Latin vīnum, which is thought to derive from a common Mediterranean source, or potentially Proto-Indo-European.",
+  "SINCE":"9th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An alcoholic beverage made by fermenting the juice of grapes, typically categorized as red, white, or rosé.",
+      "DEF_ZH":"通过发酵葡萄汁制成的酒精饮料，通常分为红葡萄酒、白葡萄酒或桃红葡萄酒。",
+      "SENT_EN":"We need to choose a good bottle of white wine to pair with the fish.",
+      "SENT_ZH":"我们需要选一瓶好的白葡萄酒来搭配鱼肉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vino",
+            "grape juice (fermented)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "champagne",
+            "merlot",
+            "cabernet",
+            "port"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of fruit/plant)",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "common",
+        "generalization"
+      ],
+      "DEF_EN":"An alcoholic drink made from the fermented juice of fruits other than grapes, or from other plant sources.",
+      "DEF_ZH":"用葡萄以外的水果汁或其他植物（如米酒、接骨木酒）发酵而成的酒精饮料。",
+      "SENT_EN":"Elderberry wine used to be a very traditional homemade beverage.",
+      "SENT_ZH":"接骨木酒过去是一种非常传统的自制饮品。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sake",
+            "cider",
+            "mead"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wine [sb] and dine [sb]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "verb usage",
+        "idiomatic"
+      ],
+      "DEF_EN":"(Often used in the phrase 'wine and dine') To entertain or treat someone lavishly with food and drink, especially alcohol.",
+      "DEF_ZH":"（常用于短语 'wine and dine'）用美食和饮料，尤其是酒精，奢侈地款待某人。",
+      "SENT_EN":"The company wined and dined the potential investors for three days.",
+      "SENT_ZH":"这家公司用美食和美酒款待了潜在投资者三天。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entertain",
+            "feast",
+            "treat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

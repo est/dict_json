@@ -1,0 +1,80 @@
+{
+  "WORD":"chapter",
+  "IPA":"/'tʃæptər/",
+  "CONJUGATES":"chapters",
+  "ETYMOLOGY":"From Middle English, via Old French *chapitre*, from Latin *capitulum* (diminutive of *caput* 'head').",
+  "SINCE":"c. 1290",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "literary"
+      ],
+      "DEF_EN":"A main division of a book, treatise, or narrative, typically numbered or titled.",
+      "DEF_ZH":"书籍、论文或叙事作品的主要划分部分，通常带有编号或标题。",
+      "SENT_EN":"Read the next chapter for tomorrow's assignment.",
+      "SENT_ZH":"阅读下一章，作为明天的作业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "section",
+            "part",
+            "division",
+            "unit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [in life/history]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A significant period or phase in the history or life of a person, nation, or project.",
+      "DEF_ZH":"一个人、一个国家或一项计划的历史或生命中的一个重要时期或阶段。",
+      "SENT_EN":"Moving abroad started a new chapter in their relationship.",
+      "SENT_ZH":"移居国外开启了他们关系的新篇章。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "period",
+            "phase",
+            "era",
+            "stage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[ecclesiastical/organizational]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "religious"
+      ],
+      "DEF_EN":"An assembly of canons attached to a cathedral or collegiate church, or a local branch of a society or religious order.",
+      "DEF_ZH":"附属于大教堂的教士团集会；或某个社团或宗教团体的分支机构。",
+      "SENT_EN":"The members of the local historical society's chapter held their annual meeting.",
+      "SENT_ZH":"当地历史学会分会的成员举行了他们的年会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "branch",
+            "council"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Literary, Organizational"
+}

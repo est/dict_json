@@ -1,0 +1,88 @@
+{
+  "WORD":"alphabet",
+  "IPA":"/'ælfəˌbet/",
+  "CONJUGATES":"alphabets",
+  "ETYMOLOGY":"From Late Latin alphabetum, derived from the first two letters of the Greek alphabet: alpha (α) and beta (β).",
+  "SINCE":"15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "linguistics"
+      ],
+      "DEF_EN":"A set of standardized characters (letters) used in writing a language, arranged in a fixed, traditional order.",
+      "DEF_ZH":"用于书写某种语言的一套标准化字符（字母），按固定、传统顺序排列。",
+      "SENT_EN":"The English alphabet consists of 26 letters.",
+      "SENT_ZH":"英语字母表由26个字母组成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "characters",
+            "script",
+            "abecedary"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "syllabary",
+            "logogram",
+            "IPA"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the alphabet of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"The most fundamental elements or principles of a subject; the basics or rudiments.",
+      "DEF_ZH":"某一学科或主题的最基本要素或原理；基础知识或入门。",
+      "SENT_EN":"He still needs to learn the alphabet of coding before he can write a program.",
+      "SENT_ZH":"在编写程序之前，他还需要学习编码的基础知识。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fundamentals",
+            "basics",
+            "ABCs",
+            "rudiments"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "math"
+      ],
+      "DEF_EN":"(In formal language theory or computer science) A finite, non-empty set of symbols or characters used to construct strings (words).",
+      "DEF_ZH":"（在形式语言理论或计算机科学中）用于构造字符串（词语）的有限、非空符号集。",
+      "SENT_EN":"The binary alphabet contains only zero and one.",
+      "SENT_ZH":"二进制字母表只包含零和一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "symbol set",
+            "character set"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Academic"
+}

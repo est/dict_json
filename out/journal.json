@@ -1,0 +1,101 @@
+{
+  "WORD":"journal",
+  "IPA":"/'dʒɜːrnəl/",
+  "CONJUGATES":"journals (n. pl.) | journals (v. pres. 3rd sing.) | journaled | journaling",
+  "ETYMOLOGY":"From Old French journal (daily), derived from Latin diurnalis, from dies (day).",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] journal",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A personal record book where one writes daily observations, thoughts, and feelings.",
+      "DEF_ZH":"个人日记或记录簿，用于记录日常观察、想法和感受。",
+      "SENT_EN":"She started keeping a travel journal to remember her adventures.",
+      "SENT_ZH":"她开始写旅行日记来记录她的冒险经历。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "diary",
+            "logbook",
+            "memoir"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[field/subject] journal",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "academic",
+        "professional"
+      ],
+      "DEF_EN":"A periodical publication containing articles, especially on a specific scientific or professional subject.",
+      "DEF_ZH":"针对特定科学或专业主题的定期出版物，尤其包含学术文章和研究。",
+      "SENT_EN":"His research was published in a prestigious medical journal.",
+      "SENT_ZH":"他的研究发表在一本享有盛誉的医学期刊上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "periodical",
+            "magazine",
+            "review"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"general journal\nsales journal",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "accounting",
+        "finance"
+      ],
+      "DEF_EN":"A book of original entry in which business transactions are recorded in chronological order.",
+      "DEF_ZH":"簿记中，按时间顺序记录业务交易的原始记录簿（日记账）。",
+      "SENT_EN":"The accountant posted the monthly transactions from the journal to the ledger.",
+      "SENT_ZH":"会计师将每月的交易从日记账过账到分类账。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ledger",
+            "bookkeeping",
+            "daybook"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"journal [vi]\njournal [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "action"
+      ],
+      "DEF_EN":"To keep a journal or diary; to record thoughts, events, or data chronologically.",
+      "DEF_ZH":"写日记；按时间顺序记录想法、事件或数据。",
+      "SENT_EN":"Many therapists recommend journaling daily to improve mental health.",
+      "SENT_ZH":"许多治疗师建议每天写日记以改善心理健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "write down",
+            "record",
+            "pen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (Academic, Personal, and Business contexts)"
+}

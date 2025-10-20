@@ -1,0 +1,97 @@
+{
+  "WORD":"supply",
+  "IPA":"/sʌˈplaɪ/",
+  "CONJUGATES":"supplies (n/v, 3rd p. sing.) | supplying (v) | supplied (v) | supplies (n. pl.)",
+  "ETYMOLOGY":"From Old French souppleer (to complete, fulfill), derived from Latin supplēre (to fill up, complete, provide what is lacking), formed from sub- ('under, up to') + plēre ('to fill').",
+  "SINCE":"c. 1440",
+  "MEANINGS":[
+    {
+      "PATTERN":"supply [sb/sth] with [sth]\nsupply [sth] to [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To provide or furnish someone or something with what is needed or wanted.",
+      "DEF_ZH":"提供；供应；供给（必需品或所需物品）。",
+      "SENT_EN":"The foundation aims to supply textbooks and learning materials to disadvantaged schools.",
+      "SENT_ZH":"该基金会旨在向弱势学校提供教科书和学习材料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provide",
+            "furnish",
+            "deliver",
+            "provision"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdraw",
+            "withhold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the supply of [sth]\nsupply and demand",
+      "POS":"n",
+      "POS_TIP":"noun (countable, uncountable)",
+      "TAGS":[
+        "core word",
+        "economics",
+        "logistics"
+      ],
+      "DEF_EN":"A stock or quantity of a resource or commodity available for use; the total amount of a good or service available to consumers.",
+      "DEF_ZH":"供应量；储备；存货。（尤其指经济学中可用的商品总量或资源）。",
+      "SENT_EN":"The sudden collapse in the oil supply caused global prices to spike.",
+      "SENT_ZH":"石油供应的突然中断导致全球价格飙升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stock",
+            "reserve",
+            "inventory",
+            "provision"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "demand",
+            "logistics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"supplies",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "common",
+        "specific items"
+      ],
+      "DEF_EN":"Necessary provisions, equipment, or materials needed for a specific activity or expedition.",
+      "DEF_ZH":"物资；补给品；用品（常指为特定活动所需的具体材料）。",
+      "SENT_EN":"Before we hike, we must check that all our emergency medical supplies are present.",
+      "SENT_ZH":"徒步旅行前，我们必须检查所有应急医疗用品是否齐全。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provisions",
+            "stores",
+            "kit",
+            "materials"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and technical (especially in economics and logistics)"
+}

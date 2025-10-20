@@ -1,0 +1,113 @@
+{
+  "WORD":"reduction",
+  "IPA":"/rɪˈdʌkʃən/",
+  "CONJUGATES":"reductions",
+  "ETYMOLOGY":"From Middle English reductioun, from Old French reduction, from Latin reductiōnem (nominative reductiō), meaning 'a leading back, restoration', from reducěre (re- 'back' + dūcěre 'to lead').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"reduction [in amount/size/price]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "general"
+      ],
+      "DEF_EN":"The act or process of making something smaller in size, amount, extent, or degree; a resulting decrease.",
+      "DEF_ZH":"减少；削减；降低（指数量、规模、价格或程度的减小）。",
+      "SENT_EN":"The store is offering a 20% price reduction on all winter clothing.",
+      "SENT_ZH":"这家商店所有冬季服装都提供20%的降价优惠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decrease",
+            "diminution",
+            "cutback",
+            "scaling down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "augmentation",
+            "expansion",
+            "growth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reduction [of sth to sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "academic",
+        "mathematics"
+      ],
+      "DEF_EN":"The conversion of a complex problem, expression, or fraction into a simpler, standard, or equivalent form.",
+      "DEF_ZH":"归约；简化；约分（将复杂的问题或表达式转化为更简单、标准的等效形式）。",
+      "SENT_EN":"The proof required the reduction of the problem to three basic variables.",
+      "SENT_ZH":"这个证明需要将问题归约到三个基本变量上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "simplification",
+            "conversion",
+            "transformation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reduction",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"A chemical reaction involving the gain of electrons by an atom, ion, or molecule, leading to a decrease in its oxidation state. (Often coupled with oxidation in redox reactions).",
+      "DEF_ZH":"还原（化学反应中，原子、离子或分子获得电子，导致其氧化态降低的过程）。",
+      "SENT_EN":"In this process, the metal oxide undergoes reduction to form pure metal.",
+      "SENT_ZH":"在这个过程中，金属氧化物经历还原作用，形成了纯金属。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "oxidation",
+            "redox"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a reduction [of liquid]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "cooking",
+        "specific"
+      ],
+      "DEF_EN":"A process of boiling a liquid (like a sauce or stock) to decrease its volume and concentrate its flavor; also, the resulting thickened, concentrated liquid.",
+      "DEF_ZH":"浓缩（烹饪中通过煮沸减少液体体积并增强风味的过程）；浓缩汁；收汁。",
+      "SENT_EN":"She finished the dish with a port wine reduction.",
+      "SENT_ZH":"她用波特酒浓缩汁为这道菜收尾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concentrate",
+            "glaze",
+            "essence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across general conversation, finance, science, and mathematics."
+}

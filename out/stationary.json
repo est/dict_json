@@ -1,0 +1,73 @@
+{
+  "WORD":"stationary",
+  "IPA":"/ˌsteɪʃəˈnɛri/",
+  "CONJUGATES":"stationarily (adv) | more stationary | most stationary",
+  "ETYMOLOGY":"From Medieval Latin *stationarius* ('of or belonging to a military station'), later 'standing still', derived from Latin *statio* ('a standing still'), related to *stare* ('to stand').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] stationary",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not moving; standing still; fixed in one position.",
+      "DEF_ZH":"静止的；不动的；固定的或打算保持在原地。",
+      "SENT_EN":"A stationary bicycle allows you to cycle indoors without moving forward.",
+      "SENT_ZH":"静止的自行车（即健身车）允许你在室内骑行而无需向前移动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "immobile",
+            "fixed",
+            "still",
+            "motionless"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "moving",
+            "mobile",
+            "dynamic",
+            "transient"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "standstill",
+            "stationarity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] stationary",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "academic"
+      ],
+      "DEF_EN":"(In mathematics, physics, or statistics) Not changing in quantity or condition over time.",
+      "DEF_ZH":"（数学、物理学、统计学）处于稳定状态的；不变的；常态的。",
+      "SENT_EN":"The economist modeled the system as a stationary process.",
+      "SENT_ZH":"这位经济学家将该系统建模为一个平稳过程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "constant",
+            "stable",
+            "unchanging"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in technical or descriptive contexts."
+}

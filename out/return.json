@@ -1,0 +1,127 @@
+{
+  "WORD":"return",
+  "IPA":"/rɪˈtɜːrn/",
+  "CONJUGATES":"returns | returning | returned (verb) | returns (noun plural)",
+  "ETYMOLOGY":"From Middle English, derived from Old French *retorner*, combining *re-* ('back, again') and *torner* ('to turn').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"return [to sw]",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb, requiring no direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To come or go back to a place or person.",
+      "DEF_ZH":"返回；回到（某地或某人身边）。",
+      "SENT_EN":"They returned home after a long journey.",
+      "SENT_ZH":"长途旅行后他们回到了家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "come back",
+            "go back"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "depart",
+            "leave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"return [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb, taking a direct object.",
+      "TAGS":[
+        "core word",
+        "commerce"
+      ],
+      "DEF_EN":"To give, send, or put something back to its original location or owner.",
+      "DEF_ZH":"退回；归还；送回。",
+      "SENT_EN":"You can return the merchandise within 30 days for a full refund.",
+      "SENT_ZH":"您可以在 30 天内退回商品以获得全额退款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "give back",
+            "restore",
+            "hand back"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"return [to sth]",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb, requiring no direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To revert to a previous state, activity, or topic.",
+      "DEF_ZH":"恢复（状态）；再次开始（活动或话题）。",
+      "SENT_EN":"Let's return to the main subject of the meeting.",
+      "SENT_ZH":"让我们回到会议的主要议题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revert",
+            "resume"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the return [of sth/sb]",
+      "POS":"nc/nu",
+      "POS_TIP":"Countable/Uncountable noun.",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"The action of coming or going back to a place or person.",
+      "DEF_ZH":"返回；归来。",
+      "SENT_EN":"The crowd cheered at the highly anticipated return of the champion.",
+      "SENT_ZH":"人群为期待已久的冠军的回归而欢呼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "homecoming",
+            "reentry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a return [on investment]",
+      "POS":"nc/nu",
+      "POS_TIP":"Countable/Uncountable noun.",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"A profit from an investment or business venture.",
+      "DEF_ZH":"收益；回报；利润。",
+      "SENT_EN":"Investors expect a high return on their startup funding.",
+      "SENT_ZH":"投资者期望他们的创业投资能获得高回报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yield",
+            "profit",
+            "gain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Business/Finance"
+}

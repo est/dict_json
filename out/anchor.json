@@ -1,0 +1,101 @@
+{
+  "WORD":"anchor",
+  "IPA":"/ˈæŋkər/",
+  "CONJUGATES":"anchors | anchoring | anchored",
+  "ETYMOLOGY":"From Old English ancor, ultimately from Latin ancora, which comes from Greek ánkyra 'hook, curved object'.",
+  "SINCE":"Before 12th century (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (often a ship)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "nautical"
+      ],
+      "DEF_EN":"A heavy object, typically metal, attached to a boat or ship by a cable or chain and dropped to the seabed to prevent the vessel from drifting.",
+      "DEF_ZH":"一种通常是金属制的重物，附有缆绳或链条，投向海底以固定船只或舰艇，防止其漂移。",
+      "SENT_EN":"The ship dropped anchor just outside the harbor limits.",
+      "SENT_ZH":"那艘船在港口界限外抛锚停泊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mooring",
+            "kedge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"anchor [sth]\n[sth] is anchored",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "nautical"
+      ],
+      "DEF_EN":"To secure a vessel, object, or structure firmly in a specific position.",
+      "DEF_ZH":"将船只、物体或结构牢固地固定在特定位置（抛锚，固定）。",
+      "SENT_EN":"They anchored the large tent firmly to the ground.",
+      "SENT_ZH":"他们把这个大帐篷牢牢地固定在地上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moor",
+            "fasten",
+            "secure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A source of stability, support, or confidence in an uncertain or difficult situation.",
+      "DEF_ZH":"在不确定或困难的情况下提供稳定、支持或信心的来源（精神支柱）。",
+      "SENT_EN":"His deep religious faith served as his anchor during his illness.",
+      "SENT_ZH":"在他生病期间，他深厚的宗教信仰是他的精神支柱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mainstay",
+            "support",
+            "pillar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "media",
+        "profession"
+      ],
+      "DEF_EN":"A person who presents a news program, coordinating the segments and delivering the primary narration. (Short for anchorperson.)",
+      "DEF_ZH":"负责播报新闻节目、协调各部分内容并提供主要叙述的主持人（新闻主播）。",
+      "SENT_EN":"The popular anchor retired after thirty years in broadcasting.",
+      "SENT_ZH":"那位受欢迎的主播在从事广播业三十年后退休了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "host",
+            "presenter",
+            "broadcaster"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Nautical/Media"
+}

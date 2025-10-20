@@ -1,0 +1,74 @@
+{
+  "WORD":"specialist",
+  "IPA":"/ˈspɛʃəlɪst/",
+  "CONJUGATES":"specialists",
+  "ETYMOLOGY":"From English 'special' (from Old French 'special', from Latin 'specialis') + suffix '-ist' (from Ancient Greek '-istes'). First attested in the sense of a person specializing in a particular branch of study or work.",
+  "SINCE":"Mid-19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] specialist [in sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who is an expert in a particular area of work or study.",
+      "DEF_ZH":"在特定工作领域或研究方向上拥有专业知识或技能的人；专家。",
+      "SENT_EN":"She is a marketing specialist with years of experience in the tech industry.",
+      "SENT_ZH":"她是一位在科技行业拥有多年经验的市场营销专家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expert",
+            "authority",
+            "professional",
+            "guru",
+            "master"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "generalist",
+            "amateur",
+            "novice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] medical specialist\n[a] heart specialist",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"A doctor who is trained in a particular area of medicine.",
+      "DEF_ZH":"专门从事医学某一特定领域的医生。",
+      "SENT_EN":"He was referred to a heart specialist for his condition.",
+      "SENT_ZH":"他被转介给一位心脏病专家治疗他的病情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consultant",
+            "attending physician"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cardiologist",
+            "dermatologist",
+            "pediatrician",
+            "surgeon"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to neutral; widely used in professional, academic, and medical contexts."
+}

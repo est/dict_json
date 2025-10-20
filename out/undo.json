@@ -1,0 +1,97 @@
+{
+  "WORD":"undo",
+  "IPA":"/ʌnˈduː/",
+  "CONJUGATES":"undoes | undid | undone | undoing",
+  "ETYMOLOGY":"From Old English undōn (un- 'not, reversal' + dōn 'do'), indicating reversal of action.",
+  "SINCE":"Before 12th century (O.E. *undōn*)",
+  "MEANINGS":[
+    {
+      "PATTERN":"undo [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"To reverse the effect of a previous action or command (especially on a computer or machine).",
+      "DEF_ZH":"撤销；取消（先前操作或命令的效果）。",
+      "SENT_EN":"If you make a mistake, you can usually click the 'undo' button.",
+      "SENT_ZH":"如果你犯了错误，通常可以点击“撤销”按钮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reverse",
+            "cancel",
+            "withdraw"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Redo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"undo [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To unfasten, untie, or open something that was tied, fastened, or zipped.",
+      "DEF_ZH":"解开；松开；打开（扣子、绳结、拉链等）。",
+      "SENT_EN":"She tried to undo the complicated knot in the rope.",
+      "SENT_ZH":"她试图解开绳子上那个复杂的结。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unfasten",
+            "untie",
+            "unzip",
+            "unbutton"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fasten",
+            "tie",
+            "do up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"undo [sb]\nundo [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "figurative",
+        "literary",
+        "serious"
+      ],
+      "DEF_EN":"To bring about the ruin or destruction of someone or something; to negate all previous success or achievements.",
+      "DEF_ZH":"毁掉；使（某人）败落或潦倒；抵消。",
+      "SENT_EN":"His single moment of folly threatened to undo years of hard work.",
+      "SENT_ZH":"他一时糊涂的举动可能会毁掉多年的努力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ruin",
+            "destroy",
+            "wreck",
+            "negate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, very common in computing contexts."
+}

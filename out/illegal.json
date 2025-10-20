@@ -1,0 +1,73 @@
+{
+  "WORD":"illegal",
+  "IPA":"/ɪˈliːɡəl/",
+  "CONJUGATES":"illegally (adv) | illegality (n)",
+  "ETYMOLOGY":"From Medieval Latin *illegālis*, formed from Latin *il-* (variant of *in-*, meaning 'not') + *legālis* ('legal').",
+  "SINCE":"Mid-17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is illegal\nillegal [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (a word naming an attribute of a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Contrary to or forbidden by law, especially criminal law.",
+      "DEF_ZH":"违法的；非法的；不合法的。",
+      "SENT_EN":"It is strictly illegal to drive without insurance in this state.",
+      "SENT_ZH":"在这个州，无保险驾驶是严格违法的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unlawful",
+            "illicit",
+            "criminal",
+            "forbidden"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "legal",
+            "lawful",
+            "permissible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"illegal [person/status]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (a word naming an attribute of a noun)",
+      "TAGS":[
+        "social context",
+        "context-dependent"
+      ],
+      "DEF_EN":"Relating to a person or their status within a jurisdiction without the proper authorization or documentation.",
+      "DEF_ZH":"（指人或其身份）未经许可的；无合法身份的；非法的。",
+      "SENT_EN":"They were caught trying to cross the border as illegal immigrants.",
+      "SENT_ZH":"他们试图以非法移民的身份越境时被抓获。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unauthorized",
+            "undocumented",
+            "unlawful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "documented",
+            "authorized",
+            "citizen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Legal, Political, Journalistic"
+}

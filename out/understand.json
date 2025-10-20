@@ -1,0 +1,88 @@
+{
+  "WORD":"understand",
+  "IPA":"/ˌʌndərˈstænd/",
+  "CONJUGATES":"understands | understanding | understood",
+  "ETYMOLOGY":"From Old English understandan, likely formed from under- (perhaps in the sense of 'among, between') + standan ('to stand'), meaning originally 'to stand in the midst of' something to grasp its meaning.",
+  "SINCE":"Before 1000 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"understand [sth]\nunderstand [that clause]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "cognitive"
+      ],
+      "DEF_EN":"To perceive the intended meaning, explanation, or nature of something or someone; to grasp mentally.",
+      "DEF_ZH":"领会；明白；懂得；理解(某事物的含义或性质)。",
+      "SENT_EN":"It took me a while to understand the rules of the game.",
+      "SENT_ZH":"我花了一段时间才明白游戏的规则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "comprehend",
+            "grasp",
+            "perceive",
+            "fathom"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misunderstand",
+            "miss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"understand [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "empathy",
+        "social"
+      ],
+      "DEF_EN":"To be aware of, or sensitive to, someone's feelings, motives, or situation, often implying sympathy or tolerance.",
+      "DEF_ZH":"体谅；同情；理解（某人的感受或处境）。",
+      "SENT_EN":"I understand your disappointment after all that hard work.",
+      "SENT_ZH":"我理解你付出了所有努力后感到失望的心情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sympathize",
+            "appreciate",
+            "empathize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"understand [that clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "knowledge",
+        "formal"
+      ],
+      "DEF_EN":"To hear, be told, or infer something, generally accepting it as true or assumed knowledge.",
+      "DEF_ZH":"获悉；听说；推定（将某事视为事实）。",
+      "SENT_EN":"We understand that the package will be delivered sometime next week.",
+      "SENT_ZH":"我们获悉包裹将于下周的某个时间送达。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gather",
+            "infer",
+            "hear",
+            "be informed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

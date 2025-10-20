@@ -1,0 +1,130 @@
+{
+  "WORD":"positive",
+  "IPA":"/ˈpɑːzɪtɪv/",
+  "CONJUGATES":"positively (adv) | positiveness (n) | positivity (n) | more positive (adj) | most positive (adj)",
+  "ETYMOLOGY":"From Late Latin positīvus (fixed, settled), from Latin positus, past participle of pōnere (to place, lay down, establish). Its meaning shifted in the 17th century to include 'optimistic' or 'constructive'.",
+  "SINCE":"Late 14th century (established/fixed); Mid-17th century (optimistic)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth] positive",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Characterized by optimism, agreement, or constructive behavior; feeling good or hopeful.",
+      "DEF_ZH":"积极的；乐观的；肯定的（回应或态度）。",
+      "SENT_EN":"We need to maintain a positive attitude during this difficult project.",
+      "SENT_ZH":"在这个艰难的项目中，我们需要保持积极的态度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "optimistic",
+            "constructive",
+            "favorable",
+            "upbeat"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "negative",
+            "pessimistic",
+            "unfavorable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be positive about [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "certainty",
+        "common"
+      ],
+      "DEF_EN":"Completely certain; confident that something is true or definite.",
+      "DEF_ZH":"确定的；无疑的；有把握的。",
+      "SENT_EN":"Are you positive that you locked the door before we left?",
+      "SENT_ZH":"你确定我们离开前锁门了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "certain",
+            "definite",
+            "sure",
+            "absolute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"positive [charge] / test positive for [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "science",
+        "medicine",
+        "technical"
+      ],
+      "DEF_EN":"Indicating the presence of a specific substance, condition, or organism; having an electrical charge opposite to that of an electron.",
+      "DEF_ZH":"（检测结果）阳性的；（电荷）正的；阳性的。",
+      "SENT_EN":"The doctor confirmed the patient tested positive for the allergy.",
+      "SENT_ZH":"医生确认病人的过敏原检测呈阳性。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "negative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"positive [number]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "math",
+        "technical"
+      ],
+      "DEF_EN":"Relating to a quantity greater than zero.",
+      "DEF_ZH":"正的；大于零的。",
+      "SENT_EN":"In mathematics, only positive numbers have real square roots.",
+      "SENT_ZH":"在数学中，只有正数才有实数平方根。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "negative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a positive",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "photography",
+        "rare"
+      ],
+      "DEF_EN":"A photographic image that shows the tones and colors as they appear in the original scene, unlike a negative.",
+      "DEF_ZH":"正片；正像。",
+      "SENT_EN":"The photographer developed the positive from the film.",
+      "SENT_ZH":"摄影师从胶卷冲洗出了正片。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "negative"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across all registers, particularly common in psychology, medicine, and mathematics."
+}

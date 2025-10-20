@@ -1,0 +1,80 @@
+{
+  "WORD":"protect",
+  "IPA":"/prəˈtɛkt/",
+  "CONJUGATES":"protects | protecting | protected",
+  "ETYMOLOGY":"From Latin prōtegere (prō- 'in front, before' + tegere 'to cover').",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"protect [sb]\nprotect [sth] (from/against [sth])",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb (takes a direct object); prep: preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To keep safe from harm, injury, damage, or danger.",
+      "DEF_ZH":"保护；保卫；使免受伤害、损害或危险。",
+      "SENT_EN":"It is crucial to wear sunscreen to protect your skin from UV rays.",
+      "SENT_ZH":"涂抹防晒霜对保护皮肤免受紫外线伤害至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guard",
+            "shield",
+            "safeguard",
+            "defend"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "endanger",
+            "expose",
+            "harm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"protect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object)",
+      "TAGS":[
+        "formal",
+        "legal",
+        "economics"
+      ],
+      "DEF_EN":"To maintain or guarantee financial security or political stability by limiting competition or insuring against loss.",
+      "DEF_ZH":"（通过法律、政策或经济手段）保障；保护（市场、利益或权利）。",
+      "SENT_EN":"The new law was designed to protect consumer rights against fraudulent companies.",
+      "SENT_ZH":"这项新法律旨在保护消费者权利不受欺诈公司的侵害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preserve",
+            "insure",
+            "secure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"protect [sth] (a score/lead)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object)",
+      "TAGS":[
+        "jargon",
+        "sports"
+      ],
+      "DEF_EN":"In sports, to maintain a lead or advantage against an opponent, often defensively.",
+      "DEF_ZH":"（体育运动中）保持或捍卫（领先优势或比分）。",
+      "SENT_EN":"After scoring the penalty kick, the team focused solely on protecting their one-point lead.",
+      "SENT_ZH":"在射入点球后，该队把全部注意力放在保持他们的一分优势上。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Formal"
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"consider",
+  "IPA":"/kənˈsɪdər/",
+  "CONJUGATES":"considers | considering | considered",
+  "ETYMOLOGY":"From Old French considérer, derived from Latin considerare ('to look closely at, observe'), possibly formed from com- ('with, together') and sidus (stem sider-) meaning 'star, constellation' (suggesting an original meaning of 'to observe the stars').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"consider [sth]\nconsider doing [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object); vintr: intransitive verb",
+      "TAGS":[
+        "core word",
+        "decision-making"
+      ],
+      "DEF_EN":"To think carefully about something, typically before making a decision or expressing a judgment.",
+      "DEF_ZH":"仔细思考某事，尤其是在做决定或表达判断之前。",
+      "SENT_EN":"We need time to consider the proposal fully before we vote.",
+      "SENT_ZH":"在投票之前，我们需要时间来充分考虑这项提议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ponder",
+            "deliberate",
+            "weigh up",
+            "reflect on"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "consideration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consider [sb] / [sth] (to be) [adj] / [noun]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "deeming",
+        "formal"
+      ],
+      "DEF_EN":"To regard or deem someone or something to be in a particular state or possess a particular quality.",
+      "DEF_ZH":"认为某人或某事处于某种特定状态或具有某种特定品质；视为。",
+      "SENT_EN":"I consider him (to be) a close friend, despite our recent disagreement.",
+      "SENT_ZH":"尽管我们最近发生了争执，我仍认为他是一位亲密的朋友。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deem",
+            "regard as",
+            "judge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consider [sth] (e.g., factors, circumstances)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "taking into account",
+        "practical"
+      ],
+      "DEF_EN":"To take a particular fact or aspect into account when making a judgment or calculation.",
+      "DEF_ZH":"在做判断或计算时，将某一特定事实或方面纳入考量或考虑范围。",
+      "SENT_EN":"When setting the price, you must consider the operating costs.",
+      "SENT_ZH":"在制定价格时，你必须考虑运营成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "factor in",
+            "account for",
+            "bear in mind"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in academic, professional, and daily conversation."
+}

@@ -1,0 +1,126 @@
+{
+  "WORD":"incline",
+  "IPA":"/ɪnˈklaɪn/",
+  "CONJUGATES":"inclines | inclined | inclining",
+  "ETYMOLOGY":"From Middle English inclinen, from Old French incliner, from Latin inclinare ('to lean towards, bend, stoop, incline'), from in- ('into, towards') + clinare ('to lean, bend').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"incline to [do sth]",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To feel willing or favorably disposed; to have a tendency or preference.",
+      "DEF_ZH":"倾向于；有意向做某事；倾向于某种观点或行为。",
+      "SENT_EN":"I incline to agree with her assessment of the situation.",
+      "SENT_ZH":"我倾向于同意她对情况的评估。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tend",
+            "lean",
+            "prefer",
+            "be disposed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disinclined",
+            "averse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"incline [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To persuade or dispose someone to a particular action or point of view.",
+      "DEF_ZH":"使（某人）倾向于；使（某人）愿意做某事或接受某种观点。",
+      "SENT_EN":"His kindness inclined her to trust him.",
+      "SENT_ZH":"他的善良使她倾向于信任他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "persuade",
+            "influence",
+            "dispose",
+            "prompt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"incline [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive or intransitive verb: a verb that may or may not take a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "general"
+      ],
+      "DEF_EN":"To lean, bend, or cause to lean or bend; to bow (one's head or body).",
+      "DEF_ZH":"（使）倾斜；（使）弯曲；（使）低头或鞠躬。",
+      "SENT_EN":"She inclined her head in agreement.",
+      "SENT_ZH":"她低头表示同意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lean",
+            "bend",
+            "bow",
+            "tilt",
+            "slope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an incline",
+      "POS":"n",
+      "POS_TIP":"noun: a word that represents a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "common",
+        "general"
+      ],
+      "DEF_EN":"A slope or gradient; an inclined surface or road.",
+      "DEF_ZH":"倾斜面；斜坡；坡道。",
+      "SENT_EN":"The car struggled to climb the steep incline.",
+      "SENT_ZH":"汽车努力爬上陡峭的斜坡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slope",
+            "gradient",
+            "ramp",
+            "hill"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "decline",
+            "flatland",
+            "level"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with some formal contexts for the verb meanings."
+}

@@ -1,0 +1,107 @@
+{
+  "WORD":"pressure",
+  "IPA":"/'prɛʃər/",
+  "CONJUGATES":"pressures | pressured | pressuring",
+  "ETYMOLOGY":"From Old French pressure (via Medieval Latin pressura), derived from Latin premere 'to press'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] pressure",
+      "POS":"nu | nc",
+      "POS_TIP":"noun uncountable | noun countable",
+      "TAGS":[
+        "core word",
+        "science",
+        "physics"
+      ],
+      "DEF_EN":"The continuous physical force exerted on or against an object by something in contact with it, measured as force per unit area.",
+      "DEF_ZH":"与物体接触的事物对该物体施加的持续物理力，通常以每单位面积的力来衡量。",
+      "SENT_EN":"Atmospheric pressure is lower at high altitudes.",
+      "SENT_ZH":"在高海拔地区，大气压力较低。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "force",
+            "stress",
+            "tension",
+            "load"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] under pressure\nput pressure on [sb]",
+      "POS":"nu",
+      "POS_TIP":"noun uncountable",
+      "TAGS":[
+        "common",
+        "psychology"
+      ],
+      "DEF_EN":"A state of stress or urgency caused by demands, expectations, or difficult circumstances.",
+      "DEF_ZH":"由要求、期望或困难环境造成的压力或紧迫状态。",
+      "SENT_EN":"Students often feel tremendous pressure to succeed in exams.",
+      "SENT_ZH":"学生们常常感到巨大的压力，希望在考试中取得成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strain",
+            "stress",
+            "anxiety",
+            "difficulty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"apply pressure\npolitical pressure",
+      "POS":"nu",
+      "POS_TIP":"noun uncountable",
+      "TAGS":[
+        "politics",
+        "business"
+      ],
+      "DEF_EN":"The use of persuasion, influence, or intimidation to make someone do something.",
+      "DEF_ZH":"使用说服、影响或恐吓来迫使某人做某事。",
+      "SENT_EN":"International pressure was applied to the regime to release political prisoners.",
+      "SENT_ZH":"国际社会对该政权施加压力，要求释放政治犯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coercion",
+            "leverage",
+            "influence",
+            "persuasion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pressure [sb] into [doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "verb form",
+        "common"
+      ],
+      "DEF_EN":"To compel or try forcefully to persuade someone to do something.",
+      "DEF_ZH":"强制或试图强力说服某人做某事。",
+      "SENT_EN":"The salespeople pressured me into buying a product I didn't need.",
+      "SENT_ZH":"销售人员胁迫我购买了我不需要的产品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compel",
+            "force",
+            "urge",
+            "browbeat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, and Technical (Physics)"
+}

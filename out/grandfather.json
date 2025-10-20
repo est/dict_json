@@ -1,0 +1,100 @@
+{
+  "WORD":"grandfather",
+  "IPA":"/ˈɡræn(d)ˌfɑːðər/",
+  "CONJUGATES":"grandfathers",
+  "ETYMOLOGY":"Compound of 'grand-' (from Anglo-Norman/Old French grand, meaning 'great' or 'large', used here to indicate a generation removed) and 'father' (from Old English fæder). Attested since the Middle Ages.",
+  "SINCE":"c. 1300s (in various forms)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s grandfather",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "kinship",
+        "common"
+      ],
+      "DEF_EN":"The father of one's father or mother.",
+      "DEF_ZH":"祖父或外祖父；祖辈的男性长辈。",
+      "SENT_EN":"My grandfather taught me how to fish when I was five.",
+      "SENT_ZH":"我祖父在我五岁时教我如何钓鱼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grandpa",
+            "granddad",
+            "gramps",
+            "paternal grandfather",
+            "maternal grandfather"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "grandchild"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "grandmother",
+            "parent",
+            "ancestor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the grandfather of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "extended use",
+        "formal"
+      ],
+      "DEF_EN":"The original or earliest influential example of something; a pioneering forerunner or originator.",
+      "DEF_ZH":"（某事物或思想的）鼻祖，创始人，先驱。",
+      "SENT_EN":"He is often considered the grandfather of modern robotics.",
+      "SENT_ZH":"他常被认为是现代机器人学的鼻祖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pioneer",
+            "founder",
+            "originator",
+            "forerunner",
+            "father"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grandfather [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "policy",
+        "rare"
+      ],
+      "DEF_EN":"To exempt something from a new rule or regulation because it was in existence before the rule was implemented (often passive: 'to be grandfathered in').",
+      "DEF_ZH":"（使某事物）免受新规管束（因其在新规生效前已存在）。",
+      "SENT_EN":"Existing buildings were grandfathered into the new energy efficiency standards.",
+      "SENT_ZH":"现有建筑免受新能效标准的约束。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "grandfather clause",
+            "exempt",
+            "waive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage for meaning 1; academic or journalistic for meaning 2; specialized (legal/policy) for meaning 3."
+}

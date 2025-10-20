@@ -1,0 +1,75 @@
+{
+  "WORD":"hay",
+  "IPA":"/heɪ/",
+  "CONJUGATES":"hays | hayed | haying",
+  "ETYMOLOGY":"From Old English hīeg, hēg 'grass cut and dried for fodder', from Proto-Germanic *haujam (compare Dutch hooi, German Heu). Related to hew (to cut).",
+  "SINCE":"Before 9th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"hay",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Grass that has been mown and dried for use as animal fodder.",
+      "DEF_ZH":"割下并晒干用作牲畜饲料的草。",
+      "SENT_EN":"The farmer stored the hay in the barn for the winter.",
+      "SENT_ZH":"农民把干草储存在谷仓里过冬。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fodder",
+            "forage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"to hay [a field]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "common",
+        "agriculture"
+      ],
+      "DEF_EN":"To cut, dry, and store grass or other plants for hay.",
+      "DEF_ZH":"割草并晒干储存起来（作饲料）。",
+      "SENT_EN":"They spent the whole day haying the fields before the rain.",
+      "SENT_ZH":"他们在下雨前花了一整天时间收割和晾晒田里的干草。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mow",
+            "harvest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make hay while the sun shines",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To make good use of an opportunity while it lasts.",
+      "DEF_ZH":"趁着有利时机好好利用；及时行乐。",
+      "SENT_EN":"We should make hay while the sun shines and finish this project quickly.",
+      "SENT_ZH":"我们应该趁热打铁，尽快完成这个项目。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "carpe diem"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

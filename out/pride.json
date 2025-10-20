@@ -1,0 +1,114 @@
+{
+  "WORD":"pride",
+  "IPA":"/praɪd/",
+  "CONJUGATES":"prides | priding | prided",
+  "ETYMOLOGY":"From Middle English pryde, from Old English prȳte ('pride'), related to Old English prūd ('proud').",
+  "SINCE":"c. 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] pride [in sth]",
+      "POS":"nu",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "emotion",
+        "positive connotation"
+      ],
+      "DEF_EN":"A feeling of deep pleasure or satisfaction derived from one's own achievements, the achievements of those with whom one is closely associated, or from qualities that one admires.",
+      "DEF_ZH":"因自己的成就、与自己相关的人的成就或所欣赏的品质而产生的深切的喜悦或满足感；自豪。",
+      "SENT_EN":"She felt a surge of pride watching her daughter graduate.",
+      "SENT_ZH":"看着女儿毕业，她感到一阵自豪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "satisfaction",
+            "self-respect",
+            "joy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "shame",
+            "humility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] pride",
+      "POS":"nu",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "negative connotation",
+        "vice",
+        "religious concept"
+      ],
+      "DEF_EN":"A conceited sense of one's superiority, which often leads to arrogance or hubris (considered one of the Seven Deadly Sins).",
+      "DEF_ZH":"对自身优越性的一种过度的自负感，通常会导致傲慢或狂妄自大。",
+      "SENT_EN":"His personal pride prevented him from apologizing for the mistake.",
+      "SENT_ZH":"他个人的傲慢使他无法为自己的错误道歉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrogance",
+            "vanity",
+            "hubris"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "modesty",
+            "meekness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pride [oneself] on [sth]",
+      "POS":"vtr + refl + prep",
+      "POS_TIP":"transitive verb + reflexive pronoun + preposition",
+      "TAGS":[
+        "common use",
+        "idiomatic"
+      ],
+      "DEF_EN":"To feel or express intense satisfaction in an achievement, quality, or possession.",
+      "DEF_ZH":"为某事或某品质感到自豪（通常用于反身句）。",
+      "SENT_EN":"The restaurant owner prides himself on the freshness of the ingredients.",
+      "SENT_ZH":"这家餐厅的老板以食材的新鲜度而自豪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "boast",
+            "glory"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "proud"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pride of [lions]",
+      "POS":"nc",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "collective noun",
+        "zoology"
+      ],
+      "DEF_EN":"A collective noun for a group of lions.",
+      "DEF_ZH":"一群狮子的集合名词；狮群。",
+      "SENT_EN":"The cameraman captured footage of the entire pride resting near the waterhole.",
+      "SENT_ZH":"摄影师拍摄到了整个狮群在水坑附近休息的画面。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

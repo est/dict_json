@@ -1,0 +1,100 @@
+{
+  "WORD":"streak",
+  "IPA":"/striːk/",
+  "CONJUGATES":"streaks | streaking | streaked",
+  "ETYMOLOGY":"From Middle English streke, related to Old English strica (a line, stroke) and Old Norse striki (a line, boundary). Ultimately Germanic.",
+  "SINCE":"Late Middle Ages (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "descriptive"
+      ],
+      "DEF_EN":"A long, thin mark or line of a different color or substance from its surroundings.",
+      "DEF_ZH":"长条纹；线状痕迹。",
+      "SENT_EN":"A bright streak of sunlight appeared through the clouds.",
+      "SENT_ZH":"一道明亮的阳光穿过云层。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stripe",
+            "band",
+            "line"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [adj] streak",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "sports",
+        "gaming"
+      ],
+      "DEF_EN":"A continuous period of specified success or lack of success; a run.",
+      "DEF_ZH":"连续的一段时间（尤指好运或坏运的连续）。",
+      "SENT_EN":"The baseball team is currently on a 10-game winning streak.",
+      "SENT_ZH":"这支棒球队目前保持着10场连胜的纪录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "run",
+            "succession",
+            "series"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hot streak",
+            "losing streak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"streak [sth] (with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "standard"
+      ],
+      "DEF_EN":"To mark or cover something with streaks.",
+      "DEF_ZH":"使...布满条纹或痕迹。",
+      "SENT_EN":"Her hair was streaked with grey after years of hard work.",
+      "SENT_ZH":"多年辛苦工作后，她的头发中已夹杂着灰白的条纹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stripe",
+            "line",
+            "blot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"streak (around/through)",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"To run naked in a public place as a joke, a protest, or a dare.",
+      "DEF_ZH":"（尤指作为玩笑或挑战）在公共场所裸奔。",
+      "SENT_EN":"The police arrested the student who tried to streak across the stadium during the final match.",
+      "SENT_ZH":"警察逮捕了试图在决赛期间裸奔穿过体育场的学生。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, often used in Sports and Informal contexts"
+}

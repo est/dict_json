@@ -1,0 +1,94 @@
+{
+  "WORD":"fetch",
+  "IPA":"/fɛtʃ/",
+  "CONJUGATES":"fetches | fetching | fetched",
+  "ETYMOLOGY":"From Middle English fecchen, earlier fecce, replacing Old English fetian, fetan (to bring, lead, marry).",
+  "SINCE":"c. 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"fetch [sb]\nfetch [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Go to a place, get something or someone, and bring them back.",
+      "DEF_ZH":"去某个地方，取回某物或某人，并带回来；取来，拿来。",
+      "SENT_EN":"Could you fetch the mail from the mailbox when you go outside?",
+      "SENT_ZH":"你出去的时候能把邮箱里的邮件取来吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retrieve",
+            "collect",
+            "get",
+            "go for"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deposit",
+            "leave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fetch [a price]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "financial",
+        "business"
+      ],
+      "DEF_EN":"To be sold for or realize a specified price or value.",
+      "DEF_ZH":"（卖出时）卖得（某价）；实现（某价值）。",
+      "SENT_EN":"The rare stamp is expected to fetch thousands of dollars at auction.",
+      "SENT_ZH":"这枚珍稀邮票预计将在拍卖会上拍出数千美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "realize",
+            "command",
+            "sell for",
+            "bring"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fetch",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "specific context",
+        "pets"
+      ],
+      "DEF_EN":"(Of a dog) To retrieve a thrown object as a command or game.",
+      "DEF_ZH":"（狗）叼回（被扔出去的物体），作为命令或游戏。",
+      "SENT_EN":"We played fetch in the park until the dog was tired.",
+      "SENT_ZH":"我们在公园里玩叼球游戏，直到狗累了为止。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"the fetch of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "meteorology",
+        "nautical"
+      ],
+      "DEF_EN":"The horizontal distance over water or land that wind blows in a constant direction, affecting wave height.",
+      "DEF_ZH":"风程；风吹程（风在水面上无阻碍地吹过的距离）。",
+      "SENT_EN":"The limited fetch on the lake prevented the formation of large waves.",
+      "SENT_ZH":"湖面上有限的风程阻碍了巨浪的形成。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, with specific application in finance and meteorology."
+}

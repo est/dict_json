@@ -1,0 +1,103 @@
+{
+  "WORD":"strand",
+  "IPA":"/strænd/",
+  "CONJUGATES":"strands | stranding | stranded",
+  "ETYMOLOGY":"Two distinct origins: 1. (Shore/Verb) From Old English strand (shore, beach). 2. (Thread/Fiber) Related to Dutch or Low German words referring to lengths or skeins.",
+  "SINCE":"pre-900 CE (for shore meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"A strand [of hair/wire/yarn]",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A single thin length of something such as thread, wire, hair, or fiber.",
+      "DEF_ZH":"一股，一缕（线、发、纤维等）。",
+      "SENT_EN":"She noticed a single silver strand in her otherwise dark hair.",
+      "SENT_ZH":"她在自己乌黑的头发中发现了一根白发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fiber",
+            "filament",
+            "thread",
+            "wick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strand [sb]\nstrand [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"verb transitive | verb intransitive",
+      "TAGS":[
+        "common",
+        "marine"
+      ],
+      "DEF_EN":"To leave someone or something in a place from which they cannot leave (often due to lack of transport or funds); or, for a boat, to run aground.",
+      "DEF_ZH":"使滞留，使受困；（船只）搁浅。",
+      "SENT_EN":"The accident stranded the driver miles from help.",
+      "SENT_ZH":"这场事故使司机被困在离求助地数英里远的地方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maroon",
+            "abandon",
+            "ground"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A strand [of policy/argument]",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"An element that forms part of a complex whole, especially a narrative or policy.",
+      "DEF_ZH":"要素；线索；（故事或计划的）组成部分。",
+      "SENT_EN":"Historians have identified several key strands in the development of modern philosophy.",
+      "SENT_ZH":"历史学家们已经确定了现代哲学发展中的几个关键要素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "element",
+            "component",
+            "theme"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The strand [of the coast]",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "literary",
+        "old word"
+      ],
+      "DEF_EN":"The shore or beach of a sea, lake, or large river.",
+      "DEF_ZH":"海岸，海滨；河岸（多用于文学作品）。",
+      "SENT_EN":"We walked along the strand, watching the sun set over the water.",
+      "SENT_ZH":"我们沿着海滩行走，看着太阳沉入水面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shore",
+            "beach",
+            "coast"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in descriptive writing or related to travel/marine contexts."
+}

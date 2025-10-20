@@ -1,0 +1,95 @@
+{
+  "WORD":"dairy",
+  "IPA":"/ˈdɛri/",
+  "CONJUGATES":"dairies (pl.)",
+  "ETYMOLOGY":"From Middle English deyeri, from Old English dǣġ-ġeard (dǣġ 'day' + ġeard 'yard, enclosure'), or directly from deie 'dairymaid', from Old English dǣġe 'kneader, dairywoman' (related to dough). The word shifted meaning from 'dairymaid's job/enclosure' to 'place where milk is kept' and then to 'products made from milk'.",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[n]",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun (不可数名词)",
+      "TAGS":[
+        "core word",
+        "food",
+        "agriculture"
+      ],
+      "DEF_EN":"Food products made from milk, such as butter, cheese, and yogurt.",
+      "DEF_ZH":"乳制品，如黄油、奶酪和酸奶。",
+      "SENT_EN":"People who are lactose intolerant often avoid dairy entirely.",
+      "SENT_ZH":"乳糖不耐症患者通常完全避免食用乳制品。",
+      "RELATED":[
+        {
+          "T":"hyponyms",
+          "V":[
+            "milk",
+            "cheese",
+            "butter",
+            "yogurt",
+            "cream"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lactose",
+            "vegan",
+            "non-dairy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n]",
+      "POS":"n. count",
+      "POS_TIP":"countable noun (可数名词)",
+      "TAGS":[
+        "common",
+        "place",
+        "business"
+      ],
+      "DEF_EN":"A farm or business that produces and processes milk and milk products; also, the building or room where milk is kept and processed.",
+      "DEF_ZH":"奶牛场；牛奶加工厂；（旧时指）乳品室。",
+      "SENT_EN":"The local dairy supplies milk to all the major supermarkets in the region.",
+      "SENT_ZH":"当地的这家奶牛场向该地区所有主要超市供应牛奶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creamery",
+            "dairy farm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj.",
+      "POS_TIP":"adjective (形容词)",
+      "TAGS":[
+        "common",
+        "attribute"
+      ],
+      "DEF_EN":"Relating to or derived from milk or milk products.",
+      "DEF_ZH":"与牛奶或乳制品相关的；含牛奶的。",
+      "SENT_EN":"She has a sensitive stomach and prefers non-dairy alternatives.",
+      "SENT_ZH":"她胃比较敏感，更喜欢非乳制品的替代品。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bovine",
+            "milking"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "non-dairy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in food, health, and agricultural contexts."
+}

@@ -1,0 +1,109 @@
+{
+  "WORD":"reference",
+  "IPA":"/'rɛfərəns/",
+  "CONJUGATES":"references (n. pl.) | references | referencing | referenced (v.)",
+  "ETYMOLOGY":"From Medieval Latin referentia, from Latin referens, present participle of referre ('to carry back, restore, report'), formed from re- ('back') + ferre ('to bear, carry').",
+  "SINCE":"Late 16th century (circa 1580s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"reference [to sth/sb]\nmake reference [to sth]",
+      "POS":"n. (count/uncount)",
+      "POS_TIP":"noun (countable or uncountable)",
+      "TAGS":[
+        "core word",
+        "academic",
+        "common"
+      ],
+      "DEF_EN":"The act of mentioning or consulting something; a source of information cited in a document or book.",
+      "DEF_ZH":"提及或查阅的行为；在文档或书籍中引用的信息来源或出处；参考文献。",
+      "SENT_EN":"Students must include a comprehensive list of references at the end of their thesis.",
+      "SENT_ZH":"学生必须在他们的论文末尾包含一份全面的参考文献列表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "citation",
+            "source",
+            "authority"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bibliography",
+            "footnote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reference (for [sb])\nprovide a reference",
+      "POS":"n. (count)",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "professional",
+        "common"
+      ],
+      "DEF_EN":"A formal statement or letter detailing a person's abilities or character, often provided by a previous employer for a job application.",
+      "DEF_ZH":"证明一个人能力或品格的正式声明或信件，通常由前雇主提供用于工作申请（推荐信）。",
+      "SENT_EN":"You will need to provide two professional references before the interview stage.",
+      "SENT_ZH":"在面试阶段之前，你需要提供两份职业推荐信。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recommendation",
+            "testimonial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reference [to sth]\nwithout reference [to sth]",
+      "POS":"n. (uncount)",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "formal",
+        "general"
+      ],
+      "DEF_EN":"Relation or regard to a subject or matter; connection.",
+      "DEF_ZH":"与某一主题或事项相关的关系或联系；关联。",
+      "SENT_EN":"The new guidelines were drafted with reference to current safety regulations.",
+      "SENT_ZH":"新的指导方针是参照现行的安全规定起草的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relation",
+            "respect",
+            "regard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reference [sth] (in a text)",
+      "POS":"v. tr.",
+      "POS_TIP":"verb (transitive) – requiring a direct object",
+      "TAGS":[
+        "technical",
+        "academic"
+      ],
+      "DEF_EN":"To mention, cite, or provide a reference for (a source, document, or citation).",
+      "DEF_ZH":"引用，提及或提供参考文献出处。",
+      "SENT_EN":"Be sure to reference all external data sources within the footnotes.",
+      "SENT_ZH":"请确保在脚注中引用所有外部数据来源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cite",
+            "attribute",
+            "quote"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Professional, and General Usage"
+}

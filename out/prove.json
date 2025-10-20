@@ -1,0 +1,110 @@
+{
+  "WORD":"prove",
+  "IPA":"/pruːv/",
+  "CONJUGATES":"proves | proving | proved | proven",
+  "ETYMOLOGY":"From Old French prover 'to test, try, demonstrate', from Latin probāre 'to test, inspect, approve', related to probus 'good, upright'.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"prove [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To establish the truth or validity of (something) by presenting evidence or argument.",
+      "DEF_ZH":"通过提供证据或论证来确立（某事）的真实性或有效性。",
+      "SENT_EN":"The defense attorney must prove the innocence of his client.",
+      "SENT_ZH":"辩护律师必须证明他委托人的清白。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "substantiate",
+            "verify",
+            "validate",
+            "demonstrate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disprove",
+            "refute",
+            "invalidate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prove [to be] [adj]\nprove [oneself]",
+      "POS":"v linking | v refl",
+      "POS_TIP":"linking verb (connects subject to description) or reflexive verb (subject and object are the same)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To turn out, or be discovered, to be something after a period of trial or experience.",
+      "DEF_ZH":"经过一段时间的试验或经验后，结果被发现是某种状态或特性；或指表现出自己的能力。",
+      "SENT_EN":"The harsh winter proved to be a real challenge for the infrastructure.",
+      "SENT_ZH":"事实证明，严酷的冬季对基础设施来说是一个真正的挑战。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "turn out",
+            "emerge",
+            "become"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prove [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "academic",
+        "mathematics"
+      ],
+      "DEF_EN":"To demonstrate the truth of a theorem, hypothesis, or proposition by logical deduction.",
+      "DEF_ZH":"通过逻辑演绎来证明定理、假设或命题的真实性。",
+      "SENT_EN":"Students are asked to prove the equation using the given axioms.",
+      "SENT_ZH":"学生被要求使用给定的公理来证明该等式。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "theorem",
+            "proof",
+            "deduction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prove [dough]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "specialized",
+        "baking"
+      ],
+      "DEF_EN":"(Baking) To allow yeast dough to rise (usually in a warm environment); often used interchangeably with 'proof'.",
+      "DEF_ZH":"（烘焙）让酵母面团（通常在温暖环境中）发酵；常与 'proof' 互换使用。",
+      "SENT_EN":"The bread dough needs to prove for at least an hour before baking.",
+      "SENT_ZH":"面包面团在烘烤前需要醒发至少一小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proof",
+            "rise",
+            "ferment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, highly used in legal, academic, and mathematical contexts."
+}

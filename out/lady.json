@@ -1,0 +1,88 @@
+{
+  "WORD":"lady",
+  "IPA":"/ˈleɪdi/",
+  "CONJUGATES":"ladies (pl.)",
+  "ETYMOLOGY":"From Middle English 'lafdi', from Old English 'hlǣfdige' (bread kneader/keeper), derived from 'hlāf' (loaf, bread) + 'dige' (kneader, related to dough). It is the feminine counterpart to 'lord'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] lady",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "polite"
+      ],
+      "DEF_EN":"A polite or formal term used to refer to or address a woman.",
+      "DEF_ZH":"对女性的礼貌或正式称呼。",
+      "SENT_EN":"Excuse me, could you tell the lady next to you that her phone is ringing?",
+      "SENT_ZH":"打扰一下，您能告诉您旁边的女士她的电话在响吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "woman",
+            "gentlewoman",
+            "madam"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gentleman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Lady [Name]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "title",
+        "formal",
+        "historical"
+      ],
+      "DEF_EN":"A title used for a woman of noble rank, such as a baroness, countess, or marchioness, or the wife of a knight or baronet.",
+      "DEF_ZH":"贵族女性的头衔，例如男爵夫人、伯爵夫人，或骑士、从男爵的妻子。（与'Lord'对应）",
+      "SENT_EN":"Lady Margaret will host the annual charity ball at the manor.",
+      "SENT_ZH":"玛格丽特夫人将在庄园举办一年一度的慈善舞会。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Lord",
+            "Duchess",
+            "Countess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[one's] lady",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "slang",
+        "dated"
+      ],
+      "DEF_EN":"(Informal or slightly dated slang) A man's girlfriend, wife, or female partner.",
+      "DEF_ZH":"（非正式或略显过时的俚语）某人的女友、妻子或女性伴侣。",
+      "SENT_EN":"He introduced his lady to his parents over the holiday weekend.",
+      "SENT_ZH":"他在假期周末向父母介绍了他的女朋友。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "partner",
+            "girlfriend",
+            "other half"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in formal address and as a formal title, but also widely used as a general, polite term for 'woman'."
+}

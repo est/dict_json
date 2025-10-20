@@ -1,0 +1,90 @@
+{
+  "WORD":"distribute",
+  "IPA":"/dɪˈstrɪbjuːt/",
+  "CONJUGATES":"distributes | distributing | distributed",
+  "ETYMOLOGY":"From Latin distribuere (dis- 'apart' + tribuere 'to allot, bestow')",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"distribute [sth] to [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "business",
+        "logistics"
+      ],
+      "DEF_EN":"To give out shares of something; to spread or dispense among a number of recipients.",
+      "DEF_ZH":"分发；分配；散布（将某物分给多人）",
+      "SENT_EN":"The charity plans to distribute food and water to those affected by the flood.",
+      "SENT_ZH":"该慈善机构计划向受洪水影响的人们分发食物和水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allot",
+            "disperse",
+            "deal out",
+            "hand out",
+            "apportion"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "collect",
+            "gather",
+            "hoard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"distribute [sth] across [area]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "general",
+        "arrangement"
+      ],
+      "DEF_EN":"To spread or arrange something throughout an area or period.",
+      "DEF_ZH":"使...散布或遍及某区域；布局；分散",
+      "SENT_EN":"The engineer carefully distributed the weight of the machinery across the entire floor.",
+      "SENT_ZH":"工程师小心地将机器的重量分散到整个地板上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrange",
+            "position",
+            "scatter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"distribute [data\nprocessing]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"To spread processing or data storage across multiple physical locations or machines.",
+      "DEF_ZH":"（计算机）分布式处理；分发数据",
+      "SENT_EN":"The company decided to distribute the processing load across three regional servers.",
+      "SENT_ZH":"该公司决定将处理负载分配给三个区域服务器。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "distributed ledger",
+            "cloud computing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to standard usage, especially common in business, logistics, and technical contexts."
+}

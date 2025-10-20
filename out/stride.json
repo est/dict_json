@@ -1,0 +1,92 @@
+{
+  "WORD":"stride",
+  "IPA":"/straɪd/",
+  "CONJUGATES":"strides | striding | strode | stridden",
+  "ETYMOLOGY":"From Old English strīdan (to straddle, stalk), related to Middle Low German strīden (to fight, strive). The sense of long step developed later.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] [long] stride(s)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "countable",
+        "common"
+      ],
+      "DEF_EN":"A long, decisive step.",
+      "DEF_ZH":"大步；跨步。",
+      "SENT_EN":"He crossed the field in just a few strides.",
+      "SENT_ZH":"他只走了几大步就穿过了田野。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pace",
+            "step"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make strides [in sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "usually plural"
+      ],
+      "DEF_EN":"Significant progress or advancement.",
+      "DEF_ZH":"进步；进展；改善。",
+      "SENT_EN":"The medical team is making great strides in cancer research.",
+      "SENT_ZH":"该医疗团队在癌症研究方面正取得巨大进展。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "progress",
+            "headway",
+            "advancement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stride [in/out/across]",
+      "POS":"vi",
+      "POS_TIP":"verb intransitive",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To walk with long, decisive steps in a specified direction.",
+      "DEF_ZH":"大踏步地走；阔步走。",
+      "SENT_EN":"She strode confidently into the meeting room.",
+      "SENT_ZH":"她自信地阔步走进会议室。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "march",
+            "pace",
+            "stalk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stride [sth]",
+      "POS":"vt",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To cross over or measure a distance by taking long steps.",
+      "DEF_ZH":"跨越；丈量（距离）。",
+      "SENT_EN":"He strode the length of the patio to check the measurements.",
+      "SENT_ZH":"他大步跨过露台丈量尺寸。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

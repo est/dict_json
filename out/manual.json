@@ -1,0 +1,95 @@
+{
+  "WORD":"manual",
+  "IPA":"/ˈmænjuəl/",
+  "CONJUGATES":"manuals | manually",
+  "ETYMOLOGY":"From Late Middle English, via Medieval Latin *manualis* (of the hand), from Latin *manus* (hand).",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A book or pamphlet containing instructions, practical information, or rules.",
+      "DEF_ZH":"说明书；手册；指南。",
+      "SENT_EN":"Please refer to the owner's manual for troubleshooting steps.",
+      "SENT_ZH":"请参阅用户手册以了解故障排除步骤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handbook",
+            "guidebook",
+            "instruction",
+            "pamphlet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]\n[sb]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Relating to, done with, or operated by the hands, often implying physical labor or effort rather than intellectual or automated work.",
+      "DEF_ZH":"用手的；手工的；体力的。",
+      "SENT_EN":"The factory replaced all the manual processes with robotic automation.",
+      "SENT_ZH":"这家工厂用机器人自动化取代了所有手工流程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hand-operated",
+            "physical",
+            "non-automated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "automated",
+            "mechanical",
+            "intellectual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "specific",
+        "descriptive"
+      ],
+      "DEF_EN":"Of or relating to physical control or skill, especially of the hands.",
+      "DEF_ZH":"与手工控制或技巧有关的；需要动手能力的。",
+      "SENT_EN":"She lacks the manual dexterity required for fine jewelry making.",
+      "SENT_ZH":"她缺乏制作精美珠宝所需的动手灵巧性。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "specialized",
+        "music"
+      ],
+      "DEF_EN":"A keyboard for the hands, especially on an organ, harpsichord, or similar keyboard instrument.",
+      "DEF_ZH":"(风琴或大键琴上的)手键盘。",
+      "SENT_EN":"The organ had three separate manuals and a pedalboard.",
+      "SENT_ZH":"这架风琴有三个独立的手键盘和一个踏板。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, technical, and formal context."
+}

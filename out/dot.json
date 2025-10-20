@@ -1,0 +1,126 @@
+{
+  "WORD":"dot",
+  "IPA":"/dɒt/",
+  "CONJUGATES":"dots | dotting | dotted",
+  "ETYMOLOGY":"Probably from Old English dott 'speck, head of a boil, anything round', related to Old Norse dottr 'small piece'. The verb sense 'to mark with a dot' dates from the mid-17th century.",
+  "SINCE":"Late 16th century (noun); mid-17th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small round mark or spot.",
+      "DEF_ZH":"一个小圆点或斑点。",
+      "SENT_EN":"There was a tiny dot of paint on the carpet.",
+      "SENT_ZH":"地毯上有一个微小的油漆点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spot",
+            "speck",
+            "period",
+            "point",
+            "full stop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "mathematics"
+      ],
+      "DEF_EN":"Used in the names of certain things, such as punctuation marks (full stop) or elements in an internet address (e.g., '.com').",
+      "DEF_ZH":"在某些事物名称中使用的符号，如标点符号（句号）或互联网地址中的元素（例如，'.com'）。",
+      "SENT_EN":"The address ends in 'dot com'.",
+      "SENT_ZH":"该地址以 'dot com' 结尾。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "full stop",
+            "period",
+            "decimal point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (the dot)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"An exact, precise location or time (often used in the phrase 'on the dot').",
+      "DEF_ZH":"一个确切、精确的位置或时间（常用于短语 'on the dot'，意为“准时”）。",
+      "SENT_EN":"He arrived at 8 o'clock on the dot.",
+      "SENT_ZH":"他八点整准时到达。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precisely",
+            "exactly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dot [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Mark (a surface) with a dot or dots; especially, to add a dot to a letter like 'i' or 'j'.",
+      "DEF_ZH":"在（一个表面）上打点；特指在字母如 'i' 或 'j' 上加点。",
+      "SENT_EN":"Remember to dot your i's and cross your t's.",
+      "SENT_ZH":"记住要点好你的 'i'，画好你的 't' 的横线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mark",
+            "stipple",
+            "speckle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] dot [sth] (be dotted with)",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb with preposition",
+      "TAGS":[
+        "description",
+        "literary"
+      ],
+      "DEF_EN":"Scatter or intersperse (objects) over an area.",
+      "DEF_ZH":"将（物体）分散或散布在一个区域上。",
+      "SENT_EN":"The landscape was dotted with grazing sheep.",
+      "SENT_ZH":"这片景色点缀着吃草的绵羊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scatter",
+            "sprinkle",
+            "strewn"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (computing), and idiomatic expressions."
+}

@@ -1,0 +1,108 @@
+{
+  "WORD":"suffer",
+  "IPA":"/ˈsʌfər/",
+  "CONJUGATES":"suffers | suffering | suffered",
+  "ETYMOLOGY":"From Old French suffrir, from Latin sufferre (sub- 'under' + ferre 'to bear, carry'), meaning 'to bear, endure, undergo'.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"suffer [pain]\nsuffer [damage] | suffer [hardship]",
+      "POS":"vti",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To experience physical or mental pain, distress, or injury.",
+      "DEF_ZH":"遭受或经历身体或精神上的痛苦、痛苦或伤害。",
+      "SENT_EN":"She suffered a serious injury in the accident.",
+      "SENT_ZH":"她在事故中受了重伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endure",
+            "undergo",
+            "experience",
+            "sustain"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "suffering",
+            "sufferer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suffer [from illness]\nsuffer [from condition]",
+      "POS":"vi + prep",
+      "POS_TIP":"verb, intransitive + preposition",
+      "TAGS":[
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"To be afflicted with a disease, ailment, or undesirable condition.",
+      "DEF_ZH":"患有某种疾病、病痛或不良状况。",
+      "SENT_EN":"He suffers from chronic headaches.",
+      "SENT_ZH":"他患有慢性头痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be afflicted with",
+            "be plagued by"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suffer [loss]\nsuffer [defeat]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"To experience something unpleasant, such as a loss or a defeat.",
+      "DEF_ZH":"经历不愉快的事情，例如损失或失败。",
+      "SENT_EN":"The company suffered heavy financial losses last quarter.",
+      "SENT_ZH":"该公司上季度遭受了严重的财务损失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incur",
+            "sustain",
+            "undergo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suffer [sth] (to happen)",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "archaic",
+        "literary"
+      ],
+      "DEF_EN":"(Archaic/Formal) To permit or allow something to happen.",
+      "DEF_ZH":"（古语/正式）允许或容许某事发生。",
+      "SENT_EN":"Suffer the little children to come unto me.",
+      "SENT_ZH":"让小孩子们到我这里来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allow",
+            "permit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal contexts when referring to losses or setbacks."
+}

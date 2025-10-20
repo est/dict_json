@@ -1,0 +1,86 @@
+{
+  "WORD":"emergency",
+  "IPA":"/ɪˈmɜːrdʒənsi/",
+  "CONJUGATES":"emergencies",
+  "ETYMOLOGY":"From Medieval Latin emergentia, derived from Latin emergēns, present participle of emergere ('to emerge, arise'). The sense of 'sudden crisis' developed in the 17th century.",
+  "SINCE":"c. 1610s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] emergency",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "critical"
+      ],
+      "DEF_EN":"A serious, unexpected, and often dangerous situation requiring immediate action.",
+      "DEF_ZH":"突发的、意想不到的、通常是危险的、需要立即采取行动的严重情况。",
+      "SENT_EN":"The hospital declared an internal emergency after the major car accident.",
+      "SENT_ZH":"重大车祸发生后，医院宣布进入内部紧急状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crisis",
+            "exigency",
+            "predicament"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "urgency",
+            "disaster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"emergency [sth]",
+      "POS":"adj.",
+      "POS_TIP":"attributive use of noun",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Done or intended for use during an unforeseen crisis or immediate need.",
+      "DEF_ZH":"用于或准备在不可预见的危机或紧急需求时使用的。",
+      "SENT_EN":"The building has clear signs pointing toward the emergency exits.",
+      "SENT_ZH":"该建筑有清晰的标志指向紧急出口。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "contingency",
+            "reserve",
+            "standby"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] emergency of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (less common/formal)",
+      "TAGS":[
+        "formal",
+        "rare"
+      ],
+      "DEF_EN":"The fact or condition of being emergent; an instance of emerging or arising.",
+      "DEF_ZH":"浮现或出现的状况；出现本身（源自“emerge”的原始含义）。",
+      "SENT_EN":"He wrote a thesis on the emergency of new political movements.",
+      "SENT_ZH":"他写了一篇关于新政治运动出现的论文。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emergence",
+            "appearance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Legal"
+}

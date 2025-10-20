@@ -1,0 +1,137 @@
+{
+  "WORD":"save",
+  "IPA":"/seɪv/",
+  "CONJUGATES":"saves | saving | saved",
+  "ETYMOLOGY":"From Old French sauver, from Late Latin salvāre 'to make safe', which is derived from Latin salvus 'safe'.",
+  "SINCE":"c. 1300 (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"save [sb]\nsave [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"Transitive verb | Intransitive verb: A verb that takes or does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To rescue someone or something from danger, harm, or destruction.",
+      "DEF_ZH":"拯救；挽救；使脱离危险或毁灭。",
+      "SENT_EN":"The doctor's quick action helped to save the patient's life.",
+      "SENT_ZH":"医生的快速行动挽救了病人的生命。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rescue",
+            "deliver",
+            "preserve",
+            "redeem"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "endanger",
+            "destroy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"save [money/time/resources]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: A verb that takes a direct object.",
+      "TAGS":[
+        "financial",
+        "common"
+      ],
+      "DEF_EN":"To keep and store something, especially money or time, for future use; to avoid wasting.",
+      "DEF_ZH":"储存；积攒；节省（钱、时间、资源）。",
+      "SENT_EN":"We are trying to save enough money to buy a house.",
+      "SENT_ZH":"我们正努力攒够钱买一套房子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accumulate",
+            "hoard",
+            "conserve"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "spend",
+            "waste"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"save [data/document]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: A verb that takes a direct object.",
+      "TAGS":[
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"To copy electronic data onto a storage medium (such as a hard drive) for permanent retention.",
+      "DEF_ZH":"(计算机) 保存数据；将数据写入永久存储器。",
+      "SENT_EN":"Always save your document frequently to prevent data loss.",
+      "SENT_ZH":"请经常保存您的文档，以防止数据丢失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "store",
+            "file"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a save\nan important save",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun: A noun that can be counted and used in singular or plural forms.",
+      "TAGS":[
+        "sports",
+        "noun"
+      ],
+      "DEF_EN":"(Sports) An act of preventing an opponent from scoring a goal or point, typically performed by a goalkeeper.",
+      "DEF_ZH":"(体育) 扑救；守门员的成功防守。",
+      "SENT_EN":"The goalie made a spectacular save just seconds before the whistle.",
+      "SENT_ZH":"在终场哨响前几秒，守门员完成了一次精彩的扑救。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "block",
+            "parry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"save [that/for sth]",
+      "POS":"prep | conj",
+      "POS_TIP":"Preposition | Conjunction: A word used to link parts of a sentence or show relationship (formal/archaic use).",
+      "TAGS":[
+        "formal",
+        "archaic"
+      ],
+      "DEF_EN":"Except; but. (Used to introduce an exception.)",
+      "DEF_ZH":"除了...以外；除了...之外。",
+      "SENT_EN":"The house was empty, save for a few boxes left in the corner.",
+      "SENT_ZH":"这房子是空的，除了角落里剩下的几个箱子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "except",
+            "but"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common across various fields."
+}

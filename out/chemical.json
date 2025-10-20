@@ -1,0 +1,78 @@
+{
+  "WORD":"chemical",
+  "IPA":"/ˈkɛmɪkl/",
+  "CONJUGATES":"adjective: more chemical | most chemical; noun: chemicals",
+  "ETYMOLOGY":"From Latin *chymicus*, from Greek *khēmeia* 'art of transmuting metals, alchemy'. The noun sense 'a substance obtained by a chemical process' dates from the late 16th century; the adjective sense 'of or relating to chemistry' dates from the early 17th century.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"chemical [reaction/property/analysis]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "scientific"
+      ],
+      "DEF_EN":"Relating to chemistry or the phenomena of chemistry.",
+      "DEF_ZH":"与化学或化学现象有关的。",
+      "SENT_EN":"Water has a simple chemical formula, H2O.",
+      "SENT_ZH":"水有一个简单的化学式，H2O。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chemistry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chemical [substance/treatment/weapon]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "common",
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"Produced by or used in chemistry; involving chemicals.",
+      "DEF_ZH":"通过化学方法生产或在化学中使用的；涉及化学品的。",
+      "SENT_EN":"Many household cleaning products contain harsh chemical ingredients.",
+      "SENT_ZH":"许多家用清洁产品含有刺激性化学成分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chemicals"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a chemical\nchemicals",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "scientific"
+      ],
+      "DEF_EN":"A substance obtained by or used in a chemical process.",
+      "DEF_ZH":"在化学过程中获得或使用的物质。",
+      "SENT_EN":"Farmers often use various chemicals to protect their crops.",
+      "SENT_ZH":"农民经常使用各种化学品来保护他们的作物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "substance",
+            "compound",
+            "element"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Scientific"
+}

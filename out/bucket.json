@@ -1,0 +1,93 @@
+{
+  "WORD":"bucket",
+  "IPA":"/ˈbʌkɪt/",
+  "CONJUGATES":"buckets (n, pl) | bucketing (v, prp) | bucketed (v, pp/pt)",
+  "ETYMOLOGY":"From Middle English buket, possibly from Anglo-Norman/Old French buquet (pail, tub), possibly related to Old English būc (belly, pitcher).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Container"
+      ],
+      "DEF_EN":"A typically round, open-topped container with a handle, used for carrying water, liquids, or various substances; a pail.",
+      "DEF_ZH":"一种通常为圆形、有开放式顶部和提手的容器，用于盛装水、液体或各种物质；水桶，提桶。",
+      "SENT_EN":"He accidentally knocked over the bucket of soapy water.",
+      "SENT_ZH":"他不小心把那桶肥皂水打翻了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pail",
+            "can",
+            "vat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[vtr] [sth] (down)",
+      "POS":"vit. | vtr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "Informal",
+        "Slang",
+        "Movement"
+      ],
+      "DEF_EN":"To travel or move very quickly.",
+      "DEF_ZH":"快速移动或行进。",
+      "SENT_EN":"They were bucketing along the back roads trying to make up lost time.",
+      "SENT_ZH":"他们沿着后路飞奔，试图弥补失去的时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speed",
+            "race",
+            "zoom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (Computing/Storage)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"In cloud computing, a designated logical storage container for objects or data.",
+      "DEF_ZH":"在云计算中，用于存储对象或数据的指定逻辑存储容器（例如在亚马逊S3服务中）。",
+      "SENT_EN":"We need to configure the access permissions for the new storage bucket.",
+      "SENT_ZH":"我们需要为新的存储桶配置访问权限。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "container",
+            "S3"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bucket seat",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Specific use",
+        "Automotive"
+      ],
+      "DEF_EN":"A separate, contoured seat with a low back, typically found in sports cars.",
+      "DEF_ZH":"一种独立的、有轮廓的低靠背座椅，通常见于跑车中。",
+      "SENT_EN":"My new car features comfortable bucket seats for the driver and passenger.",
+      "SENT_ZH":"我的新车为驾驶员和乘客配备了舒适的斗式座椅。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

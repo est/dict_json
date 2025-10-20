@@ -1,0 +1,65 @@
+{
+  "WORD":"oven",
+  "IPA":"/ˈʌvən/",
+  "CONJUGATES":"ovens (plural)",
+  "ETYMOLOGY":"From Old English ofen, from Proto-Germanic *ufnaz, from Proto-Indo-European *upno-, from the root *au-/*uH- ('to burn'). Cognate with German Ofen.",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] oven\nthe oven | put [sth] in the oven",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An enclosed compartment, usually part of a cooker or a separate appliance, that is heated for baking, roasting, or warming food.",
+      "DEF_ZH":"用于烘烤、炙烤或加热食物的封闭隔间，通常是炊具的一部分或独立的电器。",
+      "SENT_EN":"She baked a delicious cake in the oven for her son's birthday.",
+      "SENT_ZH":"她为儿子生日在烤箱里烤了一个美味的蛋糕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cooker",
+            "stove",
+            "range"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "microwave",
+            "toaster",
+            "grill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] industrial oven\na brick oven",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "technical",
+        "industrial",
+        "specialized"
+      ],
+      "DEF_EN":"A large-scale or specialized heating apparatus used in industrial processes (e.g., for drying, curing, or firing materials) or for specific non-culinary purposes.",
+      "DEF_ZH":"在工业生产（例如，用于干燥、固化或烧制材料）或特定非烹饪目的中使用的L型大型或专用加热设备。",
+      "SENT_EN":"The factory uses a large industrial oven to cure the paint on the metal parts.",
+      "SENT_ZH":"工厂使用大型工业烤箱来固化金属部件上的油漆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kiln",
+            "furnace",
+            "dryer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, culinary, technical"
+}

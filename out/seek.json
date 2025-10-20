@@ -1,0 +1,79 @@
+{
+  "WORD":"seek",
+  "IPA":"/siːk/",
+  "CONJUGATES":"sought | seeking | seeks",
+  "ETYMOLOGY":"From Old English sēcan, from Proto-Germanic *sōkijaną (source also of Dutch zoeken, German suchen).",
+  "SINCE":"Before 900 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"seek [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To try to find, obtain, or achieve something.",
+      "DEF_ZH":"寻找；寻求；谋求获得某物。",
+      "SENT_EN":"The explorers sought a new route across the mountains.",
+      "SENT_ZH":"探险家们寻求穿越山脉的新路线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "look for",
+            "search for",
+            "pursue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"seek to [do sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "formal",
+        "aim"
+      ],
+      "DEF_EN":"To attempt or intend to do something; to try hard to accomplish a goal.",
+      "DEF_ZH":"试图；力求做到；意图达成某事。",
+      "SENT_EN":"The government seeks to improve public transportation.",
+      "SENT_ZH":"政府力求改善公共交通。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attempt",
+            "aim",
+            "strive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"seek [sth] (from [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "advice",
+        "formal"
+      ],
+      "DEF_EN":"To request or ask for something, such as advice, information, or help.",
+      "DEF_ZH":"征求；请求；咨询（建议、信息或帮助）。",
+      "SENT_EN":"It is wise to seek counsel from experts before making a large investment.",
+      "SENT_ZH":"在进行大额投资前，咨询专家的意见是明智的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "request",
+            "solicit",
+            "ask for"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday, formal, and literary contexts."
+}

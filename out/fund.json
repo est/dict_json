@@ -1,0 +1,96 @@
+{
+  "WORD":"fund",
+  "IPA":"/fʌnd/",
+  "CONJUGATES":"funds | funded | funding",
+  "ETYMOLOGY":"From French fond 'bottom, stock, capital', from Latin fundus 'bottom, foundation, estate'. The sense of a supply of money developed in the late 17th century.",
+  "SINCE":"late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] [n]",
+      "POS":"n",
+      "POS_TIP":"noun (countable/uncountable)",
+      "TAGS":[
+        "core word",
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"A sum of money saved or made available for a particular purpose.",
+      "DEF_ZH":"为特定目的储存或提供的资金；基金；专款。",
+      "SENT_EN":"The non-profit organization relies on a special emergency fund to help victims.",
+      "SENT_ZH":"该非营利组织依靠一项特别的应急基金来帮助受害者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "capital",
+            "assets",
+            "reserve",
+            "kitty"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "endowment",
+            "trust",
+            "stock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fund [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "finance"
+      ],
+      "DEF_EN":"To provide financial resources for a particular purpose or project.",
+      "DEF_ZH":"为某事提供资金；资助；拨款。",
+      "SENT_EN":"The government refused to fund the controversial art exhibition.",
+      "SENT_ZH":"政府拒绝为这项有争议的艺术展览提供资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "finance",
+            "sponsor",
+            "subsidize",
+            "bankroll"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "defund"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n] of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable), often singular",
+      "TAGS":[
+        "general"
+      ],
+      "DEF_EN":"A stock or supply of something, often of resources, information, or qualities.",
+      "DEF_ZH":"资源、信息或品质的储备或供应。",
+      "SENT_EN":"He has an inexhaustible fund of knowledge about ancient history.",
+      "SENT_ZH":"他拥有关于古代历史取之不尽的知识储备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supply",
+            "reservoir",
+            "store",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general usage, highly frequent in finance and government contexts."
+}

@@ -1,0 +1,63 @@
+{
+  "WORD":"topic",
+  "IPA":"/ˈtɒpɪk/",
+  "CONJUGATES":"topics",
+  "ETYMOLOGY":"From Middle English, derived from Old French topique, ultimately from Latin topica (referring to Aristotle's treatise), from Ancient Greek topiká (plural of topikós 'of a place, related to a common place'), from tópos 'place, theme'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] topic [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A word or phrase that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The subject matter of a conversation, discussion, presentation, or piece of writing.",
+      "DEF_ZH":"谈话、讨论、演示或文章的主题或中心内容。",
+      "SENT_EN":"The primary topic of the meeting was the new budget proposal.",
+      "SENT_ZH":"会议的主要议题是新的预算提案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subject",
+            "theme",
+            "issue",
+            "matter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "agenda",
+            "toppic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"topic",
+      "POS":"noun",
+      "POS_TIP":"A word or phrase that names a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"(Linguistics/Rhetoric) A division or specific heading within a system of argument or classification; often referring to a 'commonplace' or topos used in dialectics.",
+      "DEF_ZH":"（语言学/修辞学）论证或分类系统中的一个划分或特定标题；通常指辩证法中使用的“常识”或论题。",
+      "SENT_EN":"Aristotle's work on Topics provided foundational principles for dialectical reasoning.",
+      "SENT_ZH":"亚里士多德关于《论题篇》的著作提供了辩证推理的基础原则。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "topos",
+            "rhetoric"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General communication, Academic, Business"
+}

@@ -1,0 +1,91 @@
+{
+  "WORD":"tailor",
+  "IPA":"/ˈteɪlər/",
+  "CONJUGATES":"tailors | tailoring | tailored",
+  "ETYMOLOGY":"From Old French taileor, taillier (cutter), from tailler (to cut).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"tailor",
+      "POS":"n",
+      "POS_TIP":"n: noun, a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person whose job is to make, mend, or alter clothes, especially suits, coats, and trousers, for individual customers.",
+      "DEF_ZH":"裁缝；成衣匠（尤指为顾客量身制作、修补或修改西服、大衣、裤子等的人）",
+      "SENT_EN":"He took his old suit to the tailor to have it altered.",
+      "SENT_ZH":"他把旧西服拿到裁缝那里去改。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clothier",
+            "seamster",
+            "dressmaker",
+            "couturier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tailor [sth] to [sth/sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb, a verb that takes a direct object; prep: preposition, a word that connects a noun, pronoun, or noun phrase to another part of the sentence.",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To make or adapt something for a particular purpose or person; to make something suitable for a specific need.",
+      "DEF_ZH":"使适应；使符合；专门制作（以满足特定需求）",
+      "SENT_EN":"The training program is tailored to the specific needs of each company.",
+      "SENT_ZH":"这项培训计划是根据每家公司的具体需求量身定制的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "customize",
+            "adapt",
+            "adjust",
+            "fit",
+            "individualize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "standardize",
+            "generalize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tailor [clothes/a garment]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb, a verb that takes a direct object.",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To make clothes to fit a specific person or to make a garment with a particular style or cut.",
+      "DEF_ZH":"为（某人）裁制衣服；以特定风格或剪裁制作（服装）",
+      "SENT_EN":"He had a suit tailored for the wedding.",
+      "SENT_ZH":"他为婚礼定制了一套西装。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "make",
+            "fashion",
+            "cut",
+            "sew"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage in everyday language and professional contexts."
+}

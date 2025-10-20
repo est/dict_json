@@ -1,0 +1,80 @@
+{
+  "WORD":"strategy",
+  "IPA":"/ˈstrætədʒi/",
+  "CONJUGATES":"strategies (plural)",
+  "ETYMOLOGY":"From Greek *strategia* (generalship, command of a general), from *strategos* (general), a compound of *stratos* (army) + *agos* (leader). Adopted via French *stratégie* in the 18th century.",
+  "SINCE":"Late 18th century (c. 1796)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] strategy [for sth/doing sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable and uncountable)",
+      "TAGS":[
+        "core word",
+        "business",
+        "planning"
+      ],
+      "DEF_EN":"A plan of action or policy designed to achieve a major overall aim.",
+      "DEF_ZH":"为实现一项重大或总体目标而制定的一套行动计划或政策。",
+      "SENT_EN":"The CEO unveiled a new long-term strategy to expand into Asian markets.",
+      "SENT_ZH":"首席执行官公布了一项新的长期战略，旨在拓展亚洲市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plan",
+            "approach",
+            "method",
+            "policy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "strategic",
+            "strategic planning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"military strategy",
+      "POS":"noun",
+      "POS_TIP":"Noun (uncountable)",
+      "TAGS":[
+        "military",
+        "technical",
+        "historical"
+      ],
+      "DEF_EN":"The art of planning and directing overall military operations and movements in a war or campaign, distinct from tactics (the detailed execution of localized maneuvers).",
+      "DEF_ZH":"在战争或战役中，规划和指导整体军事行动与调动的艺术，区别于战术（局部行动的详细执行）。",
+      "SENT_EN":"Good strategy requires anticipating the enemy's next move.",
+      "SENT_ZH":"好的战略要求预测敌人的下一步行动。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tactics",
+            "logistics",
+            "Clausewitz"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"winning strategy",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "game theory",
+        "specialized"
+      ],
+      "DEF_EN":"In game theory, a complete plan of action specifying what a player will do in all possible eventualities.",
+      "DEF_ZH":"在博弈论中，规定玩家在所有可能情况下采取行动的完整计划。",
+      "SENT_EN":"We need to adopt a different poker strategy if we want to beat him.",
+      "SENT_ZH":"如果我们想击败他，就需要采用不同的扑克策略。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal, Business, Academic, Military"
+}

@@ -1,0 +1,110 @@
+{
+  "WORD":"object",
+  "IPA":"/ˈɑːbdʒɪkt/ | /əbˈdʒɛkt/",
+  "CONJUGATES":"objects | objected | objecting",
+  "ETYMOLOGY":"From Middle English objet, from Medieval Latin objectum (thing thrown before), past participle of obicere ('to throw before, oppose'), from ob- ('against, toward') + jacere ('to throw').",
+  "SINCE":"Late 14th century (noun); Mid 15th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (Pronunciation: /ˈɑːbdʒɪkt/)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A material thing that can be seen and touched; a physical item.",
+      "DEF_ZH":"实体；物体；物品；东西。",
+      "SENT_EN":"Please do not touch the fragile objects in the museum display.",
+      "SENT_ZH":"请勿触碰博物馆展出的易碎物品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thing",
+            "item",
+            "article",
+            "entity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of [sb])",
+      "POS":"n",
+      "POS_TIP":"noun (Pronunciation: /ˈɑːbdʒɪkt/)",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"The goal or purpose of a specific action or endeavor.",
+      "DEF_ZH":"目标；目的；宗旨。",
+      "SENT_EN":"The primary object of the new policy is to reduce pollution.",
+      "SENT_ZH":"这项新政策的主要目的是减少污染。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aim",
+            "goal",
+            "objective",
+            "purpose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"object to [sth]\nobject that [clause]",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb (Pronunciation: /əbˈdʒɛkt/)",
+      "TAGS":[
+        "core word",
+        "legal"
+      ],
+      "DEF_EN":"To express disagreement with or opposition to something.",
+      "DEF_ZH":"反对；不赞成；表示异议。",
+      "SENT_EN":"The defense lawyer stood up to object to the ruling.",
+      "SENT_ZH":"辩护律师站起来反对这项裁决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protest",
+            "oppose",
+            "disapprove"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "agree",
+            "consent",
+            "assent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (grammar)",
+      "POS":"n",
+      "POS_TIP":"noun (Pronunciation: /ˈɑːbdʒɪkt/)",
+      "TAGS":[
+        "technical",
+        "grammar"
+      ],
+      "DEF_EN":"A noun or pronoun governed by a verb or preposition.",
+      "DEF_ZH":"(语法)宾语。",
+      "SENT_EN":"In 'He hit the ball,' 'the ball' is the direct object.",
+      "SENT_ZH":"在“He hit the ball”中，“the ball”是直接宾语。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "subject",
+            "predicate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely across general conversation, technical fields (programming, grammar), and legal contexts."
+}

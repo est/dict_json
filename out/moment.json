@@ -1,0 +1,103 @@
+{
+  "WORD":"moment",
+  "IPA":"/ˈmoʊmənt/",
+  "CONJUGATES":"moments (n. pl.) | momentary (adj.) | momentarily (adv.)",
+  "ETYMOLOGY":"From Middle English, via Old French moment, from Latin mōmentum ('movement, moving force, short time'), contraction of *movimentum*.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] moment\nthe moment",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A very brief period of time; an instant.",
+      "DEF_ZH":"极短的一段时间；瞬间；一会儿。",
+      "SENT_EN":"Could you wait just a moment while I finish this email?",
+      "SENT_ZH":"我把这封邮件写完，你能等一会儿吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instant",
+            "second",
+            "jiffy",
+            "trice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at the moment\nthe defining moment",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A particular point in time, often one of significance or decision.",
+      "DEF_ZH":"特定的时间点；重要的或决定性的时刻。",
+      "SENT_EN":"That was the proudest moment of his entire career.",
+      "SENT_ZH":"那是他整个职业生涯中最值得骄傲的时刻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "juncture",
+            "point",
+            "occasion",
+            "stage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"of [great/little/no] moment",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"Importance or consequence, especially concerning future outcome.",
+      "DEF_ZH":"重要性；影响；后果。",
+      "SENT_EN":"The error was of little moment and did not affect the final outcome.",
+      "SENT_ZH":"这个错误无关紧要，并未影响最终结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "significance",
+            "importance",
+            "consequence",
+            "weight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"moment of inertia\nangular moment",
+      "POS":"n.",
+      "POS_TIP":"noun (Physics/Math)",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"(In physics and mechanics) A measure of the tendency of a force to cause rotation, often defined as the product of a quantity (like mass or force) and its distance from a reference point.",
+      "DEF_ZH":"（物理学和力学中）力矩；动量；一个量及其到参考点的距离的乘积。",
+      "SENT_EN":"Calculating the moment of inertia is crucial for designing rotating machinery.",
+      "SENT_ZH":"计算转动惯量对于设计旋转机械至关重要。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "torque",
+            "inertia"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, except for technical definitions."
+}

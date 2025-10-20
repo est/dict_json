@@ -1,0 +1,90 @@
+{
+  "WORD":"least",
+  "IPA":"/liːst/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Superlative form of 'little'. From Middle English lest, from Old English lǣst (often an abbreviation of lǣsest), related to lǣs (less).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"the least [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "superlative"
+      ],
+      "DEF_EN":"Smallest in amount, extent, or degree; minimum.",
+      "DEF_ZH":"最小的；最少的；最低限度的。",
+      "SENT_EN":"Driving slowly requires the least fuel consumption.",
+      "SENT_ZH":"慢速驾驶需要的燃油消耗最少。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minimum",
+            "slightest"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "most",
+            "maximum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] the least",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "superlative"
+      ],
+      "DEF_EN":"To the smallest degree or extent.",
+      "DEF_ZH":"最不；最低限度地。",
+      "SENT_EN":"She was the person I expected to see the least at the party.",
+      "SENT_ZH":"她是聚会上我最不期望见到的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minimally",
+            "scarcely"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "most",
+            "highly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at least\nthe least [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common phrase",
+        "idiomatic"
+      ],
+      "DEF_EN":"The smallest amount, degree, or level possible.",
+      "DEF_ZH":"最小量；最低限度；（在短语中，如 'at least'）至少。",
+      "SENT_EN":"I need at least three volunteers to help with the project.",
+      "SENT_ZH":"我至少需要三名志愿者来帮助完成这个项目。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "minimum",
+            "fraction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

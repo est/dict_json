@@ -1,0 +1,70 @@
+{
+  "WORD":"southeast",
+  "IPA":"/ˌsaʊθˈiːst/",
+  "CONJUGATES":"south-easts | south-eastern (adj.)",
+  "ETYMOLOGY":"Compound of 'south' and 'east', both derived from Old English (sūþ and ēast respectively).",
+  "SINCE":"Mid 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] southeast",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "geography"
+      ],
+      "DEF_EN":"The direction or point on the compass halfway between south and east, specifically 135 degrees.",
+      "DEF_ZH":"东南方；指南针或地图上位于南和东之间的方向（135度）。",
+      "SENT_EN":"We sailed directly into the southeast, following the current.",
+      "SENT_ZH":"我们沿着水流，直接向东南方航行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "South",
+            "East",
+            "Northwest",
+            "Cardinal direction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"southeast [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (attributive)",
+      "TAGS":[
+        "common",
+        "geography"
+      ],
+      "DEF_EN":"Situated in, coming from, or characteristic of the southeast.",
+      "DEF_ZH":"位于东南的；来自东南的；东南部的。",
+      "SENT_EN":"They forecast a strong southeast wind for tomorrow.",
+      "SENT_ZH":"他们预报明天将有强劲的东南风。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "southeastern",
+            "southeasterly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"move southeast",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "common",
+        "navigation"
+      ],
+      "DEF_EN":"Toward or in the direction of the southeast.",
+      "DEF_ZH":"向东南地；朝东南方向。",
+      "SENT_EN":"The migration path turns southeast after crossing the mountains.",
+      "SENT_ZH":"穿过群山后，这条迁徙路线转向东南。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General | Geographical"
+}

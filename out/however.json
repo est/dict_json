@@ -1,0 +1,84 @@
+{
+  "WORD":"however",
+  "IPA":"/haʊˈevər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound of 'how' (from Old English hū, meaning manner or way) and 'ever' (from Old English ǣfre, meaning always or continually). Originally meant 'in whatever manner'.",
+  "SINCE":"Mid 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[clause]; however, [clause]",
+      "POS":"adv",
+      "POS_TIP":"Adverb, used as a conjunctive adverb",
+      "TAGS":[
+        "core word",
+        "common",
+        "linking"
+      ],
+      "DEF_EN":"Used to introduce a statement that contrasts with or contradicts something that has just been mentioned; nevertheless; but.",
+      "DEF_ZH":"然而；但是；不过 (用于引出一个与前面所述内容形成对比或矛盾的陈述)",
+      "SENT_EN":"The experiment was flawed; however, the results were still interesting.",
+      "SENT_ZH":"这项实验有缺陷；然而，其结果仍然很有趣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nevertheless",
+            "nonetheless",
+            "yet"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "although",
+            "though"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"however + [adj/adv] + [clause]",
+      "POS":"adv",
+      "POS_TIP":"Adverb, used to modify adjectives or adverbs",
+      "TAGS":[
+        "common",
+        "emphasis"
+      ],
+      "DEF_EN":"In whatever way or manner; used to emphasize that something is true regardless of the degree or extent.",
+      "DEF_ZH":"无论如何；不管怎样；不管有多(用于强调程度或方式，后接形容词或副词)",
+      "SENT_EN":"However tired she was, she insisted on finishing the presentation.",
+      "SENT_ZH":"无论她有多累，她都坚持要完成演示。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "no matter how",
+            "in whatever way"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[do sth] however [sb] [v]",
+      "POS":"conj",
+      "POS_TIP":"Conjunction",
+      "TAGS":[
+        "formal",
+        "slightly archaic"
+      ],
+      "DEF_EN":"By whatever means; in whatever way.",
+      "DEF_ZH":"以任何方式；怎样都行 (用于连接从句，表示选择任何方式)",
+      "SENT_EN":"You must complete the task, however you choose to proceed.",
+      "SENT_ZH":"你必须完成这项任务，无论你选择以何种方式进行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "howsoever"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, widely used in both formal writing and casual conversation."
+}

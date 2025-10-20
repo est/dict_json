@@ -1,0 +1,128 @@
+{
+  "WORD":"familiar",
+  "IPA":"/fəˈmɪliər/",
+  "CONJUGATES":"familiarly (adv.) | familiarity (n.)",
+  "ETYMOLOGY":"From Old French familier, from Latin familiaris ('of or belonging to a household'), from familia ('family, household').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth] be familiar with [sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Well-known, recognized, or often encountered; having an intimate knowledge of something.",
+      "DEF_ZH":"熟悉、常见或经常遇到的；对某事物有深入了解的。",
+      "SENT_EN":"I am familiar with the basic principles of quantum physics.",
+      "SENT_ZH":"我熟悉量子物理学的基本原理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acquainted",
+            "conversant",
+            "versed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unfamiliar",
+            "alien",
+            "unknown"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] be familiar",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Easy to recognize because of being previously encountered; common or ordinary.",
+      "DEF_ZH":"容易认出的，因为以前遇到过；常见的或普通的。",
+      "SENT_EN":"That song sounds very familiar, but I can't recall the title.",
+      "SENT_ZH":"那首歌听起来非常熟悉，但我记不起歌名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recognizable",
+            "known",
+            "commonplace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "strange",
+            "novel",
+            "unique"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"familiar [tone]\nfamiliar [manner]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "relational"
+      ],
+      "DEF_EN":"Friendly and informal, sometimes overly informal or intimate; characteristic of close acquaintances.",
+      "DEF_ZH":"友好且非正式的，有时过于随便或亲密；亲密熟人特有的。",
+      "SENT_EN":"He spoke to the CEO in a surprisingly familiar tone.",
+      "SENT_ZH":"他以一种出人意料的亲昵语调与首席执行官交谈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intimate",
+            "casual",
+            "informal",
+            "presumptuous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "formal",
+            "reserved",
+            "distant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a familiar",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "dated",
+        "archaic",
+        "literature"
+      ],
+      "DEF_EN":"(Historical/Archaic) A close friend or associate; (In folklore) A spirit or demon supposedly attending and obeying a witch, sometimes appearing in animal form.",
+      "DEF_ZH":"(历史/古语) 密友或熟人；(民间传说中) 侍奉并服从女巫的精灵或恶魔，有时以动物形态出现。",
+      "SENT_EN":"The old woman was accused of witchcraft and having a black cat as her familiar.",
+      "SENT_ZH":"那位老妇人被指控施行巫术，并拥有一只黑猫作为她的使魔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confidant",
+            "aide",
+            "imp"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use across contexts, except for the noun form which is limited to historical or folkloric contexts."
+}

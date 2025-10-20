@@ -1,0 +1,89 @@
+{
+  "WORD":"apparatus",
+  "IPA":"/ˌæpəˈrætəs/",
+  "CONJUGATES":"apparatus | apparatuss | apparatuses",
+  "ETYMOLOGY":"From Latin apparatus ('preparation, equipment'), past participle of apparare ('to prepare, make ready') from ad- ('to, toward') + parare ('to prepare').",
+  "SINCE":"Late 16th century (circa 1580s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"A complex machine or device designed for a specific function, particularly in scientific or technical fields.",
+      "DEF_ZH":"为特定功能而设计的一套复杂的机器或设备，尤指在科学或技术领域。",
+      "SENT_EN":"The laboratory required a sophisticated apparatus for measuring minute temperature changes.",
+      "SENT_ZH":"该实验室需要一套精密的仪器来测量微小的温度变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "device",
+            "equipment",
+            "instrumentation",
+            "gear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (government\norganization)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"The organizational structure, system, or mechanism through which a complex activity or function is carried out, especially relating to government or political organization.",
+      "DEF_ZH":"执行复杂活动或功能的组织结构、制度或机制，尤指与政府或政治组织相关的。",
+      "SENT_EN":"The entire legal apparatus of the state was mobilized to deal with the crisis.",
+      "SENT_ZH":"整个国家的法律机构都被动员起来处理这场危机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "system",
+            "structure",
+            "framework",
+            "mechanism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (biology\nanatomy)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "biological",
+        "technical",
+        "anatomy"
+      ],
+      "DEF_EN":"A group of organs or structures working together to perform a specific function in an animal or plant.",
+      "DEF_ZH":"在动物或植物体内协同工作以执行特定功能的一组器官或结构。",
+      "SENT_EN":"The digestive apparatus breaks down food into nutrients the body can absorb.",
+      "SENT_ZH":"消化系统将食物分解成身体可以吸收的营养物质。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "system",
+            "tract"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Golgi apparatus"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in general, technical, scientific, and formal contexts."
+}

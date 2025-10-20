@@ -1,0 +1,115 @@
+{
+  "WORD":"vote",
+  "IPA":"/voʊt/",
+  "CONJUGATES":"votes | voting | voted",
+  "ETYMOLOGY":"From Latin vōtum ('vow, wish, promise'), the past participle of vovēre ('to vow, pledge'). Adopted into English via Old French as 'vot' and later re-Latinized.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] vote",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"To express a choice or opinion in an election or a decision-making process, often by marking a ballot or raising a hand.",
+      "DEF_ZH":"在选举或决策过程中表达选择或意见，通常通过标记选票或举手。",
+      "SENT_EN":"Citizens have the right to vote in local and national elections.",
+      "SENT_ZH":"公民有权在地方和国家选举中投票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cast a ballot",
+            "poll"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "suffrage",
+            "electorate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (the choice expressed)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"A formal expression of choice or opinion in an electoral or decision-making process.",
+      "DEF_ZH":"在选举或决策过程中对选择或意见的正式表达。",
+      "SENT_EN":"The final vote was 55 to 45 in favor of the proposal.",
+      "SENT_ZH":"最终投票结果是55票对45票支持该提案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ballot",
+            "poll",
+            "say"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "referendum",
+            "majority"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (the right or ability to express a choice)",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "politics",
+        "formal"
+      ],
+      "DEF_EN":"The collective right of a group of people to determine policy or choose representatives.",
+      "DEF_ZH":"一群人集体决定政策或选择代表的权利。",
+      "SENT_EN":"The women’s rights movement fought for the vote.",
+      "SENT_ZH":"妇女权利运动争取投票权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suffrage",
+            "franchise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] vote [sb] / [sth] (into / out of office, etc.)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"To elect or reject someone or something by using a formal expression of choice.",
+      "DEF_ZH":"通过正式表达选择来选举或否决某人或某事。",
+      "SENT_EN":"They voted her into the chair position.",
+      "SENT_ZH":"他们投票选她担任主席职位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "elect",
+            "choose"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly in political and corporate contexts."
+}

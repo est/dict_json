@@ -1,0 +1,148 @@
+{
+  "WORD":"minus",
+  "IPA":"/ˈmaɪnəs/",
+  "CONJUGATES":"minuses (pl. n.)",
+  "ETYMOLOGY":"From Latin minus (neuter singular of minor 'smaller, less'), comparative of parvus 'small'. It entered English as an adjective meaning 'less' in the late 14th century, and its use as a mathematical preposition/symbol was established in the mid-17th century.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[number] minus [number]",
+      "POS":"prep",
+      "POS_TIP":"Preposition",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"Reduced by the subtraction of.",
+      "DEF_ZH":"减去；除去（用于数学运算）。",
+      "SENT_EN":"Twelve minus five equals seven.",
+      "SENT_ZH":"十二减五等于七。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "less",
+            "subtract"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plus",
+            "added to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a minus",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "symbol",
+        "mathematics"
+      ],
+      "DEF_EN":"The negative sign (−) used in mathematics to indicate subtraction or a negative quantity.",
+      "DEF_ZH":"减号（−）；负号。",
+      "SENT_EN":"When multiplying two negative numbers, the result should not have a minus sign.",
+      "SENT_ZH":"当两个负数相乘时，结果不应该有减号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "negative",
+            "subtraction",
+            "negative number"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a minus",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"A disadvantage, defect, or negative factor.",
+      "DEF_ZH":"缺点；不利因素；减分项。",
+      "SENT_EN":"His lack of experience is a definite minus when considering him for the leadership role.",
+      "SENT_ZH":"在考虑他担任领导职务时，缺乏经验绝对是一个不利因素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drawback",
+            "downside",
+            "disadvantage"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plus",
+            "advantage",
+            "asset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"minus [temperature]\nminus [grade]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "temperature",
+        "grading"
+      ],
+      "DEF_EN":"Less than zero; negative (used especially for temperature or academic grading).",
+      "DEF_ZH":"负的；低于零的（尤指温度或分数）。",
+      "SENT_EN":"The weather forecast predicts minus twenty degrees tonight.",
+      "SENT_ZH":"天气预报说今晚是零下二十度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "negative",
+            "below zero"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plus",
+            "positive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] minus [sth]",
+      "POS":"prep",
+      "POS_TIP":"Preposition",
+      "TAGS":[
+        "informal",
+        "colloquial"
+      ],
+      "DEF_EN":"Without; lacking; having lost.",
+      "DEF_ZH":"没有；缺少；失去了。",
+      "SENT_EN":"He left the party minus his jacket and phone.",
+      "SENT_ZH":"他离开了派对，但没有带外套和手机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "without",
+            "lacking",
+            "bereft of"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Formal (in mathematical context); Neutral (as an adjective/noun referring to disadvantage)."
+}

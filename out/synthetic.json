@@ -1,0 +1,97 @@
+{
+  "WORD":"synthetic",
+  "IPA":"/sɪnˈθɛtɪk/",
+  "CONJUGATES":"synthetically (adv) | nonsynthetic (adj)",
+  "ETYMOLOGY":"From Greek synthetikos (related to putting together), via Latin syntheticus. Formed from syn- 'together' + tithenai 'to place, put'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] synthetic",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "common"
+      ],
+      "DEF_EN":"Made by chemical synthesis, especially to imitate a natural product; artificial or man-made.",
+      "DEF_ZH":"通过化学合成制造的，尤指模仿天然产物制造的；人造的。",
+      "SENT_EN":"Many modern fabrics, like nylon and polyester, are entirely synthetic.",
+      "SENT_ZH":"许多现代织物，比如尼龙和涤纶，都是完全合成的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "artificial",
+            "man-made",
+            "manufactured",
+            "fabricated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "natural",
+            "organic",
+            "genuine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] synthetic",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "pejorative",
+        "figurative"
+      ],
+      "DEF_EN":"Lacking genuine quality or sincerity; artificial or forced, especially regarding emotional expressions or appearance.",
+      "DEF_ZH":"缺乏真实性或诚意；人造的或做作的，尤其指情感表达或外观。",
+      "SENT_EN":"He flashed a synthetic smile that didn't hide his nervousness.",
+      "SENT_ZH":"他闪过一丝虚假的笑容，但无法掩盖他的紧张。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insincere",
+            "false",
+            "simulated",
+            "affected"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sincere",
+            "authentic",
+            "heartfelt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"synthetic [language/statement]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "philosophy",
+        "linguistics"
+      ],
+      "DEF_EN":"(Linguistics) Describing a language that uses inflections or affixes to express grammatical relationships, in contrast to analytic languages. (Philosophy/Logic) Relating to the process of synthesis; combining elements into a complex whole.",
+      "DEF_ZH":"(语言学) 综合语的，指依靠屈折变化或词缀表达语法关系的语言。(哲学/逻辑学) 综合性的，指将要素组合成一个复杂整体的过程。",
+      "SENT_EN":"Latin is characterized as a highly synthetic language due to its complex verb conjugations.",
+      "SENT_ZH":"由于其复杂的动词变位，拉丁语被定性为一种高度综合语。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "analytic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Chemistry, Linguistics)"
+}

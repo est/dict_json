@@ -1,0 +1,99 @@
+{
+  "WORD":"compromise",
+  "IPA":"/ˈkɒmprəmaɪz/",
+  "CONJUGATES":"compromises | compromising | compromised",
+  "ETYMOLOGY":"From Old French compromis, past participle of compromettre 'to promise jointly, submit to arbitration', from Latin compromittere (com- 'together' + promittere 'to promise'). The original meaning was a mutual promise to abide by the decision of an arbiter.",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An agreement or a settlement of a dispute that is reached by each side making concessions.",
+      "DEF_ZH":"一种通过双方各自让步而达成的协议或争端解决方案。",
+      "SENT_EN":"After long negotiations, they reached a compromise on the budget.",
+      "SENT_ZH":"经过长时间的谈判，他们就预算问题达成了妥协。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "settlement",
+            "deal",
+            "agreement",
+            "arrangement",
+            "middle ground"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "negotiation",
+            "concession",
+            "arbitration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To accept standards that are lower than desirable; to settle a dispute by mutual concession.",
+      "DEF_ZH":"降低标准；通过互相让步来解决争端。",
+      "SENT_EN":"Neither side was willing to compromise initially, but eventually they did.",
+      "SENT_ZH":"最初双方都不愿妥协，但最终他们还是让步了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concede",
+            "settle",
+            "yield",
+            "meet halfway"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insist",
+            "hold out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compromise [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "negative connotation"
+      ],
+      "DEF_EN":"To expose to danger, suspicion, or an unacceptable risk, usually by revealing sensitive information or by acting improperly.",
+      "DEF_ZH":"危及；损害（如安全、原则、声誉等），通常是通过泄露敏感信息或行为不当。",
+      "SENT_EN":"The security breach compromised thousands of customer accounts.",
+      "SENT_ZH":"这次安全漏洞危及了数千个客户账户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jeopardize",
+            "endanger",
+            "undermine",
+            "weaken",
+            "prejudice"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

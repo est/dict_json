@@ -1,0 +1,124 @@
+{
+  "WORD":"stream",
+  "IPA":"/striːm/",
+  "CONJUGATES":"streams | streaming | streamed",
+  "ETYMOLOGY":"From Old English strēam (noun/verb), akin to Old Norse straumr, Old High German stroum, ultimately derived from Proto-Indo-European *srow- 'to flow'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] stream [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small, narrow river or a continuous body of flowing water.",
+      "DEF_ZH":"溪流；小河。",
+      "SENT_EN":"We cooled our feet in the clear mountain stream.",
+      "SENT_ZH":"我们在清澈的山间溪流中冷却双脚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creek",
+            "brook",
+            "rivulet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] stream [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A continuous flow or succession of anything, such as liquid, air, traffic, or data.",
+      "DEF_ZH":"一股（水、气等）；一连串；持续不断的流动或涌入（人流、数据流）。",
+      "SENT_EN":"There was a constant stream of cars heading out of the city.",
+      "SENT_ZH":"有源源不断的汽车流驶出城市。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flow",
+            "current",
+            "tide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stream [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "digital",
+        "technology",
+        "very common"
+      ],
+      "DEF_EN":"To transmit or receive video or audio data over a computer network as a steady, continuous flow, allowing simultaneous playback.",
+      "DEF_ZH":"(在网络上)传输或在线播放（音视频）。",
+      "SENT_EN":"The concert will be streamed live on the internet next weekend.",
+      "SENT_ZH":"这场音乐会将于下周末在互联网上进行直播。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "broadcasting",
+            "live feed",
+            "podcasting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stream [vint]",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "general action"
+      ],
+      "DEF_EN":"To move or issue forth in a continuous current or direction.",
+      "DEF_ZH":"流出；涌出；飘扬。",
+      "SENT_EN":"Smoke streamed out of the burning building.",
+      "SENT_ZH":"浓烟从燃烧的建筑物中涌出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pour",
+            "gush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] stream [system]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "UK",
+        "education",
+        "specific use"
+      ],
+      "DEF_EN":"(In UK education) A grouping of students according to general ability or the type of studies they are pursuing.",
+      "DEF_ZH":"(英国教育)分班；分组（根据能力或学科选择）。",
+      "SENT_EN":"Students must choose between the academic stream and the vocational stream.",
+      "SENT_ZH":"学生必须在学术组和职业组之间做出选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "track",
+            "grouping"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Technology / Hydrology"
+}

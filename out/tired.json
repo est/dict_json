@@ -1,0 +1,111 @@
+{
+  "WORD":"tired",
+  "IPA":"/ˈtaɪərd/",
+  "CONJUGATES":"tire (v) | tires (v) | tiring (adj) | tiredly (adv) | tiredness (n)",
+  "ETYMOLOGY":"Past participle of the verb 'tire'. Middle English *tiren* (to harass, weary), possibly related to Old English *tīerian* (to vex, annoy).",
+  "SINCE":"c. 14th Century (as adj.)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is tired",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical state"
+      ],
+      "DEF_EN":"In need of rest or sleep; physically or mentally exhausted.",
+      "DEF_ZH":"疲倦的；精疲力尽的；需要休息或睡眠的。",
+      "SENT_EN":"I was so tired after the marathon that I slept for ten hours straight.",
+      "SENT_ZH":"跑完马拉松后我太累了，连续睡了十个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exhausted",
+            "weary",
+            "fatigued",
+            "sleepy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "energetic",
+            "refreshed",
+            "alert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is tired of [sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"Adjective followed by a preposition",
+      "TAGS":[
+        "idiomatic",
+        "feeling"
+      ],
+      "DEF_EN":"Bored with or impatient because of prolonged exposure to something tedious, difficult, or irritating.",
+      "DEF_ZH":"厌倦的；对某事感到烦躁或缺乏耐心的。",
+      "SENT_EN":"She is tired of always having the same argument with her neighbor.",
+      "SENT_ZH":"她厌倦了总是和她的邻居争论同样的事情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bored",
+            "fed up",
+            "sick of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is tired",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "describing objects",
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Worn out; lacking freshness, effectiveness, or originality (often used for objects, ideas, or jokes).",
+      "DEF_ZH":"磨损的；陈旧的；缺乏新意或效力的（常用于描述事物或想法）。",
+      "SENT_EN":"The political rhetoric felt tired and failed to inspire voters.",
+      "SENT_ZH":"这种政治言论听起来很陈旧，无法激励选民。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "worn-out",
+            "stale",
+            "hackneyed",
+            "clichéd"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] has tired [sb]",
+      "POS":"vpp",
+      "POS_TIP":"Verb Past Participle",
+      "TAGS":[
+        "grammatical"
+      ],
+      "DEF_EN":"Used as the past participle of the verb 'to tire,' meaning to drain the strength or patience of.",
+      "DEF_ZH":"动词'tire'（使疲惫）的过去分词形式。",
+      "SENT_EN":"The construction noise had tired him even before the meeting began.",
+      "SENT_ZH":"在会议开始之前，建筑噪音就已经让他感到疲惫了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, everyday English."
+}

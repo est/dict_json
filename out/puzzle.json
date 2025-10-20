@@ -1,0 +1,117 @@
+{
+  "WORD":"puzzle",
+  "IPA":"/ˈpʌzəl/",
+  "CONJUGATES":"puzzles | puzzling | puzzled",
+  "ETYMOLOGY":"Origin uncertain. Possibly related to the Middle English verb 'poselen' meaning 'to bewilder' or 'to pose a difficult question'.",
+  "SINCE":"c. 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] puzzle [to/for sb]",
+      "POS":"nc",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A game, toy, or problem designed to test ingenuity or knowledge, such as a jigsaw or crossword.",
+      "DEF_ZH":"益智游戏、玩具或问题，旨在考验智力或知识（如拼图或填字游戏）。",
+      "SENT_EN":"He loves spending his weekends working on complicated Sudoku puzzles.",
+      "SENT_ZH":"他喜欢在周末做复杂的数独谜题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brainteaser",
+            "enigma",
+            "conundrum"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jigsaw",
+            "crossword",
+            "riddle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] puzzle [to sb/sth]",
+      "POS":"nc",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A difficult and confusing question, situation, or person that is hard to understand or explain.",
+      "DEF_ZH":"一个难以理解或解释的难题、谜团或令人困惑的人或情况。",
+      "SENT_EN":"The exact cause of the accident remains a complete puzzle to investigators.",
+      "SENT_ZH":"事故的确切原因对调查人员来说仍是一个彻底的谜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mystery",
+            "enigma",
+            "conundrum",
+            "riddle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"puzzle [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To confuse or bewilder someone because something is difficult to understand.",
+      "DEF_ZH":"使（某人）感到困惑、不解或迷茫。",
+      "SENT_EN":"The strange message on the wall puzzled the security guards.",
+      "SENT_ZH":"墙上那条奇怪的信息让保安们感到困惑不解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confuse",
+            "bewilder",
+            "perplex",
+            "baffle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clarify",
+            "explain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"puzzle [over sth]",
+      "POS":"vitr + prep",
+      "POS_TIP":"Verb, intransitive + preposition",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To think deeply or carefully about something difficult in an attempt to understand or solve it.",
+      "DEF_ZH":"绞尽脑汁思考（某事），试图理解或解决。",
+      "SENT_EN":"She spent the morning puzzling over the financial reports.",
+      "SENT_ZH":"她花了一上午的时间苦思冥想那些财务报告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ponder",
+            "muse",
+            "deliberate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

@@ -1,0 +1,95 @@
+{
+  "WORD":"sow",
+  "IPA":"/soʊ/",
+  "CONJUGATES":"sow | sows | sowed | sown (past participle) | sowing (present participle) (verb); sows (noun, plural)",
+  "ETYMOLOGY":"From Old English 'sāwan' (verb, 'to sow, to plant'), from Proto-Germanic '*sēaną', ultimately from Proto-Indo-European '*seh₁-' ('to sow, to plant'). The noun 'sow' (female pig) is from Old English 'sugu', from Proto-Germanic '*sugō', ultimately from Proto-Indo-European '*su-' ('pig').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"sow [seeds/crops]\nsow [a field] [with seeds]",
+      "POS":"vtr, vitr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object) | vitr: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "agriculture"
+      ],
+      "DEF_EN":"To plant seeds by scattering them on or in the earth.",
+      "DEF_ZH":"播种；撒种 (将种子散播在土壤中)。",
+      "SENT_EN":"The farmer will sow the wheat in the spring, hoping for a bountiful harvest.",
+      "SENT_ZH":"农民将在春天播种小麦，希望能有个好收成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plant",
+            "seed",
+            "scatter",
+            "disseminate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sow [sth] (e.g., discord, doubt, confusion)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "metaphorical",
+        "idiomatic"
+      ],
+      "DEF_EN":"To introduce or spread something, especially feelings, ideas, or problems, that will cause trouble or have a particular effect.",
+      "DEF_ZH":"散布；激起 (尤指负面情绪、思想或麻烦，以造成困扰或特定结果)。",
+      "SENT_EN":"His intention was to sow discord among the team members.",
+      "SENT_ZH":"他的意图是在团队成员中散布不和。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spread",
+            "instigate",
+            "foster",
+            "disseminate",
+            "propagate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unite",
+            "reconcile",
+            "resolve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sow\nsows",
+      "POS":"n",
+      "POS_TIP":"n: noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "common",
+        "animal",
+        "agriculture",
+        "informal",
+        "derogatory"
+      ],
+      "DEF_EN":"An adult female pig. (Note: This noun is pronounced /saʊ/, unlike the verb /soʊ/). It can also be used informally as a derogatory term for a fat, untidy, or unpleasant woman.",
+      "DEF_ZH":"成年母猪。(注意：该名词发音为/saʊ/，与动词/soʊ/不同)。口语中也可贬义指肥胖、不整洁或令人不快的女人。",
+      "SENT_EN":"The sow fiercely protected her newborn piglets from the cold.",
+      "SENT_ZH":"那头母猪凶猛地保护着她刚出生的小猪仔免受寒冷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pig",
+            "boar",
+            "piglet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage for the verb; agricultural or informal/derogatory for the noun."
+}

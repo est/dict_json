@@ -1,0 +1,143 @@
+{
+  "WORD":"net",
+  "IPA":"/nɛt/",
+  "CONJUGATES":"nets (pl. noun) | netting (pres. part.) | netted (past tense/part.)",
+  "ETYMOLOGY":"For the 'fabric/structure' meaning: From Old English nett, from Proto-Germanic *natjąm. | For the 'pure/financial' meaning: From French net ('clean, pure, exclusive of deduction'), ultimately from Latin nitidus ('shining, clean').",
+  "SINCE":"Pre-1000 AD (for structure meaning) | c. 14th Century (for financial meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] net\n[sb] throw the net",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "concrete"
+      ],
+      "DEF_EN":"A fabric or structure made of threads, ropes, or wires woven or knotted together with holes between them, typically used for catching or enclosing something.",
+      "DEF_ZH":"由线、绳或金属丝编织或打结而成的结构，中间有孔，通常用于捕捞或围捕某物。",
+      "SENT_EN":"The butterfly collector chased the rare insect with his hand net.",
+      "SENT_ZH":"蝴蝶采集者用他的手网追逐那只稀有的昆虫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mesh",
+            "web",
+            "snare"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "netting",
+            "trawl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the net\na security net",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "metaphorical",
+        "common"
+      ],
+      "DEF_EN":"A complex system or structure, especially one connecting many different places or people (often used as a short form for the Internet).",
+      "DEF_ZH":"复杂的系统或结构，尤指连接许多不同地点或人物的系统（常作为互联网的简称）。",
+      "SENT_EN":"The company maintains a massive security net across all its branches.",
+      "SENT_ZH":"这家公司在所有分支机构中维护着一张巨大的安全网络。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "system",
+            "network",
+            "web"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "internet",
+            "intranet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"net [amount]\nnet profit",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "finance",
+        "commerce"
+      ],
+      "DEF_EN":"(Of an amount, weight, or result) remaining after all necessary deductions, such as tax or costs, have been made; opposite of gross.",
+      "DEF_ZH":"（指金额、重量或结果）扣除所有必要支出（如税款或成本）后剩余的；纯粹的；净的。",
+      "SENT_EN":"After taxes, the net salary was much lower than the gross amount.",
+      "SENT_ZH":"扣税后，净工资比总额低得多。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "gross"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "profit",
+            "deductible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"net [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action"
+      ],
+      "DEF_EN":"To catch or entrap something, especially a ball (in sports) or fish, in a net.",
+      "DEF_ZH":"用网捕获或困住某物，尤指球类运动中的进球或捕鱼。",
+      "SENT_EN":"He managed to net the winning goal in the final minutes of the match.",
+      "SENT_ZH":"在比赛的最后几分钟，他成功射入了制胜一球。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "catch",
+            "trap",
+            "entangle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"net [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "finance",
+        "idiomatic"
+      ],
+      "DEF_EN":"To earn or realize (an amount of money) as a net profit.",
+      "DEF_ZH":"赚得或实现（一笔钱）作为净利润。",
+      "SENT_EN":"The sale of the property netted the investor a substantial return.",
+      "SENT_ZH":"房产的出售为投资者净赚了可观的回报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gain",
+            "yield",
+            "clear"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, sports, and finance."
+}

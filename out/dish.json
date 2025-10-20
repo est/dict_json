@@ -1,0 +1,131 @@
+{
+  "WORD":"dish",
+  "IPA":"/dɪʃ/",
+  "CONJUGATES":"dishes | dished | dishing",
+  "ETYMOLOGY":"From Middle English dissh, from Old English disc ('bowl, plate'), ultimately from Latin discus ('disc, plate, quoit'), via Greek diskos.",
+  "SINCE":"c. 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A shallow container, usually round, used for holding or serving food.",
+      "DEF_ZH":"用于盛放或端上食物的浅容器，通常为圆形。",
+      "SENT_EN":"The dishwasher was full of dirty dishes after the party.",
+      "SENT_ZH":"派对结束后，洗碗机里装满了脏盘子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plate",
+            "bowl",
+            "platter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "cooking"
+      ],
+      "DEF_EN":"Food prepared in a particular way or served as a course in a meal.",
+      "DEF_ZH":"特别烹制的食物或作为一餐中一道菜肴的食物。",
+      "SENT_EN":"Tacos are a popular Mexican dish.",
+      "SENT_ZH":"墨西哥玉米饼是一道很受欢迎的墨西哥菜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recipe",
+            "fare",
+            "cuisine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (up/out)",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverbial particle",
+      "TAGS":[
+        "phrasal verb",
+        "cooking"
+      ],
+      "DEF_EN":"To put food from a pot or serving vessel onto plates for eating.",
+      "DEF_ZH":"将食物从锅或容器中分装到盘子里供食用（常与up或out连用）。",
+      "SENT_EN":"He quickly dished out the spaghetti for the children.",
+      "SENT_ZH":"他迅速地为孩子们盛出了意大利面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "serve",
+            "plate",
+            "apportion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (e.g., satellite dish)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technology",
+        "equipment"
+      ],
+      "DEF_EN":"A concave antenna used for receiving or transmitting radio waves, often for television signals.",
+      "DEF_ZH":"一种用于接收或发射无线电波的凹形天线，常用于电视信号（例如卫星天线）。",
+      "SENT_EN":"We need to reposition the satellite dish to improve reception.",
+      "SENT_ZH":"我们需要重新调整卫星天线的位置以改善接收效果。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "antenna",
+            "receiver"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dish (out) [sth] (informal)",
+      "POS":"vit | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "idiomatic",
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"To give out or share information, especially gossip or scandalous details.",
+      "DEF_ZH":"泄露或分享信息，特指八卦或丑闻细节（非正式）。",
+      "SENT_EN":"The two friends spent the afternoon dishing about their former classmates.",
+      "SENT_ZH":"这两个朋友花了一下午的时间八卦她们以前的同学。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gossip",
+            "reveal",
+            "tell"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dish the dirt"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

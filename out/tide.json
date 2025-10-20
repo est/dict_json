@@ -1,0 +1,95 @@
+{
+  "WORD":"tide",
+  "IPA":"/taɪd/",
+  "CONJUGATES":"tides | tiding | tided",
+  "ETYMOLOGY":"From Old English tīd 'time, hour, season', from Proto-Germanic *tīdiz, related to Old Norse tíð 'time, season', and ultimately to Proto-Indo-European *dī- 'to divide, to limit, time'. The specific sense of 'rise and fall of the sea' developed around the 13th century, perhaps influenced by the cyclical nature of time/season.",
+  "SINCE":"Before 900 AD (as time/season); c. 1200s (as sea movement)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] tide",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "natural phenomenon"
+      ],
+      "DEF_EN":"The alternate rising and falling of the sea, usually twice in each lunar day, due to the gravitational pull of the moon and sun.",
+      "DEF_ZH":"由于月球和太阳的引力作用，海面周期性地涨落的现象，通常在每个太阴日发生两次。",
+      "SENT_EN":"The high tide is expected around noon today.",
+      "SENT_ZH":"今天中午左右预计是高潮。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "high tide",
+            "low tide",
+            "neap tide",
+            "spring tide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"turn the tide\nagainst the tide",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A powerful surge or current, often used figuratively to denote a trend, course of events, or predominant feeling.",
+      "DEF_ZH":"强大的浪潮或趋势（常用于比喻），表示潮流、事态的发展方向或主要情绪。",
+      "SENT_EN":"Public opinion is turning against the new policy, creating a strong political tide.",
+      "SENT_ZH":"公众舆论正在反对这项新政策，形成一股强大的政治浪潮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trend",
+            "current",
+            "flow",
+            "stream"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tide [sb] over",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb followed by an adverbial particle",
+      "TAGS":[
+        "phrasal verb",
+        "common"
+      ],
+      "DEF_EN":"To help someone through a difficult period, especially by providing a temporary supply of money or food.",
+      "DEF_ZH":"帮助（某人）渡过难关，尤指暂时提供金钱或食物。",
+      "SENT_EN":"Can you lend me ten dollars to tide me over until payday?",
+      "SENT_ZH":"你能借我十美元，让我撑到发薪日吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sustain",
+            "support",
+            "keep afloat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[obsolete] tide",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "historical"
+      ],
+      "DEF_EN":"A period of time; a season or festival (now mainly preserved in compounds like 'Whitsuntide').",
+      "DEF_ZH":"一段时期；一个季节或节日（现主要保留在复合词中，如'Whitsuntide'）。",
+      "SENT_EN":"In old times, Eastertide was a major holiday.",
+      "SENT_ZH":"在古代，复活节期间是一个重要的节日。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, scientific (Meaning 1), idiomatic (Meaning 2 & 3)"
+}

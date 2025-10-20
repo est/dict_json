@@ -1,0 +1,105 @@
+{
+  "WORD":"swim",
+  "IPA":"/swɪm/",
+  "CONJUGATES":"swims | swimming | swam | swum",
+  "ETYMOLOGY":"From Old English swimman, from Proto-Germanic *swemmanan (related to Old High German swimman, Dutch zwemmen, Old Norse svimma). Ultimately from Proto-Indo-European *swem- 'to move, swing'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"swim (vi)",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb: A verb that does not require a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To propel the body through water by coordinated movement of the limbs and body.",
+      "DEF_ZH":"通过四肢和身体的协调运动在水中推动身体前进。",
+      "SENT_EN":"We went to the lake to swim yesterday.",
+      "SENT_ZH":"我们昨天去湖边游泳了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "float",
+            "paddle",
+            "stroke"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "swimmer",
+            "swimming pool"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"swim [sth] (vtr)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: A verb that takes one or more direct objects.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To cross or traverse a body of water or distance by swimming.",
+      "DEF_ZH":"通过游泳穿过（某个水域或距离）。",
+      "SENT_EN":"Few people have managed to swim the English Channel.",
+      "SENT_ZH":"很少有人成功游过英吉利海峡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cross",
+            "traverse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] head swims (vi)",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb (often used figuratively, especially with 'head' or 'senses').",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To feel dizzy, unsteady, or confused.",
+      "DEF_ZH":"感到头晕目眩、不稳定或困惑。",
+      "SENT_EN":"The strong heat made my head swim.",
+      "SENT_ZH":"强烈的热气让我感到头晕目眩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dizzy",
+            "reel",
+            "spin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a swim (n)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"An act, period, or instance of swimming.",
+      "DEF_ZH":"一次游泳活动或一段游泳时间。",
+      "SENT_EN":"Let's go for a quick swim before dinner.",
+      "SENT_ZH":"我们在晚餐前快速去游个泳吧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dip",
+            "bathe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

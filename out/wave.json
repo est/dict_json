@@ -1,0 +1,176 @@
+{
+  "WORD":"wave",
+  "IPA":"/weɪv/",
+  "CONJUGATES":"waves | waved | waving",
+  "ETYMOLOGY":"From Old English `wafian` (to wave, fluctuate); related to Old Norse `vafra` (to waver).",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a wave",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A moving ridge or swell on the surface of a body of water, a continuous undulation.",
+      "DEF_ZH":"水面上连续起伏的波浪；海浪。",
+      "SENT_EN":"The surfer rode a huge wave all the way to the shore.",
+      "SENT_ZH":"冲浪者乘着一个巨浪一路冲向岸边。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swell",
+            "breaker",
+            "ripple",
+            "undulation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tide",
+            "current",
+            "surf"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a wave",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A gesture made by moving one's hand or arm back and forth, as a greeting or signal.",
+      "DEF_ZH":"手或手臂来回摆动以作问候或信号的姿势。",
+      "SENT_EN":"She gave a little wave goodbye from the train window.",
+      "SENT_ZH":"她从火车窗户挥手告别。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gesture",
+            "signal",
+            "salute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wave [sth]\nwave [at sb/sth] | wave [to sb]",
+      "POS":"vitr | vtr",
+      "POS_TIP":"vitr: intransitive verb; vtr: transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To move one's hand or arm up and down or from side to side in order to say hello or goodbye or to give a signal.",
+      "DEF_ZH":"向上或向下或左右移动手或手臂，以打招呼、告别或发出信号。",
+      "SENT_EN":"They waved excitedly as the parade passed by.",
+      "SENT_ZH":"游行队伍经过时，他们兴奋地挥手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gesture",
+            "signal",
+            "beckon"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] waves\nwave [sth]",
+      "POS":"vitr | vtr",
+      "POS_TIP":"vitr: intransitive verb; vtr: transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To move back and forth or up and down with a light, undulating motion; to cause something to move in this way.",
+      "DEF_ZH":"轻柔地来回或上下摆动，呈波浪状；使某物以这种方式摆动。",
+      "SENT_EN":"The flag waved proudly in the breeze.",
+      "SENT_ZH":"旗帜在微风中骄傲地飘扬。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "undulate",
+            "flutter",
+            "sway",
+            "ripple",
+            "billow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a wave [of sth]",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"A sudden or strong surge, increase, or trend of something.",
+      "DEF_ZH":"某种事物突然或强烈地涌来、增长或趋势。",
+      "SENT_EN":"A new wave of refugees arrived at the border.",
+      "SENT_ZH":"新一波难民抵达边境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surge",
+            "flood",
+            "rush",
+            "influx",
+            "onslaught"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "trend",
+            "movement",
+            "period"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a wave",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"A physical phenomenon in which a disturbance is propagated through space or a medium without net translation of the medium itself, transferring energy.",
+      "DEF_ZH":"能量或扰动在空间或介质中传播的现象，通常不伴随介质本身的净位移，并传递能量。",
+      "SENT_EN":"Light and sound are examples of different types of waves.",
+      "SENT_ZH":"光和声音是不同类型波的例子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "frequency",
+            "amplitude",
+            "wavelength",
+            "vibration",
+            "oscillation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific technical usage in physics."
+}

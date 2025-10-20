@@ -1,0 +1,66 @@
+{
+  "WORD":"hurricane",
+  "IPA":"/ˈhɜːrɪkeɪn/",
+  "CONJUGATES":"hurricanes",
+  "ETYMOLOGY":"From Spanish huracán, probably via Portuguese, ultimately from Taíno (an Arawakan language of the Caribbean) hurakán, meaning 'god of the storm'.",
+  "SINCE":"c. 1610",
+  "MEANINGS":[
+    {
+      "PATTERN":"[noun]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "meteorology",
+        "common"
+      ],
+      "DEF_EN":"A severe tropical cyclone originating in the North Atlantic Ocean, the Northeast Pacific Ocean, or the South Pacific east of 160°E, characterized by maximum sustained winds of 74 miles (119 kilometers) per hour or higher.",
+      "DEF_ZH":"一种在北大西洋、东北太平洋或南太平洋（东经160度以东）地区形成的热带气旋，最大持续风速达到或超过每小时74英里（119公里）。",
+      "SENT_EN":"The small island suffered catastrophic damage after the category five hurricane passed through.",
+      "SENT_ZH":"五级飓风经过后，这个小岛遭受了灾难性的破坏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "typhoon",
+            "cyclone",
+            "tempest"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "storm surge",
+            "tropical storm",
+            "eye"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hurricane of [sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A person or thing that acts with extreme speed, force, or intensity; a great, overwhelming rush.",
+      "DEF_ZH":"形容某人或某事物以极快的速度、力量或强度行动；一股巨大的、压倒性的冲击。",
+      "SENT_EN":"The small country was hit by a hurricane of political change.",
+      "SENT_ZH":"这个小国遭受了一场政治变革的飓风。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whirlwind",
+            "torrent",
+            "frenzy",
+            "firestorm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, primarily scientific (meteorology) and geographical."
+}

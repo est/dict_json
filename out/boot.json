@@ -1,0 +1,112 @@
+{
+  "WORD":"boot",
+  "IPA":"/buːt/",
+  "CONJUGATES":"boots | booted | booting",
+  "ETYMOLOGY":"From Old French 'bote' (Norman French 'botte'), likely of Germanic origin, meaning a type of footwear. The computing usage is short for 'bootstrap loading,' referring to the system lifting itself up by its own 'bootstraps.'",
+  "SINCE":"c. 1300 (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "clothing"
+      ],
+      "DEF_EN":"A sturdy shoe or item of footwear covering the foot and ankle, often extending up the leg.",
+      "DEF_ZH":"靴子；（通常指）及踝或及膝的重型鞋类。",
+      "SENT_EN":"She pulled on her leather boots before heading out into the snow.",
+      "SENT_ZH":"她在出门进雪地前穿上了她的皮靴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "footwear",
+            "wellington"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bootlace",
+            "bootleg"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (up)",
+      "POS":"vtr. | vi.",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"To start up a computer or operating system by loading the initial instructions into memory (short for 'bootstrap').",
+      "DEF_ZH":"启动（计算机或操作系统）；引导。",
+      "SENT_EN":"We need to boot up the entire network before the office opens.",
+      "SENT_ZH":"在办公室开放前，我们需要启动整个网络。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "start",
+            "load"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reboot",
+            "bootstrap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] (out)",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "informal"
+      ],
+      "DEF_EN":"To kick something hard; also, informally, to forcefully eject or dismiss someone.",
+      "DEF_ZH":"猛踢；（非正式）将某人开除或赶走。",
+      "SENT_EN":"If you don't pay the rent, the landlord will boot you out.",
+      "SENT_ZH":"如果你不付房租，房东会把你赶出去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kick",
+            "eject",
+            "dismiss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "UK",
+        "automotive"
+      ],
+      "DEF_EN":"(UK) The compartment at the back of a car used for storing luggage; the trunk (US).",
+      "DEF_ZH":"（英）汽车的行李箱；后备箱。",
+      "SENT_EN":"I put the groceries in the boot before driving home.",
+      "SENT_ZH":"我在开车回家前把杂货放进了后备箱。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trunk"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, used across technical, casual, and formal contexts."
+}

@@ -1,0 +1,64 @@
+{
+  "WORD":"OBJECTION",
+  "IPA":"/əbˈdʒekʃən/",
+  "CONJUGATES":"objections",
+  "ETYMOLOGY":"From Middle English, via Old French obiection, from Latin obiectio (stem obiection-), from obiectus, past participle of obicere ('to throw against or before, oppose'). Formed from ob- ('against') + iacere ('to throw').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"objection [to sth/doing sth]",
+      "POS":"n | c | u",
+      "POS_TIP":"noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An expression or feeling of disapproval or opposition; a reason for disagreeing.",
+      "DEF_ZH":"表示不赞成、反对或异议；表示不同意的理由。",
+      "SENT_EN":"The committee raised several objections to the proposed budget cuts.",
+      "SENT_ZH":"委员会对提议的预算削减提出了几项反对意见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protest",
+            "disagreement",
+            "dissent",
+            "exception"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "approval",
+            "assent",
+            "agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"objection",
+      "POS":"n | c",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "legal jargon",
+        "formal"
+      ],
+      "DEF_EN":"A formal protest raised in court against an opponent’s line of questioning or the admissibility of evidence, usually called out to the judge.",
+      "DEF_ZH":"在法庭上对对方的提问方式或证据的可采性提出的正式抗议（通常对法官提出）。",
+      "SENT_EN":"The lawyer jumped up and shouted, 'Objection, your honor! That is hearsay!'",
+      "SENT_ZH":"律师跳起来喊道：“反对，法官大人！那是传闻！”",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sustained",
+            "overruled"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly common in formal discussions and legal settings."
+}

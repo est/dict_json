@@ -1,0 +1,114 @@
+{
+  "WORD":"section",
+  "IPA":"/sɛkʃən/",
+  "CONJUGATES":"sections | sectioned | sectioning",
+  "ETYMOLOGY":"From Latin sectio (stem section-), meaning 'a cutting, a cutting off, division', derived from secare 'to cut'.",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a section of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Any of the parts into which something is divided or of which it is made up.",
+      "DEF_ZH":"某个整体被分割成的部分或组成部分；区域；部门。",
+      "SENT_EN":"Please turn to the finance section of today’s newspaper.",
+      "SENT_ZH":"请翻到今天报纸的财经版块。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "part",
+            "division",
+            "segment",
+            "portion",
+            "chapter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "department",
+            "area"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"section [Number]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal",
+        "administrative"
+      ],
+      "DEF_EN":"A distinct part of a legal or official document, law, or book, typically numbered.",
+      "DEF_ZH":"法律、正式文件或书籍中独立的部分，通常以编号标示的条款或章节。",
+      "SENT_EN":"He was charged under Section 50 of the new penal code.",
+      "SENT_ZH":"他根据新刑法的第50条被指控。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "article",
+            "clause",
+            "paragraph",
+            "provision"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"section of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "science",
+        "mathematics"
+      ],
+      "DEF_EN":"A two-dimensional surface or shape that is exposed by making a straight cut through a three-dimensional object; a cross-section.",
+      "DEF_ZH":"通过直线切割三维物体所暴露的二维表面或形状；横截面；切片。",
+      "SENT_EN":"The geologist studied a polished section of the rock to determine its mineral composition.",
+      "SENT_ZH":"这位地质学家研究了岩石的抛光切片，以确定其矿物成分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cross-section",
+            "slice",
+            "specimen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"section [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "less common",
+        "technical"
+      ],
+      "DEF_EN":"To divide (something) into distinct parts or sections.",
+      "DEF_ZH":"将（某物）划分成不同的部分或段落；隔开。",
+      "SENT_EN":"They sectioned off the dangerous area of the construction site.",
+      "SENT_ZH":"他们把建筑工地的危险区域隔开了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divide",
+            "segment",
+            "partition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and academic use, common in administrative and technical contexts."
+}

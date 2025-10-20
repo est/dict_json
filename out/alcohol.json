@@ -1,0 +1,86 @@
+{
+  "WORD":"alcohol",
+  "IPA":"/'ælkəˌhɔl/",
+  "CONJUGATES":"alcohols",
+  "ETYMOLOGY":"From Medieval Latin alcohol, borrowed from Arabic al-kuḥl (الكُحْل), originally meaning 'kohl' (fine powder, usually antimony used as eyeliner). The meaning later shifted to highly refined essences or spirits due to the fine, volatile nature of distilled liquids.",
+  "SINCE":"c. 1670s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U]",
+      "POS":"Noun",
+      "POS_TIP":"Uncountable Noun (Mass Noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A colorless, volatile, flammable liquid (ethanol or ethyl alcohol, C₂H₅OH) that is the intoxicating agent found in beer, wine, and spirits, and is widely used as a solvent and disinfectant.",
+      "DEF_ZH":"一种无色、易挥发、易燃的液体（乙醇），是啤酒、葡萄酒和烈酒中的致醉成分，并广泛用作溶剂和消毒剂。",
+      "SENT_EN":"Driving after consuming alcohol is strictly prohibited.",
+      "SENT_ZH":"饮酒后驾驶是严格禁止的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ethanol",
+            "liquor",
+            "booze",
+            "spirits"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "intoxication",
+            "hangover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U]",
+      "POS":"Noun",
+      "POS_TIP":"Uncountable Noun (Mass Noun)",
+      "TAGS":[
+        "common",
+        "collective"
+      ],
+      "DEF_EN":"Alcoholic drinks considered collectively.",
+      "DEF_ZH":"泛指酒精饮料。",
+      "SENT_EN":"The restaurant does not serve alcohol on Sundays.",
+      "SENT_ZH":"这家餐馆周日不提供酒精饮料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drink",
+            "intoxicant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[C]",
+      "POS":"Noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "chemistry",
+        "technical"
+      ],
+      "DEF_EN":"Any organic compound in which the hydroxyl functional group (-OH) is bound to a saturated carbon atom (e.g., methanol, propanol).",
+      "DEF_ZH":"羟基官能团（-OH）连接到饱和碳原子上的任何有机化合物（例如甲醇、丙醇）。",
+      "SENT_EN":"Chemists classify glycerol as a type of alcohol.",
+      "SENT_ZH":"化学家将甘油归类为一种醇。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "methanol",
+            "hydroxyl",
+            "phenol"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

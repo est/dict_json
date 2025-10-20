@@ -1,0 +1,101 @@
+{
+  "WORD":"clue",
+  "IPA":"/kluː/",
+  "CONJUGATES":"clues | clued | cluing",
+  "ETYMOLOGY":"From Middle English clew, originally meaning 'a ball of thread or yarn,' derived from Old English cliwen. The modern meaning of 'hint' or 'guidance' developed from the mythological use of a thread (clew) to guide one out of a labyrinth (e.g., Theseus).",
+  "SINCE":"c. 1400 (as 'thread'); 16th century (as 'hint')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[a clue] to [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A piece of evidence or information that helps solve a mystery, crime, or problem.",
+      "DEF_ZH":"线索；提示；迹象",
+      "SENT_EN":"The detectives searched the room for any potential clues.",
+      "SENT_ZH":"侦探们搜查了房间，寻找任何潜在的线索。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hint",
+            "indication",
+            "lead",
+            "sign",
+            "pointer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"not have a clue",
+      "POS":"n",
+      "POS_TIP":"Noun (used primarily in fixed idioms)",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"(In phrases like 'not have a clue') knowledge or understanding of a situation.",
+      "DEF_ZH":"(用于习语中，指) 知识；理解；头绪",
+      "SENT_EN":"I didn't have a clue what the professor was talking about in the lecture.",
+      "SENT_ZH":"我完全不知道教授在讲座中说了些什么。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "idea",
+            "understanding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clue [sb] in (on [sth])",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive verb + adverb (phrasal verb)",
+      "TAGS":[
+        "phrasal verb",
+        "informal"
+      ],
+      "DEF_EN":"To give someone relevant information or an update; to inform or brief someone.",
+      "DEF_ZH":"向（某人）提供信息；告知最新情况；启发",
+      "SENT_EN":"The manager quickly clued the new staff in on the office protocols.",
+      "SENT_ZH":"经理迅速向新员工告知了办公室的规章制度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inform",
+            "brief",
+            "fill in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "archaic",
+        "nautical"
+      ],
+      "DEF_EN":"A ball of thread or yarn (the original meaning).",
+      "DEF_ZH":"线团；线球 (旧用法或文学用法)",
+      "SENT_EN":"She unrolled the clue of fine silk thread.",
+      "SENT_ZH":"她解开了一团细丝线。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "clew"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (Noun); Informal (Verb use in 'clue in')"
+}

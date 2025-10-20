@@ -1,0 +1,86 @@
+{
+  "WORD":"several",
+  "IPA":"/ˈsɛvərəl/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English *several*, from Old French *several* ('separate, diverse'), ultimately derived from the Late Latin *separalis*, related to Latin *separare* ('to separate'). The meaning shifted from 'separate/distinct' to 'a small number' during the 15th century.",
+  "SINCE":"c. 1300 (adjective, meaning 'separate'); c. 1450 (meaning 'more than two or three')",
+  "MEANINGS":[
+    {
+      "PATTERN":"several [plural noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective (修饰名词的词)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Being more than two or three but not numerous; an indefinite number.",
+      "DEF_ZH":"一些；几个；数个（指数量多于两个或三个，但不算多的不定数目）",
+      "SENT_EN":"The project was delayed for several weeks due to bad weather.",
+      "SENT_ZH":"由于天气不好，该项目被推迟了数周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "a few",
+            "a number of",
+            "various",
+            "multiple"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "one",
+            "many"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"several [of sth]",
+      "POS":"pron",
+      "POS_TIP":"pronoun (代词)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A small, indefinite number of persons or things (used independently).",
+      "DEF_ZH":"几个；数个（代指少数人或物）",
+      "SENT_EN":"When asked who wanted to volunteer, several raised their hands.",
+      "SENT_ZH":"当被问到谁想做志愿者时，有几个人举起了手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "some",
+            "a few"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"several [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (修饰名词的词)",
+      "TAGS":[
+        "rare",
+        "archaic",
+        "legal"
+      ],
+      "DEF_EN":"Separate; distinct; individual (used especially in historical or legal contexts, the original meaning of the word).",
+      "DEF_ZH":"各自的；分离的；独立的（主要用于法律或古语，强调分离性）",
+      "SENT_EN":"The contract stipulates that the parties shall have several, and not joint, liability.",
+      "SENT_ZH":"合同规定各方应承担各自的而非共同的责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "distinct",
+            "individual"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

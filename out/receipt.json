@@ -1,0 +1,101 @@
+{
+  "WORD":"receipt",
+  "IPA":"/rɪˈsiːt/",
+  "CONJUGATES":"receipts | receipted | receipting",
+  "ETYMOLOGY":"From Middle English receite, via Old French receite, ultimately from Medieval Latin recepta (feminine past participle of recipere 'to receive'). The 'p' was later inserted in imitation of the Latin spelling but remains silent.",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (for sth)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "common"
+      ],
+      "DEF_EN":"A written or printed statement acknowledging that something (usually money, goods, or services) has been received.",
+      "DEF_ZH":"证明已收到某物（通常是金钱、货物或服务）的书面或印刷凭证；收据。",
+      "SENT_EN":"Keep your receipt in case you need to return the clothes.",
+      "SENT_ZH":"保留好你的收据，以防你需要退衣服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "voucher",
+            "stub",
+            "proof of purchase",
+            "bill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the receipt [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "act"
+      ],
+      "DEF_EN":"The act or fact of receiving something.",
+      "DEF_ZH":"收到某物这一行为或事实。",
+      "SENT_EN":"We acknowledge receipt of your application and will process it shortly.",
+      "SENT_ZH":"我们确认已收到您的申请，并将尽快处理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reception",
+            "receiving"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (plural)",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "accounting",
+        "business"
+      ],
+      "DEF_EN":"The amount of money received over a period, especially by a business; income or revenue.",
+      "DEF_ZH":"（尤指企业在特定时期内）收到的金额；收入；收益。",
+      "SENT_EN":"The box office receipts for the new movie were astronomical.",
+      "SENT_ZH":"这部新电影的票房收入非常惊人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revenue",
+            "earnings",
+            "takings"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receipt [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "business"
+      ],
+      "DEF_EN":"To mark a bill as paid or to write a receipt for something.",
+      "DEF_ZH":"在账单上标记已支付；开具收据。",
+      "SENT_EN":"Please receipt this invoice before you file it.",
+      "SENT_ZH":"请在归档之前，为此发票开具收据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "issue a receipt",
+            "sign off"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Business"
+}

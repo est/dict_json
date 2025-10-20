@@ -1,0 +1,87 @@
+{
+  "WORD":"remember",
+  "IPA":"/rɪˈmɛmbər/",
+  "CONJUGATES":"remembers | remembering | remembered",
+  "ETYMOLOGY":"From Middle English *rememberen*, from Old French *re-membrer* (re- 'again' + membrer 'to put together, recall'), ultimately from Latin *memor* 'mindful'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"remember [sth]\nremember (that...)",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To recall a fact, event, or sensation from the past; to bring back to the mind.",
+      "DEF_ZH":"回想起过去的事实、事件或感觉；忆起。",
+      "SENT_EN":"I can't remember where I left my keys this morning.",
+      "SENT_ZH":"我不记得今天早上我把钥匙放哪儿了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recall",
+            "recollect",
+            "retain",
+            "memorize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forget",
+            "oblivion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"remember [to do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Instructional",
+        "Duty"
+      ],
+      "DEF_EN":"To not forget to perform a necessary action or duty.",
+      "DEF_ZH":"记住做某事；不遗忘去做（某项任务或指示）。",
+      "SENT_EN":"Please remember to set your alarm before you go to sleep.",
+      "SENT_ZH":"请记住睡觉前要设好闹钟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mind",
+            "heed",
+            "bear in mind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"remember [sb]\nremember [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Ceremonial"
+      ],
+      "DEF_EN":"To keep the memory of a deceased person or past event alive through honoring or commemoration.",
+      "DEF_ZH":"纪念；缅怀（通过仪式或活动来保持对逝者或事件的记忆）。",
+      "SENT_EN":"We gather every November to remember those who served in the war.",
+      "SENT_ZH":"我们每年十一月聚集在一起纪念那些参战的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commemorate",
+            "honor",
+            "memorialize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

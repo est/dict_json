@@ -1,0 +1,95 @@
+{
+  "WORD":"emotion",
+  "IPA":"/ɪˈmoʊʃən/",
+  "CONJUGATES":"emotions (pl.) | emotional (adj.) | emotionally (adv.)",
+  "ETYMOLOGY":"From Middle French émouvoir (to stir up) | ultimately from Latin ēmovēre (to move out, remove) (ē- 'out' + movēre 'to move')",
+  "SINCE":"c. 1570s (meaning 'public disturbance, movement') | 1650s (meaning 'strong feeling')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c/u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A strong feeling such as joy or sadness, derived from one's circumstances, mood, or relationships with others.",
+      "DEF_ZH":"由个人处境、心情或与他人的关系而产生的强烈感觉，如快乐或悲伤。",
+      "SENT_EN":"She tried to hide her emotions during the funeral.",
+      "SENT_ZH":"在葬礼期间，她试图隐藏自己的情绪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "feeling",
+            "sentiment",
+            "passion",
+            "affect"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mood",
+            "temperament",
+            "state of mind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The part of a person's character that consists of feelings, as opposed to thought or reason.",
+      "DEF_ZH":"指人的性格中由情感组成的部分，与思想或理性相对。",
+      "SENT_EN":"He lets his emotion rather than logic dictate his decisions.",
+      "SENT_ZH":"他让自己的情感而非逻辑来主导他的决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sensibility",
+            "heart",
+            "feeling"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reason",
+            "logic",
+            "intellect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "old word"
+      ],
+      "DEF_EN":"A public disturbance or agitation.",
+      "DEF_ZH":"公众骚乱或激动。",
+      "SENT_EN":"The city was in a state of great emotion after the riot.",
+      "SENT_ZH":"骚乱之后，这座城市处于极度骚动不安的状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "agitation",
+            "turmoil",
+            "commotion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English | Psychology"
+}

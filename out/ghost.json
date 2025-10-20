@@ -1,0 +1,105 @@
+{
+  "WORD":"ghost",
+  "IPA":"/ɡoʊst/",
+  "CONJUGATES":"ghosts | ghosting | ghosted",
+  "ETYMOLOGY":"From Old English gāst ('spirit, soul, breath'), related to Dutch geest and German Geist. The silent 'h' appeared in Middle English (c. 15th century) influenced by Flemish or Dutch spelling.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (a person, place, or thing)",
+      "TAGS":[
+        "core word",
+        "supernatural",
+        "mythology"
+      ],
+      "DEF_EN":"The disembodied spirit of a deceased person, often imagined as appearing as a vague shape or source of unusual sound.",
+      "DEF_ZH":"死者的脱离肉体的灵魂，通常被想象为模糊的形状或异常声音的来源。",
+      "SENT_EN":"Many people claim to have seen the ghost of a former resident in the mansion.",
+      "SENT_ZH":"许多人声称在那栋豪宅中见过一位前居民的幽灵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spirit",
+            "specter",
+            "phantom",
+            "apparition",
+            "shade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ghost of [sth]",
+      "POS":"n. + prep",
+      "POS_TIP":"noun (a person, place, or thing) + preposition",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A faint, pale, or vague trace or semblance of something.",
+      "DEF_ZH":"某事物微弱、苍白或模糊的痕迹或表象。",
+      "SENT_EN":"There was only a ghost of a smile on his face, suggesting mild amusement.",
+      "SENT_ZH":"他脸上只有一丝若隐若现的微笑，暗示着轻微的娱乐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trace",
+            "hint",
+            "shadow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ghost [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "slang",
+        "modern",
+        "dating"
+      ],
+      "DEF_EN":"To abruptly end all communication with someone without explanation (especially in a relationship context).",
+      "DEF_ZH":"突然且毫无解释地切断与某人的所有联系（尤其是在恋爱关系中）。",
+      "SENT_EN":"She was upset because he just ghosted her after their third date.",
+      "SENT_ZH":"她很沮丧，因为他在第三次约会后就对她玩失踪了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dump",
+            "flaking"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "descriptive",
+        "literary"
+      ],
+      "DEF_EN":"To move silently and rapidly, often in a stealthy or evasive manner.",
+      "DEF_ZH":"无声且快速地移动，通常以隐秘或躲避的方式。",
+      "SENT_EN":"The submarine ghosted through the foggy inlet.",
+      "SENT_ZH":"潜艇悄无声息地穿过了雾蒙蒙的海湾入口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slink",
+            "creep",
+            "prowl"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common (Noun); Informal/Slang (Verb)"
+}

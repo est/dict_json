@@ -1,0 +1,88 @@
+{
+  "WORD":"environment",
+  "IPA":"/ɪnˈvaɪrənmənt/",
+  "CONJUGATES":"environments (pl.) | environmental (adj.) | environmentally (adv.)",
+  "ETYMOLOGY":"From French environnement (circa 1590s), from environner 'to surround' (environ 'around', from Old French environ, en- 'in, within' + viron 'a circuit, circle')",
+  "SINCE":"c. 1603",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The surroundings or conditions in which a person, animal, or plant lives or operates.",
+      "DEF_ZH":"指一个人、动物或植物生活或运作的周围环境或条件。",
+      "SENT_EN":"We need to protect the natural environment for future generations.",
+      "SENT_ZH":"我们需要为后代保护自然环境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surroundings",
+            "setting",
+            "habitat",
+            "milieu"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ecology",
+            "ecosystem",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"The conditions and factors that influence an individual's development, behavior, or character.",
+      "DEF_ZH":"影响个人发展、行为或性格的条件和因素；成长背景。",
+      "SENT_EN":"A supportive family environment is crucial for a child's early development.",
+      "SENT_ZH":"一个支持性的家庭环境对孩子的早期发展至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "atmosphere",
+            "climate",
+            "context"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computing, the specific configuration of software and hardware on a computer system where a program is executed or developed.",
+      "DEF_ZH":"在计算机领域，指计算机系统上执行或开发程序时特定的软件和硬件配置。",
+      "SENT_EN":"The developers tested the application in a simulated production environment.",
+      "SENT_ZH":"开发人员在一个模拟的生产环境中测试了该应用程序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "platform",
+            "framework",
+            "setup"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

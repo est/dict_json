@@ -1,0 +1,134 @@
+{
+  "WORD":"acid",
+  "IPA":"/ˈæsɪd/",
+  "CONJUGATES":"acids | more acid | most acid | acidic",
+  "ETYMOLOGY":"From Latin acidus 'sour', which is related to acuere 'to sharpen' and acus 'needle'. Via Old French acide.",
+  "SINCE":"Late 14th century (as adjective); early 17th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (with pH < 7)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "common"
+      ],
+      "DEF_EN":"A chemical substance, usually a liquid, that has a pH less than 7, reacts with bases to form salts, and typically has a sour taste.",
+      "DEF_ZH":"一种化学物质，通常为液体，pH值小于7，与碱反应形成盐，通常具有酸味。",
+      "SENT_EN":"Sulfuric acid is a highly corrosive substance used in many industrial processes.",
+      "SENT_ZH":"硫酸是一种高腐蚀性物质，用于许多工业过程中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "base",
+            "alkali",
+            "pH"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having a sour taste, like vinegar or lemons.",
+      "DEF_ZH":"具有酸味的，如醋或柠檬。",
+      "SENT_EN":"The berries had a sharp, acid flavour.",
+      "SENT_ZH":"这些浆果有一种刺激的酸味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sour",
+            "tart",
+            "tangy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sweet",
+            "alkaline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Sharp, critical, or sarcastic in manner or tone.",
+      "DEF_ZH":"（言语或语气）尖酸刻薄的；挖苦的。",
+      "SENT_EN":"His acid comments stung her deeply.",
+      "SENT_ZH":"他尖酸刻薄的评论深深地刺痛了她。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sarcastic",
+            "caustic",
+            "acerbic",
+            "cutting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "informal",
+        "drugs"
+      ],
+      "DEF_EN":"Slang term for the hallucinogenic drug LSD (lysergic acid diethylamide).",
+      "DEF_ZH":"（俚语）迷幻药LSD（麦角酸二乙酰胺）的俗称。",
+      "SENT_EN":"They spent the weekend dropping acid.",
+      "SENT_ZH":"他们周末吸食了迷幻药。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "LSD",
+            "trip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"acid colours\nacid green",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "informal",
+        "fashion"
+      ],
+      "DEF_EN":"Of colours: intensely bright, sometimes to the point of appearing fluorescent or unnaturally vivid.",
+      "DEF_ZH":"（颜色）极度鲜艳的；荧光色的；刺眼的。",
+      "SENT_EN":"She wore an outfit in acid yellow and pink.",
+      "SENT_ZH":"她穿着一套酸黄色和粉红色的衣服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fluorescent",
+            "vivid",
+            "neon"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Chemistry, Informal"
+}

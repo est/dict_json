@@ -1,0 +1,88 @@
+{
+  "WORD":"recover",
+  "IPA":"/rɪˈkʌvər/",
+  "CONJUGATES":"recovers | recovering | recovered",
+  "ETYMOLOGY":"From Old French recovrer (to get back, regain), from Latin recuperare (to get back, regain, retrieve, restore)",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"recover [from sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "health",
+        "common"
+      ],
+      "DEF_EN":"To return to a normal state of health, strength, or condition after an illness, injury, shock, or difficult experience.",
+      "DEF_ZH":"（从疾病、创伤、冲击或困难中）恢复到正常的健康、力量或状态。",
+      "SENT_EN":"It took the patient several months to fully recover from the operation.",
+      "SENT_ZH":"病人花了几个月的时间才从手术中完全康复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recuperate",
+            "mend",
+            "heal",
+            "improve"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "worsen",
+            "decline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recover [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "possession"
+      ],
+      "DEF_EN":"To get or regain possession of something lost, stolen, or taken away.",
+      "DEF_ZH":"重新获得或找回丢失、被盗或被拿走的东西。",
+      "SENT_EN":"The police recovered the stolen jewels hidden in a ditch.",
+      "SENT_ZH":"警方找回了藏在沟渠里的被盗珠宝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retrieve",
+            "regain",
+            "reclaim",
+            "get back"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recover [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"To make up for a financial loss or expense; to restore original value or profit.",
+      "DEF_ZH":"弥补财务损失或支出；收回（成本或投资）。",
+      "SENT_EN":"The insurance company was unable to fully recover the cost of the damages.",
+      "SENT_ZH":"保险公司未能完全收回损失的成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recoup",
+            "offset"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal and informal contexts."
+}

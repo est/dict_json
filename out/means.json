@@ -1,0 +1,95 @@
+{
+  "WORD":"means",
+  "IPA":"/miːnz/",
+  "CONJUGATES":"mean | meaning | meant | means (verb) | means (noun, singular or plural invariant)",
+  "ETYMOLOGY":"Noun usage derived from the plural of Middle English 'mene' (a medium, measure), which came from the Old French 'meien' (middle, means), ultimately from Latin 'medianus'. The sense of method/instrumentality solidified in the 16th century.",
+  "SINCE":"c. 1570s (as noun, method/resource)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] means [of doing sth]\nmeans [to do sth]",
+      "POS":"n",
+      "POS_TIP":"noun, invariant in form (can be treated as singular or plural)",
+      "TAGS":[
+        "core word",
+        "methodology"
+      ],
+      "DEF_EN":"A method, instrument, or system by which something is achieved or done.",
+      "DEF_ZH":"方法；手段；途径；工具",
+      "SENT_EN":"We need to find a means of reducing energy consumption.",
+      "SENT_ZH":"我们需要找到减少能源消耗的方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "method",
+            "way",
+            "mechanism",
+            "instrument"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "means to an end"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[one's] means",
+      "POS":"n",
+      "POS_TIP":"noun, usually treated as plural in concept but invariant in form",
+      "TAGS":[
+        "core word",
+        "finance"
+      ],
+      "DEF_EN":"Money or income available to a person; financial resources or wealth.",
+      "DEF_ZH":"财力；收入；资产；资源",
+      "SENT_EN":"Many students rely on loans as a means of support.",
+      "SENT_ZH":"许多学生依赖贷款作为经济支持。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "income",
+            "funds",
+            "capital",
+            "resources"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "by all means",
+            "live within one's means"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] means",
+      "POS":"v",
+      "POS_TIP":"verb, third-person singular present indicative form of 'to mean'",
+      "TAGS":[
+        "core word",
+        "conjugation"
+      ],
+      "DEF_EN":"To intend, signify, or denote (used with singular subjects in the present tense).",
+      "DEF_ZH":"意指；表示；意味着（动词 'mean' 的第三人称单数现在时）",
+      "SENT_EN":"A low forecast means that the company must cut costs.",
+      "SENT_ZH":"较低的预测意味着该公司必须削减成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "signifies",
+            "implies",
+            "denotes",
+            "intends"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and general usage"
+}

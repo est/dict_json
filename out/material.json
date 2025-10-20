@@ -1,0 +1,127 @@
+{
+  "WORD":"material",
+  "IPA":"/məˈtɪəriəl/",
+  "CONJUGATES":"materials (n. plural)",
+  "ETYMOLOGY":"From late Middle English, from Old French materiel (adj.), from Latin materialis (adj.) 'of or belonging to matter', from materia 'matter'.",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"material [for sth]",
+      "POS":"n. (countable/uncountable)",
+      "POS_TIP":"noun, can be counted or uncounted depending on context",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The matter from which a thing is or can be made; raw elements or substance.",
+      "DEF_ZH":"构成事物或可用于制造事物的物质；原材料或元素。",
+      "SENT_EN":"They need more raw material for the production line.",
+      "SENT_ZH":"他们需要更多的原材料来满足生产线需求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "substance",
+            "stuff",
+            "fabric",
+            "textile",
+            "component"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"material [for sth/topic]",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"noun, cannot be counted",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"Information or ideas used in a book, speech, film, etc.",
+      "DEF_ZH":"用于书籍、演讲、电影等的信息或想法。",
+      "SENT_EN":"The researcher gathered a lot of material for her dissertation.",
+      "SENT_ZH":"这位研究员为她的学位论文收集了大量资料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data",
+            "information",
+            "content",
+            "subject matter",
+            "resources"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"material [to sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"Of central importance; relevant or pertinent to a matter under consideration.",
+      "DEF_ZH":"具有核心重要性；与正在审议的事项相关或切题。",
+      "SENT_EN":"The witness's testimony was not material to the outcome of the trial.",
+      "SENT_ZH":"证人的证词与审判结果无关。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relevant",
+            "significant",
+            "important",
+            "pertinent",
+            "consequential"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "immaterial",
+            "irrelevant",
+            "unimportant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"material [world/aspect]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "philosophical"
+      ],
+      "DEF_EN":"Relating to the physical world as opposed to the spiritual or intellectual world; concerned with worldly possessions.",
+      "DEF_ZH":"与物质世界而非精神或智力世界有关的；关注世俗财产的。",
+      "SENT_EN":"He cares more about material comforts than spiritual well-being.",
+      "SENT_ZH":"他更关心物质享受，而非精神健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "physical",
+            "tangible",
+            "worldly",
+            "earthly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "spiritual",
+            "immaterial",
+            "non-physical",
+            "abstract"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage; adjective meanings can be more formal, especially in legal contexts."
+}

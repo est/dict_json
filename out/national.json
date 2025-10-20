@@ -1,0 +1,88 @@
+{
+  "WORD":"NATIONAL",
+  "IPA":"/'næʃənəl/",
+  "CONJUGATES":"nationally (adv) | nationality (n) | nationalism (n) | nationalist (n, adj)",
+  "ETYMOLOGY":"From Latin nātiō ('birth, race, clan') + Old French -al (suffix meaning 'related to'), via the late Middle English adaptation 'national'.",
+  "SINCE":"c. 1540",
+  "MEANINGS":[
+    {
+      "PATTERN":"national [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or characteristic of a nation; common to or affecting an entire nation.",
+      "DEF_ZH":"国家的；全国性的；民族的。",
+      "SENT_EN":"It is a matter of national security that the borders are protected.",
+      "SENT_ZH":"保护边境是一个国家安全问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "countrywide",
+            "state",
+            "federal",
+            "civic"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "local",
+            "regional",
+            "international"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"national [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "politics",
+        "official"
+      ],
+      "DEF_EN":"Maintained or supported by the central government; governmental.",
+      "DEF_ZH":"国有的；公立的；由中央政府支持或维持的。",
+      "SENT_EN":"The National Health Service provides healthcare to all citizens.",
+      "SENT_ZH":"国家医疗服务体系为所有公民提供医疗保健。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "governmental",
+            "public",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a national",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "law"
+      ],
+      "DEF_EN":"A citizen or subject of a particular country, especially when traveling abroad.",
+      "DEF_ZH":"国民；公民（尤指在国外旅行时）。",
+      "SENT_EN":"Foreign nationals must follow the laws of the host country.",
+      "SENT_ZH":"外国国民必须遵守东道国的法律。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "citizen",
+            "subject",
+            "passport holder"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in formal, political, and general contexts."
+}

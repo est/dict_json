@@ -1,0 +1,125 @@
+{
+  "WORD":"gate",
+  "IPA":"/ɡeɪt/",
+  "CONJUGATES":"gates | gated | gating",
+  "ETYMOLOGY":"From Old English geat, plural gatu, meaning 'opening, entrance', ultimately from Proto-Germanic *gat- 'opening, hole'. Not related to the verb 'go'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A movable barrier, usually hinged or sliding, that closes an opening in a fence, wall, or enclosure.",
+      "DEF_ZH":"通常有铰链或滑轨的活动屏障，用于关闭围栏、墙壁或围场上的开口。",
+      "SENT_EN":"The farmer closed the wooden gate to keep the sheep in the field.",
+      "SENT_ZH":"农民关上了木门，把羊留在田里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "door",
+            "barrier",
+            "portal",
+            "entrance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The total amount of money paid by the public to attend a sporting event or performance.",
+      "DEF_ZH":"公众为观看体育赛事或表演所支付的入场费总额。",
+      "SENT_EN":"The football club announced a record gate of three million dollars from the championship final.",
+      "SENT_ZH":"这家足球俱乐部宣布冠军决赛的入场费收入达到了创纪录的三百万美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "box office",
+            "receipts",
+            "revenue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "aviation"
+      ],
+      "DEF_EN":"An area in an airport where passengers gather before boarding a flight.",
+      "DEF_ZH":"机场中乘客在登机前聚集的区域。",
+      "SENT_EN":"Please proceed to Gate 35 for boarding to Paris.",
+      "SENT_ZH":"请前往35号登机口准备登机飞往巴黎。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "terminal",
+            "concourse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (usually used as a suffix)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "suffix",
+        "political"
+      ],
+      "DEF_EN":"Used as a suffix to denote a major public scandal, especially one involving a cover-up, inspired by the Watergate scandal.",
+      "DEF_ZH":"用作后缀，表示重大公共丑闻，特别是涉及掩盖事实的丑闻，源于“水门事件”。",
+      "SENT_EN":"The recent budget-gate controversy led to the resignation of the treasurer.",
+      "SENT_ZH":"最近的“预算门”争议导致财政部长辞职。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "scandal",
+            "Watergate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "technical"
+      ],
+      "DEF_EN":"To provide a circuit or device with a gating pulse or signal; to control the flow or passage of something.",
+      "DEF_ZH":"向电路或设备提供选通脉冲或信号；控制某物的流量或通过。",
+      "SENT_EN":"The system gates the input signal to prevent noise interference.",
+      "SENT_ZH":"该系统对输入信号进行选通，以防止噪音干扰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "control",
+            "block",
+            "admit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

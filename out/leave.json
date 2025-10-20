@@ -1,0 +1,134 @@
+{
+  "WORD":"leave",
+  "IPA":"/liːv/",
+  "CONJUGATES":"leaves | leaving | left",
+  "ETYMOLOGY":"From Old English lǣfan 'to allow to remain, leave (behind), bequeath,' related to līfan 'to allow, permit.'",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"leave [place]\nleave (v)",
+      "POS":"vi | vtr",
+      "POS_TIP":"vi: intransitive verb | vtr: transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To go away from a place, person, or situation; to depart.",
+      "DEF_ZH":"离开（某地、某人或某种状况）；出发。",
+      "SENT_EN":"We decided to leave the party around midnight.",
+      "SENT_ZH":"我们决定在午夜左右离开派对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depart",
+            "exit",
+            "go"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "arrive",
+            "stay",
+            "remain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leave [sth] [somewhere]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To allow or cause something or someone to remain behind; to forget to take something.",
+      "DEF_ZH":"遗留；把...落下；忘记携带。",
+      "SENT_EN":"She accidentally left her umbrella on the bus.",
+      "SENT_ZH":"她不小心把伞落在公交车上了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abandon",
+            "deposit",
+            "drop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leave [sb/sth] [adj/state]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "Common",
+        "Resultative"
+      ],
+      "DEF_EN":"To cause a person or thing to be in a particular state or condition.",
+      "DEF_ZH":"使（某人或某物）处于某种特定的状态或状况。",
+      "SENT_EN":"The hard work left him exhausted.",
+      "SENT_ZH":"艰苦的工作使他筋疲力尽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "render",
+            "make"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leave [sth] to [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb | prep: preposition",
+      "TAGS":[
+        "Formal",
+        "Legal"
+      ],
+      "DEF_EN":"To bequeath property or money to someone in a will.",
+      "DEF_ZH":"遗赠；将（财产）遗留给（某人）。",
+      "SENT_EN":"My grandfather left his watch to me when he passed away.",
+      "SENT_ZH":"我的祖父去世时将他的手表遗赠给了我。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bequeath",
+            "will",
+            "hand down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(a) leave\non leave",
+      "POS":"ncu | nu",
+      "POS_TIP":"ncu: countable noun | nu: uncountable noun",
+      "TAGS":[
+        "Common",
+        "Military",
+        "Business"
+      ],
+      "DEF_EN":"Authorized permission to be absent from duty or work, such as vacation or sick time.",
+      "DEF_ZH":"休假；假期；准许的缺勤时间。",
+      "SENT_EN":"She applied for two weeks of annual leave.",
+      "SENT_ZH":"她申请了两周的年假。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vacation",
+            "sabbatical",
+            "furlough",
+            "time off"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use in conversation, business, and legal contexts."
+}

@@ -1,0 +1,163 @@
+{
+  "WORD":"charge",
+  "IPA":"/tʃɑːrdʒ/",
+  "CONJUGATES":"charges | charging | charged",
+  "ETYMOLOGY":"From Middle English chargen, from Old French chargier (to load, burden), ultimately from Late Latin carricare ('to load a wagon'), from carrus ('wagon, car').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"charge [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "technology",
+        "physics"
+      ],
+      "DEF_EN":"To supply electrical energy to a battery or device.",
+      "DEF_ZH":"给（电池或设备）充电。",
+      "SENT_EN":"I need to charge my phone before the trip.",
+      "SENT_ZH":"我需要在旅行前给手机充电。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "power up",
+            "recharge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "discharge",
+            "drain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"charge [sb] [sth] (for [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"To ask for an amount of money as a price for goods sold or services provided.",
+      "DEF_ZH":"索取费用；开价。",
+      "SENT_EN":"The mechanic charged me $300 for the repair work.",
+      "SENT_ZH":"修理工向我收取了300美元的修理费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ask",
+            "bill",
+            "demand"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pricing",
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"charge [sb] with [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To make a formal accusation that someone has committed a crime or offense.",
+      "DEF_ZH":"指控；控告某人犯某罪。",
+      "SENT_EN":"The prosecutor decided to charge him with theft and fraud.",
+      "SENT_ZH":"检察官决定以盗窃和欺诈罪起诉他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accuse",
+            "indict",
+            "allege"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "acquit",
+            "exonerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in charge of [sth/sb]\ntake charge",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "common",
+        "management",
+        "responsibility"
+      ],
+      "DEF_EN":"Responsibility for the direction, supervision, or control of a person or thing.",
+      "DEF_ZH":"负责；监管；照管。",
+      "SENT_EN":"She was put in charge of the entire marketing department.",
+      "SENT_ZH":"她被任命负责整个营销部门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "custody",
+            "oversight",
+            "responsibility"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "neglect",
+            "subordination"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"charge (at [sb/sth])",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive or transitive verb",
+      "TAGS":[
+        "military",
+        "sports",
+        "aggressive"
+      ],
+      "DEF_EN":"To rush forward or attack violently, often in a battle or competition.",
+      "DEF_ZH":"冲锋；猛攻；猛扑。",
+      "SENT_EN":"The cavalry prepared to charge the enemy line.",
+      "SENT_ZH":"骑兵准备向敌阵冲锋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assault",
+            "dash",
+            "tackle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "retreat",
+            "withdraw"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across legal, financial, technical, and general contexts."
+}

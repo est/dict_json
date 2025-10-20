@@ -1,0 +1,109 @@
+{
+  "WORD":"engine",
+  "IPA":"/ˈɛndʒɪn/",
+  "CONJUGATES":"engines | engining | engined",
+  "ETYMOLOGY":"From Middle English *engin* (art, skill, trick), from Old French *engin* (skill, machine, engine of war), ultimately from Latin *ingenium* (natural capacity, invention, cleverness, genius).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "mechanics"
+      ],
+      "DEF_EN":"A machine designed to convert one form of energy (especially fuel or heat) into mechanical force or motion.",
+      "DEF_ZH":"一种将某种形式的能量（尤其是燃料或热能）转化为机械力或运动的机器，即发动机或引擎。",
+      "SENT_EN":"The aircraft's massive jet engine required specialized maintenance.",
+      "SENT_ZH":"这架飞机的巨大喷气式发动机需要专门的维护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "motor",
+            "power plant",
+            "mechanism"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "turbine",
+            "locomotive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "figurative"
+      ],
+      "DEF_EN":"A core software component or program designed to perform a specific function.",
+      "DEF_ZH":"用于执行特定功能的核心软件组件或程序（如搜索引擎、游戏引擎）。",
+      "SENT_EN":"We need to optimize the rendering engine to improve the frame rate of the game.",
+      "SENT_ZH":"我们需要优化渲染引擎，以提高游戏帧率。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "framework",
+            "algorithm",
+            "kernel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "railway",
+        "North American"
+      ],
+      "DEF_EN":"A railway locomotive.",
+      "DEF_ZH":"（尤其在北美）铁路机车，火车头。",
+      "SENT_EN":"The engineer checked the pressure gauge before starting the heavy freight engine.",
+      "SENT_ZH":"司机在启动重型货运机车前检查了压力表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "locomotive",
+            "railcar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"engine [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To equip something with an engine; or to manage and drive a complicated process.",
+      "DEF_ZH":"为...安装发动机；或策划、管理并驱动一个复杂的过程。",
+      "SENT_EN":"The CEO successfully engined the company's transformation through a difficult financial period.",
+      "SENT_ZH":"首席执行官成功地策划并推动了公司度过困难的财政时期，完成了转型。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "engineer",
+            "manage",
+            "drive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Computing"
+}

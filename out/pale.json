@@ -1,0 +1,151 @@
+{
+  "WORD":"pale",
+  "IPA":"/peɪl/",
+  "CONJUGATES":"paler | palest | pales | paled | paling",
+  "ETYMOLOGY":"From Old French palle (fence post, stake), from Latin pālus (stake, prop). The adjective meaning (of a color) comes from a semantic shift or association, perhaps influenced by the related Latin pallidus (pale, wan).",
+  "SINCE":"Before 12th century (noun), Middle English (adjective, verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[color/complexion]",
+      "POS":"adj",
+      "POS_TIP":"adjective: describes a noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having a very light color or a color much lighter than usual; lacking in intensity or saturation.",
+      "DEF_ZH":"颜色非常浅或比通常浅得多；缺乏饱和度或强度。",
+      "SENT_EN":"She looked pale after the long illness, her skin almost white.",
+      "SENT_ZH":"久病之后，她看起来很苍白，皮肤几乎是白色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wan",
+            "ashen",
+            "blanched",
+            "livid",
+            "sallow"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dark",
+            "deep",
+            "vibrant",
+            "ruddy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[complexion] [sb/sth]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"intransitive verb: does not require a direct object | transitive verb: requires a direct object",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To become light or lighter in color or intensity; to lose color.",
+      "DEF_ZH":"（颜色或强度）变浅；失去颜色。",
+      "SENT_EN":"The stars began to pale as the sun rose.",
+      "SENT_ZH":"随着太阳升起，星星开始变得黯淡（变浅）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whiten",
+            "blanch",
+            "fade"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "darken",
+            "intensify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] pale in comparison to [sth else]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To seem much less significant, important, or impressive when compared to something else.",
+      "DEF_ZH":"（与某事物相比）显得微不足道、逊色或不重要。",
+      "SENT_EN":"His previous accomplishments pale in comparison to his latest invention.",
+      "SENT_ZH":"他以前的成就与他最新的发明相比，显得微不足道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "diminish",
+            "dwarf",
+            "fade"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "insignificant",
+            "trivial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[physical barrier]",
+      "POS":"n",
+      "POS_TIP":"noun: names a person, place, or thing",
+      "TAGS":[
+        "old word",
+        "archaic",
+        "technical"
+      ],
+      "DEF_EN":"A fence or barrier made of pointed wooden stakes; a stake or post used in such a fence.",
+      "DEF_ZH":"由尖木桩组成的栅栏或屏障；用于这种栅栏的木桩。",
+      "SENT_EN":"They erected a tall wooden pale around the perimeter of the camp.",
+      "SENT_ZH":"他们在营地的周围竖起了一道高高的木桩栅栏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stake",
+            "post",
+            "fence",
+            "paling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"beyond the pale",
+      "POS":"n",
+      "POS_TIP":"noun: names a person, place, or thing (used primarily in idioms)",
+      "TAGS":[
+        "idiomatic",
+        "historical"
+      ],
+      "DEF_EN":"A territory or district enclosed by a pale (fence); (idiomatically) the limits of acceptable behavior or convention.",
+      "DEF_ZH":"被栅栏围起来的区域或辖区；（习语）可接受行为或惯例的范围或界限。",
+      "SENT_EN":"His comments were considered completely beyond the pale by the community.",
+      "SENT_ZH":"他的评论被社区认为完全超出了可接受的范围。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "unacceptable",
+            "improper",
+            "outlandish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage for adjective and verb meanings 1, 2, and 3. Noun meanings (4 and 5) are often literary or part of fixed idioms."
+}

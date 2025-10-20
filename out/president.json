@@ -1,0 +1,95 @@
+{
+  "WORD":"president",
+  "IPA":"/'prɛzɪdənt/",
+  "CONJUGATES":"presidents (pl.) | presidency (n.) | presidential (adj.)",
+  "ETYMOLOGY":"From Late Middle English, via Old French *president*, from Latin *praesidēns* (present participle of *praesidēre* 'to preside over, guard'), formed from *prae-* ('before') + *sedēre* ('to sit'). The modern political sense arose in the late 18th century.",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] the President [of sth/country]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "title"
+      ],
+      "DEF_EN":"The elected head of a republican state, especially the chief executive officer of the United States.",
+      "DEF_ZH":"共和国选举产生的首脑，尤指美国的首席行政官。",
+      "SENT_EN":"The President is scheduled to deliver a major policy speech tomorrow.",
+      "SENT_ZH":"总统计划在明天发表一项重要的政策演讲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "head of state",
+            "chief executive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "prime minister",
+            "chancellor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] President [of sth/organization]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "business",
+        "corporate"
+      ],
+      "DEF_EN":"The highest executive officer of a company, institution, university, or organization, often reporting to a CEO or Board of Directors.",
+      "DEF_ZH":"公司、机构、大学或组织的最高行政长官，通常向首席执行官或董事会汇报。",
+      "SENT_EN":"She was recently promoted to President of the Global Sales Division.",
+      "SENT_ZH":"她最近被提升为全球销售部门的总裁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "director",
+            "head",
+            "principal"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "vice president",
+            "dean",
+            "governor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] the President [of meeting/assembly]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "historical"
+      ],
+      "DEF_EN":"An officer appointed or elected to preside over a meeting, assembly, or deliberation.",
+      "DEF_ZH":"被任命或选举来主持会议、集会或审议的官员。",
+      "SENT_EN":"The society's president opened the annual general meeting.",
+      "SENT_ZH":"协会主席宣布年度大会开始。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chairman",
+            "chairperson",
+            "presider"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and common in political, business, and educational contexts."
+}

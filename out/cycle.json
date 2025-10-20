@@ -1,0 +1,132 @@
+{
+  "WORD":"cycle",
+  "IPA":"/ˈsaɪkəl/",
+  "CONJUGATES":"cycles | cycling | cycled",
+  "ETYMOLOGY":"From Old French cicle, via Latin cyclus, from Ancient Greek kýklos (κύκλος, 'circle, wheel').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] cycle",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A series of events that are regularly repeated in the same order; a period of time in which certain events or tasks are completed.",
+      "DEF_ZH":"周期；循环；周而复始的一系列事件或过程。",
+      "SENT_EN":"The economic cycle often involves periods of boom and bust.",
+      "SENT_ZH":"经济周期通常涉及繁荣和萧条时期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sequence",
+            "period",
+            "rhythm",
+            "rotation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lifecycle",
+            "business cycle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cycle",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "concrete",
+        "British English"
+      ],
+      "DEF_EN":"A bicycle or, less commonly, a motorcycle or tricycle.",
+      "DEF_ZH":"自行车；脚踏车（常用于英式英语）。",
+      "SENT_EN":"She rode her new cycle to the grocery store.",
+      "SENT_ZH":"她骑着她的新自行车去了杂货店。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bicycle",
+            "motorbike"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] cycle [prep]",
+      "POS":"vi.",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To ride a bicycle.",
+      "DEF_ZH":"骑自行车。",
+      "SENT_EN":"We plan to cycle across the whole country next summer.",
+      "SENT_ZH":"我们计划明年夏天骑自行车穿越整个国家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pedal",
+            "ride a bike"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] cycle",
+      "POS":"vtr | vi.",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "technical",
+        "process"
+      ],
+      "DEF_EN":"To move through a complete sequence of operations or events, or to cause something to do so.",
+      "DEF_ZH":"（使）循环；（使）周转；进行周期性运作。",
+      "SENT_EN":"The heating system cycles on and off throughout the night.",
+      "SENT_ZH":"供暖系统整夜都在循环开关。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revolve",
+            "alternate",
+            "flow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cycle of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (especially in Science/Physics)",
+      "TAGS":[
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"One complete oscillation or period of a periodic phenomenon, especially an alternating current wave.",
+      "DEF_ZH":"（物理学、工程学中）周波；振荡周期。",
+      "SENT_EN":"The frequency of the current is measured in cycles per second (Hertz).",
+      "SENT_ZH":"电流的频率是以每秒周波（赫兹）来衡量的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "frequency",
+            "oscillation",
+            "wavelength"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common Usage | Technical/Formal"
+}

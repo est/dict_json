@@ -1,0 +1,93 @@
+{
+  "WORD":"loan",
+  "IPA":"/ləʊn/",
+  "CONJUGATES":"loans | loaning | loaned",
+  "ETYMOLOGY":"From Old Norse lán, probably influenced by Middle Dutch lēn, from Proto-Germanic *laihną (compare Old English lǣn).",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"A sum of money that is borrowed and expected to be paid back with interest.",
+      "DEF_ZH":"借来的钱，通常需要支付利息并按期偿还。",
+      "SENT_EN":"He took out a bank loan to buy a new car.",
+      "SENT_ZH":"他向银行申请了贷款购买一辆新车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "credit",
+            "advance",
+            "mortgage"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "payment",
+            "repayment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "general",
+        "common"
+      ],
+      "DEF_EN":"The act of lending something; something lent.",
+      "DEF_ZH":"出借的行为或出借的物品。",
+      "SENT_EN":"The library offers a book loan service for three weeks.",
+      "SENT_ZH":"图书馆提供为期三周的图书借阅服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lending",
+            "borrowing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"loan [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To lend something, especially money, to someone.",
+      "DEF_ZH":"借出（某物，尤指金钱）给某人。",
+      "SENT_EN":"Can you loan me twenty dollars until Friday?",
+      "SENT_ZH":"你能借我二十美元到周五吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lend",
+            "advance"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "borrow",
+            "repay"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and informal usage, widely used in finance and daily conversation"
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"specific",
+  "IPA":"/spɪˈsɪfɪk/",
+  "CONJUGATES":"specifically (adv.) | specificity (n.)",
+  "ETYMOLOGY":"From Middle French spécifique, and Medieval Latin specificus, derived from Latin species ('kind, sort, appearance'). The sense is 'belonging to a particular kind'.",
+  "SINCE":"c. 1640s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Clearly defined or identified; relating to a particular subject, item, or detail rather than a general one.",
+      "DEF_ZH":"明确的；具体的；特有的；有针对性的。",
+      "SENT_EN":"The doctor asked the patient to list the specific symptoms they were experiencing.",
+      "SENT_ZH":"医生要求病人列出他们正在经历的具体症状。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precise",
+            "particular",
+            "definite",
+            "detailed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "general",
+            "vague",
+            "broad"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [technical]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"Characteristic of or restricted to a particular species, substance, or type.",
+      "DEF_ZH":"（生物学/化学）种特异性的；专属的。",
+      "SENT_EN":"Specific gravity measures the density of a substance relative to the density of water.",
+      "SENT_ZH":"比重衡量物质密度相对于水密度的数值。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "species",
+            "specificity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the specifics [n]",
+      "POS":"n",
+      "POS_TIP":"noun (often used in plural)",
+      "TAGS":[
+        "less common",
+        "noun usage"
+      ],
+      "DEF_EN":"A precise detail or item; a particular fact.",
+      "DEF_ZH":"细节；具体情况；特指项目。",
+      "SENT_EN":"We agreed on the main goal, but we need to discuss the specifics of the plan later.",
+      "SENT_ZH":"我们同意了主要目标，但我们需要稍后讨论计划的细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "details",
+            "particulars"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and general usage"
+}

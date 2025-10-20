@@ -1,0 +1,110 @@
+{
+  "WORD":"receiver",
+  "IPA":"/rɪˈsiːvər/",
+  "CONJUGATES":"receivers | receiver's",
+  "ETYMOLOGY":"From the verb 'receive', plus the suffix '-er' (denoting an agent or instrument). 'Receive' derives from Old French receivre, from Latin recipere (re- 'back' + capere 'take').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person or thing that receives, accepts, or takes possession of something.",
+      "DEF_ZH":"接收或接受某物的人或事物；接受者。",
+      "SENT_EN":"The delivery requires a signature from the receiver.",
+      "SENT_ZH":"这次递送需要接收者签字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recipient",
+            "donee",
+            "acquirer"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sender",
+            "giver"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a communication/electronic apparatus",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A piece of electronic equipment that converts incoming signals (such as radio waves, electrical pulses, or light) into a usable output (sound, image, data).",
+      "DEF_ZH":"一种电子设备，用于接收信号（如无线电波或电子脉冲）并将其转换为可用输出（如声音或图像）；接收器；收音机。",
+      "SENT_EN":"I had to adjust the antenna to get a clear signal on the television receiver.",
+      "SENT_ZH":"我必须调整天线，才能让电视接收器获得清晰的信号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "transmitter",
+            "transceiver",
+            "tuner"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sports position",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "jargon",
+        "sports",
+        "American football"
+      ],
+      "DEF_EN":"A player, especially in American football (e.g., wide receiver), whose job is primarily to run routes and catch passes thrown by the quarterback.",
+      "DEF_ZH":"（特指美式橄榄球中）负责跑位和接住四分卫传球的球员；外接手。",
+      "SENT_EN":"The coach praised the wide receiver for his speed and agility.",
+      "SENT_ZH":"教练称赞了那位外接手的速度和敏捷性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "quarterback",
+            "wide receiver",
+            "tight end"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"legal/financial appointee",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"An impartial person appointed by a court or creditor to manage the assets and liabilities of a business or person facing bankruptcy or dissolution.",
+      "DEF_ZH":"（法律）由法院或债权人指定，负责管理面临破产或解散的公司或个人资产及负债的公正人士；破产管理人。",
+      "SENT_EN":"Following the financial collapse, a receiver was appointed to oversee the company's liquidation.",
+      "SENT_ZH":"在金融崩溃后，法院指定了一名破产管理人来监督该公司的清算。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "administrator",
+            "trustee",
+            "liquidator"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Sports"
+}

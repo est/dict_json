@@ -1,0 +1,98 @@
+{
+  "WORD":"immediate",
+  "IPA":"/ɪˈmiːdiət/",
+  "CONJUGATES":"immediately (adv) | immediacy (n) | immediateness (n)",
+  "ETYMOLOGY":"From Late Middle English, derived from Medieval Latin immediatus, formed from Latin in- (negative prefix, 'not') + mediatus ('having a middle', 'intervening'), thus meaning 'without intervention' or 'without delay'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is immediate\ntake immediate [action]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "time"
+      ],
+      "DEF_EN":"Happening or done at once; without any delay or lapse of time.",
+      "DEF_ZH":"立即的；即刻的；刻不容缓的。",
+      "SENT_EN":"We require an immediate response from the manager regarding the complaint.",
+      "SENT_ZH":"我们要求经理对投诉立即做出回应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instant",
+            "prompt",
+            "rapid",
+            "instantaneous",
+            "forthwith"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "delayed",
+            "eventual",
+            "future"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the immediate [future/vicinity/family]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "proximity"
+      ],
+      "DEF_EN":"Closest in time, space, or relationship.",
+      "DEF_ZH":"紧接的；紧邻的；最直接的（关系）。",
+      "SENT_EN":"His immediate supervisor approved the time off request.",
+      "SENT_ZH":"他的直属上司批准了休假请求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nearest",
+            "closest",
+            "direct",
+            "proximate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "distant",
+            "remote",
+            "indirect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"immediate [cause/effect]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "causality"
+      ],
+      "DEF_EN":"Acting or being without any intervening medium or agency; direct.",
+      "DEF_ZH":"直接的；无中介的（原因或结果）。",
+      "SENT_EN":"While stress was a factor, the immediate cause of the shutdown was a hardware malfunction.",
+      "SENT_ZH":"虽然压力是一个因素，但导致停机的直接原因是硬件故障。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "primary",
+            "unmediated",
+            "direct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal when discussing causation or proximity."
+}

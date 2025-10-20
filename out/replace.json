@@ -1,0 +1,85 @@
+{
+  "WORD":"replace",
+  "IPA":"/rɪˈpleɪs/",
+  "CONJUGATES":"replaces | replacing | replaced",
+  "ETYMOLOGY":"From Middle English replacen, ultimately from Old French replacier (re- 'again' + placer 'to place'), or directly from Medieval Latin replacere.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"replace [sth/sb] (with [sth/sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take the place of something or someone; to substitute an item, person, or element with another, especially a new or repaired one.",
+      "DEF_ZH":"取代；代替；更换（用新事物替代旧事物）。",
+      "SENT_EN":"The company decided to replace the outdated machinery with newer, more efficient models.",
+      "SENT_ZH":"公司决定用更新、更高效的型号替换掉过时的机器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "substitute",
+            "supersede",
+            "supplant",
+            "exchange"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "replacement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"replace [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To put something back where it was originally found.",
+      "DEF_ZH":"将某物放回原位。",
+      "SENT_EN":"Please remember to replace the lid on the container after you use it.",
+      "SENT_ZH":"使用后请记得将盖子放回容器上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "return",
+            "put back",
+            "restore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"replace [sth] (lost/stolen)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To provide or acquire an equivalent item for something that was lost, stolen, or damaged.",
+      "DEF_ZH":"赔偿；偿还；弥补（遗失或损坏的东西）。",
+      "SENT_EN":"My insurance will replace the laptop that was stolen from my office.",
+      "SENT_ZH":"我的保险会赔偿我办公室里被盗的笔记本电脑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reimburse",
+            "restore",
+            "restitute"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

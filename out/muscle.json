@@ -1,0 +1,96 @@
+{
+  "WORD":"muscle",
+  "IPA":"/ˈmʌsəl/",
+  "CONJUGATES":"muscles | muscling | muscled | muscular",
+  "ETYMOLOGY":"From Middle English muscle, from Old French muscle, from Latin mūsculus ('a little mouse' (diminutive of mūs 'mouse'), also 'a muscle' (from resemblance of some muscles to a small mouse under the skin)).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c] [u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "anatomy"
+      ],
+      "DEF_EN":"A tissue composed of cells or fibers that contract when stimulated, producing movement in a body part or organ.",
+      "DEF_ZH":"由细胞或纤维组成的组织，受刺激时收缩，从而使身体部位或器官产生运动。",
+      "SENT_EN":"He strained a muscle while lifting weights.",
+      "SENT_ZH":"他举重时拉伤了一块肌肉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sinew",
+            "biceps",
+            "triceps"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tendon",
+            "ligament",
+            "flesh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "power",
+        "informal"
+      ],
+      "DEF_EN":"Physical strength or power, especially when used to achieve something or exert influence.",
+      "DEF_ZH":"体力或力量，特别是用于实现目标或施加影响力时。",
+      "SENT_EN":"The company used its financial muscle to take over its smaller competitor.",
+      "SENT_ZH":"这家公司利用其雄厚的财力吞并了规模较小的竞争对手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strength",
+            "power",
+            "might",
+            "force"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "weakness",
+            "frailty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[vt] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "rare",
+        "informal"
+      ],
+      "DEF_EN":"To force one's way into or through a place or situation.",
+      "DEF_ZH":"强行挤入或穿过某地或某种情况。",
+      "SENT_EN":"He muscled his way to the front of the line.",
+      "SENT_ZH":"他强行挤到了队伍的最前面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "force",
+            "shoulder",
+            "push"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in contexts related to anatomy, fitness, and power/influence."
+}

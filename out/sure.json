@@ -1,0 +1,85 @@
+{
+  "WORD":"sure",
+  "IPA":"/ʃʊər/",
+  "CONJUGATES":"surer | surest | surely | sureness",
+  "ETYMOLOGY":"From Old French sur (seür, meaning 'safe, certain'), derived from Latin secūrus ('safe', 'secure', 'free from care').",
+  "SINCE":"c. 1250",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] sure (of [sth]\nthat [clause])",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Completely confident about something; having no doubt or uncertainty.",
+      "DEF_ZH":"确信的；肯定的；有把握的。",
+      "SENT_EN":"I am sure that we locked the door before leaving the house.",
+      "SENT_ZH":"我确信我们在离开房子之前锁了门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "certain",
+            "convinced",
+            "confident"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unsure",
+            "doubtful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Sure!",
+      "POS":"interj | adv",
+      "POS_TIP":"Interjection (exclamatory word) or Adverb",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"Used as a casual and informal affirmative response meaning 'yes,' 'certainly,' or 'okay.'",
+      "DEF_ZH":"当然；好的；没问题。（用于表示同意或肯定）",
+      "SENT_EN":"\"Can you hand me that book?\" \"Sure!\"",
+      "SENT_ZH":"“你能把那本书递给我吗？”“当然可以！”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yes",
+            "certainly",
+            "okay"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] sure (to happen)",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describes a noun)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Bound to happen; inevitable or reliable.",
+      "DEF_ZH":"必然的；可靠的；稳妥的。",
+      "SENT_EN":"Success is a sure thing if we stick to the original plan.",
+      "SENT_ZH":"如果我们坚持最初的计划，成功是必然的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inevitable",
+            "guaranteed",
+            "reliable"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; Interjection use is highly informal."
+}

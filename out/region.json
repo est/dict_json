@@ -1,0 +1,90 @@
+{
+  "WORD":"region",
+  "IPA":"/ˈriːdʒən/",
+  "CONJUGATES":"regions | regional | regionally",
+  "ETYMOLOGY":"From Middle English (c. 1350), from Old French region, from Latin regiō (stem regiōn-) 'direction, boundary, territory', ultimately derived from regere 'to guide, direct'.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "administration"
+      ],
+      "DEF_EN":"An area, especially a large section of a country or the world, defined by specific physical, political, economic, or cultural characteristics.",
+      "DEF_ZH":"根据特定的物理、政治、经济或文化特征界定的大片区域或地理部分。",
+      "SENT_EN":"The Mediterranean region is known for its mild winters and ancient history.",
+      "SENT_ZH":"地中海地区以其温和的冬季和悠久的历史而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "area",
+            "territory",
+            "district",
+            "zone",
+            "province"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "regionalism",
+            "geography"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the region of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "anatomy",
+        "formal"
+      ],
+      "DEF_EN":"A specific, often large, part of the body, typically used in formal or medical contexts.",
+      "DEF_ZH":"身体的某个特定部位（通常用于正式或医学语境）。",
+      "SENT_EN":"The patient complained of pain in the lumbar region.",
+      "SENT_ZH":"患者抱怨腰部区域疼痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "part",
+            "section",
+            "vicinity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the region of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"A domain, sphere, or approximate range, especially regarding numbers, prices, or abstract concepts.",
+      "DEF_ZH":"一个领域、范围，特指数字、价格或抽象概念的大致范围。",
+      "SENT_EN":"The estimated cost of the project is in the region of ten million dollars.",
+      "SENT_ZH":"该项目的估算成本大约在千万美元左右。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "realm",
+            "domain",
+            "field",
+            "approximate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, frequently used in geography, politics, and science."
+}

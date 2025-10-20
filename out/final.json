@@ -1,0 +1,108 @@
+{
+  "WORD":"final",
+  "IPA":"/ˈfaɪnl/",
+  "CONJUGATES":"finals (n. pl.) | finally (adv.) | finality (n.)",
+  "ETYMOLOGY":"From Latin fīnālis ('relating to the end or boundary'), derived from fīnis ('end, boundary, limit').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"final [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Occurring at the end of a series, process, or discussion; ultimate or conclusive.",
+      "DEF_ZH":"最后的；最终的；决定性的。",
+      "SENT_EN":"The editor made the final changes before the book went to print.",
+      "SENT_ZH":"在付印之前，编辑做了最后的修改。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ultimate",
+            "conclusive",
+            "definitive",
+            "last"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "initial",
+            "preliminary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"final [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"Not subject to appeal, alteration, or reconsideration; irrevocable.",
+      "DEF_ZH":"不可更改的；不可撤销的；定稿的。",
+      "SENT_EN":"The judge's ruling was declared final and binding.",
+      "SENT_ZH":"法官的裁决被宣布为最终且具有约束力的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fixed",
+            "permanent",
+            "settled"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the final [n]\nfinals [n, pl]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "events"
+      ],
+      "DEF_EN":"The last game, match, or stage in a competition, typically deciding the winner.",
+      "DEF_ZH":"决赛。",
+      "SENT_EN":"Both teams are thrilled to have reached the championship final.",
+      "SENT_ZH":"两队都对进入冠军决赛感到兴奋。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "semifinal",
+            "quarterfinal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a final [n]\nfinals [n, pl]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "academic",
+        "education"
+      ],
+      "DEF_EN":"A concluding examination in a course of study or term.",
+      "DEF_ZH":"期末考试。",
+      "SENT_EN":"She spent all night studying for her chemistry final.",
+      "SENT_ZH":"她熬夜准备她的化学期末考试。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exam",
+            "assessment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use in academic, sports, and formal contexts."
+}

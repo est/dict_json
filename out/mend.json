@@ -1,0 +1,126 @@
+{
+  "WORD":"mend",
+  "IPA":"/mɛnd/",
+  "CONJUGATES":"mends | mending | mended",
+  "ETYMOLOGY":"From Old French amender, from Latin emendare 'to correct, free from fault' (e- 'out of' + menda 'blemish, fault').",
+  "SINCE":"Late Middle English (late 13th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"mend [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To repair something that is broken, damaged, or torn.",
+      "DEF_ZH":"修补；修理；缝补",
+      "SENT_EN":"She's mending a hole in her favourite shirt.",
+      "SENT_ZH":"她正在缝补她最喜欢的衬衫上的一个洞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repair",
+            "fix",
+            "patch",
+            "restore"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "break",
+            "damage",
+            "ruin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mend [sth]\nmend a fence / mend bridges",
+      "POS":"vtr | idiom",
+      "POS_TIP":"transitive verb (takes a direct object) | an expression whose meaning cannot be deduced from the meanings of its individual words",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To improve a situation or relationship that has been damaged or made difficult.",
+      "DEF_ZH":"改善（状况）；修复（关系）",
+      "SENT_EN":"They tried to mend their broken relationship after the argument.",
+      "SENT_ZH":"争吵之后，他们试图修复他们破裂的关系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reconcile",
+            "resolve",
+            "heal",
+            "improve"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "worsen",
+            "damage",
+            "break"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mend",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"(Of an injury or wound) to heal or become healthy again.",
+      "DEF_ZH":"（伤口）愈合；康复",
+      "SENT_EN":"Her broken leg is mending well and she hopes to walk soon.",
+      "SENT_ZH":"她的断腿恢复得很好，她希望能很快走路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heal",
+            "recover",
+            "get better"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deteriorate",
+            "worsen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"on the mend",
+      "POS":"idiom",
+      "POS_TIP":"an expression whose meaning cannot be deduced from the meanings of its individual words",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Recovering after an illness or injury, or improving after a difficult period.",
+      "DEF_ZH":"（病后或受伤后）正在好转；（情况）正在改善",
+      "SENT_EN":"She's been ill for a while, but she's finally on the mend.",
+      "SENT_ZH":"她病了一段时间，但现在终于在好转。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recovering",
+            "improving",
+            "getting better"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English."
+}

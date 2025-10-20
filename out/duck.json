@@ -1,0 +1,99 @@
+{
+  "WORD":"duck",
+  "IPA":"/dʌk/",
+  "CONJUGATES":"ducks | ducking | ducked",
+  "ETYMOLOGY":"Old English duce (noun, 'a duck, diver'), related to the verb ducan ('to dive, plunge'). The verb meaning 'to lower the head' developed from the motion of the diving bird.",
+  "SINCE":"c. 900s (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] duck\nducks",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A common water bird with short legs, a wide bill, and webbed feet, typically smaller than a goose or swan.",
+      "DEF_ZH":"一种常见的在水面上生活的鸟类，腿短，喙宽，有蹼足，通常比鹅或天鹅小。",
+      "SENT_EN":"We fed bread to the ducks by the riverbank.",
+      "SENT_ZH":"我们在河岸边喂鸭子面包。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "drake",
+            "duckling",
+            "waterfowl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"duck [v]\nduck [sth]",
+      "POS":"v",
+      "POS_TIP":"verb (intransitive or transitive)",
+      "TAGS":[
+        "core action",
+        "common"
+      ],
+      "DEF_EN":"To quickly lower one's head or body, especially to avoid being hit or seen.",
+      "DEF_ZH":"快速低下头部或身体，特别是为了躲避被击中或被发现。",
+      "SENT_EN":"He had to duck when the branch swung down suddenly.",
+      "SENT_ZH":"树枝突然垂下来的时候，他不得不快速地低下头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crouch",
+            "stoop",
+            "bob"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"duck [sth]\nduck out [of sth]",
+      "POS":"vtr | v + prep",
+      "POS_TIP":"transitive verb or phrasal verb",
+      "TAGS":[
+        "informal"
+      ],
+      "DEF_EN":"To avoid a responsibility, question, or duty; to evade.",
+      "DEF_ZH":"逃避责任、问题或职责；规避。",
+      "SENT_EN":"The manager tried to duck the uncomfortable questions about the budget cuts.",
+      "SENT_ZH":"经理试图避开关于预算削减的那些令人不舒服的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "evade",
+            "shirk",
+            "sidestep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be out for a duck\nscore a duck",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable, specific context)",
+      "TAGS":[
+        "sport",
+        "cricket"
+      ],
+      "DEF_EN":"In cricket, the dismissal of a batsman without scoring any runs (a score of zero).",
+      "DEF_ZH":"在板球运动中，击球手一分未得就被淘汰（得分为零）。",
+      "SENT_EN":"The star player was caught out for a duck in the first inning.",
+      "SENT_ZH":"这位明星球员在第一局就以零分出局了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blob"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

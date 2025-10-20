@@ -1,0 +1,93 @@
+{
+  "WORD":"initial",
+  "IPA":"/ɪˈnɪʃəl/",
+  "CONJUGATES":"initials (noun plural, verb 3rd person singular) | initialing (verb present participle) | initialed (verb past tense/participle)",
+  "ETYMOLOGY":"From Latin initialis 'of the beginning', from initium 'beginning', from inire 'go into', from in- 'into' + ire 'go'.",
+  "SINCE":"Late Middle English (circa 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"initial [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Existing or occurring at the beginning; first.",
+      "DEF_ZH":"最初的；开始的；开头的。",
+      "SENT_EN":"The initial symptoms of the disease are usually mild.",
+      "SENT_ZH":"这种疾病的最初症状通常很轻微。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "first",
+            "earliest",
+            "primary",
+            "preliminary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "final",
+            "last",
+            "ultimate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] initial",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The first letter of a name or word. Often used in plural form to refer to the first letters of all parts of a person's full name.",
+      "DEF_ZH":"（姓名或词的）首字母。常用于复数形式指人姓名的首字母缩写。",
+      "SENT_EN":"She signed the document with her initials, 'J.K.L.'.",
+      "SENT_ZH":"她用她的首字母“J.K.L.”签了字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "monogram",
+            "abbreviation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "acronym"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"initial [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To mark or sign (a document) with one's initials, often as a sign of approval or verification.",
+      "DEF_ZH":"用姓名首字母签名（表示批准或核实）。",
+      "SENT_EN":"Please initial the changes you have made to the contract.",
+      "SENT_ZH":"请在您对合同所做的更改处签上您的首字母。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sign",
+            "endorse",
+            "authenticate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

@@ -1,0 +1,109 @@
+{
+  "WORD":"frost",
+  "IPA":"/frɒst/",
+  "CONJUGATES":"frosts | frosted | frosting",
+  "ETYMOLOGY":"From Proto-Germanic *frustaz, from Proto-Indo-European *preus- ('to freeze, burn'). Cognate with Old High German frost, Old Norse frost.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"frost",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thin layer of ice crystals that forms on surfaces when water vapor freezes.",
+      "DEF_ZH":"当水蒸气凝结成冰晶时，在物体表面形成的一层薄冰。",
+      "SENT_EN":"The car windows were covered in a thick layer of frost this morning.",
+      "SENT_ZH":"今天早上汽车窗户上结了一层厚厚的霜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hoarfrost",
+            "rime"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ice",
+            "snow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a frost",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A period of very cold weather during which the temperature falls below freezing, causing frost to form.",
+      "DEF_ZH":"一段气温低于冰点，导致结霜的寒冷时期；霜冻。",
+      "SENT_EN":"There was a hard frost last night, which damaged some of the delicate plants.",
+      "SENT_ZH":"昨晚有一场严重的霜冻，损坏了一些娇弱的植物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freeze",
+            "cold spell"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "thaw",
+            "melt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"frost [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To cover something with a layer of ice crystals, or with a sugary glaze (especially a cake).",
+      "DEF_ZH":"使某物结霜；给（尤指蛋糕）涂上糖霜。",
+      "SENT_EN":"She decided to frost the cupcakes with vanilla icing.",
+      "SENT_ZH":"她决定用香草糖霜给纸杯蛋糕涂上糖霜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glaze",
+            "ice",
+            "coat"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "decorate",
+            "garnish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] frosts",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To become covered with or as if with frost.",
+      "DEF_ZH":"结霜；被霜覆盖。",
+      "SENT_EN":"The ground frosts quickly when the temperature drops below zero.",
+      "SENT_ZH":"当气温降至零度以下时，地面很快就会结霜。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

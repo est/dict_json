@@ -1,0 +1,101 @@
+{
+  "WORD":"street",
+  "IPA":"/striːt/",
+  "CONJUGATES":"streets",
+  "ETYMOLOGY":"From Old English strǣt (via Old Northumbrian strēt), ultimately from Late Latin strāta (short for via strāta 'paved road'), from strātus, past participle of sternere 'to lay low, pave'.",
+  "SINCE":"c. 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] [street]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A public road in a city or town, typically with buildings on one or both sides; a designated route for vehicles and pedestrians.",
+      "DEF_ZH":"城市或城镇中的公共道路，通常一侧或两侧建有房屋；车辆和行人的指定路线。",
+      "SENT_EN":"We walked down the busiest shopping street in the district.",
+      "SENT_ZH":"我们沿着该区最繁忙的商业街走着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "road",
+            "avenue",
+            "lane",
+            "thoroughfare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the street\non the street",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "collective",
+        "idiomatic"
+      ],
+      "DEF_EN":"The collective life, culture, or inhabitants of a city's working-class or impoverished areas, often implying practical, sometimes harsh, experience.",
+      "DEF_ZH":"城市中工人阶级或贫困地区的集体生活、文化或居民，常带有实际的、有时是严酷的社会经验的意味。",
+      "SENT_EN":"He knows how to survive because he grew up on the street.",
+      "SENT_ZH":"他知道如何生存，因为他是在街头长大的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "grassroots",
+            "urban life"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Street",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "jargon",
+        "financial",
+        "formal"
+      ],
+      "DEF_EN":"The financial community, especially the stock market and investment banking sector (derived from Wall Street).",
+      "DEF_ZH":"金融界或华尔街，特指股票市场和投资银行部门。",
+      "SENT_EN":"The Street is waiting anxiously for the upcoming interest rate announcement.",
+      "SENT_ZH":"金融界正在焦急地等待即将到来的利率公布。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Wall Street",
+            "The City"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[street] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "attributive"
+      ],
+      "DEF_EN":"Relating to, located on, or characteristic of a public street; often used to imply common or informal.",
+      "DEF_ZH":"与街道相关的；位于街道上的；具有街道特征的；（引申为）非正式的或普遍的。",
+      "SENT_EN":"She is known for her impressive street style photography.",
+      "SENT_ZH":"她以其令人印象深刻的街头风格摄影而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "urban",
+            "outdoor",
+            "public"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific jargon in finance and social contexts."
+}

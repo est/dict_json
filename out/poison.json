@@ -1,0 +1,120 @@
+{
+  "WORD":"poison",
+  "IPA":"/ˈpɔɪzən/",
+  "CONJUGATES":"poisons | poisoning | poisoned",
+  "ETYMOLOGY":"From Old French poison 'a drink, a potion, poisonous drink', from Latin potio 'a drink', from potare 'to drink'. The sense of 'a deadly drink' developed in Old French.",
+  "SINCE":"Late 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"poison",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A substance that causes illness, injury, or death when introduced into or absorbed by the body.",
+      "DEF_ZH":"能够导致疾病、受伤或死亡的物质，当其进入或被身体吸收时。",
+      "SENT_EN":"He accidentally ingested a strong poison.",
+      "SENT_ZH":"他不小心摄入了剧毒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "toxin",
+            "venom",
+            "bane",
+            "contaminant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "antidote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"poison [sb]\npoison [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To administer poison to (a person or animal), intentionally or accidentally.",
+      "DEF_ZH":"故意或无意地给（人或动物）投毒。",
+      "SENT_EN":"The detective suspected someone had poisoned the victim's drink.",
+      "SENT_ZH":"侦探怀疑有人在受害者的饮料中投了毒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "envenom",
+            "contaminate",
+            "drug"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"poison [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To have a harmful or destructive effect on; to corrupt or spoil.",
+      "DEF_ZH":"对...产生有害或破坏性影响；败坏或破坏。",
+      "SENT_EN":"Their constant bickering began to poison the atmosphere in the office.",
+      "SENT_ZH":"他们持续不断的争吵开始毒害办公室里的气氛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "corrupt",
+            "taint",
+            "spoil",
+            "pollute",
+            "undermine"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "purify",
+            "cleanse",
+            "improve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"poison",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "rare",
+        "informal",
+        "dated"
+      ],
+      "DEF_EN":"(Informal, often used humorously or regionally) Having the properties of poison; poisonous.",
+      "DEF_ZH":"(非正式，常用于幽默或地方语) 具有毒性；有毒的。",
+      "SENT_EN":"Be careful, those berries look poison.",
+      "SENT_ZH":"小心点，那些浆果看起来有毒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "poisonous",
+            "toxic",
+            "venomous"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, except for the adjective form which is informal/dated."
+}

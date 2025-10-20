@@ -1,0 +1,83 @@
+{
+  "WORD":"arbitrary",
+  "IPA":"/ˈɑːrbɪtrəri/",
+  "CONJUGATES":"arbitrary | more arbitrary | most arbitrary | arbitrarily",
+  "ETYMOLOGY":"From Latin arbitrarius 'depending on the judgment of an arbiter', from arbiter 'judge, umpire'.",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"arbitrary [decision/rule/power]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "negative connotation"
+      ],
+      "DEF_EN":"Based on random choice or personal whim, rather than any reason, system, or objective standard; often implying unfairness, caprice, or unrestrained use of authority.",
+      "DEF_ZH":"基于随机选择、个人意愿或专断权力，而非任何理由、系统或客观标准；常暗示不公、反复无常或滥用职权。",
+      "SENT_EN":"The arbitrary decision by the principal sparked outrage among the students.",
+      "SENT_ZH":"校长武断的决定在学生中引起了公愤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "capricious",
+            "whimsical",
+            "random",
+            "unreasoned",
+            "subjective",
+            "autocratic",
+            "despotic"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rational",
+            "logical",
+            "reasoned",
+            "systematic",
+            "objective",
+            "just",
+            "fair",
+            "democratic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"arbitrary [value/constant/point]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"(Especially in mathematics, logic, or computing) Chosen or existing at random or by chance, without specific constraint or predetermined value, often for illustrative or general purposes.",
+      "DEF_ZH":"（尤指在数学、逻辑学或计算机领域）随意选择的；任意的；未预先确定的，通常用于说明或泛指。",
+      "SENT_EN":"Let 'x' be an arbitrary positive integer.",
+      "SENT_ZH":"设 'x' 为一个任意正整数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "random",
+            "unspecified",
+            "undetermined",
+            "discretionary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fixed",
+            "specific",
+            "determined"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral, often with negative connotation in general usage; can be formal or technical in specific contexts."
+}

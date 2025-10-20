@@ -1,0 +1,121 @@
+{
+  "WORD":"wash",
+  "IPA":"/wɑːʃ/",
+  "CONJUGATES":"washes | washed | washing",
+  "ETYMOLOGY":"From Old English wæscan or wixan, deriving from Proto-Germanic *waskaną.",
+  "SINCE":"Before 900 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"wash [sth] (in/with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To clean an object, substance, or person using water, usually with soap or detergent.",
+      "DEF_ZH":"用水（通常加肥皂或清洁剂）清洗某物、某物质或某人。",
+      "SENT_EN":"Please wash your hands before you eat dinner.",
+      "SENT_ZH":"请在吃晚饭前洗手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clean",
+            "scrub",
+            "rinse",
+            "lave"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "laundry",
+            "dishwasher"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wash",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb (does not require a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To perform the act of washing oneself or cleaning items (such as clothes or dishes).",
+      "DEF_ZH":"洗涤；清洗（指洗自己或洗东西的行为）。",
+      "SENT_EN":"The machine is washing right now, so wait a few minutes.",
+      "SENT_ZH":"洗衣机正在洗涤，请等几分钟。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"wash [sth/sb] away/down/up",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "common",
+        "movement"
+      ],
+      "DEF_EN":"(Of water or other liquid) to carry something along, away, or onto a surface by its movement.",
+      "DEF_ZH":"（指水或其他液体）借助流动将某物冲走、冲向或冲上某个表面。",
+      "SENT_EN":"The heavy rain washed away the topsoil.",
+      "SENT_ZH":"大雨冲走了表层土壤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sweep",
+            "carry",
+            "flush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a wash\nthe wash",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"An act of cleaning something, or a collection of items, especially clothes, that are being or need to be cleaned (laundry).",
+      "DEF_ZH":"洗涤的行为；待洗的衣物（尤指待洗的衣服）。",
+      "SENT_EN":"These delicate items require a gentle hand wash.",
+      "SENT_ZH":"这些精致的物品需要温柔的手洗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "laundry",
+            "cleaning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a wash of [color/light]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specialized",
+        "art"
+      ],
+      "DEF_EN":"A thin layer or coating of liquid color (especially watercolor), or a broad area covered by diffuse light.",
+      "DEF_ZH":"一层稀薄的水性颜料（尤指水彩画中的晕染效果）；大范围的柔和光线覆盖。",
+      "SENT_EN":"The artist used a pale green wash for the sky.",
+      "SENT_ZH":"这位艺术家用一层浅绿色的晕染来描绘天空。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glaze",
+            "tint",
+            "hue"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

@@ -1,0 +1,92 @@
+{
+  "WORD":"subjective",
+  "IPA":"/səbˈdʒɛktɪv/",
+  "CONJUGATES":"subjectively (adv) | subjectiveness (n) | subjectivity (n)",
+  "ETYMOLOGY":"From Latin subjectivus, from subjectum (literally 'that which is thrown under'), ultimately from sub- 'under' + jacere 'to throw'. The philosophical meaning arose in Medieval Latin and was further developed in German philosophy (e.g., Kant).",
+  "SINCE":"Late 16th century (in logic); mid-18th century (in philosophy)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "philosophy"
+      ],
+      "DEF_EN":"Based on or influenced by personal feelings, tastes, or opinions, rather than external facts or evidence.",
+      "DEF_ZH":"基于个人感情、品味或观点，而非外部事实或证据的；主观的。",
+      "SENT_EN":"Art appreciation is inherently subjective; what one person loves, another might dislike.",
+      "SENT_ZH":"艺术鉴赏本质上是主观的；一个人喜欢的东西，另一个人可能不喜欢。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "personal",
+            "biased",
+            "internal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "objective",
+            "factual",
+            "impartial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (grammar)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "grammar",
+        "technical"
+      ],
+      "DEF_EN":"Relating to the subject of a sentence (or clause) as distinct from the object.",
+      "DEF_ZH":"（语法上）与句子的主语有关的；主格的。",
+      "SENT_EN":"In English, 'I' is the subjective pronoun, while 'me' is the objective pronoun.",
+      "SENT_ZH":"在英语中，'I' 是主格代词，而 'me' 是宾格代词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nominative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "objective",
+            "accusative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (philosophy/psychology)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "psychology",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or proceeding from an individual's mind or consciousness.",
+      "DEF_ZH":"（哲学/心理学）与个体的思想或意识有关的；内在的。",
+      "SENT_EN":"The debate centered on whether human experience is fundamentally subjective or if external reality dictates our perception.",
+      "SENT_ZH":"争论集中在人类经验是基本主观的，还是外部现实决定了我们的感知。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "phenomenology",
+            "idealism"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, General Discourse"
+}

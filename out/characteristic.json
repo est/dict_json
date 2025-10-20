@@ -1,0 +1,89 @@
+{
+  "WORD":"characteristic",
+  "IPA":"/ˌkærəktəˈrɪstɪk/",
+  "CONJUGATES":"characteristics | characteristically",
+  "ETYMOLOGY":"From Late Latin characteristicus, from Greek kharaktēristikos (adj.), from kharaktēr (noun), meaning 'engraved mark, distinguishing mark, character'",
+  "SINCE":"c. 1630s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] characteristic",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Typical of a particular person, place, or thing, serving to identify it.",
+      "DEF_ZH":"典型的；特有的；具有鲜明特征的，用于识别某人、某地或某物。",
+      "SENT_EN":"The characteristic scent of pine needles filled the air.",
+      "SENT_ZH":"松针特有的气味弥漫在空气中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "typical",
+            "distinctive",
+            "peculiar",
+            "unique"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "uncharacteristic",
+            "atypical",
+            "unusual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a characteristic of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A feature or quality belonging typically to a person, place, or thing and serving to identify it.",
+      "DEF_ZH":"特征；特性；品质；属于某人、某地或某物的典型特征或品质，可用于识别它。",
+      "SENT_EN":"A defining characteristic of the new model is its energy efficiency.",
+      "SENT_ZH":"新模型的一个决定性特征是其能源效率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "feature",
+            "quality",
+            "attribute",
+            "trait",
+            "property"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] characteristic [of sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "scientific"
+      ],
+      "DEF_EN":"(Mathematics/Physics) Referring to a value or function that is invariant under certain transformations.",
+      "DEF_ZH":"（数学/物理学）表示在某些变换下不变的数值或函数。",
+      "SENT_EN":"The characteristic equation of the matrix provides crucial information.",
+      "SENT_ZH":"该矩阵的特征方程提供了关键信息。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "eigenvalue",
+            "eigenvector"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, formal/technical in certain specific contexts."
+}

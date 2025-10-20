@@ -1,0 +1,88 @@
+{
+  "WORD":"goal",
+  "IPA":"/ɡoʊl/",
+  "CONJUGATES":"goals",
+  "ETYMOLOGY":"From Middle English, derived from Old English gæl, meaning 'hindrance' or 'limit, boundary'. The meaning evolved from a boundary marker to a target or objective.",
+  "SINCE":"c. 13th century (general meaning), c. 16th century (sports boundary)",
+  "MEANINGS":[
+    {
+      "PATTERN":"goal [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The object of a person's ambition or effort; an aim or desired result.",
+      "DEF_ZH":"目标；目的；期望达到的结果或成就。",
+      "SENT_EN":"My main goal for this year is to learn a new programming language.",
+      "SENT_ZH":"我今年的主要目标是学习一门新的编程语言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "objective",
+            "aim",
+            "target",
+            "aspiration",
+            "end"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "start",
+            "means"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"goal",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "countable"
+      ],
+      "DEF_EN":"The act of sending the ball or puck into the goal structure, resulting in a score.",
+      "DEF_ZH":"进球；得分（指成功射门得分的行为）。",
+      "SENT_EN":"The final whistle blew immediately after the winning goal was scored.",
+      "SENT_ZH":"在制胜的一球打进之后，终场哨声立即吹响了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "score",
+            "point",
+            "tally"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"goal",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "physical object"
+      ],
+      "DEF_EN":"A physical structure or area at either end of a sports field or rink into which players try to project the ball or puck to score, typically a net, cage, or posts.",
+      "DEF_ZH":"球门；球篮（体育比赛中用于得分的实体结构）。",
+      "SENT_EN":"The goalie guarded the goal fiercely, preventing any shots from entering the net.",
+      "SENT_ZH":"守门员严密地守护着球门，防止任何射门入网。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "net",
+            "post",
+            "hoop"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal/business, and sports context."
+}

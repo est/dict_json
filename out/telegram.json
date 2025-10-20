@@ -1,0 +1,86 @@
+{
+  "WORD":"telegram",
+  "IPA":"/'telɪɡræm/",
+  "CONJUGATES":"telegrams | telegrammed | telegramming",
+  "ETYMOLOGY":"From Greek tēle (τῆλε, 'far') + gramma (γράμμα, 'something written, letter'). Coined around 1852 in the US, derived from 'telegraph'.",
+  "SINCE":"c. 1852",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (message)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "historical",
+        "communication"
+      ],
+      "DEF_EN":"A message or communication sent by telegraph, usually printed on paper and delivered shortly after transmission.",
+      "DEF_ZH":"通过电报机发送的消息或通信，通常打印在纸上并很快送达。",
+      "SENT_EN":"The general received an urgent telegram detailing the enemy's movements.",
+      "SENT_ZH":"将军收到了一封紧急电报，详细说明了敌人的动向。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wire",
+            "cablegram"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "telegraphy",
+            "Morse code"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[proper noun] (App)",
+      "POS":"proper n",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "modern usage",
+        "internet",
+        "brand"
+      ],
+      "DEF_EN":"(Often capitalized) A popular cross-platform, cloud-based instant messaging and voice over IP service known for its focus on privacy and speed.",
+      "DEF_ZH":"（通常大写）一个流行的跨平台、基于云的即时通讯和VoIP服务，以其对隐私和速度的关注而闻名。",
+      "SENT_EN":"We created a group chat on Telegram to coordinate the event.",
+      "SENT_ZH":"我们在Telegram上创建了一个群聊来协调这次活动。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "WhatsApp",
+            "Signal",
+            "WeChat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"telegram [sb/sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"To send a message to someone using the telegraph; to communicate by wire.",
+      "DEF_ZH":"通过电报向某人发送消息；以电报形式通信。",
+      "SENT_EN":"They decided to telegram the good news rather than wait for the post.",
+      "SENT_ZH":"他们决定发电报通知好消息，而不是等待邮寄。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wire",
+            "telegraph"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Historical (Meaning 1 & 3); Technology (Meaning 2)"
+}

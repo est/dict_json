@@ -1,0 +1,92 @@
+{
+  "WORD":"ash",
+  "IPA":"/æʃ/",
+  "CONJUGATES":"ashes (pl, n) | ashed (v) | ashing (v)",
+  "ETYMOLOGY":"From Old English æsce, related to Old Norse aska and German Asche, ultimately tracing back to Proto-Germanic *askōn, meaning 'residue of fire'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n (uncountable)",
+      "POS_TIP":"Noun, uncountable, referring to a substance or concept that cannot be counted individually.",
+      "TAGS":[
+        "core word",
+        "common",
+        "chemistry"
+      ],
+      "DEF_EN":"The powdery or flaky residue remaining after a substance has been burned completely; cinder.",
+      "DEF_ZH":"燃烧后留下的粉状残余物；灰烬。",
+      "SENT_EN":"He tapped the ash from his pipe into the ornate tray.",
+      "SENT_ZH":"他将烟斗里的烟灰弹入那个精致的托盘中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cinders",
+            "residue",
+            "soot"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "volcanic ash",
+            "fly ash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n (countable)",
+      "POS_TIP":"Noun, countable, referring to individual things of this type.",
+      "TAGS":[
+        "core word",
+        "botany",
+        "common"
+      ],
+      "DEF_EN":"A deciduous tree of the genus *Fraxinus*, known for its hard, elastic wood, or the wood itself.",
+      "DEF_ZH":"梣树；白蜡树（一种木材坚韧的落叶乔木）；梣木。",
+      "SENT_EN":"The furniture was crafted entirely out of light-colored ash wood.",
+      "SENT_ZH":"这套家具完全是用浅色的梣木制作的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "Fraxinus"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hardwood",
+            "oak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ash [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb, requiring a direct object.",
+      "TAGS":[
+        "technical",
+        "rare"
+      ],
+      "DEF_EN":"To reduce a substance to ash, often in a laboratory setting (calcination), or to remove the ash from something.",
+      "DEF_ZH":"将（某物）烧成灰（通常指化学分析过程）；给...除灰。",
+      "SENT_EN":"The lab technician must ash the raw sample before analyzing its inorganic content.",
+      "SENT_ZH":"实验室技术员必须先将原始样本烧成灰，然后才能分析其无机物含量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incinerate",
+            "calcinate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly in environmental science and materials terminology."
+}

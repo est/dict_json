@@ -1,0 +1,76 @@
+{
+  "WORD":"doubt",
+  "IPA":"/daʊt/",
+  "CONJUGATES":"doubts | doubting | doubted",
+  "ETYMOLOGY":"From Middle English doute, from Old French douter (to fear, doubt), from Latin dubitare (to waver in opinion, hesitate, doubt). The 'b' was reintroduced in the 16th century to reflect the Latin root, but is usually silent.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A feeling of uncertainty, hesitation, or lack of conviction about something.",
+      "DEF_ZH":"不确定性；怀疑；疑惑；不信任。",
+      "SENT_EN":"I have serious doubts about whether the new policy will work.",
+      "SENT_ZH":"我对这项新政策是否奏效抱有严重的疑虑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uncertainty",
+            "skepticism",
+            "mistrust",
+            "misgiving"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "certainty",
+            "conviction",
+            "belief",
+            "trust"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"doubt [sb]\ndoubt [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To feel uncertain about or lack confidence in (someone or something); to question the truth or validity of.",
+      "DEF_ZH":"怀疑；不相信；质疑（某人或某事）。",
+      "SENT_EN":"Nobody doubted his commitment to the cause.",
+      "SENT_ZH":"没有人怀疑他对事业的承诺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "question",
+            "dispute",
+            "distrust",
+            "challenge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "trust",
+            "believe",
+            "accept",
+            "assume"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in all registers (formal, informal, academic)."
+}

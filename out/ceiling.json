@@ -1,0 +1,86 @@
+{
+  "WORD":"ceiling",
+  "IPA":"/ˈsiːlɪŋ/",
+  "CONJUGATES":"plural: ceilings",
+  "ETYMOLOGY":"From Middle English 'celyng', derived from the verb 'celen' (to ceil), which comes from Anglo-French 'celer' (to cover, conceal), ultimately from Latin 'celare' (to hide). Originally referred to the action of covering a room with a ceiling.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a ceiling\nthe ceiling of [sth]",
+      "POS":"n",
+      "POS_TIP":"n: noun, a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The upper interior surface of a room or other enclosed space.",
+      "DEF_ZH":"房间或其他封闭空间的顶部内表面。",
+      "SENT_EN":"We painted the bedroom ceiling light blue to make the room feel more open.",
+      "SENT_ZH":"我们把卧室的天花板漆成了浅蓝色，让房间感觉更开阔。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "floor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a ceiling on [sth]",
+      "POS":"n",
+      "POS_TIP":"n: noun, a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"An upper limit, typically one that is imposed or fixed, especially on prices, wages, or expenditure.",
+      "DEF_ZH":"上限，特别是对价格、工资或开支等设定的上限。",
+      "SENT_EN":"The government imposed a ceiling on rent increases to protect tenants.",
+      "SENT_ZH":"政府对租金上涨设定了上限，以保护租户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "cap",
+            "maximum",
+            "upper limit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "floor",
+            "minimum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] ceiling",
+      "POS":"n",
+      "POS_TIP":"n: noun, a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "technical",
+        "specialized",
+        "aviation",
+        "meteorology"
+      ],
+      "DEF_EN":"(Aviation/Meteorology) The maximum altitude at which an aircraft can operate efficiently, or the height of the base of the lowest layer of clouds.",
+      "DEF_ZH":"（航空/气象）飞机能有效运行的最高高度，或最低云层的底部高度。",
+      "SENT_EN":"Due to the low cloud ceiling, all flights were delayed until further notice.",
+      "SENT_ZH":"由于云层高度低，所有航班都被推迟，直至另行通知。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "altitude",
+            "cloudbase"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with technical uses in aviation and economics."
+}

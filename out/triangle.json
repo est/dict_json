@@ -1,0 +1,87 @@
+{
+  "WORD":"triangle",
+  "IPA":"/ˈtraɪæŋɡəl/",
+  "CONJUGATES":"triangles",
+  "ETYMOLOGY":"From Latin triangulum (neuter of triangulus 'three-cornered, having three angles'), from tri- ('three') + angulus ('angle, corner')",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry"
+      ],
+      "DEF_EN":"A plane figure with three straight sides and three angles.",
+      "DEF_ZH":"具有三条直边和三个角的平面图形。",
+      "SENT_EN":"The area of a triangle is calculated as half the base multiplied by the height.",
+      "SENT_ZH":"三角形的面积计算公式是底乘以高的一半。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trigonometry",
+            "quadrilateral",
+            "polygon"
+          ]
+        },
+        {
+          "T":"hyponyms",
+          "V":[
+            "equilateral triangle",
+            "isosceles triangle",
+            "scalene triangle",
+            "right triangle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "object",
+        "music"
+      ],
+      "DEF_EN":"A percussion instrument consisting of a small metal rod bent into a triangular shape, which is sounded by being struck with a metal beater.",
+      "DEF_ZH":"一种打击乐器，由一根弯成三角形的小金属棒组成，用金属棒敲击发声。",
+      "SENT_EN":"The delicate sound of the triangle punctuated the orchestral piece.",
+      "SENT_ZH":"三角铁清脆的声音点缀着这段管弦乐曲。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "percussion",
+            "cymbal",
+            "glockenspiel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of something)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "general"
+      ],
+      "DEF_EN":"A group of three people or things, especially one involving a complex relationship or tension.",
+      "DEF_ZH":"由三个人或事物组成的群体，尤其指涉及复杂关系或紧张局势的三角关系。",
+      "SENT_EN":"The film explores the emotional complexities of a love triangle.",
+      "SENT_ZH":"这部电影探索了三角恋中的情感纠葛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trio",
+            "triad"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/general"
+}

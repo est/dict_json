@@ -1,0 +1,85 @@
+{
+  "WORD":"constant",
+  "IPA":"/ˈkɒnstənt/",
+  "CONJUGATES":"constants | constantly",
+  "ETYMOLOGY":"From Latin constans, constantis (present participle of constare 'to stand firm, agree'), from com- (together) + stare (to stand).",
+  "SINCE":"Late 14th century (as adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"constant [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Occurring continuously over a period of time; persistent.",
+      "DEF_ZH":"持续不断的；频繁发生的；不间断的。",
+      "SENT_EN":"The room temperature must be kept constant.",
+      "SENT_ZH":"房间的温度必须保持恒定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "continuous",
+            "ceaseless",
+            "perpetual"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "intermittent",
+            "occasional",
+            "varying"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"constant [sth] (in science/math)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "academic",
+        "technical"
+      ],
+      "DEF_EN":"A value or quantity that is fixed or invariable.",
+      "DEF_ZH":"(数/理) 常数；恒量；不变的事物。",
+      "SENT_EN":"The speed of sound is treated as a constant in basic physics calculations.",
+      "SENT_ZH":"在基础物理计算中，声速被视为一个常数。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "variable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"constant [sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"Faithful and dependable; unwavering in devotion or purpose.",
+      "DEF_ZH":"忠诚的；坚贞不渝的；坚定的。",
+      "SENT_EN":"She remained constant to her principles despite the pressure.",
+      "SENT_ZH":"尽管面临压力，她仍坚守自己的原则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steadfast",
+            "loyal",
+            "firm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in technical and mathematical contexts."
+}

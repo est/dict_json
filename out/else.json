@@ -1,0 +1,102 @@
+{
+  "WORD":"else",
+  "IPA":"/ɛls/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English elles, from Old English elles (adv., 'otherwise, differently, besides'), which is the genitive singular of the base ali (other, different). Related to Old Norse ells.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adv] (following question words or adverbs)",
+      "POS":"adv",
+      "POS_TIP":"adverb: a word or phrase that modifies an adjective, verb, or other adverb, or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"In addition; besides the person or thing already mentioned.",
+      "DEF_ZH":"另外；此外；除此之外（常用于疑问词或副词后）。",
+      "SENT_EN":"What else do you need for the trip?",
+      "SENT_ZH":"这次旅行你还需要些什么？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "besides",
+            "additionally",
+            "moreover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] (following indefinite pronouns)",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word or phrase naming an attribute, added to a noun to modify or describe it.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Other; different. Used to modify indefinite pronouns (e.g., someone else, nothing else, where else).",
+      "DEF_ZH":"别的；其他的（用于修饰不定代词）。",
+      "SENT_EN":"If you are busy, I will ask someone else for help.",
+      "SENT_ZH":"如果你很忙，我会去请其他人帮忙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "other",
+            "different",
+            "alternate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adv] (conditional or imperative)",
+      "POS":"adv",
+      "POS_TIP":"adverb: a word or phrase that modifies an adjective, verb, or other adverb, or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"Otherwise; if not; in different circumstances.",
+      "DEF_ZH":"否则；不然。",
+      "SENT_EN":"Pay attention, else you might miss the crucial details.",
+      "SENT_ZH":"请注意，否则你可能会错过关键细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "otherwise",
+            "failing that",
+            "or"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(in programming)",
+      "POS":"keyword",
+      "POS_TIP":"Programming Keyword/Conditional Operator",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A programming keyword used in conjunction with 'if' to specify an alternative action to be executed if the initial condition is false.",
+      "DEF_ZH":"（编程）用于条件语句（if-else）中的关键字，表示如果 'if' 条件不满足时执行的语句块。",
+      "SENT_EN":"The program checks the condition in the 'if' statement and runs the 'else' block only if it fails.",
+      "SENT_ZH":"程序检查 'if' 语句中的条件，只有在条件失败时才会运行 'else' 块。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "if",
+            "elif",
+            "switch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical (Computing)"
+}

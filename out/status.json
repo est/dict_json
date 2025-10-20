@@ -1,0 +1,102 @@
+{
+  "WORD":"status",
+  "IPA":"/ˈstætəs/ | /ˈsteɪtəs/",
+  "CONJUGATES":"plural statuses",
+  "ETYMOLOGY":"From Latin status ('state, condition, position'), past participle of stare ('to stand').",
+  "SINCE":"Early 17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "social science"
+      ],
+      "DEF_EN":"The relative social, professional, or legal standing, position, or rank of someone or something.",
+      "DEF_ZH":"某人或某物在社会、专业或法律上的相对地位、身份或等级。",
+      "SENT_EN":"His high academic status allowed him to access special grants.",
+      "SENT_ZH":"他崇高的学术地位使他能够获得特殊拨款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "position",
+            "standing",
+            "rank",
+            "station"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sociology",
+            "hierarchy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technology",
+        "general condition"
+      ],
+      "DEF_EN":"The current condition or state of affairs, especially regarding progress, completion, or health.",
+      "DEF_ZH":"当前的状况或情形，尤其指进度、完成度或健康情况。",
+      "SENT_EN":"We need an immediate update on the project status.",
+      "SENT_ZH":"我们需要一份关于项目状态的即时更新。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condition",
+            "state",
+            "situation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "report",
+            "update"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"high status",
+      "POS":"n (uncountable)",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "idiomatic",
+        "prestige"
+      ],
+      "DEF_EN":"Perceived importance or prestige; having high rank or social standing.",
+      "DEF_ZH":"被感知到的重要性或声望；拥有高等级或社会地位。",
+      "SENT_EN":"Luxury cars are often bought solely for status.",
+      "SENT_ZH":"购买豪华汽车往往仅仅是为了地位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prestige",
+            "clout",
+            "importance"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lowliness",
+            "obscurity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical (especially IT)"
+}

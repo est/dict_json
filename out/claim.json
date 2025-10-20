@@ -1,0 +1,123 @@
+{
+  "WORD":"claim",
+  "IPA":"/kleɪm/",
+  "CONJUGATES":"claims | claiming | claimed",
+  "ETYMOLOGY":"From Middle English claimen (verb) and claime (noun), ultimately derived from the Anglo-Norman clamer, and the Latin clāmāre 'to cry out, shout'.",
+  "SINCE":"c. 1250",
+  "MEANINGS":[
+    {
+      "PATTERN":"claim [sth]\nclaim (that) [clause]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "general usage"
+      ],
+      "DEF_EN":"To state or assert that something is true, often without providing immediate proof or evidence.",
+      "DEF_ZH":"声称；断言；宣称（通常指尚未证实）。",
+      "SENT_EN":"The company claims that its product is 100% organic.",
+      "SENT_ZH":"该公司声称其产品是100%有机的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assert",
+            "allege",
+            "maintain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deny",
+            "retract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"claim [sth]\nclaim [sb/sth] as [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "legal",
+        "financial"
+      ],
+      "DEF_EN":"To demand or request ownership, compensation, or fulfillment of a legal right, or to take something as one's due.",
+      "DEF_ZH":"要求（所有权、金钱或权利）；索取；认领。",
+      "SENT_EN":"You must claim your insurance benefits within 90 days of the injury.",
+      "SENT_ZH":"您必须在受伤后90天内申领您的保险福利。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demand",
+            "request",
+            "acquire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s claim (that) [clause]",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "statement"
+      ],
+      "DEF_EN":"An assertion of the truth of something, often disputed or unverified.",
+      "DEF_ZH":"声称；断言；主张；说法。",
+      "SENT_EN":"His claim that he invented the device turned out to be false.",
+      "SENT_ZH":"他声称发明了该设备的说法结果是假的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assertion",
+            "declaration",
+            "allegation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have a claim to [sth]\nput in a claim for [sth]",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "legal",
+        "insurance"
+      ],
+      "DEF_EN":"A formal request for money, property, or entitlement based on a legal right or agreement.",
+      "DEF_ZH":"索赔；要求；权利；所有权。",
+      "SENT_EN":"She filed a claim for damages after the car accident.",
+      "SENT_ZH":"车祸发生后，她提交了损害赔偿的索赔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entitlement",
+            "demand",
+            "right"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mining claim",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "historical",
+        "mining"
+      ],
+      "DEF_EN":"A piece of land officially registered as being owned or worked by a miner or settler.",
+      "DEF_ZH":"（采矿者或定居者划定的）采矿区；定居地。",
+      "SENT_EN":"During the gold rush, thousands rushed west to stake their claim.",
+      "SENT_ZH":"在淘金热期间，成千上万的人涌向西部去划定自己的采矿区。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard; frequent in legal, financial, and academic discourse."
+}

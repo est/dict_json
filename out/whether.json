@@ -1,0 +1,61 @@
+{
+  "WORD":"whether",
+  "IPA":"/ˈwɛðər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English whether, from Old English hwæðer ('which of two'), related to hwat (what).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"whether [clause] or [clause]",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences, expressing a choice or doubt between alternatives.",
+      "TAGS":[
+        "core word",
+        "common",
+        "choice"
+      ],
+      "DEF_EN":"Expressing a doubt or choice between two or more alternatives.",
+      "DEF_ZH":"表示两种或多种选择或可能性之间的疑问或选择。",
+      "SENT_EN":"I couldn't decide whether to take the train or the bus.",
+      "SENT_ZH":"我无法决定是乘火车还是乘公共汽车。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[verb of knowing/doubt] whether [clause]",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences, introducing an indirect question.",
+      "TAGS":[
+        "core word",
+        "common",
+        "indirect question"
+      ],
+      "DEF_EN":"Introducing an indirect question involving a single possibility (often interchangeable with 'if').",
+      "DEF_ZH":"引导间接疑问句，表示“是否”（通常可与 'if' 互换）。",
+      "SENT_EN":"The manager asked whether the report was finished yet.",
+      "SENT_ZH":"经理问报告是否已经完成。",
+      "RELATED":[
+        {
+          "T":"similar usage",
+          "V":[
+            "if"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"whether [A] or not [B]",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences, indicating that the outcome is irrelevant to the stated conditions.",
+      "TAGS":[
+        "common",
+        "concessive"
+      ],
+      "DEF_EN":"Regardless of which of the two alternatives is true; introducing a concessive clause.",
+      "DEF_ZH":"不论所陈述的两种可能性中哪一种是真实的（结果都不变）；引导让步状语从句。",
+      "SENT_EN":"Whether you agree or not, the decision has been made.",
+      "SENT_ZH":"无论你是否同意，决定都已经做出了。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Used commonly in both formal and informal writing and speech."
+}

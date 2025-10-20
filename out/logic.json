@@ -1,0 +1,116 @@
+{
+  "WORD":"logic",
+  "IPA":"/ˈlɒdʒɪk/",
+  "CONJUGATES":"logics (plural, when referring to distinct systems)",
+  "ETYMOLOGY":"From Old French logique, from Latin logica, from Ancient Greek logikḗ (λογική), feminine of logikós (λογικός, 'pertaining to speech or reason'), from lógos (λόγος, 'word, reason').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"logic",
+      "POS":"noun",
+      "POS_TIP":"Noun (uncountable): A word that represents a person, place, thing, or idea. Uncountable nouns do not have a plural form.",
+      "TAGS":[
+        "core word",
+        "common",
+        "philosophy",
+        "science"
+      ],
+      "DEF_EN":"The formal study of reasoning, especially as a branch of philosophy and mathematics, concerned with the principles of valid inference and demonstration.",
+      "DEF_ZH":"推理的正式研究，特别是作为哲学和数学的一个分支，关注有效推理和论证的原则。",
+      "SENT_EN":"Aristotle's work laid the foundations for formal logic.",
+      "SENT_ZH":"亚里士多德的工作为形式逻辑奠定了基础。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reasoning",
+            "deduction",
+            "inference",
+            "dialectic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the logic of [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable/uncountable): A word that represents a person, place, thing, or idea. Can be used in both singular and plural forms.",
+      "TAGS":[
+        "common",
+        "everyday use"
+      ],
+      "DEF_EN":"A particular system or method of reasoning, or the soundness of an argument or set of ideas.",
+      "DEF_ZH":"一种特定的推理系统或方法，或论证或一系列思想的合理性。",
+      "SENT_EN":"His argument lacks sound logic.",
+      "SENT_ZH":"他的论点缺乏合理的逻辑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reason",
+            "sense",
+            "rationality",
+            "coherence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "illogic",
+            "absurdity",
+            "irrationality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a logic",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable): A word that represents a person, place, thing, or idea. Can be used in both singular and plural forms.",
+      "TAGS":[
+        "academic",
+        "technical"
+      ],
+      "DEF_EN":"A specific system or framework for logical operations or reasoning, often with distinct axioms or rules (e.g., fuzzy logic, modal logic).",
+      "DEF_ZH":"一个用于逻辑操作或推理的特定系统或框架，通常具有不同的公理或规则（例如，模糊逻辑、模态逻辑）。",
+      "SENT_EN":"Many programming languages are based on predicate logic.",
+      "SENT_ZH":"许多编程语言都基于谓词逻辑。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fuzzy logic",
+            "modal logic",
+            "propositional logic",
+            "predicate logic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"logic",
+      "POS":"noun",
+      "POS_TIP":"Noun (uncountable): A word that represents a person, place, thing, or idea. Uncountable nouns do not have a plural form.",
+      "TAGS":[
+        "computing",
+        "electronics",
+        "technical"
+      ],
+      "DEF_EN":"The non-analog circuitry of an electronic device, especially a computer, that performs logical operations.",
+      "DEF_ZH":"电子设备（特别是计算机）中执行逻辑操作的非模拟电路。",
+      "SENT_EN":"The new chip integrates more complex logic onto a smaller die.",
+      "SENT_ZH":"新芯片将更复杂的逻辑集成到更小的芯片上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "logic gate",
+            "digital logic",
+            "microprocessor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

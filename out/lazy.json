@@ -1,0 +1,93 @@
+{
+  "WORD":"lazy",
+  "IPA":"/'leɪzi/",
+  "CONJUGATES":"lazier | laziest",
+  "ETYMOLOGY":"Probably from Middle Low German lasich ('slack, weak'), or related to the obsolete verb 'laze' (to be idle). First recorded use referring to reluctance to work.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Unwilling to work or exert oneself; characterized by lack of effort or industry.",
+      "DEF_ZH":"不愿工作或用力；缺乏努力的；懒惰的。",
+      "SENT_EN":"He was too lazy to finish his homework on time.",
+      "SENT_ZH":"他太懒了，没能按时完成作业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "idle",
+            "sluggish",
+            "indolent",
+            "shiftless"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "diligent",
+            "industrious",
+            "energetic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "laziness",
+            "lazily"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive"
+      ],
+      "DEF_EN":"Characterized by slowness, relaxation, or lack of hurriedness.",
+      "DEF_ZH":"以缓慢、放松或不匆忙为特征的（常指行动或环境）。",
+      "SENT_EN":"They spent a lazy afternoon drifting down the river.",
+      "SENT_ZH":"他们度过了一个悠闲的下午，在河上漂流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slow",
+            "leisurely",
+            "restful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"Denoting an operation that delays computation or resource allocation until the result or resource is actually required (e.g., lazy evaluation, lazy loading).",
+      "DEF_ZH":"（指计算操作）延迟计算或资源分配直到真正需要结果或资源时才执行（例如：惰性求值）。",
+      "SENT_EN":"The system uses lazy loading to improve initial page speed.",
+      "SENT_ZH":"该系统使用惰性加载来提高初始页面速度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lazy evaluation",
+            "lazy loading"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

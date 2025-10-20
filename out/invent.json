@@ -1,0 +1,72 @@
+{
+  "WORD":"invent",
+  "IPA":"/ɪnˈvɛnt/",
+  "CONJUGATES":"invents | inventing | invented",
+  "ETYMOLOGY":"From Latin invenire ('to come upon, find, discover'), from in- ('in, upon') + venire ('to come'). The meaning shifted from 'discover' to 'create' in the early Modern English period.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"invent [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "creation"
+      ],
+      "DEF_EN":"To create or design something useful or novel that has not existed before.",
+      "DEF_ZH":"创造、设计或首次构建以前不存在的、有用的或新颖的事物。",
+      "SENT_EN":"The chemist spent decades trying to invent a synthetic diamond.",
+      "SENT_ZH":"这位化学家花了数十年时间试图发明人造钻石。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "devise",
+            "formulate",
+            "pioneer",
+            "originate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "invention",
+            "inventor",
+            "innovate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"invent [sth] (a story/excuse)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "communication",
+        "negative"
+      ],
+      "DEF_EN":"To make up a false story, excuse, or piece of information; to fabricate.",
+      "DEF_ZH":"编造虚假的故事、借口或信息；捏造。",
+      "SENT_EN":"When questioned, he quickly invented an elaborate alibi.",
+      "SENT_ZH":"当被质问时，他迅速编造了一个精心设计的托词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fabricate",
+            "concoct",
+            "make up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "verify",
+            "confirm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

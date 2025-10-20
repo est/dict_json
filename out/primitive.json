@@ -1,0 +1,115 @@
+{
+  "WORD":"primitive",
+  "IPA":"/ˈprɪmɪtɪv/",
+  "CONJUGATES":"primitives | primitively | primitiveness",
+  "ETYMOLOGY":"From Latin primitivus ('first, earliest'), from primus ('first').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is primitive",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or denoting the earliest stage in the development or growth of something.",
+      "DEF_ZH":"属于或标志着某事物发展或成长中最早阶段的。",
+      "SENT_EN":"Early humans used primitive tools made of stone.",
+      "SENT_ZH":"早期人类使用由石头制成的原始工具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "primeval",
+            "early",
+            "earliest"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "modern",
+            "advanced"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is primitive",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "pejorative"
+      ],
+      "DEF_EN":"Lacking the amenities or comforts of modern life; crude or simple.",
+      "DEF_ZH":"缺乏现代生活设施或舒适度的；简陋的或简单的。",
+      "SENT_EN":"The remote village still relies on primitive methods of farming.",
+      "SENT_ZH":"这个偏远的村庄仍然依赖原始的耕作方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "basic",
+            "crude",
+            "simple",
+            "rudimentary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sophisticated",
+            "complex",
+            "luxurious"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a primitive",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "art"
+      ],
+      "DEF_EN":"An artist belonging to a school of primitive art, especially one of the early Italian painters.",
+      "DEF_ZH":"原始艺术流派的艺术家，尤指早期的意大利画家。",
+      "SENT_EN":"She is studying the techniques used by the Flemish primitives.",
+      "SENT_ZH":"她正在研究佛兰德原始派画家使用的技术。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "naïve art"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a primitive",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "computing"
+      ],
+      "DEF_EN":"In computer science, a basic component, such as a fundamental data type, routine, or instruction, from which more complex structures or programs are constructed.",
+      "DEF_ZH":"在计算机科学中，构成更复杂结构或程序的基本组成部分，如基本数据类型、例程或指令。",
+      "SENT_EN":"Boolean values are considered primitives in many programming languages.",
+      "SENT_ZH":"布尔值在许多编程语言中被认为是基本类型。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "data type",
+            "atom"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, academic, and technical usage (computing, art)."
+}

@@ -1,0 +1,116 @@
+{
+  "WORD":"quote",
+  "IPA":"/kwoʊt/",
+  "CONJUGATES":"quotes | quoting | quoted",
+  "ETYMOLOGY":"From Middle English quoten, from Old French coter, from Late Latin quotare 'to number, distinguish by number', from Latin quot 'how many'",
+  "SINCE":"Late Middle English (c. 1400s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"quote [sth]\nquote [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To repeat or copy out a passage or phrase from a book, speech, or person, often with an attribution.",
+      "DEF_ZH":"引述或复制书籍、讲话或某人的段落或短语，通常带有出处说明。",
+      "SENT_EN":"She quoted a famous line from Shakespeare's 'Hamlet'.",
+      "SENT_ZH":"她引用了莎士比亚《哈姆雷特》中的一句著名台词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cite",
+            "recite",
+            "reproduce"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "quotation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quote [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"To state the current price of a commodity, stock, or security.",
+      "DEF_ZH":"报出商品、股票或证券的当前价格。",
+      "SENT_EN":"The stockbroker quoted the price of the shares to the client.",
+      "SENT_ZH":"股票经纪人向客户报出了这些股票的价格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "name",
+            "state",
+            "bid"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "quotation",
+            "price"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a quote",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A passage or expression that is quoted or cited.",
+      "DEF_ZH":"被引述或引用的段落或表达。",
+      "SENT_EN":"I found a great quote about perseverance in that book.",
+      "SENT_ZH":"我在那本书中发现了一句关于毅力的绝佳引言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quotation",
+            "excerpt",
+            "saying"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a quote (on/for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "business"
+      ],
+      "DEF_EN":"A statement of the cost of a suggested piece of work or service.",
+      "DEF_ZH":"对提议的工作或服务的成本的报价。",
+      "SENT_EN":"We need to get a quote from three different builders before starting the project.",
+      "SENT_ZH":"在开始项目之前，我们需要从三家不同的建筑商那里获得报价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "estimate",
+            "quotation",
+            "tender"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, Academic, Business/Finance"
+}

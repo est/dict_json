@@ -1,0 +1,147 @@
+{
+  "WORD":"pound",
+  "IPA":"/paʊnd/",
+  "CONJUGATES":"pounds | pounding | pounded",
+  "ETYMOLOGY":"From Old English pund, ultimately from Latin pondō, the ablative of pondus ('weight'), meaning 'by weight'. The monetary unit sense comes from a pound weight of silver.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[v] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: action directed towards an object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To strike or hit something repeatedly and heavily.",
+      "DEF_ZH":"反复而有力地敲打或击打某物。",
+      "SENT_EN":"The waves were pounding against the cliffs.",
+      "SENT_ZH":"海浪反复拍打着悬崖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beat",
+            "hammer",
+            "strike"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] [sth] (into/out of)",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "cooking"
+      ],
+      "DEF_EN":"To crush or grind something into a powder or paste, often using a mortar and pestle.",
+      "DEF_ZH":"把某物捣碎或磨成粉末或糊状。",
+      "SENT_EN":"She used a mortar and pestle to pound the spices.",
+      "SENT_ZH":"她使用研钵和研杵将香料捣碎。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crush",
+            "grind",
+            "mash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n] (unit of weight)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "measurement"
+      ],
+      "DEF_EN":"A unit of weight equal to 16 ounces avoirdupois (approximately 0.4536 kilograms).",
+      "DEF_ZH":"重量单位，等于16盎司（约0.4536千克）。",
+      "SENT_EN":"I bought five pounds of apples at the market.",
+      "SENT_ZH":"我在市场上买了五磅苹果。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "kilogram",
+            "ounce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n] (currency)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "UK"
+      ],
+      "DEF_EN":"The standard monetary unit of the United Kingdom (Pound Sterling) and several other countries.",
+      "DEF_ZH":"英国（英镑）和其它几个国家的标准货币单位。",
+      "SENT_EN":"The exchange rate is 1.25 dollars to the pound.",
+      "SENT_ZH":"汇率是1英镑兑1.25美元。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Sterling",
+            "Euro",
+            "Dollar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] (heart/blood)",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb: action without direct object",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"If your heart or pulse pounds, it beats very quickly and strongly, usually because you are nervous, excited, or exercising.",
+      "DEF_ZH":"（心或脉搏）剧烈而快速地跳动，通常是由于紧张、兴奋或运动。",
+      "SENT_EN":"His heart began to pound when he heard the news.",
+      "SENT_ZH":"当他听到这个消息时，心开始怦怦直跳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "throb",
+            "pulsate",
+            "hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n] (shelter)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "dated"
+      ],
+      "DEF_EN":"An enclosure maintained by public authority for the confinement of stray or captured animals.",
+      "DEF_ZH":"由公共机构维护的用于收容流浪或捕获动物的围栏（动物收容所）。",
+      "SENT_EN":"The dog was taken to the local animal pound.",
+      "SENT_ZH":"那只狗被带到了当地的动物收容所。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shelter",
+            "kennel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

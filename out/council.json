@@ -1,0 +1,88 @@
+{
+  "WORD":"council",
+  "IPA":"/ˈkaʊns(ə)l/",
+  "CONJUGATES":"councils",
+  "ETYMOLOGY":"From Anglo-Norman conseil, from Latin concilium 'assembly, meeting', from con- 'together' + calare 'to summon'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[c] council",
+      "POS":"n",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "administration"
+      ],
+      "DEF_EN":"A body of people elected or appointed to advise, govern, or manage a district or organization.",
+      "DEF_ZH":"由选举或任命产生，负责为某一地区或组织提供建议、治理或管理的一群人或机构。",
+      "SENT_EN":"The city council voted to approve the new zoning ordinance.",
+      "SENT_ZH":"市议会投票批准了新的分区条例。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "committee",
+            "assembly",
+            "board",
+            "cabinet"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "counsel",
+            "councillor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[c] council",
+      "POS":"n",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "religion",
+        "history"
+      ],
+      "DEF_EN":"An ecclesiastical assembly or synod, such as the Second Vatican Council.",
+      "DEF_ZH":"宗教会议或主教会议，例如第二次梵蒂冈大公会议。",
+      "SENT_EN":"The ecumenical council was called to address issues of doctrine and practice.",
+      "SENT_ZH":"召集了普世大公会议来解决教义和实践问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "synod",
+            "convocation",
+            "assembly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[u] council",
+      "POS":"n",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"The giving of advice; deliberation.",
+      "DEF_ZH":"提供建议；审议（现多用 counsel）。",
+      "SENT_EN":"After much council, they decided on a course of action.",
+      "SENT_ZH":"经过多次商议，他们决定了行动方案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "counsel",
+            "advice",
+            "consultation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and institutional contexts, especially government and organizational structures."
+}

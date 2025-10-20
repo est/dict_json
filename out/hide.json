@@ -1,0 +1,109 @@
+{
+  "WORD":"hide",
+  "IPA":"/haɪd/",
+  "CONJUGATES":"hid | hidden | hiding | hides (v) | hides (n)",
+  "ETYMOLOGY":"Verb (to conceal): From Old English hȳdan, from Proto-Germanic *hūdijaną. | Noun (animal skin): From Old English hȳd, from Proto-Germanic *hūdi-z.",
+  "SINCE":"Pre-900 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"hide [sth]\nhide [sb] | hide [oneself] | hide (from [sb/sth])",
+      "POS":"vtr | vitr",
+      "POS_TIP":"Transitive verb (needs a direct object) | Intransitive verb (does not need a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put something or oneself in a place where it cannot be easily seen or found; to conceal.",
+      "DEF_ZH":"隐藏；藏匿；将某物或自己放置在不易被看见或找到的地方。",
+      "SENT_EN":"The children loved to hide their toys under the bed.",
+      "SENT_ZH":"孩子们喜欢把玩具藏在床底下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conceal",
+            "stash",
+            "secrete"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reveal",
+            "display",
+            "expose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hide [sth] from [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "metaphorical"
+      ],
+      "DEF_EN":"To prevent someone from seeing or knowing a fact, truth, or emotion.",
+      "DEF_ZH":"隐瞒；掩盖；不让人知道某个事实、真相或情感。",
+      "SENT_EN":"It was impossible for him to hide his true feelings from his wife.",
+      "SENT_ZH":"他不可能向妻子隐瞒自己的真实感受。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "withhold",
+            "cover up",
+            "mask"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hide",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "industry specific"
+      ],
+      "DEF_EN":"The thick, tough skin of a large animal (such as a cow, buffalo, or rhinoceros), usually used to make leather.",
+      "DEF_ZH":"兽皮；生皮 (大型动物的厚实皮肤，通常用于制造皮革)。",
+      "SENT_EN":"The cowboy wore a thick jacket made of cow hide.",
+      "SENT_ZH":"这位牛仔穿着一件用牛皮制成的厚夹克。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pelt",
+            "leather",
+            "tannery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hide",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "regional (UK)",
+        "specific vocabulary"
+      ],
+      "DEF_EN":"A camouflaged structure used by hunters or bird watchers to observe wildlife without disturbing it.",
+      "DEF_ZH":"(英式) 隐蔽处；伪装棚 (供猎人或观鸟者观察野生动物用)。",
+      "SENT_EN":"We managed to get a good view of the eagles from the bird hide.",
+      "SENT_ZH":"我们设法在观鸟隐蔽处看到了那些老鹰的清晰景象。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "blind",
+            "shelter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

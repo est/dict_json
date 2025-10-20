@@ -13,6 +13,7 @@ for p in Path('pub').rglob('*.txt'):
 
 session  = requests.Session()
 for i, w in enumerate(whole, start=1):
+    if i < 1630: continue
     r = session.post('https://def.est.im/.lookup', params={'q': w})
     with open(f'out/{w}.json', 'w') as f:
         o = json.dumps(r.json().get('result'), ensure_ascii=False, separators=',:', indent=2)

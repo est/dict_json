@@ -1,0 +1,85 @@
+{
+  "WORD":"citizen",
+  "IPA":"/ˈsɪtɪzən/",
+  "CONJUGATES":"citizens (plural) | citizenship (noun)",
+  "ETYMOLOGY":"From Middle English citezein, from Anglo-Norman citesein, corresponding to Old French citeain, derived from cité (city) with the suffix perhaps influenced by denizen.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] citizen",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"A legally recognized subject or national of a state or commonwealth, either native or naturalized, who is entitled to rights and protection.",
+      "DEF_ZH":"某国家或州的合法国民或成员，无论是通过出生还是入籍，有权享有其权利和保护。",
+      "SENT_EN":"Only a registered citizen can vote in the national elections.",
+      "SENT_ZH":"只有注册公民才能在全国选举中投票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "national",
+            "subject"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "constituent",
+            "electorate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"citizen of [sth]",
+      "POS":"n. + prep",
+      "POS_TIP":"noun + preposition",
+      "TAGS":[
+        "general"
+      ],
+      "DEF_EN":"An inhabitant of a particular town or city.",
+      "DEF_ZH":"某特定城镇或城市的居民。",
+      "SENT_EN":"The ancient citizens of Rome developed sophisticated infrastructure.",
+      "SENT_ZH":"古罗马的市民们发展了复杂的（城市）基础设施。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resident",
+            "inhabitant",
+            "dweller"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] citizen",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "modern usage"
+      ],
+      "DEF_EN":"A person viewed as a member of a particular community, sphere, or environment (often non-geographic), emphasizing participation or responsibility.",
+      "DEF_ZH":"被视为特定社区、领域或环境（通常是非地理性的）的成员，强调参与或责任感。",
+      "SENT_EN":"We should all strive to be good global citizens by protecting the environment.",
+      "SENT_ZH":"我们都应该通过保护环境来努力成为优秀的全球公民。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "global citizen",
+            "netizen",
+            "digital citizen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Sociological"
+}

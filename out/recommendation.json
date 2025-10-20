@@ -1,0 +1,86 @@
+{
+  "WORD":"recommendation",
+  "IPA":"/ˌrɛkəmɛnˈdeɪʃ(ə)n/",
+  "CONJUGATES":"recommendations (plural)",
+  "ETYMOLOGY":"From Medieval Latin *recommendationem*, from *recommendare* ('to commend, entrust'), equivalent to recommend + -ation.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"recommendation [of sth/sb]",
+      "POS":"noun",
+      "POS_TIP":"Countable/Uncountable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act of suggesting or proposing someone or something as suitable for a purpose or role.",
+      "DEF_ZH":"推荐、建议某人或某事物的行为或过程。",
+      "SENT_EN":"The committee made a strong recommendation of the merger.",
+      "SENT_ZH":"委员会强烈建议进行合并。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advocacy",
+            "endorsement",
+            "suggestion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recommendation [for sth]\nrecommendation [that]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "common",
+        "result"
+      ],
+      "DEF_EN":"A suggestion or piece of advice given about what should be done or what is appropriate.",
+      "DEF_ZH":"正式的建议、提议或指导意见。",
+      "SENT_EN":"I followed the financial advisor's recommendation to diversify my investments.",
+      "SENT_ZH":"我遵循了财务顾问关于分散投资的建议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggestion",
+            "advice",
+            "proposal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "warning",
+            "veto"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recommendation [for sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "formal",
+        "documentation"
+      ],
+      "DEF_EN":"A formal written statement or letter testifying to someone's character, ability, or qualifications (e.g., for a job or school).",
+      "DEF_ZH":"推荐信；证明某人品格、能力或资格的正式书面陈述。",
+      "SENT_EN":"She included a strong letter of recommendation from her previous employer in her application.",
+      "SENT_ZH":"她在申请中附上了前雇主写的一封强有力的推荐信。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reference",
+            "testimonial",
+            "endorsement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly common in business, academic, and professional contexts."
+}

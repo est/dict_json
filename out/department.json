@@ -1,0 +1,90 @@
+{
+  "WORD":"department",
+  "IPA":"/dɪˈpɑːrtmənt/",
+  "CONJUGATES":"departments",
+  "ETYMOLOGY":"From Old French département, from the verb départir ('to divide, to distribute'), combining Latin dē- ('off, away') + partīre ('to part, divide').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "institutional"
+      ],
+      "DEF_EN":"A specialized division, section, or branch of a large organization, such as a company, university, or government.",
+      "DEF_ZH":"组织、公司、大学或政府等大型机构中的一个专门的部门、科室或分支。",
+      "SENT_EN":"The accounting department is responsible for all financial transactions.",
+      "SENT_ZH":"会计部门负责所有的财务交易。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "division",
+            "section",
+            "unit",
+            "branch",
+            "bureau"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "faculty",
+            "office"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "political",
+        "geographical"
+      ],
+      "DEF_EN":"A principal administrative division of a country, notably France and several former French or Spanish colonies.",
+      "DEF_ZH":"一个国家（特别是法国及其前殖民地）的主要行政区划或省份。",
+      "SENT_EN":"She lived in the department of Caldas when she was in Colombia.",
+      "SENT_ZH":"她在哥伦比亚时住在卡尔达斯省（或称大区）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "province",
+            "region",
+            "district"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the department of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "less common",
+        "figurative"
+      ],
+      "DEF_EN":"A specific area of activity, responsibility, or knowledge.",
+      "DEF_ZH":"特定的活动、责任或知识范围；领域；管辖范围。",
+      "SENT_EN":"The final decision on the project budget rests strictly in the department of the CEO.",
+      "SENT_ZH":"关于项目预算的最终决定严格属于首席执行官的职权范围。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "domain",
+            "purview",
+            "jurisdiction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Institutional"
+}

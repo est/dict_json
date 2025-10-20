@@ -1,0 +1,125 @@
+{
+  "WORD":"minute",
+  "IPA":"/ˈmɪnɪt/ | /mɪˈnuːt/",
+  "CONJUGATES":"minutes (n.) | minuter | minutest (adj.)",
+  "ETYMOLOGY":"From Latin minutus, past participle of minuere 'to lessen, diminish'. The noun (time unit) comes via Medieval Latin minuta, meaning 'small part' (specifically, the first small part of an hour). The adjective (tiny) comes from the sense of 'small'.",
+  "SINCE":"Late 14th century (for time unit); Early 15th century (for tiny).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] minute(s)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A unit of time equal to 60 seconds, or 1/60th of an hour.",
+      "DEF_ZH":"时间单位，等于六十秒，或一小时的六十分之一。",
+      "SENT_EN":"Wait for me, I'll be ready in just a minute.",
+      "SENT_ZH":"等我一下，我一分钟就好。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "second",
+            "hour",
+            "moment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the minute(s) of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "business",
+        "formal"
+      ],
+      "DEF_EN":"The official written record of the proceedings, decisions, and discussions of a meeting or committee (often used in the plural).",
+      "DEF_ZH":"会议或委员会的程序、决定和讨论的官方书面记录（纪要），常用于复数。",
+      "SENT_EN":"The secretary circulated the minutes of the previous board meeting.",
+      "SENT_ZH":"秘书传阅了上次董事会会议的纪要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "record",
+            "proceedings",
+            "transcript"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at the minute",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "informal",
+        "british english"
+      ],
+      "DEF_EN":"At the present time; currently.",
+      "DEF_ZH":"目前；眼下。",
+      "SENT_EN":"I'm quite busy at the minute, can we talk later?",
+      "SENT_ZH":"我现在很忙，我们能晚点再聊吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "now",
+            "currently",
+            "presently"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] minute detail/amount",
+      "POS":"adj",
+      "POS_TIP":"adjective (pronounced /mɪˈnuːt/)",
+      "TAGS":[
+        "descriptive",
+        "formal"
+      ],
+      "DEF_EN":"Extremely small or detailed; highly precise.",
+      "DEF_ZH":"极小的；微小的；或指对极小细节的关注，高度精确的。",
+      "SENT_EN":"The investigation paid attention to every minute detail of the incident.",
+      "SENT_ZH":"调查关注了事件中每一个微小的细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tiny",
+            "microscopic",
+            "detailed",
+            "precise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "huge",
+            "major",
+            "large"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] minute of arc",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "geometry"
+      ],
+      "DEF_EN":"A unit of angular measure equal to one sixtieth of a degree.",
+      "DEF_ZH":"角度单位，等于一度的六十分之一（分弧）。",
+      "SENT_EN":"The star was shifted by only 0.5 minutes of arc.",
+      "SENT_ZH":"这颗恒星仅移动了0.5分弧。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Varies between everyday use (time unit) and technical/formal settings (meeting records, adjective meaning)."
+}

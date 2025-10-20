@@ -1,0 +1,96 @@
+{
+  "WORD":"divorce",
+  "IPA":"/dɪˈvɔːrs/",
+  "CONJUGATES":"divorces | divorced | divorcing",
+  "ETYMOLOGY":"From Old French divorce, from Latin dīvortium ('separation, dissolution of marriage'), from dīvertere ('to turn aside, separate'), compounded of dis- ('apart') + vertere ('to turn').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] divorce [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, taking a direct object",
+      "TAGS":[
+        "core word",
+        "legal",
+        "family"
+      ],
+      "DEF_EN":"To legally dissolve one's marriage with a spouse.",
+      "DEF_ZH":"与配偶合法解除婚姻关系。",
+      "SENT_EN":"After years of conflict, they decided to divorce.",
+      "SENT_ZH":"经过多年的冲突，他们决定离婚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "uncouple",
+            "split up"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "alimony",
+            "child custody",
+            "annulment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] divorce [sth] from [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To separate something from something else; to cut off or disconnect.",
+      "DEF_ZH":"使（某物）与（另一物）分离；割断或脱离。",
+      "SENT_EN":"It is impossible to completely divorce art from politics.",
+      "SENT_ZH":"将艺术与政治完全剥离是不可能的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "detach",
+            "isolate",
+            "separate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "combine",
+            "integrate",
+            "link"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a divorce\na divorce from [sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "countable"
+      ],
+      "DEF_EN":"The legal termination of a marriage; the decree by which a marriage is dissolved.",
+      "DEF_ZH":"婚姻关系的法定终止；解除婚姻的判决书或程序。",
+      "SENT_EN":"She was granted a divorce after a six-month waiting period.",
+      "SENT_ZH":"经过六个月的等待期，她获得了离婚许可。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dissolution of marriage",
+            "separation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and everyday use, especially in legal and personal contexts."
+}

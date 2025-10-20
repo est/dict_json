@@ -1,0 +1,88 @@
+{
+  "WORD":"isolate",
+  "IPA":"/ˈaɪsəleɪt/",
+  "CONJUGATES":"isolates | isolating | isolated",
+  "ETYMOLOGY":"From Italian isolato (past participle of isolare 'to isolate'), itself from Latin insula 'island', referring to setting apart like an island.",
+  "SINCE":"Mid-18th century (c. 1755)",
+  "MEANINGS":[
+    {
+      "PATTERN":"isolate [sb] / [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To set apart or detach from others; especially to place a person or animal in separation to prevent the spread of disease.",
+      "DEF_ZH":"使孤立；使隔离；把...分开，使脱离接触。",
+      "SENT_EN":"They decided to isolate the sick puppy from the rest of the litter to prevent infection.",
+      "SENT_ZH":"他们决定将生病的小狗与其余的同窝幼崽隔离，以防止感染。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "quarantine",
+            "sequester",
+            "detatch"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "integrate",
+            "mix",
+            "unite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"isolate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"To obtain (a chemical substance, microorganism, etc.) in a pure or unmixed form.",
+      "DEF_ZH":"分离；提取（纯净物质或微生物）。",
+      "SENT_EN":"Chemists worked for months to isolate the new compound from the raw material.",
+      "SENT_ZH":"化学家们工作了数月才从原材料中分离出这种新化合物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extract",
+            "purify",
+            "derive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an isolate (often plural)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "biology"
+      ],
+      "DEF_EN":"A population, strain, or individual obtained in pure culture or existing in separation; commonly used for a microbial strain.",
+      "DEF_ZH":"分离株；孤立群（体）；被隔离的个体或物种。",
+      "SENT_EN":"The lab received twenty new isolates of the bacteria for testing.",
+      "SENT_ZH":"实验室收到了二十个用于测试的新的细菌分离株。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "strain",
+            "culture",
+            "specimen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Scientific"
+}

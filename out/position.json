@@ -1,0 +1,118 @@
+{
+  "WORD":"position",
+  "IPA":"/pəˈzɪʃən/",
+  "CONJUGATES":"positions | positioning | positioned",
+  "ETYMOLOGY":"From Middle English posicioun, from Old French position, derived from Latin positiō (stem positiōn-) meaning 'a setting, a placing,' from positus, past participle of pōnere 'to place, put.'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "location"
+      ],
+      "DEF_EN":"A place where someone or something is located or has been put.",
+      "DEF_ZH":"某人或某物所在或被放置的地方；位置，方位。",
+      "SENT_EN":"The exact position of the satellite is tracked by radar.",
+      "SENT_ZH":"卫星的精确位置由雷达跟踪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "location",
+            "spot",
+            "site"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "placement",
+            "situation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] in [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "employment"
+      ],
+      "DEF_EN":"A job, role, or level of status within a hierarchy or organization.",
+      "DEF_ZH":"组织内的职位、职务或等级。",
+      "SENT_EN":"She was promoted to a senior management position last month.",
+      "SENT_ZH":"她上个月被提升到高级管理职位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "job",
+            "post",
+            "office",
+            "role"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unemployment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] on [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "opinion"
+      ],
+      "DEF_EN":"A particular point of view or way of thinking about something; a stand taken on an issue.",
+      "DEF_ZH":"对某个问题或主题所采取的立场或观点。",
+      "SENT_EN":"The politician reaffirmed his position on tax reform.",
+      "SENT_ZH":"这位政治家重申了他在税收改革问题上的立场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stance",
+            "viewpoint",
+            "opinion",
+            "stand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"position [sth]\nposition [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To put (someone or something) in a particular place or arrangement.",
+      "DEF_ZH":"将（某人或某物）放置在特定的位置或排列中。",
+      "SENT_EN":"The troops were strategically positioned near the border.",
+      "SENT_ZH":"部队被战略性地部署在边境附近。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "place",
+            "locate",
+            "situate",
+            "deploy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

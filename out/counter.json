@@ -1,0 +1,135 @@
+{
+  "WORD":"counter",
+  "IPA":"/ˈkaʊntər/",
+  "CONJUGATES":"counters | countering | countered",
+  "ETYMOLOGY":"From Anglo-Norman countour (meaning a table for counting money), and separately from Old French contrer, based on Latin contra ('against'). The two primary meanings converged phonetically but have distinct origins.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "furniture",
+        "commerce"
+      ],
+      "DEF_EN":"A long, flat surface over which business is transacted, meals are served, or work is performed, especially in a store, bank, or kitchen.",
+      "DEF_ZH":"柜台；台面（尤指商店、银行或厨房中的长条平面工作台）",
+      "SENT_EN":"Please take your purchases to the main counter.",
+      "SENT_ZH":"请将您购买的物品拿到主柜台结账。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "worktop",
+            "bar",
+            "workbench"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"counter [sth]\ncounter [sb] with [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action",
+        "opposition"
+      ],
+      "DEF_EN":"To oppose or react against something; to offer an argument or action in response.",
+      "DEF_ZH":"反驳；抵制；反击",
+      "SENT_EN":"The diplomat quickly countered the accusation with a denial.",
+      "SENT_ZH":"这位外交官迅速否认了这项指控以进行反驳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retaliate",
+            "oppose",
+            "rebut"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "agree",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a counter",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "sports"
+      ],
+      "DEF_EN":"An action, argument, or blow delivered in response to an initial one, often defensive or retaliatory (short for counterattack).",
+      "DEF_ZH":"反击；回击（尤指体育或军事中）",
+      "SENT_EN":"The team launched a rapid counter following the turnover.",
+      "SENT_ZH":"球队在失误后发起了一次快速反击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rejoinder",
+            "retort",
+            "counterattack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a counter",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "device",
+        "technology"
+      ],
+      "DEF_EN":"A device or mechanism used for counting items, events, or occurrences.",
+      "DEF_ZH":"计数器；记数机",
+      "SENT_EN":"The machine has a counter that tracks the number of copies printed.",
+      "SENT_ZH":"这台机器有一个计数器，用于跟踪打印的份数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tally",
+            "meter",
+            "register"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a counter",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "game",
+        "specific"
+      ],
+      "DEF_EN":"A small disk or token used to keep score or represent money in board games.",
+      "DEF_ZH":"（游戏用的）筹码；代币",
+      "SENT_EN":"Each player must choose a counter and place it on 'Start'.",
+      "SENT_ZH":"每位玩家必须选择一个筹码并将其放在“开始”位置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chip",
+            "token",
+            "marker"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general usage, commerce, military, and sports."
+}

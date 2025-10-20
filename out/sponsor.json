@@ -1,0 +1,124 @@
+{
+  "WORD":"sponsor",
+  "IPA":"/ˈspɒnsər/",
+  "CONJUGATES":"sponsors | sponsoring | sponsored",
+  "ETYMOLOGY":"From Latin sponsus ('guarantor', past participle of spondere 'to pledge, promise'), via Old French sponse and Middle English sponse. Originally referred to a surety in baptism.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth] sponsor",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person or organization that provides funds for a project, activity, or individual, typically in exchange for advertising or publicity.",
+      "DEF_ZH":"为某项活动、项目或个人提供资金或支持的个人或组织，通常以换取宣传或广告。",
+      "SENT_EN":"The company is a major sponsor of the annual music festival.",
+      "SENT_ZH":"这家公司是年度音乐节的主要赞助商。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "patron",
+            "backer",
+            "financier",
+            "underwriter",
+            "benefactor",
+            "supporter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sponsorship",
+            "grant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sponsor [sth] / sponsor [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To provide funds or support for a project, activity, or individual, often in return for advertising or publicity.",
+      "DEF_ZH":"为某项活动、项目或个人提供资金或支持，通常以换取宣传或广告。",
+      "SENT_EN":"Many brands sponsor major sporting events to reach a wider audience.",
+      "SENT_ZH":"许多品牌赞助大型体育赛事以接触更广泛的受众。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fund",
+            "finance",
+            "back",
+            "underwrite",
+            "subsidize",
+            "promote"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdraw support",
+            "defund"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s sponsor",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "religious",
+        "specific use"
+      ],
+      "DEF_EN":"A person who takes responsibility for a candidate for baptism or confirmation; a godparent.",
+      "DEF_ZH":"在洗礼或坚信礼中为受洗者或受坚信者承担责任的人；教父/教母。",
+      "SENT_EN":"She asked her best friend to be her child's sponsor at the christening.",
+      "SENT_ZH":"她请她最好的朋友担任她孩子洗礼时的教母。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "godparent",
+            "godfather",
+            "godmother"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sponsor [a bill/legislation]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "political",
+        "legal",
+        "specific use"
+      ],
+      "DEF_EN":"To introduce or propose a legislative bill or resolution.",
+      "DEF_ZH":"提出或发起一项法案或决议。",
+      "SENT_EN":"Senator Davis announced her intention to sponsor a new bill on healthcare reform.",
+      "SENT_ZH":"戴维斯参议员宣布她打算发起一项关于医疗改革的新法案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "introduce",
+            "propose",
+            "present",
+            "table"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

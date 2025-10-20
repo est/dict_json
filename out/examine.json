@@ -1,0 +1,87 @@
+{
+  "WORD":"examine",
+  "IPA":"/ɪɡˈzæmɪn/",
+  "CONJUGATES":"examines | examining | examined",
+  "ETYMOLOGY":"From Middle English (late 14th century), via Old French examiner, from Latin examinare 'to weigh, test, consider', related to examen 'means of testing, tongue of a balance'.",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"examine [sth]\nexamine [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "detailed inspection"
+      ],
+      "DEF_EN":"To inspect someone or something in detail to determine its nature, quality, condition, or structure.",
+      "DEF_ZH":"详细地检查或观察某人/某事物，以确定其性质、质量、状况或结构。",
+      "SENT_EN":"We need to examine the evidence closely before drawing any conclusions.",
+      "SENT_ZH":"在得出任何结论之前，我们需要仔细审查证据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inspect",
+            "scrutinize",
+            "analyze",
+            "investigate",
+            "check"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "examination",
+            "examiner"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"examine [sb] (on [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "academic",
+        "official"
+      ],
+      "DEF_EN":"To test the knowledge or proficiency of a student or candidate, usually by means of an oral or written test.",
+      "DEF_ZH":"（通常通过口头或书面测试）测试学生或候选人的知识或熟练程度。",
+      "SENT_EN":"The teacher will examine the class on the history chapter next Friday.",
+      "SENT_ZH":"老师将在下周五对全班进行历史章节的测验。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "test",
+            "assess",
+            "quiz"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"examine [sb] (in court)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "legal"
+      ],
+      "DEF_EN":"To question a witness or defendant formally, usually in a court of law or during a police investigation.",
+      "DEF_ZH":"正式讯问证人或被告，通常是在法庭上或警察调查期间。",
+      "SENT_EN":"The prosecutor began to examine the key witness immediately after opening statements.",
+      "SENT_ZH":"公诉人开始在开庭陈述后立即询问关键证人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interrogate",
+            "cross-examine",
+            "question"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common formal and academic usage."
+}

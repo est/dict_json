@@ -1,0 +1,98 @@
+{
+  "WORD":"evidence",
+  "IPA":"/ˈɛvɪdəns/",
+  "CONJUGATES":"evidences (v.) | evidenced (v.) | evidencing (v.)",
+  "ETYMOLOGY":"From Old French evidence (certainty, appearance), from Latin evidentia ('visibility, proof'), derived from evidens ('visible, clear').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"evidence [of sth]",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"noun, uncountable (refers to the material or facts generally, not usually pluralized)",
+      "TAGS":[
+        "Core Word",
+        "Legal",
+        "Formal"
+      ],
+      "DEF_EN":"The available body of facts or information indicating whether a belief or proposition is true or valid.",
+      "DEF_ZH":"证明某个信念或论点真实或有效的现有事实或信息的集合；证据、证物。",
+      "SENT_EN":"The police collected substantial physical evidence at the crime scene.",
+      "SENT_ZH":"警方在犯罪现场收集了大量的物证。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proof",
+            "documentation",
+            "testimony",
+            "data"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "witness",
+            "exhibit",
+            "demonstrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"evidence of [sth]",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "Common",
+        "General"
+      ],
+      "DEF_EN":"A sign or indication that something exists, is true, or has happened.",
+      "DEF_ZH":"表明某事存在、属实或发生过的迹象或标记。",
+      "SENT_EN":"There was little evidence of economic growth during the past quarter.",
+      "SENT_ZH":"在过去的一个季度中，几乎没有经济增长的迹象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sign",
+            "indication",
+            "trace",
+            "manifestation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"evidence [sth]",
+      "POS":"v. (transitive)",
+      "POS_TIP":"verb, transitive (requires a direct object)",
+      "TAGS":[
+        "Formal",
+        "Writing"
+      ],
+      "DEF_EN":"To show or demonstrate clearly; to serve as evidence for.",
+      "DEF_ZH":"清楚地显示或证明；作为……的证据。",
+      "SENT_EN":"His detailed report evidenced careful preparation and research.",
+      "SENT_ZH":"他的详细报告证明了仔细的准备和研究。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demonstrate",
+            "attest",
+            "manifest",
+            "prove"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "disprove"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic/Legal"
+}

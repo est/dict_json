@@ -1,0 +1,132 @@
+{
+  "WORD":"switch",
+  "IPA":"/ˈswɪtʃ/",
+  "CONJUGATES":"switches | switched | switching",
+  "ETYMOLOGY":"Middle English swiche/swiche, likely of Low German or Dutch origin meaning 'a flexible rod or whip'. The electrical meaning dates to the mid-19th century.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technology"
+      ],
+      "DEF_EN":"A device for making and breaking the connection in an electric circuit, or for diverting an electrical current from one conductor or circuit to another.",
+      "DEF_ZH":"开关（用于接通、断开或改变电路连接的装置）。",
+      "SENT_EN":"He flipped the light switch immediately upon entering the room.",
+      "SENT_ZH":"他一进房间就立刻按下了电灯开关。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lever",
+            "button",
+            "circuit breaker"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"switch [sth] [from sth] [to sth else]\nswitch [sth] [with sth else]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To change or exchange (positions, directions, or focus); to substitute one thing for another.",
+      "DEF_ZH":"转换；调换；改变（位置、方向或焦点）。",
+      "SENT_EN":"The companies decided to switch their marketing strategies in the new year.",
+      "SENT_ZH":"这些公司决定在新的一年里转换他们的营销策略。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swap",
+            "exchange",
+            "shift"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"switch [sth] on\nswitch [sth] off",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb (phrasal verb)",
+      "TAGS":[
+        "common word",
+        "phrasal verb"
+      ],
+      "DEF_EN":"To turn an electrical device or power source on or off by operating a switch.",
+      "DEF_ZH":"打开或关闭（电器或电源）。",
+      "SENT_EN":"Did you remember to switch off the air conditioner when you left?",
+      "SENT_ZH":"你离开时是否记得关闭空调？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "turn on",
+            "turn off",
+            "power up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "leave on",
+            "keep off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a switch [from sth] [to sth else]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstraction",
+        "common word"
+      ],
+      "DEF_EN":"An act of changing or substituting one thing for another, especially suddenly.",
+      "DEF_ZH":"转变；转换；突然的改变。",
+      "SENT_EN":"The switch from paper-based records to digital files saved the office a lot of space.",
+      "SENT_ZH":"从纸质记录到数字文件的转变为办公室节省了大量空间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "change",
+            "transition",
+            "shift"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "literal"
+      ],
+      "DEF_EN":"A slender, flexible shoot, rod, or stick, used especially for whipping or beating.",
+      "DEF_ZH":"细枝；藤条；鞭子（尤指用于抽打的）。",
+      "SENT_EN":"The old farmer carried a thin wooden switch as he walked through the field.",
+      "SENT_ZH":"这位老农夫穿过田地时带着一根细细的木鞭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whip",
+            "rod",
+            "cane"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical, and slang (in specific phrasal forms)."
+}

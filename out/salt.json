@@ -1,0 +1,99 @@
+{
+  "WORD":"salt",
+  "IPA":"/sɔːlt/",
+  "CONJUGATES":"salts | salting | salted",
+  "ETYMOLOGY":"From Old English sealt, from Proto-Germanic *saltą, ultimately from Proto-IndoEuropean *seh₂l- ('salt').",
+  "SINCE":"before 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "chemistry"
+      ],
+      "DEF_EN":"A common white crystalline substance, chiefly sodium chloride (NaCl), used for seasoning or preserving food.",
+      "DEF_ZH":"一种常见的白色晶体物质，主要是氯化钠（NaCl），用于调味或保存食物。",
+      "SENT_EN":"Please pass the salt; I need to season the soup.",
+      "SENT_ZH":"请把盐递给我；我需要给汤调味。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sodium chloride",
+            "seasoning",
+            "brine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "chemistry"
+      ],
+      "DEF_EN":"In chemistry, any compound formed from the reaction of an acid and a base in which the hydrogen of the acid is replaced by a metal or other positive ion.",
+      "DEF_ZH":"在化学中，酸和碱反应后形成的一种化合物，其中酸的氢被金属或其他正离子取代。",
+      "SENT_EN":"Potassium nitrate is a type of salt commonly used in fertilizer.",
+      "SENT_ZH":"硝酸钾是一种常用于肥料的盐。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "acid",
+            "base",
+            "compound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To add salt to food for flavor or preservation.",
+      "DEF_ZH":"在食物中加盐以调味或保存。",
+      "SENT_EN":"She salted the fish before putting it in the oven.",
+      "SENT_ZH":"她把鱼放进烤箱前先撒上了盐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "season",
+            "cure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "old-fashioned"
+      ],
+      "DEF_EN":"An experienced sailor, especially one who has spent a long time at sea (usually in the phrase 'old salt').",
+      "DEF_ZH":"一个经验丰富的海员，尤其是在海上待了很长时间的人（通常用于短语 'old salt'）。",
+      "SENT_EN":"The old salt had many stories of storms and faraway ports.",
+      "SENT_ZH":"那位老水手有很多关于风暴和遥远港口的故事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seaman",
+            "mariner"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"widely used"
+}

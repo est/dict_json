@@ -1,0 +1,86 @@
+{
+  "WORD":"owe",
+  "IPA":"/oʊ/",
+  "CONJUGATES":"owes | owing | owed",
+  "ETYMOLOGY":"From Middle English *owen*, ultimately from Old English *āgan* 'to possess, own, have'. The meaning shifted from possession to obligation (debt) during the 13th century.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"owe [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To be under an obligation to pay or repay (money, goods, or services) to someone.",
+      "DEF_ZH":"欠（钱、物或服务）；应向某人支付。",
+      "SENT_EN":"We still owe the landlord three months' rent.",
+      "SENT_ZH":"我们仍然欠房东三个月的房租。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be indebted",
+            "be obligated"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "debt",
+            "liability",
+            "borrow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"owe [sth] to [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"To attribute or be indebted to someone or something for a benefit, advantage, or existence.",
+      "DEF_ZH":"归功于；受惠于；把...归因于（某人或某事）。",
+      "SENT_EN":"He owes his life to the quick actions of the paramedics.",
+      "SENT_ZH":"他把自己的生命归功于护理人员的迅速行动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attribute",
+            "credit",
+            "be grateful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"owe [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "duty",
+        "obligation"
+      ],
+      "DEF_EN":"To feel morally bound or required to give or render something (such as an apology or an explanation).",
+      "DEF_ZH":"应该给予；负有（道歉、解释等）的责任。",
+      "SENT_EN":"You owe me a sincere apology for causing such a scene.",
+      "SENT_ZH":"你理应对你造成这样的场面进行真诚的道歉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be required",
+            "be expected"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in financial and relational contexts."
+}

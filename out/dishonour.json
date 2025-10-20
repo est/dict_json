@@ -1,0 +1,86 @@
+{
+  "WORD":"dishonour",
+  "IPA":"/dɪsˈɒnər/",
+  "CONJUGATES":"dishonours | dishonouring | dishonoured (v) | dishonours (n)",
+  "ETYMOLOGY":"From Middle English dishonour, from Anglo-Norman deshonur, deshonurer, equivalent to 'dis-' + 'honour'. (US spelling: dishonor)",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[uncountable]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"A state of shame or disgrace; loss of honour or respect.",
+      "DEF_ZH":"耻辱；羞辱；名誉扫地。",
+      "SENT_EN":"He felt great dishonour after being exposed as a fraud.",
+      "SENT_ZH":"在他被曝光为骗子后，他感到极大的耻辱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shame",
+            "disgrace",
+            "ignominy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "honour",
+            "glory",
+            "respect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dishonour [sb]\ndishonour [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To bring shame or disgrace upon (someone or something); to fail to live up to the expectations or ideals of.",
+      "DEF_ZH":"使蒙受耻辱；败坏 (名声或记忆)。",
+      "SENT_EN":"His cowardice dishonoured his family name.",
+      "SENT_ZH":"他的懦弱玷污了他家族的声誉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disgrace",
+            "sully",
+            "taint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dishonour [sth] (cheque/bill)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "finance",
+        "commercial"
+      ],
+      "DEF_EN":"To refuse to accept or pay a bill of exchange, cheque, or other financial obligation when it is presented.",
+      "DEF_ZH":"拒付（支票、汇票等）。",
+      "SENT_EN":"The bank will dishonour any cheque presented without sufficient funds.",
+      "SENT_ZH":"银行将拒付任何存款不足的支票。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "default",
+            "bounce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and general usage, frequently used in contexts involving ethics, family reputation, or finance."
+}

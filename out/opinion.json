@@ -1,0 +1,90 @@
+{
+  "WORD":"opinion",
+  "IPA":"/əˈpɪnjən/",
+  "CONJUGATES":"opinions",
+  "ETYMOLOGY":"From Middle English, via Old French, from Latin opīniō (stem opīniōn-), from opīnārī 'to think, judge, suppose'.",
+  "SINCE":"Late Middle Ages (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s opinion (on/about [sth])",
+      "POS":"n, count/uncount",
+      "POS_TIP":"noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A view or judgment formed about something, not necessarily based on fact or knowledge.",
+      "DEF_ZH":"个人对某事物的看法、信念或判断，通常带有主观性而非完全基于事实。",
+      "SENT_EN":"What is your opinion on the government's new economic policy?",
+      "SENT_ZH":"你对政府的新经济政策有什么看法？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "view",
+            "belief",
+            "judgment",
+            "perspective",
+            "standpoint"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fact",
+            "certainty",
+            "knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"professional opinion\nsecond opinion",
+      "POS":"n, count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"A formal statement of advice or judgment given by an expert, especially a legal or medical authority.",
+      "DEF_ZH":"专家（尤指法律或医学权威）提供的正式建议、评估或裁决。",
+      "SENT_EN":"The lawyer provided a legal opinion regarding the contract dispute.",
+      "SENT_ZH":"律师就合同纠纷提供了一份法律意见书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assessment",
+            "ruling",
+            "finding",
+            "conclusion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"public opinion\ngood/bad opinion (of [sb])",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "idiomatic",
+        "dated"
+      ],
+      "DEF_EN":"Reputation or estimation; how a person or thing is generally regarded by others.",
+      "DEF_ZH":"名誉或评价；某人或某事物在他人心中的普遍看法或地位。",
+      "SENT_EN":"He holds a high opinion of his colleagues' dedication.",
+      "SENT_ZH":"他对同事们的奉献精神评价很高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reputation",
+            "standing",
+            "esteem"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Academic, Legal contexts."
+}

@@ -1,0 +1,84 @@
+{
+  "WORD":"ordinary",
+  "IPA":"/'ɔːrdɪneri/",
+  "CONJUGATES":"more ordinary | most ordinary",
+  "ETYMOLOGY":"From Middle English ordinarie, from Old French ordinaire, from Latin ordinarius ('according to order'), derived from ordo, ordinis ('order, rank').",
+  "SINCE":"c. 1350s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (adj)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having no special or distinguishing features; conventional, normal, or commonplace.",
+      "DEF_ZH":"普通的，平常的；没有特别之处的。",
+      "SENT_EN":"Despite his fame, he lived a remarkably ordinary life.",
+      "SENT_ZH":"尽管他声名在外，但他过着异常普通的生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "usual",
+            "standard",
+            "common",
+            "typical",
+            "regular",
+            "mundane"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "extraordinary",
+            "unusual",
+            "remarkable",
+            "exceptional"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (adj)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "religious",
+        "dated"
+      ],
+      "DEF_EN":"(Of an official or authority) holding a position by virtue of office; regular or standard.",
+      "DEF_ZH":"（指官员或机构）正规的，正式的；因职位而定期的。",
+      "SENT_EN":"The Ordinary Court handles standard civil disputes.",
+      "SENT_ZH":"普通法院处理标准的民事纠纷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "official",
+            "regular",
+            "standard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the ordinary\nan ordinary",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "religious",
+        "heraldry"
+      ],
+      "DEF_EN":"An officer, usually a bishop, having immediate jurisdiction in a defined territory; (in heraldry) one of the simple and most frequently used charges.",
+      "DEF_ZH":"（常指教会中的）教区主教；管辖权人；（在纹章学中）普通的图形（如带、十字架）。",
+      "SENT_EN":"He acted on the instruction of the ordinary of the diocese.",
+      "SENT_ZH":"他按照教区主教的指示行事。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General English"
+}

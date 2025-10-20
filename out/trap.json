@@ -1,0 +1,128 @@
+{
+  "WORD":"trap",
+  "IPA":"/træp/",
+  "CONJUGATES":"traps | trapped | trapping",
+  "ETYMOLOGY":"From Middle English *trappe*, from Old English *træppe* or Old French *trape* (likely of Frankish origin), related to stepping or tripping.",
+  "SINCE":"c. 1100s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[a trap] for [sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"A person, place, or thing; a substantive.",
+      "TAGS":[
+        "core word",
+        "device"
+      ],
+      "DEF_EN":"A device or enclosure designed to catch and hold animals or people, often by means of a snare or pitfall.",
+      "DEF_ZH":"用于捕获和关押动物或人的装置或围栏，通常通过诱捕或陷坑实现。",
+      "SENT_EN":"The conservationists set up humane traps to capture the stray dogs.",
+      "SENT_ZH":"环保人士设置了人道陷阱来捕捉流浪狗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snare",
+            "gin",
+            "net",
+            "pitfall"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "booby trap",
+            "mousetrap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trap [sb]\ntrap [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb; requires a direct object.",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To catch or confine someone or something in a trap or enclosed space, making escape difficult or impossible.",
+      "DEF_ZH":"使用陷阱或封闭空间捕捉或困住某人或某物，使其难以或无法逃脱。",
+      "SENT_EN":"The floodwaters quickly trapped the villagers in their homes.",
+      "SENT_ZH":"洪水迅速将村民困在了家中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ensnare",
+            "confine",
+            "imprison",
+            "cages"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "free",
+            "release",
+            "liberate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]\n[a trap] of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A person, place, or thing; a substantive.",
+      "TAGS":[
+        "figurative",
+        "situation"
+      ],
+      "DEF_EN":"A difficult, dangerous, or deceitful situation from which it is hard to escape; a trick.",
+      "DEF_ZH":"难以逃脱的困难、危险或欺骗性处境；圈套或诡计。",
+      "SENT_EN":"He realized the job offer was a bureaucratic trap designed to stall his progress.",
+      "SENT_ZH":"他意识到这份工作邀请是一个旨在拖延他进度的官僚陷阱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trick",
+            "snare",
+            "pitfall",
+            "dilemma"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "poverty trap",
+            "debt trap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trap [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb; requires a direct object.",
+      "TAGS":[
+        "science",
+        "technical"
+      ],
+      "DEF_EN":"To stop something (like heat, moisture, or gas) from escaping or being dissipated.",
+      "DEF_ZH":"阻止某些物质（如热量、湿气或气体）逸出或消散。",
+      "SENT_EN":"The specialized insulation is designed to trap warmth inside the building during winter.",
+      "SENT_ZH":"这种特殊的绝缘材料旨在在冬季将热量困在建筑物内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hold",
+            "contain",
+            "retain",
+            "capture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

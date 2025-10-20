@@ -1,0 +1,89 @@
+{
+  "WORD":"cough",
+  "IPA":"/kɒf/",
+  "CONJUGATES":"coughs | coughing | coughed",
+  "ETYMOLOGY":"Middle English coughen, probably echoic in origin (imitating the sound), related to Dutch kuchen.",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"cough",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "medical",
+        "action"
+      ],
+      "DEF_EN":"To expel air from the lungs suddenly and noisily, often involuntarily, usually to clear the throat or respiratory passages, or as a symptom of illness.",
+      "DEF_ZH":"突然而猛烈地从肺部排出空气，发出噪音，通常是无意识的，旨在清嗓或作为疾病的症状。",
+      "SENT_EN":"She tried to hide her cough during the solemn ceremony.",
+      "SENT_ZH":"在庄严的仪式上，她试图掩饰自己的咳嗽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hack",
+            "bark"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "expectorate",
+            "wheeze",
+            "sneeze"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cough\nthe cough",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "symptom",
+        "sound"
+      ],
+      "DEF_EN":"The act or sound of coughing; also, a condition involving a persistent effort to clear the throat or the associated illness.",
+      "DEF_ZH":"咳嗽的动作或声音；也指持续的清嗓行为或相关的疾病症状。",
+      "SENT_EN":"The doctor prescribed medication for his persistent dry cough.",
+      "SENT_ZH":"医生为他持续的干咳开了药。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "whooping cough",
+            "bronchitis",
+            "tuberculosis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cough up [sth]",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "idiomatic",
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"(Informal) To reluctantly produce or surrender something, usually money or information.",
+      "DEF_ZH":"（非正式）不情愿地拿出或交出某物，通常是金钱或信息。",
+      "SENT_EN":"The thief finally coughed up the location of the stolen goods.",
+      "SENT_ZH":"小偷最终不情愿地供出了赃物的位置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pay up",
+            "divulge",
+            "relinquish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage, medical, and informal (phrasal verb)."
+}

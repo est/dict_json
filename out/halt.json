@@ -1,0 +1,99 @@
+{
+  "WORD":"halt",
+  "IPA":"/hɔːlt/",
+  "CONJUGATES":"halts | halting | halted | halts",
+  "ETYMOLOGY":"From Middle English, derived from Old High German *halt* (lame, limping). Later influenced by 16th-century German military command *Halt!* (stop), which was adopted into French and English.",
+  "SINCE":"c. 16th Century (in modern usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"halt [v]\nhalt [sth]",
+      "POS":"v | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "command"
+      ],
+      "DEF_EN":"To stop moving, progressing, or operating, or to cause something or someone to stop.",
+      "DEF_ZH":"停止；使停止移动、活动或运行。",
+      "SENT_EN":"The police ordered the driver to halt immediately.",
+      "SENT_ZH":"警察命令司机立即停车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stop",
+            "cease",
+            "terminate",
+            "check"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "continue",
+            "proceed",
+            "begin",
+            "start"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a halt",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"A stop or interruption in movement or progress.",
+      "DEF_ZH":"停顿；中断；停止状态。",
+      "SENT_EN":"Production came to a complete halt during the national strike.",
+      "SENT_ZH":"在全国性罢工期间，生产完全停止了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pause",
+            "break",
+            "cessation",
+            "stoppage"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "movement",
+            "continuation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a halt",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "regional",
+        "UK",
+        "transport"
+      ],
+      "DEF_EN":"A minor railway station or bus stop, often unmanned and having minimal facilities.",
+      "DEF_ZH":"（尤其指英国的）小火车站；临时停车点。",
+      "SENT_EN":"The train stopped briefly at the rural halt before continuing its journey.",
+      "SENT_ZH":"火车在那个乡村小站短暂地停了一下，然后继续行程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stop",
+            "station",
+            "depot"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, often used in official announcements, military commands, or transport terminology."
+}

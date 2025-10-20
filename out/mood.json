@@ -1,0 +1,112 @@
+{
+  "WORD":"mood",
+  "IPA":"/muːd/",
+  "CONJUGATES":"moods",
+  "ETYMOLOGY":"From Old English mōd ('mind, heart, spirit, courage, pride, temper'), from Proto-Germanic *mōdaz.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s mood",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "psychology",
+        "common"
+      ],
+      "DEF_EN":"A temporary state of mind or feeling.",
+      "DEF_ZH":"一种暂时的精神或情绪状态；心境。",
+      "SENT_EN":"She was in a good mood after receiving the news.",
+      "SENT_ZH":"收到消息后，她的心情很好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "temper",
+            "disposition",
+            "humor",
+            "feeling"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "emotion",
+            "attitude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mood\nthe mood",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "contextual",
+        "atmosphere"
+      ],
+      "DEF_EN":"The emotional atmosphere or feeling produced by a particular environment or artistic work.",
+      "DEF_ZH":"由特定环境或艺术作品产生的感性气氛或感觉；情调。",
+      "SENT_EN":"The music created a very relaxing mood in the room.",
+      "SENT_ZH":"这段音乐在房间里营造了一种非常放松的氛围。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "atmosphere",
+            "ambiance",
+            "vibe",
+            "setting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the mood for [sth]\nto do [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "desire"
+      ],
+      "DEF_EN":"A desire or inclination to do or experience something specific.",
+      "DEF_ZH":"做某事或体验某特定事物的愿望或倾向。",
+      "SENT_EN":"I'm not really in the mood for pizza tonight.",
+      "SENT_ZH":"我今晚不太想吃披萨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inclination",
+            "desire",
+            "fancy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mood",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "linguistics",
+        "grammar",
+        "technical"
+      ],
+      "DEF_EN":"A category that reflects the speaker's attitude toward the reality or likelihood of the event expressed by the verb (e.g., indicative, imperative, subjunctive).",
+      "DEF_ZH":"（语法）一种反映说话者对动词所表达事件的真实性或可能性态度的类别（例如，陈述语气、命令语气、虚拟语气）。",
+      "SENT_EN":"The subjunctive mood is often used to express wishes or hypothetical situations.",
+      "SENT_ZH":"虚拟语气常用于表达愿望或假设情况。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tenor",
+            "mode"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, academic (linguistics)"
+}

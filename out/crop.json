@@ -1,0 +1,140 @@
+{
+  "WORD":"crop",
+  "IPA":"/krɑːp/",
+  "CONJUGATES":"crops | cropping | cropped",
+  "ETYMOLOGY":"From Middle English, originally meaning 'head of a plant or flower,' derived from Old English *crop* or *cropp* ('bud, cluster, head, craw, stomach'). Related to Old Norse *kroppr* ('hump, swelling').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (plant)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "agriculture",
+        "botany",
+        "common"
+      ],
+      "DEF_EN":"A cultivated plant, especially a cereal, fruit, or vegetable, grown on a large scale for commercial use, often food or fiber.",
+      "DEF_ZH":"农作物；庄稼（为商业目的，通常是食物或纤维，而大规模种植的植物）。",
+      "SENT_EN":"Wheat is a major food crop in many parts of the world.",
+      "SENT_ZH":"小麦是世界许多地区的主要粮食作物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cultivation",
+            "produce",
+            "harvest"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cash crop",
+            "yield",
+            "fodder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"crop [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "common",
+        "technical",
+        "photography",
+        "editing"
+      ],
+      "DEF_EN":"To cut or trim something very short; specifically, to cut off the edges of a photograph or image to improve composition or fit a space.",
+      "DEF_ZH":"裁剪；修剪；剪短（特指通过去除边缘来调整图片或照片）。",
+      "SENT_EN":"She decided to crop the photo tightly around his face.",
+      "SENT_ZH":"她决定把照片裁剪得紧紧围绕他的脸部。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trim",
+            "clip",
+            "shear",
+            "truncate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a crop of [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (often mass noun, sometimes countable)",
+      "TAGS":[
+        "general",
+        "quantity",
+        "yield"
+      ],
+      "DEF_EN":"The amount or yield of produce harvested at one time; also used figuratively to mean a large collection or batch of things.",
+      "DEF_ZH":"收成；产量；（一次性出现的）一批；大量。",
+      "SENT_EN":"They reported a good crop of new ideas during the brainstorming session.",
+      "SENT_ZH":"他们在头脑风暴会议期间提出了一大批新想法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yield",
+            "output",
+            "collection",
+            "batch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (hair/style)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "style",
+        "fashion",
+        "archaic"
+      ],
+      "DEF_EN":"A style of hair cut very short.",
+      "DEF_ZH":"短发（非常短的理发样式）。",
+      "SENT_EN":"He favored a military crop during his younger years.",
+      "SENT_ZH":"他年轻时喜欢留军队式的超短发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crew cut",
+            "buzz cut"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (anatomy)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "zoology",
+        "anatomy",
+        "technical",
+        "rare"
+      ],
+      "DEF_EN":"A pouch or enlargement in the digestive tract of many birds and insects, used for storing or softening food before digestion; a craw.",
+      "DEF_ZH":"（鸟类、昆虫的）嗉囊；嗉子（用于储存或软化食物）。",
+      "SENT_EN":"The bird filled its crop with seeds before flying back to the nest.",
+      "SENT_ZH":"这只鸟在飞回巢穴之前，用种子填满了嗉囊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "craw"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in agriculture and digital media/photography."
+}

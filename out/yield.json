@@ -1,0 +1,99 @@
+{
+  "WORD":"yield",
+  "IPA":"/jiːld/",
+  "CONJUGATES":"yields | yielding | yielded",
+  "ETYMOLOGY":"From Old English gieldan (to pay, reward, restore), related to Old Saxon geldan (to pay) and Old High German geltan (to pay, be worth). The sense of 'surrender' or 'give up' developed in the 12th century.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"yield [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "finance",
+        "agriculture"
+      ],
+      "DEF_EN":"To produce or provide (a natural product, agricultural crop, result, or financial return).",
+      "DEF_ZH":"生产；产出；提供（自然产物、农作物、结果或经济收益）。",
+      "SENT_EN":"The investment is expected to yield high returns over time.",
+      "SENT_ZH":"这项投资预计会随着时间的推移产生高额回报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "produce",
+            "generate",
+            "bear",
+            "return"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "output",
+            "harvest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"yield [to sb/sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "authority",
+        "traffic"
+      ],
+      "DEF_EN":"To surrender, give way, or cease resistance to a superior force, pressure, or authority. (Often used in traffic to mean allowing other traffic to proceed first).",
+      "DEF_ZH":"屈服；让步；停止抵抗（通常指交通中的让行）。",
+      "SENT_EN":"The smaller army was forced to yield to the enemy.",
+      "SENT_ZH":"较小的军队被迫向敌人屈服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "submit",
+            "surrender",
+            "concede",
+            "relent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "resist",
+            "oppose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the yield of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "measurable"
+      ],
+      "DEF_EN":"The amount of a crop, product, or financial return that is produced or provided.",
+      "DEF_ZH":"产量；收益；回报率。",
+      "SENT_EN":"The high yield of the new strain of wheat improved profit margins.",
+      "SENT_ZH":"这种新小麦的高产量提高了利润空间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "output",
+            "return",
+            "harvest",
+            "profit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across general English, finance, agriculture, and traffic regulation."
+}

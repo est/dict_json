@@ -1,0 +1,88 @@
+{
+  "WORD":"loaf",
+  "IPA":"/loʊf/",
+  "CONJUGATES":"n: loaves | v: loafs | loafed | loafing",
+  "ETYMOLOGY":"From Old English hlāf 'bread, loaf, cake,' also 'food in general,' from Proto-Germanic *hlaibaz. The verb 'to loaf' (to idle) is a later development (19th century), a back-formation from 'loafer', of uncertain origin, possibly from German dialect lüfern 'to live idly'.",
+  "SINCE":"Old English (noun), c. 1800s (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a loaf of [bread]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An amount of bread that has been shaped and baked in one piece.",
+      "DEF_ZH":"一块面包，通常指烘烤成特定形状的整块面包。",
+      "SENT_EN":"She bought a fresh loaf of sourdough from the bakery.",
+      "SENT_ZH":"她从面包店买了一块新鲜的酸面包。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bread",
+            "roll",
+            "bun"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[food] loaf",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A food item (especially meat or vegetables) that has been shaped and baked or cooked in a similar way to a loaf of bread.",
+      "DEF_ZH":"形状像面包块的食物（尤指肉类或蔬菜），通常烘烤或烹制而成。",
+      "SENT_EN":"My grandmother makes the best meatloaf with a special glaze.",
+      "SENT_ZH":"我奶奶做的肉饼最美味，还配有特制酱汁。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "meatloaf",
+            "nut roast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"loaf [around/about]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To spend time idly, doing nothing in particular, or to move around lazily.",
+      "DEF_ZH":"无所事事地打发时间；闲逛；懒散地走动。",
+      "SENT_EN":"He spent the whole afternoon loafing around the house instead of studying.",
+      "SENT_ZH":"他整个下午都在家里闲逛，而不是学习。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lounge",
+            "idle",
+            "dawdle",
+            "loll",
+            "dally"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "work",
+            "toil",
+            "strive",
+            "be busy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

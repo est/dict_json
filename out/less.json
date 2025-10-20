@@ -1,0 +1,114 @@
+{
+  "WORD":"less",
+  "IPA":"/lɛs/",
+  "CONJUGATES":"lesser (adj.) | least (superlative)",
+  "ETYMOLOGY":"From Old English læs (comparative form of lȳtel 'little'), related to Dutch les (less) and German lüs (less).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is less than [sth else]",
+      "POS":"det | adj",
+      "POS_TIP":"Determiner | Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "comparative",
+        "non-count"
+      ],
+      "DEF_EN":"A smaller amount or quantity of; not so much (used primarily with mass or non-count nouns).",
+      "DEF_ZH":"更少的；数量或程度较小的（主要用于不可数名词或质量名词）。",
+      "SENT_EN":"We need less drama and more effort to meet the deadline.",
+      "SENT_ZH":"我们需要少点戏剧性，多点努力来赶上截止日期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smaller",
+            "reduced"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "more",
+            "greater"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"do [sth] less",
+      "POS":"adv",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To a smaller extent or degree; not so much.",
+      "DEF_ZH":"较不；程度更低地；不那么多。",
+      "SENT_EN":"The doctor advised him to eat processed food less.",
+      "SENT_ZH":"医生建议他少吃加工食品。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "more",
+            "frequently"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[number] less [number]",
+      "POS":"prep",
+      "POS_TIP":"Preposition",
+      "TAGS":[
+        "mathematical",
+        "common"
+      ],
+      "DEF_EN":"Minus; reduced by (used to denote subtraction).",
+      "DEF_ZH":"减去；除去（用于表示减法）。",
+      "SENT_EN":"Ten less five equals five.",
+      "SENT_ZH":"十减去五等于五。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minus",
+            "subtract"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plus",
+            "added to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the less of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"The smaller portion, amount, or extent.",
+      "DEF_ZH":"较小的部分、数量或程度。",
+      "SENT_EN":"We chose the less of two evils by accepting the compromise.",
+      "SENT_ZH":"我们通过接受妥协，选择了两害相权取其轻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minimum",
+            "minority"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, essential for quantitative and comparative language."
+}

@@ -1,0 +1,80 @@
+{
+  "WORD":"clerk",
+  "IPA":"/klɝːk/",
+  "CONJUGATES":"clerks (n. plural) | clerks (v. 3rd person singular) | clerked (v. past tense) | clerking (v. present participle)",
+  "ETYMOLOGY":"From Middle English *clerk*, from Old French *clerc*, from Late Latin *clēricus* 'cleric, man in holy orders'. The connection derives from the fact that educated people (historically often clerics) performed administrative and record-keeping duties.",
+  "SINCE":"c. 1200 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] working in office or retail",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "occupation",
+        "common"
+      ],
+      "DEF_EN":"A person employed in an office or bank to keep records, accounts, and deal with correspondence, or a person who works at a sales counter in a shop.",
+      "DEF_ZH":"（办公室、银行等的）职员；办事员；（商店的）店员，售货员。",
+      "SENT_EN":"The front desk clerk helped me check into the hotel and provided a map of the area.",
+      "SENT_ZH":"前台服务员帮我办理了入住手续，并提供了一张该地区的地图。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "administrator",
+            "assistant",
+            "cashier",
+            "salesperson"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "clerical",
+            "clerkship"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] appointed to manage official records",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "official",
+        "legal",
+        "government"
+      ],
+      "DEF_EN":"An official who manages the records, proceedings, and correspondence of a court, legislature, or local governing body.",
+      "DEF_ZH":"（法院、议会或地方政府的）书记员；秘书。",
+      "SENT_EN":"The Clerk of the Supreme Court announced the ruling earlier this afternoon.",
+      "SENT_ZH":"最高法院书记官于今天下午早些时候宣布了裁决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "registrar",
+            "recorder",
+            "secretary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] clerk (for [sb/sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "rare",
+        "dated"
+      ],
+      "DEF_EN":"To work as a clerk, especially performing routine administrative or secretarial duties.",
+      "DEF_ZH":"从事办事员工作；当书记。",
+      "SENT_EN":"During his law school break, he clerked for a federal judge.",
+      "SENT_ZH":"在法学院休假期间，他给一位联邦法官当助理（或书记员）。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, Business, Legal"
+}

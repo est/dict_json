@@ -1,0 +1,99 @@
+{
+  "WORD":"way",
+  "IPA":"/weɪ/",
+  "CONJUGATES":"ways (pl.)",
+  "ETYMOLOGY":"From Old English weg (path, road, track; movement, journey; means, method), from Proto-Germanic *wegaz, ultimately from Proto-Indo-European *weǵʰ- (to go, transport in a vehicle).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the way] [to sth]\n[a way]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "spatial"
+      ],
+      "DEF_EN":"A route, path, or direction that leads from one place to another.",
+      "DEF_ZH":"道路；路线；方向；途径。",
+      "SENT_EN":"Can you show me the way to the nearest bus stop?",
+      "SENT_ZH":"你能指引我去最近的公交车站的路吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "route",
+            "path",
+            "road",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a way] [to do sth]\n[the way] [sb does sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"A method, style, or manner of doing something.",
+      "DEF_ZH":"方式；方法；手段；做法。",
+      "SENT_EN":"I found a better way to solve the problem.",
+      "SENT_ZH":"我找到了一个解决这个问题更好的方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "method",
+            "manner",
+            "approach",
+            "mode"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a long way]\n[a short way] | [all the way]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "measure"
+      ],
+      "DEF_EN":"A measure of distance or extent.",
+      "DEF_ZH":"距离；路程；远近。",
+      "SENT_EN":"We still have a long way to go before the project is finished.",
+      "SENT_ZH":"在项目完成之前，我们还有很长一段路要走（还有很长的距离）。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"in a way\nin some ways",
+      "POS":"n.",
+      "POS_TIP":"noun (often used idiomatically)",
+      "TAGS":[
+        "idiomatic",
+        "abstract"
+      ],
+      "DEF_EN":"An aspect or respect in which something is true or possible.",
+      "DEF_ZH":"方面；某点（常用于习语中表示“在某种程度上”）。",
+      "SENT_EN":"In a way, I agree with her argument, but I don't support the action.",
+      "SENT_ZH":"从某种角度来说，我同意她的论点，但我不支持她的做法。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"out of the way\nin the way",
+      "POS":"n.",
+      "POS_TIP":"noun (used in fixed phrases)",
+      "TAGS":[
+        "idiomatic"
+      ],
+      "DEF_EN":"A state or position concerning an obstruction or interruption (usually used in phrases meaning blocking or clearing a path).",
+      "DEF_ZH":"妨碍；阻碍（通常用于表示阻挡或让路的固定短语中）。",
+      "SENT_EN":"Move your bag; it's in the way of the door.",
+      "SENT_ZH":"把你的包挪开，它挡在门口了。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

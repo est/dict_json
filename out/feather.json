@@ -1,0 +1,84 @@
+{
+  "WORD":"feather",
+  "IPA":"/ˈfɛðər/",
+  "CONJUGATES":"feathers | feathering | feathered",
+  "ETYMOLOGY":"From Middle English fether, from Old English feþer, ultimately from Proto-Germanic *feþrō.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (count noun)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Biology"
+      ],
+      "DEF_EN":"One of the light, specialized structures forming the body covering of a bird, consisting of a central shaft and numerous barbs.",
+      "DEF_ZH":"羽毛；翎毛（鸟类身体的覆盖物，由羽轴和羽枝组成）",
+      "SENT_EN":"She found a beautiful iridescent feather on the forest floor.",
+      "SENT_ZH":"她在林地上发现了一根美丽的虹彩羽毛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "plume",
+            "down",
+            "quill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (used in similes or metaphors)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Metaphor",
+        "Idiom"
+      ],
+      "DEF_EN":"A description of something that is extremely light in weight ('light as a feather').",
+      "DEF_ZH":"极轻的东西；轻如鸿毛（用于比喻极轻的重量）",
+      "SENT_EN":"The sculptor used foam core, making the finished artwork feel like a feather.",
+      "SENT_ZH":"这位雕塑家使用了泡沫板，使得完成的艺术品感觉像羽毛一样轻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "down",
+            "fluff",
+            "weightlessness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feather [sth]\nfeather up",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "Common"
+      ],
+      "DEF_EN":"To grow or acquire feathers; or to cover, line, or decorate something with feathers or soft material.",
+      "DEF_ZH":"长出羽毛；用羽毛装饰或覆盖；（常用于习语'feather one's nest'，指敛财）",
+      "SENT_EN":"The chicks are starting to feather now that spring has arrived.",
+      "SENT_ZH":"随着春天到来，小鸡开始长出羽毛了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"feather [sth] (propeller/oar)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Technical",
+        "Aviation",
+        "Nautical"
+      ],
+      "DEF_EN":"To adjust a propeller blade or oar so that its edge is facing the direction of motion, thus minimizing air or water resistance.",
+      "DEF_ZH":"使（螺旋桨叶或桨）顺桨；顺水（调整角度以减小阻力）",
+      "SENT_EN":"The engine was shut down and the pilot feathered the propeller immediately.",
+      "SENT_ZH":"引擎关闭后，飞行员立即将螺旋桨顺桨。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, except for technical usage in aviation."
+}

@@ -1,0 +1,150 @@
+{
+  "WORD":"mine",
+  "IPA":"/maɪn/",
+  "CONJUGATES":"mines | mining | mined",
+  "ETYMOLOGY":"Possessive Pronoun: From Old English mīn (genitive singular of ic 'I'). | Noun/Verb (Excavation/Explosive): From Middle English myn, from Old French mine ('vein of ore, tunnel'), ultimately of Celtic origin.",
+  "SINCE":"c. 800 AD (Pronoun); c. 1300 AD (Noun/Verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"Possessive: This is mine.",
+      "POS":"pron",
+      "POS_TIP":"Possessive pronoun (used to substitute for 'my' + noun)",
+      "TAGS":[
+        "core word",
+        "grammar"
+      ],
+      "DEF_EN":"That which belongs to me; the possessive form of 'I'.",
+      "DEF_ZH":"属于我的；我的东西。",
+      "SENT_EN":"If you are looking for your keys, these are mine, not yours.",
+      "SENT_ZH":"如果你在找你的钥匙，这些是我的，不是你的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "my",
+            "yours",
+            "his",
+            "hers"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] [the] mine [for sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "industry",
+        "geology"
+      ],
+      "DEF_EN":"A deep excavation made in the earth to extract coal, minerals, ore, or other geological resources.",
+      "DEF_ZH":"矿井；矿山；矿藏。",
+      "SENT_EN":"The diamond mine employed thousands of workers in the region.",
+      "SENT_ZH":"这座钻石矿雇佣了该地区的数千名工人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quarry",
+            "pit",
+            "excavation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mine [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common",
+        "industry",
+        "technology"
+      ],
+      "DEF_EN":"To dig a mine or to extract minerals, coal, or other materials from the earth.",
+      "DEF_ZH":"采矿；开采；挖掘（矿物）。",
+      "SENT_EN":"It takes specialized equipment to mine gold at such depths.",
+      "SENT_ZH":"要在如此深的地下开采黄金需要专门的设备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extract",
+            "excavate",
+            "dig"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] [the] mine",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "military"
+      ],
+      "DEF_EN":"An explosive device, such as a land mine or naval mine, designed to explode upon contact or proximity.",
+      "DEF_ZH":"地雷；水雷；爆炸物。",
+      "SENT_EN":"The area was declared dangerous because of hidden anti-personnel mines.",
+      "SENT_ZH":"该地区因隐藏的反步兵地雷而被宣布为危险区。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "landmine",
+            "booby trap",
+            "bomb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mine [an area]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "military",
+        "formal"
+      ],
+      "DEF_EN":"To place explosive mines in an area, usually for defensive purposes or to deny access.",
+      "DEF_ZH":"布雷；在（某区域）设置地雷或水雷。",
+      "SENT_EN":"The navy was ordered to mine the channel to prevent enemy ships from entering.",
+      "SENT_ZH":"海军奉命在航道上布雷，以阻止敌舰进入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lay",
+            "booby-trap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] mine of [sth abstract]",
+      "POS":"n",
+      "POS_TIP":"Noun (Figurative)",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A rich or abundant source of something valuable, especially information or ideas.",
+      "DEF_ZH":"知识（或信息）的宝库；丰富来源。",
+      "SENT_EN":"She is a mine of fascinating anecdotes about old Hollywood.",
+      "SENT_ZH":"她是关于旧好莱坞的有趣轶事的宝库。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "storehouse",
+            "repository",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

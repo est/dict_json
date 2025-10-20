@@ -1,0 +1,85 @@
+{
+  "WORD":"expect",
+  "IPA":"/ɪkˈspɛkt/",
+  "CONJUGATES":"expects | expecting | expected",
+  "ETYMOLOGY":"From Latin exspectare (ex- 'out' + spectare, frequentative of specere 'to look'), meaning 'to look out for, await'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"expect [sth]\nexpect [that clause]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To regard as likely or certain to happen; to anticipate.",
+      "DEF_ZH":"认为某事很可能或一定会发生；预料；指望。",
+      "SENT_EN":"We expect heavy traffic during the morning rush hour.",
+      "SENT_ZH":"我们预计早高峰期间交通会拥堵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anticipate",
+            "foresee",
+            "presume"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "doubt",
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expect [sb] to [do sth]\nexpect [sth] from [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "standard"
+      ],
+      "DEF_EN":"To require or demand a specific outcome, duty, or level of performance from someone.",
+      "DEF_ZH":"要求或坚持某人履行职责、达到某种标准。",
+      "SENT_EN":"Management expects employees to maintain professional standards at all times.",
+      "SENT_ZH":"管理层要求员工始终保持专业水准。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demand",
+            "require",
+            "insist on"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expect [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To wait for the arrival of someone or something; (informal) to be pregnant with a child.",
+      "DEF_ZH":"等待某人或某物的到来；（特指怀孕）期待孩子出生。",
+      "SENT_EN":"They are expecting their first child next month.",
+      "SENT_ZH":"他们期待他们的第一个孩子下个月出生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "await",
+            "look forward to"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

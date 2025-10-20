@@ -1,0 +1,136 @@
+{
+  "WORD":"chord",
+  "IPA":"/kɔːrd/",
+  "CONJUGATES":"chords | chorded | chording",
+  "ETYMOLOGY":"From Middle English cord, originally a variant spelling of cord (meaning 'string, rope'), and later specialized to the musical sense. The spelling was influenced by Latin chorda ('rope, string').",
+  "SINCE":"c. 1300 (as cord); c. 1600 (as chord, specialized musical meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (Music)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "music"
+      ],
+      "DEF_EN":"A combination of three or more notes sounded together in harmony.",
+      "DEF_ZH":"三个或更多音符同时发声，和谐的组合。",
+      "SENT_EN":"The guitarist played a simple G major chord.",
+      "SENT_ZH":"吉他手弹奏了一个简单的G大调和弦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "harmony",
+            "triad"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "arpeggio",
+            "scale",
+            "progression"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (Geometry)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geometry",
+        "technical"
+      ],
+      "DEF_EN":"A straight line segment whose endpoints both lie on the circumference of a circle or curve.",
+      "DEF_ZH":"连接圆周或曲线上两点的直线段。",
+      "SENT_EN":"The diameter is the longest chord of a circle.",
+      "SENT_ZH":"直径是圆中最长的弦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secant segment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "arc",
+            "radius",
+            "diameter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strike a chord (with [sb])",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "idiom",
+        "common"
+      ],
+      "DEF_EN":"To evoke a response, reaction, or feeling, often related to shared experiences or emotions.",
+      "DEF_ZH":"引起（某人）共鸣；打动（某人）。",
+      "SENT_EN":"The politician's speech on economic inequality struck a chord with the working class.",
+      "SENT_ZH":"这位政治家关于经济不平等的演讲引起了工人阶级的共鸣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resonate",
+            "connect",
+            "relate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] chord [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "rare",
+        "music"
+      ],
+      "DEF_EN":"To play or sound a musical chord.",
+      "DEF_ZH":"弹奏或发出和弦。",
+      "SENT_EN":"He chorded the piano softly.",
+      "SENT_ZH":"他轻柔地弹奏着钢琴和弦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strum",
+            "harmonize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (Aeronautics)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "aeronautics",
+        "technical"
+      ],
+      "DEF_EN":"The straight line connecting the leading edge and trailing edge of an airfoil (such as a wing).",
+      "DEF_ZH":"机翼（翼型）前缘和后缘之间的直线距离。",
+      "SENT_EN":"The wing's performance is determined by its mean aerodynamic chord.",
+      "SENT_ZH":"机翼的性能由其平均气动弦长决定。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "airfoil",
+            "camber"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in general conversation, music theory, and technical fields like mathematics and engineering."
+}

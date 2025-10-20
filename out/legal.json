@@ -1,0 +1,87 @@
+{
+  "WORD":"legal",
+  "IPA":"/ˈliːɡəl/",
+  "CONJUGATES":"legally (adv) | legality (n) | legalize (v) | non-legal (adj)",
+  "ETYMOLOGY":"From Old French *legal*, derived from Latin *lēgālis*, from *lēx* (genitive *lēgis* 'law, statute').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] legal",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Permitted by law; lawful.",
+      "DEF_ZH":"法律允许的；合法的；符合法律规定的。",
+      "SENT_EN":"It is not legal to drive without valid insurance.",
+      "SENT_ZH":"没有有效保险驾车是不合法的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lawful",
+            "legitimate",
+            "permissible",
+            "authorized"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "illegal",
+            "unlawful",
+            "illicit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"legal [sth/sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "professional"
+      ],
+      "DEF_EN":"Relating to, based on, or concerned with the law.",
+      "DEF_ZH":"与法律或法学相关的；法律上的。",
+      "SENT_EN":"They have started to take legal action against the company.",
+      "SENT_ZH":"他们已开始对该公司采取法律行动。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "juridical",
+            "judicial",
+            "forensic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"legal [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"Established, required, or controlled by law.",
+      "DEF_ZH":"由法律确立、要求或控制的；法定的。",
+      "SENT_EN":"The bank required a legal guardian to sign the documents for the minor.",
+      "SENT_ZH":"银行要求法定监护人为该未成年人签署文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "statutory",
+            "official",
+            "constituted"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used frequently in formal, professional, and governmental contexts."
+}

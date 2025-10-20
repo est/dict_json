@@ -1,0 +1,88 @@
+{
+  "WORD":"survey",
+  "IPA":"/ˈsɜːrveɪ/",
+  "CONJUGATES":"surveys | surveyed | surveying",
+  "ETYMOLOGY":"From Old French surveoir (to look over), formed from sur- (over) + veoir (to see, from Latin vidēre). Originally meant 'to overlook' or 'to examine'.",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"survey [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (a person, place, or thing)",
+      "TAGS":[
+        "core word",
+        "research"
+      ],
+      "DEF_EN":"A systematic investigation or collection of data, usually obtained by asking a large number of people questions, used to study opinions, behavior, or conditions.",
+      "DEF_ZH":"一项系统的调查或数据收集，通常通过询问大量人群问题来获取，用于研究意见、行为或状况。",
+      "SENT_EN":"The political party conducted a national survey to gauge public opinion on the new policy.",
+      "SENT_ZH":"该政党进行了一项全国性调查，以衡量公众对新政策的看法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "poll",
+            "questionnaire",
+            "study",
+            "research"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "census",
+            "statistics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"survey [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"To measure and map the area and features of a piece of land or property.",
+      "DEF_ZH":"对一片土地或房产的面积和特征进行测量和绘图（勘测）。",
+      "SENT_EN":"They hired a qualified engineer to survey the property lines before construction began.",
+      "SENT_ZH":"他们在施工开始前聘请了一位合格的工程师来勘测产权边界线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure",
+            "map",
+            "plot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"survey [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "observation"
+      ],
+      "DEF_EN":"To look carefully and comprehensively at someone or something, often to inspect or assess.",
+      "DEF_ZH":"仔细和全面地查看某人或某物，通常是为了检查或评估。",
+      "SENT_EN":"The architect surveyed the ancient ruins, taking notes on their structural integrity.",
+      "SENT_ZH":"建筑师审视着古老的遗迹，记录着它们的结构完整性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inspect",
+            "examine",
+            "scrutinize",
+            "view"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, and Technical (Land/Building industry)"
+}

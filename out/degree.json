@@ -1,0 +1,96 @@
+{
+  "WORD":"degree",
+  "IPA":"/dɪˈɡriː/",
+  "CONJUGATES":"degrees",
+  "ETYMOLOGY":"From Old French degré, from Latin dēgradāre ('to lower, step down'), formed from dē- ('down') + gradus ('step, pace').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A unit of measurement for angles or temperature, marked with the symbol °.",
+      "DEF_ZH":"角度或温度的测量单位，符号为°。",
+      "SENT_EN":"The temperature dropped ten degrees overnight.",
+      "SENT_ZH":"气温在一夜之间下降了十度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "mark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "education",
+        "common"
+      ],
+      "DEF_EN":"An academic title awarded by a university or college after completion of a course of study.",
+      "DEF_ZH":"完成学业后，大学或学院授予的学术头衔。",
+      "SENT_EN":"She earned a Master's degree in Engineering.",
+      "SENT_ZH":"她获得了工程学硕士学位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "diploma",
+            "qualification",
+            "bachelor",
+            "master",
+            "doctorate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The amount, level, or extent of something; a point in a scale.",
+      "DEF_ZH":"某事物的量、水平或程度；尺度上的一个点。",
+      "SENT_EN":"We need to assess the degree of risk involved.",
+      "SENT_ZH":"我们需要评估所涉及风险的程度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "level",
+            "extent",
+            "measure",
+            "magnitude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (grammar/mathematics)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "rare"
+      ],
+      "DEF_EN":"In grammar, the comparison level of an adjective or adverb (e.g., positive, comparative, superlative). In mathematics, the highest power of the variables in a polynomial or algebraic equation.",
+      "DEF_ZH":"在语法中，形容词或副词的比较级别（如原级、比较级、最高级）。在数学中，多项式或代数方程中变量的最高幂。",
+      "SENT_EN":"The polynomial has a degree of three.",
+      "SENT_ZH":"这个多项式是三次的。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"formal and general usage"
+}

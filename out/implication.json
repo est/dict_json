@@ -1,0 +1,99 @@
+{
+  "WORD":"IMPLICATION",
+  "IPA":"/ˌɪmplɪˈkeɪʃən/",
+  "CONJUGATES":"implications (pl.)",
+  "ETYMOLOGY":"From Late Latin implicātiōnem (accusative of implicātiō, 'an intertwining, entanglement'), derived from Latin implicāre ('to fold in, involve'), from in- ('into') + plicāre ('to fold').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"Noun",
+      "POS_TIP":"A countable or uncountable noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A likely consequence or result that arises from something, although not explicitly stated.",
+      "DEF_ZH":"可能的后果或影响；隐含的结论。",
+      "SENT_EN":"The drastic budget cuts have serious financial implications for the whole department.",
+      "SENT_ZH":"大幅度的预算削减对整个部门都有严重的财务影响。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consequence",
+            "ramification",
+            "repercussion",
+            "effect"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "infer",
+            "deduction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the implication [of sth]",
+      "POS":"Noun",
+      "POS_TIP":"An uncountable noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "linguistic"
+      ],
+      "DEF_EN":"The suggestion of something hidden, hinted, or understood without being directly expressed.",
+      "DEF_ZH":"暗示；暗指；含意。",
+      "SENT_EN":"He took her comment as an implication that his work was subpar.",
+      "SENT_ZH":"他将她的评论理解为暗示他的工作质量欠佳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggestion",
+            "hint",
+            "insinuation",
+            "intimation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "statement",
+            "declaration",
+            "explication"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] implication [in sth]",
+      "POS":"Noun",
+      "POS_TIP":"An uncountable noun.",
+      "TAGS":[
+        "formal",
+        "legal",
+        "less common"
+      ],
+      "DEF_EN":"The state of being involved or entangled in something, especially a crime or difficult situation.",
+      "DEF_ZH":"牵连；涉及；卷入（尤指犯罪或丑闻）。",
+      "SENT_EN":"The police investigation confirmed the suspect's implication in the bank fraud.",
+      "SENT_ZH":"警方调查证实了嫌疑人卷入了银行欺诈案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "involvement",
+            "entanglement",
+            "complicity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, formal, and general discourse"
+}

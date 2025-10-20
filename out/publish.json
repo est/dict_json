@@ -1,0 +1,88 @@
+{
+  "WORD":"publish",
+  "IPA":"/'pʌblɪʃ/",
+  "CONJUGATES":"publishes | published | publishing",
+  "ETYMOLOGY":"From Middle English publisshen, from Old French publier, derived from Latin publicare ('make public'), from publicus ('public').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"publish [sth] (a book/journal/music)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "publishing industry"
+      ],
+      "DEF_EN":"To prepare and issue (a book, journal, piece of music, etc.) for public sale or distribution.",
+      "DEF_ZH":"（出版社）印刷并发行（书籍、期刊、音乐等）供公众销售或分发。",
+      "SENT_EN":"It took the author ten years to write the book and another year to publish it.",
+      "SENT_ZH":"这位作者花了十年时间写这本书，又花了一年时间出版它。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "issue",
+            "print",
+            "release",
+            "disseminate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "publisher",
+            "publication"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"publish [sth] (information/data)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "official use"
+      ],
+      "DEF_EN":"To make official findings, regulations, or sensitive information publicly or generally known; announce formally.",
+      "DEF_ZH":"正式地公布、宣布或公开（官方的调查结果、法规或数据）。",
+      "SENT_EN":"The organization decided to publish the research data in their annual report.",
+      "SENT_ZH":"该组织决定在其年度报告中公布这些研究数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "declare",
+            "announce",
+            "promulgate",
+            "disclose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"publish [sth] (online/on a website)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "internet usage",
+        "digital"
+      ],
+      "DEF_EN":"To post content (such as articles, videos, or status updates) onto a website, blog, or digital platform, making it accessible to users.",
+      "DEF_ZH":"在网站、博客或数字平台上发布内容（例如文章、视频或状态更新），使其可供用户访问。",
+      "SENT_EN":"Don't forget to publish your changes after editing the webpage.",
+      "SENT_ZH":"编辑完网页后，别忘了发布你的更改。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "post",
+            "upload",
+            "broadcast"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonplace in formal communication, media, business, and digital contexts."
+}

@@ -1,0 +1,66 @@
+{
+  "WORD":"hotel",
+  "IPA":"/hoʊˈtɛl/",
+  "CONJUGATES":"hotels",
+  "ETYMOLOGY":"From French *hôtel*, originally referring to a large town house. This descends from Old French *hostel*, which itself is derived from Latin *hospitale* (a large house/inn for guests or the sick), which is also the root of 'hospital' and 'hostel'.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "hospitality"
+      ],
+      "DEF_EN":"An establishment providing accommodation, meals, and other services for paying guests, especially travelers and tourists.",
+      "DEF_ZH":"为有偿住宿者，特别是旅行者和游客，提供住宿、餐饮和其他服务的机构或场所。",
+      "SENT_EN":"They decided to stay in a downtown hotel to be close to the convention center.",
+      "SENT_ZH":"他们决定住在市中心的一家酒店，以便离会议中心近一些。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inn",
+            "motel",
+            "lodging",
+            "resort"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hospitality",
+            "hostel",
+            "B&B"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hotel [sth] (verb form, less common)",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "rare",
+        "figurative"
+      ],
+      "DEF_EN":"To stay in a hotel; to lodge or house temporarily.",
+      "DEF_ZH":"在酒店住宿；临时安置或居住。",
+      "SENT_EN":"We were hoteling near the airport after our flight was cancelled.",
+      "SENT_ZH":"我们的航班取消后，我们就在机场附近的一家酒店住宿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lodge",
+            "bivouac",
+            "house"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, everyday usage."
+}

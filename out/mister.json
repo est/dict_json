@@ -1,0 +1,89 @@
+{
+  "WORD":"mister",
+  "IPA":"/ˈmɪstər/",
+  "CONJUGATES":"misters (plural)",
+  "ETYMOLOGY":"Variant of 'master', first used as a title of respect before a proper name or title.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"mister [proper name]",
+      "POS":"n | title",
+      "POS_TIP":"Noun | A conventional title of respect",
+      "TAGS":[
+        "core word",
+        "standard",
+        "address"
+      ],
+      "DEF_EN":"A title used before the surname, first name, or full name of a man, corresponding to the abbreviation 'Mr.'",
+      "DEF_ZH":"用于男士姓氏、名字或全名之前的称谓，对应缩写 'Mr.'",
+      "SENT_EN":"Mister Johnson requested that the report be finished by Tuesday.",
+      "SENT_ZH":"约翰逊先生要求报告在周二前完成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "Mr."
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sir",
+            "master"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mister (direct address)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "colloquial",
+        "informal",
+        "direct address"
+      ],
+      "DEF_EN":"Used humorously, emphatically, or sometimes impatiently when addressing a man directly, especially when his name is unknown.",
+      "DEF_ZH":"直接称呼某位男士（尤指不知其名时），有时带有幽默、强调或不耐烦的语气。",
+      "SENT_EN":"Hey, mister, you dropped your car keys on the ground!",
+      "SENT_ZH":"喂，这位先生，你把车钥匙掉在地上了！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guy",
+            "fella"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Mister [title/role]",
+      "POS":"n | title",
+      "POS_TIP":"Noun | A formal or historical title",
+      "TAGS":[
+        "dated",
+        "specific context",
+        "military"
+      ],
+      "DEF_EN":"An informal or traditional title given to a person holding a specific role or rank, such as in the military or political address (e.g., 'Mister Speaker').",
+      "DEF_ZH":"用于指称担任特定职位或等级的人的非正式或传统头衔（如在军队或政治场合，例如“议长先生”）。",
+      "SENT_EN":"The non-commissioned officer was often called 'Mister' by the recruits.",
+      "SENT_ZH":"这名士官经常被新兵们称为“先生”。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "madam",
+            "missus"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in dialogue and writing as the full form of the title 'Mr.'."
+}

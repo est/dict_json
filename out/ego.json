@@ -1,0 +1,95 @@
+{
+  "WORD":"ego",
+  "IPA":"/ˈiːɡoʊ/",
+  "CONJUGATES":"egos",
+  "ETYMOLOGY":"From Latin ego ('I'), from Proto-Indo-European *eg- ('I'). Reintroduced into English from German in the late 19th century in the context of Freudian psychology.",
+  "SINCE":"Late 17th century (general sense), late 19th century (psychological sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"the ego",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "psychology",
+        "common"
+      ],
+      "DEF_EN":"In psychoanalysis, the part of the mind that mediates between the conscious and unconscious elements and is responsible for reality testing and a sense of personal identity.",
+      "DEF_ZH":"在心理分析中，心灵中介于意识和无意识成分之间、负责现实检验和个人认同感的部分。",
+      "SENT_EN":"According to Freud, the ego attempts to reconcile the demands of the id, the superego, and reality.",
+      "SENT_ZH":"根据弗洛伊德的理论，自我试图调和本我、超我和现实的需求。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "id",
+            "superego"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "self",
+            "consciousness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s ego\nhave a big ego",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"A person's sense of self-esteem or self-importance.",
+      "DEF_ZH":"一个人的自尊心或自我重要感。",
+      "SENT_EN":"His ego was bruised when he didn't get the promotion.",
+      "SENT_ZH":"他没有得到晋升，自尊心受到了伤害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pride",
+            "self-esteem",
+            "vanity",
+            "self-importance"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "humility",
+            "modesty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the ego",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "philosophy",
+        "less common"
+      ],
+      "DEF_EN":"The conscious thinking subject in philosophical discourse; the self.",
+      "DEF_ZH":"在哲学论述中，有意识的思维主体；自我本身。",
+      "SENT_EN":"Descartes' 'I think, therefore I am' posits the existence of the ego as a thinking entity.",
+      "SENT_ZH":"笛卡尔的“我思故我在”提出了自我作为思维实体的存在。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "self",
+            "mind",
+            "consciousness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, but also academic in psychology and philosophy contexts."
+}

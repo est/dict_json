@@ -1,0 +1,66 @@
+{
+  "WORD":"explain",
+  "IPA":"/ɪkˈspleɪn/",
+  "CONJUGATES":"explains | explaining | explained",
+  "ETYMOLOGY":"From Latin explicare (ex- 'out' + plicare 'to fold'), meaning 'to unfold, spread out, clarify', via Old French or Medieval Latin explanare.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"explain [sth] (to [sb])\nexplain [how] [why] [where]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb requiring a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make an idea, situation, or problem clear and understandable to someone by describing it in more detail or revealing relevant facts.",
+      "DEF_ZH":"阐明；解释；说明（使某人理解某事）。",
+      "SENT_EN":"The teacher explained the complex theory step by step to the students.",
+      "SENT_ZH":"老师一步一步地向学生解释了这个复杂的理论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clarify",
+            "elucidate",
+            "illustrate",
+            "interpret",
+            "define"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "confuse",
+            "obscure",
+            "muddle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"explain [sth]\nexplain [oneself]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "justification"
+      ],
+      "DEF_EN":"To give a reason or justification for an action, behavior, or event.",
+      "DEF_ZH":"解释（原因或理由）；辩解；对…作出说明。",
+      "SENT_EN":"You need to explain your absence from the mandatory meeting.",
+      "SENT_ZH":"你需要解释一下你为什么缺席强制会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "account for",
+            "justify",
+            "rationalize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, used broadly in academic, social, and professional contexts."
+}

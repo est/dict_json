@@ -1,0 +1,133 @@
+{
+  "WORD":"pin",
+  "IPA":"/pɪn/",
+  "CONJUGATES":"pin | pins | pinning | pinned",
+  "ETYMOLOGY":"Middle English, from Old English *pinn* 'peg, bolt, latch', ultimately Germanic origin.",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] pin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A short, thin, stiff piece of metal with a sharp point and a flat or rounded head, used for fastening articles together or fixing things to a surface.",
+      "DEF_ZH":"（别衣服、固定物品的）大头针；别针；图钉。",
+      "SENT_EN":"She used a safety pin to temporarily mend the tear in her dress.",
+      "SENT_ZH":"她用安全别针暂时修补了裙子上的裂口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fastener",
+            "tack",
+            "brooch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "nail",
+            "staple"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pin [sth] (to/on [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fasten or attach something with a pin or pins.",
+      "DEF_ZH":"用别针或钉子固定；别住；钉住。",
+      "SENT_EN":"The tailor pinned the fabric sections together before sewing.",
+      "SENT_ZH":"裁缝在缝纫之前，先用别针将布料固定在一起。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fasten",
+            "secure",
+            "affix",
+            "attach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pin [sb/sth] down",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "phrasal",
+        "idiomatic"
+      ],
+      "DEF_EN":"To hold someone or something firmly so that they are unable to move.",
+      "DEF_ZH":"将（某人/某物）压制或固定住，使其不能移动（尤其指摔跤或战斗中）。",
+      "SENT_EN":"The police officers managed to pin the suspect down until reinforcements arrived.",
+      "SENT_ZH":"警察设法将嫌疑人制服在地，直到增援部队赶到。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrain",
+            "immobilize",
+            "trap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] pin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sport",
+        "common"
+      ],
+      "DEF_EN":"A wooden object set up to be knocked down in games such as bowling.",
+      "DEF_ZH":"（保龄球或其他游戏中的）球瓶。",
+      "SENT_EN":"He needed a strike to clear the last two pins and win the match.",
+      "SENT_ZH":"他需要一次全中才能击倒最后两个球瓶并赢得比赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skittle",
+            "tenpin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] pin",
+      "POS":"n",
+      "POS_TIP":"noun (abbreviation)",
+      "TAGS":[
+        "technical",
+        "finance",
+        "slang"
+      ],
+      "DEF_EN":"An abbreviation for Personal Identification Number, a secret code used to access an account or device.",
+      "DEF_ZH":"密码；个人识别码（Personal Identification Number的缩写）。",
+      "SENT_EN":"You must enter your four-digit PIN to authorize the transaction.",
+      "SENT_ZH":"您必须输入四位数的个人识别码才能授权此交易。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "password",
+            "code",
+            "key"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in household, tailoring, and sports contexts."
+}

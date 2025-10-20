@@ -1,0 +1,133 @@
+{
+  "WORD":"instrument",
+  "IPA":"/'ɪnstrʊmənt/",
+  "CONJUGATES":"instruments (n) | instruments (v) | instrumenting | instrumented",
+  "ETYMOLOGY":"From Latin instrumentum ('tool, equipment'), derived from instruere ('to build, equip, teach').",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (for [doing sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "device"
+      ],
+      "DEF_EN":"A tool or implement, especially one used for precise, scientific, or technical work.",
+      "DEF_ZH":"一种工具或器具，尤其指用于精确、科学或技术工作的设备。",
+      "SENT_EN":"The pilot checked the cockpit instruments before takeoff.",
+      "SENT_ZH":"飞行员在起飞前检查了驾驶舱的仪表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tool",
+            "implement",
+            "apparatus",
+            "device",
+            "gauge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a musical [instrument]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "music",
+        "common"
+      ],
+      "DEF_EN":"An object or device used to produce musical sounds.",
+      "DEF_ZH":"用于产生音乐声音的物体或装置（乐器）。",
+      "SENT_EN":"The cello is a beautiful string instrument.",
+      "SENT_ZH":"大提琴是一种美丽的弦乐器。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "guitar",
+            "piano",
+            "flute",
+            "percussion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] or [sth] as an [instrument] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "formal",
+        "agent"
+      ],
+      "DEF_EN":"A person or thing used by another to achieve an aim or purpose; a means or agency.",
+      "DEF_ZH":"被他人用来达到目的的人或物；手段或媒介。",
+      "SENT_EN":"She worried that she had become an unwilling instrument of his deception.",
+      "SENT_ZH":"她担心自己成了他欺骗行为中不情愿的工具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "agent",
+            "medium",
+            "vehicle",
+            "pawn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a legal/financial [instrument]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "finance",
+        "formal"
+      ],
+      "DEF_EN":"A formal written legal document, such as a contract, deed, or bond.",
+      "DEF_ZH":"正式的书面法律文件，如合同、契约或债券（文书）。",
+      "SENT_EN":"The final document must be signed to execute the financial instrument.",
+      "SENT_ZH":"必须签署最终文件才能执行该金融文书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "document",
+            "deed",
+            "contract",
+            "writ"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is [instrumented] (with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"To equip something, especially a test environment or machine, with monitoring or measuring instruments.",
+      "DEF_ZH":"为某物（尤其是测试环境或机器）配备监控或测量仪器。",
+      "SENT_EN":"The prototype aircraft was heavily instrumented to gather flight data.",
+      "SENT_ZH":"这架原型机配备了大量的仪器来收集飞行数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equip",
+            "monitor",
+            "fit out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Formal"
+}

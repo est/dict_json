@@ -1,0 +1,81 @@
+{
+  "WORD":"forbid",
+  "IPA":"/fərˈbɪd/",
+  "CONJUGATES":"forbids | forbidding | forbade/forbad | forbidden/forbid",
+  "ETYMOLOGY":"From Old English forbeodan (for- 'against' + beodan 'to command, announce'). Related to German verbieten.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"forbid [sb] to do [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To order someone not to do something; to prohibit.",
+      "DEF_ZH":"禁止；不准许（某人做某事）。",
+      "SENT_EN":"The rules strictly forbid employees to accept large gifts from clients.",
+      "SENT_ZH":"规定严格禁止员工接受客户的大额礼物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prohibit",
+            "ban",
+            "outlaw",
+            "enjoin"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "permit",
+            "allow",
+            "authorize",
+            "license"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"forbid [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something not allowable; to prohibit the existence or use of something.",
+      "DEF_ZH":"禁止；阻止（某事物）。",
+      "SENT_EN":"Smoking is strictly forbidden in all public buildings.",
+      "SENT_ZH":"所有公共建筑内严禁吸烟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prohibit",
+            "ban",
+            "veto",
+            "bar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"God forbid\nHeaven forbid (that...)",
+      "POS":"idiom",
+      "POS_TIP":"a set phrase",
+      "TAGS":[
+        "set phrase",
+        "religious/old-fashioned"
+      ],
+      "DEF_EN":"A phrase used to express a strong hope that something negative will not happen.",
+      "DEF_ZH":"（但愿）不会发生；求主保佑不要（发生）。",
+      "SENT_EN":"Heaven forbid that the plane should crash!",
+      "SENT_ZH":"但愿飞机不要坠毁！",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal or general usage, especially in rules and regulations."
+}

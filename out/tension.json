@@ -1,0 +1,94 @@
+{
+  "WORD":"tension",
+  "IPA":"/ˈtɛnʃən/",
+  "CONJUGATES":"tensions (plural)",
+  "ETYMOLOGY":"From Latin tensiō (stem tension-), from tēnsus (past participle of tendere 'to stretch'), + -iō (noun-forming suffix).",
+  "SINCE":"Late 14th century (for 'stretching, strain'); Mid-17th century (for 'mental strain, excitement').",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] [C]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A state of mental or emotional strain or suspense, often resulting from conflicting demands or pressures.",
+      "DEF_ZH":"精神或情感上的紧张或不安状态，通常由相互冲突的需求或压力引起。",
+      "SENT_EN":"The political tension between the two nations has reached an all-time high.",
+      "SENT_ZH":"两国之间的政治紧张局势已达到历史最高点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strain",
+            "stress",
+            "pressure",
+            "anxiety"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "calm",
+            "relaxation",
+            "peace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U] [C]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state of being stretched or strained; the degree to which something is stretched.",
+      "DEF_ZH":"被拉伸或绷紧的状态；物体被拉伸的程度。",
+      "SENT_EN":"The high tension in the wires made them hum.",
+      "SENT_ZH":"电线中的高张力使它们发出嗡嗡声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tautness",
+            "tightness",
+            "stress"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tensile strength",
+            "surface tension"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "physics",
+        "technical"
+      ],
+      "DEF_EN":"(Physics) A pulling force exerted by a string, cable, or similar continuous object on another object.",
+      "DEF_ZH":"（物理学）绳索、电缆或类似连续物体对另一物体施加的拉力。",
+      "SENT_EN":"The tension in the rope was calculated by the engineer.",
+      "SENT_ZH":"工程师计算了绳索中的张力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "force",
+            "pull"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Physics)"
+}

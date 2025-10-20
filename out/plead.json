@@ -1,0 +1,81 @@
+{
+  "WORD":"plead",
+  "IPA":"/pliːd/",
+  "CONJUGATES":"pleads | pleading | pleaded | pled",
+  "ETYMOLOGY":"From Anglo-Norman pleider, plaider 'to present a case in court', from Old French plaidier 'to litigate', from plaid 'suit, trial', ultimately from Latin placitum 'decree, opinion', from placere 'to please'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"plead (for sth)\nplead (with sb) | plead (that...)",
+      "POS":"v.intr. | v.tr.",
+      "POS_TIP":"v.intr.: intransitive verb (verb not taking a direct object) | v.tr.: transitive verb (verb taking a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make an emotional and earnest appeal or request.",
+      "DEF_ZH":"恳求；请求；央求。",
+      "SENT_EN":"She pleaded with her parents for permission to go to the party.",
+      "SENT_ZH":"她恳求父母允许她参加派对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beg",
+            "appeal",
+            "implore",
+            "entreat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plead (sth)\nplead (guilty/not guilty)",
+      "POS":"v.intr. | v.tr.",
+      "POS_TIP":"v.intr.: intransitive verb (verb not taking a direct object) | v.tr.: transitive verb (verb taking a direct object)",
+      "TAGS":[
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"To present a case or argument in a court of law; to declare oneself guilty or not guilty of a charge.",
+      "DEF_ZH":"(在法庭上) 辩护；认罪或不认罪。",
+      "SENT_EN":"The defendant pleaded not guilty to all charges.",
+      "SENT_ZH":"被告对所有指控均不认罪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allege",
+            "argue",
+            "contend",
+            "confess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plead (sth as an excuse/reason)",
+      "POS":"v.tr.",
+      "POS_TIP":"v.tr.: transitive verb (verb taking a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To offer something as a reason, defense, or excuse.",
+      "DEF_ZH":"提出（理由、借口）以作辩解。",
+      "SENT_EN":"He pleaded ignorance as his excuse for not completing the task.",
+      "SENT_ZH":"他以无知为由，为未完成任务辩解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "claim",
+            "assert",
+            "argue",
+            "state"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard; often formal in legal contexts."
+}

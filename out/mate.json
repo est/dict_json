@@ -1,0 +1,134 @@
+{
+  "WORD":"mate",
+  "IPA":"/meɪt/",
+  "CONJUGATES":"mate (n) | mates (n) | mate (v) | mates (v) | mating (v) | mated (v)",
+  "ETYMOLOGY":"Middle English, from Old English gemaca 'companion, partner' or Old Norse mati 'fellow, partner', possibly related to the root of 'meet'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] (colloquial address)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "colloquial",
+        "UK",
+        "AUS",
+        "NZ"
+      ],
+      "DEF_EN":"A friend, comrade, or casual acquaintance, often used as a familiar form of address.",
+      "DEF_ZH":"朋友；伙计；老兄（尤用于英联邦国家，常作为称呼）",
+      "SENT_EN":"Alright, mate? Want to grab a pint later?",
+      "SENT_ZH":"你好吗，伙计？待会儿想去喝一杯吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pal",
+            "buddy",
+            "chum",
+            "friend"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shipmate",
+            "classmate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[animal]\n[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"One of a pair of animals or birds associated for the purpose of reproduction. Also used for a life partner or spouse.",
+      "DEF_ZH":"配偶；伴侣；交配对象",
+      "SENT_EN":"The male bird was calling out to find its lost mate.",
+      "SENT_ZH":"那只雄鸟正在呼唤它失散的配偶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "partner",
+            "spouse",
+            "consort"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[animal] mate (with [animal])",
+      "POS":"vi | vt",
+      "POS_TIP":"intransitive or transitive verb",
+      "TAGS":[
+        "core word",
+        "biology"
+      ],
+      "DEF_EN":"(Of animals) to copulate or breed.",
+      "DEF_ZH":"（动物）交配；配种",
+      "SENT_EN":"These giant pandas only mate once every few years.",
+      "SENT_ZH":"这些大熊猫每隔几年才交配一次。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pair",
+            "couple",
+            "breed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[title]\n[sb] mate",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "professional",
+        "nautical"
+      ],
+      "DEF_EN":"A deck officer on a merchant ship subordinate to the captain (e.g., First Mate, Second Mate). Historically, an assistant to a skilled worker.",
+      "DEF_ZH":"（商船上的）大副；二副；副手；助手",
+      "SENT_EN":"He served as the First Mate on the vessel for five years.",
+      "SENT_ZH":"他在这艘船上担任了大副五年。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "First Mate",
+            "Second Mate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mate [sb]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "game",
+        "chess"
+      ],
+      "DEF_EN":"To put the opponent's king into an unavoidable check (short for checkmate).",
+      "DEF_ZH":"（国际象棋）将死；获胜",
+      "SENT_EN":"She was able to mate her opponent in under thirty moves.",
+      "SENT_ZH":"她能够在三十步内将死对手。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "checkmate",
+            "check"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies between extremely common (as an informal address, UK/AUS) and specific professional/biological contexts."
+}

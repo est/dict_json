@@ -1,0 +1,148 @@
+{
+  "WORD":"drag",
+  "IPA":"/dræɡ/",
+  "CONJUGATES":"drag | dragging | dragged | drags",
+  "ETYMOLOGY":"From Middle English *draggen*, likely derived from Old Norse *draga* 'to draw, pull'.",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"drag [sth] [adv/prep]\ndrag [sb] [adv/prep]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To pull (someone or something) along the ground or another surface, typically roughly or with effort.",
+      "DEF_ZH":"拖，拉（某物或某人），通常指费力地沿着地面或表面移动。",
+      "SENT_EN":"The current was so strong that the anchor began to drag.",
+      "SENT_ZH":"水流太强了，船锚开始拖动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "haul",
+            "tow",
+            "pull",
+            "lumber"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drag [sth] on",
+      "POS":"v phrasal",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To continue for a longer time than is necessary or desired.",
+      "DEF_ZH":"拖延；磨蹭（指活动或事件不必要地持续很长时间）。",
+      "SENT_EN":"The meeting dragged on for over three hours with little accomplished.",
+      "SENT_ZH":"会议拖了三个多小时，但几乎没有什么成果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protract",
+            "prolong",
+            "stretch out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drag",
+      "POS":"nu | nc",
+      "POS_TIP":"uncountable noun | countable noun",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"The force exerted by a fluid (such as air or water) opposing the motion of a body through it; aerodynamic resistance.",
+      "DEF_ZH":"阻力；气阻（流体对穿过其中的物体运动产生的阻碍力）。",
+      "SENT_EN":"The engineers modified the wing design to minimize drag.",
+      "SENT_ZH":"工程师们修改了机翼设计以最大程度地减少阻力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resistance",
+            "friction",
+            "retardation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a drag",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"A boring, unpleasant, or tedious person, thing, or situation.",
+      "DEF_ZH":"扫兴的事物；令人不快或无聊的人或情况。",
+      "SENT_EN":"I love the job, but the commute is a real drag.",
+      "SENT_ZH":"我喜欢这份工作，但通勤真让人心烦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bore",
+            "nuisance",
+            "headache"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take a drag",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"An act of inhaling smoke from a cigarette, pipe, or vape.",
+      "DEF_ZH":"（抽烟时的）吸气，一口烟。",
+      "SENT_EN":"He took a long drag from his cigar and sighed contentedly.",
+      "SENT_ZH":"他深深吸了一口雪茄，满足地叹了口气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "puff",
+            "hit",
+            "inhale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in drag",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "slang",
+        "LGBTQIA+"
+      ],
+      "DEF_EN":"Clothing worn by a man or person assigned male at birth that is conventionally associated with women (used especially in performance art).",
+      "DEF_ZH":"异性服装；男扮女装（尤指表演艺术）。",
+      "SENT_EN":"The club features local artists who perform in drag every Friday night.",
+      "SENT_ZH":"这家俱乐部每周五晚上都会有当地艺术家进行异装表演。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "drag queen",
+            "cross-dress"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Informal"
+}

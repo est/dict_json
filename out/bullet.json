@@ -1,0 +1,101 @@
+{
+  "WORD":"bullet",
+  "IPA":"/ˈbʊlɪt/",
+  "CONJUGATES":"bullets (n) | bulleted (v past/pp) | bulleting (v pres p) | bullets (v pres s)",
+  "ETYMOLOGY":"From Middle French *boulette* 'small ball', diminutive of Old French *boule* 'ball, sphere'.",
+  "SINCE":"Early 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "weaponry"
+      ],
+      "DEF_EN":"A projectile, usually metal and conical or round, fired from a firearm.",
+      "DEF_ZH":"枪支发射的弹头或子弹，通常为金属制，呈圆锥形或圆形。",
+      "SENT_EN":"The officer examined the empty shell casing and the retrieved bullet.",
+      "SENT_ZH":"警官检查了空弹壳和找回的子弹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "round",
+            "slug",
+            "projectile"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ammunition",
+            "cartridge",
+            "shot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "typography",
+        "common"
+      ],
+      "DEF_EN":"A heavy dot (•) used in printed or digital text to itemize a list; often called a bullet point.",
+      "DEF_ZH":"用于列出项目清单的实心圆点符号（项目符号）。",
+      "SENT_EN":"Use a bullet point for each step of the instruction manual.",
+      "SENT_ZH":"说明书的每一步都应使用项目符号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dot",
+            "marker",
+            "itemizer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] bullet [prep]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "action",
+        "figurative"
+      ],
+      "DEF_EN":"To move or rush somewhere with great speed.",
+      "DEF_ZH":"以极快的速度移动或飞奔。",
+      "SENT_EN":"The motorcycle bulleted past the slow-moving truck.",
+      "SENT_ZH":"那辆摩托车像子弹一样从缓慢行驶的卡车旁边飞驰而过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "zip",
+            "dart",
+            "speed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "sports"
+      ],
+      "DEF_EN":"In sports, an extremely fast pitch, shot, or pass.",
+      "DEF_ZH":"（俚语，体育）指速度极快的投球、射门或传球。",
+      "SENT_EN":"He fired a bullet of a pass right into the hands of his teammate.",
+      "SENT_ZH":"他向队友传出了一个子弹般的快传。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common"
+}

@@ -1,0 +1,63 @@
+{
+  "WORD":"hydrogen",
+  "IPA":"/ˈhaɪdrədʒən/",
+  "CONJUGATES":"singular: hydrogen | plural: hydrogens (typically refers to individual atoms or isotopes rather than the elemental gas itself)",
+  "ETYMOLOGY":"Coined in 1783 by French chemist Antoine Lavoisier, from Ancient Greek 'hýdōr' (water) + 'genḗs' (forming, producing), literally 'water-former'.",
+  "SINCE":"1783",
+  "MEANINGS":[
+    {
+      "PATTERN":"hydrogen",
+      "POS":"n. uncountable",
+      "POS_TIP":"noun (uncountable): refers to a substance that is not typically counted individually and does not usually have a plural form when referring to the substance as a whole.",
+      "TAGS":[
+        "core word",
+        "common",
+        "scientific",
+        "chemistry"
+      ],
+      "DEF_EN":"A chemical element (symbol H) which is a colorless, odorless, highly flammable gaseous nonmetal, the lightest of all elements, and the most abundant in the universe. It has an atomic number of 1 and is a fundamental component of water and all organic compounds.",
+      "DEF_ZH":"一种化学元素（符号H），为无色、无味、高度易燃的气态非金属，是所有元素中最轻的，也是宇宙中最丰富的元素。原子序数为1，是水和所有有机化合物的基本组成部分。",
+      "SENT_EN":"Scientists are researching methods to produce hydrogen efficiently for clean energy.",
+      "SENT_ZH":"科学家们正在研究高效生产氢气以用于清洁能源的方法。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "H",
+            "element",
+            "proton",
+            "atomic number 1",
+            "fuel cell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hydrogen\nhydrogens",
+      "POS":"n. countable",
+      "POS_TIP":"noun (countable): refers to something that can be counted individually and has a plural form.",
+      "TAGS":[
+        "scientific",
+        "chemistry",
+        "technical"
+      ],
+      "DEF_EN":"An atom or ion of the element hydrogen, or any of its isotopes (protium, deuterium, tritium).",
+      "DEF_ZH":"指一个氢元素的原子或离子，或其任何同位素（氕、氘、氚）。",
+      "SENT_EN":"Each water molecule consists of two hydrogens and one oxygen atom.",
+      "SENT_ZH":"每个水分子由两个氢原子和一个氧原子组成。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "atom",
+            "isotope",
+            "protium",
+            "deuterium",
+            "tritium"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Primarily scientific and technical contexts, but also general knowledge discussions about chemistry and energy."
+}

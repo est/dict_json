@@ -1,0 +1,183 @@
+{
+  "WORD":"rack",
+  "IPA":"/ræk/",
+  "CONJUGATES":"n: racks | v: racks | racking | racked",
+  "ETYMOLOGY":"From Old English 'raca' (noun, meaning 'rack, rake') and Middle English 'rakken' (verb, meaning 'to stretch, torture'), influenced by Old English 'wrecan' ('to drive, push, afflict') and related to Middle Dutch 'rekken' ('to stretch').",
+  "SINCE":"Before 12th century (noun), 13th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] on a rack\na rack for [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A framework, typically with shelves, bars, or hooks, for holding or storing things.",
+      "DEF_ZH":"一种通常带有架子、横杆或钩子的框架，用于放置或存放物品。",
+      "SENT_EN":"She hung her wet clothes on the drying rack.",
+      "SENT_ZH":"她把湿衣服挂在晾衣架上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shelf",
+            "stand",
+            "frame",
+            "holder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rack [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "often figurative"
+      ],
+      "DEF_EN":"To cause great physical or mental suffering or distress to someone; to afflict with pain.",
+      "DEF_ZH":"使某人遭受巨大的肉体或精神痛苦；折磨。",
+      "SENT_EN":"The cough racked his body every few minutes.",
+      "SENT_ZH":"每隔几分钟，咳嗽就折磨着他的身体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "torment",
+            "torture",
+            "agonize",
+            "afflict",
+            "distress"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "comfort",
+            "soothe",
+            "relieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rack [one's] brain/mind",
+      "POS":"vtr + n",
+      "POS_TIP":"transitive verb + noun",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To make a great mental effort to try to remember or think of something.",
+      "DEF_ZH":"绞尽脑汁，努力回忆或思考某事。",
+      "SENT_EN":"I racked my brain for hours trying to recall her name.",
+      "SENT_ZH":"我绞尽脑汁想了好几个小时，试图回忆起她的名字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strain",
+            "exert",
+            "puzzle over"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the rack",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "specific"
+      ],
+      "DEF_EN":"A historical instrument of torture consisting of a frame on which the victim was stretched until the joints were dislocated.",
+      "DEF_ZH":"一种历史上的刑具，由一个框架组成，受害者被绑在上面拉伸直至关节脱臼。",
+      "SENT_EN":"During the Inquisition, many were put on the rack.",
+      "SENT_ZH":"在宗教裁判所时期，许多人被施以刑架酷刑。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "torture chamber",
+            "inquisition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rack of balls\nrack the balls",
+      "POS":"n | vtr",
+      "POS_TIP":"noun | transitive verb",
+      "TAGS":[
+        "specific",
+        "billiards",
+        "common"
+      ],
+      "DEF_EN":"A triangular frame used to arrange billiard balls in a compact group at the start of a game; also, to arrange balls using this frame.",
+      "DEF_ZH":"一种三角形框架，用于在台球游戏开始时将球紧密排列；也指用此框架排列台球。",
+      "SENT_EN":"The first player carefully racked the balls before breaking.",
+      "SENT_ZH":"第一位选手在开球前小心地将台球摆好。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "billiards",
+            "pool",
+            "snooker"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rack of lamb/pork",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "culinary",
+        "common"
+      ],
+      "DEF_EN":"A cut of meat, typically lamb or pork, consisting of several ribs.",
+      "DEF_ZH":"一块肉，通常是羊肉或猪肉，包含几根肋骨。",
+      "SENT_EN":"We ordered a delicious rack of lamb for dinner.",
+      "SENT_ZH":"我们晚餐点了一份美味的羊排。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ribs",
+            "chop",
+            "loin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rack [wine/beer]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "enology",
+        "brewery"
+      ],
+      "DEF_EN":"To draw off (wine or other liquor) from the lees (sediment) into another container.",
+      "DEF_ZH":"将（葡萄酒或其他酒）从酒渣（沉淀物）中抽出，转移到另一个容器中。",
+      "SENT_EN":"The winemaker carefully racked the wine into clean barrels after fermentation.",
+      "SENT_ZH":"酿酒师在发酵后小心地将葡萄酒从酒渣中抽出，装入干净的桶中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decant",
+            "siphon",
+            "transfer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

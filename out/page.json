@@ -1,0 +1,117 @@
+{
+  "WORD":"page",
+  "IPA":"/ˈpeɪdʒ/",
+  "CONJUGATES":"pages | paged | paging",
+  "ETYMOLOGY":"For Meaning 1 (Sheet of paper): From Middle English and Old French page, from Latin pagina ('column, leaf of paper'), related to pangere ('to fix, fasten'). For Meaning 4 (Attendant): From Middle French page, perhaps ultimately from Greek paidion (diminutive of pais 'child').",
+  "SINCE":"Mid 13th Century (Book leaf)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] page [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "printing"
+      ],
+      "DEF_EN":"One side of a sheet of paper in a book, magazine, or newspaper.",
+      "DEF_ZH":"书籍、杂志或报纸中一张纸的一面。",
+      "SENT_EN":"She tore a page out of her notebook to write a quick message.",
+      "SENT_ZH":"她从笔记本上撕了一页纸，写了一条简短的信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "leaf",
+            "folio",
+            "sheet"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pagination",
+            "book"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"page [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To call out the name of a person in a public place (like an airport or hospital) or to contact someone using a device (like a pager).",
+      "DEF_ZH":"在公共场所（如机场或医院）呼叫某人的名字，或使用寻呼机等设备联系某人。",
+      "SENT_EN":"The flight attendant paged the passenger who had checked in late.",
+      "SENT_ZH":"空乘人员呼叫了那位迟到的乘客。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summon",
+            "call",
+            "beep"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pager"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] web page",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technology",
+        "modern usage"
+      ],
+      "DEF_EN":"A document or resource on the World Wide Web that is suitable for a web browser.",
+      "DEF_ZH":"万维网上适用于网页浏览器的文档或资源（网页）。",
+      "SENT_EN":"I can't access that specific web page; the link might be broken.",
+      "SENT_ZH":"我无法访问那个特定的网页；链接可能已损坏。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "website",
+            "homepage",
+            "URL"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] page [to a noble]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "formal",
+        "archaic"
+      ],
+      "DEF_EN":"A young boy employed as a personal attendant or servant, especially historically in royal or noble households.",
+      "DEF_ZH":"被雇佣为私人侍从或服务人员的年轻男孩，尤指历史上王室或贵族家中的侍童。",
+      "SENT_EN":"The young page delivered the nobleman's sealed letter.",
+      "SENT_ZH":"那个年轻的侍童递送了贵族封好的信件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attendant",
+            "footman",
+            "valet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Printing / Communication"
+}

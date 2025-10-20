@@ -1,0 +1,80 @@
+{
+  "WORD":"inch",
+  "IPA":"/ɪntʃ/",
+  "CONJUGATES":"inches | inching | inched",
+  "ETYMOLOGY":"From Old English ynce, derived from Latin uncia ('a twelfth part'), originally referring to a twelfth of a Roman foot, and also the source of the word 'ounce'.",
+  "SINCE":"c. 1000 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] measure in inch",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "measurement",
+        "US customary unit"
+      ],
+      "DEF_EN":"A unit of linear measure equal to one twelfth of a foot (exactly 2.54 centimeters).",
+      "DEF_ZH":"英寸。一种长度单位，等于一英尺的十二分之一（即2.54厘米）。",
+      "SENT_EN":"The ruler shows that the line is exactly three inches long.",
+      "SENT_ZH":"尺子显示这条线正好有三英寸长。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "foot",
+            "yard",
+            "mile",
+            "centimeter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inch (along/towards/forward)",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "common",
+        "motion"
+      ],
+      "DEF_EN":"To move slowly and gradually in a specified direction.",
+      "DEF_ZH":"（使）缓慢地，一点一点地移动。",
+      "SENT_EN":"The car inched forward in the heavy traffic.",
+      "SENT_ZH":"那辆汽车在拥挤的交通中缓慢地向前挪动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creep",
+            "crawl",
+            "edge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"by an inch\nevery inch",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A very small distance or amount (often used figuratively to emphasize a narrow margin).",
+      "DEF_ZH":"极小的距离或量；微弱的优势。",
+      "SENT_EN":"He missed getting the job by an inch of luck.",
+      "SENT_ZH":"他差一点点运气就错失了这份工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fraction",
+            "hair's breadth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

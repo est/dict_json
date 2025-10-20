@@ -1,0 +1,108 @@
+{
+  "WORD":"operate",
+  "IPA":"/ˈɑpəˌreɪt/",
+  "CONJUGATES":"operates | operating | operated",
+  "ETYMOLOGY":"From Latin operari ('to work, to toil'), derived from opus (genitive operis, 'work, labor'). Influenced by French opérer.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"operate [sth]\noperate",
+      "POS":"vtr | v.",
+      "POS_TIP":"Transitive verb (requiring a direct object) | Intransitive verb",
+      "TAGS":[
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"To control the functioning of a machine, system, or organization.",
+      "DEF_ZH":"操纵；驾驶；管理（机器、系统或组织）",
+      "SENT_EN":"It takes specialized training to operate the heavy construction equipment.",
+      "SENT_ZH":"操作重型建筑设备需要专业培训。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "control",
+            "run",
+            "handle",
+            "manage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "operator",
+            "operation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"operate",
+      "POS":"v.",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To function; to work or perform in a proper or particular way.",
+      "DEF_ZH":"运转；起作用；生效",
+      "SENT_EN":"The engine has been operating smoothly since the last service.",
+      "SENT_ZH":"自上次维修以来，发动机一直运转平稳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "function",
+            "work",
+            "perform"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"operate [in/from/on]",
+      "POS":"v. + prep.",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "business",
+        "military"
+      ],
+      "DEF_EN":"To carry out business or military activities in a specific location or manner.",
+      "DEF_ZH":"经营；营业；在某地区开展活动",
+      "SENT_EN":"The charity operates mainly in developing countries.",
+      "SENT_ZH":"该慈善机构主要在发展中国家开展业务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conduct",
+            "trade",
+            "do business"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"operate [on sb]",
+      "POS":"v. + prep.",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "medical",
+        "formal"
+      ],
+      "DEF_EN":"To perform surgery on a patient.",
+      "DEF_ZH":"施行手术；动手术",
+      "SENT_EN":"The doctors decided to operate on the patient immediately to remove the tumor.",
+      "SENT_ZH":"医生决定立即对病人进行手术以切除肿瘤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perform surgery",
+            "surgically treat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, used in technical, business, and medical contexts."
+}

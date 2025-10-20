@@ -1,0 +1,134 @@
+{
+  "WORD":"minor",
+  "IPA":"/ˈmaɪnər/",
+  "CONJUGATES":"minors (n. pl.) | minor (v.) | minored (v. past) | minoring (v. pres. part.) | more minor (adj. comp.) | most minor (adj. sup.)",
+  "ETYMOLOGY":"From Latin minor ('smaller, less, inferior'), comparative of parvus ('small').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is minor",
+      "POS":"adj.",
+      "POS_TIP":"Adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lesser in importance, seriousness, or scale than something else; comparatively small.",
+      "DEF_ZH":"与别的事物相比，在重要性、严重性或规模上较小的；次要的。",
+      "SENT_EN":"The doctor assured us that her injuries were minor and she would recover quickly.",
+      "SENT_ZH":"医生向我们保证她的伤势很轻微，会很快康复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secondary",
+            "subordinate",
+            "insignificant",
+            "trivial"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "major",
+            "crucial",
+            "principal",
+            "significant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a minor",
+      "POS":"n.",
+      "POS_TIP":"Noun (person, place, thing, or idea)",
+      "TAGS":[
+        "legal",
+        "person"
+      ],
+      "DEF_EN":"A person under the age of full legal responsibility (usually 18 or 21).",
+      "DEF_ZH":"尚未达到法定完全责任年龄的人（通常是18岁或21岁）。",
+      "SENT_EN":"Selling cigarettes to a minor is strictly prohibited by law.",
+      "SENT_ZH":"法律严格禁止向未成年人出售香烟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "juvenile",
+            "adolescent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "adult",
+            "major"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"minor key/scale/chord",
+      "POS":"adj.",
+      "POS_TIP":"Adjective (describes a noun)",
+      "TAGS":[
+        "music"
+      ],
+      "DEF_EN":"(In music) Designating a scale, key, or chord having a minor third; often associated with melancholic or serious moods.",
+      "DEF_ZH":"（音乐中）指具有小三度的音阶、调或和弦；通常与忧郁或严肃的情绪相关。",
+      "SENT_EN":"He composed the symphony in a minor key to evoke a sense of tragedy.",
+      "SENT_ZH":"他以小调创作了这部交响乐，以唤起一种悲剧感。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "major"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"academic minor",
+      "POS":"n.",
+      "POS_TIP":"Noun (person, place, thing, or idea)",
+      "TAGS":[
+        "education",
+        "US English"
+      ],
+      "DEF_EN":"A secondary field of study pursued at a college or university, requiring fewer credits than a major.",
+      "DEF_ZH":"在大学或学院学习的次要专业领域，所需的学分少于主修。",
+      "SENT_EN":"I chose Political Science as my major and History as my minor.",
+      "SENT_ZH":"我选择政治学作为主修，历史作为辅修。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "major"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"minor in [sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "education",
+        "US English"
+      ],
+      "DEF_EN":"To study a subject as a secondary specialization in college or university.",
+      "DEF_ZH":"在大学里将某一学科作为次要专业（辅修）学习。",
+      "SENT_EN":"She decided to major in Economics and minor in philosophy.",
+      "SENT_ZH":"她决定主修经济学，辅修哲学。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "major"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

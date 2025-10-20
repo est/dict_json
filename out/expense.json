@@ -1,0 +1,95 @@
+{
+  "WORD":"EXPENSE",
+  "IPA":"/ɪkˈspɛns/",
+  "CONJUGATES":"expenses",
+  "ETYMOLOGY":"From Middle English expense, from Old French expense, from Latin expēnsa (feminine singular past participle of expendere 'to weigh out, pay out').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (countable or uncountable)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Finance",
+        "Common"
+      ],
+      "DEF_EN":"The cost required for something; money spent or needed, especially for a particular activity or purpose.",
+      "DEF_ZH":"花费；支出；费用。",
+      "SENT_EN":"We need to analyze all the fixed and variable expenses for the next quarter.",
+      "SENT_ZH":"我们需要分析下一季度的所有固定和可变费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cost",
+            "charge",
+            "expenditure",
+            "outlay"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "income",
+            "revenue",
+            "profit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at the expense of [sb] / [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (used in idiomatic expressions)",
+      "TAGS":[
+        "Idiomatic",
+        "Figurative"
+      ],
+      "DEF_EN":"The loss or sacrifice of something, often used in the context of achieving a goal that harms or neglects something else.",
+      "DEF_ZH":"牺牲；代价（常用于短语“以……为代价”）。",
+      "SENT_EN":"He completed the project quickly, but at the expense of his own health.",
+      "SENT_ZH":"他很快完成了项目，但这是以牺牲他自己的健康为代价的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sacrifice",
+            "detriment",
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expense [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Business Jargon",
+        "Accounting"
+      ],
+      "DEF_EN":"To charge the cost of an expenditure to an account or fund, usually for reimbursement or tax purposes.",
+      "DEF_ZH":"将（某项花费）记入开支；报销。",
+      "SENT_EN":"Make sure to expense the hotel bill before the end of the month.",
+      "SENT_ZH":"确保在月底前报销酒店账单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "debit",
+            "reimburse"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "expend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, General"
+}

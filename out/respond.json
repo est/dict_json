@@ -1,0 +1,84 @@
+{
+  "WORD":"respond",
+  "IPA":"/rɪˈspɒnd/",
+  "CONJUGATES":"responds | responding | responded",
+  "ETYMOLOGY":"From Old French respondre, derived from Latin respondēre (re- 'back, again' + spondēre 'to pledge, promise'), originally meaning 'to promise in return' or 'to answer a summons'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"respond [to sb] [to sth]",
+      "POS":"vit",
+      "POS_TIP":"Verb, intransitive: requires a preposition (to) to take an object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To say, write, or do something in return as a reply or answer.",
+      "DEF_ZH":"回答；回复；作出反应。",
+      "SENT_EN":"He failed to respond to my repeated calls and messages.",
+      "SENT_ZH":"他没有回复我反复打去的电话和信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reply",
+            "answer",
+            "retort",
+            "acknowledge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "response",
+            "responsive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"respond [to sth]",
+      "POS":"vit",
+      "POS_TIP":"Verb, intransitive: requires a preposition (to) to take an object.",
+      "TAGS":[
+        "common",
+        "scientific"
+      ],
+      "DEF_EN":"To react positively or negatively to a stimulus, treatment, drug, or action.",
+      "DEF_ZH":"响应；对（刺激、治疗等）作出反应。",
+      "SENT_EN":"The patient’s cancer is responding well to the immunotherapy.",
+      "SENT_ZH":"病人的癌症对免疫疗法反应良好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "react",
+            "reciprocate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"respond [to a requirement/need]",
+      "POS":"vit",
+      "POS_TIP":"Verb, intransitive: requires a preposition (to) to take an object.",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To act upon or comply with a formal demand or need.",
+      "DEF_ZH":"回应（需求）；满足；履行（义务）。",
+      "SENT_EN":"The company has failed to respond to the urgent need for better security measures.",
+      "SENT_ZH":"该公司未能回应改善安全措施的迫切需求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "address",
+            "comply"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

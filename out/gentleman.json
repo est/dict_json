@@ -1,0 +1,79 @@
+{
+  "WORD":"gentleman",
+  "IPA":"/'dʒɛntlmən/",
+  "CONJUGATES":"gentlemen (plural) | gentlemanly (adjective) | gentlemanliness (noun)",
+  "ETYMOLOGY":"Compound of 'gentle' (from Old French gentil, meaning 'well-born') and 'man'. Originally referring to a man of noble birth, later evolving to denote courtesy.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is a gentleman",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "polite"
+      ],
+      "DEF_EN":"A courteous, chivalrous, and honorable man; a man of good behavior and refinement.",
+      "DEF_ZH":"有礼貌、正直、具有良好品格和修养的男士；绅士。",
+      "SENT_EN":"He offered his coat to the shivering woman, proving himself to be a true gentleman.",
+      "SENT_ZH":"他把外套给了那个瑟瑟发抖的女士，证明他是一位真正的绅士。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sir",
+            "man of honor",
+            "cavalier"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cad",
+            "boor",
+            "scoundrel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Ladies and gentlemen",
+      "POS":"pl. n.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "public address",
+        "formal"
+      ],
+      "DEF_EN":"A respectful term used to address or refer to men, especially in combination with 'ladies'.",
+      "DEF_ZH":"对一群男士（通常与女士们一起）的尊称，用于公共场合的称呼。",
+      "SENT_EN":"The speaker began the announcement with, 'Ladies and gentlemen, welcome to the event.'",
+      "SENT_ZH":"演讲者以“女士们先生们，欢迎来到本次活动”开始了致辞。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a gentleman of means",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "formal"
+      ],
+      "DEF_EN":"Historically, a man of wealth and social status who held a position below a knight but above a yeoman; often referring to someone who does not need to work for a living.",
+      "DEF_ZH":"（旧时用法）有良好社会地位和财产的人，通常指爵位低于骑士但高于自耕农的人，或指无需劳作谋生的人。",
+      "SENT_EN":"Though he had no title, his estate made him a recognized gentleman in the county.",
+      "SENT_ZH":"虽然他没有头衔，但他的地产使他在该郡成为公认的绅士。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gentry",
+            "aristocrat",
+            "nobleman"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often polite or slightly formal."
+}

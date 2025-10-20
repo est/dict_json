@@ -1,0 +1,77 @@
+{
+  "WORD":"quantity",
+  "IPA":"/ˈkwɑːntɪti/",
+  "CONJUGATES":"quantities (plural)",
+  "ETYMOLOGY":"From Old French *quantite*, from Latin *quantitas* ('how large, how much'), from *quantus* ('how much, how great').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"quantity [of sth]",
+      "POS":"n. | n. pl.",
+      "POS_TIP":"noun (countable or uncountable) | noun plural",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A specific or considerable amount, number, or measure of something.",
+      "DEF_ZH":"数量；数额；份量；一批。",
+      "SENT_EN":"We ordered a large quantity of paper for the office.",
+      "SENT_ZH":"我们为办公室订购了大量的纸张。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amount",
+            "number",
+            "volume",
+            "measure",
+            "mass"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bulk",
+            "sum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quantity (uncountable, abstract)",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable, formal)",
+      "TAGS":[
+        "formal",
+        "academic"
+      ],
+      "DEF_EN":"The property of magnitude or multitude that can be measured, compared, or counted (often contrasted with quality).",
+      "DEF_ZH":"量（指事物可测量或计数的属性）；程度。",
+      "SENT_EN":"They argued that the quality of the work matters more than the quantity.",
+      "SENT_ZH":"他们争辩说，工作的质量比数量更重要。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "quality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quantity (linguistics)",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable, technical)",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"The length of time or duration taken to pronounce a vowel or syllable.",
+      "DEF_ZH":"（语音学）音长；元音或音节的时长。",
+      "SENT_EN":"In classical Latin, quantity was a crucial factor in poetic meter.",
+      "SENT_ZH":"在古典拉丁语中，音长是诗歌韵律的一个关键因素。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Business, Academic"
+}

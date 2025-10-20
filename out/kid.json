@@ -1,0 +1,87 @@
+{
+  "WORD":"kid",
+  "IPA":"/kɪd/",
+  "CONJUGATES":"n. kids | v. kidding | v. kidded",
+  "ETYMOLOGY":"From Old Norse kið (young goat), cognate with Old High German kiz. The meaning extended to a child by the 16th century.",
+  "SINCE":"c. 13th Century (young goat) | c. 16th Century (child/person)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"A child or young person.",
+      "DEF_ZH":"小孩；儿童；青少年 (常用于非正式场合)。",
+      "SENT_EN":"We need to hire a babysitter to watch the kids tonight.",
+      "SENT_ZH":"我们今晚需要雇个保姆照看孩子们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "child",
+            "youngster",
+            "juvenile"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "kiddo",
+            "tot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"kid [sb]\nkid [about sth]",
+      "POS":"v.",
+      "POS_TIP":"verb (transitive or intransitive)",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To deceive or tease someone playfully; to speak humorously or jokingly.",
+      "DEF_ZH":"开玩笑；戏弄；取笑。",
+      "SENT_EN":"Don't worry, I'm just kidding you about the deadline.",
+      "SENT_ZH":"别担心，我只是在跟你开关于截止日期的玩笑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tease",
+            "jest",
+            "joke"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "biological",
+        "literal",
+        "less common"
+      ],
+      "DEF_EN":"A young goat.",
+      "DEF_ZH":"小山羊；幼山羊。",
+      "SENT_EN":"The farmer bottle-fed the small kid after its mother rejected it.",
+      "SENT_ZH":"在母羊拒绝后，农夫用奶瓶喂养这只小山羊。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lamb",
+            "calf"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, widely used. Usage referring to a child or joking is highly informal."
+}

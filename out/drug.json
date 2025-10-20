@@ -1,0 +1,110 @@
+{
+  "WORD":"drug",
+  "IPA":"/drʌɡ/",
+  "CONJUGATES":"drugs | drugged | drugging",
+  "ETYMOLOGY":"From Old French drogue (late 14th century), meaning 'a commodity, staple; medical drug'. Possibly from Middle Dutch droge vate 'dry vats' (referring to dry goods), or from an earlier sense of 'dry thing', relating to dried herbs used in medicine.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a drug]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A medicine or other substance which has a physiological effect when ingested or otherwise introduced into the body.",
+      "DEF_ZH":"一种摄入或以其他方式引入体内时会产生生理作用的药物或其他物质。",
+      "SENT_EN":"The doctor prescribed a powerful drug for her pain.",
+      "SENT_ZH":"医生给她开了一种强效止痛药。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "medicine",
+            "medication",
+            "pharmaceutical",
+            "substance",
+            "remedy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a drug]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "informal",
+        "legal"
+      ],
+      "DEF_EN":"An illicit psychoactive substance, especially one that is addictive or mind-altering, often used for recreational purposes.",
+      "DEF_ZH":"一种非法的精神活性物质，尤指具有成瘾性或改变心智的物质，常用于娱乐目的。",
+      "SENT_EN":"He was arrested for possession of illegal drugs.",
+      "SENT_ZH":"他因非法持有毒品被捕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narcotic",
+            "illegal substance",
+            "dope",
+            "junk",
+            "controlled substance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drug [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To administer a drug to (someone or something), often to induce unconsciousness, sleep, or a calm state.",
+      "DEF_ZH":"给（某人或某物）用药，通常是为了使其失去知觉、入睡或保持镇静。",
+      "SENT_EN":"They drugged the dog to keep it calm during the flight.",
+      "SENT_ZH":"他们给狗服了药，让它在飞行中保持镇静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sedate",
+            "medicate",
+            "dope",
+            "stupefy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drug [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "idiomatic"
+      ],
+      "DEF_EN":"To make (food or drink) unpalatable or spoil the flavor of by the addition of some ingredient; to adulterate.",
+      "DEF_ZH":"通过添加某种成分使（食物或饮料）变得难吃或破坏其风味；掺假。",
+      "SENT_EN":"The strong spices drugged the natural flavor of the meat.",
+      "SENT_ZH":"浓烈的香料掩盖了肉的天然风味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adulterate",
+            "spoil",
+            "taint",
+            "mask"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Legal, Informal"
+}

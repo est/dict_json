@@ -1,0 +1,116 @@
+{
+  "WORD":"factor",
+  "IPA":"/ˈfæktər/",
+  "CONJUGATES":"factors | factoring | factored",
+  "ETYMOLOGY":"From Latin factor, meaning 'doer, maker, agent' (from facere 'to make, do'). The mathematical sense developed in the 17th century.",
+  "SINCE":"Late 14th century (general sense); 17th century (mathematical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A circumstance, fact, or influence that contributes to a result or outcome.",
+      "DEF_ZH":"促成某个结果或产出的情况、事实或影响；要素，因素。",
+      "SENT_EN":"Cost was a major factor in the decision to close the plant.",
+      "SENT_ZH":"成本是决定关闭工厂的一个主要因素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "element",
+            "component",
+            "consideration",
+            "determinant"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "variable",
+            "input"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[math]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"A number or quantity that when multiplied with another produces a given number or expression.",
+      "DEF_ZH":"（数学）因数；因子。",
+      "SENT_EN":"Three and four are factors of twelve.",
+      "SENT_ZH":"三和四是十二的因数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divisor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "multiple",
+            "product"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"factor [sth] in\nfactor [sth] into [sth]",
+      "POS":"vtr + adv | vtr + prep",
+      "POS_TIP":"transitive verb + adverb | transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "phrasal verb"
+      ],
+      "DEF_EN":"To include something as a relevant element when making a calculation or decision.",
+      "DEF_ZH":"将某事物纳入（计算或考虑）；把……计算在内。",
+      "SENT_EN":"We need to factor in the time needed for shipping.",
+      "SENT_ZH":"我们需要把运输所需的时间考虑在内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "account for",
+            "consider",
+            "allow for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[business]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"An agent who buys or sells goods on commission; specifically, a financial intermediary that purchases a company's accounts receivable (invoices) at a discount.",
+      "DEF_ZH":"（商业/金融）代理商；保理商（以折扣价购买公司应收账款的金融中介）。",
+      "SENT_EN":"The company used a factor to manage its cash flow by selling its invoices.",
+      "SENT_ZH":"该公司通过出售发票，利用保理商来管理其现金流。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "agent",
+            "broker",
+            "factoring"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in general contexts, mathematics, and finance."
+}

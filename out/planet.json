@@ -1,0 +1,96 @@
+{
+  "WORD":"planet",
+  "IPA":"/ˈplænɪt/",
+  "CONJUGATES":"planets",
+  "ETYMOLOGY":"From Old French planete, from Latin planēta, from Ancient Greek πλανήτης (planḗtēs, 'wanderer'), short for πλανήτης ἀστήρ (planḗtēs astḗr, 'wandering star').",
+  "SINCE":"Late 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "astronomy",
+        "common"
+      ],
+      "DEF_EN":"A celestial body moving in an elliptical orbit around a star, esp. the Sun.",
+      "DEF_ZH":"围绕恒星（特别是太阳）以椭圆形轨道运行的巨大天体。",
+      "SENT_EN":"Earth is the third planet from the Sun.",
+      "SENT_ZH":"地球是离太阳第三近的行星。",
+      "RELATED":[
+        {
+          "T":"hyponyms",
+          "V":[
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "star",
+            "moon",
+            "asteroid",
+            "comet",
+            "galaxy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the planet\nplanet [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"The Earth, considered as a world inhabited by humans.",
+      "DEF_ZH":"地球，作为人类居住的世界。",
+      "SENT_EN":"We need to protect the planet from environmental damage.",
+      "SENT_ZH":"我们需要保护地球免受环境损害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "world",
+            "Earth",
+            "globe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"planet [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "figurative"
+      ],
+      "DEF_EN":"Something that is different, superior, or alien in nature.",
+      "DEF_ZH":"性质不同、优越或陌生的事物（比喻用法）。",
+      "SENT_EN":"He felt like he was on a different planet after moving to the city.",
+      "SENT_ZH":"搬到城市后，他感觉自己仿佛置身于另一个世界。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "realm",
+            "domain",
+            "world"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General vocabulary, especially common in science and environmental discussions."
+}

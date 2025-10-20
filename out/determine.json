@@ -1,0 +1,88 @@
+{
+  "WORD":"determine",
+  "IPA":"/dɪˈtɜːrmɪn/",
+  "CONJUGATES":"determines | determining | determined",
+  "ETYMOLOGY":"From Old French determiner, from Latin dētermināre (dē- 'down, completely' + termināre 'to boundary'), from terminus 'end, boundary'. Originally meant 'to limit, fix limits to'.",
+  "SINCE":"Late Middle English (c. 1350)",
+  "MEANINGS":[
+    {
+      "PATTERN":"determine [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To firmly establish or calculate exactly what something is, often through investigation or calculation.",
+      "DEF_ZH":"确定；查明；算出（事物的性质、数量或原因）。",
+      "SENT_EN":"The doctor ran tests to determine the patient's exact condition.",
+      "SENT_ZH":"医生进行测试以确定病人的准确情况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ascertain",
+            "establish",
+            "identify",
+            "calculate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"determine [to do sth]\ndetermine [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common",
+        "resolve"
+      ],
+      "DEF_EN":"To decide or resolve firmly, especially concerning a course of action.",
+      "DEF_ZH":"决定；下定决心；作出决定。",
+      "SENT_EN":"She determined to save enough money for the trip by the end of the year.",
+      "SENT_ZH":"她下定决心要在年底前为旅行存够钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decide",
+            "resolve",
+            "settle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hesitate",
+            "waver"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] determine [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "influential",
+        "formal"
+      ],
+      "DEF_EN":"To control or decide the nature, outcome, or scope of something.",
+      "DEF_ZH":"支配；决定（事物的性质、结果或范围）。",
+      "SENT_EN":"The number of hours worked will determine the final pay.",
+      "SENT_ZH":"工作的小时数将决定最终的薪水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "govern",
+            "shape",
+            "dictate",
+            "control"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, slightly formal in technical/business contexts."
+}

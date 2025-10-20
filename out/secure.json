@@ -1,0 +1,110 @@
+{
+  "WORD":"secure",
+  "IPA":"/sɪˈkjʊər/",
+  "CONJUGATES":"secures | securing | secured | securely (adv) | security (n) | securer (adj comp) | securest (adj sup)",
+  "ETYMOLOGY":"From Latin sēcūrus, meaning 'free from care', composed of sē- ('without') and cūra ('care'). Later adopted in English as 'safe'.",
+  "SINCE":"Late 15th century (adjective); Mid 17th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is secure",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "safety"
+      ],
+      "DEF_EN":"Protected against danger, threat, loss, or attack; safe.",
+      "DEF_ZH":"免受危险、威胁、损失或攻击的；安全的。",
+      "SENT_EN":"The bank has installed highly secure systems to protect client data.",
+      "SENT_ZH":"银行安装了高度安全的系统来保护客户数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "safe",
+            "protected",
+            "guarded"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insecure",
+            "unsafe",
+            "vulnerable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is secure",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "physical state"
+      ],
+      "DEF_EN":"Fixed or fastened firmly; not liable to fall or be dislodged.",
+      "DEF_ZH":"牢固的；稳固的；不易掉落或松动的。",
+      "SENT_EN":"Make sure that the tent pegs are secure before the storm hits.",
+      "SENT_ZH":"确保在暴风雨来临之前，帐篷钉已牢牢固定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "firm",
+            "stable",
+            "fastened"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"secure [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "acquisition"
+      ],
+      "DEF_EN":"To succeed in obtaining or achieving (something, typically something abstract or difficult to get).",
+      "DEF_ZH":"获得；取得；争取到（通常指抽象或难以获得的东西）。",
+      "SENT_EN":"They worked hard to secure the necessary funding for the project.",
+      "SENT_ZH":"他们努力工作，为该项目争取到了必要的资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obtain",
+            "acquire",
+            "procure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"secure [sth] (from/against [danger])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "protection"
+      ],
+      "DEF_EN":"To make (a place) safe from danger, attack, or damage.",
+      "DEF_ZH":"使（某地）免受危险、攻击或损害；防卫。",
+      "SENT_EN":"The police had to secure the area after the explosion.",
+      "SENT_ZH":"爆炸发生后，警方不得不封锁该区域以确保安全。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protect",
+            "safeguard",
+            "defend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"road",
+  "IPA":"/roʊd/",
+  "CONJUGATES":"roads",
+  "ETYMOLOGY":"From Old English rād 'riding, journey', related to Old English rīdan 'to ride'. The sense shifted from 'a journey' to 'the path of a journey' around the 15th century.",
+  "SINCE":"c. 9th century (as journey/riding); c. 15th century (as paved way)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] road\n[the] road",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A wide way or route, especially one prepared with a hard surface, leading from one place to another and primarily intended for vehicular traffic.",
+      "DEF_ZH":"一条宽阔的路线或通道，特别是铺有硬质表面的，用于连接不同地点并主要供车辆通行。",
+      "SENT_EN":"We drove down the winding country road to the coast.",
+      "SENT_ZH":"我们沿着蜿蜒的乡村道路驱车前往海岸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "highway",
+            "street",
+            "route",
+            "thoroughfare"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "avenue",
+            "lane",
+            "freeway"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the road to [sth]\n[sb] on the road",
+      "POS":"n (figurative)",
+      "POS_TIP":"Noun (Figurative or Idiomatic use)",
+      "TAGS":[
+        "abstract",
+        "idiomatic"
+      ],
+      "DEF_EN":"A course of action, a method, or a sequence of events leading toward a specified goal or outcome; a life journey.",
+      "DEF_ZH":"通往特定目标或结果的行动过程、方法或一系列事件；人生旅程。",
+      "SENT_EN":"The road to recovery after the accident was long and difficult.",
+      "SENT_ZH":"事故后康复的道路漫长而艰难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "path",
+            "journey",
+            "process",
+            "course"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[on the] road",
+      "POS":"n (contextual)",
+      "POS_TIP":"Noun (Contextual)",
+      "TAGS":[
+        "slang",
+        "travel"
+      ],
+      "DEF_EN":"Used to denote travel, touring, or being away from home, especially for work or performance.",
+      "DEF_ZH":"指旅行、巡回演出或出于工作原因离家在外。",
+      "SENT_EN":"The band spent six months on the road promoting their new album.",
+      "SENT_ZH":"乐队花了六个月的时间在巡演中推广他们的新专辑。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "touring",
+            "traveling"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

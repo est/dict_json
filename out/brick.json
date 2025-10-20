@@ -1,0 +1,104 @@
+{
+  "WORD":"brick",
+  "IPA":"/brɪk/",
+  "CONJUGATES":"bricks | bricking | bricked",
+  "ETYMOLOGY":"From Middle Dutch 'brick', perhaps reinforced by Old French 'brique'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] brick [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "material",
+        "construction"
+      ],
+      "DEF_EN":"A block of hard baked clay, usually rectangular, used for building walls, houses, and other structures.",
+      "DEF_ZH":"一种由粘土烧制而成的硬块，通常为矩形，用于建造墙壁、房屋和其他结构。",
+      "SENT_EN":"The house was built entirely of red brick.",
+      "SENT_ZH":"这座房子完全是用红砖建成的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "block",
+            "masonry unit"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "clay",
+            "mortar",
+            "adobe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brick [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "tech",
+        "computing",
+        "modern"
+      ],
+      "DEF_EN":"To render an electronic device completely inoperable, typically due to a software or firmware failure, making it as useless as a brick.",
+      "DEF_ZH":"使电子设备（通常由于软件或固件故障）完全无法运行，变得如同砖头一般毫无用处。",
+      "SENT_EN":"The wrong kind of firmware installation can permanently brick your game console.",
+      "SENT_ZH":"错误的固件安装可能会永久性地使你的游戏机“变砖”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disable",
+            "cripple",
+            "kill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is a brick",
+      "POS":"n. (slang)",
+      "POS_TIP":"noun (countable, often figurative or dated)",
+      "TAGS":[
+        "slang",
+        "informal",
+        "dated",
+        "British"
+      ],
+      "DEF_EN":"A dependable, reliable, and generally good person (often used as an appreciative compliment).",
+      "DEF_ZH":"一个可靠、值得信赖、品格良好的人（常用于赞赏性的恭维）。",
+      "SENT_EN":"Thank you for looking after my children while I was ill; you’re an absolute brick!",
+      "SENT_ZH":"谢谢你在我生病时照顾我的孩子，你真是个大好人！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gem",
+            "star",
+            "trooper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a brick [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"An object, especially a mobile phone, that is notably large, heavy, or blocky.",
+      "DEF_ZH":"一个体积很大、很重或呈块状的物体，特指早期的移动电话。",
+      "SENT_EN":"I found my grandfather’s old cell phone—it’s a real brick.",
+      "SENT_ZH":"我找到了我祖父的旧手机——那真是一个“砖头”。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

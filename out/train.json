@@ -1,0 +1,140 @@
+{
+  "WORD":"train",
+  "IPA":"/treɪn/",
+  "CONJUGATES":"trains | training | trained",
+  "ETYMOLOGY":"From Old French trainer (to drag, draw), from Vulgar Latin traginare, probably derived from Latin trahere (to draw, pull).",
+  "SINCE":"Mid 14th century (verb); Late 16th century (noun, meaning 'succession' or 'rail vehicles')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] train [of cars]",
+      "POS":"n. countable",
+      "POS_TIP":"Noun, describing individual, countable items",
+      "TAGS":[
+        "core word",
+        "transportation"
+      ],
+      "DEF_EN":"A series of connected railroad cars or vehicles pulled by a locomotive, running on tracks.",
+      "DEF_ZH":"一列在轨道上运行的，由机车牵引并相互连接的车辆。",
+      "SENT_EN":"The 8:15 commuter train was delayed due to technical issues.",
+      "SENT_ZH":"由于技术问题，早上8点15分的通勤列车晚点了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "railway",
+            "locomotive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "subway",
+            "metro",
+            "trolley"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"train [sb]\ntrain [sth] | train [for sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive verb | Intransitive verb",
+      "TAGS":[
+        "core word",
+        "education",
+        "sports"
+      ],
+      "DEF_EN":"To teach a person or animal a particular skill, competence, or behavior through instruction and practice.",
+      "DEF_ZH":"通过指导和练习，教授某人或动物特定的技能、能力或行为。",
+      "SENT_EN":"The coach is training the young athletes for the Olympic trials.",
+      "SENT_ZH":"教练正在训练年轻运动员参加奥运选拔赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coach",
+            "instruct",
+            "drill",
+            "educate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "neglect",
+            "misguide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] train [of a gown]",
+      "POS":"n. countable",
+      "POS_TIP":"Noun, describing individual, countable items",
+      "TAGS":[
+        "fashion",
+        "formal"
+      ],
+      "DEF_EN":"The long, trailing section of material at the back of a formal dress or robe.",
+      "DEF_ZH":"正式礼服或长袍后部拖在地面上的长尾部分（裙摆）。",
+      "SENT_EN":"The wedding dress had a beautiful lace train that swept the floor.",
+      "SENT_ZH":"这件婚纱有一个美丽的蕾丝拖尾，拂过地面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trail",
+            "wake"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"train [sth] on [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb followed by a preposition",
+      "TAGS":[
+        "technical",
+        "military"
+      ],
+      "DEF_EN":"To direct or aim a camera, weapon, or other device at a specific point or target.",
+      "DEF_ZH":"将照相机、武器或其他设备对准或瞄准特定的点或目标。",
+      "SENT_EN":"The security personnel trained their spotlights on the suspicious vehicle.",
+      "SENT_ZH":"安保人员将探照灯对准了那辆可疑车辆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aim",
+            "direct",
+            "point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] train [of thought/events]",
+      "POS":"n. countable",
+      "POS_TIP":"Noun, describing individual, countable items",
+      "TAGS":[
+        "idiomatic",
+        "abstract"
+      ],
+      "DEF_EN":"A sequence or succession of things, such as thoughts, events, or actions.",
+      "DEF_ZH":"一系列或一连串的事物（如思想、事件或行动）。",
+      "SENT_EN":"He lost his train of thought when the phone rang.",
+      "SENT_ZH":"电话铃响时，他打断了思路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sequence",
+            "succession",
+            "series"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common usage (both formal and informal)"
+}

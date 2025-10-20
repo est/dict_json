@@ -1,0 +1,138 @@
+{
+  "WORD":"sack",
+  "IPA":"/sæk/",
+  "CONJUGATES":"sacks | sacked | sacking",
+  "ETYMOLOGY":"From Old English *sacc* (bag, sackcloth), ultimately from Latin *saccus* and Greek *sákkos* (large bag), perhaps derived from a Semitic source (compare Hebrew *saq*). The verb meaning 'to dismiss' (late 19th C.) derives from the noun phrase 'get the sack'.",
+  "SINCE":"Before 900 AD (as a bag)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[sth] of [sth]",
+      "POS":"n. countable",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large bag made of coarse cloth, thick paper, or plastic, used for storing or carrying goods.",
+      "DEF_ZH":"粗布、厚纸或塑料制成的，用于储存或运输物品的大袋子；麻袋。",
+      "SENT_EN":"The farmer filled ten sacks with grain before sundown.",
+      "SENT_ZH":"农民在日落前装满了十袋谷物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bag",
+            "pouch",
+            "bale",
+            "gunny"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sack [sb]",
+      "POS":"v. transitive",
+      "POS_TIP":"verb, transitive (takes a direct object)",
+      "TAGS":[
+        "idiomatic",
+        "informal",
+        "UK usage"
+      ],
+      "DEF_EN":"To dismiss someone from employment, usually suddenly or informally.",
+      "DEF_ZH":"解雇；开除（通常指突然解雇）。",
+      "SENT_EN":"The company sacked several employees for repeated poor performance.",
+      "SENT_ZH":"公司因屡次表现不佳而解雇了几名员工。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fire",
+            "dismiss",
+            "terminate",
+            "let go"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hire",
+            "employ",
+            "appoint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get the sack\ngive [sb] the sack",
+      "POS":"n. uncountable | phrase",
+      "POS_TIP":"noun, uncountable or part of a fixed phrase",
+      "TAGS":[
+        "idiomatic",
+        "informal",
+        "UK usage"
+      ],
+      "DEF_EN":"Dismissal from one's job (often used in the phrase 'get the sack').",
+      "DEF_ZH":"被解雇；失去工作（常用于短语get the sack）。",
+      "SENT_EN":"He finally got the sack after arguing with his boss one too many times.",
+      "SENT_ZH":"在与老板争吵太多次之后，他最终被解雇了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dismissal",
+            "firing",
+            "termination"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sack [sth]",
+      "POS":"v. transitive",
+      "POS_TIP":"verb, transitive (takes a direct object)",
+      "TAGS":[
+        "historical",
+        "military"
+      ],
+      "DEF_EN":"To plunder or loot a city or town, typically after capturing it.",
+      "DEF_ZH":"洗劫；劫掠（特指攻占城市后）。",
+      "SENT_EN":"The victorious army proceeded to sack the enemy capital.",
+      "SENT_ZH":"胜利的军队开始洗劫敌方的首都。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pillage",
+            "loot",
+            "plunder",
+            "ransack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sack [sb]",
+      "POS":"v. transitive",
+      "POS_TIP":"verb, transitive (takes a direct object)",
+      "TAGS":[
+        "sports",
+        "US usage",
+        "jargon"
+      ],
+      "DEF_EN":"(American Football) To tackle the quarterback behind the line of scrimmage before they can throw the ball.",
+      "DEF_ZH":"（美式橄榄球）在开球线后抱住或撞倒四分卫（阻止其传球）。",
+      "SENT_EN":"The defensive end managed to sack the quarterback three times during the game.",
+      "SENT_ZH":"这名防守端锋在这场比赛中成功擒杀了四分卫三次。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "QB sack",
+            "fumble"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies widely (Core, Informal UK, Sports, Historical)"
+}

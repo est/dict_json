@@ -1,0 +1,114 @@
+{
+  "WORD":"spider",
+  "IPA":"/ˈspaɪdər/",
+  "CONJUGATES":"spiders (plural) | spider's (possessive) | spiders (v.) | spidering (v.) | spidered (v.)",
+  "ETYMOLOGY":"From Old English spīþra (from Proto-Germanic *spinþrō, related to *spīnan 'to spin'), meaning 'spinner'.",
+  "SINCE":"Before 1100 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] spider",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "animal"
+      ],
+      "DEF_EN":"An eight-legged predatory arachnid, often characterized by its ability to spin silk webs to trap prey.",
+      "DEF_ZH":"一种八条腿的掠食性蛛形纲动物，通常以其织网捕食的能力为特征。",
+      "SENT_EN":"A tiny spider crawled across the ceiling, leaving a thin thread behind.",
+      "SENT_ZH":"一只小蜘蛛爬过天花板，留下了一根细线。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "arachnid",
+            "tarantula",
+            "black widow",
+            "orb-weaver"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] spider [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"A program, also known as a web crawler or bot, that automatically browses the World Wide Web in a methodical, automated manner, typically for web indexing.",
+      "DEF_ZH":"一种程序，也称为网络爬虫或机器人，通常以系统、自动化的方式浏览万维网，主要用于网络索引。",
+      "SENT_EN":"Search engine spiders constantly crawl the internet to update their databases.",
+      "SENT_ZH":"搜索引擎蜘蛛不断地爬行互联网以更新其数据库。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "web crawler",
+            "bot",
+            "indexer"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "search engine",
+            "internet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] spider\n[sth] spider out",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "descriptive",
+        "less common"
+      ],
+      "DEF_EN":"To move or spread out from a central point in a way that resembles a spider's movement or a spider's web.",
+      "DEF_ZH":"从中心点像蜘蛛移动或蜘蛛网一样扩散或蔓延开来。",
+      "SENT_EN":"Fine cracks began to spider across the old porcelain plate.",
+      "SENT_ZH":"细小的裂缝开始像蜘蛛网一样蔓延开来，布满旧瓷盘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spread",
+            "radiate",
+            "branch out",
+            "creep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] spider",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "regional",
+        "historical"
+      ],
+      "DEF_EN":"An old-fashioned cast-iron frying pan or skillet, often with legs, used for cooking over an open fire.",
+      "DEF_ZH":"一种老式的铸铁煎锅或平底锅，通常带支腿，用于在明火上烹饪。",
+      "SENT_EN":"The cowboy heated beans in a heavy cast-iron spider over the campfire.",
+      "SENT_ZH":"牛仔在篝火上用一个沉重的铸铁蜘蛛锅加热豆子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skillet",
+            "frying pan",
+            "pan"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General for animal meaning; Technical for computing meaning; Descriptive for verb meaning; Historical/Regional for cooking utensil meaning."
+}

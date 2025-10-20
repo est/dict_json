@@ -1,0 +1,87 @@
+{
+  "WORD":"neighbourhood",
+  "IPA":"/ˈneɪbəhʊd/",
+  "CONJUGATES":"neighbourhood | neighbourhoods",
+  "ETYMOLOGY":"From Middle English 'neyghborhod', combining 'neyghbor' (neighbour) and the suffix '-hod' (meaning state, condition, or quality).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"neighbourhood",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A district or area of a town or city, especially one with a distinct character or where people live.",
+      "DEF_ZH":"（城镇的）街区，社区，居民区；附近地区。",
+      "SENT_EN":"She grew up in a quiet residential neighbourhood on the outskirts of London.",
+      "SENT_ZH":"她在伦敦郊区一个安静的居民区长大。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "district",
+            "area",
+            "quarter",
+            "community"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "neighborhood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the neighbourhood",
+      "POS":"n",
+      "POS_TIP":"noun (collective)",
+      "TAGS":[
+        "common",
+        "collective"
+      ],
+      "DEF_EN":"The people living in a particular area; the residents of a community.",
+      "DEF_ZH":"邻里，街坊；社区居民。",
+      "SENT_EN":"The whole neighbourhood came out to celebrate the local festival.",
+      "SENT_ZH":"整个社区的居民都出来庆祝当地的节日。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "community",
+            "residents",
+            "locals"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the neighbourhood of [amount/number]",
+      "POS":"phrase",
+      "POS_TIP":"prepositional phrase",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Approximately; around a particular amount or value.",
+      "DEF_ZH":"大约，左右（指数量、价值或范围）。",
+      "SENT_EN":"The repair costs will be in the neighbourhood of £200.",
+      "SENT_ZH":"维修费用大约在200英镑左右。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "approximately",
+            "around",
+            "roughly",
+            "close to"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

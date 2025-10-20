@@ -1,0 +1,110 @@
+{
+  "WORD":"vice",
+  "IPA":"/vaɪs/",
+  "CONJUGATES":"vice (singular) | vices (plural)",
+  "ETYMOLOGY":"For meanings related to moral flaw or bad habit (Meanings 1 & 2): From Old French vice, from Latin vitium ('defect, blemish, imperfection, fault, crime, vice').\nFor the mechanical tool (Meaning 3): From Old French viz, from Latin vitis ('vine'), referring to the screw's spiral shape.\nFor the prefix meaning (Meaning 4): From Old French vis, from Latin vicis ('change, turn, position, substitute').",
+  "SINCE":"Circa 13th century (for the 'moral flaw' meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n. (countable/uncountable)",
+      "POS_TIP":"n. is noun; (countable/uncountable) indicates it can be used as both a countable and uncountable noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal",
+        "moral"
+      ],
+      "DEF_EN":"Immoral or wicked behavior; a particular bad habit or moral flaw.",
+      "DEF_ZH":"不道德或邪恶的行为；特定的坏习惯或道德缺陷。",
+      "SENT_EN":"Gambling is a vice that can destroy lives, but even small vices like nail-biting can be hard to break.",
+      "SENT_ZH":"赌博是一种能毁掉人生的恶习，但即使是咬指甲这样的小毛病也可能很难戒掉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depravity",
+            "iniquity",
+            "immorality",
+            "corruption",
+            "sin",
+            "wickedness",
+            "profligacy",
+            "debauchery",
+            "fault",
+            "failing",
+            "shortcoming",
+            "weakness",
+            "defect",
+            "flaw"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "virtue",
+            "morality",
+            "goodness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n. (countable)",
+      "POS_TIP":"n. is noun; (countable) indicates it is a countable noun.",
+      "TAGS":[
+        "common",
+        "technical",
+        "tool"
+      ],
+      "DEF_EN":"A mechanical screw apparatus used for holding an object firmly, especially in a workshop. (Also spelled 'vise' in American English).",
+      "DEF_ZH":"一种机械螺纹装置，用于牢固地夹持物体，尤其是在车间中。（美式英语中也拼作 'vise'）。",
+      "SENT_EN":"He clamped the metal sheet firmly in the vice before drilling the hole.",
+      "SENT_ZH":"他在钻孔之前，把金属板牢牢地夹在老虎钳里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clamp",
+            "grip",
+            "vise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "workbench",
+            "pliers"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vice [sb] / vice [sth]",
+      "POS":"pref. / n. (countable)",
+      "POS_TIP":"pref. is prefix; n. is noun; (countable) indicates it is a countable noun.",
+      "TAGS":[
+        "common",
+        "formal",
+        "administrative"
+      ],
+      "DEF_EN":"Denoting someone who acts in place of a superior, or is second in command; a deputy or substitute.",
+      "DEF_ZH":"表示代理上级的人，或第二指挥者；副职或替代者。",
+      "SENT_EN":"She was appointed vice chairman of the committee. (As a prefix) / The Vice will take over if the President is absent. (As a rare standalone noun).",
+      "SENT_ZH":"她被任命为委员会的副主席。(作为前缀) / 如果总统缺席，副手将接管。(作为不常见的独立名词)。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deputy",
+            "assistant",
+            "substitute",
+            "interim"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies significantly by meaning: formal or general for moral flaws; technical for the tool; formal and administrative for the deputy/prefix sense."
+}

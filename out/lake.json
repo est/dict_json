@@ -1,0 +1,90 @@
+{
+  "WORD":"lake",
+  "IPA":"/leɪk/",
+  "CONJUGATES":"lakes",
+  "ETYMOLOGY":"From Middle English lak, from Old English lacu (stream, pool), possibly influenced by Old Norse lǫg (water) and Old French lac (from Latin lacus 'basin, reservoir, lake').",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] lake",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "geography",
+        "nature"
+      ],
+      "DEF_EN":"A large body of water surrounded by land, distinct from a river or ocean.",
+      "DEF_ZH":"被陆地环绕的大片水域，有别于河流或海洋。",
+      "SENT_EN":"They rented a small cabin on the shore of the lake for the summer.",
+      "SENT_ZH":"他们在湖岸上租了一间小木屋过夏天。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reservoir",
+            "mere",
+            "loch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pond",
+            "sea",
+            "river"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a lake of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable/uncountable, often figurative)",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A large expanse or quantity of a liquid or substance, especially one resembling water.",
+      "DEF_ZH":"大片的某种液体或物质，尤指类似于水面的广阔区域。",
+      "SENT_EN":"The melted ice had formed a lake of standing water in the basement.",
+      "SENT_ZH":"融化的冰在地下室形成了一滩积水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expanse",
+            "pool",
+            "mass"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a lake pigment",
+      "POS":"n",
+      "POS_TIP":"noun (countable/uncountable, technical)",
+      "TAGS":[
+        "technical",
+        "chemistry",
+        "art"
+      ],
+      "DEF_EN":"An insoluble pigment formed by precipitating a soluble dye using a metallic salt or mordant.",
+      "DEF_ZH":"通过使用金属盐或媒染剂沉淀可溶性染料而形成的不溶性颜料（色淀）。",
+      "SENT_EN":"Carmine is an example of a historically important red lake pigment.",
+      "SENT_ZH":"胭脂红是历史上一种重要的红色色淀颜料的例子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pigment",
+            "dye",
+            "mordant",
+            "colorant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage, formal in geographical contexts."
+}

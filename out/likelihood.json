@@ -1,0 +1,67 @@
+{
+  "WORD":"likelihood",
+  "IPA":"/'laɪklihʊd/",
+  "CONJUGATES":"likelihoods",
+  "ETYMOLOGY":"Formed in Middle English, combining 'likely' (probable) and the suffix '-hood' (state, condition, or quality).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] likelihood [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun, usually uncountable (mass noun), sometimes countable when referring to specific numerical probabilities",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The state or fact of being likely or probable; probability.",
+      "DEF_ZH":"某事发生的可能性或概率；可能的状态。",
+      "SENT_EN":"The likelihood of rain has increased significantly over the past hour.",
+      "SENT_ZH":"在过去一小时内，下雨的可能性显著增加了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "probability",
+            "chance",
+            "prospect",
+            "odds",
+            "possibility"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "improbability",
+            "unlikelihood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] likelihood [function]",
+      "POS":"n",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "technical",
+        "statistics",
+        "mathematics"
+      ],
+      "DEF_EN":"(Statistics) A function that describes the relative probability of observing the data given different values of a statistical parameter.",
+      "DEF_ZH":"(统计学) 似然函数；在给定特定的统计参数的情况下，描述观察数据相对概率的函数。",
+      "SENT_EN":"Researchers used the maximum likelihood estimation method to fit the model.",
+      "SENT_ZH":"研究人员使用了最大似然估计方法来拟合模型。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "estimator",
+            "MLE",
+            "parameter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, frequently found in formal reports, academic writing, and quantitative analysis."
+}

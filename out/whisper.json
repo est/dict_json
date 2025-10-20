@@ -1,0 +1,87 @@
+{
+  "WORD":"whisper",
+  "IPA":"/'wɪspər/",
+  "CONJUGATES":"whispers | whispering | whispered | whispers (noun plural)",
+  "ETYMOLOGY":"From Middle English whisperen, deriving from Old English hwisprian 'to whisper, murmur'. Likely imitative/onomatopoeic.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"whisper (to [sb]\n[sth])",
+      "POS":"v.",
+      "POS_TIP":"Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To speak very softly using only the breath, without the vibration of the vocal cords, often done to convey secrecy or intimacy.",
+      "DEF_ZH":"轻声说话，不用声带振动，常用于表达秘密或亲密。",
+      "SENT_EN":"She leaned in close to him to whisper the scandalous news.",
+      "SENT_ZH":"她凑近他耳边，低声说出了那条丑闻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "murmur",
+            "mutter",
+            "soft-pedal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "shout",
+            "yell",
+            "scream"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a whisper\nthe whisper of [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A soft, low sound made by speaking without vocal cord vibration; also used for faint, soft, rustling sounds.",
+      "DEF_ZH":"一种轻柔、低沉的说话声（无声带振动）；或指微弱、沙沙作响的声音。",
+      "SENT_EN":"The only sound in the library was a faint whisper of turning pages.",
+      "SENT_ZH":"图书馆里唯一的声音是翻书时微弱的沙沙声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "murmur",
+            "rustle",
+            "sibilance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"whisper [sth] (to [sb])",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"To suggest, hint, or convey an idea, feeling, or presence subtly or gently.",
+      "DEF_ZH":"暗示、透露或委婉地传达某种想法或感觉。",
+      "SENT_EN":"A tiny voice in the back of his mind kept whispering doubts.",
+      "SENT_ZH":"他脑海深处的一个微弱的声音不断地暗示着怀疑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hint",
+            "suggest",
+            "insinuate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

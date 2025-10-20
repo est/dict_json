@@ -1,0 +1,113 @@
+{
+  "WORD":"stun",
+  "IPA":"/stʌn/",
+  "CONJUGATES":"stuns | stunning | stunned",
+  "ETYMOLOGY":"From Middle English stunnen, likely from Old French estonner (to astonish, thunderstruck), ultimately from Vulgar Latin *extonare (to thunder). Related to 'astonish'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"stun [sb]\nstun [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To knock someone unconscious or into a dazed or semiconscious state, often by a blow, shock, or noise.",
+      "DEF_ZH":"使（某人）失去知觉；击晕；使目眩",
+      "SENT_EN":"The fall didn't seriously injure him, but it did stun him for a moment.",
+      "SENT_ZH":"这次跌倒没有使他受重伤，但确实让他有一阵子发蒙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "daze",
+            "knock out",
+            "incapacitate",
+            "stupefy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "revive",
+            "awaken"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stun [sb]\nstun [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To shock, overwhelm, or greatly surprise someone, often causing a temporary inability to react or speak.",
+      "DEF_ZH":"使（某人）惊愕；使目瞪口呆；震惊",
+      "SENT_EN":"The announcement of the unexpected merger stunned the financial market.",
+      "SENT_ZH":"宣布这次意外合并的消息震惊了金融市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "astonish",
+            "amaze",
+            "shock",
+            "overwhelm"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "stunning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stun [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "industry specific"
+      ],
+      "DEF_EN":"To render an animal unconscious before slaughter, often using an electric charge or bolt gun for humane killing.",
+      "DEF_ZH":"（屠宰前）使动物休克；电击（使动物暂时麻痹）",
+      "SENT_EN":"Modern regulations require all livestock to be properly stunned before processing.",
+      "SENT_ZH":"现代规定要求所有牲畜在加工前必须被妥善击晕。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "slaughter",
+            "euthanize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stun",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "gaming"
+      ],
+      "DEF_EN":"The temporary state of being incapacitated or dazed, especially used as a game mechanic or effect.",
+      "DEF_ZH":"眩晕（状态）；击晕（效果，尤用于游戏或运动术语）",
+      "SENT_EN":"That enemy ability applies a five-second stun if you don't block it.",
+      "SENT_ZH":"如果你不格挡，那个敌方能力会造成五秒的眩晕。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "debuff",
+            "status effect"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical uses in food processing and specialized uses in gaming."
+}

@@ -1,0 +1,118 @@
+{
+  "WORD":"medium",
+  "IPA":"/'miːdiəm/",
+  "CONJUGATES":"media (plural, often for communication/technical context) | mediums (plural, often for size/spiritual context) | mediumistic (adj)",
+  "ETYMOLOGY":"From Latin medium ('middle, intervening space, means'). Neuter singular of medius ('middle').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"medium [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective: modifies a noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Occupying a middle position, size, or quality between two extremes.",
+      "DEF_ZH":"中等的；适中的（大小、程度、质量）。",
+      "SENT_EN":"I prefer to order a medium coffee rather than a large one.",
+      "SENT_ZH":"我更喜欢点中杯咖啡，而不是大杯的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "average",
+            "intermediate",
+            "moderate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "small",
+            "large",
+            "extreme"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a medium [n] for [communication/transfer]",
+      "POS":"n",
+      "POS_TIP":"noun: names a person, place, or thing",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A means by which something is communicated, transferred, or achieved; a channel.",
+      "DEF_ZH":"媒介；手段；传播途径。",
+      "SENT_EN":"The internet is now the dominant medium for news distribution.",
+      "SENT_ZH":"互联网现在是新闻传播的主要媒介。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "means",
+            "agency",
+            "channel",
+            "vehicle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mass media",
+            "social media"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the medium [n] of [art/expression]",
+      "POS":"n",
+      "POS_TIP":"noun: names a person, place, or thing",
+      "TAGS":[
+        "art",
+        "technical"
+      ],
+      "DEF_EN":"The materials or form used by an artist (e.g., oil paint, bronze, or photography).",
+      "DEF_ZH":"艺术创作的材料或形式（如油画、雕塑）。",
+      "SENT_EN":"Watercolour is a challenging medium to master.",
+      "SENT_ZH":"水彩是一种很难掌握的艺术媒介。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "material",
+            "substance",
+            "form"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a medium [n] (spiritualist)",
+      "POS":"n",
+      "POS_TIP":"noun: names a person, place, or thing",
+      "TAGS":[
+        "spiritual",
+        "specific use"
+      ],
+      "DEF_EN":"A person claiming to have communication with the spirits of the dead.",
+      "DEF_ZH":"灵媒；通灵者。",
+      "SENT_EN":"They hired a medium hoping to contact their late grandfather.",
+      "SENT_ZH":"他们雇了一位灵媒，希望能联系上他们已故的祖父。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seer",
+            "channeler",
+            "clairvoyant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Artistic, Technical, Culinary"
+}

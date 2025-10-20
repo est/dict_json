@@ -1,0 +1,121 @@
+{
+  "WORD":"plate",
+  "IPA":"/pleɪt/",
+  "CONJUGATES":"plates | plating | plated",
+  "ETYMOLOGY":"From Old French plate (flat object, section of armor), ultimately from Vulgar Latin *plattus, from Ancient Greek platús ('wide, flat').",
+  "SINCE":"c. 1300 (armor); c. 1450 (tableware)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "domestic"
+      ],
+      "DEF_EN":"A shallow, usually circular dish from which food is eaten or served.",
+      "DEF_ZH":"盘子；碟子（用于盛放或食用食物的扁平圆形器皿）。",
+      "SENT_EN":"Please make sure to wash your plate after dinner.",
+      "SENT_ZH":"请确保晚饭后洗你的盘子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dish",
+            "saucer",
+            "platter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "measure"
+      ],
+      "DEF_EN":"The amount of food that fills or is served on a plate.",
+      "DEF_ZH":"一盘（的食物量）。",
+      "SENT_EN":"He ate a whole plate of rice and beans.",
+      "SENT_ZH":"他吃了一整盘米饭和豆子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "serving",
+            "dishful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "architecture"
+      ],
+      "DEF_EN":"A thin, flat piece of metal, glass, or other rigid material, often used in construction or machinery.",
+      "DEF_ZH":"板；片；金属板（用于结构、机械或印刷的扁平、薄的刚性材料）。",
+      "SENT_EN":"The building's foundation rests on heavy steel plates.",
+      "SENT_ZH":"这座建筑的地基依靠重型钢板支撑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sheet",
+            "panel",
+            "slab"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plate [sth] (with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "manufacturing",
+        "chemistry"
+      ],
+      "DEF_EN":"To cover an object with a thin layer of metal, often gold, silver, or chrome, usually by electrolysis (electroplating).",
+      "DEF_ZH":"电镀；镀（通常通过电解方法在物体上覆盖一层薄金属）。",
+      "SENT_EN":"The manufacturer plates the cheap metal with a layer of silver.",
+      "SENT_ZH":"制造商用一层银电镀这种廉价金属。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "electroplate",
+            "gold-plate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "automotive",
+        "US English"
+      ],
+      "DEF_EN":"A license plate; the metal sign bearing the registration number of a vehicle.",
+      "DEF_ZH":"牌照；车牌（带有车辆注册号码的金属牌）。",
+      "SENT_EN":"The officer ran the vehicle's plate number immediately.",
+      "SENT_ZH":"警官立即查询了该车辆的牌照号码。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "license plate",
+            "registration plate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Very common"
+}

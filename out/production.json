@@ -1,0 +1,113 @@
+{
+  "WORD":"production",
+  "IPA":"/prəˈdʌkʃən/",
+  "CONJUGATES":"productions",
+  "ETYMOLOGY":"From Late Latin prōductiō (genitive prōductiōnis), from prōdūcere 'to bring forth, produce' (from prō- 'forth' + dūcere 'to lead').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"production of [sth]",
+      "POS":"n. mass noun",
+      "POS_TIP":"n. is a noun; mass noun refers to a noun that cannot be counted or used with indefinite articles",
+      "TAGS":[
+        "core word",
+        "common",
+        "business",
+        "manufacturing"
+      ],
+      "DEF_EN":"The process of making or manufacturing from components or raw materials, or the process of creating something.",
+      "DEF_ZH":"将零部件或原材料加工制造出来，或创造某物的过程。",
+      "SENT_EN":"The company increased its production of electric vehicles by 20%.",
+      "SENT_ZH":"该公司将电动汽车的产量提高了20%。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manufacturing",
+            "making",
+            "creation",
+            "construction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] production\ntotal production",
+      "POS":"n. mass noun",
+      "POS_TIP":"n. is a noun; mass noun refers to a noun that cannot be counted or used with indefinite articles",
+      "TAGS":[
+        "core word",
+        "common",
+        "economics",
+        "statistics"
+      ],
+      "DEF_EN":"The total amount of something that is produced.",
+      "DEF_ZH":"生产出的某物的总量。",
+      "SENT_EN":"Oil production has been increasing steadily in the region.",
+      "SENT_ZH":"该地区的石油产量一直在稳步增长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "output",
+            "yield",
+            "amount produced",
+            "quantity produced"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a production\ntheatre production | film production",
+      "POS":"n. countable noun",
+      "POS_TIP":"n. is a noun; countable noun refers to a noun that can be counted and has a plural form",
+      "TAGS":[
+        "core word",
+        "common",
+        "arts",
+        "entertainment"
+      ],
+      "DEF_EN":"A play, film, broadcast, or recording that has been prepared for public presentation.",
+      "DEF_ZH":"为公开展示而准备的戏剧、电影、广播或录音作品。",
+      "SENT_EN":"She starred in a new theater production that received critical acclaim.",
+      "SENT_ZH":"她主演的一部新戏剧作品获得了评论界的好评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "show",
+            "performance",
+            "play",
+            "film",
+            "movie",
+            "recording"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"means of production\nfactors of production",
+      "POS":"n. mass noun",
+      "POS_TIP":"n. is a noun; mass noun refers to a noun that cannot be counted or used with indefinite articles",
+      "TAGS":[
+        "technical",
+        "economics"
+      ],
+      "DEF_EN":"In economics, the process or economic activity of creating goods and services from raw materials and resources.",
+      "DEF_ZH":"在经济学中，指从原材料和资源中创造商品和服务的经济过程或活动。",
+      "SENT_EN":"The economic theory focuses on the efficient organization of the means of production.",
+      "SENT_ZH":"该经济理论侧重于生产资料的有效组织。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manufacturing process",
+            "economic output",
+            "creation of value"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Business, Arts & Entertainment, Economics"
+}

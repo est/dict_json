@@ -1,0 +1,94 @@
+{
+  "WORD":"slight",
+  "IPA":"/slaɪt/",
+  "CONJUGATES":"slighter | slightest (Adj) | slightly (Adv) | slights | slighting | slighted (V)",
+  "ETYMOLOGY":"From Middle English *slight*, originally meaning 'smooth, slender, or inconsiderable', possibly related to Old Norse *sléttr* (smooth, level). The meaning 'to treat with disregard' developed around the 16th century.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is slight",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Small in amount, degree, or extent; inconsiderable or minor.",
+      "DEF_ZH":"轻微的；微小的；不重要的。",
+      "SENT_EN":"We experienced a slight delay due to unexpected traffic.",
+      "SENT_ZH":"由于突如其来的交通堵塞，我们经历了一点轻微的延误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minor",
+            "minimal",
+            "trifling"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "major",
+            "significant",
+            "considerable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slight [sb]\nslight [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To treat (someone or something) with disrespect or indifference; to insult by ignoring or neglecting.",
+      "DEF_ZH":"轻视；怠慢；不予理睬或忽视（某人或某事）。",
+      "SENT_EN":"She felt slighted when the CEO walked past without acknowledging her.",
+      "SENT_ZH":"当首席执行官走过而没有理睬她时，她感到被怠慢了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snub",
+            "disregard",
+            "disrespect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "compliment",
+            "praise",
+            "honor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a slight",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"An act or instance of treating someone disrespectfully, often by neglecting or ignoring them.",
+      "DEF_ZH":"轻视（或怠慢）的行为；冷落。",
+      "SENT_EN":"He took the omission of his contribution from the report as a deliberate slight.",
+      "SENT_ZH":"他认为报告中故意遗漏他的贡献是一种故意的轻视。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insult",
+            "offense",
+            "discourtesy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in both formal and informal contexts."
+}

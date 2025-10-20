@@ -1,0 +1,69 @@
+{
+  "WORD":"committee",
+  "IPA":"/kəˈmɪti/",
+  "CONJUGATES":"committees (plural)",
+  "ETYMOLOGY":"From Middle French comité (commission, entourage), from Latin committere (to commit, entrust), past participle of committō. Entered English via the structure of legislative bodies, especially in Parliament.",
+  "SINCE":"15th century (general sense), mid-17th century (specialized sense of a governing body)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] form a committee\ncommittee [of sb]",
+      "POS":"n (countable)",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "organization"
+      ],
+      "DEF_EN":"A group of people officially delegated to perform a specific function, such as investigating, considering, reporting on, or managing something, often within a larger organization.",
+      "DEF_ZH":"被正式委派执行特定职能（如调查、审议、报告或管理）的一群人；委员会；专门小组。",
+      "SENT_EN":"The audit committee meets once a month to review the company’s financial statements.",
+      "SENT_ZH":"审计委员会每月开会一次，审查公司的财务报表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "board",
+            "panel",
+            "commission",
+            "council",
+            "task force",
+            "working group"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chairperson",
+            "agenda",
+            "quorum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"committee [of sb/sth]",
+      "POS":"n (countable)",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "legal",
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"(Law, historically or archaic) A person or group appointed by a court to manage the affairs, estate, or person of someone judged incompetent (such as a minor or a person of unsound mind).",
+      "DEF_ZH":"（法律，历史或古旧用法）由法院指定管理无行为能力者（如未成年人或精神失常者）的事务、财产或人身的监护人或托管人。",
+      "SENT_EN":"Following the ruling, the court appointed a committee to oversee the lunatic’s finances.",
+      "SENT_ZH":"裁决后，法院指定了一个托管人来监督该精神病患者的财务状况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guardian",
+            "conservator",
+            "trustee"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Political, Business, Academic"
+}

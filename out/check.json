@@ -1,0 +1,131 @@
+{
+  "WORD":"check",
+  "IPA":"/tʃɛk/",
+  "CONJUGATES":"checks | checking | checked",
+  "ETYMOLOGY":"Middle English 'chek', derived from Old French 'echec', related to the game of chess, ultimately from Persian 'šāh' ('king'), implying a 'stop' or 'threat' (as in checkmate).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"check [sth]\ncheck [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To examine, inspect, or verify the condition, accuracy, or suitability of someone or something.",
+      "DEF_ZH":"检查；核对；审查；确保正确或满意",
+      "SENT_EN":"Did you check the flight status before leaving for the airport?",
+      "SENT_ZH":"你在去机场前检查航班状态了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examine",
+            "verify",
+            "inspect",
+            "review"
+          ]
+        },
+        {
+          "T":"phrasal verbs",
+          "V":[
+            "check up on",
+            "check out",
+            "check in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a check",
+      "POS":"ncu",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An examination or inspection to ensure something is correct or satisfactory.",
+      "DEF_ZH":"检查；核查；检验（的行动或结果）",
+      "SENT_EN":"The maintenance team performs a safety check every morning.",
+      "SENT_ZH":"维护团队每天早上都会进行一次安全检查。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "double-check",
+            "spot check",
+            "background check"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a check",
+      "POS":"ncu",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "finance",
+        "US English"
+      ],
+      "DEF_EN":"A written order instructing a bank to pay a specific sum of money from the payer's account to the payee (UK equivalent: cheque).",
+      "DEF_ZH":"支票（一种银行付款凭证）",
+      "SENT_EN":"I need to deposit this paycheck before I can pay the rent.",
+      "SENT_ZH":"我需要存入这张薪水支票才能支付租金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cheque (UK)",
+            "cashier's check"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"check [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object",
+      "TAGS":[
+        "formal",
+        "old usage"
+      ],
+      "DEF_EN":"To stop or slow the movement, growth, or progress of something; restrain.",
+      "DEF_ZH":"阻止；抑制；遏制（运动或发展）",
+      "SENT_EN":"The government attempted to check the spread of the virus with strict quarantines.",
+      "SENT_ZH":"政府试图通过严格的隔离来遏制病毒的传播。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "halt",
+            "restrain",
+            "curb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"check (in chess)",
+      "POS":"ncu",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "chess",
+        "gaming"
+      ],
+      "DEF_EN":"A direct attack on the opponent's king in the game of chess, requiring the opponent to immediately defend the king.",
+      "DEF_ZH":"将 (国际象棋中对王棋的威胁)",
+      "SENT_EN":"If you move your bishop there, it will put the black king in check.",
+      "SENT_ZH":"如果你把主教移到那里，黑王就会处于被将状态。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "checkmate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across all registers, though the financial noun usage varies geographically (US vs UK)."
+}

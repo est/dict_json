@@ -1,0 +1,98 @@
+{
+  "WORD":"presume",
+  "IPA":"/prɪˈzjuːm/",
+  "CONJUGATES":"presumes | presuming | presumed",
+  "ETYMOLOGY":"From Old French presumer, from Latin praesumere 'to anticipate, take in advance', from prae- 'before' + sumere 'to take'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"presume [that clause] / presume [sth]",
+      "POS":"v.",
+      "POS_TIP":"verb: an action word",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To suppose that something is true, or to assume a particular fact without proof until there is evidence to the contrary.",
+      "DEF_ZH":"假定；推定；设想（在没有证据反驳之前认为某事属实）。",
+      "SENT_EN":"I presume that you are familiar with the rules.",
+      "SENT_ZH":"我推想你对这些规则是很熟悉的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assume",
+            "suppose",
+            "conjecture",
+            "infer",
+            "deduce"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "prove",
+            "disbelieve",
+            "doubt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"presume to do [sth] / presume on/upon [sth/sb]",
+      "POS":"v.",
+      "POS_TIP":"verb: an action word",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To be bold enough to do something without having the right or permission; or to take advantage of someone's trust, kindness, or generosity.",
+      "DEF_ZH":"冒昧地做…；（尤指对信任或好意）利用；滥用。",
+      "SENT_EN":"I wouldn't presume to tell you how to do your job.",
+      "SENT_ZH":"我不敢冒昧地指点你如何工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dare",
+            "venture",
+            "overstep",
+            "take liberties",
+            "take advantage of"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "refrain",
+            "hesitate",
+            "respect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"presume [sb] to be [sth] (legal context)",
+      "POS":"v.",
+      "POS_TIP":"verb: an action word",
+      "TAGS":[
+        "specific",
+        "legal"
+      ],
+      "DEF_EN":"(Law) To assume as true in the absence of proof to the contrary, often establishing a legal presumption.",
+      "DEF_ZH":"（法律）推定…为真；假定（某人在没有反证的情况下为某事）。",
+      "SENT_EN":"The law presumes a person innocent until proven guilty.",
+      "SENT_ZH":"法律推定一个人在被证明有罪之前是无辜的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deem",
+            "legally assume"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard; can be formal in certain contexts."
+}

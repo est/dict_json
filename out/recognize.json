@@ -1,0 +1,110 @@
+{
+  "WORD":"recognize",
+  "IPA":"/ˈrɛkəɡnaɪz/",
+  "CONJUGATES":"recognizes | recognizing | recognized",
+  "ETYMOLOGY":"From Middle English recognisen, from Old French reconnoistre (influenced by alteration with Latin), ultimately from Latin recognoscere (re- 'again' + cognoscere 'know, ascertain').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"recognize [sb]\nrecognize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To know or identify someone or something from having encountered them before.",
+      "DEF_ZH":"认出；识别（基于先前的经验或了解）。",
+      "SENT_EN":"I recognized her voice immediately, even after so many years.",
+      "SENT_ZH":"即使这么多年过去了，我还是立刻认出了她的声音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identify",
+            "recall",
+            "place"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misidentify",
+            "forget"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recognize [sth]\nrecognize that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To acknowledge or accept the existence, validity, or truth of something.",
+      "DEF_ZH":"承认；认可（某事物或事实的真实性、合法性）。",
+      "SENT_EN":"The UN member states decided to recognize the newly formed government.",
+      "SENT_ZH":"联合国成员国决定承认新成立的政府。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acknowledge",
+            "accept",
+            "validate",
+            "sanction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recognize [sb] for [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"verb, transitive + preposition",
+      "TAGS":[
+        "appreciation",
+        "achievement"
+      ],
+      "DEF_EN":"To show appreciation or honor for someone's achievement, service, or merit.",
+      "DEF_ZH":"赞扬；表彰（功绩或贡献）。",
+      "SENT_EN":"The company recognized the team for their exceptional performance this quarter.",
+      "SENT_ZH":"公司表彰了团队本季度出色的表现。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commend",
+            "honor",
+            "reward",
+            "praise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recognize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "cognitive"
+      ],
+      "DEF_EN":"To perceive or realize mentally; to become aware of.",
+      "DEF_ZH":"意识到；认识到（事物的本质或重要性）。",
+      "SENT_EN":"We recognized the pattern of corruption almost immediately.",
+      "SENT_ZH":"我们几乎立刻就认识到了腐败的模式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "realize",
+            "understand",
+            "grasp"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal"
+}

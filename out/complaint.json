@@ -1,0 +1,87 @@
+{
+  "WORD":"complaint",
+  "IPA":"/kəmˈpleɪnt/",
+  "CONJUGATES":"complaints",
+  "ETYMOLOGY":"From Old French complainte (a lamentation), past participle of complaindre (to lament), from Latin complangere (to lament loudly), from con- (intensive) + plangere (to strike, beat, lament).",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] complaint [about sth]\n[that]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A formal or informal statement that something is unsatisfactory, unacceptable, or otherwise problematic.",
+      "DEF_ZH":"对某事不满意、不可接受或存在问题的正式或非正式声明。",
+      "SENT_EN":"We received numerous complaints about the poor quality of the service.",
+      "SENT_ZH":"我们收到了许多关于服务质量差的投诉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grievance",
+            "protest",
+            "objection",
+            "displeasure"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "complain",
+            "complainant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] complaint",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"In law, the first pleading made by the plaintiff in a civil action, which states the facts on which the claim is based and the relief sought.",
+      "DEF_ZH":"在法律中，民事诉讼中原告提出的第一份诉状，其中说明了索赔所依据的事实和要求获得的补救措施。",
+      "SENT_EN":"The defense counsel moved to dismiss the original complaint.",
+      "SENT_ZH":"辩护律师要求驳回最初的诉状。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indictment",
+            "petition",
+            "allegation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] complaint",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "medical",
+        "less common"
+      ],
+      "DEF_EN":"An illness or medical condition, usually a minor or recurring one.",
+      "DEF_ZH":"一种疾病或医疗状况，通常是轻微或反复发作的病痛。",
+      "SENT_EN":"She was diagnosed with a minor stomach complaint.",
+      "SENT_ZH":"她被诊断出患有轻微的胃病。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ailment",
+            "disorder",
+            "malady"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often used formally in business and legal contexts."
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"search",
+  "IPA":"/sɜːrtʃ/",
+  "CONJUGATES":"searches | searching | searched",
+  "ETYMOLOGY":"From Old French cerchier (to look for), ultimately from Late Latin circare (to go around, traverse), related to circus (circle).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"search [a place/person]\nsearch [for sth/sb]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To look through or examine carefully and systematically in order to find something or someone.",
+      "DEF_ZH":"仔细或系统地检查以找到某物或某人；搜寻，查找。",
+      "SENT_EN":"The police searched the vehicle thoroughly after receiving the tip.",
+      "SENT_ZH":"警方在接到线报后彻底搜查了那辆车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "look for",
+            "hunt for",
+            "seek",
+            "examine"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignore",
+            "overlook"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a search [for sth/sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act of looking carefully for something or someone.",
+      "DEF_ZH":"搜寻、查找的行为或过程；搜捕。",
+      "SENT_EN":"The rescue team called off the search after three days.",
+      "SENT_ZH":"救援队在三天后取消了搜救。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hunt",
+            "quest",
+            "inspection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"search [the internet/database]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "computing",
+        "modern use"
+      ],
+      "DEF_EN":"To look for information electronically, typically using keywords or a search engine.",
+      "DEF_ZH":"在计算机系统、数据库或互联网上查找信息（通常使用关键词）。",
+      "SENT_EN":"If you don't know the answer, just search for it online.",
+      "SENT_ZH":"如果你不知道答案，直接在网上搜索一下。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Google",
+            "query",
+            "lookup"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly common in computing, law enforcement, and research contexts."
+}

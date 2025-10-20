@@ -1,0 +1,104 @@
+{
+  "WORD":"maintain",
+  "IPA":"/meɪnˈteɪn/",
+  "CONJUGATES":"maintains | maintaining | maintained",
+  "ETYMOLOGY":"From Middle English mainteinen, from Old French maintenir, ultimately from Latin manu tenere ('to hold in the hand'), from manus ('hand') and tenere ('to hold').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"maintain [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To keep something in a good condition or working order through regular repair and care.",
+      "DEF_ZH":"维护；保养；维修（使处于良好状态）。",
+      "SENT_EN":"It is costly to maintain a vintage car.",
+      "SENT_ZH":"保养一辆老爷车的成本很高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "service",
+            "preserve",
+            "uphold",
+            "keep up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"maintain [sth] (e.g., speed, level, state)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To keep something at the same standard, level, or pace; to continue a situation or condition.",
+      "DEF_ZH":"保持；维持（水平、速度、状态等）。",
+      "SENT_EN":"The pilot struggled to maintain altitude during the storm.",
+      "SENT_ZH":"飞行员在暴风雨中努力保持高度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sustain",
+            "continue",
+            "perpetuate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"maintain [that] [clause]\nmaintain [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To state strongly that something is true; to assert a belief or position, often in the face of disagreement.",
+      "DEF_ZH":"坚称；坚持认为；主张（观点或事实）。",
+      "SENT_EN":"The defendant maintained his innocence despite overwhelming evidence.",
+      "SENT_ZH":"尽管证据确凿，被告仍坚称自己是无辜的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assert",
+            "contend",
+            "allege",
+            "declare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"maintain [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "dated"
+      ],
+      "DEF_EN":"To provide financial or material support necessary for someone's living.",
+      "DEF_ZH":"供养；赡养；支持某人的生计。",
+      "SENT_EN":"He was legally required to maintain his children after the divorce.",
+      "SENT_ZH":"离婚后，他被法律要求供养他的孩子们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "support",
+            "foster",
+            "provide for"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly common in technical and formal contexts."
+}

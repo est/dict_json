@@ -1,0 +1,107 @@
+{
+  "WORD":"queue",
+  "IPA":"/kjuː/",
+  "CONJUGATES":"queues | queued | queuing | queueing",
+  "ETYMOLOGY":"From Old French cue, coe 'tail', from Latin cōda (a variant of cauda 'tail'). Applied to a line of people by analogy to a plait of hair or a tail.",
+  "SINCE":"c. 1540 (originally referring to a pigtail); c. 1837 (referring to a line of people)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a queue of [sb]\nwait in a queue",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "British English"
+      ],
+      "DEF_EN":"A line or sequence of people, vehicles, or items waiting their turn for something.",
+      "DEF_ZH":"（人或车辆）队，行列；长队。",
+      "SENT_EN":"There was a massive queue stretching outside the bank.",
+      "SENT_ZH":"银行外面排着长长的队伍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "line",
+            "file",
+            "row"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "stand in line"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"queue [up] for [sth]",
+      "POS":"v",
+      "POS_TIP":"Verb (intransitive)",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Action"
+      ],
+      "DEF_EN":"To form or stand in a line while waiting for something.",
+      "DEF_ZH":"排队；排队等候。",
+      "SENT_EN":"We queued up for an hour to buy the tickets.",
+      "SENT_ZH":"我们排队排了一个小时才买到票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "line up",
+            "wait in line"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"processing queue\nprint queue",
+      "POS":"n",
+      "POS_TIP":"Noun (countable/uncountable)",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"An ordered list of items, such as data or tasks, awaiting processing in sequence (often first-in, first-out).",
+      "DEF_ZH":"（计算机）队列；等待处理的数据或任务序列。",
+      "SENT_EN":"The print jobs are held in a queue until the printer is free.",
+      "SENT_ZH":"打印作业被保存在队列中，直到打印机空闲。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "FIFO",
+            "stack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wear a queue",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Historical",
+        "Literary"
+      ],
+      "DEF_EN":"A braid of hair hanging down the back; a pigtail.",
+      "DEF_ZH":"辫子；发辫（尤指清朝男子的发辫）。",
+      "SENT_EN":"The soldier wore his long hair tied back in a queue.",
+      "SENT_ZH":"这位士兵把他的长发扎成辫子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pigtail",
+            "plait"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

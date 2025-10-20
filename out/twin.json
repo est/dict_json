@@ -1,0 +1,92 @@
+{
+  "WORD":"twin",
+  "IPA":"/twɪn/",
+  "CONJUGATES":"twins | twinning | twinned",
+  "ETYMOLOGY":"From Old English getwinn 'twin', derived from the root related to two. Cognate with Old Norse tvinna 'to double, pair'.",
+  "SINCE":"c. 900 CE (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "human"
+      ],
+      "DEF_EN":"Either of two children or animals born to the same mother at the same time.",
+      "DEF_ZH":"双胞胎；孪生子/女；孪晶",
+      "SENT_EN":"My cousin gave birth to fraternal twins last month.",
+      "SENT_ZH":"我表姐上个月生了一对异卵双胞胎。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "triplet",
+            "quadruplet",
+            "sibling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A person or thing that resembles another closely, or is the exact duplicate of another.",
+      "DEF_ZH":"极其相似的人或物；翻版；复制品",
+      "SENT_EN":"The small country town was the architectural twin of its neighbor across the river.",
+      "SENT_ZH":"那个小镇是河对岸邻镇的建筑翻版。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "double",
+            "duplicate",
+            "match",
+            "clone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Forming a pair; having two closely linked or corresponding parts.",
+      "DEF_ZH":"成对的；双重的；双体的",
+      "SENT_EN":"The building features two twin towers dominating the skyline.",
+      "SENT_ZH":"这座建筑拥有两座主宰天际线的双子塔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "paired",
+            "duo",
+            "double"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"twin [sth] (with [sth])\ntwin",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "technical",
+        "less common"
+      ],
+      "DEF_EN":"To couple, join, or combine two things together; (in crystallography) to grow as a twinned crystal structure.",
+      "DEF_ZH":"使成双；结合；（晶体学）形成孪晶",
+      "SENT_EN":"The technician twinned the fiber optic cables before splicing them.",
+      "SENT_ZH":"技术人员在接合光纤电缆之前，将它们绞合成双股。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, everyday language."
+}

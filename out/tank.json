@@ -1,0 +1,122 @@
+{
+  "WORD":"tank",
+  "IPA":"/tæŋk/",
+  "CONJUGATES":"tanks | tanking | tanked",
+  "ETYMOLOGY":"For the container meaning (c. 1610s), likely from Gujarati or Marathi tānkh, meaning 'cistern, reservoir,' possibly influenced by Portuguese tanque. For the military vehicle meaning (1915), the term was used as a secrecy code word during WWI, as the vehicles were disguised as large water carriers.",
+  "SINCE":"c. 1610s (container) | 1915 (military vehicle)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] tank",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "technology"
+      ],
+      "DEF_EN":"A large, heavy armored fighting vehicle, typically equipped with a large gun and machine guns, and designed to move on continuous tracks.",
+      "DEF_ZH":"一种大型重型装甲战车，通常配备大炮和机枪，并使用连续履带行驶。",
+      "SENT_EN":"The military deployed three main battle tanks to support the forward operating base.",
+      "SENT_ZH":"军方部署了三辆主战坦克来支援前线行动基地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "armored vehicle",
+            "battle wagon"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Panzer",
+            "M1 Abrams"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] tank [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "container"
+      ],
+      "DEF_EN":"A large receptacle or container for holding liquids or gases, such as fuel, water, or chemicals.",
+      "DEF_ZH":"用于储存液体或气体（如燃料、水或化学品）的大型容器、水箱或储藏室。",
+      "SENT_EN":"I stopped at the station to fill up the gas tank.",
+      "SENT_ZH":"我在加油站停下来把油箱加满。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reservoir",
+            "cistern",
+            "vat",
+            "container"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tank [v]",
+      "POS":"vi.",
+      "POS_TIP":"Verb Intransitive",
+      "TAGS":[
+        "common",
+        "slang",
+        "business",
+        "sports"
+      ],
+      "DEF_EN":"To fail completely; to decline suddenly and disastrously, especially in price or performance.",
+      "DEF_ZH":"彻底失败；急剧且灾难性地下降（尤指价格、市场或业绩）。",
+      "SENT_EN":"The home team's performance tanked in the second half of the season.",
+      "SENT_ZH":"该主队在赛季后半段的表现一泻千里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crash",
+            "plummet",
+            "fail",
+            "bomb"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "soar",
+            "succeed",
+            "boom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] tank\nplay [the] tank",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specific",
+        "gaming",
+        "jargon"
+      ],
+      "DEF_EN":"(In role-playing games and video games) A character or unit designed primarily to absorb enemy damage and divert aggression, protecting weaker members of the group.",
+      "DEF_ZH":"（在电子游戏或角色扮演游戏中）指主要负责吸引敌方火力、吸收伤害、以保护团队中其他成员的角色。",
+      "SENT_EN":"We can't start the boss fight until our tank is healed.",
+      "SENT_ZH":"我们的主坦克没有治疗好之前，不能开始打首领战。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "DPS",
+            "healer",
+            "aggro"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, military, engineering, and slang/informal (for the verb meaning)."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"portion",
+  "IPA":"/ˈpɔːrʃən/",
+  "CONJUGATES":"portions | portioned | portioning",
+  "ETYMOLOGY":"From Old French porcion, from Latin portio (stem portion-), meaning 'share, part'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a portion] of [sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A part of a larger whole; an allocated share or quota.",
+      "DEF_ZH":"整体中的一部分；被分配的份额或定额。",
+      "SENT_EN":"Only a small portion of the budget was allocated to maintenance.",
+      "SENT_ZH":"预算中只有一小部分被分配用于维护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "part",
+            "share",
+            "segment",
+            "quota"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "percentage",
+            "fraction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a portion] of [food/drink]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "culinary",
+        "common"
+      ],
+      "DEF_EN":"An amount of food or drink served to one person; a serving size.",
+      "DEF_ZH":"供一个人食用的食物或饮料的量；份量。",
+      "SENT_EN":"The restaurant is famous for its generous portions of pasta.",
+      "SENT_ZH":"这家餐厅以其大份量的意大利面而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "serving",
+            "helping",
+            "plateful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"portion [sth] (out) (to [sb])",
+      "POS":"vtr + (adv) + (prep)",
+      "POS_TIP":"transitive verb + (adverb) + (preposition)",
+      "TAGS":[
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To divide or allocate something into shares or parts, especially systematically.",
+      "DEF_ZH":"将某物（尤其是有条理地）分割或分配成若干份额。",
+      "SENT_EN":"The treasurer was instructed to portion out the remaining funds equally.",
+      "SENT_ZH":"司库被指示将剩余的资金平均分配。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apportion",
+            "distribute",
+            "divide",
+            "dole out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in culinary and administrative contexts."
+}

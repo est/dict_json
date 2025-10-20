@@ -1,0 +1,85 @@
+{
+  "WORD":"magazine",
+  "IPA":"/ˌmæɡəˈziːn/",
+  "CONJUGATES":"magazines",
+  "ETYMOLOGY":"From Middle French magasin ('storehouse, shop'), from Italian magazzino, ultimately derived from Arabic makhāzin (plural of makhzan, 'storehouse, depot'). The meaning shifted from a military storehouse to a publication containing a miscellany of stored articles in the 18th century.",
+  "SINCE":"c. 1583 (storehouse meaning); c. 1731 (periodical meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (名詞)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A periodical publication containing articles, stories, and photographs, typically published weekly or monthly.",
+      "DEF_ZH":"包含文章、故事和照片的期刊出版物，通常按周或月发行。",
+      "SENT_EN":"She subscribes to several science and art magazines.",
+      "SENT_ZH":"她订阅了好几本科学和艺术杂志。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "periodical",
+            "journal",
+            "glossy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ezine",
+            "pamphlet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (名詞)",
+      "TAGS":[
+        "technical",
+        "firearms"
+      ],
+      "DEF_EN":"A chamber or container in a firearm that holds a supply of cartridges and feeds them into the gun's firing chamber.",
+      "DEF_ZH":"枪支中用于容纳弹药筒并将其送入弹膛的容器或装置；弹夹，弹匣。",
+      "SENT_EN":"He quickly swapped the empty magazine for a loaded one.",
+      "SENT_ZH":"他迅速将空弹匣换成了一个装满子弹的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clip",
+            "cartridge holder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (名詞)",
+      "TAGS":[
+        "military",
+        "historical"
+      ],
+      "DEF_EN":"A storehouse or repository for military arms, ammunition, or explosives.",
+      "DEF_ZH":"用于储存军火、弹药或爆炸物的仓库或军火库。",
+      "SENT_EN":"The attackers targeted the main powder magazine of the fortress.",
+      "SENT_ZH":"袭击者瞄准了堡垒的主要火药库。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arsenal",
+            "depot",
+            "armoury"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

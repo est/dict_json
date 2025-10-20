@@ -1,0 +1,87 @@
+{
+  "WORD":"frank",
+  "IPA":"/fræŋk/",
+  "CONJUGATES":"franker | frankest | frankly | frankness | franks | franked | franking",
+  "ETYMOLOGY":"From Old French franc ('free, noble, sincere, open'), ultimately derived from the Germanic tribal name Frank, referring to their status as free men.",
+  "SINCE":"c. 1300 AD (adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is frank\na frank [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Open, honest, and direct in speech or writing, often even when the truth is difficult or uncomfortable.",
+      "DEF_ZH":"坦诚的；直率的；诚实的（尤其指涉及敏感或困难话题时）。",
+      "SENT_EN":"To be frank with you, I don't think that solution will work.",
+      "SENT_ZH":"坦白地说，我不认为那个解决方案会奏效。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "candid",
+            "honest",
+            "direct",
+            "outspoken"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "evasive",
+            "guarded",
+            "secretive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"frank [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires direct object)",
+      "TAGS":[
+        "official",
+        "post office"
+      ],
+      "DEF_EN":"To mark a letter or package with an official signature or stamp indicating that postage has been paid or is not required (often used for official or government mail).",
+      "DEF_ZH":"盖邮戳（表示已付邮资或免邮资，尤指官方信件）；免费寄送。",
+      "SENT_EN":"The senator had the envelope franked before it was sent out.",
+      "SENT_ZH":"这名参议员在信封寄出前为其盖上了免邮戳。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "postage",
+            "mail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a Frank\nthe Franks",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"A member of the Germanic people who established a large kingdom in Western Europe in the 5th to 9th centuries, eventually forming the basis of modern France and Germany.",
+      "DEF_ZH":"法兰克人（一个日耳曼民族成员，在5至9世纪建立了西欧大帝国，是现代法国和德国的基础）。",
+      "SENT_EN":"Charlemagne, King of the Franks, founded the Carolingian Empire.",
+      "SENT_ZH":"法兰克国王查理曼建立了加洛林帝国。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Germanic",
+            "Gaul",
+            "French"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage (Adjective); Official/Historical (Verb/Noun)"
+}

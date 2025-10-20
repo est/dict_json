@@ -1,0 +1,95 @@
+{
+  "WORD":"majority",
+  "IPA":"/məˈdʒɒrɪti/",
+  "CONJUGATES":"majorities",
+  "ETYMOLOGY":"From Late Latin majoritas ('superiority, status of being greater'), derived from Latin major ('greater'), comparative of magnus ('great').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] majority [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (usually singular)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The greater number or part; a number or quantity that is more than half of a total.",
+      "DEF_ZH":"多数；大多数；超过半数的数量或部分。",
+      "SENT_EN":"The majority of the committee members approved the budget proposal.",
+      "SENT_ZH":"委员会的大多数成员批准了该预算提案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "most",
+            "bulk",
+            "preponderance",
+            "mass"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "minority",
+            "few"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] majority [of votes/seats]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "political",
+        "statistical"
+      ],
+      "DEF_EN":"The difference between the number of votes or seats received by the winning side and the total number received by the losing side(s) or the next largest group.",
+      "DEF_ZH":"多数票；优势票数；多数席位（获胜方比失败方多出的票数或席位数）。",
+      "SENT_EN":"The candidate won by a large majority of over 20,000 votes.",
+      "SENT_ZH":"该候选人以超过20,000张选票的巨大优势获胜。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "plurality",
+            "supermajority",
+            "absolute majority"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reach [one's] majority",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable, formal)",
+      "TAGS":[
+        "legal",
+        "formal",
+        "old use"
+      ],
+      "DEF_EN":"The age at which a person is legally deemed to be an adult, capable of managing their own affairs (usually 18 or 21).",
+      "DEF_ZH":"法定成年年龄；成年状态。",
+      "SENT_EN":"He will not gain control of the trust fund until he reaches his majority.",
+      "SENT_ZH":"他要到法定成年年龄才能获得信托基金的控制权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adulthood",
+            "legal age",
+            "maturity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "minority",
+            "infancy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general, political, and formal/legal discourse."
+}

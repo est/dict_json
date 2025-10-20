@@ -1,0 +1,132 @@
+{
+  "WORD":"receive",
+  "IPA":"/rɪˈsiːv/",
+  "CONJUGATES":"receives | receiving | received",
+  "ETYMOLOGY":"From Middle English receiven, from Old French receivre (Modern French recevoir), from Latin recipere (re- 'back' + capere 'take').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"receive [sth] (from [sb/sth])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "transaction"
+      ],
+      "DEF_EN":"To take into one's possession or acquire something that has been delivered, offered, or transmitted.",
+      "DEF_ZH":"收到；接到；领到；得悉",
+      "SENT_EN":"I received a letter from my cousin this morning.",
+      "SENT_ZH":"我今天早上收到了表姐的一封信。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "get",
+            "obtain",
+            "accept"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "send",
+            "give",
+            "deliver"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive [sth] (treatment, news, reaction, injury)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "common",
+        "experience"
+      ],
+      "DEF_EN":"To be subjected to or undergo (an action, reaction, treatment, or event).",
+      "DEF_ZH":"遭受；蒙受；受到（对待、批评、伤害等）",
+      "SENT_EN":"The proposal was received with widespread public opposition.",
+      "SENT_ZH":"这项提案受到了广泛的公众反对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "undergo",
+            "experience",
+            "suffer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "formal",
+        "hosting"
+      ],
+      "DEF_EN":"To greet or welcome visitors or guests, often in a formal manner.",
+      "DEF_ZH":"接待；欢迎（客人）；接见",
+      "SENT_EN":"The Queen received the foreign dignitaries in the royal chamber.",
+      "SENT_ZH":"女王在皇家大厅接见了外国政要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "welcome",
+            "host",
+            "greet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive [signal/transmission]",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive verb",
+      "TAGS":[
+        "technical",
+        "communications"
+      ],
+      "DEF_EN":"To pick up and convert broadcast electromagnetic waves (radio, television signals) into an audible or readable form.",
+      "DEF_ZH":"接收（无线电或电视信号）",
+      "SENT_EN":"The antenna can receive channels from fifty miles away.",
+      "SENT_ZH":"该天线可以接收五十英里范围内的频道。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "transmission",
+            "broadcast",
+            "antennae"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive [stolen goods]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "legal",
+        "rare"
+      ],
+      "DEF_EN":"To take possession of stolen property, knowing it to be stolen.",
+      "DEF_ZH":"窝藏；收受（赃物）",
+      "SENT_EN":"He was arrested on charges of receiving stolen property.",
+      "SENT_ZH":"他因收受赃物被捕。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fence",
+            "handling"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally across all registers; the third meaning is slightly formal."
+}

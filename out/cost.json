@@ -1,0 +1,119 @@
+{
+  "WORD":"cost",
+  "IPA":"/kɔːst/",
+  "CONJUGATES":"costs (n) | costs | costing | cost (pt/pp)",
+  "ETYMOLOGY":"From Middle English cost, from Old French coste, from Latin constare ('to stand firm, cost'), from con- 'together' + stare 'to stand'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The amount of money required or spent to buy, acquire, or produce something.",
+      "DEF_ZH":"购买、获取或生产某物所需或花费的金额。",
+      "SENT_EN":"The initial cost of the software was quite high, but it saved money in the long run.",
+      "SENT_ZH":"这款软件的初始成本相当高，但从长远来看可以节省资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "price",
+            "expense",
+            "charge",
+            "fee"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "value",
+            "budget",
+            "expenditure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] cost [sb] [amount of money]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common",
+        "irregular verb"
+      ],
+      "DEF_EN":"To require the payment of a specified amount of money.",
+      "DEF_ZH":"需要支付特定金额的费用。",
+      "SENT_EN":"This replacement part cost me almost fifty dollars.",
+      "SENT_ZH":"这个替换零件花了我将近五十美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be priced at",
+            "sell for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] cost [sb] [abstract loss]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To result in the loss or detriment of something, especially something valuable or abstract, such as effort, reputation, or life.",
+      "DEF_ZH":"导致某物的损失或损害，特别是珍贵或抽象的东西，如努力、名誉或生命。",
+      "SENT_EN":"His hesitation cost the team the critical opportunity.",
+      "SENT_ZH":"他的犹豫让球队付出了失去关键机会的代价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sacrifice",
+            "forfeit",
+            "result in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "save",
+            "preserve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"costs",
+      "POS":"n (pl)",
+      "POS_TIP":"plural noun: typically used in finance or legal contexts.",
+      "TAGS":[
+        "finance",
+        "business",
+        "legal"
+      ],
+      "DEF_EN":"(In business or manufacturing) Expenses incurred in the course of operating a business, producing goods, or providing services; (in law) expenses of a legal action.",
+      "DEF_ZH":"（商业或制造业中）运营业务、生产商品或提供服务过程中产生的费用；（法律中）诉讼费用。",
+      "SENT_EN":"We must find ways to reduce our operating costs without affecting quality.",
+      "SENT_ZH":"我们必须找到在不影响质量的情况下降低运营成本的方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overhead",
+            "outlay",
+            "expenditures"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and informal usage, widely used in business and finance."
+}

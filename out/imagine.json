@@ -1,0 +1,85 @@
+{
+  "WORD":"imagine",
+  "IPA":"/ɪˈmædʒɪn/",
+  "CONJUGATES":"imagines | imagining | imagined",
+  "ETYMOLOGY":"From Old French imaginer, from Latin imaginari 'to form a mental image of, represent to oneself', from imago 'image, likeness'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"imagine [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To form a mental image or concept of something that is not present or not real.",
+      "DEF_ZH":"构想；想象；设想（不存在或不真实的事物）",
+      "SENT_EN":"I can't imagine life without music.",
+      "SENT_ZH":"我无法想象没有音乐的生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "visualize",
+            "conceive",
+            "envision",
+            "picture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "imagination",
+            "imaginative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"imagine [that] ...",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To believe, suppose, or guess something, often based on little evidence; to assume.",
+      "DEF_ZH":"猜想；认为；以为（常用于缺乏证据的场合）",
+      "SENT_EN":"I imagine you must be tired after that long journey.",
+      "SENT_ZH":"我想你经过这么长的旅程一定很累了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suppose",
+            "guess",
+            "assume",
+            "think"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"imagine [sth] (informal, often negative)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "informal"
+      ],
+      "DEF_EN":"Used in informal speech to express surprise or disbelief about something mentioned.",
+      "DEF_ZH":"（口语，常用于否定句）表示惊讶或不相信（某事）",
+      "SENT_EN":"Imagine him trying to fix the car himself!",
+      "SENT_ZH":"真不敢相信他竟然想自己修车！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fancy",
+            "believe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

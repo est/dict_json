@@ -1,0 +1,93 @@
+{
+  "WORD":"example",
+  "IPA":"/ɪɡˈzæmpəl/",
+  "CONJUGATES":"examples",
+  "ETYMOLOGY":"From Middle English, from Old French exemple, from Latin exemplum ('a sample, pattern, precedent'), derived from eximere ('to take out').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an example of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "illustration"
+      ],
+      "DEF_EN":"A representative instance or case used to illustrate or support a general statement, principle, or situation.",
+      "DEF_ZH":"用于说明或支持一般陈述、原理或情况的代表性实例或案例。",
+      "SENT_EN":"This severe weather event is a clear example of climate change effects.",
+      "SENT_ZH":"这种恶劣天气事件是气候变化影响的一个清晰的例子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instance",
+            "case",
+            "specimen",
+            "sample"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exemplify",
+            "illustration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] sets/follows [an example]\n[be an example to sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "behavior",
+        "moral"
+      ],
+      "DEF_EN":"A person or thing viewed as a model to be imitated or avoided; a standard of behavior.",
+      "DEF_ZH":"被视为应效仿或避免的榜样或事物；行为标准。",
+      "SENT_EN":"The CEO's ethical choices set a great example for the entire company.",
+      "SENT_ZH":"首席执行官的道德选择为整个公司树立了一个好榜样。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "model",
+            "ideal",
+            "standard",
+            "precedent",
+            "paradigm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a math example]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "education",
+        "calculation"
+      ],
+      "DEF_EN":"A specific problem or calculation given to students for practice in subjects like mathematics.",
+      "DEF_ZH":"提供给学生的、用于练习的特定问题或计算，例如在数学等科目中。",
+      "SENT_EN":"Please work through the first five examples on the worksheet.",
+      "SENT_ZH":"请完成工作表上的前五个练习题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "problem",
+            "exercise",
+            "sum",
+            "question"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common and Academic"
+}

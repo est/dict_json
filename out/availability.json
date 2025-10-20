@@ -1,0 +1,102 @@
+{
+  "WORD":"availability",
+  "IPA":"/əˌveɪləˈbɪləti/",
+  "CONJUGATES":"availabilities | (Plural)",
+  "ETYMOLOGY":"From available + -ity. Available originates from Middle English avail (from Old French avallier 'to be of use') + -able suffix.",
+  "SINCE":"Late 19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"availability [of sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The state or quality of being ready for use, accessible, or obtainable.",
+      "DEF_ZH":"可获得性；可用性；现货供应",
+      "SENT_EN":"The limited availability of parking spaces frustrated commuters.",
+      "SENT_ZH":"停车位的数量有限，让通勤者感到沮丧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accessibility",
+            "obtainability",
+            "readiness"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unavailability",
+            "scarcity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] availability",
+      "POS":"nu | nc",
+      "POS_TIP":"uncountable noun | countable noun",
+      "TAGS":[
+        "scheduling",
+        "business"
+      ],
+      "DEF_EN":"The amount of time a person has free for meeting, working, or other scheduling opportunities.",
+      "DEF_ZH":"（某人的）空闲时间；可安排的时间；出席的可能性",
+      "SENT_EN":"Could you please check your availability for a conference call next week?",
+      "SENT_ZH":"您能查一下下周参加电话会议的空闲时间吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "openness",
+            "capacity",
+            "free time"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "schedule",
+            "calendar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"system availability",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "engineering"
+      ],
+      "DEF_EN":"The measure (often percentage) of time a system, service, or machine is working and usable when needed (uptime).",
+      "DEF_ZH":"（系统、服务的）正常运行时间；可靠性；服务可用度",
+      "SENT_EN":"We aim for 99.99% system availability to minimize service disruption.",
+      "SENT_ZH":"我们的目标是99.99%的系统可用度，以尽量减少服务中断。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uptime",
+            "reliability",
+            "serviceability"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "SLA",
+            "redundancy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

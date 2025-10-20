@@ -1,0 +1,66 @@
+{
+  "WORD":"police",
+  "IPA":"/pəˈliːs/",
+  "CONJUGATES":"police (n, collective) | polices (v, 3rd person singular present) | policing (v, present participle/gerund) | policed (v, simple past/past participle)",
+  "ETYMOLOGY":"From Middle French police ('public administration'), derived from Latin politia ('state, government'), ultimately from Ancient Greek πολιτεία (politeia, 'citizenship, administration'), and πόλις (polis, 'city, state'). The modern law enforcement meaning solidified in the 18th century.",
+  "SINCE":"c. 1700",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] police (often treated as plural)",
+      "POS":"n (collective)",
+      "POS_TIP":"Collective Noun (集合名词)",
+      "TAGS":[
+        "core word",
+        "law enforcement",
+        "government"
+      ],
+      "DEF_EN":"The civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order.",
+      "DEF_ZH":"国家或地方政府的民事力量，负责预防和侦查犯罪，以及维护公共秩序的机构。",
+      "SENT_EN":"The police have issued a warning about traffic disruptions.",
+      "SENT_ZH":"警方已发布关于交通中断的警告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "constabulary",
+            "gendarmerie",
+            "cops"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "officer",
+            "precinct",
+            "patrol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"police [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (及物动词)",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To monitor and control an area or activity to ensure adherence to rules or laws.",
+      "DEF_ZH":"监督和控制某个区域或活动，以确保遵守规则或法律；巡逻。",
+      "SENT_EN":"It is necessary to police the behavior of participants during the conference.",
+      "SENT_ZH":"有必要在会议期间监管参与者的行为。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "monitor",
+            "regulate",
+            "supervise",
+            "patrol"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Everyday usage, official/governmental context"
+}

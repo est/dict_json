@@ -1,0 +1,88 @@
+{
+  "WORD":"necessary",
+  "IPA":"/'nesəseri/",
+  "CONJUGATES":"necessarily (adv) | necessity (n) | necessaries (n, pl)",
+  "ETYMOLOGY":"From Latin *necessarius* ('unavoidable, needful'), derived from *necesse* ('unavoidable, inevitable'), possibly from *ne-* (not) + *cedere* (to yield, give way)",
+  "SINCE":"Late Middle English (c. 14th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] necessary [to sth/do sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Required to be done, achieved, or present; essential.",
+      "DEF_ZH":"必需的；必要的；不可或缺的。",
+      "SENT_EN":"It is absolutely necessary to wear a seatbelt when driving.",
+      "SENT_ZH":"驾驶时系好安全带是绝对必要的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "essential",
+            "requisite",
+            "indispensable",
+            "crucial"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "optional",
+            "superfluous",
+            "unnecessary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] necessary",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "formal",
+        "philosophical"
+      ],
+      "DEF_EN":"Determined or produced by necessity; inevitable rather than contingent.",
+      "DEF_ZH":"必然发生的；不可避免的。",
+      "SENT_EN":"If you follow that logic, the conclusion is necessary.",
+      "SENT_ZH":"如果你遵循这个逻辑，这个结论是必然的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inevitable",
+            "unavoidable",
+            "certain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the necessaries (of life)",
+      "POS":"n",
+      "POS_TIP":"Noun (usually used in the plural 'necessaries')",
+      "TAGS":[
+        "dated",
+        "formal"
+      ],
+      "DEF_EN":"Basic essential items or requirements (often referring to survival needs).",
+      "DEF_ZH":"基本生活必需品；必要条件。",
+      "SENT_EN":"The refugees were provided with the necessaries of life: food, water, and shelter.",
+      "SENT_ZH":"难民们得到了生活必需品：食物、水和住所。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "essentials",
+            "requirements",
+            "basics"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

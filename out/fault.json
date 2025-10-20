@@ -1,0 +1,141 @@
+{
+  "WORD":"fault",
+  "IPA":"/fɔːlt/",
+  "CONJUGATES":"faults | faulting | faulted",
+  "ETYMOLOGY":"From Old French faute (lack, defect, error), from Latin fallita (a failing), past participle of fallere (to deceive, fail). The 'l' was silent until the 16th century but restored in spelling and later pronunciation, likely due to association with Latin.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth] (be at fault)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Responsibility for an accidental or wrong action; an error or mistake.",
+      "DEF_ZH":"过失；错误；责任（尤指不愉快事件的责任）。",
+      "SENT_EN":"It was her fault that the project deadline was missed.",
+      "SENT_ZH":"项目延期是因为她的过失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blame",
+            "responsibility",
+            "guilt",
+            "culpability"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "innocence",
+            "merit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "quality"
+      ],
+      "DEF_EN":"An undesirable or defective aspect of a thing or person; a flaw or imperfection.",
+      "DEF_ZH":"缺点；缺陷；毛病。",
+      "SENT_EN":"His greatest fault is his inability to admit when he is wrong.",
+      "SENT_ZH":"他最大的缺点就是不肯承认自己错了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defect",
+            "flaw",
+            "imperfection",
+            "weakness"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "virtue",
+            "strength",
+            "asset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fault [sb] / fault [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "verb"
+      ],
+      "DEF_EN":"To find a mistake in or criticize someone or something.",
+      "DEF_ZH":"挑剔；指责；批评。",
+      "SENT_EN":"The service was excellent; I could not fault the waiter.",
+      "SENT_ZH":"服务非常好；我挑不出服务员的毛病。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "criticize",
+            "blame",
+            "censure",
+            "reproach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "geology"
+      ],
+      "DEF_EN":"A fracture in a body of rock where displacement has taken place as a result of crustal movement.",
+      "DEF_ZH":"（地质学）断层。",
+      "SENT_EN":"The earthquake occurred along a massive fault line.",
+      "SENT_ZH":"地震发生在一条巨大的断层线附近。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fault line",
+            "fissure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (tennis)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "jargon"
+      ],
+      "DEF_EN":"In tennis, an illegal serve, typically one that lands outside the service box.",
+      "DEF_ZH":"（网球）发球失误。",
+      "SENT_EN":"The player committed a double fault, losing the point.",
+      "SENT_ZH":"那名球员发了双误，丢掉了这一分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "double fault",
+            "ace"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

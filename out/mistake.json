@@ -1,0 +1,87 @@
+{
+  "WORD":"mistake",
+  "IPA":"/mɪˈsteɪk/",
+  "CONJUGATES":"mistakes | mistaking | mistook | mistaken",
+  "ETYMOLOGY":"From Middle English mistak(en), from Old Norse mistaka (mis- 'wrongly' + taka 'to take'). Originally meant 'to take wrongly or amiss'.",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] mistake [about sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An action or judgment that is erroneous or wrong.",
+      "DEF_ZH":"行为、计算、意见或判断中的错误，失误。",
+      "SENT_EN":"Admitting your mistake is the first step toward resolving the issue.",
+      "SENT_ZH":"承认自己的错误是解决问题的第一步。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "error",
+            "blunder",
+            "slip",
+            "fault"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "misstep",
+            "miscalculation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mistake [sb/sth] for [sb/sth else]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To confuse the identity of someone or something with another person or thing.",
+      "DEF_ZH":"将某人或某事误认为是另一个人或事；混淆身份。",
+      "SENT_EN":"I mistook her mother for her older sister because they look so similar.",
+      "SENT_ZH":"我把她妈妈误认为是她姐姐了，因为她们长得太像了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confuse",
+            "misidentify",
+            "mix up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mistake [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To wrongly understand or interpret something.",
+      "DEF_ZH":"错误地理解或解释某事。",
+      "SENT_EN":"Don't mistake my kindness for weakness.",
+      "SENT_ZH":"不要把我的善良误认为是软弱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "misinterpret",
+            "misconstrue",
+            "misunderstand"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

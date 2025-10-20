@@ -1,0 +1,64 @@
+{
+  "WORD":"interrupt",
+  "IPA":"/ˌɪntəˈrʌpt/",
+  "CONJUGATES":"interrupts | interrupting | interrupted",
+  "ETYMOLOGY":"From Latin interruptus, past participle of interrumpere (inter- 'between, among' + rumpere 'to break'). Literally meaning 'to break between' or 'to break into the middle of'.",
+  "SINCE":"Late Middle English (c. 15th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"interrupt [sb/sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive/intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To stop the continuous progress of an activity or speech by saying or doing something; to break in.",
+      "DEF_ZH":"打断（某人说话或行动）；中止，中断（连续性）。",
+      "SENT_EN":"I apologize for interrupting your meeting, but I have an urgent message.",
+      "SENT_ZH":"我很抱歉打断您的会议，但我有一个紧急消息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disrupt",
+            "break in",
+            "cut short",
+            "barge in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "continue",
+            "sustain",
+            "proceed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interrupt [sth] (computer/process)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(In computing) To cause a temporary suspension of a process or a CPU's normal operation in order to handle an event or request.",
+      "DEF_ZH":"（计算机）中断；使中央处理器（CPU）的操作暂时停止，以便处理特定事件或请求。",
+      "SENT_EN":"A hardware failure can interrupt the execution of a critical program.",
+      "SENT_ZH":"硬件故障可能会中断关键程序的执行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "polling",
+            "latency"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

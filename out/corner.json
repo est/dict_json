@@ -1,0 +1,149 @@
+{
+  "WORD":"corner",
+  "IPA":"/ˈkɔːrnər/",
+  "CONJUGATES":"corners | cornered | cornering",
+  "ETYMOLOGY":"From Middle English cornere, via Old French corniere, derived from Latin cornū meaning 'horn, projecting point'. The original sense refers to the angularity of a horn or projection.",
+  "SINCE":"c. 1300 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"[place]\n[object]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "location"
+      ],
+      "DEF_EN":"The point or area where two converging lines, surfaces, or edges meet.",
+      "DEF_ZH":"两条线、表面或边缘相交形成的区域或点；角落；拐角。",
+      "SENT_EN":"He left the suitcase standing in the far corner of the bedroom.",
+      "SENT_ZH":"他把手提箱放在卧室最远的角落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "angle",
+            "intersection",
+            "nook"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "edge",
+            "apex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"corner [sb]\ncorner [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To force a person or animal into a difficult or inescapable position.",
+      "DEF_ZH":"将某人或某物逼入绝境或难以逃脱的位置；包围。",
+      "SENT_EN":"The investigative journalist finally cornered the corrupt official for an interview.",
+      "SENT_ZH":"这名调查记者最终将那名腐败官员堵住进行采访。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trap",
+            "capture",
+            "entrap"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "release",
+            "free"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"corner [turn]\ncorner well/badly",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "driving",
+        "movement"
+      ],
+      "DEF_EN":"To negotiate a turn or bend, especially when driving a vehicle.",
+      "DEF_ZH":"（驾驶车辆）转弯；顺利或不顺利地通过弯道。",
+      "SENT_EN":"The sports car was able to corner at high speeds thanks to its advanced suspension.",
+      "SENT_ZH":"多亏了先进的悬挂系统，这辆跑车能够高速转弯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "turn",
+            "veer",
+            "swerve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"corner the market",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, used idiomatically",
+      "TAGS":[
+        "finance",
+        "business",
+        "idiom"
+      ],
+      "DEF_EN":"To gain exclusive control of the trade in a particular commodity or stock, typically so as to manipulate its price.",
+      "DEF_ZH":"垄断（商品或股票市场）；控制市场价格。",
+      "SENT_EN":"The financier planned to corner the market in aluminum by buying up all available stocks.",
+      "SENT_ZH":"这位金融家计划通过收购所有可用库存来垄断铝市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "monopolize",
+            "control",
+            "dominate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "oligopoly",
+            "cartel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take a corner\na corner for [team]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sport",
+        "soccer",
+        "UK usage"
+      ],
+      "DEF_EN":"A corner kick, a set play in soccer awarded when a defending player sends the ball out of bounds over their own goal line.",
+      "DEF_ZH":"（足球）角球。",
+      "SENT_EN":"He headed the ball clear from the opposing team's corner.",
+      "SENT_ZH":"他将对方球队开出的角球顶出了禁区。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "penalty",
+            "free kick",
+            "throw-in"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; used in technical, driving, and sports contexts."
+}

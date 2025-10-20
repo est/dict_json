@@ -1,0 +1,70 @@
+{
+  "WORD":"irrational",
+  "IPA":"/ɪˈræʃənəl/",
+  "CONJUGATES":"irrationally (adv.) | irrationality (n.)",
+  "ETYMOLOGY":"From Late Latin irrationalis, equivalent to in- 'not' + rationalis 'rational' (via Old French).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is irrational\n[sb] is irrational",
+      "POS":"adj",
+      "POS_TIP":"Adjective: A word modifying a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lacking or contrary to reason, sound judgment, or logic; senseless.",
+      "DEF_ZH":"缺乏理性、不合逻辑的；不理智的。",
+      "SENT_EN":"It was an irrational decision driven purely by panic.",
+      "SENT_ZH":"那是一个完全由恐慌驱动的不理智的决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unreasonable",
+            "illogical",
+            "absurd",
+            "senseless"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rational",
+            "logical",
+            "reasonable",
+            "sensible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is an irrational number",
+      "POS":"adj | n",
+      "POS_TIP":"Adjective: A word modifying a noun or pronoun. | Noun: A word referring to an entity (person, place, thing, or concept).",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"(Mathematics) Of a number, not capable of being expressed exactly as a ratio of two integers. (As a noun, an irrational number.)",
+      "DEF_ZH":"(数学) (指数字) 不能表示为两个整数之比的；无理的。 (作为名词即无理数)",
+      "SENT_EN":"The square root of two is a classic example of an irrational number.",
+      "SENT_ZH":"二的平方根是无理数的一个经典例子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "transcendental"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rational"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic (Mathematics)"
+}

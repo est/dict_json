@@ -1,0 +1,73 @@
+{
+  "WORD":"enforce",
+  "IPA":"/ɪnˈfɔːrs/",
+  "CONJUGATES":"enforces | enforcing | enforced",
+  "ETYMOLOGY":"From Old French enforcier ('to strengthen, compel'), derived from en- ('in, causing to be') + fort ('strong').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"enforce [sth] [against sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Core Word",
+        "Legal",
+        "Official"
+      ],
+      "DEF_EN":"To make sure that a law, rule, or agreement is obeyed, or that someone carries out a duty or obligation.",
+      "DEF_ZH":"实施；执行；强制实行（法律、规则、义务等）。",
+      "SENT_EN":"It is the job of the government to enforce environmental regulations.",
+      "SENT_ZH":"执行环保法规是政府的职责。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "implement",
+            "execute",
+            "administer",
+            "compel obedience"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disregard",
+            "waive",
+            "ignore"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "enforcement",
+            "enforceable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enforce [sth] upon [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "Formal",
+        "Imposition"
+      ],
+      "DEF_EN":"To impose something upon someone, often using authority or force.",
+      "DEF_ZH":"强行要求；迫使服从；强加。",
+      "SENT_EN":"The general attempted to enforce his strict will upon the captured territory.",
+      "SENT_ZH":"那位将军试图将他的严格意愿强加于被占领的领土上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impose",
+            "demand",
+            "exact"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Business"
+}

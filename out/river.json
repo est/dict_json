@@ -1,0 +1,91 @@
+{
+  "WORD":"river",
+  "IPA":"/ˈrɪvər/",
+  "CONJUGATES":"rivers | rivered | rivering",
+  "ETYMOLOGY":"From Middle English river, from Anglo-Norman rivere, ultimately deriving from Vulgar Latin rīpāria ('river bank'), feminine of Latin rīpārius ('of a bank'), from rīpa ('bank, shore').",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] river",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "nature"
+      ],
+      "DEF_EN":"A large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+      "DEF_ZH":"一条流向大海、湖泊或另一条河流的，沿河道流动的天然大水流。",
+      "SENT_EN":"We planned a trip to canoe down the Missouri river this summer.",
+      "SENT_ZH":"我们计划今年夏天乘独木舟沿着密苏里河旅行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stream",
+            "waterway",
+            "flow",
+            "current"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "brook",
+            "creek",
+            "estuary",
+            "tributary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] river [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "descriptive"
+      ],
+      "DEF_EN":"A copious flow or flood of anything, especially liquid or abstract concepts like tears, sound, or people.",
+      "DEF_ZH":"大量的流淌或涌动，尤指液体或抽象概念（如眼泪、声音或人群）的洪流。",
+      "SENT_EN":"The concert ended, and a river of people flowed out into the street.",
+      "SENT_ZH":"音乐会结束后，一股人流涌向街头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "torrent",
+            "flood",
+            "deluge",
+            "surge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"river [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "poetic"
+      ],
+      "DEF_EN":"To furrow or traverse (a surface) as if by a river; to transport by river.",
+      "DEF_ZH":"（像河流一样）冲刷或流经（表面）；通过河流运输。",
+      "SENT_EN":"The ancient glacier had rivered the valley floor with deep grooves.",
+      "SENT_ZH":"古老的冰川在谷底留下了深深的河槽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "channel",
+            "furrow",
+            "course"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Common"
+}

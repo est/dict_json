@@ -1,0 +1,108 @@
+{
+  "WORD":"graph",
+  "IPA":"/ɡræf/",
+  "CONJUGATES":"graphs | graphing | graphed",
+  "ETYMOLOGY":"From German 'Graph' (1878), coined by mathematician J.J. Sylvester, from Ancient Greek 'graphein' (γράφειν) meaning 'to write, to draw'. The verb sense is derived from the noun. The informal sense as a short for 'photograph' emerged later.",
+  "SINCE":"Late 19th century (circa 1878 for the mathematical noun, 1891 for the verb, 1895 for the short for photograph)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] graph",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics",
+        "data visualization",
+        "technical"
+      ],
+      "DEF_EN":"A diagram showing the relationship between two or more variables, typically represented by lines, bars, or other symbols plotted on a coordinate system.",
+      "DEF_ZH":"一种表示两个或多个变量之间关系的图表，通常通过线条、柱状或其他符号在坐标系中绘制。",
+      "SENT_EN":"The economist presented a graph illustrating the rise in unemployment.",
+      "SENT_ZH":"经济学家展示了一张图表，说明了失业率的上升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chart",
+            "diagram",
+            "plot",
+            "figure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"graph [sth]",
+      "POS":"verb transitive",
+      "POS_TIP":"a verb that takes a direct object",
+      "TAGS":[
+        "common",
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"To represent (data, a function, or a relationship) by means of a graph.",
+      "DEF_ZH":"用图表表示（数据、函数或关系）。",
+      "SENT_EN":"We need to graph the sales figures for the last quarter to identify trends.",
+      "SENT_ZH":"我们需要绘制上个季度的销售数据图表以识别趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plot",
+            "chart",
+            "draw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] graph",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "technical",
+        "linguistics",
+        "computing"
+      ],
+      "DEF_EN":"A graphical unit of a writing system; a letter or character, especially one that forms part of a grapheme.",
+      "DEF_ZH":"书写系统中的图形单位；字母或字符，尤指字素的一部分。",
+      "SENT_EN":"In some languages, multiple graphs can represent a single phoneme.",
+      "SENT_ZH":"在某些语言中，多个字形可以代表一个音素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grapheme",
+            "letter",
+            "character"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] graph",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "rare",
+        "informal",
+        "archaic"
+      ],
+      "DEF_EN":"(Informal, often in compounds or historical use) A photograph.",
+      "DEF_ZH":"（非正式，常用于复合词或历史用法中）照片。",
+      "SENT_EN":"He keeps a collection of old graphs from his travels.",
+      "SENT_ZH":"他保留着他旅行时收集的一批老照片。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "photograph",
+            "autograph"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Mathematics, Linguistics, Computing)"
+}

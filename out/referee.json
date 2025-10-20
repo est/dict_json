@@ -1,0 +1,131 @@
+{
+  "WORD":"referee",
+  "IPA":"/ˌrɛfəˈriː/",
+  "CONJUGATES":"n: referees | v: referees | refereed | refereeing",
+  "ETYMOLOGY":"From Old French 'refere' (to refer), from Latin 'referre' (re- 'back' + ferre 'to carry'). The suffix '-ee' denotes the recipient of an action. Originally, 'one to whom a matter is referred for judgment'.",
+  "SINCE":"Late 14th century (general sense), mid-19th century (sports sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] referee [in a game/match]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "sports"
+      ],
+      "DEF_EN":"An official who watches a game or match closely to ensure that the rules are followed and to make decisions if necessary.",
+      "DEF_ZH":"体育比赛中监督规则执行并做出裁决的官员；裁判员。",
+      "SENT_EN":"The referee blew the whistle to signal a foul, stopping the football match.",
+      "SENT_ZH":"裁判吹响了哨子示意犯规，中断了足球比赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "umpire",
+            "official",
+            "arbiter",
+            "judge",
+            "linesman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"referee [a game/match]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "sports"
+      ],
+      "DEF_EN":"To act as a referee for a game or match.",
+      "DEF_ZH":"在比赛中担任裁判。",
+      "SENT_EN":"She has been chosen to referee the national championship final.",
+      "SENT_ZH":"她被选中执裁全国锦标赛决赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "officiate",
+            "umpire",
+            "judge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] referee [for sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"A person to whom a dispute or disagreement is referred for settlement or mediation.",
+      "DEF_ZH":"被提交争议以求解决的仲裁人；调解人。",
+      "SENT_EN":"He was appointed as a neutral referee to resolve the industrial dispute.",
+      "SENT_ZH":"他被任命为中立仲裁人，以解决劳资纠纷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arbitrator",
+            "mediator",
+            "conciliator",
+            "intercessor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"referee [a dispute/argument]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To mediate or settle a dispute or argument.",
+      "DEF_ZH":"仲裁或调解争端。",
+      "SENT_EN":"The manager had to referee the heated argument between the two colleagues.",
+      "SENT_ZH":"经理不得不仲裁两位同事之间激烈的争吵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arbitrate",
+            "mediate",
+            "settle",
+            "intervene"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] referee [for sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "academic",
+        "professional"
+      ],
+      "DEF_EN":"A person who provides a reference or recommendation, especially for a job application, academic submission, or grant proposal.",
+      "DEF_ZH":"提供推荐信或担保的人，尤指求职、学术投稿或拨款申请。",
+      "SENT_EN":"Please provide the names and contact details of two academic referees with your application.",
+      "SENT_ZH":"请在申请中提供两位学术推荐人的姓名和联系方式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recommender",
+            "guarantor",
+            "reference"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Sports, Formal, Academic"
+}

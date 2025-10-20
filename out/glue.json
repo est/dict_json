@@ -1,0 +1,89 @@
+{
+  "WORD":"glue",
+  "IPA":"/ɡluː/",
+  "CONJUGATES":"n: glues | v: glues, gluing, glued",
+  "ETYMOLOGY":"From Old French glu, from Late Latin glūs, glūtem (accusative), related to Latin glūten ('glue, paste').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"glue",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An adhesive substance used for joining things together, typically a viscous liquid that hardens upon drying.",
+      "DEF_ZH":"一种用于将物体粘合在一起的粘合剂，通常是粘稠的液体，干燥后变硬。",
+      "SENT_EN":"She used a strong glue to fix the broken vase.",
+      "SENT_ZH":"她用强力胶水修补了破碎的花瓶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adhesive",
+            "paste",
+            "cement",
+            "mucilage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "superglue",
+            "epoxy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"glue [sth]\nglue [sth] to [sth] | glue [sth] together",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To join or attach two things together using glue.",
+      "DEF_ZH":"用胶水将两物粘合或固定在一起。",
+      "SENT_EN":"He carefully glued the pieces of the model airplane together.",
+      "SENT_ZH":"他小心翼翼地把模型飞机的零件粘合在一起。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stick",
+            "bond",
+            "adhere",
+            "affix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be glued to [sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To cause someone or something to remain fixed in one place or position, often implying intense attention or reluctance to move.",
+      "DEF_ZH":"使某人或某物固定在某处或某个位置，常指因全神贯注而无法离开，或不愿移动。",
+      "SENT_EN":"The children were glued to the television, watching their favorite cartoon.",
+      "SENT_ZH":"孩子们目不转睛地盯着电视，看他们最喜欢的卡通片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fixate",
+            "rivet",
+            "transfix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, everyday language."
+}

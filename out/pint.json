@@ -1,0 +1,80 @@
+{
+  "WORD":"pint",
+  "IPA":"/paɪnt/",
+  "CONJUGATES":"pint | pints",
+  "ETYMOLOGY":"From Old French pinte, from Vulgar Latin *pincta 'painted', probably from pingere 'to paint', referring to a mark on a container.",
+  "SINCE":"Late Middle English (13th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a pint of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A unit of liquid or dry capacity, equal to one half of a quart or one eighth of a gallon (approx. 0.568 liters in the UK and 0.473 liters in the US).",
+      "DEF_ZH":"品脱（液体或干物容量单位，等于四分之一加仑或二分之一夸脱；英国约0.568升，美国约0.473升）",
+      "SENT_EN":"He ordered a pint of milk from the grocery store.",
+      "SENT_ZH":"他从杂货店订购了一品脱牛奶。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "quart",
+            "gallon",
+            "liter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pint",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "UK English",
+        "informal"
+      ],
+      "DEF_EN":"A glass or container holding a pint, especially of beer or ale.",
+      "DEF_ZH":"一品脱啤酒（通常指一杯）",
+      "SENT_EN":"Let's go for a pint after work.",
+      "SENT_ZH":"下班后我们去喝杯啤酒吧。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "beer",
+            "ale",
+            "lager"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pint of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific context",
+        "medical"
+      ],
+      "DEF_EN":"A quantity of blood, typically collected or transfused, measured in pints.",
+      "DEF_ZH":"一品脱血液（通常指输血量或献血量）",
+      "SENT_EN":"The patient needed a pint of blood after the accident.",
+      "SENT_ZH":"事故发生后，病人需要输一品脱血。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "blood",
+            "transfusion",
+            "donation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; informal when referring to beer."
+}

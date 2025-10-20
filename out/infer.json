@@ -1,0 +1,65 @@
+{
+  "WORD":"infer",
+  "IPA":"/ɪnˈfɜːr/",
+  "CONJUGATES":"infers | inferred | inferring",
+  "ETYMOLOGY":"From Latin inferre ('to bring in, introduce'), from in- ('into, toward') + ferre ('to carry, bear'). The logical meaning 'to deduce' developed in the mid-16th century.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"infer [sth] [from sth]\ninfer [that clause]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object) | vintr: intransitive verb",
+      "TAGS":[
+        "Core Word",
+        "Logic",
+        "Academic"
+      ],
+      "DEF_EN":"To deduce or conclude information from evidence and reasoning rather than from explicit statements.",
+      "DEF_ZH":"根据证据和推理得出结论；推断；推论。",
+      "SENT_EN":"From the drop in sales, we can infer that the market is saturated.",
+      "SENT_ZH":"从销量的下降，我们可以推断出市场已经饱和了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deduce",
+            "conclude",
+            "gather",
+            "surmise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "inference",
+            "imply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"infer [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object)",
+      "TAGS":[
+        "Informal",
+        "Controversial Usage"
+      ],
+      "DEF_EN":"(Often considered non-standard or confused with 'imply') To hint or suggest something indirectly.",
+      "DEF_ZH":"(非标准或常被认为误用) 暗示；含蓄地指出（通常被认为与imply混淆）。",
+      "SENT_EN":"Are you inferring that I am responsible for the error?",
+      "SENT_ZH":"你是在暗示我对这个错误负有责任吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hint",
+            "suggest",
+            "imply"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Formal"
+}

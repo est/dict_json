@@ -1,0 +1,114 @@
+{
+  "WORD":"lap",
+  "IPA":"/læp/",
+  "CONJUGATES":"Noun: laps | Verb: laps (3rd pers. sing.), lapped (past tense/pp), lapping (pres. part.)",
+  "ETYMOLOGY":"From Old English *læppa* (flap of a garment, fold of clothing) for the body/circuit meaning; and from Old English *lapian* (to lick up, drink) for the splashing/drinking meaning.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s lap",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The flat area formed by the upper part of the legs of a seated person, extending from the waist to the knees.",
+      "DEF_ZH":"坐着时腰部到膝盖之间的大腿平坦区域；膝上。",
+      "SENT_EN":"The toddler was sitting comfortably on his grandfather’s lap.",
+      "SENT_ZH":"那个蹒跚学步的孩子舒服地坐在他祖父的膝上。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a lap (of a track)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "sports"
+      ],
+      "DEF_EN":"A single complete circuit around a racetrack or course.",
+      "DEF_ZH":"（赛道或跑道的）一圈，一周。",
+      "SENT_EN":"He only had two laps left to go before finishing the marathon.",
+      "SENT_ZH":"在他跑完马拉松之前，只剩下两圈了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "circuit",
+            "round",
+            "tour"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[animal] lap [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"(Of an animal) to drink liquid by scooping it up with the tongue.",
+      "DEF_ZH":"（动物）舔饮，用舌头卷食（液体）。",
+      "SENT_EN":"The thirsty dog lapped the water straight from the bowl.",
+      "SENT_ZH":"那只口渴的狗直接从碗里舔饮了水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lick",
+            "sup"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[water] lap [sth]",
+      "POS":"vint + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "descriptive",
+        "literary"
+      ],
+      "DEF_EN":"(Of water or waves) to wash or flow gently against something, usually making a soft, rhythmic sound.",
+      "DEF_ZH":"（水或波浪）轻轻拍打，发出轻柔的拍击声。",
+      "SENT_EN":"We listened to the lake water lapping against the shore.",
+      "SENT_ZH":"我们听着湖水轻轻拍打海岸的声音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "splash",
+            "ripple",
+            "wash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lap [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "sports",
+        "competitive"
+      ],
+      "DEF_EN":"To overtake a slower competitor in a race so that they are now one or more laps behind.",
+      "DEF_ZH":"（赛跑中）套圈，超出一圈或多圈（使对手落后一圈或多圈）。",
+      "SENT_EN":"The leading cyclist lapped his nearest rival halfway through the race.",
+      "SENT_ZH":"领骑的自行车手在比赛进行到一半时就套了离他最近的对手一圈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overtake",
+            "outstrip"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Sports / Descriptive"
+}

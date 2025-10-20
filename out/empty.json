@@ -1,0 +1,101 @@
+{
+  "WORD":"empty",
+  "IPA":"/ˈɛmpti/",
+  "CONJUGATES":"emptier | emptiest | empties | emptied | emptying",
+  "ETYMOLOGY":"From Middle English, from Old English ǣmettig ('at leisure, vacant'), likely derived from ǣmtī ('leisure, rest').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is empty",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Containing nothing; not filled or occupied.",
+      "DEF_ZH":"不含任何东西的；没有装满或被占用的；空的。",
+      "SENT_EN":"The bottle was completely empty, so I had to buy another one.",
+      "SENT_ZH":"瓶子完全空了，所以我不得不去买一瓶新的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vacant",
+            "void",
+            "unfilled"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "full",
+            "occupied",
+            "filled"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] feels empty\n[sth] is empty",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "emotional"
+      ],
+      "DEF_EN":"Lacking meaning, purpose, or emotional substance; feeling hollow.",
+      "DEF_ZH":"缺乏意义、目的或情感内涵的；感觉空虚的。",
+      "SENT_EN":"Despite his success, he felt empty inside.",
+      "SENT_ZH":"尽管他取得了成功，但内心却感到空虚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hollow",
+            "meaningless",
+            "futile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"empty [sth]\nempty [sth] of [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To remove all the contents from a container, place, or space.",
+      "DEF_ZH":"从容器、地点或空间中取出所有内容物；倒空。",
+      "SENT_EN":"Please empty the dishwasher before you leave.",
+      "SENT_ZH":"请在你离开前把洗碗机里的东西都清空。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clear",
+            "drain",
+            "unburden"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] empties into [sth else]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "geography",
+        "formal"
+      ],
+      "DEF_EN":"(Of a river or stream) to flow into a larger body of water.",
+      "DEF_ZH":"（指河流或溪流）流入更大的水体。",
+      "SENT_EN":"The river empties into the Atlantic Ocean.",
+      "SENT_ZH":"这条河流入大西洋。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, applicable in descriptive, emotional, and action contexts."
+}

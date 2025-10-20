@@ -1,0 +1,81 @@
+{
+  "WORD":"plural",
+  "IPA":"/ˈplʊərəl/",
+  "CONJUGATES":"plurally (adv.) | plurality (n.)",
+  "ETYMOLOGY":"From Latin pluralis, from plus (genitive pluris) 'more'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (of a word or form)",
+      "POS":"adj.",
+      "POS_TIP":"adjective: modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "grammar"
+      ],
+      "DEF_EN":"Denoting or relating to a form of a word used to refer to more than one person or thing.",
+      "DEF_ZH":"表示或与指代多于一个人或事物的词的形式有关的（复数的）。",
+      "SENT_EN":"The verb must agree in number with its plural subject.",
+      "SENT_ZH":"动词必须在数上与它的复数主语保持一致。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "singular"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective: modifies a noun or pronoun",
+      "TAGS":[
+        "common",
+        "general use"
+      ],
+      "DEF_EN":"Consisting of or relating to more than one item, group, or element; multiple.",
+      "DEF_ZH":"由多于一个项目、群体或元素组成的；多元的；多重的。",
+      "SENT_EN":"The city is characterized by its pluralistic culture and religious traditions.",
+      "SENT_ZH":"这座城市的特点是其多元文化和宗教传统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "multiple",
+            "diverse",
+            "numerous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the plural / a plural",
+      "POS":"n.",
+      "POS_TIP":"noun: names a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "grammar"
+      ],
+      "DEF_EN":"The form of a word used to denote more than one.",
+      "DEF_ZH":"用于表示多于一个的词的形式；复数。",
+      "SENT_EN":"What is the correct plural of 'datum'?",
+      "SENT_ZH":"“datum”的正确复数形式是什么？",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "singular"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Grammatical"
+}

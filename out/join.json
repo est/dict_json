@@ -1,0 +1,119 @@
+{
+  "WORD":"join",
+  "IPA":"/dʒɔɪn/",
+  "CONJUGATES":"joins | joining | joined",
+  "ETYMOLOGY":"From Old French joindre, ultimately from Latin iungere ('to yoke, bind, connect'), related to jugum ('yoke').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"join [sth] (to [sth])",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "physical action"
+      ],
+      "DEF_EN":"To connect or fasten two or more things together; to meet and form a single unit.",
+      "DEF_ZH":"连接或固定两个或更多事物；会合形成一个单一的整体。",
+      "SENT_EN":"We need glue to join the broken pieces of the vase.",
+      "SENT_ZH":"我们需要用胶水来粘合花瓶破碎的碎片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "link",
+            "attach",
+            "couple"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "disconnect",
+            "unfasten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"join [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "social"
+      ],
+      "DEF_EN":"To become a member of an organization, club, or group.",
+      "DEF_ZH":"成为组织、俱乐部或团体的一员。",
+      "SENT_EN":"She decided to join the gym to start exercising regularly.",
+      "SENT_ZH":"她决定加入健身房，开始定期锻炼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enroll",
+            "sign up",
+            "enlist"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "resign",
+            "quit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"join [sb] (in [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "social interaction"
+      ],
+      "DEF_EN":"To meet and accompany someone, or to participate with others in an activity.",
+      "DEF_ZH":"会合并陪伴某人，或与他人一起参加某项活动。",
+      "SENT_EN":"Would you like to join us for lunch tomorrow?",
+      "SENT_ZH":"你愿意明天和我们一起吃午餐吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accompany",
+            "attend",
+            "participate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"join battle\njoin forces",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "military"
+      ],
+      "DEF_EN":"To engage in conflict or to merge resources/power for a common purpose.",
+      "DEF_ZH":"参与冲突或为了共同目的而合并资源或力量。",
+      "SENT_EN":"The small resistance groups decided to join forces against the occupying power.",
+      "SENT_ZH":"这些小型抵抗组织决定联合起来对抗占领势力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unite",
+            "merge",
+            "combine",
+            "clash"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Everyday language, formal, and technical contexts"
+}

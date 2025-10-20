@@ -1,0 +1,87 @@
+{
+  "WORD":"stabilize",
+  "IPA":"/'steɪbəlaɪz/",
+  "CONJUGATES":"stabilizes | stabilizing | stabilized",
+  "ETYMOLOGY":"From stable (via Old French estable, from Latin stabilis 'firm, steadfast') + the suffix -ize (to make or cause to be).",
+  "SINCE":"c. 1640",
+  "MEANINGS":[
+    {
+      "PATTERN":"stabilize [sth]\nstabilize",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make or become unlikely to move, fail, or change; to restore to equilibrium or a steady state.",
+      "DEF_ZH":"使（某物）稳定、固定或保持平衡；使恢复正常状态或持久状态。",
+      "SENT_EN":"The central bank intervened to stabilize the rapidly falling currency.",
+      "SENT_ZH":"中央银行进行干预，以稳定迅速下跌的货币。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steady",
+            "balance",
+            "secure",
+            "fix"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "destabilize",
+            "disrupt",
+            "upset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stabilize [a patient/condition]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "medical",
+        "professional"
+      ],
+      "DEF_EN":"To bring a patient's medical condition to a state where deterioration is halted and immediate danger is averted.",
+      "DEF_ZH":"（医学上）使病人的病情稳定下来，停止恶化并避免立即的危险。",
+      "SENT_EN":"The paramedics worked quickly to stabilize the victim before transporting him to the hospital.",
+      "SENT_ZH":"护理人员迅速行动，在将受害者送往医院之前稳定了他的病情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resuscitate",
+            "regulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stabilize [a structure/chemical]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"To treat a substance or structure to prevent degradation, movement, or chemical decomposition.",
+      "DEF_ZH":"（在技术或工程中）处理物质或结构以防止其退化、移动或化学分解。",
+      "SENT_EN":"They used polymers to stabilize the road base before paving.",
+      "SENT_ZH":"他们在铺设路面之前，使用了聚合物来稳定路基。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stabilizer",
+            "reinforce",
+            "cure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, commonly used in financial, medical, and engineering contexts."
+}

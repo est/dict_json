@@ -1,0 +1,130 @@
+{
+  "WORD":"print",
+  "IPA":"/prɪnt/",
+  "CONJUGATES":"prints | printing | printed | (N) prints",
+  "ETYMOLOGY":"Middle English, from Old French preindre (to press, to imprint), from Latin premere (to press).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"print [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "publishing"
+      ],
+      "DEF_EN":"To produce text, images, or designs on paper, fabric, or other surfaces, typically using a machine.",
+      "DEF_ZH":"通常使用机器在纸张、织物或其他表面上制作文字、图像或设计。",
+      "SENT_EN":"The newspaper prints over a hundred thousand copies every day.",
+      "SENT_ZH":"这家报纸每天印刷超过十万份。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "publish",
+            "reproduce",
+            "run off"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "press",
+            "typography"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"print [sth]\nprint [sth] out",
+      "POS":"vtr | vitr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"To output data or a document from a computer onto a physical printer or display information to a console (in programming).",
+      "DEF_ZH":"将数据或文档从计算机输出到物理打印机上，或（在编程中）将信息显示到控制台。",
+      "SENT_EN":"Remember to print the boarding pass before you go to the airport.",
+      "SENT_ZH":"记得去机场前把登机牌打印出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "output",
+            "render"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "printer",
+            "console"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a print\n[sb's] print",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A mark or indentation made by pressure, especially one left by a foot, finger, or seal.",
+      "DEF_ZH":"通过压力留下的痕迹或压痕，尤指脚、手指或印章留下的。",
+      "SENT_EN":"The detective found fresh tire prints in the mud near the house.",
+      "SENT_ZH":"侦探在房子附近的泥巴里发现了新鲜的轮胎印。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impression",
+            "mark",
+            "track"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fingerprint",
+            "footprint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a print of [sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "art",
+        "photography"
+      ],
+      "DEF_EN":"A copy of a photograph, artwork, or film produced from an original plate, negative, or master.",
+      "DEF_ZH":"从原始版块、底片或母带制作的摄影作品、艺术品或电影的副本。",
+      "SENT_EN":"She collects limited edition prints by contemporary artists.",
+      "SENT_ZH":"她收藏当代艺术家的限量版印刷品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "copy",
+            "reproduction",
+            "edition"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "etching",
+            "lithograph"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Publishing"
+}

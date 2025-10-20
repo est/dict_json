@@ -1,0 +1,111 @@
+{
+  "WORD":"sex",
+  "IPA":"/sɛks/",
+  "CONJUGATES":"sexes | sexing | sexed",
+  "ETYMOLOGY":"From Old French sexe, derived from Latin sexus (division, gender, sex). The ultimate origin is uncertain, perhaps related to Latin secare ('to cut, divide').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (biology)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "biology"
+      ],
+      "DEF_EN":"Either of the two main categories (male and female) into which humans and most other living things are divided, based on reproductive functions.",
+      "DEF_ZH":"生物学上的性别（雄性或雌性），是基于生殖功能区分的。",
+      "SENT_EN":"The doctor recorded the patient's age and sex.",
+      "SENT_ZH":"医生记录了病人的年龄和性别。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gender",
+            "kind"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "male",
+            "female"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have sex\nenjoy sex",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Sexual activity, especially sexual intercourse.",
+      "DEF_ZH":"性交或性活动。",
+      "SENT_EN":"They have been open about their attitudes towards sex and relationships.",
+      "SENT_ZH":"他们对性和关系的态度一直很开放。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intercourse",
+            "copulation",
+            "lovemaking"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "intimacy",
+            "fornication"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (the people of one sex)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "dated",
+        "figurative"
+      ],
+      "DEF_EN":"A term referring to the members of one particular sex, especially the female sex.",
+      "DEF_ZH":"特指某一性别的人群，尤其指女性群体（旧式用法）。",
+      "SENT_EN":"The fairer sex were invited to attend the tea party.",
+      "SENT_ZH":"（旧时用法）邀请了女性参加茶会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gender"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sex [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "technical"
+      ],
+      "DEF_EN":"To determine the biological sex of an animal, especially newly hatched fowl.",
+      "DEF_ZH":"辨别（动物）的性别，尤指刚孵化出的家禽。",
+      "SENT_EN":"The farm worker had to sex hundreds of chicks every morning.",
+      "SENT_ZH":"农场工人每天早上都要辨别数百只小鸡的性别。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gender-identify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Biological, Informal"
+}

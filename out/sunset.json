@@ -1,0 +1,107 @@
+{
+  "WORD":"sunset",
+  "IPA":"/ˈsʌnsɛt/",
+  "CONJUGATES":"sunsets (n. pl.) | sunsetting (v. present participle) | sunsetted (v. past tense/participle)",
+  "ETYMOLOGY":"Compound of Middle English sunne (sun) + set (from settan, 'to cause to sit or rest,' referring to descent below the horizon). Used as a noun phrase before becoming a solid compound.",
+  "SINCE":"c. 1600",
+  "MEANINGS":[
+    {
+      "PATTERN":"sunset",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "astronomy",
+        "common"
+      ],
+      "DEF_EN":"The daily disappearance of the sun below the horizon; the time when the sun sets and the accompanying atmospheric effects.",
+      "DEF_ZH":"太阳每天落到地平线以下的现象；指日落的时间以及随之产生的大气效应。",
+      "SENT_EN":"We watched the magnificent colors of the sunset from the beach.",
+      "SENT_ZH":"我们在沙滩上观赏了日落的壮丽色彩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sundown",
+            "nightfall"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sunrise",
+            "dawn"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dusk",
+            "twilight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the sunset of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"The final period, usually of decline or fading glory, of an existence, era, or life.",
+      "DEF_ZH":"某事物（如时代、生命或职业）的终结期；衰落或晚年。",
+      "SENT_EN":"The nation was entering the sunset of its colonial empire.",
+      "SENT_ZH":"这个国家正进入其殖民帝国的衰落期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decline",
+            "end",
+            "twilight"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "prime",
+            "zenith"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sunset [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "jargon",
+        "legislation",
+        "business"
+      ],
+      "DEF_EN":"To phase out or terminate a statute, regulation, or project after a predetermined period, often specified by a 'sunset clause.'",
+      "DEF_ZH":"根据预定的时间表或条款，逐步淘汰或终止（法律、规定或项目）。",
+      "SENT_EN":"The new administration plans to sunset several costly government programs.",
+      "SENT_ZH":"新政府计划逐步终止几个耗资巨大的政府项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "phase out",
+            "terminate",
+            "abolish"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sunset clause"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common for the noun; specialized/jargon for the verb usage."
+}

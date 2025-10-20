@@ -1,0 +1,120 @@
+{
+  "WORD":"drain",
+  "IPA":"/dreɪn/",
+  "CONJUGATES":"drains | draining | drained",
+  "ETYMOLOGY":"From Old English dreahnian 'to strain, filter,' perhaps related to Old English dreage 'refuse, dregs.'",
+  "SINCE":"Before 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"drain [liquid] (from [sth] or into [sth])",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb (takes an object) | intransitive verb (does not take an object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cause liquid to flow out from something; to empty liquid contents.",
+      "DEF_ZH":"使液体流出或排空；排出（液体）。",
+      "SENT_EN":"The plumber had to drain the pipes before fixing the leak.",
+      "SENT_ZH":"在修补泄漏之前，水管工必须排空管道中的水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "empty",
+            "effuse",
+            "tap",
+            "draw off"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "drainage",
+            "drainer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drain [sth] (of [sth/resource])\ndrain [resource]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes an object)",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To exhaust or deplete the physical or emotional resources, strength, or wealth of a person, place, or thing.",
+      "DEF_ZH":"耗尽（某人、某物）的体力、财力或精力。",
+      "SENT_EN":"Caring for the sick relative completely drained her energy.",
+      "SENT_ZH":"照顾生病的亲戚彻底耗尽了她的精力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exhaust",
+            "deplete",
+            "sap",
+            "consume"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "replenish",
+            "recharge",
+            "invigorate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drain [sth] (a pipe/channel)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A pipe or channel used to carry away water or waste liquid.",
+      "DEF_ZH":"排水管；下水道；排水沟。",
+      "SENT_EN":"The kitchen sink drain was clogged with grease.",
+      "SENT_ZH":"厨房水槽的排水管被油脂堵住了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sewer",
+            "culvert",
+            "conduit",
+            "outfall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(go) down the drain",
+      "POS":"idiom | n",
+      "POS_TIP":"idiomatic expression | noun",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A continuous or heavy loss; a cause of depletion (often used in the idiom 'go down the drain' meaning lost or wasted).",
+      "DEF_ZH":"持续的损失；消耗的来源。（常用于习语'付诸东流'，意为损失或浪费掉）。",
+      "SENT_EN":"Years of hard work went down the drain when the business failed.",
+      "SENT_ZH":"当公司破产时，多年的辛勤工作付诸东流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "waste",
+            "loss",
+            "squander"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (plumbing), and financial/psychological contexts."
+}

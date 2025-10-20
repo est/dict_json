@@ -1,0 +1,87 @@
+{
+  "WORD":"elect",
+  "IPA":"/ɪˈlɛkt/",
+  "CONJUGATES":"electing | elected | elects (v.)",
+  "ETYMOLOGY":"From Middle English, derived from Old French eslire, from Latin ēligere (perfect passive participle ēlectus), meaning 'to choose out' (ex- 'out' + legere 'to choose, gather').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"elect [sb] (to [position])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"To choose someone for a position, especially a political or organizational office, by voting.",
+      "DEF_ZH":"通过投票选举某人担任某个职位（尤指政治或组织职务）。",
+      "SENT_EN":"The committee members will meet next week to elect a new chairperson.",
+      "SENT_ZH":"委员会成员将于下周会面，选举一位新的主席。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "choose",
+            "vote in",
+            "select"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reject",
+            "defeat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[position]-elect [sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "politics",
+        "modifying noun"
+      ],
+      "DEF_EN":"Chosen or designated for a role or office but not yet formally installed.",
+      "DEF_ZH":"候任的；已当选但尚未正式就职的。",
+      "SENT_EN":"The mayor-elect is already planning changes for the city’s infrastructure.",
+      "SENT_ZH":"候任市长已经在规划该市基础设施的改造方案了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "designate",
+            "nominee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the elect",
+      "POS":"npl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "theology",
+        "formal",
+        "rare"
+      ],
+      "DEF_EN":"A select or exclusive group, often referring specifically to those chosen by God for salvation and eternal life.",
+      "DEF_ZH":"被选中者；（神学）被上帝选定得救的人；精英分子。",
+      "SENT_EN":"He believed that only a small portion of the population belonged to the elect.",
+      "SENT_ZH":"他相信只有一小部分人属于被选中者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chosen",
+            "elite",
+            "privileged"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal to common, frequently used in political contexts"
+}

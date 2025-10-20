@@ -1,0 +1,113 @@
+{
+  "WORD":"machine",
+  "IPA":"/məˈʃiːn/",
+  "CONJUGATES":"machines (n. pl.) | machines | machining | machined (v.)",
+  "ETYMOLOGY":"From Middle French machine, from Latin māchina ('device, contrivance, engine'), derived from Doric Greek μαχανά (makhaná), Attic μηχανή (mēkhanḗ 'device, means, trick').",
+  "SINCE":"c. 1540s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (mechanical device)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"An apparatus consisting of various parts working together to apply power or perform a specific task.",
+      "DEF_ZH":"由多个部件协同工作，用于施加动力或执行特定任务的设备或装置。",
+      "SENT_EN":"The factory uses automated machines to assemble the car parts quickly.",
+      "SENT_ZH":"工厂使用自动化机器快速组装汽车零件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apparatus",
+            "mechanism",
+            "engine",
+            "device",
+            "appliance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "machinery",
+            "robot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (system/organization)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "political",
+        "organizational"
+      ],
+      "DEF_EN":"A highly efficient, organized system or structure, often used to describe political parties or bureaucratic organizations.",
+      "DEF_ZH":"一个高效、组织严密的系统或结构，常用于描述政党或官僚机构。",
+      "SENT_EN":"He felt helpless against the relentless machine of corporate bureaucracy.",
+      "SENT_ZH":"在公司官僚主义这台无情的机器面前，他感到无助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "system",
+            "organization",
+            "establishment",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (person acting automatically)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "metaphorical",
+        "descriptive"
+      ],
+      "DEF_EN":"A person who acts automatically or impersonally, often without emotion or critical thought.",
+      "DEF_ZH":"一个行事自动或不带个人感情的人，通常缺乏情感或批判性思维。",
+      "SENT_EN":"The accountant worked like a machine, processing hundreds of forms without error.",
+      "SENT_ZH":"那位会计师像一台机器一样工作，处理了数百份表格却从未出错。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automaton",
+            "robot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"machine [sth] (manufacture)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "specialized"
+      ],
+      "DEF_EN":"To make, shape, or finish something with a machine, often involving cutting or precise tooling.",
+      "DEF_ZH":"用机器制造、成型或精加工某物，通常涉及切割或精确加工。",
+      "SENT_EN":"The engineers had to machine the alloy down to the exact specifications.",
+      "SENT_ZH":"工程师们必须用机器将合金加工到精确的规格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tool",
+            "mill",
+            "process"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Political"
+}

@@ -1,0 +1,107 @@
+{
+  "WORD":"governor",
+  "IPA":"/ˈɡʌvənər/",
+  "CONJUGATES":"governors",
+  "ETYMOLOGY":"From Anglo-Norman governour, from Old French governeor, from Latin gubernātor ('steersman', 'ruler'), from gubernāre ('to steer', 'to guide', 'to govern').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "politics"
+      ],
+      "DEF_EN":"An official elected or appointed to be the chief executive of a state, province, or territory in certain political systems (like the US).",
+      "DEF_ZH":"（尤指美国各州或某些联邦国家的）州长；总督；省长。",
+      "SENT_EN":"The state governor announced a new plan for educational reform.",
+      "SENT_ZH":"州长宣布了一项新的教育改革计划。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ruler",
+            "administrator",
+            "chief executive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "vice governor",
+            "lieutenant governor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "administration"
+      ],
+      "DEF_EN":"A person who is in charge of a public institution, such as a hospital, prison, or bank.",
+      "DEF_ZH":"（银行、监狱、医院等机构的）理事；董事；主管。",
+      "SENT_EN":"She was appointed as a governor of the central bank.",
+      "SENT_ZH":"她被任命为中央银行的理事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "director",
+            "trustee",
+            "board member"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"A device used to automatically control the speed of an engine or motor.",
+      "DEF_ZH":"调速器；调节器（控制机器或发动机速度的装置）。",
+      "SENT_EN":"The engine's governor prevented it from over-revving.",
+      "SENT_ZH":"发动机的调速器防止了其转速过高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regulator",
+            "controller"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "old word",
+        "historical"
+      ],
+      "DEF_EN":"A tutor or teacher of children, especially in a wealthy household.",
+      "DEF_ZH":"（旧时富人家的）家庭教师；私人导师。",
+      "SENT_EN":"In Victorian times, a young lady often had a private governor.",
+      "SENT_ZH":"在维多利亚时代，年轻的女士常常有一位私人导师。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tutor",
+            "governess"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal or technical"
+}

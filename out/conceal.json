@@ -1,0 +1,80 @@
+{
+  "WORD":"conceal",
+  "IPA":"/kənˈsiːl/",
+  "CONJUGATES":"conceals | concealing | concealed",
+  "ETYMOLOGY":"From Anglo-Norman conceler, from Latin concelare (con- 'together, completely' + celare 'to hide').",
+  "SINCE":"Late Middle English (c. 1350–1450)",
+  "MEANINGS":[
+    {
+      "PATTERN":"conceal [sth]\nconceal [sth] from [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To prevent something from being seen, discovered, or known; to hide.",
+      "DEF_ZH":"隐藏；隐瞒；掩盖，不暴露。",
+      "SENT_EN":"He tried to conceal the damage to his car from his parents.",
+      "SENT_ZH":"他试图向父母隐瞒他的汽车受损的事实。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hide",
+            "mask",
+            "screen",
+            "disguise",
+            "cloak"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reveal",
+            "expose",
+            "disclose",
+            "display"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"conceal [information/evidence]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: requires a direct object",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To keep facts, intentions, or evidence secret, often intentionally or illegally.",
+      "DEF_ZH":"保密；保守（信息或证据）。",
+      "SENT_EN":"The company was accused of concealing financial documents during the investigation.",
+      "SENT_ZH":"该公司被指控在调查期间隐瞒财务文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "withhold",
+            "suppress",
+            "obfuscate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "divulge",
+            "uncover"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "concealment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; slightly more formal than 'hide' when referring to actions or intentions."
+}

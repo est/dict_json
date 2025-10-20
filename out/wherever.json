@@ -1,0 +1,76 @@
+{
+  "WORD":"wherever",
+  "IPA":"/wɛrˈɛvər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound of Middle English 'where' (from Old English 'hwǣr') and 'ever' (from Old English 'æfre').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"wherever [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction (connects clauses, usually subordinating)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"In or to any and every place that; used to indicate that the location is entirely unrestricted.",
+      "DEF_ZH":"无论在哪里；在任何地方；凡是...的地方。",
+      "SENT_EN":"I will go wherever duty calls me.",
+      "SENT_ZH":"无论责任召唤我去哪里，我都会去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anywhere",
+            "everywhere that"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wherever [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction (connects clauses)",
+      "TAGS":[
+        "common",
+        "indifference"
+      ],
+      "DEF_EN":"Used to show indifference or lack of concern about the specific location.",
+      "DEF_ZH":"在随便什么地方；无论在何处（表示不重要或不关心具体位置）。",
+      "SENT_EN":"You can leave your shoes wherever you like, as long as they are clean.",
+      "SENT_ZH":"只要你的鞋子干净，你想把它们放在哪里都可以。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "no matter where"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[question/statement] wherever?",
+      "POS":"adv",
+      "POS_TIP":"adverb (modifies a verb, adjective, or other adverb)",
+      "TAGS":[
+        "informal",
+        "rhetorical",
+        "emphasis"
+      ],
+      "DEF_EN":"Used emphatically at the end of a question or statement, often expressing puzzlement, frustration, or disbelief regarding a location.",
+      "DEF_ZH":"究竟在哪里；到底在什么地方（加强疑问语气，常用于口语）。",
+      "SENT_EN":"He said the meeting was in the library, but where is the library, wherever?",
+      "SENT_ZH":"他说会议在图书馆，但图书馆到底在哪里？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "where on earth",
+            "where the heck"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, though the third meaning is distinctly informal."
+}

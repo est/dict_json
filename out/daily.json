@@ -1,0 +1,85 @@
+{
+  "WORD":"daily",
+  "IPA":"/ˈdeɪli/",
+  "CONJUGATES":"dailies (n. pl.)",
+  "ETYMOLOGY":"From Middle English dayly, formed from day + the suffix -ly (used to form adjectives and adverbs).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"daily [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Occurring, done, or published every day; relating to a day.",
+      "DEF_ZH":"每日的；日常的；按日计算的。",
+      "SENT_EN":"Checking emails is part of my daily routine.",
+      "SENT_ZH":"查收邮件是我日常工作的一部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "everyday",
+            "quotidian"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "weekly",
+            "monthly",
+            "annual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] daily",
+      "POS":"adv",
+      "POS_TIP":"adverb (modifies a verb, adjective, or another adverb)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Once every day; day by day.",
+      "DEF_ZH":"每日地；天天。",
+      "SENT_EN":"The nurses visit the patient daily to check his vital signs.",
+      "SENT_ZH":"护士每天都会来探望病人，检查他的生命体征。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "every day",
+            "on a daily basis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a daily (n)",
+      "POS":"n",
+      "POS_TIP":"noun (a person, place, or thing)",
+      "TAGS":[
+        "specific usage",
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"A newspaper published every day (a daily newspaper); or, less commonly, a person employed to clean a house daily.",
+      "DEF_ZH":"日报；（非正式，旧称）每天来帮忙做家务的人（日工）。",
+      "SENT_EN":"I picked up the local daily to read the sports results.",
+      "SENT_ZH":"我买了当地的日报，查看体育比赛结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "newspaper",
+            "journal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English usage."
+}

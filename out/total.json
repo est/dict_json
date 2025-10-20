@@ -1,0 +1,135 @@
+{
+  "WORD":"total",
+  "IPA":"/ˈtoʊtəl/",
+  "CONJUGATES":"totals | totaled | totaling | totally",
+  "ETYMOLOGY":"From Medieval Latin totalis, derived from Latin totus ('whole, all, entire').",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is total",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Comprising the whole amount or number; complete.",
+      "DEF_ZH":"总的；全部的；完整的。",
+      "SENT_EN":"The total cost of the repairs exceeded the budget.",
+      "SENT_ZH":"维修的总费用超出了预算。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "complete",
+            "entire",
+            "whole",
+            "aggregate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "partial",
+            "incomplete"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the total",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "finance"
+      ],
+      "DEF_EN":"The whole number or amount; the sum.",
+      "DEF_ZH":"总数；总额；合计。",
+      "SENT_EN":"The waiter brought the bill and we checked the total.",
+      "SENT_ZH":"服务员拿来了账单，我们核对了总额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sum",
+            "whole",
+            "grand total"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"total [sth]\ntotal to [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb (needs object) | intransitive verb (does not need object)",
+      "TAGS":[
+        "common",
+        "calculation"
+      ],
+      "DEF_EN":"Amount in number or quantity to; calculate the sum of.",
+      "DEF_ZH":"总计为；合计达（某数量）。",
+      "SENT_EN":"The donations totaled over ten thousand dollars.",
+      "SENT_ZH":"捐款总计超过了一万美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amount to",
+            "add up to",
+            "sum up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a total [failure/disaster]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "intensifying",
+        "common"
+      ],
+      "DEF_EN":"Utter or absolute (used for emphasis, often with negative connotation).",
+      "DEF_ZH":"绝对的；彻底的；完全的。",
+      "SENT_EN":"The concert was a total failure because of the technical problems.",
+      "SENT_ZH":"由于技术问题，这场音乐会彻底失败了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "absolute",
+            "utter",
+            "unqualified"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"total [sth] (a car)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (needs object)",
+      "TAGS":[
+        "slang",
+        "informal",
+        "US English"
+      ],
+      "DEF_EN":"To severely damage (especially a vehicle) so that it is beyond repair (a 'total loss').",
+      "DEF_ZH":"使（车辆）彻底报废；使遭受全损。",
+      "SENT_EN":"He skidded on the ice and totaled the company car.",
+      "SENT_ZH":"他在冰上打滑，把那辆公司用车撞报废了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wreck",
+            "destroy",
+            "demolish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, commerce, mathematics."
+}

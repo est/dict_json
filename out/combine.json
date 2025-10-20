@@ -1,0 +1,89 @@
+{
+  "WORD":"combine",
+  "IPA":"/kəmˈbaɪn/",
+  "CONJUGATES":"combines | combining | combined",
+  "ETYMOLOGY":"From Old French combiner, from Latin combinare (com- 'together' + bini 'two by two').",
+  "SINCE":"Late Middle English (c. 1380)",
+  "MEANINGS":[
+    {
+      "PATTERN":"combine [sth] (with [sth])\ncombine [sth] and [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"vtr: transitive verb (takes a direct object) | vintr: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To join or mix two or more things together to form a single unit or substance.",
+      "DEF_ZH":"将两件或更多事物合并、混合或联合起来，形成一个整体。",
+      "SENT_EN":"They decided to combine their resources to launch the new business.",
+      "SENT_ZH":"他们决定联合资源来启动这项新业务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "join",
+            "merge",
+            "unify",
+            "integrate",
+            "blend"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "divide",
+            "disperse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A combine\noperate a combine",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "technical",
+        "agriculture"
+      ],
+      "DEF_EN":"A large agricultural machine (combine harvester) that cuts, threshes, and cleans a grain crop while moving across the field.",
+      "DEF_ZH":"联合收割机（简称联合机），一种集收割、脱粒、扬谷于一体的大型农业机械。",
+      "SENT_EN":"The farmer spent the harvest season fixing the old combine.",
+      "SENT_ZH":"农民用整个收获季来修理那台旧的联合收割机。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "harvester",
+            "thresher",
+            "tractor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"combine [chemically/mathematically]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"vintr: intransitive verb | vtr: transitive verb",
+      "TAGS":[
+        "technical",
+        "specific"
+      ],
+      "DEF_EN":"To unite chemically to form a compound or mathematically to form a set or grouping.",
+      "DEF_ZH":"（在化学或数学上）化合；结合。",
+      "SENT_EN":"Hydrogen and oxygen combine to form water, H₂O.",
+      "SENT_ZH":"氢气和氧气结合形成水（H₂O）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "react",
+            "compound",
+            "coalesce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical uses in agriculture and chemistry."
+}

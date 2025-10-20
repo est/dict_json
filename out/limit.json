@@ -1,0 +1,97 @@
+{
+  "WORD":"limit",
+  "IPA":"/ˈlɪmɪt/",
+  "CONJUGATES":"limits (n, v) | limited (v, adj) | limiting (v, adj)",
+  "ETYMOLOGY":"From Middle French limite, from Latin līmes (stem līmit-), meaning 'boundary, frontier, path, track'.",
+  "SINCE":"Early 15th century (noun); Late 16th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A point or level beyond which something does not or may not extend or pass; a restriction.",
+      "DEF_ZH":"界限；限制；范围；阈值。",
+      "SENT_EN":"There is a strict weight limit for carry-on luggage.",
+      "SENT_ZH":"随身携带的行李有严格的重量限制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "boundary",
+            "constraint",
+            "restriction",
+            "maximum"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "limitation",
+            "border",
+            "extent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the limits of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "plural"
+      ],
+      "DEF_EN":"The furthest extent of capability, endurance, or area; the boundary or scope of a subject.",
+      "DEF_ZH":"（能力、耐力或范围的）极限；尽头。",
+      "SENT_EN":"The engineers tested the limits of the new material's strength.",
+      "SENT_ZH":"工程师们测试了新材料强度的极限。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extreme",
+            "verge",
+            "brink"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"limit [sth]\nlimit [sb] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To restrict or confine within certain boundaries; to place a maximum restriction on.",
+      "DEF_ZH":"限制；约束；划定界限。",
+      "SENT_EN":"The doctor advised him to limit his intake of sugar.",
+      "SENT_ZH":"医生建议他限制糖分的摄入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrict",
+            "curb",
+            "confine",
+            "regulate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expand",
+            "broaden",
+            "increase"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral/General usage."
+}

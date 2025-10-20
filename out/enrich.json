@@ -1,0 +1,87 @@
+{
+  "WORD":"enrich",
+  "IPA":"/ɪnˈrɪtʃ/",
+  "CONJUGATES":"enriches | enriching | enriched",
+  "ETYMOLOGY":"From Middle English enrichen, from Old French enrichir (en- 'in, make' + riche 'rich').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"enrich [sth]\nenrich [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To improve the quality, value, or material wealth of someone or something.",
+      "DEF_ZH":"使某人或某事物富裕、充实或提高其质量、价值。",
+      "SENT_EN":"The new trade agreement is expected to enrich both participating nations.",
+      "SENT_ZH":"这项新的贸易协定预计将使两个参与国都富裕起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "augment",
+            "make wealthy",
+            "prosper"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "impoverish",
+            "deplete"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enrich [sth] (with [sth])",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "science",
+        "cooking"
+      ],
+      "DEF_EN":"To increase the concentration of a valuable or desirable component in a substance or food, often for nutritional or chemical purposes.",
+      "DEF_ZH":"增加（食物或物质中）有价值或营养成分的含量；使浓缩。",
+      "SENT_EN":"Bread is often enriched with iron and B vitamins.",
+      "SENT_ZH":"面包通常会添加铁和维生素B来使其营养更丰富。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fortify",
+            "supplement",
+            "enhance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enrich [sb]\nenrich [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "abstract",
+        "positive"
+      ],
+      "DEF_EN":"To make life, knowledge, or experience more meaningful, interesting, or fulfilling.",
+      "DEF_ZH":"充实（生活、知识或经验），使其更有意义、更有价值。",
+      "SENT_EN":"Reading classical literature can greatly enrich one's understanding of human nature.",
+      "SENT_ZH":"阅读古典文学可以极大地丰富一个人对人性的理解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "broaden",
+            "deepen",
+            "cultivate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and formal usage, common in academic and economic contexts."
+}

@@ -1,0 +1,92 @@
+{
+  "WORD":"passive",
+  "IPA":"/ˈpæsɪv/",
+  "CONJUGATES":"passively (adv) | passiveness (n) | passivity (n)",
+  "ETYMOLOGY":"From Latin passivus (able to endure, suffering), from passus (past participle of pati 'to suffer, endure')",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] or [sth] is passive",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "behavior"
+      ],
+      "DEF_EN":"Accepting or allowing what happens or what others do, without active response or resistance.",
+      "DEF_ZH":"被动的；消极的；顺从的；不抵抗的。",
+      "SENT_EN":"The company's approach to market changes was completely passive, which led to losses.",
+      "SENT_ZH":"该公司应对市场变化的方针完全是被动的，这导致了损失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "submissive",
+            "compliant",
+            "acquiescent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "active",
+            "aggressive",
+            "proactive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"passive voice / form",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "linguistics",
+        "technical"
+      ],
+      "DEF_EN":"(Of a verb form or voice) indicating that the grammatical subject is the recipient of the action rather than the performer of the action.",
+      "DEF_ZH":"(语法) 被动语态的。",
+      "SENT_EN":"The sentence 'The ball was thrown by the pitcher' is in the passive voice.",
+      "SENT_ZH":"“球被投掷者扔出”这个句子属于被动语态。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "active"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"passive [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "electronics",
+        "physics"
+      ],
+      "DEF_EN":"Relating to a device or system that draws power from the signal or source itself, without requiring an external power supply or amplification.",
+      "DEF_ZH":"(电子/技术) 无源的；非主动的；不消耗能量的。",
+      "SENT_EN":"A thermometer is a passive sensor, as it only measures temperature without needing external power.",
+      "SENT_ZH":"温度计是一种无源传感器，因为它只测量温度而不需要外部电源。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "passive component",
+            "passive cooling"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "active"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal to informal, depending on context"
+}

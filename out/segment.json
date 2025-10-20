@@ -1,0 +1,86 @@
+{
+  "WORD":"segment",
+  "IPA":"/ˈsɛɡmənt/",
+  "CONJUGATES":"segments | segmented | segmenting",
+  "ETYMOLOGY":"From Latin segmentum ('a cutting, a piece cut off'), derived from secare ('to cut')",
+  "SINCE":"c. 1400s (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"segment [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"One of the parts into which something naturally separates or is divided; a section or piece.",
+      "DEF_ZH":"整体中的一部分；区段；片段。",
+      "SENT_EN":"We need to analyze this specific segment of the customer base.",
+      "SENT_ZH":"我们需要分析这个特定的客户群部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "section",
+            "portion",
+            "division",
+            "part"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "segmentation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"segment [sth] (into [sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To divide something into smaller sections or parts.",
+      "DEF_ZH":"将某物分成若干部分或区段。",
+      "SENT_EN":"The company decided to segment the market geographically.",
+      "SENT_ZH":"公司决定按地理位置划分市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divide",
+            "partition",
+            "split"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"segment (Geometry\nAnatomy)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "specialized"
+      ],
+      "DEF_EN":"(Geometry) A part of a circle bounded by an arc and a chord, or (Anatomy) any of the repeated homologous parts, as in an insect's body or a spinal cord.",
+      "DEF_ZH":"(几何) 弓形；(生物) 节；体节。",
+      "SENT_EN":"In the diagram, the line segment connects points A and B.",
+      "SENT_ZH":"在图表中，这条线段连接了A点和B点。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chord",
+            "arc",
+            "line segment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general | formal"
+}

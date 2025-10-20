@@ -1,0 +1,121 @@
+{
+  "WORD":"wire",
+  "IPA":"/ˈwaɪər/",
+  "CONJUGATES":"wires | wiring | wired",
+  "ETYMOLOGY":"From Middle English *wir*, from Old English *wīr* (metal drawn out into a thread). Related to Old Norse *víra* (to string, adorn with wire).",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[metal] wire\npiece of wire",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "material"
+      ],
+      "DEF_EN":"Metal drawn out into a thread or slender rod, typically used to conduct electricity, bear a load, or form a spring or mesh.",
+      "DEF_ZH":"金属拉成的细线或细棒，常用于导电、承重或制作弹簧和网格。",
+      "SENT_EN":"The sculptor used thin aluminum wire to create the frame.",
+      "SENT_ZH":"雕塑家使用细铝线来制作框架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cable",
+            "filament",
+            "strand"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cord",
+            "rope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wire [sth]\nwire [sth] up",
+      "POS":"vtr | vtr + adv",
+      "POS_TIP":"transitive verb | transitive verb + adverb",
+      "TAGS":[
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"To install electric circuits or components within (a device or structure).",
+      "DEF_ZH":"为（设备或结构）安装电线或布线。",
+      "SENT_EN":"The contractor needs to wire the kitchen before the inspection.",
+      "SENT_ZH":"承包商需要在检查前完成厨房的布线工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "circuit",
+            "install"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wire [money] to [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To send money electronically, typically through a bank or money transfer service.",
+      "DEF_ZH":"（通过银行或转账服务）电汇、汇款。",
+      "SENT_EN":"She wired the full payment to the overseas supplier this morning.",
+      "SENT_ZH":"她今天早上把全额款项电汇给了海外供应商。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "remit",
+            "send"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get crossed wires\ndown to the wire | wire fence",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic"
+      ],
+      "DEF_EN":"A concealed listening or recording device, or the use of such a device; also used generally in idioms related to communication or closeness.",
+      "DEF_ZH":"窃听装置；（在惯用语中）指通讯线路或最后期限。",
+      "SENT_EN":"The competition came right down to the wire, with the winner decided in the final second.",
+      "SENT_ZH":"这场比赛一直僵持到最后关头，直到最后一秒才决出胜负。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"send [sb] a wire",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "dated",
+        "communication"
+      ],
+      "DEF_EN":"A message sent by telegraph (a telegram or cable).",
+      "DEF_ZH":"电报；电文（旧称）。",
+      "SENT_EN":"In those days, if you needed to send an urgent message, you sent a wire.",
+      "SENT_ZH":"在那些日子里，如果你需要发送紧急信息，你就会发电报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "telegram",
+            "cable"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Technical | Finance"
+}

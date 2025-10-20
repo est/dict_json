@@ -1,0 +1,95 @@
+{
+  "WORD":"qualify",
+  "IPA":"/ˈkwɑːlɪfaɪ/",
+  "CONJUGATES":"qualifies | qualified | qualifying",
+  "ETYMOLOGY":"From Medieval Latin *qualificare*, combining Latin *qualis* ('of what kind') and *facere* ('to make').",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"qualify (for [sth])\nqualify (as [sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "eligibility"
+      ],
+      "DEF_EN":"To be eligible for something, or to meet the necessary standard or requirement for participation or status.",
+      "DEF_ZH":"具备资格；达到标准或要求以获得参与或地位。",
+      "SENT_EN":"Only the top three teams will qualify for the finals.",
+      "SENT_ZH":"只有排名前三的队伍才能获得决赛资格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be eligible",
+            "meet requirements",
+            "certify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disqualify",
+            "fail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"qualify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "academic",
+        "modification"
+      ],
+      "DEF_EN":"To make a statement or assertion less absolute; to add a restriction or limitation to a general claim or definition.",
+      "DEF_ZH":"限定或限制（某种陈述或断言），使其不那么绝对或一般。",
+      "SENT_EN":"We must qualify this assertion by acknowledging the preliminary nature of the data.",
+      "SENT_ZH":"我们必须通过承认数据的初步性质来限定这一断言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "modify",
+            "restrict",
+            "temper",
+            "limit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"qualify [sb] (as [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "professional",
+        "official"
+      ],
+      "DEF_EN":"To officially recognize someone as having the necessary skills or training to practice a particular profession.",
+      "DEF_ZH":"正式认定某人已达到从事某一职业所需的标准；授予资格或执照。",
+      "SENT_EN":"She qualified as a surgeon after seven years of medical training.",
+      "SENT_ZH":"经过七年的医学培训，她获得了外科医生的资格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "license",
+            "authorize",
+            "train"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "qualification"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, academic, and professional contexts."
+}

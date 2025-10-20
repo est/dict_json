@@ -1,0 +1,132 @@
+{
+  "WORD":"sick",
+  "IPA":"/sɪk/",
+  "CONJUGATES":"sicker | sickest | sickening | sickened",
+  "ETYMOLOGY":"From Old English sēoc (sick, ill, weak), derived from Proto-Germanic *seukaz. It shares roots with modern German siech.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is sick",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Suffering from an illness or disease; not in good health.",
+      "DEF_ZH":"生病的；不舒服的；患病的。",
+      "SENT_EN":"She was too sick to attend the meeting today.",
+      "SENT_ZH":"她今天病得太重，无法参加会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ill",
+            "unwell",
+            "ailing"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "healthy",
+            "well"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] feels sick",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "nausea"
+      ],
+      "DEF_EN":"Feeling nauseous or wanting to vomit.",
+      "DEF_ZH":"恶心的；想吐的。",
+      "SENT_EN":"The motion of the train made me feel sick.",
+      "SENT_ZH":"火车晃动让我感到恶心想吐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nauseous",
+            "queasy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is sick",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "slang",
+        "modern",
+        "positive connotation"
+      ],
+      "DEF_EN":"Extremely impressive, excellent, or cool.",
+      "DEF_ZH":"酷毙的；非常棒的；令人印象深刻的。",
+      "SENT_EN":"That skateboarding trick was absolutely sick!",
+      "SENT_ZH":"那个滑板特技真是太酷了！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "awesome",
+            "dope",
+            "wicked"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is sick of [sth/sb]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective plus preposition",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Annoyed, bored, or disgusted by something or someone (usually requiring the preposition 'of').",
+      "DEF_ZH":"厌烦的；受够了的。",
+      "SENT_EN":"I am sick of listening to their constant complaining.",
+      "SENT_ZH":"我受够了听他们没完没了地抱怨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weary",
+            "fed up",
+            "disgusted"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is sick",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "emotion",
+        "derogatory"
+      ],
+      "DEF_EN":"Having or showing a morbid, twisted, or psychologically disturbing nature, often applied to humor or jokes.",
+      "DEF_ZH":"病态的；变态的；令人不安的（尤指幽默或想法）。",
+      "SENT_EN":"The way he described the accident was frankly sick.",
+      "SENT_ZH":"他对事故的描述坦率地说很变态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "morbid",
+            "perverse",
+            "twisted"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies widely from clinical/formal (Meaning 1) to highly informal/slang (Meaning 3)."
+}

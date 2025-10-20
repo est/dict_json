@@ -1,0 +1,88 @@
+{
+  "WORD":"plague",
+  "IPA":"/pleɪɡ/",
+  "CONJUGATES":"plagues | plagued | plaguing",
+  "ETYMOLOGY":"From Middle English *plague*, from Old French *plague*, from Latin *plāga* ('stroke', 'wound', 'calamity'), ultimately from Greek *plēgḗ* ('stroke', 'blow'). The specific meaning relating to infectious disease became dominant during the time of the Black Death.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the plague]\n[a plague]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "historical"
+      ],
+      "DEF_EN":"A highly infectious, often fatal, epidemic disease, especially bubonic plague, caused by the bacterium Yersinia pestis.",
+      "DEF_ZH":"一种高传染性、通常致命的流行病，尤指由鼠疫杆菌引起的鼠疫（黑死病）。",
+      "SENT_EN":"The 14th century was marked by a massive outbreak of the plague across Europe.",
+      "SENT_ZH":"14世纪的特征是瘟疫在欧洲大规模爆发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pestilence",
+            "epidemic",
+            "pandemic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Black Death",
+            "Yersinia pestis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a plague of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"An unusually large number of damaging or troublesome things, especially destructive insects.",
+      "DEF_ZH":"指异常大量具有破坏性或麻烦的事物，尤指破坏性的昆虫。",
+      "SENT_EN":"The farmers complained about a plague of grasshoppers ruining their crops.",
+      "SENT_ZH":"农民们抱怨蝗虫成灾毁坏了他们的庄稼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "infestation",
+            "multitude",
+            "scourge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plague [sb]\nplague [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "distress"
+      ],
+      "DEF_EN":"To cause continual trouble or distress to someone; to trouble, annoy, or harass persistently.",
+      "DEF_ZH":"持续地给某人带来麻烦或痛苦；不断地烦扰、困扰。",
+      "SENT_EN":"He was plagued by painful headaches throughout his final exams.",
+      "SENT_ZH":"在期末考试期间，他一直受到剧烈头痛的困扰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bother",
+            "torment",
+            "pester",
+            "harass"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often associated with historical disaster, or used figuratively to mean severe annoyance."
+}

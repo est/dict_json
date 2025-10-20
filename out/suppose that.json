@@ -1,0 +1,62 @@
+{
+  "WORD":"suppose that",
+  "IPA":"/səˈpoʊz ðæt/",
+  "CONJUGATES":"supposes | supposing | supposed",
+  "ETYMOLOGY":"Formed from the verb 'suppose' (from Old French supposer, sub- 'under' + ponere 'to put') followed by the conjunction 'that'.",
+  "SINCE":"c. 16th Century (as a fixed conditional phrase)",
+  "MEANINGS":[
+    {
+      "PATTERN":"suppose that [clause]",
+      "POS":"Conjunction | Conditional Marker (Phrase)",
+      "POS_TIP":"A phrase used to introduce a hypothesis, an imagined situation, or a proposal, often followed by a question or a consequence.",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to introduce a hypothetical statement or condition, serving to prompt consideration or discussion about potential outcomes.",
+      "DEF_ZH":"用于引出一个假设性陈述或条件句，以促使人们思考或讨论某种潜在的结果。",
+      "SENT_EN":"Suppose that we lost all our data; what would be our recovery plan?",
+      "SENT_ZH":"假设我们丢失了所有数据；我们的恢复计划会是什么？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assuming that",
+            "what if",
+            "if"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "let's assume"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suppose that [fact/clause]",
+      "POS":"Concessive Conjunction (Phrase)",
+      "POS_TIP":"A phrase used to acknowledge a possibility or fact, often leading into a contrasting statement or argument.",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To grant or admit something as true for the sake of argument, often preceding a contrasting point.",
+      "DEF_ZH":"承认或接受某事为真（通常是为了辩论或引出对比观点）。",
+      "SENT_EN":"Suppose that statement is true, it still does not prove the defendant’s motive.",
+      "SENT_ZH":"就算那个陈述是真的，它仍然不能证明被告的动机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "granting that",
+            "even if"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General conversation, academic, and formal writing."
+}

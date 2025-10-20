@@ -1,0 +1,85 @@
+{
+  "WORD":"PRISONER",
+  "IPA":"/ˈprɪzənər/",
+  "CONJUGATES":"prisoners",
+  "ETYMOLOGY":"From Anglo-Norman and Old French *prisonier*, derived from *prison* (prison), ultimately from Latin *prensionem* (a taking, seizing).",
+  "SINCE":"c. 1300 (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"Noun",
+      "POS_TIP":"A word that names a person, place, or thing.",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A person legally confined in prison or jail as a punishment for a crime, or while awaiting trial.",
+      "DEF_ZH":"因犯罪或等待审判而被合法关押在监狱或拘留所中的人；犯人，囚犯。",
+      "SENT_EN":"The judge sentenced the prisoner to five years of hard labor.",
+      "SENT_ZH":"法官判处该犯人五年苦役。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inmate",
+            "convict",
+            "felon"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "captivity",
+            "incarceration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (often in the phrase 'prisoner of war')",
+      "POS":"Noun",
+      "POS_TIP":"A word that names a person, place, or thing.",
+      "TAGS":[
+        "military",
+        "specific use"
+      ],
+      "DEF_EN":"A soldier or combatant captured and held by the enemy during a war or conflict.",
+      "DEF_ZH":"在战争或冲突中被敌方俘虏并关押的士兵或战斗人员；战俘。",
+      "SENT_EN":"They negotiated the release of the remaining prisoners of war.",
+      "SENT_ZH":"他们就释放剩余战俘进行了谈判。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "POW",
+            "hostage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (prisoner of [sth])",
+      "POS":"Noun + prep phrase",
+      "POS_TIP":"A word that names a person, place, or thing, followed by a prepositional phrase.",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A person who is constrained, trapped, or controlled by an emotion, condition, or circumstance.",
+      "DEF_ZH":"被某种情感、状况或环境所束缚或控制的人；受制于...",
+      "SENT_EN":"She felt like a prisoner of her own past failures.",
+      "SENT_ZH":"她感觉自己是过去失败的囚徒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slave",
+            "captive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and General Usage"
+}

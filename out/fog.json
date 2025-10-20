@@ -1,0 +1,87 @@
+{
+  "WORD":"fog",
+  "IPA":"/fɒɡ/",
+  "CONJUGATES":"fogs (n) | fogged (v) | fogging (v) | fogs (v)",
+  "ETYMOLOGY":"From Middle English *fogge*, likely from Old Norse *fok* 'spray, storm, snowdrift', possibly influenced by a dialectal English word *fog* 'long grass'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"fog",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that obscures or restricts visibility.",
+      "DEF_ZH":"大气中悬浮的微小水滴形成的浓密云团，位于或接近地表，会遮蔽或限制能见度。",
+      "SENT_EN":"Dense fog blanketed the city, causing flight delays.",
+      "SENT_ZH":"浓雾笼罩了城市，导致航班延误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mist",
+            "haze",
+            "smog"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cloud"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fog [of sth]\nin a fog",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A state of mental confusion or lack of clarity; a bewildered state.",
+      "DEF_ZH":"精神困惑或思维不清的状态；迷茫。",
+      "SENT_EN":"He often finds himself in a fog after working long hours.",
+      "SENT_ZH":"长时间工作后，他常常感到头脑一片迷糊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "haze",
+            "daze",
+            "bewilderment",
+            "confusion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fog [sth]\n[sth] fogs",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To cover or become covered with a film that obscures vision; to make or become unclear or confused.",
+      "DEF_ZH":"覆盖或被覆盖上一层阻碍视线的薄膜；使变得模糊或混乱。",
+      "SENT_EN":"The cold air fogged my glasses when I stepped inside.",
+      "SENT_ZH":"我一走进室内，冷空气就让我的眼镜蒙上了一层雾气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cloud",
+            "blur",
+            "obscure",
+            "haze"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

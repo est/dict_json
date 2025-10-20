@@ -1,0 +1,121 @@
+{
+  "WORD":"control",
+  "IPA":"/kənˈtroʊl/",
+  "CONJUGATES":"controls | controlling | controlled",
+  "ETYMOLOGY":"From Old French contrerolle (a register or ledger used to verify accounts), formed from contre- (against) + rolle (a roll, list). The sense evolved from verification to management and command.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"control [sb]\ncontrol [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "management",
+        "power"
+      ],
+      "DEF_EN":"To exercise authority or directing influence over something or someone; to determine the behavior or course of.",
+      "DEF_ZH":"对某事物或某人行使权力或指导性影响；决定其行为或进程。",
+      "SENT_EN":"The manager controls the budget and hiring decisions for the department.",
+      "SENT_ZH":"经理控制着该部门的预算和招聘决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manage",
+            "direct",
+            "govern",
+            "dominate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "free",
+            "release",
+            "yield"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have control over [sth]\nunder [sb's] control",
+      "POS":"n [uncountable]",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "authority"
+      ],
+      "DEF_EN":"The power or ability to direct, manage, or restrain something; command.",
+      "DEF_ZH":"指挥、管理或约束某事物的权力或能力；支配权。",
+      "SENT_EN":"The pilot maintained strict control over the aircraft during the storm.",
+      "SENT_ZH":"在暴风雨期间，飞行员对飞机保持了严格的控制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "authority",
+            "mastery",
+            "command"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "self-control",
+            "out of control"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"control [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "regulation",
+        "restriction"
+      ],
+      "DEF_EN":"To limit or restrict something, often to prevent increase, spread, or excessive intensity.",
+      "DEF_ZH":"限制或约束某事物，通常是为了防止其增加、扩散或强度过大。",
+      "SENT_EN":"It is difficult to control one's emotions during a crisis.",
+      "SENT_ZH":"在危机期间，很难控制自己的情绪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "regulate",
+            "restrain",
+            "curb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a control for [sth]\nthe controls",
+      "POS":"n [countable]",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "device"
+      ],
+      "DEF_EN":"A mechanism, device, or input used to operate or regulate a machine or system.",
+      "DEF_ZH":"用于操作或调节机器或系统的机制、装置或输入设备。",
+      "SENT_EN":"The aircraft’s flight controls were unresponsive.",
+      "SENT_ZH":"飞机的飞行控制装置没有反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "switch",
+            "dial",
+            "regulator",
+            "lever"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Business | Technical"
+}

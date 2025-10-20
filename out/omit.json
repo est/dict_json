@@ -1,0 +1,73 @@
+{
+  "WORD":"omit",
+  "IPA":"/oʊˈmɪt/",
+  "CONJUGATES":"omits | omitting | omitted",
+  "ETYMOLOGY":"From Latin omittere (ob- 'away' + mittere 'send, let go'), meaning 'let go of, neglect'",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"omit [sth]\nomit [to do sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object) | vintr: intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To leave out or fail to include (something or someone), either intentionally or accidentally.",
+      "DEF_ZH":"遗漏；忽略；忘记列入。",
+      "SENT_EN":"The final document was perfect except that they accidentally omitted the date.",
+      "SENT_ZH":"这份最终文件是完美的，只是他们不小心遗漏了日期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exclude",
+            "skip",
+            "leave out",
+            "miss out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "include",
+            "insert",
+            "add"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"omit [sth] (duty/action)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "duty/law"
+      ],
+      "DEF_EN":"To neglect or fail to perform an action, duty, or responsibility.",
+      "DEF_ZH":"疏忽；未能履行（职责或行动）。",
+      "SENT_EN":"The company was penalized for deliberately omitting its duty to report hazardous waste.",
+      "SENT_ZH":"该公司因故意疏忽报告危险废物的责任而受到处罚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "neglect",
+            "fail",
+            "disregard"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fulfill",
+            "perform",
+            "execute"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English; slightly formal when referring to duties or legal contexts."
+}

@@ -1,0 +1,156 @@
+{
+  "WORD":"bore",
+  "IPA":"/bɔːr/",
+  "CONJUGATES":"bores | boring | bored",
+  "ETYMOLOGY":"From Old English *borian* 'to bore' (a hole), from Proto-Germanic *borōną*. The sense of 'to make weary' emerged in the late 18th century, of uncertain origin but possibly related to the noun 'bore' (a tedious person) or a metaphorical extension of 'drilling into' patience. The noun 'bore' for a tidal wave is from Old Norse *bára* 'wave'. The past tense of 'bear' derives from Old English *bǣran*.",
+  "SINCE":"Before 1100 AD (for 'to make a hole' and 'past of bear'); c. 1770s (for 'to make weary')",
+  "MEANINGS":[
+    {
+      "PATTERN":"bore [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a hole in something, especially with a tool or by digging.",
+      "DEF_ZH":"用工具或挖掘在某物上钻孔。",
+      "SENT_EN":"The miners bored a tunnel through the mountain.",
+      "SENT_ZH":"矿工们在山中开凿了一条隧道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drill",
+            "pierce",
+            "tunnel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bore [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone feel tired and uninterested, usually by being dull or tedious.",
+      "DEF_ZH":"使某人感到厌倦或无聊，通常因枯燥乏味。",
+      "SENT_EN":"His long speech completely bored the audience.",
+      "SENT_ZH":"他冗长的演讲让听众完全感到厌烦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tire",
+            "weary",
+            "dull",
+            "disinterest"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "amuse",
+            "entertain",
+            "excite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bore",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person or thing that is dull and uninteresting, causing weariness.",
+      "DEF_ZH":"一个乏味无趣的人或事物，令人感到厌倦。",
+      "SENT_EN":"Don't invite him; he's such a bore at parties.",
+      "SENT_ZH":"别邀请他了；他在派对上真是个无趣的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nuisance",
+            "tedium",
+            "drag",
+            "dullard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the bore of [sth]\na bore",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"The hollow cylindrical part inside a tube, pipe, or gun barrel; or its internal diameter.",
+      "DEF_ZH":"管子、管道或枪管内部的空心圆柱部分；或指其内径。",
+      "SENT_EN":"The rifle had a smooth bore for better accuracy.",
+      "SENT_ZH":"这支步枪采用滑膛设计以提高精确度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "caliber",
+            "diameter",
+            "aperture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bore [sth/sb] (past of 'bear')",
+      "POS":"v",
+      "POS_TIP":"past simple tense of the verb 'bear'",
+      "TAGS":[
+        "grammatical form",
+        "very common"
+      ],
+      "DEF_EN":"The past simple form of the verb 'bear', meaning to carry, support, or give birth to.",
+      "DEF_ZH":"动词 'bear' 的过去式，意为携带、承受或生育。",
+      "SENT_EN":"She bore three healthy children. He bore the heavy burden with dignity.",
+      "SENT_ZH":"她生了三个健康的宝宝。他有尊严地承担了沉重的负担。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bear",
+            "borne"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bore",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "specific",
+        "nature",
+        "rare"
+      ],
+      "DEF_EN":"A rapid, high wave that flows up an estuary or river, caused by the incoming tide.",
+      "DEF_ZH":"由潮汐引起的，快速涌入河口或河流的巨浪（潮涌）。",
+      "SENT_EN":"The Severn Bore is a famous natural phenomenon in England.",
+      "SENT_ZH":"塞文河潮涌是英格兰著名的自然现象。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tidal bore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage for most meanings; technical for gun/pipe bore; specialized for tidal bore."
+}

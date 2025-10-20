@@ -1,0 +1,88 @@
+{
+  "WORD":"estimate",
+  "IPA":"/ˈɛstɪmeɪt/",
+  "CONJUGATES":"estimates | estimating | estimated",
+  "ETYMOLOGY":"From Latin *aestimare* ('to value, appraise'), possibly related to *aes* ('copper, money'). Entered English via Middle French *estimer* in the 15th century.",
+  "SINCE":"c. 1425",
+  "MEANINGS":[
+    {
+      "PATTERN":"estimate [sth] (at [amount])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To roughly calculate or judge the value, number, quantity, or extent of something.",
+      "DEF_ZH":"粗略计算或判断某事物的价值、数量、范围或程度。",
+      "SENT_EN":"Experts estimate the cost of the project to be over $10 million.",
+      "SENT_ZH":"专家估计该项目的成本将超过1000万美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculate",
+            "appraise",
+            "gauge",
+            "approximate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "determine",
+            "verify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an estimate (of [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun (Note: The noun form is often pronounced /ˈɛstɪmɪt/)",
+      "TAGS":[
+        "core word",
+        "business"
+      ],
+      "DEF_EN":"An approximate calculation or judgment of the value, number, or quantity of something, often provided in writing as a statement of anticipated cost.",
+      "DEF_ZH":"对某事物的价值、数量或程度的近似计算或判断；尤指以书面形式提供的预期成本声明或估价单。",
+      "SENT_EN":"The contractor provided a written estimate for the roofing job.",
+      "SENT_ZH":"承包商为屋顶工程提供了一份书面估价单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quotation",
+            "quote",
+            "appraisal",
+            "assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"estimate [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To form a judgment or opinion about someone or something.",
+      "DEF_ZH":"形成对某人或某事的判断或看法。",
+      "SENT_EN":"It is difficult to estimate the true complexity of the problem without more data.",
+      "SENT_ZH":"如果没有更多数据，很难判断该问题的真正复杂性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "judge",
+            "assess",
+            "evaluate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in general speech, business, and mathematics."
+}

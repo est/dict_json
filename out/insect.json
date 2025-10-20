@@ -1,0 +1,72 @@
+{
+  "WORD":"insect",
+  "IPA":"/ˈɪnsɛkt/",
+  "CONJUGATES":"insects",
+  "ETYMOLOGY":"From Latin insectum (plural insecta), neuter of insectus 'cut into, notched', past participle of insecare 'to cut into', referring to the segmented body. Adopted into English via French insecte.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"insect",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "biology"
+      ],
+      "DEF_EN":"A small arthropod animal that has six legs, a segmented body, and usually one or two pairs of wings. Insects form the largest class of arthropods.",
+      "DEF_ZH":"一种小型节肢动物，有六条腿、分节的身体，通常有一到两对翅膀。昆虫是节肢动物中最大的纲。",
+      "SENT_EN":"Butterflies and bees are common examples of insects.",
+      "SENT_ZH":"蝴蝶和蜜蜂是常见的昆虫例子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "arthropod",
+            "bug",
+            "beetle",
+            "butterfly",
+            "ant",
+            "bee",
+            "fly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"insect [person]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "pejorative",
+        "figurative",
+        "rare"
+      ],
+      "DEF_EN":"An insignificant or contemptible person.",
+      "DEF_ZH":"一个微不足道或可鄙的人。",
+      "SENT_EN":"He treated his subordinates as mere insects, unworthy of respect.",
+      "SENT_ZH":"他把下属当作卑微的虫子，不值得尊重。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pipsqueak",
+            "worm",
+            "nobody",
+            "nonentity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "giant",
+            "somebody",
+            "figure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (for primary meaning); Colloquial/Figurative (for secondary meaning)"
+}

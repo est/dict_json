@@ -1,0 +1,99 @@
+{
+  "WORD":"wood",
+  "IPA":"/wʊd/",
+  "CONJUGATES":"woods (n) | wooded (adj)",
+  "ETYMOLOGY":"From Old English wudu, widu ('tree, forest, timber'), related to Old Norse viðr.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Uncountable noun (mass noun)",
+      "TAGS":[
+        "core word",
+        "material"
+      ],
+      "DEF_EN":"The hard, fibrous material that makes up the trunk and branches of a tree or shrub, used as a building material, fuel, or for making objects.",
+      "DEF_ZH":"树木躯干和枝干组成的坚硬的纤维材料，用于建筑、燃料或制作物品；木材；木头。",
+      "SENT_EN":"Oak wood is known for its strength and durability.",
+      "SENT_ZH":"橡木以其强度和耐用性而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "timber",
+            "lumber"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fiber",
+            "cellulose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] wood\n[the] woods",
+      "POS":"noun",
+      "POS_TIP":"Countable noun (often used in the plural 'the woods')",
+      "TAGS":[
+        "geography",
+        "nature"
+      ],
+      "DEF_EN":"A dense growth of trees and underbrush covering a relatively small area; a small forest.",
+      "DEF_ZH":"一片树木和灌木丛密集生长的区域；小森林；树林（常用于复数形式，如 'the woods'）。",
+      "SENT_EN":"We walked deep into the woods until the sunlight barely reached us.",
+      "SENT_ZH":"我们深入树林，直到阳光几乎照不到我们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "forest",
+            "grove",
+            "copse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] wood",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "sports",
+        "golf"
+      ],
+      "DEF_EN":"A type of golf club, originally made with a large wooden head (now often metal or composite), used for hitting long shots, especially off the tee.",
+      "DEF_ZH":"（高尔夫）木杆；开球杆（一种高尔夫球杆，原杆头为木制，用于击打远距离球）。",
+      "SENT_EN":"He chose his three-wood for the long approach shot.",
+      "SENT_ZH":"他选择了三号木杆进行长距离切入击球。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "driver",
+            "iron",
+            "putter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wood [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "rare",
+        "old usage"
+      ],
+      "DEF_EN":"To supply, load, or furnish with wood, especially fuel.",
+      "DEF_ZH":"供应或装载木材（尤指燃料）。",
+      "SENT_EN":"The ship needed to wood up before sailing south.",
+      "SENT_ZH":"这艘船在向南航行前需要装载燃料木材。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, technical (materials science, carpentry), and specific context (golf)."
+}

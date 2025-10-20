@@ -1,0 +1,102 @@
+{
+  "WORD":"guarantee",
+  "IPA":"/ˌɡærənˈtiː/",
+  "CONJUGATES":"guarantees (n. pl.) | guarantees (v. 3s.) | guaranteeing (v. pres. part.) | guaranteed (v. past/p.p.)",
+  "ETYMOLOGY":"From Old French garantie (feminine past participle of garantir 'to warrant, protect'), related to 'warrant'.",
+  "SINCE":"c. 1670 (as noun), late 17th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] guarantee [of sth]",
+      "POS":"noun (countable)",
+      "POS_TIP":"可数名词",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "legal"
+      ],
+      "DEF_EN":"A formal promise or assurance (especially written) that specific conditions will be met, or that a product will be repaired or replaced if it proves defective within a stated period.",
+      "DEF_ZH":"（尤指书面形式的）保证书；担保；保修单。",
+      "SENT_EN":"The car comes with a three-year manufacturer's guarantee.",
+      "SENT_ZH":"这辆车附带三年的厂商保修。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "warranty",
+            "assurance",
+            "pledge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"guarantee [sth]\nguarantee [that clause]",
+      "POS":"vtr",
+      "POS_TIP":"及物动词",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To promise with certainty; to provide a guarantee for (a product or outcome).",
+      "DEF_ZH":"保证；担保；确保（某事会发生）。",
+      "SENT_EN":"We guarantee to ship your order within 24 hours.",
+      "SENT_ZH":"我们保证在24小时内寄出您的订单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assure",
+            "warrant",
+            "ensure",
+            "certify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] guarantee [of sth]",
+      "POS":"noun (countable)",
+      "POS_TIP":"可数名词",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"Something that makes a particular outcome certain.",
+      "DEF_ZH":"成功的保证；必然会发生的事物或要素。",
+      "SENT_EN":"High qualifications are no guarantee of success in this competitive field.",
+      "SENT_ZH":"高学历并不能保证在这个竞争激烈的领域中获得成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "certainty",
+            "sure thing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"guarantee [a debt/loan]",
+      "POS":"vtr",
+      "POS_TIP":"及物动词",
+      "TAGS":[
+        "finance",
+        "legal"
+      ],
+      "DEF_EN":"To undertake to answer for the debt, default, or miscarriage of another party.",
+      "DEF_ZH":"（为债务或贷款）提供担保；作保。",
+      "SENT_EN":"The bank required her parents to guarantee the business loan.",
+      "SENT_ZH":"银行要求她的父母为这笔商业贷款作保。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "underwrite",
+            "sponsor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Commercial, Legal"
+}

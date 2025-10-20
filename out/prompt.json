@@ -1,0 +1,136 @@
+{
+  "WORD":"prompt",
+  "IPA":"/prɑːmpt/",
+  "CONJUGATES":"prompter (adj comparative) | promptest (adj superlative) | prompts (v, n) | prompted (v past) | prompting (v present participle)",
+  "ETYMOLOGY":"From Middle English promt, derived from Old French prompt, itself from Latin promptus ('brought forth, visible, ready'), the past participle of promere ('bring forth').",
+  "SINCE":"c. 1400 (as adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] be prompt",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"Done or acting immediately, without delay; quick.",
+      "DEF_ZH":"迅速的；即时的；敏捷的。",
+      "SENT_EN":"A prompt reply is expected within two business days.",
+      "SENT_ZH":"我们期望在两个工作日内得到即时回复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quick",
+            "rapid",
+            "immediate",
+            "timely"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "tardy",
+            "delayed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prompt [sth]\nprompt [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To cause or bring about an action or feeling; to inspire or urge someone to do something.",
+      "DEF_ZH":"促使；导致；激发；敦促。",
+      "SENT_EN":"The economic downturn prompted the company to lay off staff.",
+      "SENT_ZH":"经济衰退促使公司裁员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cause",
+            "induce",
+            "stimulate",
+            "incite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prompt [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "theater"
+      ],
+      "DEF_EN":"To supply a forgotten word or line to an actor or speaker; to remind someone of something.",
+      "DEF_ZH":"提示（台词）；提醒某人。",
+      "SENT_EN":"The director had to prompt the inexperienced actor during the opening scene.",
+      "SENT_ZH":"在开场时，导演不得不提示那位缺乏经验的演员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cue",
+            "remind",
+            "feed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a prompt",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"A cue or reminder, especially the symbol or message on a screen indicating that a system is ready for user input (such as a command line interface).",
+      "DEF_ZH":"（计算机）提示符；提示；提醒。",
+      "SENT_EN":"After logging in, the user saw the dollar sign prompt blinking.",
+      "SENT_ZH":"登录后，用户看到了闪烁的美元符号提示符。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cue",
+            "input field",
+            "signal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a prompt",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "neologism",
+        "AI",
+        "technology"
+      ],
+      "DEF_EN":"The text instruction or query provided to a generative artificial intelligence model (like an LLM or image generator) to guide its output.",
+      "DEF_ZH":"（对生成式人工智能系统输入的）提示词；指令。",
+      "SENT_EN":"She refined her prompt multiple times until the AI generated the perfect image.",
+      "SENT_ZH":"她多次完善她的提示词，直到人工智能生成了完美的图像。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "prompt engineering",
+            "LLM",
+            "generative AI"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Formal"
+}

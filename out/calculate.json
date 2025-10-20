@@ -1,0 +1,68 @@
+{
+  "WORD":"calculate",
+  "IPA":"/'kælkjəleɪt/",
+  "CONJUGATES":"calculates | calculating | calculated",
+  "ETYMOLOGY":"From Latin calculatus, past participle of calculare ('to compute'), derived from calculus ('small stone used for counting').",
+  "SINCE":"c. 1600",
+  "MEANINGS":[
+    {
+      "PATTERN":"calculate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (needs a direct object)",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "computation"
+      ],
+      "DEF_EN":"Determine (the amount or number of something) mathematically or logically.",
+      "DEF_ZH":"通过数学或逻辑方法确定（某物的量或数量）。",
+      "SENT_EN":"The engineers had to calculate the stress on the bridge structure.",
+      "SENT_ZH":"工程师们必须计算桥梁结构的应力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compute",
+            "reckon",
+            "figure",
+            "work out"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "calculation",
+            "calculator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"calculate [sth]\ncalculate [that] clause",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common",
+        "planning",
+        "estimation"
+      ],
+      "DEF_EN":"Assess or estimate the nature, size, or consequences of something; plan or intend an action to have a specific effect.",
+      "DEF_ZH":"估算或评估某事物的性质、规模或后果；策划或打算某行为产生特定的效果。",
+      "SENT_EN":"We calculated that the market would respond positively to the new product launch.",
+      "SENT_ZH":"我们估计市场会对新产品的发布做出积极反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "estimate",
+            "assess",
+            "gauge",
+            "forecast",
+            "plan"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

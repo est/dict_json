@@ -1,0 +1,82 @@
+{
+  "WORD":"toll",
+  "IPA":"/toʊl/",
+  "CONJUGATES":"tolls | tolled | tolling",
+  "ETYMOLOGY":"Old English toll (tax, tribute), from Latin teloneum (custom house, toll). The verb meaning 'to ring a bell' emerged later, likely from a different root related to drawing/luring, or perhaps influenced by the noun due to bells signaling collection.",
+  "SINCE":"Pre-1000 CE (as fee); c. 1300s (as bell-ringing)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "transportation"
+      ],
+      "DEF_EN":"A charge payable for permission to use a particular road, bridge, or public service.",
+      "DEF_ZH":"使用特定道路、桥梁或公共服务的费用；通行费；服务费。",
+      "SENT_EN":"They had to pay a five-dollar toll to cross the bridge.",
+      "SENT_ZH":"他们过桥必须支付五美元的通行费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fee",
+            "charge",
+            "levy",
+            "duty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take a toll on [sb] / [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "severe"
+      ],
+      "DEF_EN":"The severe or destructive cost, damage, or number of casualties resulting from a disaster or sustained effort.",
+      "DEF_ZH":"灾难、损失或冲突造成的严重影响、伤亡人数或损害。",
+      "SENT_EN":"The stress of the double job began to take a heavy toll on her health.",
+      "SENT_ZH":"双重工作的压力开始严重损害她的健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cost",
+            "damage",
+            "suffering",
+            "casualty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"toll [sth]",
+      "POS":"vtr | vin",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "formal",
+        "sound"
+      ],
+      "DEF_EN":"To ring a large bell with slow, uniform strokes, often to announce a death or signal a ceremony.",
+      "DEF_ZH":"（特指为宣布死亡或举行仪式）缓慢而均匀地敲响大钟。",
+      "SENT_EN":"The church bell tolled solemnly in the distance.",
+      "SENT_ZH":"教堂的钟声在远处庄严地敲响着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chime",
+            "ring",
+            "peal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

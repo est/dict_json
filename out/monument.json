@@ -1,0 +1,86 @@
+{
+  "WORD":"monument",
+  "IPA":"/ˈmɑːnjumənt/",
+  "CONJUGATES":"monuments",
+  "ETYMOLOGY":"From Old French monument, from Latin monumentum ('a reminder, memorial, statue'), from monere ('to remind, advise').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical object"
+      ],
+      "DEF_EN":"A statue, building, or other structure erected to commemorate a famous or notable person or event.",
+      "DEF_ZH":"为纪念某位著名人物或事件而建立的雕像、建筑或其他结构。",
+      "SENT_EN":"The Lincoln Memorial is a famous monument in Washington D.C.",
+      "SENT_ZH":"林肯纪念堂是华盛顿特区著名的纪念碑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "memorial",
+            "statue",
+            "plaque",
+            "cenotaph"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "landmark",
+            "obelisk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (to [sth/sb])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"An enduring example or witness to something, often an achievement or quality.",
+      "DEF_ZH":"持久的范例或见证，通常指某项成就或品质。",
+      "SENT_EN":"The company's success is a monument to their hard work and dedication.",
+      "SENT_ZH":"这家公司的成功是他们辛勤工作和奉献精神的见证。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "testament",
+            "evidence",
+            "memorial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "US government"
+      ],
+      "DEF_EN":"A federally protected area of natural, cultural, or scientific importance, typically managed by the National Park Service.",
+      "DEF_ZH":"受联邦保护的具有自然、文化或科学重要性的区域，通常由国家公园管理局管理（特指美国）。",
+      "SENT_EN":"The President designated the site as a national monument to protect its historic resources.",
+      "SENT_ZH":"总统将该地指定为国家纪念区以保护其历史资源。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "national park",
+            "reserve"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or general use"
+}

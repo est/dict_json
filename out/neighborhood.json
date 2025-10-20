@@ -1,0 +1,84 @@
+{
+  "WORD":"neighborhood",
+  "IPA":"/ˈneɪbərˌhʊd/",
+  "CONJUGATES":"neighborhoods",
+  "ETYMOLOGY":"From Middle English neyghborhode, from neyghbour (neighbor) + -hode (-hood, denoting state or condition). Neighbor itself comes from Old English nēahgebūr (near dweller).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] neighborhood (of sth)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A district or area within a city or town, often with a distinct character or community.",
+      "DEF_ZH":"城镇中的一个区域或街区，通常具有独特的特色或社区。",
+      "SENT_EN":"Our neighborhood is known for its friendly atmosphere.",
+      "SENT_ZH":"我们的街区以其友好的氛围而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "district",
+            "area",
+            "quarter",
+            "community",
+            "vicinity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the neighborhood of [sth]",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "common",
+        "idiom",
+        "informal"
+      ],
+      "DEF_EN":"Approximately; about; around. Used to indicate an approximate amount, number, or position.",
+      "DEF_ZH":"大约；左右。用于表示大概的数量、数字或位置。",
+      "SENT_EN":"The cost of the repairs was in the neighborhood of $500.",
+      "SENT_ZH":"维修费用大约在500美元左右。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "approximately",
+            "around",
+            "about",
+            "roughly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the neighborhood",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "collective noun"
+      ],
+      "DEF_EN":"The people living in a particular area; the community.",
+      "DEF_ZH":"某个特定区域的居民；社区。",
+      "SENT_EN":"The entire neighborhood came out for the annual block party.",
+      "SENT_ZH":"整个街区的居民都出来参加了一年一度的街区派对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "community",
+            "residents",
+            "locals",
+            "inhabitants"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

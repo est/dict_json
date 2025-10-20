@@ -1,0 +1,82 @@
+{
+  "WORD":"province",
+  "IPA":"/ˈprɑːvɪns/",
+  "CONJUGATES":"provinces (plural)",
+  "ETYMOLOGY":"From Middle English, via Old French 'province', ultimately from Latin 'provincia' ('sphere of office, conquered territory'), likely derived from 'pro-' (before, on behalf of) + 'vincere' (to conquer).",
+  "SINCE":"Late Middle Ages (c. 1350)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "politics"
+      ],
+      "DEF_EN":"A principal administrative division of certain countries or empires, typically having a distinct local government.",
+      "DEF_ZH":"国家或联邦内部的主要行政区划，通常有自己的地方政府。",
+      "SENT_EN":"The Canadian government consists of ten provinces and three territories.",
+      "SENT_ZH":"加拿大政府由十个省份和三个地区组成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "state",
+            "territory",
+            "region",
+            "department"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (the provinces)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "often plural",
+        "regional",
+        "sociology"
+      ],
+      "DEF_EN":"(Often used in the plural, 'the provinces') The parts of a country outside the capital city or main metropolitan areas.",
+      "DEF_ZH":"（常指复数“the provinces”）首都或主要大城市以外的国家其他地区。",
+      "SENT_EN":"He felt a great difference in pace when he moved back from the capital to the provinces.",
+      "SENT_ZH":"当他从首都搬回外省时，他感觉生活节奏有了很大的不同。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "capital",
+            "metropolis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"within [sb's] province",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "domain"
+      ],
+      "DEF_EN":"An area of responsibility, expertise, or authority belonging to a person or department.",
+      "DEF_ZH":"某人或部门特有的知识、兴趣、责任范围或职权范围。",
+      "SENT_EN":"That topic falls strictly within the province of the legal department.",
+      "SENT_ZH":"那个主题严格属于法律部门的职权范围。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "domain",
+            "sphere",
+            "bailiwick",
+            "jurisdiction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Geographical, Political"
+}

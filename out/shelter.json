@@ -1,0 +1,111 @@
+{
+  "WORD":"shelter",
+  "IPA":"/ˈʃɛltər/",
+  "CONJUGATES":"shelters | sheltering | sheltered",
+  "ETYMOLOGY":"Middle English (c. 1380), probably related to *shield* and *bield* (protection), originally meaning 'a screen'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "concrete"
+      ],
+      "DEF_EN":"A building or structure providing protection from bad weather, danger, or attack.",
+      "DEF_ZH":"避难所；遮蔽物；收容所。",
+      "SENT_EN":"They sought shelter in an abandoned cabin during the storm.",
+      "SENT_ZH":"暴风雨期间，他们在废弃的小木屋里寻找避难所。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "refuge",
+            "sanctuary",
+            "asylum",
+            "cover"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "doghouse",
+            "tent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[uncountable]",
+      "POS":"n.",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The state of being protected from danger or the elements.",
+      "DEF_ZH":"保护；庇护；遮蔽。",
+      "SENT_EN":"The homeless often lack basic food and shelter.",
+      "SENT_ZH":"无家可归者通常缺乏基本的食物和庇护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protection",
+            "safety",
+            "security"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shelter [sb]\nshelter [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To provide someone or something with protection from the weather or a dangerous situation.",
+      "DEF_ZH":"提供庇护；保护；遮盖。",
+      "SENT_EN":"The large awning sheltered the patio furniture from the afternoon sun.",
+      "SENT_ZH":"那个大遮篷为露台家具遮挡了午后的阳光。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guard",
+            "house",
+            "shield",
+            "harbor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shelter [vtr] [sth/sb] (from)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "negative connotation"
+      ],
+      "DEF_EN":"To hide or conceal someone (especially a criminal) from authorities or justice.",
+      "DEF_ZH":"窝藏；藏匿（尤指罪犯）。",
+      "SENT_EN":"She was accused of sheltering her brother after the robbery.",
+      "SENT_ZH":"她被指控在抢劫案发生后窝藏她的兄弟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "harbor",
+            "conceal",
+            "hide"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

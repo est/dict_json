@@ -1,0 +1,174 @@
+{
+  "WORD":"fold",
+  "IPA":"/foʊld/",
+  "CONJUGATES":"folds | folding | folded",
+  "ETYMOLOGY":"From Middle English folden, from Old English fealdan (class VII strong verb), from Proto-Germanic *falþaną, from Proto-Indo-European *pel- 'to fold, to braid'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"fold [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bend something, especially paper or cloth, so that one part lies over another.",
+      "DEF_ZH":"将某物（尤指纸或布）弯曲，使其一部分叠在另一部分上。",
+      "SENT_EN":"Please fold the laundry and put it away.",
+      "SENT_ZH":"请把洗好的衣物叠好收起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crease",
+            "double over"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "origami",
+            "pleat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fold [sth] in/into [sth]",
+      "POS":"vtr + adv/prep",
+      "POS_TIP":"transitive verb followed by adverb or preposition",
+      "TAGS":[
+        "cooking",
+        "common"
+      ],
+      "DEF_EN":"To incorporate an ingredient gently into a mixture by repeatedly turning over the mixture with a spatula or spoon.",
+      "DEF_ZH":"（烹饪）将一种配料轻轻地混入混合物中，通过用刮刀或勺子反复翻动混合物。",
+      "SENT_EN":"Gently fold the egg whites into the batter.",
+      "SENT_ZH":"轻轻地将蛋清拌入面糊中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incorporate",
+            "mix in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fold",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "poker",
+        "gambling"
+      ],
+      "DEF_EN":"In card games, especially poker, to withdraw from the current hand.",
+      "DEF_ZH":"（牌类游戏，尤指扑克）放弃当前这一轮的牌局。",
+      "SENT_EN":"He decided to fold after seeing his opponent raise the bet significantly.",
+      "SENT_ZH":"看到对手大幅加注后，他决定弃牌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quit",
+            "give up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] fold",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "business",
+        "idiomatic"
+      ],
+      "DEF_EN":"Of a business or organization, to close down or fail.",
+      "DEF_ZH":"（指企业或组织）关闭；倒闭；失败。",
+      "SENT_EN":"After years of low profits, the small bookstore finally folded.",
+      "SENT_ZH":"经过多年低利润经营后，这家小书店最终倒闭了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "close down",
+            "go bankrupt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fold",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A place where something is folded; a crease or double thickness.",
+      "DEF_ZH":"折痕；褶子；双层厚度。",
+      "SENT_EN":"The map had a crisp fold right down the middle.",
+      "SENT_ZH":"这张地图中间有一道清晰的折痕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crease",
+            "wrinkle",
+            "pleat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the fold",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "old word",
+        "figurative"
+      ],
+      "DEF_EN":"A group of people or an organization, especially referring to a return to a former group.",
+      "DEF_ZH":"（比喻）团体；组织；尤指回归先前所属的团体。",
+      "SENT_EN":"We welcome the prodigal son back into the fold.",
+      "SENT_ZH":"我们欢迎浪子回归这个大家庭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flock",
+            "group",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fold (for animals)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "old word",
+        "archaic"
+      ],
+      "DEF_EN":"A pen or enclosure for sheep or other livestock.",
+      "DEF_ZH":"（旧时用法）羊圈；牲畜围栏。",
+      "SENT_EN":"The shepherd led his sheep into the fold as the sun set.",
+      "SENT_ZH":"日落时分，牧羊人将羊群赶进了羊圈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pen",
+            "enclosure",
+            "corral"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, also specific usage in cooking and poker."
+}

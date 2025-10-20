@@ -1,0 +1,157 @@
+{
+  "WORD":"rest",
+  "IPA":"/rɛst/",
+  "CONJUGATES":"rest | rests | resting | rested",
+  "ETYMOLOGY":"From Old English rest (noun and verb), from Proto-Germanic *rastō, related to Dutch rust and German Rast.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] take [a] rest",
+      "POS":"n, uncount/count",
+      "POS_TIP":"noun, uncountable or countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A period of relaxation, sleep, or inactivity after exertion or stress.",
+      "DEF_ZH":"休息；休憩；睡眠时间。",
+      "SENT_EN":"The doctor advised him to get complete bed rest for a week.",
+      "SENT_ZH":"医生建议他卧床休息一周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "break",
+            "repose",
+            "downtime"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "work",
+            "activity",
+            "exertion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] rest\n[sth] rest",
+      "POS":"vi",
+      "POS_TIP":"verb, intransitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To stop working or moving in order to relax, refresh oneself, or recover strength.",
+      "DEF_ZH":"休息；歇息；放松。",
+      "SENT_EN":"We rested by the stream before continuing our climb.",
+      "SENT_ZH":"我们在溪边休息了一下，然后继续爬山。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relax",
+            "pause",
+            "sleep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the rest of [sth]\nthe rest",
+      "POS":"n, definite",
+      "POS_TIP":"noun, usually preceded by 'the'",
+      "TAGS":[
+        "core word",
+        "common",
+        "quantifier"
+      ],
+      "DEF_EN":"The remaining part of something or the remaining people/things.",
+      "DEF_ZH":"剩余部分；其余的人或事物。",
+      "SENT_EN":"I finished the cake, and the rest of the dessert was left untouched.",
+      "SENT_ZH":"我吃完了蛋糕，剩下的甜点都没动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remainder",
+            "residue",
+            "the others"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rest [sth] on [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"verb, transitive, followed by preposition",
+      "TAGS":[
+        "common",
+        "physical action"
+      ],
+      "DEF_EN":"To place something so that it is supported by something else, often gently or momentarily.",
+      "DEF_ZH":"把...放在...上；支撑；倚靠。",
+      "SENT_EN":"He rested his elbows on the desk while studying.",
+      "SENT_ZH":"他学习时将手肘靠在桌上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lean",
+            "support",
+            "prop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] rest on [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"verb, intransitive, followed by preposition",
+      "TAGS":[
+        "formal",
+        "figurative"
+      ],
+      "DEF_EN":"To depend on or be based on (used figuratively).",
+      "DEF_ZH":"取决于；依赖于；以...为基础。",
+      "SENT_EN":"The whole legal case rests on the reliability of one witness.",
+      "SENT_ZH":"整个法律案件都取决于一名证人的可靠性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rely",
+            "depend",
+            "hinge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a musical rest",
+      "POS":"n, count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "music"
+      ],
+      "DEF_EN":"A mark or symbol indicating a period of silence of a specific duration in musical notation.",
+      "DEF_ZH":"（音乐）休止符。",
+      "SENT_EN":"The conductor held the orchestra through the measure of whole rest.",
+      "SENT_ZH":"指挥家让管弦乐队完成了全休止符的节拍。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "note",
+            "measure",
+            "tempo"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use"
+}

@@ -1,0 +1,113 @@
+{
+  "WORD":"language",
+  "IPA":"/ˈlæŋɡwɪdʒ/",
+  "CONJUGATES":"languages",
+  "ETYMOLOGY":"From Middle English langage, via Old French langage, ultimately from Latin lingua (tongue, speech).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n, uncount/count",
+      "POS_TIP":"noun, uncountable or countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The principal method of human communication, consisting of words used in a structured and conventional way and conveyed by speech, writing, or gesture.",
+      "DEF_ZH":"人类交流的主要方法，由以结构化和常规方式使用的词汇组成，并通过口语、书写或手势传达。",
+      "SENT_EN":"She is fluent in three languages: English, Spanish, and Mandarin.",
+      "SENT_ZH":"她精通三种语言：英语、西班牙语和普通话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speech",
+            "communication",
+            "tongue",
+            "dialect"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "linguistics",
+            "vocabulary",
+            "grammar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "common",
+        "style"
+      ],
+      "DEF_EN":"The particular style or manner of verbal or written expression characteristic of a person, group, or profession.",
+      "DEF_ZH":"某人、群体或职业特有的口头或书面表达的特定风格或方式。",
+      "SENT_EN":"The formal language of the contract made it difficult to understand.",
+      "SENT_ZH":"合同中的正式语言使得理解起来很困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jargon",
+            "diction",
+            "idiom",
+            "terminology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (non-verbal)",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A non-verbal system of communication, often referring to body movements, animal sounds, or visual arts.",
+      "DEF_ZH":"一种非语言的交流系统，通常指肢体动作、动物声音或视觉艺术。",
+      "SENT_EN":"The dancer's movements conveyed a language of sadness and longing.",
+      "SENT_ZH":"舞者的动作传达了一种悲伤和渴望的语言。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "body language",
+            "sign language",
+            "expression"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (computing)",
+      "POS":"n, count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A system of standardized code or instructions used to write computer software.",
+      "DEF_ZH":"用于编写计算机软件的标准化代码或指令系统（编程语言）。",
+      "SENT_EN":"C++ is a powerful object-oriented programming language.",
+      "SENT_ZH":"C++ 是一种强大的面向对象编程语言。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "code",
+            "syntax",
+            "Python",
+            "Java"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, Academic, Technical"
+}

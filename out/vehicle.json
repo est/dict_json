@@ -1,0 +1,93 @@
+{
+  "WORD":"vehicle",
+  "IPA":"/ˈviːɪkəl/",
+  "CONJUGATES":"vehicles",
+  "ETYMOLOGY":"From Latin vehiculum ('a means of transport'), derived from vehere ('to carry, convey'). Entered English via Middle French vehicule.",
+  "SINCE":"Early 17th century (c. 1620s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (for transport)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "transport",
+        "common"
+      ],
+      "DEF_EN":"A means of carrying or transporting passengers or goods, especially one moving on wheels (like a car, bus, or bicycle).",
+      "DEF_ZH":"用于运载乘客或货物的工具，尤其指轮式运输工具（如汽车、公共汽车或自行车）。",
+      "SENT_EN":"We need to hire a larger vehicle to move all the equipment.",
+      "SENT_ZH":"我们需要租一辆更大的交通工具来运送所有设备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conveyance",
+            "transport",
+            "automobile",
+            "car",
+            "motorcycle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fleet",
+            "traffic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (for expression)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"A thing used as a means of achieving an end, expressing an idea, or communicating a feeling.",
+      "DEF_ZH":"用作达到目的、表达想法或传达情感的媒介或手段。",
+      "SENT_EN":"The novel served as a perfect vehicle for his political message.",
+      "SENT_ZH":"这部小说成为了他传达政治信息的完美载体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "medium",
+            "means",
+            "instrument",
+            "channel",
+            "agent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (in chemistry/medicine)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "science",
+        "medicine"
+      ],
+      "DEF_EN":"An inert substance (often a liquid or gel) used as a carrier or base for an active medicinal or chemical agent.",
+      "DEF_ZH":"一种惰性物质（通常是液体或凝胶），用作活性药用或化学剂的载体或基础。",
+      "SENT_EN":"Oil is sometimes used as a vehicle for topical drugs to enhance absorption.",
+      "SENT_ZH":"油有时被用作局部药物的载体以增强吸收。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "base",
+            "carrier",
+            "solvent",
+            "medium"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage, also technical in science and finance."
+}

@@ -1,0 +1,111 @@
+{
+  "WORD":"equal",
+  "IPA":"/'iːkwəl/",
+  "CONJUGATES":"equals | equalled | equalling | more equal | most equal",
+  "ETYMOLOGY":"From Latin aequālis (related to aequus 'level, smooth, just'), via Old French egal.",
+  "SINCE":"Late 14th century (as adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is equal to [sth else]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"Being the same in quantity, size, degree, or value.",
+      "DEF_ZH":"数量、大小、程度或价值上相同的。",
+      "SENT_EN":"Two meters is equal to roughly six and a half feet.",
+      "SENT_ZH":"两米大约等于六英尺半。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identical",
+            "equivalent",
+            "commensurate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unequal",
+            "different"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is equal",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "social",
+        "political",
+        "fundamental"
+      ],
+      "DEF_EN":"Having the same rights, status, or opportunities as others.",
+      "DEF_ZH":"享有与他人相同的权利、地位或机会的。",
+      "SENT_EN":"The Constitution states that all people are equal under the law.",
+      "SENT_ZH":"宪法规定所有人在法律面前人人平等。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impartial",
+            "fair",
+            "non-discriminatory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] equals [sth else]",
+      "POS":"vt",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "formal",
+        "mathematics"
+      ],
+      "DEF_EN":"To be or result in something equivalent to.",
+      "DEF_ZH":"等同于；相当于（某个结果）。",
+      "SENT_EN":"A low calorie intake does not always equal weight loss.",
+      "SENT_ZH":"低卡路里摄入并不总是等同于体重减轻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amount to",
+            "match",
+            "result in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an equal",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "social"
+      ],
+      "DEF_EN":"A person or thing considered to be the same in status or ability as another.",
+      "DEF_ZH":"被认为在地位或能力上与他人相同的人或事物；同等的人。",
+      "SENT_EN":"He finally found an opponent who was his equal in chess.",
+      "SENT_ZH":"他终于找到了一个在国际象棋方面与他能力相当的对手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peer",
+            "counterpart",
+            "match"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in formal, academic (mathematics, science), legal, and general social contexts."
+}

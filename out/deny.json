@@ -1,0 +1,96 @@
+{
+  "WORD":"deny",
+  "IPA":"/dɪˈnaɪ/",
+  "CONJUGATES":"denies | denying | denied",
+  "ETYMOLOGY":"From Old French denier, from Latin denegare (de- 'away from' + negare 'to say no, deny').",
+  "SINCE":"Late Middle English",
+  "MEANINGS":[
+    {
+      "PATTERN":"deny [sth]\ndeny [that] [clause]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"vtr: transitive verb; vintr: intransitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Legal"
+      ],
+      "DEF_EN":"To state that something alleged or claimed is untrue; to assert that one has not done something.",
+      "DEF_ZH":"否认；不承认（某事或指控）。",
+      "SENT_EN":"The politician flatly denied the corruption charges leveled against him.",
+      "SENT_ZH":"这位政客断然否认了针对他的腐败指控。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dispute",
+            "contradict",
+            "refute"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "admit",
+            "affirm",
+            "confess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deny [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "Common",
+        "Formal"
+      ],
+      "DEF_EN":"To refuse to give or grant something requested or desired.",
+      "DEF_ZH":"拒绝给予；不批准。",
+      "SENT_EN":"The committee decided to deny the students access to the restricted archives.",
+      "SENT_ZH":"委员会决定拒绝学生查阅受限档案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "refuse",
+            "withhold",
+            "reject"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "grant",
+            "permit",
+            "allow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deny oneself [sth]",
+      "POS":"vtr (reflexive)",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "Idiomatic",
+        "Slightly Formal"
+      ],
+      "DEF_EN":"To refuse to allow oneself to have or enjoy something, especially a pleasure or comfort.",
+      "DEF_ZH":"克制；拒绝给自己（带来快乐或舒适的东西）。",
+      "SENT_EN":"She denied herself dessert for weeks in preparation for the competition.",
+      "SENT_ZH":"为了备赛，她好几周都克制自己不吃甜点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abstain from",
+            "forgo",
+            "renounce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Usage, Legal Contexts"
+}

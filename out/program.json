@@ -1,0 +1,111 @@
+{
+  "WORD":"program",
+  "IPA":"/ˈproʊɡræm/",
+  "CONJUGATES":"programs | programmed | programming",
+  "ETYMOLOGY":"From Late Latin programma, from Greek prógramma ('public notice, written order'), from prographein (pro- 'before' + graphein 'to write').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A plan or schedule of activities, events, or procedures to be followed, often designed to achieve a specific goal.",
+      "DEF_ZH":"计划；安排；方案；（学校的）课程。",
+      "SENT_EN":"The program for the conference included three keynote speakers and five workshops.",
+      "SENT_ZH":"会议的日程包括三位主旨演讲者和五个研讨会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schedule",
+            "plan",
+            "agenda",
+            "project"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"A sequence of coded instructions that a computer can execute to perform a specified task; software.",
+      "DEF_ZH":"计算机程序；软件；应用程序。",
+      "SENT_EN":"I downloaded a new editing program to enhance my photos.",
+      "SENT_ZH":"我下载了一个新的编辑程序来美化我的照片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "software",
+            "application",
+            "app"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "code",
+            "algorithm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "media"
+      ],
+      "DEF_EN":"A broadcast (such as on television or radio) intended for public reception; a show or performance.",
+      "DEF_ZH":"（电视或广播）节目；演出。",
+      "SENT_EN":"What time does that documentary program start tonight?",
+      "SENT_ZH":"那个纪录片节目今晚什么时候开始？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "show",
+            "broadcast",
+            "performance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"program [sth]\nprogram [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "computing"
+      ],
+      "DEF_EN":"To provide a computer or machine with a set of coded instructions to operate or perform specific tasks.",
+      "DEF_ZH":"编写程序；给（机器）输入指令。",
+      "SENT_EN":"The engineers programmed the robot to avoid obstacles.",
+      "SENT_ZH":"工程师们给机器人编程以避开障碍物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "code",
+            "script",
+            "encode"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Technical | Media"
+}

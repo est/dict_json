@@ -1,0 +1,127 @@
+{
+  "WORD":"due",
+  "IPA":"/duː/",
+  "CONJUGATES":"dues (plural noun) | duly (adverb)",
+  "ETYMOLOGY":"From Old French deu (past participle of devoir 'to owe'), ultimately from Latin dēbēre ('to owe').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is due [at time/date/place]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "time management"
+      ],
+      "DEF_EN":"Expected or scheduled to arrive, happen, or be finished at a specified time.",
+      "DEF_ZH":"预期的；到期的；应到的。",
+      "SENT_EN":"The next shipment of goods is due on Friday.",
+      "SENT_ZH":"下一批货定于周五到达。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scheduled",
+            "expected",
+            "pending"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is due [to sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "finance",
+        "obligation"
+      ],
+      "DEF_EN":"Owed or required as a debt or payment.",
+      "DEF_ZH":"应付的；欠下的。",
+      "SENT_EN":"The final payment for the house is due next week.",
+      "SENT_ZH":"房屋的最后一笔款项下周到期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outstanding",
+            "payable",
+            "owing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] due [noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "ethics"
+      ],
+      "DEF_EN":"Fitting, appropriate, or rightful; of the proper standard or degree.",
+      "DEF_ZH":"适当的；应得的；充分的。",
+      "SENT_EN":"The manager received the due respect from his subordinates.",
+      "SENT_ZH":"经理得到了下属应有的尊重。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appropriate",
+            "fitting",
+            "proper",
+            "adequate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"due to [sth]",
+      "POS":"prep phrase",
+      "POS_TIP":"The phrase 'due to' functions grammatically as a preposition, meaning 'because of'.",
+      "TAGS":[
+        "common usage",
+        "causation"
+      ],
+      "DEF_EN":"Caused by or resulting from.",
+      "DEF_ZH":"由于；归因于。",
+      "SENT_EN":"The cancellation was due to bad weather.",
+      "SENT_ZH":"取消是由于恶劣的天气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "because of",
+            "owing to",
+            "attributable to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] pays dues",
+      "POS":"n (plural)",
+      "POS_TIP":"noun, typically used in the plural form 'dues'",
+      "TAGS":[
+        "finance",
+        "membership"
+      ],
+      "DEF_EN":"A fee or contribution paid by members of a club, association, or union.",
+      "DEF_ZH":"会费；应缴款项。",
+      "SENT_EN":"We need to pay our annual club dues by the end of the month.",
+      "SENT_ZH":"我们必须在本月底前付清年度俱乐部会费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fees",
+            "membership fee",
+            "subscription"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in scheduling, finance, and formal writing."
+}

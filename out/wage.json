@@ -1,0 +1,92 @@
+{
+  "WORD":"wage",
+  "IPA":"/weɪdʒ/",
+  "CONJUGATES":"wages | waged | waging",
+  "ETYMOLOGY":"From Middle English wage, from Anglo-French and Old French gage, wadiere ('pledge, guarantee, payment'), likely of Germanic (Frankish) origin. Related to the concept of pledging security for service or payment.",
+  "SINCE":"c. 1300 (noun); c. 1400 (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s wages",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "economics",
+        "labor"
+      ],
+      "DEF_EN":"A fixed regular payment earned for work or services, typically paid on a daily or weekly basis (often distinguished from salary, which is annual).",
+      "DEF_ZH":"（通常按小时、日或周计算的）工资；薪水；报酬。",
+      "SENT_EN":"The minimum wage was increased after months of public debate.",
+      "SENT_ZH":"在经过数月的公开辩论后，最低工资得到了提高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pay",
+            "earnings",
+            "remuneration",
+            "stipend"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "salary",
+            "income"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"wage [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "military",
+        "political"
+      ],
+      "DEF_EN":"To carry on or engage in (a war, conflict, or campaign).",
+      "DEF_ZH":"进行（战争、斗争、运动）；开展。",
+      "SENT_EN":"The opposing groups have continued to wage a relentless battle over resources.",
+      "SENT_ZH":"对立的团体继续为争夺资源而进行一场无情的战斗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conduct",
+            "prosecute",
+            "carry on",
+            "pursue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the wages of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "archaic",
+        "figurative"
+      ],
+      "DEF_EN":"A consequence or retribution for an action or behavior (especially negative ones).",
+      "DEF_ZH":"（行为的）报应；代价；结果。",
+      "SENT_EN":"He understood that the wages of deceit would eventually be loneliness and mistrust.",
+      "SENT_ZH":"他明白，欺骗的代价最终将是孤独和不信任。（该用法最著名的例子为：The wages of sin is death.）",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recompense",
+            "retribution",
+            "consequence",
+            "penalty"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in business and economics (noun), and formal writing (verb)."
+}

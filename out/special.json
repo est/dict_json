@@ -1,0 +1,107 @@
+{
+  "WORD":"special",
+  "IPA":"/ˈspɛʃəl/",
+  "CONJUGATES":"specially (adv.) | specialness (n.) | specials (n. pl.)",
+  "ETYMOLOGY":"From Old French special, from Latin specialis ('belonging to a species or kind'), from species ('kind, sort').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"special [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Better, greater, or otherwise different from what is usual or ordinary; exceptional.",
+      "DEF_ZH":"与众不同的；非凡的；特殊的。",
+      "SENT_EN":"It was a truly special moment when they announced the winner.",
+      "SENT_ZH":"当他们宣布获胜者时，那真是一个特殊的时刻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exceptional",
+            "extraordinary",
+            "unique"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ordinary",
+            "common",
+            "regular"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"special [sth] [for sb/sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Designed, intended, or reserved for a particular purpose, person, or occasion.",
+      "DEF_ZH":"专用的；特设的；为特定目的准备的。",
+      "SENT_EN":"The doctor prescribed a special diet for the patient.",
+      "SENT_ZH":"医生为病人开具了特殊的饮食方案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "specific",
+            "dedicated",
+            "particular"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a special\nspecials",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "commerce"
+      ],
+      "DEF_EN":"A product, program, or meal offered at a reduced price or for a limited time; a temporary feature item.",
+      "DEF_ZH":"特价商品；特别节目；（餐厅的）今日特餐。",
+      "SENT_EN":"I recommend today's special; it's the chef's best dish.",
+      "SENT_ZH":"我推荐今天的特餐，那是厨师最好的菜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deal",
+            "feature",
+            "promotion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"special (education)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "education",
+        "euphemism"
+      ],
+      "DEF_EN":"Relating to or providing education for children with learning difficulties or physical disabilities.",
+      "DEF_ZH":"（教育）特殊需要的；残疾人教育的。",
+      "SENT_EN":"She works as a teacher in special education.",
+      "SENT_ZH":"她在特殊教育领域担任教师。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "SEND"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, commerce, media, and education."
+}

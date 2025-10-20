@@ -1,0 +1,80 @@
+{
+  "WORD":"cassette",
+  "IPA":"/kəˈsɛt/",
+  "CONJUGATES":"cassettes (pl.)",
+  "ETYMOLOGY":"From French cassette, diminutive of casse ('case, box'), ultimately from Latin capsa ('box, case').",
+  "SINCE":"c. 1670 (general meaning); c. 1960s (audio/video meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology",
+        "obsolete"
+      ],
+      "DEF_EN":"A compact, sealed plastic case containing magnetic tape, used for recording and reproducing sound (audio cassette) or moving images (video cassette).",
+      "DEF_ZH":"用于录制和重现声音（音频盒式磁带）或动态图像（视频盒式磁带）的、装有磁带的紧凑型密封塑料盒。",
+      "SENT_EN":"He still listens to his favorite classic rock albums on old cassettes.",
+      "SENT_ZH":"他仍然在使用旧的盒式磁带听他最喜欢的经典摇滚专辑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tape",
+            "cartridge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Walkman",
+            "VHS",
+            "magnetic tape"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (photography/medical)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "photography"
+      ],
+      "DEF_EN":"A light-tight container or holder used to enclose and protect photographic film or X-ray plates before and during exposure.",
+      "DEF_ZH":"在曝光之前和期间用于封闭和保护照相胶片或X射线底片的避光容器或支架（暗盒）。",
+      "SENT_EN":"The radiologist checked the positioning of the X-ray cassette.",
+      "SENT_ZH":"放射科医生检查了X射线暗盒的定位。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sth] (bicycle part)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "cycling",
+        "sport"
+      ],
+      "DEF_EN":"The cluster of gears (sprockets) that slides onto the freehub body of the rear wheel of a bicycle.",
+      "DEF_ZH":"自行车后轮自由轮毂体上滑动安装的一组齿轮（飞轮组）。",
+      "SENT_EN":"I need to replace the 11-speed cassette because some of the teeth are worn down.",
+      "SENT_ZH":"我需要更换11速飞轮，因为有些齿轮的齿磨损了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "freehub",
+            "chainring",
+            "derailleur"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technology, Sports (Cycling)"
+}

@@ -1,0 +1,77 @@
+{
+  "WORD":"sand",
+  "IPA":"/sænd/",
+  "CONJUGATES":"sands | sanding | sanded",
+  "ETYMOLOGY":"From Old English sand, from Proto-Germanic *samdaz, possibly related to Greek psámmos 'sand'",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] [sth]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A loose, granular material resulting from the disintegration of rocks, found in deserts, on beaches, and in riverbeds.",
+      "DEF_ZH":"由岩石分解形成的松散颗粒物质，常见于沙漠、海滩和河床。",
+      "SENT_EN":"The children built a large castle in the sand.",
+      "SENT_ZH":"孩子们在沙滩上建了一个大沙堡。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gravel",
+            "silt",
+            "soil",
+            "dune"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[vtr] [sth] [with sth]",
+      "POS":"v",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To smooth or polish a surface, especially wood, with sandpaper or an abrasive tool.",
+      "DEF_ZH":"用砂纸或磨具打磨（尤指木材）表面使其光滑。",
+      "SENT_EN":"He spent the afternoon sanding the wooden chair before painting it.",
+      "SENT_ZH":"他在给木椅上漆前，花了一个下午打磨它。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smooth",
+            "abrade",
+            "polish"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sandpaper",
+            "grind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[C] [a kind of sand]",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "less common",
+        "specialized"
+      ],
+      "DEF_EN":"A specific type or sample of sand, often used in geological or commercial contexts.",
+      "DEF_ZH":"特定类型的沙子或沙样，常用于地质学或商业环境。",
+      "SENT_EN":"They analyzed three different sands from the various construction sites.",
+      "SENT_ZH":"他们分析了来自不同工地的三种不同的沙子。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

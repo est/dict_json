@@ -1,0 +1,182 @@
+{
+  "WORD":"scale",
+  "IPA":"/skeɪl/",
+  "CONJUGATES":"scales | scaling | scaled",
+  "ETYMOLOGY":"Derived from two main roots:\n1. (Measurement, Climb, Music): From Old French 'escale', ultimately from Latin 'scala' (ladder, staircase, usually plural 'scalae').\n2. (Fish covering, Flake, Weighing Pan): From Old French 'escale' (husk, shell), related to Old Norse 'skál' (bowl, shell).",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[on a] scale [of sth]\n[at a certain] scale",
+      "POS":"n | countable",
+      "POS_TIP":"Noun | 可数名词",
+      "TAGS":[
+        "core word",
+        "measurement",
+        "common"
+      ],
+      "DEF_EN":"A system of ordered marks at fixed intervals used for measurement, recording, or comparison; or the ratio between a representation and the size of the thing it represents (e.g., on a map).",
+      "DEF_ZH":"用于测量、记录或比较的，按固定间隔排列的刻度或等级系统；或表示模型或地图与实际事物大小的比例。",
+      "SENT_EN":"The map was drawn to a scale of 1:10,000.",
+      "SENT_ZH":"这张地图是按万分之一的比例绘制的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ratio",
+            "gradation",
+            "standard"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Richter scale",
+            "pH scale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"on a [large/small/global] scale\nthe scale [of sth]",
+      "POS":"n | uncountable",
+      "POS_TIP":"Noun | 不可数名词",
+      "TAGS":[
+        "core word",
+        "scope",
+        "common"
+      ],
+      "DEF_EN":"The size or extent of something.",
+      "DEF_ZH":"事物的规模、范围或程度。",
+      "SENT_EN":"They embarked on a massive building project of epic scale.",
+      "SENT_ZH":"他们开始了一项史诗般规模的巨大建筑项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "magnitude",
+            "scope",
+            "extent",
+            "dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scale [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb | 及物动词",
+      "TAGS":[
+        "core word",
+        "climb",
+        "formal"
+      ],
+      "DEF_EN":"To climb up or over a high or steep object.",
+      "DEF_ZH":"攀登或爬过高耸或陡峭的物体。",
+      "SENT_EN":"It took the hikers three hours to scale the mountain peak.",
+      "SENT_ZH":"徒步旅行者花了三个小时才爬上山顶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "climb",
+            "ascend",
+            "mount"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scale [sth] up/down",
+      "POS":"vtr | vphrasal",
+      "POS_TIP":"Transitive Verb | 动词短语",
+      "TAGS":[
+        "core word",
+        "business",
+        "technical"
+      ],
+      "DEF_EN":"To change the size or production capacity of something proportionally, often to meet demand or resources.",
+      "DEF_ZH":"按比例调整事物的大小或生产能力（通常用于满足需求或资源）。",
+      "SENT_EN":"The startup needs to scale up its operations quickly to handle the new market.",
+      "SENT_ZH":"这家初创公司需要迅速扩大其运营规模以应对新市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjust",
+            "proportion",
+            "expand",
+            "reduce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scales\n[a] scale [of a fish]",
+      "POS":"n | countable",
+      "POS_TIP":"Noun | 可数名词",
+      "TAGS":[
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"One of the small, overlapping, bony or horny plates that cover the skin of certain animals, especially fish and reptiles.",
+      "DEF_ZH":"覆盖某些动物（尤其是鱼类和爬行动物）皮肤的小而重叠的骨质或角质薄片；鳞片。",
+      "SENT_EN":"He removed the scales before frying the salmon.",
+      "SENT_ZH":"他在煎鲑鱼之前去掉了鱼鳞。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "scaly",
+            "lizard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a musical scale",
+      "POS":"n | countable",
+      "POS_TIP":"Noun | 可数名词",
+      "TAGS":[
+        "music",
+        "technical"
+      ],
+      "DEF_EN":"A succession of notes ascending or descending in pitch according to a fixed scheme.",
+      "DEF_ZH":"按照固定模式升序或降序排列的一系列音符；音阶。",
+      "SENT_EN":"Beginners must practice the basic diatonic scale.",
+      "SENT_ZH":"初学者必须练习基本的自然音阶。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chromatic",
+            "octave",
+            "arpeggio"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pair of scales\nscale [off/from sth]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"Intransitive/Transitive Verb | 不及物/及物动词",
+      "TAGS":[
+        "descriptive"
+      ],
+      "DEF_EN":"To come off the surface in flakes or layers.",
+      "DEF_ZH":"以薄片或层状从表面脱落。",
+      "SENT_EN":"The rust was scaling off the old metal pipes.",
+      "SENT_ZH":"铁锈正从旧金属管上剥落下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flake",
+            "peel",
+            "shed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, and Business usage"
+}

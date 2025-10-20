@@ -1,0 +1,109 @@
+{
+  "WORD":"memory",
+  "IPA":"/ˈmɛməri/",
+  "CONJUGATES":"memories (plural)",
+  "ETYMOLOGY":"From Middle English memorie, from Old French memoire, deriving from Latin memoria ('mindfulness, remembrance'), ultimately from memor ('mindful, remembering').",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"memory",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "psychology"
+      ],
+      "DEF_EN":"The faculty by which the mind stores and recalls information and past experiences.",
+      "DEF_ZH":"大脑存储和回忆信息和过去经验的能力或官能；记忆力。",
+      "SENT_EN":"She has an excellent memory for faces, but struggles with names.",
+      "SENT_ZH":"她对人脸有很好的记忆力，但记名字却很困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recall",
+            "recollection",
+            "retention"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "amnesia",
+            "mnemonics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] memory [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common word",
+        "recollection"
+      ],
+      "DEF_EN":"A specific stored record of an event, person, or experience in the mind; a recollection.",
+      "DEF_ZH":"储存在脑海中的特定事件或经历的记录；回忆。",
+      "SENT_EN":"The smell of pine needles brought back happy memories of his childhood.",
+      "SENT_ZH":"松针的味道唤起了他童年快乐的回忆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remembrance",
+            "impression",
+            "flashback"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"memory",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable/countable)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"The part of a computer in which data is stored, especially the electronic components (RAM/ROM) used for temporary or permanent data storage.",
+      "DEF_ZH":"计算机中用于存储数据的部分，尤其是用于临时或永久数据存储的电子组件（内存）。",
+      "SENT_EN":"I need to upgrade my computer's memory to run this new software efficiently.",
+      "SENT_ZH":"我需要升级我的电脑内存才能高效运行这款新软件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "RAM",
+            "ROM",
+            "storage",
+            "cache"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in memory of [sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable, usually used in fixed phrases)",
+      "TAGS":[
+        "formal",
+        "idiomatic"
+      ],
+      "DEF_EN":"The state of being remembered or honored after death or after an event has passed (used often in dedication or tribute).",
+      "DEF_ZH":"为纪念或悼念（某人或某事）而采取的行动或保留的状态。",
+      "SENT_EN":"The foundation was established in memory of the late Dr. Johnson.",
+      "SENT_ZH":"该基金会是为纪念已故的约翰逊博士而设立的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tribute",
+            "commemoration"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Formal"
+}

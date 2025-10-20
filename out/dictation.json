@@ -1,0 +1,86 @@
+{
+  "WORD":"dictation",
+  "IPA":"/dɪkˈteɪʃən/",
+  "CONJUGATES":"dictations",
+  "ETYMOLOGY":"From Latin dictatio(n-), from dictare 'to say often, prescribe, dictate', related to dicere 'to say'.",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"dictation",
+      "POS":"N",
+      "POS_TIP":"Noun: A word or phrase that denotes a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "communication"
+      ],
+      "DEF_EN":"The action of speaking words aloud to be written down or recorded by another person.",
+      "DEF_ZH":"口述，听写（指口述内容由他人记录下来或录音）。",
+      "SENT_EN":"The CEO finished his dictation of the quarterly report before noon.",
+      "SENT_ZH":"首席执行官在中午之前完成了对季度报告的口述。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transcription",
+            "recitation",
+            "statement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dictate",
+            "secretary",
+            "shorthand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dictation (test/exercise)",
+      "POS":"N",
+      "POS_TIP":"Noun: A word or phrase that denotes a person, place, thing, or idea.",
+      "TAGS":[
+        "education",
+        "testing"
+      ],
+      "DEF_EN":"An exercise in which a passage or words are read aloud by a teacher for students to write down exactly as heard, often used to test spelling or comprehension.",
+      "DEF_ZH":"听写测试；听写练习（学校中用来考察学生拼写或理解的练习）。",
+      "SENT_EN":"The students dreaded the weekly spelling dictation.",
+      "SENT_ZH":"学生们害怕每周的拼写听写测试。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spelling test"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"under the dictation of [sb/sth]",
+      "POS":"N",
+      "POS_TIP":"Noun: A word or phrase that denotes a person, place, thing, or idea.",
+      "TAGS":[
+        "formal",
+        "authority"
+      ],
+      "DEF_EN":"The imposing of terms or requirements by an authoritative figure or body; command or control.",
+      "DEF_ZH":"支配；命令；专横的要求（指有权力者强行规定条款或施加控制）。",
+      "SENT_EN":"The local council refused to accept the final terms under the dictation of the central government.",
+      "SENT_ZH":"地方议会拒绝接受中央政府强制规定的最终条款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mandate",
+            "command",
+            "imposition",
+            "rule"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Educational"
+}

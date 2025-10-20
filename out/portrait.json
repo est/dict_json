@@ -1,0 +1,86 @@
+{
+  "WORD":"portrait",
+  "IPA":"/ˈpɔːrtrɪt/",
+  "CONJUGATES":"portraits",
+  "ETYMOLOGY":"From Old French 'portraire' ('to draw, depict, portray'), from Latin 'protrahere' ('to draw forth, uncover'), from 'pro-' ('forward') + 'trahere' ('to draw'). The noun form emerged in the 16th century.",
+  "SINCE":"c. 1580",
+  "MEANINGS":[
+    {
+      "PATTERN":"portrait [of sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "art"
+      ],
+      "DEF_EN":"A painting, drawing, photograph, or sculpture of a person, usually showing only the head and shoulders or the whole face.",
+      "DEF_ZH":"以某人为主题的绘画、素描、照片或雕塑作品，通常只展示头部和肩部或整个脸部。",
+      "SENT_EN":"She commissioned an artist to paint a portrait of her daughter.",
+      "SENT_ZH":"她委托一位艺术家为她的女儿画了一幅肖像画。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "likeness",
+            "effigy",
+            "depiction"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "self-portrait",
+            "caricature",
+            "bust"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"portrait [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "literature"
+      ],
+      "DEF_EN":"A detailed description or representation of someone or something in words or on film; a literary or cinematic portrayal.",
+      "DEF_ZH":"对某人或某事物的详细文字或影像描述；文学或电影上的刻画。",
+      "SENT_EN":"The novel offers a vivid portrait of life in 19th-century London.",
+      "SENT_ZH":"这部小说生动地描绘了19世纪伦敦的生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "description",
+            "depiction",
+            "account",
+            "profile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"portrait mode",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"(In computing and photography) The orientation of a page or screen where the vertical dimension is greater than the horizontal dimension (opposite of landscape mode).",
+      "DEF_ZH":"（在计算和摄影中）页面或屏幕的一种方向，其中垂直尺寸大于水平尺寸（与横向模式相反）。",
+      "SENT_EN":"Please turn your phone to portrait mode to view the story.",
+      "SENT_ZH":"请将您的手机转为纵向模式以查看故事。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "landscape"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

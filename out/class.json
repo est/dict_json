@@ -1,0 +1,130 @@
+{
+  "WORD":"class",
+  "IPA":"/klæs/",
+  "CONJUGATES":"classes | classing | classed",
+  "ETYMOLOGY":"From Old French classe (division, category) or directly from Latin classis ('a division of the people, an army, a fleet').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "social science"
+      ],
+      "DEF_EN":"A set or category of things having some property or attribute in common. Specifically, a division of society according to economic status, birth, or status.",
+      "DEF_ZH":"一组具有共同属性或特征的事物或人。特指根据经济地位、出身或身份划分的社会阶层。",
+      "SENT_EN":"The widening gap between the working class and the wealthy class is a major concern.",
+      "SENT_ZH":"工薪阶层和富裕阶层之间日益扩大的差距是一个主要问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "category",
+            "group",
+            "stratum",
+            "caste"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (attend a class)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "education",
+        "common"
+      ],
+      "DEF_EN":"A period of instruction, typically one session, or the group of students attending it.",
+      "DEF_ZH":"一节课或教学时段，或指听课的学生群体。",
+      "SENT_EN":"He teaches an evening class on ancient history.",
+      "SENT_ZH":"他教授一门关于古代历史的晚间课程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lesson",
+            "lecture",
+            "seminar",
+            "course"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(have class)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "positive connotation"
+      ],
+      "DEF_EN":"Style, elegance, or high quality; distinction.",
+      "DEF_ZH":"风格、优雅或高品质；出众。",
+      "SENT_EN":"Despite the setback, she showed true class in handling the situation.",
+      "SENT_ZH":"尽管遭遇挫折，她在处理这种情况时展现了真正的风度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "style",
+            "sophistication",
+            "elegance",
+            "polish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"class [sth] as [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To assign (someone or something) to a particular class, rank, or category.",
+      "DEF_ZH":"将（某人或某物）分配到特定的等级、排名或类别。",
+      "SENT_EN":"The reviewer classed the film as one of the best releases of the year.",
+      "SENT_ZH":"评论家将这部电影归类为本年度最佳发行作品之一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "classify",
+            "sort",
+            "categorize",
+            "grade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "specialized"
+      ],
+      "DEF_EN":"In object-oriented programming, a blueprint for creating objects, providing initial values and implementations of behavior.",
+      "DEF_ZH":"在面向对象编程中，用于创建对象的蓝图，提供了初始值和行为实现。",
+      "SENT_EN":"We need to define the User class before we can instantiate user objects.",
+      "SENT_ZH":"在实例化用户对象之前，我们需要定义用户类。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "object",
+            "instance",
+            "inheritance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across academic, technical, and general conversation."
+}

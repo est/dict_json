@@ -1,0 +1,77 @@
+{
+  "WORD":"subtract",
+  "IPA":"/səbˈtrækt/",
+  "CONJUGATES":"subtracts | subtracting | subtracted",
+  "ETYMOLOGY":"From Latin subtrahere (sub- 'under, away' + trahere 'to pull, draw'). Originally meaning 'to draw off or away'.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"subtract [sth] (from [sth else])",
+      "POS":"vtr | vitr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "mathematics"
+      ],
+      "DEF_EN":"To perform the operation of subtraction; to take away one number or quantity from another.",
+      "DEF_ZH":"进行减法运算；从一个数字或数量中减去另一个。",
+      "SENT_EN":"If you subtract 15 from 50, the remainder is 35.",
+      "SENT_ZH":"如果你用50减去15，余数是35。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deduct",
+            "take away",
+            "minus"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "add"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "subtraction",
+            "addition",
+            "difference"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"subtract [sth] (from [sth else])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "general usage",
+        "figurative"
+      ],
+      "DEF_EN":"To remove or take away a part or quality from a whole, thereby diminishing it.",
+      "DEF_ZH":"移除或剥夺整体的一部分，从而减少或削弱它。",
+      "SENT_EN":"The negative reviews really subtract from the enjoyment of the show.",
+      "SENT_ZH":"负面评论确实削弱了观看这部剧的乐趣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "diminish",
+            "reduce",
+            "detract"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contribute",
+            "enhance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Academic (Mathematics)"
+}

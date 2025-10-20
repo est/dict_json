@@ -1,0 +1,86 @@
+{
+  "WORD":"pity",
+  "IPA":"/ˈpɪt.i/",
+  "CONJUGATES":"pities | pitied | pitying",
+  "ETYMOLOGY":"From Old French pité ('pity, compassion, piety'), from Latin pietās ('piety, duty, kindness'). The meaning shifted in medieval times from 'piety' or 'godliness' to 'sympathy' or 'compassion'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] feels pity for [sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "emotion"
+      ],
+      "DEF_EN":"The feeling of sympathy and sorrow evoked by the suffering, distress, or misfortune of others.",
+      "DEF_ZH":"对他人痛苦、困境或不幸所产生的同情和悲伤感。",
+      "SENT_EN":"She felt a surge of pity for the lost child wandering in the rain.",
+      "SENT_ZH":"她对那个在雨中徘徊的迷路孩子产生了强烈的怜悯之情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compassion",
+            "sympathy",
+            "mercy",
+            "commiseration"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "empathy",
+            "kindness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pity [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To feel or show pity or sympathy for someone.",
+      "DEF_ZH":"对某人感到或表现出同情或怜悯。",
+      "SENT_EN":"I pity anyone who has to commute that far every day.",
+      "SENT_ZH":"我同情任何每天需要通勤那么远的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sympathize with",
+            "feel sorry for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"It is a pity that...\nWhat a pity",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "expression",
+        "common usage"
+      ],
+      "DEF_EN":"A cause for regret, disappointment, or sadness.",
+      "DEF_ZH":"令人遗憾、失望或悲伤的事情。",
+      "SENT_EN":"It is a great pity that the festival was cancelled due to the weather.",
+      "SENT_ZH":"由于天气原因，节日被取消真是太遗憾了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shame",
+            "misfortune",
+            "regret"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

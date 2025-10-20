@@ -1,0 +1,110 @@
+{
+  "WORD":"ticket",
+  "IPA":"/ˈtɪkɪt/",
+  "CONJUGATES":"tickets | ticketing | ticketed",
+  "ETYMOLOGY":"From Middle French estiquet (small label, note), ultimately from Old French estiquer (to stick, attach). Originally referred to a small sign or label attached to something.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] ticket (for [sth]/[journey])",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small piece of paper, card, or digital record that gives the holder the right to admission to a place, use of a service, or travel on a public transportation system.",
+      "DEF_ZH":"允许持有者进入某地、使用某项服务或乘坐公共交通工具的小纸片、卡片或数字记录。",
+      "SENT_EN":"I bought a return ticket for the train journey to Beijing.",
+      "SENT_ZH":"我买了一张去北京的火车往返票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pass",
+            "voucher",
+            "stub",
+            "admittance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "booking",
+            "reservation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[traffic] ticket\n[parking] ticket",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "legal",
+        "US usage"
+      ],
+      "DEF_EN":"An official notice given to someone for a minor violation, especially a traffic or parking offense, requiring them to pay a fine.",
+      "DEF_ZH":"因轻微违规（尤其是交通或停车违规）而发给某人的正式通知，要求其支付罚款。",
+      "SENT_EN":"She got a ticket for speeding when driving through the suburbs.",
+      "SENT_ZH":"她在驾车穿过郊区时因超速收到了一张罚单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fine",
+            "citation",
+            "summons"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ticket [sb] (for [sth])",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To issue an official notice or fine to a person, usually for violating a rule or law, especially relating to traffic.",
+      "DEF_ZH":"向某人发出正式通知或罚单，通常是因为违反了规则或法律，特别是交通法规。",
+      "SENT_EN":"The police officer was ticketing all the cars parked on the sidewalk.",
+      "SENT_ZH":"警察正在给所有停在人行道上的汽车开罚单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fine",
+            "cite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[political] ticket",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "politics",
+        "US usage",
+        "formal"
+      ],
+      "DEF_EN":"A list of candidates nominated by a political party for election to various offices.",
+      "DEF_ZH":"由政党提名参加选举的候选人名单（政党名单）。",
+      "SENT_EN":"The presidential ticket consists of the candidates for president and vice president.",
+      "SENT_ZH":"总统候选人名单包括总统和副总统候选人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slate",
+            "platform"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widespread"
+}

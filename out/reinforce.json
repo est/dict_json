@@ -1,0 +1,110 @@
+{
+  "WORD":"reinforce",
+  "IPA":"/ˌriːɪnˈfɔːrs/",
+  "CONJUGATES":"reinforces | reinforcing | reinforced",
+  "ETYMOLOGY":"From Middle French *reinforcer*, equivalent to *re-* (again) + *enforcer* (to strengthen, force). Ultimately related to Latin *fortis* (strong).",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"reinforce [sth] (structure, material)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "engineering"
+      ],
+      "DEF_EN":"To strengthen (an object, structure, or material) by adding extra support or materials.",
+      "DEF_ZH":"加固；加强；增强（结构、材料等），尤指通过增加支撑或材料。",
+      "SENT_EN":"The engineers used steel rods to reinforce the concrete foundation.",
+      "SENT_ZH":"工程师们使用钢筋来加固混凝土基础。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strengthen",
+            "fortify",
+            "support"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "weaken",
+            "undermine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reinforce [sth] (idea, feeling, claim)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"To strengthen or emphasize (a feeling, idea, or argument); to confirm or substantiate.",
+      "DEF_ZH":"巩固；强化；证实（观点、感受或论点）。",
+      "SENT_EN":"The latest sales figures reinforced the management's decision to expand the market.",
+      "SENT_ZH":"最新的销售数据强化了管理层扩大市场的决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confirm",
+            "validate",
+            "bolster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reinforce [sb] / [sth] (military, personnel)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "military",
+        "formal"
+      ],
+      "DEF_EN":"To provide a group, position, or force with additional personnel, supplies, or assistance.",
+      "DEF_ZH":"增援；增加部署（部队、人员、物资）。",
+      "SENT_EN":"The general requested air support to reinforce the troops holding the western flank.",
+      "SENT_ZH":"将军请求空中支援，以增援守卫西翼的部队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "augment",
+            "resupply",
+            "back up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reinforce [sth] (behavior)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "psychology"
+      ],
+      "DEF_EN":"In psychology, to increase the likelihood of a response occurring again by following it with a reward or consequence.",
+      "DEF_ZH":"（心理学）强化（指通过奖励或后果来增加某种行为或反应再次发生的可能性）。",
+      "SENT_EN":"Treats are often used to reinforce training behaviors in dogs.",
+      "SENT_ZH":"零食常被用来强化狗的训练行为。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "conditioning",
+            "reward"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical (Engineering, Military, Psychology)"
+}

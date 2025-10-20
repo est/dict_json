@@ -1,0 +1,79 @@
+{
+  "WORD":"define",
+  "IPA":"/dɪˈfaɪn/",
+  "CONJUGATES":"defines | defining | defined",
+  "ETYMOLOGY":"From Middle English, via Old French définir, from Latin dēfīnīre (to limit, bound, define), derived from dē- (down, thoroughly) + fīnis (end, boundary).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"define [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To state or describe exactly the nature, scope, or meaning of (something).",
+      "DEF_ZH":"精确地说明、阐述或描述（某事物）的性质、范围或意义。",
+      "SENT_EN":"The contract clearly defines the responsibilities of each party.",
+      "SENT_ZH":"合同明确界定了各方的责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "explain",
+            "clarify",
+            "elucidate",
+            "interpret"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"define [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "physical",
+        "formal"
+      ],
+      "DEF_EN":"To mark out the boundary or limits of (an area or object); to delineate.",
+      "DEF_ZH":"划定（区域或物体）的边界或范围；描绘轮廓。",
+      "SENT_EN":"The river defines the national border.",
+      "SENT_ZH":"这条河流界定了国界。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demarcate",
+            "delimit",
+            "outline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"define [sb] / [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "abstract"
+      ],
+      "DEF_EN":"To show the essential quality of someone or something; to characterize.",
+      "DEF_ZH":"揭示某人或某事物区别于他者的基本特质；表征。",
+      "SENT_EN":"His work ethic defines him as a professional.",
+      "SENT_ZH":"他的职业道德决定了他作为一名专业人士的特质。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "characterize",
+            "distinguish",
+            "determine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

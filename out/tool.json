@@ -1,0 +1,110 @@
+{
+  "WORD":"tool",
+  "IPA":"/tuːl/",
+  "CONJUGATES":"tools (n. pl.) | tooled (v. pt./pp.) | tooling (v. prp.) | tools (v. pres. 3rd sg.)",
+  "ETYMOLOGY":"From Middle English *tol*, derived from Old English *tōl* (implement, instrument), related to *tāwian* (to prepare, work).",
+  "SINCE":"Pre-900 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "literal"
+      ],
+      "DEF_EN":"A device or implement, especially one held in the hand, used to carry out a particular function.",
+      "DEF_ZH":"用于执行特定功能的设备或器具，尤指手持的。",
+      "SENT_EN":"A hammer is an essential tool for carpentry.",
+      "SENT_ZH":"锤子是木工必不可少的工具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "implement",
+            "instrument",
+            "apparatus",
+            "device",
+            "utensil"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative",
+        "technology"
+      ],
+      "DEF_EN":"A resource, method, or system, often non-physical (such as software or a skill), that aids in achieving a goal.",
+      "DEF_ZH":"一种资源、方法或系统，通常是非物理的（如软件或技能），有助于实现目标。",
+      "SENT_EN":"Critical thinking is the most powerful tool a student can possess.",
+      "SENT_ZH":"批判性思维是学生能拥有的最强大的工具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resource",
+            "technique",
+            "mechanism",
+            "asset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "derogatory",
+        "informal"
+      ],
+      "DEF_EN":"(Derogatory) A person who is manipulated or used by others, often without their full awareness.",
+      "DEF_ZH":"（贬义俚语）被他人操纵或利用，通常没有完全意识到的受害者或帮凶。",
+      "SENT_EN":"He realized he had just been a tool for his boss's hidden agenda.",
+      "SENT_ZH":"他意识到自己不过是老板隐藏议程的工具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pawn",
+            "dupe",
+            "stooge",
+            "puppet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tool [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "technical",
+        "specialized"
+      ],
+      "DEF_EN":"To shape, decorate, or work on a material (such as leather or metal) using a specialized implement.",
+      "DEF_ZH":"使用专用器具对材料（如皮革或金属）进行塑造、装饰或加工。",
+      "SENT_EN":"The craftsman tooled the delicate design onto the leather wallet.",
+      "SENT_ZH":"工匠用工具将精致的图案刻在了皮革钱包上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shape",
+            "engrave",
+            "chisel",
+            "work"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

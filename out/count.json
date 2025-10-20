@@ -1,0 +1,135 @@
+{
+  "WORD":"count",
+  "IPA":"/kaʊnt/",
+  "CONJUGATES":"counts | counted | counting",
+  "ETYMOLOGY":"From Middle English counten, from Old French conter ('to count, relate'), ultimately from Latin computāre (com- 'together' + putāre 'to think, calculate, reckon').",
+  "SINCE":"c. 1300 (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"count [sth] (up)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To determine the total number of items or units in a set; to enumerate.",
+      "DEF_ZH":"清点; 计算某集合中的项目或单位的总数。",
+      "SENT_EN":"The treasurer was asked to count all the cash at the end of the day.",
+      "SENT_ZH":"财务人员被要求清点所有当日现金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enumerate",
+            "tally",
+            "reckon",
+            "calculate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "estimate",
+            "guess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"count (against [sb/sth])\ncount (for [sth])",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To be important or significant; to matter.",
+      "DEF_ZH":"重要；有价值或意义。",
+      "SENT_EN":"It’s not the size of the dog in the fight, but the size of the fight in the dog that counts.",
+      "SENT_ZH":"重要的不是狗的大小，而是狗的斗志。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "matter",
+            "signify",
+            "weigh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"count [sb/sth] in\ncount [sb/sth] out",
+      "POS":"vtr + adv",
+      "POS_TIP":"Transitive Verb with Adverbial Particle (Phrasal Verb)",
+      "TAGS":[
+        "common",
+        "phrasal"
+      ],
+      "DEF_EN":"To include or exclude someone or something in a plan, group, or calculation.",
+      "DEF_ZH":"将某人/某事物纳入或排除在计划、团体或计算之外。",
+      "SENT_EN":"We're going hiking this weekend, so you can count me in.",
+      "SENT_ZH":"我们这周末要去徒步旅行，你可以算上我。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "include",
+            "exclude",
+            "factor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(a) count (of [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act of counting, or the total number reached after counting.",
+      "DEF_ZH":"计数行为；计算后的总数或结果。",
+      "SENT_EN":"We need to do a final inventory count before closing the store.",
+      "SENT_ZH":"在关闭商店之前，我们需要做最后的库存清点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "total",
+            "reckoning",
+            "tally"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Count (of [Place])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specialized",
+        "historical",
+        "title"
+      ],
+      "DEF_EN":"A European nobleman whose rank corresponds to that of a British earl. (Note: This noun usage derives from a different Latin root, comes 'companion'.)",
+      "DEF_ZH":"伯爵；欧洲贵族的一种头衔，相当于英国的伯爵。",
+      "SENT_EN":"The Count of Monte Cristo is a famous novel by Alexandre Dumas.",
+      "SENT_ZH":"《基督山伯爵》是亚历山大·大仲马的一部著名小说。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Earl",
+            "Duke",
+            "Baron",
+            "Viscount"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use"
+}

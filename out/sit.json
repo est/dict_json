@@ -1,0 +1,98 @@
+{
+  "WORD":"sit",
+  "IPA":"/sɪt/",
+  "CONJUGATES":"sits | sitting | sat",
+  "ETYMOLOGY":"From Old English sittan, derived from Proto-Germanic *setjanan, ultimately from Proto-Indo-European *sed- (to sit, settle).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"sit (down) [sb]",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take or be in a position in which the weight is supported by one's buttocks, typically with the back upright and the legs bent.",
+      "DEF_ZH":"坐；就座；采取坐姿。",
+      "SENT_EN":"We were tired, so we sat on a bench.",
+      "SENT_ZH":"我们累了，所以坐在长凳上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rest",
+            "perch",
+            "squat"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stand",
+            "lie"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sit [sth] [somewhere]",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "common",
+        "of objects"
+      ],
+      "DEF_EN":"To be situated or located in a particular place.",
+      "DEF_ZH":"位于；坐落于；放置于某处。",
+      "SENT_EN":"The vase sits right in the middle of the table.",
+      "SENT_ZH":"那个花瓶正放在桌子中央。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"sit [on/in] [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"Intransitive verb followed by preposition",
+      "TAGS":[
+        "formal",
+        "figurative"
+      ],
+      "DEF_EN":"To be a member of a committee, council, or similar body.",
+      "DEF_ZH":"担任（委员会、陪审团等）的成员。",
+      "SENT_EN":"She currently sits on the planning commission.",
+      "SENT_ZH":"她目前是规划委员会的成员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "serve",
+            "preside"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sit [sth] (an exam)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "British English",
+        "academic"
+      ],
+      "DEF_EN":"To take or present oneself for an examination or test.",
+      "DEF_ZH":"参加（考试）；应考。",
+      "SENT_EN":"Students must sit the final assessment next week.",
+      "SENT_ZH":"学生必须在下周参加期末评估。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "take",
+            "write"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

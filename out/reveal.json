@@ -1,0 +1,78 @@
+{
+  "WORD":"reveal",
+  "IPA":"/rɪˈviːl/",
+  "CONJUGATES":"reveals | revealing | revealed",
+  "ETYMOLOGY":"From Old French reveler, from Latin revelare (re- 'back, again' + velare 'to veil, cover'), meaning 'to draw back the veil'.",
+  "SINCE":"Late Middle Ages (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"reveal [sth]\nreveal [sth] to [sb]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make previously unknown or secret information known to others.",
+      "DEF_ZH":"揭露；透露；披露（秘密、信息等）。",
+      "SENT_EN":"The investigative report revealed shocking details about the CEO's misconduct.",
+      "SENT_ZH":"调查报告揭露了关于首席执行官不当行为的惊人细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disclose",
+            "divulge",
+            "unveil",
+            "expose"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "hide",
+            "cover up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reveal [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To allow something to be seen that was previously covered or hidden.",
+      "DEF_ZH":"展示；使显现；露出。",
+      "SENT_EN":"Lifting the sheet revealed a stunning marble sculpture underneath.",
+      "SENT_ZH":"掀开布单，下面露出了一个令人惊叹的大理石雕塑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "show",
+            "display",
+            "exhibit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] reveal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "architecture"
+      ],
+      "DEF_EN":"The side of an opening for a window or door, especially the vertical surface between the frame and the outer surface of the wall.",
+      "DEF_ZH":"（门窗洞的）侧壁；洞口侧面。",
+      "SENT_EN":"Ensure that the measurements for the window reveal are precise before fitting the frame.",
+      "SENT_ZH":"在安装框架之前，请确保窗洞侧壁的尺寸精确。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General and Formal"
+}

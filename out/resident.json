@@ -1,0 +1,88 @@
+{
+  "WORD":"resident",
+  "IPA":"/ˈrɛzɪdənt/",
+  "CONJUGATES":"residents | residency",
+  "ETYMOLOGY":"From Latin residēns, present participle of residēre (to sit back, remain, dwell), from re- ('back, again') + sedēre ('to sit').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who lives permanently or on a long-term basis in a particular place, house, or institution.",
+      "DEF_ZH":"居民；常住者；定居者。",
+      "SENT_EN":"The city council listens to the concerns of local residents before making policy changes.",
+      "SENT_ZH":"市议会在制定政策变动之前会听取当地居民的意见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inhabitant",
+            "dweller",
+            "settler",
+            "denizen"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "citizens",
+            "tenants"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (medical or artistic context)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "professional",
+        "specific field"
+      ],
+      "DEF_EN":"A qualified physician receiving specialized clinical training in a hospital, often after an internship; or an artist or scholar given a period to work in residence.",
+      "DEF_ZH":"住院医生（完成实习后在医院接受专业培训的医生）；驻场艺术家/学者。",
+      "SENT_EN":"After four years as a medical resident, she finally became an attending physician.",
+      "SENT_ZH":"经过四年的住院医生训练，她终于成为了一名主治医生。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "residency",
+            "intern",
+            "fellow",
+            "attending"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] + [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Living or staying in a specified place; inherent or established.",
+      "DEF_ZH":"居住的；常驻的；固有的。",
+      "SENT_EN":"The resident squirrel population in the park seemed well-fed.",
+      "SENT_ZH":"公园里常驻的松鼠种群似乎吃得很好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dwelling",
+            "inhabiting",
+            "permanent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal and general usage"
+}

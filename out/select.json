@@ -1,0 +1,90 @@
+{
+  "WORD":"select",
+  "IPA":"/sɪˈlɛkt/",
+  "CONJUGATES":"selects | selecting | selected",
+  "ETYMOLOGY":"From Latin sēlēctus, past participle of sēligere (sē- 'apart' + legere 'to gather, choose').",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"select [sb]\nselect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To choose (someone or something) carefully from a group or a number of alternatives as being the best or most suitable.",
+      "DEF_ZH":"从一群或多个选项中仔细选择（某人或某物）作为最佳或最合适的。",
+      "SENT_EN":"The committee will select the final three candidates by Friday.",
+      "SENT_ZH":"委员会将在周五选出最后三名候选人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "choose",
+            "pick",
+            "elect",
+            "opt for",
+            "single out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reject",
+            "discard",
+            "refuse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"select [sth] (on a device)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To mark an item on a computer screen, usually by clicking or dragging, to indicate it is the object of the next operation.",
+      "DEF_ZH":"在计算机屏幕上标记或突出显示一个项目，以指示它将成为下一个操作的目标。",
+      "SENT_EN":"Select the files you want to copy by holding down the Control key.",
+      "SENT_ZH":"按住 Control 键选择您想要复制的文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "highlight",
+            "mark",
+            "click"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] select [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "quality"
+      ],
+      "DEF_EN":"Of high quality or having been chosen with great care; exclusive or restrictive.",
+      "DEF_ZH":"优质的，经过精心挑选的；独家或有限制的。",
+      "SENT_EN":"The society held its meeting at a select club downtown.",
+      "SENT_ZH":"该协会在市中心一家精选俱乐部举行了会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "choice",
+            "premium",
+            "exclusive",
+            "elite"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, formal/business contexts, and technology."
+}

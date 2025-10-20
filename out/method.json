@@ -1,0 +1,92 @@
+{
+  "WORD":"method",
+  "IPA":"/ˈmɛθəd/",
+  "CONJUGATES":"methods (plural)",
+  "ETYMOLOGY":"From Late Latin methodus, from Greek methodos (μέθοδος) 'pursuit of knowledge, way of inquiry', from meta- 'after, along with' + hodos 'way, path'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] method [of doing sth]\n[a] method [for sth]",
+      "POS":"Noun",
+      "POS_TIP":"Countable Noun / Uncountable Noun (可数名词/不可数名词)",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"A particular systematic procedure or technique used to achieve an end or goal.",
+      "DEF_ZH":"为实现某个目的或目标而采用的系统性程序、规程或技术。",
+      "SENT_EN":"His research requires a new method for data collection and analysis.",
+      "SENT_ZH":"他的研究需要一种新的数据收集和分析方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "procedure",
+            "technique",
+            "approach",
+            "system",
+            "manner"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "methodology",
+            "process",
+            "strategy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"method [in one's madness]",
+      "POS":"Noun",
+      "POS_TIP":"Uncountable Noun (不可数名词)",
+      "TAGS":[
+        "abstract",
+        "formal"
+      ],
+      "DEF_EN":"Orderliness and careful systematic planning or arrangement.",
+      "DEF_ZH":"有条不紊的秩序；系统性；精心策划或安排。",
+      "SENT_EN":"Despite the apparent chaos, she always had a clear method in her work.",
+      "SENT_ZH":"尽管表面上看起来混乱，但她的工作总是有清晰的章法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "order",
+            "organization",
+            "structure",
+            "discipline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] method [of a class]",
+      "POS":"Noun",
+      "POS_TIP":"Countable Noun (可数名词)",
+      "TAGS":[
+        "technical",
+        "computer science"
+      ],
+      "DEF_EN":"(In object-oriented programming) A routine or function associated with an object class that defines a specific action or behavior that the object can perform.",
+      "DEF_ZH":"（在面向对象编程中）与对象类关联的子程序或函数，定义了该对象可以执行的特定动作或行为。",
+      "SENT_EN":"We need to override the default 'print' method in this derived class.",
+      "SENT_ZH":"我们需要覆盖这个派生类中的默认 'print' 方法。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "function",
+            "procedure",
+            "class",
+            "object"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Scientific, Computing"
+}

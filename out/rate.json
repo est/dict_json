@@ -1,0 +1,121 @@
+{
+  "WORD":"rate",
+  "IPA":"/reɪt/",
+  "CONJUGATES":"rates | rating | rated",
+  "ETYMOLOGY":"From Old French rate (meaning 'proportion, calculation'), possibly from Medieval Latin rata (pars), meaning 'fixed (part)', feminine of ratus, past participle of reor 'think, calculate'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (at [number])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A measure, quantity, or frequency, typically one measured against another quantity or standard, especially as a proportion over time.",
+      "DEF_ZH":"速度、频率、比率；特定时间内的数量或标准。",
+      "SENT_EN":"The unemployment rate in the region has been rising steadily.",
+      "SENT_ZH":"该地区的失业率一直在稳步上升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ratio",
+            "proportion",
+            "percentage",
+            "frequency",
+            "speed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "finance"
+      ],
+      "DEF_EN":"A fixed price paid or charged for something.",
+      "DEF_ZH":"价格，费用，收费标准。",
+      "SENT_EN":"What is the going rate for a room in this hotel?",
+      "SENT_ZH":"这家酒店房间的当前价格是多少？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "fee",
+            "cost",
+            "tariff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] [at number or quality]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To assign a particular relative value or standard to something; to judge the quality of something.",
+      "DEF_ZH":"评估，评价；给予（某事物）特定的相对价值或标准。",
+      "SENT_EN":"I rate him as one of the best players in the league.",
+      "SENT_ZH":"我将他评价为联赛中最好的球员之一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "evaluate",
+            "assess",
+            "appraise",
+            "judge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (as) [adj]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "colloquial",
+        "old word"
+      ],
+      "DEF_EN":"To consider something worthy of a high standard (often used negatively or in questions).",
+      "DEF_ZH":"认为（某物）值得重视或给予高标准（常用于否定或疑问）。",
+      "SENT_EN":"Do you rate his chances of winning the election?",
+      "SENT_ZH":"你认为他赢得选举的机会如何？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"at any rate",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "idiom",
+        "common"
+      ],
+      "DEF_EN":"Used to indicate that what one is saying is true, whatever else may be true; in any case.",
+      "DEF_ZH":"无论如何；至少。",
+      "SENT_EN":"It may rain, but at any rate, we'll start early.",
+      "SENT_ZH":"可能会下雨，但无论如何，我们会早点出发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "in any case",
+            "anyway",
+            "at least"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use in economics, finance, mathematics, and everyday conversation."
+}

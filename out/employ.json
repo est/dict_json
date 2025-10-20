@@ -1,0 +1,88 @@
+{
+  "WORD":"employ",
+  "IPA":"/ɪmˈplɔɪ/",
+  "CONJUGATES":"employs | employing | employed",
+  "ETYMOLOGY":"From Middle English employen, from Old French employer, from Latin implicāre, meaning 'to fold in, involve, occupy'. The sense shift occurred in Old French towards 'use, apply'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"employ [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "business"
+      ],
+      "DEF_EN":"To give work to (someone) and pay them for it; to hire.",
+      "DEF_ZH":"雇佣；聘用；受雇于。",
+      "SENT_EN":"The factory currently employs over 300 skilled workers.",
+      "SENT_ZH":"这家工厂目前雇佣了超过300名熟练工人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hire",
+            "recruit",
+            "engage",
+            "staff"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fire",
+            "dismiss",
+            "lay off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"employ [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To make use of (a technique, tool, resource, or skill) in order to achieve a purpose.",
+      "DEF_ZH":"使用；利用；运用（方法、工具、策略等）。",
+      "SENT_EN":"The CEO decided to employ a new strategy to boost market share.",
+      "SENT_ZH":"这位首席执行官决定采用一项新战略来提升市场份额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "use",
+            "utilize",
+            "apply",
+            "exercise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"employ [oneself] in [sth]",
+      "POS":"v refl + prep",
+      "POS_TIP":"reflexive verb followed by a preposition",
+      "TAGS":[
+        "literary",
+        "dated"
+      ],
+      "DEF_EN":"To occupy one's time or attention with a particular activity or task.",
+      "DEF_ZH":"从事；忙于；致力于（某事）。",
+      "SENT_EN":"During his long convalescence, he employed himself in studying the classics.",
+      "SENT_ZH":"在漫长的康复期间，他忙于研读经典著作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occupy",
+            "engage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and professional use, with the second meaning ('to use') being more formal."
+}

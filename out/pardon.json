@@ -1,0 +1,85 @@
+{
+  "WORD":"pardon",
+  "IPA":"/ˈpɑːrdən/",
+  "CONJUGATES":"pardons | pardoned | pardoning",
+  "ETYMOLOGY":"From Old French *pardon* (noun) and *pardoner* (verb), derived from Late Latin *perdonare* (per- 'through, completely' + *donare* 'to give'), meaning 'to forgive, remit'",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"Pardon?\nPardon me.",
+      "POS":"interj",
+      "POS_TIP":"interjection: an exclamation used to express emotion or sudden feeling",
+      "TAGS":[
+        "core word",
+        "conversational",
+        "polite"
+      ],
+      "DEF_EN":"Used politely to ask someone to repeat what they said because it was not heard or understood, or as a mild apology for a minor offense (like bumping into someone).",
+      "DEF_ZH":"请再说一遍（表示没听清）; 抱歉/对不起（表示轻微歉意或打扰）。",
+      "SENT_EN":"Pardon me, I didn't quite catch that last sentence.",
+      "SENT_ZH":"不好意思，我没太听清您说的最后一句话。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Excuse me"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pardon [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To excuse or forgive a person for a fault, offense, or error.",
+      "DEF_ZH":"原谅；宽恕（某人或某事）。",
+      "SENT_EN":"I hope you can pardon my late arrival; the traffic was terrible.",
+      "SENT_ZH":"我希望您能原谅我的迟到，交通太糟糕了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "forgive",
+            "excuse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "punish",
+            "condemn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pardon (for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun: a word that functions as the name of a specific object or set of objects",
+      "TAGS":[
+        "formal",
+        "legal",
+        "political"
+      ],
+      "DEF_EN":"An official act by a governing authority (such as a president or governor) that legally forgives someone for a crime and removes any remaining penalties.",
+      "DEF_ZH":"（法律/政治）赦免；特赦令。",
+      "SENT_EN":"The former prisoner requested a presidential pardon to clear his record.",
+      "SENT_ZH":"这名前囚犯请求总统特赦以洗清他的记录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amnesty",
+            "clemency",
+            "reprieve"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation (as an interjection) and in formal/legal contexts (as a verb or noun relating to official forgiveness)."
+}

@@ -1,0 +1,105 @@
+{
+  "WORD":"packet",
+  "IPA":"/ˈpækɪt/",
+  "CONJUGATES":"packets",
+  "ETYMOLOGY":"Middle English, from Anglo-Norman pacquet, diminutive of pacque 'package, bundle', of Germanic origin (compare Middle Low German pak, Dutch pak).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small paper or cardboard container or wrapper used to hold a small quantity of something, often food or tobacco.",
+      "DEF_ZH":"用于装少量物品（通常是食物或烟草）的小纸盒或包装袋。",
+      "SENT_EN":"He bought a packet of cigarettes and a packet of crisps.",
+      "SENT_ZH":"他买了一包香烟和一包薯片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sachet",
+            "pouch",
+            "carton",
+            "container"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"A block of data transmitted across a network, typically containing control information, error checking data, and the data payload.",
+      "DEF_ZH":"在网络中传输的数据块，通常包含控制信息、错误校验数据以及数据载荷。",
+      "SENT_EN":"The router dropped several packets due to network congestion.",
+      "SENT_ZH":"由于网络拥堵，路由器丢弃了好几个数据包。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "protocol",
+            "datagram",
+            "frame",
+            "TCP/IP"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "general"
+      ],
+      "DEF_EN":"A small bundle or collection of letters, documents, or other small items, often wrapped or tied together.",
+      "DEF_ZH":"一小捆或一叠信件、文件或其他小物品，通常是包裹或捆绑在一起的。",
+      "SENT_EN":"She received a packet of letters from her grandmother.",
+      "SENT_ZH":"她收到了她祖母寄来的一小包信件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bundle",
+            "package",
+            "wad",
+            "parcel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a packet",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "informal",
+        "slang",
+        "british english"
+      ],
+      "DEF_EN":"To make a large amount of money; to earn a fortune.",
+      "DEF_ZH":"赚很多钱；发财。",
+      "SENT_EN":"He made a packet when he sold his tech startup last year.",
+      "SENT_ZH":"去年他卖掉他的科技初创公司时大赚了一笔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "make a killing",
+            "strike it rich",
+            "make a bundle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in computing and British English slang."
+}

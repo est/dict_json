@@ -1,0 +1,133 @@
+{
+  "WORD":"idle",
+  "IPA":"/ˈaɪdl/",
+  "CONJUGATES":"idled (v) | idling (v) | idles (v) | idler (n) | idly (adv) | idleness (n)",
+  "ETYMOLOGY":"From Old English īdel ('empty, useless, vain'), related to Old High German ītal.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is idle\nspend idle [time/hours]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Avoiding work; lazy; not busy or occupied.",
+      "DEF_ZH":"无所事事的；闲散的；懒散的。",
+      "SENT_EN":"After the factory closed, thousands of workers were left idle.",
+      "SENT_ZH":"工厂关闭后，数千名工人失业赋闲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inactive",
+            "unemployed",
+            "leisured",
+            "vacant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "busy",
+            "active",
+            "working"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is idle",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"(Of equipment, capacity, or money) Not being used or generating revenue.",
+      "DEF_ZH":"（机器、资源等）闲置的；未被使用的。",
+      "SENT_EN":"We need to utilize the idle servers to cut down costs.",
+      "SENT_ZH":"我们需要利用这些闲置的服务器来削减成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unused",
+            "dormant",
+            "static"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[engine/car] idles",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "mechanical"
+      ],
+      "DEF_EN":"(Of an engine or motor) To run slowly while out of gear or in neutral.",
+      "DEF_ZH":"（发动机或车辆）空转；怠速运转。",
+      "SENT_EN":"He left the truck to idle while he went inside the shop.",
+      "SENT_ZH":"他把卡车留在那里怠速运转，自己走进了商店。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "idling",
+            "neutral"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"idle [talk/threats/thoughts]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Without purpose, effect, or foundation; useless or trivial.",
+      "DEF_ZH":"徒劳的；无用的；空洞的（指言语、威胁等）。",
+      "SENT_EN":"His promises turned out to be nothing more than idle threats.",
+      "SENT_ZH":"他的承诺结果不过是空洞的威胁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frivolous",
+            "pointless",
+            "vain",
+            "trivial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] idles [away time]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"intransitive verb or transitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To pass time without working or doing anything useful.",
+      "DEF_ZH":"虚度（光阴）；无所事事地度日。",
+      "SENT_EN":"He idled away the summer afternoons reading books.",
+      "SENT_ZH":"他整个夏日的午后都在阅读书籍中虚度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loaf",
+            "loiter",
+            "lounge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, covering personal status and technical operations."
+}

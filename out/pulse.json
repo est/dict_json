@@ -1,0 +1,126 @@
+{
+  "WORD":"pulse",
+  "IPA":"/pʌls/",
+  "CONJUGATES":"pulses | pulsing | pulsed",
+  "ETYMOLOGY":"Late Middle English, from Old French pous (or Latin pulsus 'beat, impulse'), past participle of pellere 'to drive, push'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"pulse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Medical"
+      ],
+      "DEF_EN":"The rhythmic throbbing caused by the regular contraction and expansion of an artery as blood is driven through it by the heart.",
+      "DEF_ZH":"脉搏；心跳（由于心脏将血液推入动脉时，动脉发生的规律性收缩和扩张所产生的节律性搏动）。",
+      "SENT_EN":"The nurse checked the patient's pulse and blood pressure.",
+      "SENT_ZH":"护士检查了病人的脉搏和血压。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heartbeat",
+            "throb",
+            "rhythm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] pulse",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Core word",
+        "Action"
+      ],
+      "DEF_EN":"To throb or beat rhythmically; to vibrate intensely.",
+      "DEF_ZH":"搏动；跳动；有规律地颤动或震荡。",
+      "SENT_EN":"The loud bass music pulsed through the floor.",
+      "SENT_ZH":"低沉的低音音乐震撼着地板，有节奏地跳动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "throb",
+            "beat",
+            "vibrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the pulse of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Figurative",
+        "Common"
+      ],
+      "DEF_EN":"The fundamental mood, current, or characteristic energy of a place, situation, or group.",
+      "DEF_ZH":"核心精神；趋势；律动（指某地、某情境或某群体的基本氛围或特性）。",
+      "SENT_EN":"He claimed to understand the pulse of the nation's youth.",
+      "SENT_ZH":"他声称理解这个国家年轻人的核心精神。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vibe",
+            "spirit",
+            "zeitgeist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pulse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Physics"
+      ],
+      "DEF_EN":"A single, brief, and sudden disturbance or fluctuation, especially in electric current, light, or sound that propagates as a wave.",
+      "DEF_ZH":"脉冲；短促的信号（特指在电流、光线或声音中传播的单一、短暂的波动）。",
+      "SENT_EN":"A radar system transmits a regular pulse of radio waves.",
+      "SENT_ZH":"雷达系统会发射规律的无线电波脉冲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impulse",
+            "signal",
+            "burst"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pulses (plural)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Botany",
+        "Food",
+        "Collective"
+      ],
+      "DEF_EN":"The edible seeds of leguminous crops, such as peas, beans, lentils, and chickpeas.",
+      "DEF_ZH":"豆类作物（豌豆、扁豆、鹰嘴豆等）的种子；豆科作物。",
+      "SENT_EN":"Pulses are rich in dietary fiber and vegetable protein.",
+      "SENT_ZH":"豆类富含膳食纤维和植物蛋白。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "legumes",
+            "beans",
+            "lentils"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Technical, Botanical"
+}

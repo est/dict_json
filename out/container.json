@@ -1,0 +1,90 @@
+{
+  "WORD":"container",
+  "IPA":"/kənˈteɪnər/",
+  "CONJUGATES":"containers (pl)",
+  "ETYMOLOGY":"From the verb 'contain' (Latin continēre, con- 'together' + tenēre 'to hold') combined with the agent suffix '-er'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical object"
+      ],
+      "DEF_EN":"An object, such as a box, bottle, or can, designed to hold or store something.",
+      "DEF_ZH":"用于容纳或储存物品的物体，如盒子、瓶子或罐子。",
+      "SENT_EN":"She stored the leftover soup in a small plastic container.",
+      "SENT_ZH":"她把剩下的汤装在一个小的塑料容器里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "receptacle",
+            "vessel",
+            "holder",
+            "canister"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "storage",
+            "packaging"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "logistics",
+        "technical",
+        "shipping"
+      ],
+      "DEF_EN":"A large, standardized, usually rectangular metal box used for transporting goods by rail, sea, or road.",
+      "DEF_ZH":"用于通过铁路、海运或公路运输货物的大型、标准化、通常为矩形金属箱（集装箱）。",
+      "SENT_EN":"The goods were packed securely into a forty-foot shipping container.",
+      "SENT_ZH":"货物被安全地装入一个四十英尺的海运集装箱中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shipping container",
+            "intermodal container",
+            "freight container"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical",
+        "modern slang"
+      ],
+      "DEF_EN":"A standard unit of software packaging that bundles application code together with all the necessary configuration files, libraries, and dependencies, making it portable.",
+      "DEF_ZH":"一种标准的软件打包单元，将应用程序代码与所有必需的配置文件、库和依赖项捆绑在一起，使其具有可移植性（软件容器）。",
+      "SENT_EN":"We deploy our microservices using lightweight Docker containers.",
+      "SENT_ZH":"我们使用轻量级的Docker容器来部署我们的微服务。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Docker",
+            "Kubernetes",
+            "virtualization"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Logistics/IT)"
+}

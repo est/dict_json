@@ -1,0 +1,98 @@
+{
+  "WORD":"calm",
+  "IPA":"/kɑːm/",
+  "CONJUGATES":"calmer | calmest (adj) | calms | calming | calmed (v) | calmly (adv) | calmness (n)",
+  "ETYMOLOGY":"From Middle English, via Old French calme, from Italian calma ('stillness, rest'), ultimately from Late Greek kauma ('heat'), referring to the heat of the day when activity ceases.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "human emotion",
+        "common"
+      ],
+      "DEF_EN":"Not feeling or showing strong emotions, such as nervousness, anger, or excitement; tranquil.",
+      "DEF_ZH":"（人或情绪）平静的，镇定的；（环境）宁静的，风平浪静的。",
+      "SENT_EN":"She managed to remain calm even when faced with the sudden crisis.",
+      "SENT_ZH":"即使面对突如其来的危机，她也设法保持了镇静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "serene",
+            "tranquil",
+            "composed",
+            "unflustered"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "agitated",
+            "excited",
+            "disturbed",
+            "frenzied"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"calm [sb]\ncalm [sth] (down)",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To make someone or something quiet or tranquil; to become less agitated.",
+      "DEF_ZH":"使平静；（使）镇定下来；（使）安静。",
+      "SENT_EN":"The counselor tried to calm the distraught student after the accident.",
+      "SENT_ZH":"事故发生后，辅导员试图安抚这位心烦意乱的学生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "soothe",
+            "pacify",
+            "quiet"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "excite",
+            "agitate",
+            "rattle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [period of] calm",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "state",
+        "weather"
+      ],
+      "DEF_EN":"A peaceful period or state; an absence of wind or rough water.",
+      "DEF_ZH":"平静；宁静；（海面或天气）风平浪静。",
+      "SENT_EN":"The sudden calm before the storm was unsettling.",
+      "SENT_ZH":"暴风雨前突然的平静让人不安。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stillness",
+            "tranquility",
+            "repose"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

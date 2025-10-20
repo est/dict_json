@@ -1,0 +1,83 @@
+{
+  "WORD":"cheque",
+  "IPA":"/tʃɛk/",
+  "CONJUGATES":"cheques (n. pl.)",
+  "ETYMOLOGY":"From Old French eschec (checkmate in chess), ultimately from Persian šāh (king), evolving through various senses related to control, testing, and ultimately the financial instrument.",
+  "SINCE":"Late 17th century (in financial sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (UK, Commonwealth)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "common",
+        "UK English"
+      ],
+      "DEF_EN":"A printed form, used instead of money, on which you write an amount and sign it, telling a bank to pay the stated amount from your account to the person named on the form.",
+      "DEF_ZH":"支票；银行付款凭证 (书面形式，指示银行从账户中支付指定金额给收票人)。",
+      "SENT_EN":"She wrote a cheque for £500 to cover the rent.",
+      "SENT_ZH":"她开了一张500英镑的支票来支付租金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "draft",
+            "bank draft"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "check (US spelling)",
+            "money order"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (UK, informal)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "UK English"
+      ],
+      "DEF_EN":"The bill in a restaurant or bar.",
+      "DEF_ZH":"（餐馆、酒吧的）账单。",
+      "SENT_EN":"Could we have the cheque, please?",
+      "SENT_ZH":"我们可以买单了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bill",
+            "tab"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "check (US spelling)"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"check (US spelling, general)",
+      "POS":"n. | v.",
+      "POS_TIP":"noun | verb",
+      "TAGS":[
+        "related",
+        "general"
+      ],
+      "DEF_EN":"Note: In US English, 'check' is used for all senses, including the financial instrument, an examination, a pause, or the verb 'to verify'.",
+      "DEF_ZH":"注意：在美式英语中，'check'用于所有含义，包括支票、检查、核对以及动词“核实”。",
+      "SENT_EN":"Please check the spelling before submitting the document.",
+      "SENT_ZH":"请在提交文件前核对拼写。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"UK, Commonwealth, Finance"
+}

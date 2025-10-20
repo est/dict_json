@@ -1,0 +1,89 @@
+{
+  "WORD":"motivation",
+  "IPA":"/ˌmoʊtɪˈveɪʃən/",
+  "CONJUGATES":"motivations (pl.)",
+  "ETYMOLOGY":"Derived from the verb 'motivate', formed from Medieval Latin motivare (to move, incite), related to motivus (moving), ultimately from Latin movere (to move), combined with the noun-forming suffix -ation.",
+  "SINCE":"Mid-19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"motivation [to do sth]\nmotivation [for sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun: refers to the concept or quality",
+      "TAGS":[
+        "core word",
+        "psychology"
+      ],
+      "DEF_EN":"The general desire, enthusiasm, or willingness of someone to do something; the psychological feature that arouses an organism to action toward a desired goal.",
+      "DEF_ZH":"动力；动机；积极性。指促使个体产生行动并朝向既定目标的心理状态或驱动力。",
+      "SENT_EN":"He lacks the motivation to finish the project on time.",
+      "SENT_ZH":"他缺乏按时完成项目的动力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drive",
+            "incentive",
+            "impetus",
+            "stimulus",
+            "enthusiasm"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "apathy",
+            "discouragement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a motivation [for sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun: refers to a specific reason or set of reasons",
+      "TAGS":[
+        "countable",
+        "specific reason"
+      ],
+      "DEF_EN":"A specific reason or motive for acting in a certain way.",
+      "DEF_ZH":"（某一行为的）具体动机或理由。",
+      "SENT_EN":"The motivations behind his sudden resignation remain unclear.",
+      "SENT_ZH":"他突然辞职背后的具体动机仍不明确。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reason",
+            "motive",
+            "rationale",
+            "grounds"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"staff motivation\njob motivation",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun: refers to the act or process of encouraging action",
+      "TAGS":[
+        "management",
+        "business"
+      ],
+      "DEF_EN":"The act or process of providing a motive or incentive, especially in a work or organizational context.",
+      "DEF_ZH":"激励；激发（积极性）的过程或方法。",
+      "SENT_EN":"Good management includes methods for improving employee motivation.",
+      "SENT_ZH":"良好的管理包括提升员工积极性的方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "encouragement",
+            "inspiration",
+            "stimulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Business"
+}

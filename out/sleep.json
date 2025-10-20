@@ -1,0 +1,92 @@
+{
+  "WORD":"sleep",
+  "IPA":"/sliːp/",
+  "CONJUGATES":"sleep | sleeping | slept",
+  "ETYMOLOGY":"From Old English slǣp (noun) and slǣpan (verb), ultimately from Proto-Germanic *slēpaz.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] sleep",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To rest the body and mind, typically by lying down with eyes closed, during which the nervous system is relatively inactive.",
+      "DEF_ZH":"（人或动物）处于休息状态，通常通过闭眼躺下让身心放松；神经系统相对不活跃。",
+      "SENT_EN":"She tried to sleep, but the noise outside kept her awake.",
+      "SENT_ZH":"她试图入睡，但外面的噪音让她保持清醒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slumber",
+            "snooze",
+            "rest"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "nap",
+            "doze",
+            "hibernate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] sleep",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The natural, periodic state of rest for the body and mind, in which consciousness is temporarily suspended.",
+      "DEF_ZH":"一种自然、周期性的身心休息状态，在此期间意识暂时中止。",
+      "SENT_EN":"I need more sleep to function properly during the day.",
+      "SENT_ZH":"我需要更多睡眠才能在白天正常工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slumber",
+            "repose"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "insomnia",
+            "REM"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sleep on [sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by preposition",
+      "TAGS":[
+        "idiom",
+        "common"
+      ],
+      "DEF_EN":"To delay making a decision about something until the next day in order to have more time to think about it.",
+      "DEF_ZH":"暂缓做出关于某事的决定，留待第二天再考虑（意译：考虑一晚）。",
+      "SENT_EN":"The manager said he would sleep on our proposal and give us an answer tomorrow.",
+      "SENT_ZH":"经理说他会对我们的提议考虑一晚，明天给我们答复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "postpone",
+            "defer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Everyday/General"
+}

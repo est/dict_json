@@ -1,0 +1,73 @@
+{
+  "WORD":"interaction",
+  "IPA":"/ˌɪntərˈækʃən/",
+  "CONJUGATES":"interactions",
+  "ETYMOLOGY":"From Latin inter- ('between') + actio ('action'), or from English 'inter-' + 'action'. First recorded use in this sense was in the mid-17th century.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"interaction [between X and Y]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The process of acting upon or influencing each other, or the direct effect that two or more things have on one another.",
+      "DEF_ZH":"两方或多方之间相互作用或相互影响的过程；相互作用或影响的直接效果。",
+      "SENT_EN":"The interaction between the two chemicals created a new compound.",
+      "SENT_ZH":"这两种化学物质的相互作用产生了一种新化合物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interplay",
+            "exchange",
+            "reciprocity",
+            "communication"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "synergy",
+            "interface",
+            "feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[type of] interaction",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A particular instance or type of reciprocal action or influence, often in a specific field like social science or computing.",
+      "DEF_ZH":"（尤指在社会科学或计算机等特定领域中）一种特定类型的相互作用或影响。",
+      "SENT_EN":"User interface design focuses on improving human-computer interaction.",
+      "SENT_ZH":"用户界面设计侧重于改善人机交互。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "engagement",
+            "collaboration",
+            "dialogue"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "relationship",
+            "connection",
+            "transaction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

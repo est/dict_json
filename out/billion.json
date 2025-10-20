@@ -1,0 +1,78 @@
+{
+  "WORD":"billion",
+  "IPA":"/ˈbɪliən/",
+  "CONJUGATES":"billions",
+  "ETYMOLOGY":"From French billion (16th century), formed by analogy with million, using the prefix bi- (two) and the suffix -illion. Historically meant 10¹² (long scale), but now almost universally refers to 10⁹ (short scale).",
+  "SINCE":"c. 1550",
+  "MEANINGS":[
+    {
+      "PATTERN":"[num]",
+      "POS":"n | num",
+      "POS_TIP":"noun | cardinal number",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "finance"
+      ],
+      "DEF_EN":"The cardinal number 1,000,000,000; one thousand million (the short scale usage, now standard globally).",
+      "DEF_ZH":"十亿 (1,000,000,000)；一千个百万（短尺度用法，现已全球通用）。",
+      "SENT_EN":"The global population now exceeds eight billion people.",
+      "SENT_ZH":"全球人口现已超过八十亿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "10⁹",
+            "one thousand million"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "million",
+            "trillion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"billions of [sth]",
+      "POS":"n (pl)",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "informal",
+        "hyperbole"
+      ],
+      "DEF_EN":"An extremely large, but unspecified or countless number or amount.",
+      "DEF_ZH":"极大的数量；数不清的，大量的。",
+      "SENT_EN":"They spent billions of hours scrolling through social media.",
+      "SENT_ZH":"他们花费了数不清的时间浏览社交媒体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "countless",
+            "innumerable",
+            "zillions"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[num]",
+      "POS":"num (historical)",
+      "POS_TIP":"cardinal number",
+      "TAGS":[
+        "historical",
+        "UK",
+        "rare"
+      ],
+      "DEF_EN":"In the historical long scale (formerly used in the UK and some European countries), the number 1,000,000,000,000 (one million million).",
+      "DEF_ZH":"（历史长尺度计数法中，曾用于英国和部分欧洲国家）万亿，即10¹²。",
+      "SENT_EN":"When discussing historical economic data in the UK, one must remember that a billion once meant a million million.",
+      "SENT_ZH":"在讨论英国的历史经济数据时，必须记住，billion曾意味着一百万个百万。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common, formal in finance/science, informal when used hyperbolically."
+}

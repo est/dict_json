@@ -1,0 +1,73 @@
+{
+  "WORD":"critic",
+  "IPA":"/'krɪtɪk/",
+  "CONJUGATES":"critics",
+  "ETYMOLOGY":"From French critique, or directly from Latin criticus, ultimately from Greek kritikós ('able to discern'), derived from krínein ('to judge, decide').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is a critic of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "occupation"
+      ],
+      "DEF_EN":"A person whose job is to judge and evaluate the quality of literary, artistic, or musical works.",
+      "DEF_ZH":"评论家；批评家（特指职业性评估艺术、文学作品的人）",
+      "SENT_EN":"She left her career as an accountant to become a professional theater critic.",
+      "SENT_ZH":"她放弃了会计师的职业，成为了一名专业的戏剧评论家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reviewer",
+            "analyst",
+            "judge",
+            "evaluator"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "criticize",
+            "critical",
+            "critique"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is a critic of [sth/sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A person who expresses disapproval of someone or something; a fault-finder.",
+      "DEF_ZH":"爱挑剔的人；持反对意见的人；吹毛求疵者",
+      "SENT_EN":"The current policy has received backlash from several prominent environmental critics.",
+      "SENT_ZH":"目前的政策受到了几位著名的环境反对者的强烈反对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "detractor",
+            "fault-finder",
+            "opposer"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "supporter",
+            "advocate",
+            "backer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

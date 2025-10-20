@@ -1,0 +1,109 @@
+{
+  "WORD":"import",
+  "IPA":"/ɪmˈpɔːrt | ˈɪm.pɔːrt/",
+  "CONJUGATES":"imports | importing | imported",
+  "ETYMOLOGY":"From Middle English importen, via Old French importer, ultimately from Latin importare (in- 'into' + portare 'carry'). Originally meaning 'to carry into,' specifically referring to bringing goods into a country since the 15th century.",
+  "SINCE":"15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"import [sth] (from [country])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (stress on the second syllable: /ɪmˈpɔːrt/)",
+      "TAGS":[
+        "core word",
+        "economics"
+      ],
+      "DEF_EN":"To bring (goods or services) into a country from abroad, especially for sale.",
+      "DEF_ZH":"（尤其指为销售目的）将商品或服务从国外引入本国；进口。",
+      "SENT_EN":"The country heavily imports raw materials needed for manufacturing.",
+      "SENT_ZH":"该国大量进口制造业所需的原材料。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "export"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "trade",
+            "tariff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an import\nthe import of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (stress on the first syllable: /ˈɪm.pɔːrt/)",
+      "TAGS":[
+        "core word",
+        "economics"
+      ],
+      "DEF_EN":"A commodity, article, or service that is brought into a country from abroad for trade or sale.",
+      "DEF_ZH":"从国外引进的商品、物品或服务；进口货。",
+      "SENT_EN":"The ban affects the import of certain foreign electronics.",
+      "SENT_ZH":"该禁令影响了某些外国电子产品的进口。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "export"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "goods",
+            "commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"import [data/file]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (stress on the second syllable: /ɪmˈpɔːrt/)",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To transfer data, a file, or a resource from one program or system into another.",
+      "DEF_ZH":"将数据、文件或资源从一个程序或系统传输到另一个中。",
+      "SENT_EN":"Users must import their contacts list from the old application before upgrading.",
+      "SENT_ZH":"用户在升级前必须从旧应用程序中导入他们的联系人列表。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "export"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be of import\nof great import",
+      "POS":"n",
+      "POS_TIP":"Noun (stress on the first syllable: /ˈɪm.pɔːrt/)",
+      "TAGS":[
+        "formal",
+        "rare"
+      ],
+      "DEF_EN":"Significance or consequence.",
+      "DEF_ZH":"重要性或意义。",
+      "SENT_EN":"The discovery was a matter of great import to the scientific community.",
+      "SENT_ZH":"这一发现对科学界具有极其重要的意义。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "significance",
+            "importance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in business, economics, and computing contexts."
+}

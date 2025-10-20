@@ -1,0 +1,126 @@
+{
+  "WORD":"mass",
+  "IPA":"/mæs/",
+  "CONJUGATES":"masses | massed | massing",
+  "ETYMOLOGY":"From Old French masse, from Latin massa ('lump, dough'), ultimately from Greek mâza ('barley cake, lump of dough'). The religious meaning ('Mass') is from Latin missa ('dismissal').",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] mass [of sth]",
+      "POS":"nc | nu",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large body of material, matter, or substance, typically without a definite shape.",
+      "DEF_ZH":"一大块；一堆；大量（通常指没有特定形状的物质或材料）。",
+      "SENT_EN":"The doctor found a small mass growing in her lung.",
+      "SENT_ZH":"医生发现她的肺部有一个小肿块正在生长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bulk",
+            "lump",
+            "heap",
+            "quantity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the masses",
+      "POS":"np",
+      "POS_TIP":"plural noun, usually preceded by 'the'",
+      "TAGS":[
+        "sociology",
+        "politics"
+      ],
+      "DEF_EN":"The general body of the populace; the common people.",
+      "DEF_ZH":"平民；民众；大众（指普通百姓）。",
+      "SENT_EN":"They argued that the policies did not benefit the masses.",
+      "SENT_ZH":"他们争论说这些政策对民众没有好处。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "populace",
+            "multitude",
+            "commoners"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mass (in physics)",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "science",
+        "physics"
+      ],
+      "DEF_EN":"A measure of the amount of matter in an object, a fundamental property defining its resistance to acceleration (inertia).",
+      "DEF_ZH":"质量（物理学中指物体所含物质的量，是惯性的量度）。",
+      "SENT_EN":"Mass is constant everywhere in the universe, unlike weight.",
+      "SENT_ZH":"与重量不同，质量在宇宙中任何地方都是恒定的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inertia",
+            "weight",
+            "gravity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Mass",
+      "POS":"nc",
+      "POS_TIP":"countable noun, usually capitalized",
+      "TAGS":[
+        "religion",
+        "formal"
+      ],
+      "DEF_EN":"The central religious rite and service of the Roman Catholic Church and some other churches, including the celebration of the Eucharist.",
+      "DEF_ZH":"（天主教或西方教会的）弥撒，礼拜（包括圣餐仪式的举行）。",
+      "SENT_EN":"We were late for Christmas Eve Mass.",
+      "SENT_ZH":"我们圣诞夜的弥撒迟到了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Eucharist",
+            "service",
+            "liturgy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mass [sth/sb] [together]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "military",
+        "formal"
+      ],
+      "DEF_EN":"To gather or assemble into a single large body or group.",
+      "DEF_ZH":"聚集；集结（指人或物聚集在一起）。",
+      "SENT_EN":"The military began massing their forces near the border.",
+      "SENT_ZH":"军方开始在边境附近集结兵力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amass",
+            "congregate",
+            "assemble"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; specialized use in Physics and Religion."
+}

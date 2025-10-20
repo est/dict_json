@@ -1,0 +1,123 @@
+{
+  "WORD":"put",
+  "IPA":"/pʊt/",
+  "CONJUGATES":"putting | puts | put",
+  "ETYMOLOGY":"From Old English *putian* 'to push, thrust, poke', likely of Germanic origin, possibly related to Old Frisian *putta*.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"put [sth] [somewhere]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Move something into or place something in a particular position, location, or state.",
+      "DEF_ZH":"将某物移动、放置或安置到特定的位置或状态。",
+      "SENT_EN":"He carefully put the vase on the highest shelf.",
+      "SENT_ZH":"他小心翼翼地把花瓶放在最高的架子上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "place",
+            "set",
+            "lay",
+            "position"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"put [sth] [a certain way]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Express or state something, often specifying the manner in which it is done.",
+      "DEF_ZH":"表达或阐述某事，通常指用某种方式进行表达。",
+      "SENT_EN":"I don't know how to put my disagreement politely.",
+      "SENT_ZH":"我不知道如何委婉地表达我的异议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "express",
+            "state",
+            "articulate",
+            "phrase"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"put [sb/sth] [into a state]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Cause a person or thing to be in a specified condition, situation, or operation.",
+      "DEF_ZH":"使某人或某物处于特定的条件、境地或运行状态。",
+      "SENT_EN":"The sudden rain put a stop to our outdoor concert.",
+      "SENT_ZH":"突如其来的雨水让我们的户外音乐会终止了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drive",
+            "force",
+            "render"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"put [sth] on [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"Assign or impose a value, price, responsibility, or restriction upon something or someone.",
+      "DEF_ZH":"对某物或某人赋予或施加价值、价格、责任或限制。",
+      "SENT_EN":"They put a high value on honesty and integrity in their employees.",
+      "SENT_ZH":"他们非常重视员工的诚实和正直。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impose",
+            "assign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"put [sth] (e.g., the shot)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "sports"
+      ],
+      "DEF_EN":"Propel a heavy ball (a shot) as far as possible from the shoulder, as in the athletic event 'shot put'.",
+      "DEF_ZH":"推掷（铅球），特指田径运动中的推铅球项目。",
+      "SENT_EN":"The athlete tried to put the shot further than the current record holder.",
+      "SENT_ZH":"这位运动员试图将铅球推得比目前的纪录保持者更远。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shot put"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal and highly frequent (core vocabulary)."
+}

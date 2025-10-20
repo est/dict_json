@@ -1,0 +1,71 @@
+{
+  "WORD":"complicate",
+  "IPA":"/'kɑːmplɪkeɪt/",
+  "CONJUGATES":"complicates | complicating | complicated",
+  "ETYMOLOGY":"From Latin complicatus, past participle of complicare ('fold together'), from com- ('with, together') + plicare ('to fold').",
+  "SINCE":"c. 1450 (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"complicate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something difficult, intricate, or confusing to understand or deal with.",
+      "DEF_ZH":"使某事物变得困难、错综复杂或难以理解或处理。",
+      "SENT_EN":"His sudden resignation will seriously complicate the transition process.",
+      "SENT_ZH":"他突然辞职将严重使过渡过程复杂化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confuse",
+            "muddle",
+            "tangle",
+            "obfuscate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "simplify",
+            "clarify",
+            "streamline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"complicate [sth] [medical]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "medical"
+      ],
+      "DEF_EN":"To introduce a secondary illness or condition that makes an existing primary condition or medical procedure more serious or difficult to treat.",
+      "DEF_ZH":"（医学）引发次要疾病或并发症，从而使现有的主要病情或医疗程序更加严重或难以治疗。",
+      "SENT_EN":"High fever and dehydration complicated the patient’s recovery.",
+      "SENT_ZH":"高烧和脱水使病人的康复变得复杂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exacerbate",
+            "worsen",
+            "aggravate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "complication"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (Formal/General)"
+}

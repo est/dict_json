@@ -1,0 +1,142 @@
+{
+  "WORD":"load",
+  "IPA":"/loʊd/",
+  "CONJUGATES":"loads | loading | loaded",
+  "ETYMOLOGY":"From Old English lād, originally meaning 'journey, way, course, carrying,' related to the verb 'lead.' The modern sense of 'a burden' developed during the Middle English period (c. 13th century).",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable, uncountable)",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"A heavy or bulky quantity of something, typically merchandise or material, that is carried or that fills a container.",
+      "DEF_ZH":"负荷；货物；载重。",
+      "SENT_EN":"The delivery truck struggled under the weight of its heavy load.",
+      "SENT_ZH":"那辆送货卡车在其沉重的货物重压下行驶困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cargo",
+            "freight",
+            "burden",
+            "weight"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shipment",
+            "tonnage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"load [sth]\nload [sth] with [sth]",
+      "POS":"vtr | vintr + prep",
+      "POS_TIP":"transitive verb | intransitive verb + preposition",
+      "TAGS":[
+        "Core word",
+        "Action"
+      ],
+      "DEF_EN":"To place a load on or in a vehicle, container, or space; to fill or pack something.",
+      "DEF_ZH":"装载；装货；装填。",
+      "SENT_EN":"The workers began to load the sacks of grain onto the ship.",
+      "SENT_ZH":"工人们开始将一袋袋谷物装上船。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pack",
+            "stow",
+            "fill"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unload",
+            "empty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"load [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "Technical",
+        "Computing",
+        "Firearms"
+      ],
+      "DEF_EN":"To put ammunition into a firearm, film into a camera, or data/programs into a computer's memory.",
+      "DEF_ZH":"装弹药；装胶卷；加载（数据或程序）。",
+      "SENT_EN":"The operating system takes a minute to load completely.",
+      "SENT_ZH":"操作系统需要一分钟才能完全加载。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "insert",
+            "boot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the load",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "Technical",
+        "Engineering",
+        "Physics"
+      ],
+      "DEF_EN":"The total amount of power drawn from an electricity supply or the force applied to a structure or mechanism.",
+      "DEF_ZH":"（电力或机械）负荷；负载；承重力。",
+      "SENT_EN":"The air conditioning unit puts a significant load on the building's electrical system.",
+      "SENT_ZH":"该空调装置给建筑的电力系统造成了巨大的负荷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "strain",
+            "tension",
+            "amperage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a load of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (idiomatic, informal)",
+      "TAGS":[
+        "Colloquial",
+        "Informal"
+      ],
+      "DEF_EN":"A large amount or number of something.",
+      "DEF_ZH":"大量；许多；（俚语）胡言乱语。",
+      "SENT_EN":"That story is a load of nonsense; it can't be true.",
+      "SENT_ZH":"那个故事是胡说八道，不可能是真的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lots",
+            "plenty",
+            "heaps"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, technical (engineering/computing), and informal (when used to mean 'many')."
+}

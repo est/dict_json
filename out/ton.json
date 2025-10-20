@@ -1,0 +1,103 @@
+{
+  "WORD":"ton",
+  "IPA":"/tʌn/",
+  "CONJUGATES":"tons (pl.)",
+  "ETYMOLOGY":"From Old English *tunne* 'cask, barrel', related to Old French *tonne*. The weight measurement was standardized based on the capacity of a large wine cask in the 14th century.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "measurement",
+        "US usage"
+      ],
+      "DEF_EN":"A unit of weight (the short ton) equal to 2,000 pounds (907.18 kilograms), primarily used in the US.",
+      "DEF_ZH":"（短吨）重量单位，等于2,000磅（907.18公斤），主要在美国使用。",
+      "SENT_EN":"The foundation can support a load of 50 tons.",
+      "SENT_ZH":"该地基可以承受50吨的载荷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "short ton",
+            "pound",
+            "kilogram"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "measurement",
+        "international usage"
+      ],
+      "DEF_EN":"The metric ton, a unit of mass equal to 1,000 kilograms (approximately 2,204.6 pounds). (Often spelled 'tonne' outside of North America).",
+      "DEF_ZH":"公吨，质量单位，等于1,000公斤（约2,204.6磅）。在国际上，通常拼写为 'tonne'。",
+      "SENT_EN":"A medium-sized car weighs about one metric ton.",
+      "SENT_ZH":"一辆中型汽车的重量大约是一公吨。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tonne",
+            "metric ton",
+            "long ton"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a ton of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (used idiomatically)",
+      "TAGS":[
+        "slang",
+        "common",
+        "hyperbolic"
+      ],
+      "DEF_EN":"A large amount or quantity; a great deal.",
+      "DEF_ZH":"大量；许多（用于夸张或非正式场合）。",
+      "SENT_EN":"Thanks a ton for your help yesterday, I really appreciate it.",
+      "SENT_ZH":"非常感谢你昨天的帮助，我真的很感激。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oodles",
+            "loads",
+            "masses"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"doing a ton",
+      "POS":"n.",
+      "POS_TIP":"noun (slang usage)",
+      "TAGS":[
+        "UK slang",
+        "speed"
+      ],
+      "DEF_EN":"A speed of 100 miles per hour (often used in the context of driving or cycling).",
+      "DEF_ZH":"时速100英里（常用于描述驾驶速度，主要是英国俚语）。",
+      "SENT_EN":"The motorcyclist was pulled over for doing a ton down the highway.",
+      "SENT_ZH":"那名摩托车手因在高速公路上飙到每小时100英里而被拦下。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "mph"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Weight), Informal"
+}

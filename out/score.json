@@ -1,0 +1,128 @@
+{
+  "WORD":"score",
+  "IPA":"/skɔːr/",
+  "CONJUGATES":"scores | scoring | scored",
+  "ETYMOLOGY":"From Old Norse skor ('a notch, incision, tally'), ultimately related to the verb 'to shear' or 'to cut'. The original meaning referred to a mark made to keep count or account.",
+  "SINCE":"Late Middle English (c. 1300s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] score",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "sports",
+        "measurement"
+      ],
+      "DEF_EN":"The number of points, goals, or runs achieved in a game, contest, or examination.",
+      "DEF_ZH":"在比赛、竞赛或考试中获得的得分、目标数或跑动数。",
+      "SENT_EN":"The final score of the soccer match was three to two.",
+      "SENT_ZH":"足球比赛的最终比分是三比二。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tally",
+            "result",
+            "mark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] score [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "sports",
+        "action"
+      ],
+      "DEF_EN":"To gain a point, goal, or mark in a competitive game or test.",
+      "DEF_ZH":"在竞赛性比赛或测试中得分或进球。",
+      "SENT_EN":"She scored the winning goal in the last minute of the game.",
+      "SENT_ZH":"她在比赛的最后一分钟打进了制胜球。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "achieve",
+            "net",
+            "register"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the score",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "music",
+        "arts"
+      ],
+      "DEF_EN":"The written form of a musical composition, especially for an orchestra, showing all the parts.",
+      "DEF_ZH":"乐谱，尤指为管弦乐队编写的，显示所有声部的一种书面音乐作品（总谱）。",
+      "SENT_EN":"The composer published the score for the new ballet last year.",
+      "SENT_ZH":"这位作曲家去年出版了这部新芭蕾舞剧的乐谱。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "soundtrack",
+            "libretto",
+            "sheet music"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"score [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "crafting",
+        "cooking"
+      ],
+      "DEF_EN":"To make a notch, cut, or line on a surface with a sharp instrument, often to facilitate folding or cutting.",
+      "DEF_ZH":"用锋利的工具在表面划出刻痕或线条，通常是为了方便折叠、切割或入味。",
+      "SENT_EN":"Score the surface of the bread dough lightly before baking it.",
+      "SENT_ZH":"在烤面包之前，轻轻地在面团表面划出切口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scratch",
+            "groove",
+            "incise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a score of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "literary",
+        "quantity"
+      ],
+      "DEF_EN":"A group or set of twenty.",
+      "DEF_ZH":"二十个（一组或一集）；二十。",
+      "SENT_EN":"Four score and seven years ago our fathers brought forth on this continent, a new nation...",
+      "SENT_ZH":"八十七年以前，我们的祖先在这块大陆上创建了一个新的国家……（林肯葛底斯堡演说）",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "twenty",
+            "long dozen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Common"
+}

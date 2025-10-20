@@ -1,0 +1,126 @@
+{
+  "WORD":"identify",
+  "IPA":"/aɪˈdɛntɪfaɪ/",
+  "CONJUGATES":"identifies | identified | identifying | identification | identifiable",
+  "ETYMOLOGY":"From Late Latin identificāre (to make one), derived from Latin idem (the same) + -ficāre (from facere, to make).",
+  "SINCE":"Early 17th century (c. 1640s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"identify [sb]\n[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To recognize and establish exactly who or what someone or something is.",
+      "DEF_ZH":"识别；确认（某人或某物）的身份或本质。",
+      "SENT_EN":"The police asked the witness to identify the suspect in the lineup.",
+      "SENT_ZH":"警方要求目击者在队列中辨认嫌疑人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recognize",
+            "determine",
+            "name",
+            "verify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "identification",
+            "identifier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"identify [sth] (problem/need/cause)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "analytical",
+        "professional"
+      ],
+      "DEF_EN":"To locate, discover, or pinpoint a specific cause, problem, or requirement.",
+      "DEF_ZH":"查明；发现；指出（问题、需求或原因）。",
+      "SENT_EN":"We need to identify the root cause of the system failure.",
+      "SENT_ZH":"我们需要查明系统故障的根本原因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "locate",
+            "pinpoint",
+            "discover",
+            "isolate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "overlook",
+            "miss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"identify [sb]\n[sth] with [sb] | [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "psychological",
+        "social"
+      ],
+      "DEF_EN":"To feel a strong connection, sympathy, or alignment with a person, group, or belief; to regard oneself as sharing the same identity.",
+      "DEF_ZH":"认同；与…有同感；感到亲近或联系。",
+      "SENT_EN":"It is common for readers to identify with the struggles of the main character.",
+      "SENT_ZH":"读者认同主角的挣扎是很常见的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "associate",
+            "relate",
+            "align",
+            "sympathize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disassociate",
+            "reject"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"identify [sth] as [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"To prove or establish that something is the same as or equivalent to something else.",
+      "DEF_ZH":"证明（两者）相同或等同。",
+      "SENT_EN":"The chemist identified the unknown substance as pure sodium.",
+      "SENT_ZH":"化学家确认该未知物质为纯钠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equate",
+            "designate",
+            "classify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use (academic, professional, and colloquial)"
+}

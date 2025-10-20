@@ -1,0 +1,81 @@
+{
+  "WORD":"member",
+  "IPA":"/ˈmɛmbər/",
+  "CONJUGATES":"members | membered | membering",
+  "ETYMOLOGY":"From Old French membre, from Latin membrum ('limb, part, division'), possibly related to Greek meros ('part').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An individual who belongs to a group, organization, or team.",
+      "DEF_ZH":"属于一个团体、组织或团队的个人。",
+      "SENT_EN":"She has been a loyal member of the club for over ten years.",
+      "SENT_ZH":"她一直是这个俱乐部十多年的忠实成员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "associate",
+            "affiliate",
+            "participant",
+            "subscriber"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "anatomy"
+      ],
+      "DEF_EN":"A limb or other part of the body, especially an arm, leg, or (euphemistically) a penis.",
+      "DEF_ZH":"身体的一个肢体或其他部位，尤指手臂、腿，或（委婉地）指阴茎。",
+      "SENT_EN":"The doctor examined the injured member for signs of fracture.",
+      "SENT_ZH":"医生检查了受伤的肢体是否有骨折的迹象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limb",
+            "appendage",
+            "organ"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "architecture",
+        "technical"
+      ],
+      "DEF_EN":"A constituent part of a structure or whole; a division or unit within a larger system.",
+      "DEF_ZH":"结构或整体的组成部分；更大系统中的一个部门或单位。",
+      "SENT_EN":"Each member of the truss was carefully checked for load bearing capacity.",
+      "SENT_ZH":"桁架的每个构件都仔细检查了其承载能力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "component",
+            "element",
+            "part",
+            "segment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

@@ -1,0 +1,167 @@
+{
+  "WORD":"mount",
+  "IPA":"/maʊnt/",
+  "CONJUGATES":"mounts | mounting | mounted",
+  "ETYMOLOGY":"From Middle English, derived from Old French *monter* 'to ascend', ultimately from Latin *mons* (stem *mont-*) 'mountain'. The noun sense describing the support/setting developed later.",
+  "SINCE":"c. 1300 (verb); Old English (noun, geographical)",
+  "MEANINGS":[
+    {
+      "PATTERN":"mount [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb requiring a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To climb up onto something, typically an animal or vehicle, in order to ride it.",
+      "DEF_ZH":"登上；骑上（尤指马匹或自行车）",
+      "SENT_EN":"The rider quickly mounted his horse and galloped into the field.",
+      "SENT_ZH":"骑手迅速骑上马，驰骋入田野。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ascend",
+            "climb"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dismount"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mount [sth] [on sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb requiring a direct object",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To fix or place (an object) in a secure setting, frame, or support for display or use.",
+      "DEF_ZH":"固定；安装；镶嵌；裱贴",
+      "SENT_EN":"They mounted the security camera high on the corner of the wall.",
+      "SENT_ZH":"他们把监控摄像头高高地安装在墙角。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "install",
+            "affix",
+            "set"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mount [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb requiring a direct object",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To organize and initiate (a plan, effort, attack, or campaign).",
+      "DEF_ZH":"组织开展；策划；发动",
+      "SENT_EN":"The military mounted a massive rescue operation during the flood.",
+      "SENT_ZH":"军队在洪水期间发动了一次大规模的救援行动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "launch",
+            "stage",
+            "prepare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mount",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: verb not requiring a direct object",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To increase gradually in amount, intensity, or size.",
+      "DEF_ZH":"（数量、强度、程度等）增加；上升；积累",
+      "SENT_EN":"The pressure on the CEO has been mounting steadily over the past few weeks.",
+      "SENT_ZH":"在过去的几周里，首席执行官面临的压力一直在稳步增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "escalate",
+            "grow",
+            "accumulate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "recede",
+            "decline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] mount",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "geographical",
+        "abbreviation"
+      ],
+      "DEF_EN":"A mountain or hill, usually used in names or titles (often abbreviated as Mt.).",
+      "DEF_ZH":"山；山丘（常用于名称中，如富士山 Mount Fuji）",
+      "SENT_EN":"We could see the dark silhouette of the mount against the setting sun.",
+      "SENT_ZH":"在夕阳的映衬下，我们可以看到那座山丘的黑色轮廓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hill",
+            "peak",
+            "mountain"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Mt."
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] mount",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mechanical"
+      ],
+      "DEF_EN":"A support, setting, or frame on which an object is fixed for display or use.",
+      "DEF_ZH":"底座；支架；装配件",
+      "SENT_EN":"The telescope required a highly precise equatorial mount for accurate tracking.",
+      "SENT_ZH":"这台望远镜需要一个高度精确的赤道仪支架才能准确追踪目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stand",
+            "base",
+            "fixture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical uses in engineering and photography."
+}

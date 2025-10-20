@@ -1,0 +1,106 @@
+{
+  "WORD":"saw",
+  "IPA":"/sɔː/",
+  "CONJUGATES":"n: saw | saws; v(to see): see | sees | seeing | saw | seen; v(to saw): saw | saws | sawing | sawed | sawed/sawn",
+  "ETYMOLOGY":"For the tool and verb 'to cut': From Old English 'sagu' (noun) and 'sag-ian' (verb), from Proto-Germanic *sagō. For the past tense of 'see': From Old English 'seah', past tense of 'sēon' (to see), from Proto-Germanic *sehwana.",
+  "SINCE":"c. 9th century (tool/verb); Old English period (past of 'see'); c. 13th century (proverb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a saw",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A hand or power tool with a toothed metal blade or disk for cutting wood, metal, or other hard materials.",
+      "DEF_ZH":"一种带齿状金属刀片或圆盘的手动或电动工具，用于切割木材、金属或其他硬质材料。",
+      "SENT_EN":"He used a saw to cut the planks to the correct length.",
+      "SENT_ZH":"他用锯子把木板锯成合适的长度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hacksaw",
+            "chainsaw",
+            "jigsaw",
+            "circular saw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"saw [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To cut (something) with a saw.",
+      "DEF_ZH":"用锯子切割（某物）。",
+      "SENT_EN":"The carpenter sawed the large log into several smaller pieces.",
+      "SENT_ZH":"木匠把那根大圆木锯成了几小段。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut",
+            "sever",
+            "carve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"saw [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "irregular verb"
+      ],
+      "DEF_EN":"The past simple tense of the verb 'to see', meaning to perceive with the eyes; to notice or become aware of.",
+      "DEF_ZH":"动词“看”的过去式，意为用眼睛感知；注意到或意识到。",
+      "SENT_EN":"I saw her at the supermarket just an hour ago.",
+      "SENT_ZH":"我一个小时前在超市看到了她。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "see",
+            "seen",
+            "seeing",
+            "sighted"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a saw",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "old-fashioned",
+        "literary"
+      ],
+      "DEF_EN":"A pithy and often traditional saying; a maxim or proverb.",
+      "DEF_ZH":"一句精辟且常为传统的格言；谚语或警句。",
+      "SENT_EN":"He often quoted old saws about thrift and hard work.",
+      "SENT_ZH":"他经常引用关于节俭和勤奋的古老格言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proverb",
+            "maxim",
+            "adage",
+            "aphorism"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General for most meanings; literary for the 'proverb' meaning."
+}

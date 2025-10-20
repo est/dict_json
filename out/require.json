@@ -1,0 +1,79 @@
+{
+  "WORD":"require",
+  "IPA":"/rɪˈkwaɪər/",
+  "CONJUGATES":"requires | requiring | required",
+  "ETYMOLOGY":"From Middle English requeren, from Old French requerre, from Latin requīrere (re- 'again' + quaerere 'to seek, ask'). Originally meaning 'to ask for, request'.",
+  "SINCE":"Mid 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"require [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To need something essential; to depend on something for success or completion.",
+      "DEF_ZH":"需要或要求某物作为必需的条件或前提。",
+      "SENT_EN":"The experiment requires absolute silence and stable temperature control.",
+      "SENT_ZH":"这项实验需要绝对的安静和稳定的温度控制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "need",
+            "necessitate",
+            "entail",
+            "call for"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "requirement",
+            "requisite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"require [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Legal"
+      ],
+      "DEF_EN":"To officially demand, command, or compel someone to do something.",
+      "DEF_ZH":"官方地或法律上命令、规定或强制某人做某事。",
+      "SENT_EN":"The contract requires the vendor to complete the repairs by the end of the month.",
+      "SENT_ZH":"合同要求供应商在月底前完成维修工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demand",
+            "insist",
+            "stipulate",
+            "compel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"require [sth] of [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb plus preposition",
+      "TAGS":[
+        "Formal",
+        "Less Common"
+      ],
+      "DEF_EN":"To demand or expect a certain quality, effort, or achievement from someone.",
+      "DEF_ZH":"期望或要求某人具备某种品质、努力或表现。",
+      "SENT_EN":"The teacher requires dedication and honesty of all her students.",
+      "SENT_ZH":"这位老师要求所有学生都必须奉献和诚实。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, often found in formal, technical, or legal contexts."
+}

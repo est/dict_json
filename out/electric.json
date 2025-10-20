@@ -1,0 +1,95 @@
+{
+  "WORD":"electric",
+  "IPA":"/ɪˈlɛktrɪk/",
+  "CONJUGATES":"electrically (adv) | electrical (adj) | electrics (n, usually plural)",
+  "ETYMOLOGY":"From Modern Latin electricus ('of amber'), derived from Ancient Greek ḗlektron ('amber'), referring to the static electricity produced when amber is rubbed.",
+  "SINCE":"c. 1646",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] electric",
+      "POS":"adj",
+      "POS_TIP":"adj means adjective, modifying a noun.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"Relating to or operated by electricity; powered by current.",
+      "DEF_ZH":"关于电的；用电操作的；通电的。",
+      "SENT_EN":"The city is planning to replace all gasoline vehicles with electric buses.",
+      "SENT_ZH":"这座城市计划用电动公交车取代所有燃油车辆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "battery-powered",
+            "electronic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "electricity",
+            "electrical",
+            "electrify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] electric",
+      "POS":"adj",
+      "POS_TIP":"adj means adjective, modifying a noun.",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"Very exciting, thrilling, or highly charged with emotion or tension.",
+      "DEF_ZH":"激动人心的；令人兴奋的；充满活力的。",
+      "SENT_EN":"The atmosphere at the concert was electric; the crowd roared every time the band changed songs.",
+      "SENT_ZH":"音乐会的气氛非常热烈；乐队每换一首歌，人群都会发出吼叫声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thrilling",
+            "charged",
+            "vibrant",
+            "kinetic"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dull",
+            "lifeless"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the electrics [of sth]",
+      "POS":"n",
+      "POS_TIP":"n means noun, usually used in the plural.",
+      "TAGS":[
+        "informal",
+        "technical jargon"
+      ],
+      "DEF_EN":"(Usually plural) The electrical components, system, or wiring in a vehicle or building.",
+      "DEF_ZH":"（通常为复数）电气系统；线路；电子元件。",
+      "SENT_EN":"We had to rewire the electrics completely because the house was so old.",
+      "SENT_ZH":"因为房子太旧了，我们不得不彻底重新布置电路系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wiring",
+            "circuitry",
+            "electronics"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical"
+}

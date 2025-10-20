@@ -1,0 +1,119 @@
+{
+  "WORD":"challenge",
+  "IPA":"/'tʃælɪndʒ/",
+  "CONJUGATES":"challenges (n. pl.) | challenges (v. 3rd person singular present) | challenged (v. past tense/past participle) | challenging (v. present participle/adj.)",
+  "ETYMOLOGY":"Middle English (originally 'false accusation, claim'): from Old French chalenge (noun), chalenger (verb), from Latin calumnia 'calumny, trickery'. The sense of 'difficult task' emerged later.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A call to take part in a contest or competition, or a difficult task or situation that tests someone's abilities and resources.",
+      "DEF_ZH":"挑战；一项艰巨的任务或情况，能够检验某人的能力和资源。",
+      "SENT_EN":"The new project presented a significant technological challenge.",
+      "SENT_ZH":"这个新项目提出了一个重大的技术挑战。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "difficulty",
+            "obstacle",
+            "test",
+            "problem"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "breeze",
+            "certainty",
+            "advantage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"challenge [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To dispute the truth or validity of something; to question something’s legality or authority.",
+      "DEF_ZH":"对某事物的真实性、合法性或权威性提出质疑或异议；驳斥。",
+      "SENT_EN":"The senator challenged the official statistics presented by the government.",
+      "SENT_ZH":"这位参议员对政府提供的官方统计数据提出了质疑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dispute",
+            "question",
+            "contest",
+            "defy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "accept",
+            "agree",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"challenge [sb] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To invite someone to engage in a contest, fight, or competition.",
+      "DEF_ZH":"向某人下战书；邀请某人参加竞赛或决斗。",
+      "SENT_EN":"He challenged his older brother to a game of chess.",
+      "SENT_ZH":"他向他的哥哥挑战一盘国际象棋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dare",
+            "call out",
+            "provoke"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"challenge [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "security",
+        "military"
+      ],
+      "DEF_EN":"To accost someone and demand identification, often used by guards or security personnel.",
+      "DEF_ZH":"（警卫或哨兵）盘问；要求某人出示身份证明。",
+      "SENT_EN":"The guard challenged the unauthorized visitor at the gate.",
+      "SENT_ZH":"警卫在大门处盘问了这位未经授权的访客。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interrogate",
+            "demand identification"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in competitive, business, legal, and academic contexts."
+}

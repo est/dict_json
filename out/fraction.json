@@ -1,0 +1,116 @@
+{
+  "WORD":"fraction",
+  "IPA":"/ˈfrækʃən/",
+  "CONJUGATES":"fractions | fractional (adj) | fractionally (adv)",
+  "ETYMOLOGY":"From Middle French fraction, from Latin fractiō ('a breaking'), derived from frangere ('to break').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] fraction",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "common"
+      ],
+      "DEF_EN":"A numerical quantity that is not an integer, typically expressed as a ratio of two integers (the numerator and the denominator).",
+      "DEF_ZH":"非整数的数值量，通常表示为两个整数的比率（分子和分母）；分数。",
+      "SENT_EN":"He found it difficult to add and subtract unlike fractions.",
+      "SENT_ZH":"他发现异分母分数的加减法很困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ratio",
+            "quotient",
+            "decimal"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "numerator",
+            "denominator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] fraction [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small part, amount, or proportion of a whole.",
+      "DEF_ZH":"整体中的一小部分、少量或比例。",
+      "SENT_EN":"Only a fraction of the budget was allocated to research and development.",
+      "SENT_ZH":"预算中只有一小部分分配给了研发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "portion",
+            "part",
+            "segment",
+            "smidgen"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "whole",
+            "majority"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] fraction [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"A distinct component or portion of a substance mixture obtained through distillation or crystallization.",
+      "DEF_ZH":"通过蒸馏或结晶等方法从混合物中分离出的独立组分或部分；馏分。",
+      "SENT_EN":"Crude oil is separated into various hydrocarbon fractions, such as kerosene and gasoline.",
+      "SENT_ZH":"原油被分离成各种烃类馏分，例如煤油和汽油。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distillate",
+            "component",
+            "cut"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the fraction [of the Host]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "religious",
+        "rare"
+      ],
+      "DEF_EN":"The act of breaking the bread (the Host) during the Eucharist in Christian ceremonies.",
+      "DEF_ZH":"在基督教圣餐仪式中擘开面包（圣体）的行为。",
+      "SENT_EN":"The priest performs the fraction just before the communion.",
+      "SENT_ZH":"牧师在领圣餐之前执行擘饼仪式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breaking"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic (Mathematics, Science)"
+}

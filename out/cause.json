@@ -1,0 +1,111 @@
+{
+  "WORD":"cause",
+  "IPA":"/kɔːz/",
+  "CONJUGATES":"causes | causing | caused",
+  "ETYMOLOGY":"From Middle English cause, from Old French cause, from Latin causa ('reason, motive, cause').",
+  "SINCE":"13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] cause [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something happen, especially something bad or unwanted; to be the reason for an action or condition.",
+      "DEF_ZH":"导致；引起（尤指坏事或负面结果）；成为某事发生的原因。",
+      "SENT_EN":"The accident was caused by slippery roads and poor visibility.",
+      "SENT_ZH":"这场事故是由路滑和能见度低引起的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "produce",
+            "generate",
+            "create",
+            "bring about"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "prevent",
+            "stop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cause of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person, event, or thing that gives rise to an action, phenomenon, or condition.",
+      "DEF_ZH":"原因；起因；诱因。",
+      "SENT_EN":"Investigators are still trying to determine the exact cause of the fire.",
+      "SENT_ZH":"调查人员仍在努力确定火灾的确切原因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reason",
+            "source",
+            "origin",
+            "root"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [good/worthy/just] cause",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract concept",
+        "common"
+      ],
+      "DEF_EN":"An organization or movement that people support, especially one seeking social or political change, or one focused on charity.",
+      "DEF_ZH":"事业；目标；理想（尤指为了社会、政治改革或慈善目的而支持的组织或运动）。",
+      "SENT_EN":"They dedicated their lives to fighting for the cause of human rights.",
+      "SENT_ZH":"他们毕生致力于为人权事业而奋斗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "campaign",
+            "movement",
+            "goal",
+            "principle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"for a cause\nwith cause",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A sufficient legal ground or reason (often used in legal contexts like 'just cause' for dismissal).",
+      "DEF_ZH":"（法律上）正当的理由；依据。",
+      "SENT_EN":"The employee was dismissed from the company for just cause, including repeated insubordination.",
+      "SENT_ZH":"该员工因有正当理由被公司解雇，其中包括屡次不服从命令。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "justification",
+            "pretext"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English, formal and legal contexts (for sense 4)"
+}

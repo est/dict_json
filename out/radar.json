@@ -1,0 +1,57 @@
+{
+  "WORD":"radar",
+  "IPA":"/ˈreɪdɑːr/",
+  "CONJUGATES":"radars (plural)",
+  "ETYMOLOGY":"An acronym for RAdio Detection And Ranging, coined by the U.S. Navy in 1940.",
+  "SINCE":"1940",
+  "MEANINGS":[
+    {
+      "PATTERN":"radar",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology"
+      ],
+      "DEF_EN":"A system that uses radio waves to detect the presence, direction, distance, and speed of objects such as aircraft, ships, and weather formations.",
+      "DEF_ZH":"一种利用无线电波探测飞机、船舶和天气形成等物体的存在、方向、距离和速度的系统。",
+      "SENT_EN":"The air traffic controller monitored the aircraft on the radar screen.",
+      "SENT_ZH":"空中交通管制员在雷达屏幕上监测飞机。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sonar",
+            "lidar",
+            "radio"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"on [sb's] radar\nunder the radar",
+      "POS":"idiom",
+      "POS_TIP":"An idiom is a group of words established by usage as having a meaning not deducible from those of the individual words.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Within someone's notice, attention, or consideration; or (for 'under the radar') to avoid being noticed.",
+      "DEF_ZH":"在某人的注意、关注或考虑范围之内；或者（对于“under the radar”）指避免被注意到。",
+      "SENT_EN":"That new proposal is definitely on our radar for next quarter. The small startup managed to stay under the radar of its larger competitors.",
+      "SENT_ZH":"那个新提案肯定在我们下个季度的关注范围内。那家小型初创公司成功地避开了其大型竞争对手的注意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attention",
+            "awareness",
+            "notice"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, technical, and colloquial for its figurative uses."
+}

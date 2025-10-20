@@ -1,0 +1,146 @@
+{
+  "WORD":"fork",
+  "IPA":"/fɔːrk/",
+  "CONJUGATES":"forks (pl n) | forks (3rd sg v) | forked (pt/pp v) | forking (pres p v)",
+  "ETYMOLOGY":"From Old English forca, derived from Latin furca ('two-pronged implement, pitchfork'). The sense of a table utensil appeared later, popularized in the Renaissance.",
+  "SINCE":"c. 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An implement consisting of a handle and two or more prongs, used for lifting food to the mouth or holding it while cutting.",
+      "DEF_ZH":"餐具，由柄和两根或多根尖齿组成，用于将食物送入口中或在切割时固定食物。",
+      "SENT_EN":"Remember to leave your knife and fork parallel on the plate when you finish eating.",
+      "SENT_ZH":"请记住，吃完饭后把刀和叉平行地放在盘子上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spoon",
+            "knife",
+            "cutlery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "geometry"
+      ],
+      "DEF_EN":"A point where something divides into two or more parts, such as a road, a river, or a tree branch.",
+      "DEF_ZH":"分叉点；分岔路口（如道路、河流或树枝的分岔处）。",
+      "SENT_EN":"When you reach the fork in the road, take the right path.",
+      "SENT_ZH":"当你到达岔路口时，走右边的路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "junction",
+            "divergence",
+            "bifurcation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "tool"
+      ],
+      "DEF_EN":"A large agricultural tool (like a pitchfork or garden fork) used for lifting, digging, or turning loose material like hay or soil.",
+      "DEF_ZH":"农业或园艺工具，用于举起、挖掘或翻动松散材料（如干草或土壤）。",
+      "SENT_EN":"He used a large garden fork to turn over the compost heap.",
+      "SENT_ZH":"他用一把大园艺叉翻动堆肥。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pitchfork",
+            "spade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]\n[sth] into [sth]",
+      "POS":"v intr | v tr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To divide or cause to divide into two or more branches or channels.",
+      "DEF_ZH":"（使）分岔；分成两股或多股。",
+      "SENT_EN":"The main path forks near the lake, leading to two separate campsites.",
+      "SENT_ZH":"主路径在湖附近分岔，通往两个独立的露营地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "split",
+            "branch",
+            "bifurcate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fork out [sth]\nfork over [sth]",
+      "POS":"v phrasal",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "informal",
+        "slang",
+        "phrasal"
+      ],
+      "DEF_EN":"To pay a sum of money, especially reluctantly or unexpectedly.",
+      "DEF_ZH":"（非正式）付款，付钱（尤指不情愿地或意外地付大笔钱）。",
+      "SENT_EN":"They had to fork out a lot of money to fix the roof after the storm.",
+      "SENT_ZH":"暴风雨后，他们不得不拿出很多钱来修理屋顶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pay up",
+            "shell out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "chess"
+      ],
+      "DEF_EN":"In chess, a tactical maneuver where a single piece (usually a knight) simultaneously attacks two or more enemy pieces, typically forcing the loss of material.",
+      "DEF_ZH":"（国际象棋）两面受攻，指一个棋子（通常是马）同时攻击对方两个或多个棋子，通常迫使对手损失子力。",
+      "SENT_EN":"The knight delivered a devastating fork, winning the opponent's rook.",
+      "SENT_ZH":"这匹马发动了一次毁灭性的两面受攻，赢得了对手的马车。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pin",
+            "skewer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Informal (for verb usage 'fork out'), Specific (for chess/tech usage)"
+}

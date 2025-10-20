@@ -1,0 +1,157 @@
+{
+  "WORD":"register",
+  "IPA":"/ˈrɛdʒɪstər/",
+  "CONJUGATES":"registers (n, v) | registered (v) | registering (v)",
+  "ETYMOLOGY":"From Medieval Latin registrum or regestum ('list, record'), derived from Classical Latin regesta (plural of regerere 'to record, carry back').",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"register [sth]\nregister [sb] for [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "administrative"
+      ],
+      "DEF_EN":"To enter or record an official item, name, or event in a formal list or record.",
+      "DEF_ZH":"将正式的项目、名称或事件输入或记录在正式清单或记录中；注册。",
+      "SENT_EN":"Students must register for their classes before the semester begins.",
+      "SENT_ZH":"学生必须在学期开始前注册他们的课程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enroll",
+            "sign up",
+            "list",
+            "record"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdraw",
+            "deregister"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] register of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "documentation"
+      ],
+      "DEF_EN":"An official book, list, or record containing details of names, events, or occurrences.",
+      "DEF_ZH":"正式的簿册、名单或记录，包含名称、事件或发生的详细信息；登记簿。",
+      "SENT_EN":"The hotel keeps a register of all guests who check in.",
+      "SENT_ZH":"这家酒店保留着所有入住客人的登记簿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ledger",
+            "roll",
+            "record",
+            "list"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"register [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To indicate, show, or record a measurement, emotional state, or fact, often automatically or subtly.",
+      "DEF_ZH":"（自动地或微妙地）显示、表明或记录（测量值、情感状态或事实）。",
+      "SENT_EN":"A clear look of disappointment registered on her face.",
+      "SENT_ZH":"她的脸上显露出一丝明显的失望。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indicate",
+            "show",
+            "read"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] register",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "commerce",
+        "device"
+      ],
+      "DEF_EN":"Short for 'cash register', a machine used in stores to record sales and total transactions, usually with a drawer for cash.",
+      "DEF_ZH":"收银机（cash register的简称）。",
+      "SENT_EN":"The clerk had to open the register to make change.",
+      "SENT_ZH":"店员不得不打开收银机找零。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "till",
+            "cashier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in [a] high/low register",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "music",
+        "linguistics"
+      ],
+      "DEF_EN":"A specific range of tones, such as those produced by the human voice or a musical instrument (e.g., soprano or bass).",
+      "DEF_ZH":"（人声或乐器的）音域或音区。",
+      "SENT_EN":"The aria required the soprano to sing in a very high register.",
+      "SENT_ZH":"这首咏叹调要求女高音在非常高的音区演唱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "range",
+            "tessitura"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] formal/casual register",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "linguistics"
+      ],
+      "DEF_EN":"A variety of language used for a particular communicative purpose or in a specific social setting (e.g., formal vs. colloquial).",
+      "DEF_ZH":"语域；指在特定交际目的或社交场合中使用的语言风格（如正式语域、口语语域）。",
+      "SENT_EN":"Writers often switch register when moving from dialogue to narration.",
+      "SENT_ZH":"作者在从对话转向叙述时，通常会切换语域。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "style",
+            "jargon",
+            "dialect"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Administrative, Commerce, and Specialized (Linguistics/Music) Usage"
+}

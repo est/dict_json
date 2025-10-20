@@ -1,0 +1,86 @@
+{
+  "WORD":"intensive",
+  "IPA":"/ɪnˈtɛnsɪv/",
+  "CONJUGATES":"intensiver (comparative) | intensivest (superlative) | intensively (adverb) | intensiveness (noun)",
+  "ETYMOLOGY":"From Medieval Latin intensivus, from Latin intensus (past participle of intendere 'to stretch, strain').",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is intensive",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Requiring great effort, concentration, or thoroughness over a short period; highly focused.",
+      "DEF_ZH":"集中且深入的；密集的；高强度的。",
+      "SENT_EN":"The students completed an intensive language course over the summer.",
+      "SENT_ZH":"学生们在暑假期间完成了一个密集的语言课程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rigorous",
+            "exhaustive",
+            "concentrated",
+            "thorough"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cursory",
+            "light",
+            "superficial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intensive agriculture\nintensive production",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "economics",
+        "agriculture"
+      ],
+      "DEF_EN":"Maximizing output by applying large amounts of resources, capital, or labor to a given area or operation.",
+      "DEF_ZH":"集约的（指通过投入大量资源以最大化产出的生产方式，尤指农业）。",
+      "SENT_EN":"Intensive farming often raises concerns about soil depletion.",
+      "SENT_ZH":"集约化耕作方式经常引起人们对土壤枯竭的担忧。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "extensive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intensive care [unit]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "specialized",
+        "medical"
+      ],
+      "DEF_EN":"Providing specialized, continuous, round-the-clock monitoring and treatment for critically ill or injured patients.",
+      "DEF_ZH":"重症监护的；加强医疗的（通常指医院的重症病房）。",
+      "SENT_EN":"She was placed in intensive care after the serious accident.",
+      "SENT_ZH":"发生严重事故后，她被送进了重症监护室。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ICU",
+            "CCU"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

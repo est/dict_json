@@ -1,0 +1,106 @@
+{
+  "WORD":"engineer",
+  "IPA":"/ˌendʒɪˈnɪər/",
+  "CONJUGATES":"engineers | engineering | engineered",
+  "ETYMOLOGY":"From Middle English enginour (c. 1300), via Old French engigneor, derived from Latin ingenium ('natural capacity, invention, clever device'). Originally referring to a builder of military engines/devices (ingenious devices). The modern professional sense developed in the 17th century.",
+  "SINCE":"c. 1300 (noun); c. 1650 (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"engineer [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession",
+        "technical"
+      ],
+      "DEF_EN":"A person who designs, builds, or maintains engines, machines, or public works (such as roads, railways, and bridges).",
+      "DEF_ZH":"设计、建造或维护引擎、机器或公共工程（如道路、铁路和桥梁）的人；工程师。",
+      "SENT_EN":"She trained as a mechanical engineer before moving into project management.",
+      "SENT_ZH":"在转向项目管理之前，她接受了机械工程师的培训。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "designer",
+            "architect",
+            "technician",
+            "constructor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"engineer [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific title",
+        "US usage"
+      ],
+      "DEF_EN":"A person who operates the engine of a railway train (locomotive engineer), or a specialist dealing with specific machinery or technical systems (e.g., sound engineer, software engineer).",
+      "DEF_ZH":"操作火车头引擎的人（机车工程师，尤其指美式用法）；或处理特定机械或技术系统的专家（例如：音响工程师、软件工程师）。",
+      "SENT_EN":"The audio engineer adjusted the microphones during the live broadcast.",
+      "SENT_ZH":"在现场直播期间，音响工程师调整了麦克风。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "driver",
+            "operator",
+            "fireman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"engineer [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "design"
+      ],
+      "DEF_EN":"To design, build, or skillfully create (a machine, structure, or system) using scientific and technical methods.",
+      "DEF_ZH":"利用科学和技术方法设计、建造或巧妙地创建（机器、结构或系统）。",
+      "SENT_EN":"The company engineered a new type of lightweight alloy for the aerospace industry.",
+      "SENT_ZH":"该公司为航空航天工业设计了一种新型轻质合金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "design",
+            "construct",
+            "devise",
+            "fabricate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"engineer [sth] (often events/outcomes)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "manipulation"
+      ],
+      "DEF_EN":"To arrange or bring about (a situation or event) skillfully and often secretly or cunningly.",
+      "DEF_ZH":"巧妙地、通常是秘密地或狡猾地安排或促成（局势或事件）。",
+      "SENT_EN":"She managed to engineer a meeting with the CEO without anyone realizing her true intentions.",
+      "SENT_ZH":"她设法策划了一次与首席执行官的会面，而没有人意识到她真正的意图。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "orchestrate",
+            "contrive",
+            "manipulate",
+            "plot"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Professional, Technical"
+}

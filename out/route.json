@@ -1,0 +1,144 @@
+{
+  "WORD":"route",
+  "IPA":"/ruːt/",
+  "CONJUGATES":"routes | routing | routed",
+  "ETYMOLOGY":"From Old French route (modern 'route'), from Latin rupta (via) 'a broken (way)', feminine past participle of rumpere 'to break'. Influenced in spelling by French and perhaps by English 'root', but in pronunciation by French 'route'.",
+  "SINCE":"Late Middle English (c. 1400s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (n)\n'a route between A and B'",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A way or course taken in getting from a starting point to a destination.",
+      "DEF_ZH":"从起点到目的地所经过的路径或路线。",
+      "SENT_EN":"What is the fastest route to the city center?",
+      "SENT_ZH":"去市中心最快的路线是什么？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "path",
+            "course",
+            "way",
+            "direction",
+            "itinerary"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "roadmap",
+            "navigation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (n)\n'a delivery route'",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A regular or usual line of transport, travel, or delivery.",
+      "DEF_ZH":"定期的或通常的运输、旅行或配送线路。",
+      "SENT_EN":"The bus company established a new route covering the suburban areas.",
+      "SENT_ZH":"这家公交公司建立了一条覆盖郊区的新路线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "circuit",
+            "round",
+            "run",
+            "beat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (v)\n'route sth to sb/somewhere'",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To send or direct someone or something along a particular course.",
+      "DEF_ZH":"沿特定路线发送或引导某人或某物（尤指信息或货物）。",
+      "SENT_EN":"The system routes the incoming calls to the available agents.",
+      "SENT_ZH":"该系统将呼入电话分配给可用的代理人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "direct",
+            "send",
+            "channel",
+            "dispatch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "routing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (n)\n'a computer network route'",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computing, a path that an electronic message or data packet takes from its source to its destination across a network.",
+      "DEF_ZH":"在计算机领域，电子消息或数据包从源头到目的地跨网络传输的路径。",
+      "SENT_EN":"The network administrator checked the default route configuration.",
+      "SENT_ZH":"网络管理员检查了默认路由配置。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "router",
+            "IP address"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (v)\n'route the enemy'",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "old word",
+        "military"
+      ],
+      "DEF_EN":"(Chiefly US military usage) To defeat an enemy completely and force them to retreat in disorder.",
+      "DEF_ZH":"（主要用于美国军事）彻底击败敌人并迫使他们混乱地撤退。",
+      "SENT_EN":"The cavalry successfully routed the opposing flank.",
+      "SENT_ZH":"骑兵成功地击溃了敌方侧翼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defeat",
+            "rout",
+            "vanquish",
+            "put to flight"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Transportation, Computing, Logistics"
+}

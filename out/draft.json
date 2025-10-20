@@ -1,0 +1,136 @@
+{
+  "WORD":"draft",
+  "IPA":"/dræft/",
+  "CONJUGATES":"drafts (n.) | drafts (v.) | drafting | drafted",
+  "ETYMOLOGY":"From Middle English draughte, derived from Old English dragan ('to draw, pull'). Historically and commonly spelled 'draught' in British English.",
+  "SINCE":"Before 12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (a document/plan)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A preliminary version of a document, plan, or piece of writing.",
+      "DEF_ZH":"草案；初稿；草图。",
+      "SENT_EN":"The editor asked me to submit a first draft of the proposal by Friday.",
+      "SENT_ZH":"编辑要求我在周五前提交提案的第一稿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sketch",
+            "outline",
+            "blueprint",
+            "version"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "draught"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"draft [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To prepare a preliminary version of a document, plan, or law.",
+      "DEF_ZH":"起草；拟定；撰写。",
+      "SENT_EN":"It took the lawyers several weeks to draft the final contract.",
+      "SENT_ZH":"律师们花了数周时间来起草最终合同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compose",
+            "formulate",
+            "write up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (to military service/to a team)",
+      "POS":"n. | vtr",
+      "POS_TIP":"noun or transitive verb",
+      "TAGS":[
+        "common",
+        "US usage"
+      ],
+      "DEF_EN":"Compulsory recruitment for military service (noun); or, the system by which professional sports teams select new players (noun/verb, especially in US sports).",
+      "DEF_ZH":"征兵（名词）；（体育选秀）选拔新队员（名词/动词）。",
+      "SENT_EN":"His number was called in the draft, forcing him to join the army.",
+      "SENT_ZH":"他的征兵号码被叫到了，迫使他参军。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conscription",
+            "enlistment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (a current of air)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "US usage"
+      ],
+      "DEF_EN":"A current of cool air in a room or confined space.",
+      "DEF_ZH":"气流；穿堂风。（英国英语通常拼作 'draught'）。",
+      "SENT_EN":"Please close the window; I feel a cold draft coming in.",
+      "SENT_ZH":"请关上窗户，我感觉有冷风吹进来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breeze",
+            "air current",
+            "waft"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "draught"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of a vessel)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "nautical"
+      ],
+      "DEF_EN":"The depth of water a ship requires to float; the depth of the vessel below the waterline.",
+      "DEF_ZH":"吃水深度；船只在水面下的深度。",
+      "SENT_EN":"The ship’s draft was too deep for the shallow port.",
+      "SENT_ZH":"这艘船的吃水深度对于这个浅港来说太深了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depth",
+            "submergence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in bureaucratic, legal, and military contexts."
+}

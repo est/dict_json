@@ -1,0 +1,75 @@
+{
+  "WORD":"increase",
+  "IPA":"/ɪnˈkriːs/",
+  "CONJUGATES":"increases | increasing | increased | noun plural increases",
+  "ETYMOLOGY":"From Latin increscere (in- 'into, upon' + crescere 'to grow'), via Old French encreistre.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"increase [sth]\nincrease",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr=verb transitive (requires direct object) | vint=verb intransitive (does not require direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make or become greater in size, amount, intensity, or degree.",
+      "DEF_ZH":"使某物在大小、数量、强度或程度上变大或增加。",
+      "SENT_EN":"The government decided to increase taxes on luxury goods.",
+      "SENT_ZH":"政府决定提高奢侈品的税收。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "augment",
+            "enlarge",
+            "escalate",
+            "multiply"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "decrease",
+            "diminish",
+            "reduce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an increase (in [sth])",
+      "POS":"nc | nu",
+      "POS_TIP":"nc=noun countable | nu=noun uncountable. (Note: when used as a noun, the stress shifts to the first syllable: /ˈɪn.kriːs/)",
+      "TAGS":[
+        "core word",
+        "common",
+        "result"
+      ],
+      "DEF_EN":"A rise in the amount, size, or degree of something; the amount by which something grows.",
+      "DEF_ZH":"数量、大小或程度的增长或上升；增长的量。",
+      "SENT_EN":"There has been a dramatic increase in housing prices this quarter.",
+      "SENT_ZH":"本季度房价出现了显著上涨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "growth",
+            "rise",
+            "surge",
+            "expansion"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reduction",
+            "decline",
+            "drop"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Business"
+}

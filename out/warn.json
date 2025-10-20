@@ -1,0 +1,86 @@
+{
+  "WORD":"warn",
+  "IPA":"/wɔːrn/",
+  "CONJUGATES":"warns | warning | warned",
+  "ETYMOLOGY":"From Old English warnian (to take heed, guard oneself, warn). Related to Old High German warnōn (to pay heed).",
+  "SINCE":"c. 8th Century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"warn [sb] [of sth]\nwarn [sb] [against sth]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To inform someone in advance about a potential danger, threat, or unpleasant event.",
+      "DEF_ZH":"预先告知某人潜在的危险、威胁或不愉快的事件。",
+      "SENT_EN":"The doctor warned him of the health risks associated with smoking.",
+      "SENT_ZH":"医生警告他吸烟相关的健康风险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alert",
+            "caution",
+            "forewarn",
+            "admonish"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "warning",
+            "wary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"warn [sb] [to do sth]\nwarn [sb] [not to do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "instructional",
+        "mandatory"
+      ],
+      "DEF_EN":"To strongly advise or order someone about necessary actions or prohibitions.",
+      "DEF_ZH":"强烈建议或命令某人采取必要的行动或禁止某事。",
+      "SENT_EN":"The teacher warned the students not to cheat on the exam.",
+      "SENT_ZH":"老师告诫学生不要在考试中作弊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advise",
+            "counsel",
+            "exhort"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] warns [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"To serve as a conspicuous example or indicator of caution.",
+      "DEF_ZH":"充当明显的警示或教训。",
+      "SENT_EN":"The ruins of the old city warned future generations about the effects of war.",
+      "SENT_ZH":"这座古城的废墟警示着后代战争的后果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deter",
+            "caution"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in formal, legal, and everyday contexts."
+}

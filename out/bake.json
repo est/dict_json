@@ -1,0 +1,103 @@
+{
+  "WORD":"bake",
+  "IPA":"/beɪk/",
+  "CONJUGATES":"bakes | baking | baked",
+  "ETYMOLOGY":"From Middle English baken, from Old English bacan, from Proto-West Germanic *bakan, from Proto-Germanic *bakaną, from Proto-Indo-European *bʰeh₃g- ('to warm, roast').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"bake [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb (takes object) | intransitive verb (no object needed)",
+      "TAGS":[
+        "core word",
+        "cooking",
+        "common"
+      ],
+      "DEF_EN":"To cook (food) by dry heat, especially in an oven.",
+      "DEF_ZH":"用干热烹饪（食物），尤指在烤箱中。",
+      "SENT_EN":"She decided to bake a cake for the party.",
+      "SENT_ZH":"她决定为派对烤一个蛋糕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "roast",
+            "cook",
+            "oven-cook"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "baker",
+            "bakery",
+            "baking soda"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] bake",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (no object needed)",
+      "TAGS":[
+        "common",
+        "physics"
+      ],
+      "DEF_EN":"To be cooked by dry heat; to undergo the process of baking.",
+      "DEF_ZH":"被干热烹饪；进行烘烤过程。",
+      "SENT_EN":"The bread is baking nicely in the oven.",
+      "SENT_ZH":"面包在烤箱里烤得很好。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sb]\n[sth] bake",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (no object needed)",
+      "TAGS":[
+        "informal",
+        "weather"
+      ],
+      "DEF_EN":"To become very hot, often uncomfortably so, due to exposure to intense heat or sun.",
+      "DEF_ZH":"变得非常热，通常是不舒服的热，因为暴露在强烈的热量或阳光下。",
+      "SENT_EN":"We were absolutely baking on the beach yesterday.",
+      "SENT_ZH":"我们昨天在沙滩上热得要命。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "broil",
+            "swelter",
+            "toast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bake [sth]\n[sth] is baked",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb (takes object) | intransitive verb (no object needed)",
+      "TAGS":[
+        "technical",
+        "ceramics",
+        "materials"
+      ],
+      "DEF_EN":"To harden or dry by heat (used for clay, ceramics, or paint).",
+      "DEF_ZH":"通过加热使（陶土、陶瓷或油漆）变硬或干燥。",
+      "SENT_EN":"The pottery needs to bake at a high temperature for several hours.",
+      "SENT_ZH":"陶器需要用高温烘烤几个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fire",
+            "cure",
+            "harden"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, culinary context."
+}

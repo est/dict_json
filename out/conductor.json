@@ -1,0 +1,91 @@
+{
+  "WORD":"conductor",
+  "IPA":"/kənˈdʌktər/",
+  "CONJUGATES":"conductors (plural)",
+  "ETYMOLOGY":"From Middle English, derived from Latin *conductor* 'a guide, leaseholder', from *conducere* 'to lead, bring together', combining *con-* 'together' + *ducere* 'to lead'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"conductor (of [an orchestra/choir])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "music"
+      ],
+      "DEF_EN":"A person who directs the performance of an orchestra or choir, typically using a baton or hand gestures.",
+      "DEF_ZH":"指挥家 (指导管弦乐队或合唱团演出的人，通常使用指挥棒或手势)。",
+      "SENT_EN":"The conductor bowed to the audience after the symphony concluded.",
+      "SENT_ZH":"交响乐结束后，指挥向观众鞠躬致意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maestro",
+            "bandleader",
+            "director"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "baton",
+            "orchestra"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"conductor (of [electricity/heat])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"A substance or device that transmits heat, electricity, sound, or light readily.",
+      "DEF_ZH":"导体 (容易传导热、电、声或光的物质或装置)。",
+      "SENT_EN":"Gold is a good conductor of electricity, though not as cheap as copper.",
+      "SENT_ZH":"金是电的良导体，尽管不如铜便宜。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "insulator"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "semiconductor",
+            "dielectric"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"conductor (on [a train/bus])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "transportation"
+      ],
+      "DEF_EN":"A person on a train, bus, or streetcar responsible for collecting fares, punching tickets, and assisting passengers.",
+      "DEF_ZH":"列车员 | 售票员 (在火车或公共汽车上负责检票、收取车费和协助乘客的人员)。",
+      "SENT_EN":"The bus conductor announced the next stop over the loudspeaker.",
+      "SENT_ZH":"公交车售票员通过扬声器宣布了下一站。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guard",
+            "ticket collector"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Music"
+}

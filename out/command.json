@@ -1,0 +1,110 @@
+{
+  "WORD":"command",
+  "IPA":"/kəˈmænd/",
+  "CONJUGATES":"commands | commanded | commanding (v.) | commands (n.)",
+  "ETYMOLOGY":"From Old French *comander* (c. 1100), from Vulgar Latin *commandare*, derived from Latin *commendare* (to commit, entrust), influenced by Latin *mandare* (to order, entrust).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"command [sb]\ncommand [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr: transitive verb (requires an object) | vint: intransitive verb (does not require an object)",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Formal"
+      ],
+      "DEF_EN":"To give an authoritative order or instruction.",
+      "DEF_ZH":"发号施令；命令；要求。",
+      "SENT_EN":"The officer commanded silence in the ranks immediately.",
+      "SENT_ZH":"军官立即命令队伍保持安静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "order",
+            "direct",
+            "instruct"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "edict",
+            "decree"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] command\nthe command",
+      "POS":"nc | nu",
+      "POS_TIP":"nc: countable noun | nu: uncountable noun",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"An authoritative instruction or an order given, or the state of being under control/authority.",
+      "DEF_ZH":"命令；指令；（尤指军事上的）指挥权；管辖。",
+      "SENT_EN":"He acted strictly under the command of the regional director.",
+      "SENT_ZH":"他严格按照地区总监的命令行动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "order",
+            "directive",
+            "authority"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"command [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires an object)",
+      "TAGS":[
+        "Formal",
+        "Military"
+      ],
+      "DEF_EN":"To be in charge of, lead, or have overall control over (a group, unit, or situation).",
+      "DEF_ZH":"指挥；统领；掌管（部队、船只或局势）。",
+      "SENT_EN":"She was chosen to command the new naval destroyer.",
+      "SENT_ZH":"她被选中指挥那艘新型海军驱逐舰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lead",
+            "control",
+            "govern"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"command [sth] (e.g., respect, attention, a price)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires an object)",
+      "TAGS":[
+        "Formal",
+        "Figurative"
+      ],
+      "DEF_EN":"To deserve and successfully obtain (respect, attention, or a high value/price).",
+      "DEF_ZH":"值得；博得；赢得（尊敬、关注或高价）。",
+      "SENT_EN":"His extensive experience commands respect from his colleagues.",
+      "SENT_ZH":"他丰富的经验赢得了同事们的尊敬。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demand",
+            "merit",
+            "elicit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in formal, military, or technical contexts."
+}

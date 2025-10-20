@@ -1,0 +1,127 @@
+{
+  "WORD":"levy",
+  "IPA":"/ˈlɛvi/",
+  "CONJUGATES":"levies (n.pl.) | levys (v.3rd.sg.pres.) | levying (v.pres.p.) | levied (v.past.v.past.p.)",
+  "ETYMOLOGY":"From Old French lever 'to raise', from Latin levare 'to lighten, raise'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"levy [a tax/charge/fine] on [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To impose or collect (a tax, fee, or fine).",
+      "DEF_ZH":"征收（税款、费用、罚款）。",
+      "SENT_EN":"The government decided to levy a new tax on luxury goods.",
+      "SENT_ZH":"政府决定对奢侈品征收新税。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impose",
+            "charge",
+            "collect",
+            "exact",
+            "raise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "waive",
+            "exempt",
+            "remit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"levy [troops/an army]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "common",
+        "formal",
+        "historical",
+        "military"
+      ],
+      "DEF_EN":"To enlist (troops) or conscript (an army).",
+      "DEF_ZH":"征募（军队）；征兵。",
+      "SENT_EN":"In times of war, the king would levy an army from his subjects.",
+      "SENT_ZH":"战争时期，国王会向臣民征募军队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "raise",
+            "muster",
+            "conscript",
+            "enlist",
+            "recruit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a levy on [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"An act of levying a tax, fee, or fine, or the tax, fee, or fine itself.",
+      "DEF_ZH":"征税，征费；征收的税款或费用。",
+      "SENT_EN":"The new environmental levy will be added to utility bills.",
+      "SENT_ZH":"新的环境税将被加到水电费账单中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tax",
+            "charge",
+            "tariff",
+            "duty",
+            "excise",
+            "assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a levy of [troops]",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "formal",
+        "historical",
+        "military"
+      ],
+      "DEF_EN":"A body of troops that have been conscripted.",
+      "DEF_ZH":"征募来的军队；征兵。",
+      "SENT_EN":"The country gathered a large levy to defend its borders.",
+      "SENT_ZH":"该国召集了一支庞大的军队来保卫边境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conscription",
+            "draft",
+            "recruitment",
+            "militia",
+            "host"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Governmental"
+}

@@ -1,0 +1,94 @@
+{
+  "WORD":"stomach",
+  "IPA":"/ˈstʌmək/",
+  "CONJUGATES":"stomachs | stomaching | stomached",
+  "ETYMOLOGY":"From Middle English stomak, from Old French estomac, from Latin stomachus ('throat, gullet, stomach'), from Ancient Greek στόμαχος (stómakhos, 'throat, gullet, esophagus', originally 'mouth, opening').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "anatomy"
+      ],
+      "DEF_EN":"The internal organ in the abdomen, which receives food from the esophagus, initiates digestion, and passes it to the small intestine.",
+      "DEF_ZH":"位于腹部内的器官，从食道接收食物，开始消化过程，并将其送入小肠。",
+      "SENT_EN":"The doctor advised me to eat smaller meals to protect my stomach.",
+      "SENT_ZH":"医生建议我吃少量的餐食以保护我的胃。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tummy",
+            "belly",
+            "guts"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "abdomen",
+            "intestine",
+            "esophagus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Appetite for food; desire for eating.",
+      "DEF_ZH":"食欲；想吃东西的欲望。",
+      "SENT_EN":"I had no stomach for dinner after receiving the bad news.",
+      "SENT_ZH":"收到坏消息后，我没有胃口吃晚饭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appetite",
+            "hunger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]\n[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To tolerate or endure something unpleasant or difficult.",
+      "DEF_ZH":"忍受或容忍令人不快或困难的事情。",
+      "SENT_EN":"She couldn't stomach the sight of blood and quickly looked away.",
+      "SENT_ZH":"她无法忍受看到血的场面，立刻转过头去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tolerate",
+            "bear",
+            "endure",
+            "put up with"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reject",
+            "repudiate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

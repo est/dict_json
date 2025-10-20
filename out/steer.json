@@ -1,0 +1,88 @@
+{
+  "WORD":"steer",
+  "IPA":"/stɪər/",
+  "CONJUGATES":"steers | steering | steered",
+  "ETYMOLOGY":"From Old English stēoran, stīeran 'to guide, govern, direct, rule,' related to Old Norse stýra and Dutch sturen. Ultimately derived from a Germanic root meaning 'a rudder or post used for guidance.'",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"steer [sth]\nsteer [sth] [direction]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "transport"
+      ],
+      "DEF_EN":"To guide or control the direction of a vehicle, ship, or aircraft; to direct one's course.",
+      "DEF_ZH":"驾驶；掌舵；控制（交通工具、船只等）的方向。",
+      "SENT_EN":"Can you steer the car while I check the map?",
+      "SENT_ZH":"我查地图的时候你能掌一下方向盘吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guide",
+            "pilot",
+            "navigate",
+            "direct"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rudder",
+            "wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"steer [sth/sb] [towards/away from]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To guide or influence a person, discussion, or course of action toward a specific outcome or path.",
+      "DEF_ZH":"引导；将（某人、某事）引向或偏离特定方向或结果。",
+      "SENT_EN":"We need to steer the conversation away from politics.",
+      "SENT_ZH":"我们需要将谈话从政治上引开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "channel",
+            "influence",
+            "manage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a steer",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "agriculture",
+        "biology"
+      ],
+      "DEF_EN":"A castrated male bovine animal, typically raised for beef.",
+      "DEF_ZH":"阉牛；菜牛。",
+      "SENT_EN":"The rancher sold three hundred steers at the livestock auction.",
+      "SENT_ZH":"牧场主在牲畜拍卖会上卖了三百头阉牛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bull",
+            "cow",
+            "ox",
+            "cattle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, General use."
+}

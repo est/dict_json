@@ -1,0 +1,89 @@
+{
+  "WORD":"observation",
+  "IPA":"/ˌɑːbzərˈveɪʃən/",
+  "CONJUGATES":"observations (plural)",
+  "ETYMOLOGY":"From Latin observatio (noun of action), from observare (to observe, watch), itself from ob- (toward) + servare (to keep, watch, guard).",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"observation [of sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"Noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The action or process of closely watching or monitoring something or someone.",
+      "DEF_ZH":"仔细观看、注意或监视某事物或某人的行为或过程。",
+      "SENT_EN":"The police kept the suspect under close observation.",
+      "SENT_ZH":"警察对嫌疑人进行了严密监视。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scrutiny",
+            "monitoring",
+            "surveillance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "experiment",
+            "perception"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"observation [about sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "common",
+        "concrete"
+      ],
+      "DEF_EN":"A remark, statement, or comment based on something one has noticed or experienced.",
+      "DEF_ZH":"根据某人注意或经历过的事物而发表的评论或见解。",
+      "SENT_EN":"She shared an interesting observation about cultural differences.",
+      "SENT_ZH":"她分享了一个关于文化差异的有趣的见解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "comment",
+            "remark",
+            "insight",
+            "reflection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"observation [in science]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable/uncountable)",
+      "TAGS":[
+        "technical",
+        "science",
+        "academic"
+      ],
+      "DEF_EN":"The collection of data or a record of information using instruments or senses, often for scientific or experimental purposes.",
+      "DEF_ZH":"利用仪器或感官收集数据或记录信息，常用于科学或实验目的。",
+      "SENT_EN":"The raw data consisted of hundreds of astronomical observations.",
+      "SENT_ZH":"原始数据包含数百项天文学观测结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measurement",
+            "reading",
+            "data point"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, and Scientific contexts."
+}

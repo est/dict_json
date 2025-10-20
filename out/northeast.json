@@ -1,0 +1,84 @@
+{
+  "WORD":"northeast",
+  "IPA":"/ˈnɔːrθˈiːst/",
+  "CONJUGATES":"northeast | northeastern | northeasterly",
+  "ETYMOLOGY":"Compound of Old English norþ (north) and ēast (east).",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] northeast",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "direction",
+        "geography"
+      ],
+      "DEF_EN":"The cardinal direction or point of the compass halfway between north and east, corresponding to 45°.",
+      "DEF_ZH":"东北方向；罗盘上位于正北和正东之间的方向（45度）。",
+      "SENT_EN":"We navigated our ship exactly to the northeast.",
+      "SENT_ZH":"我们精确地向东北方向航行我们的船只。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "NE"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "north",
+            "east",
+            "southeast",
+            "northwest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] Northeast [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geography",
+        "regional"
+      ],
+      "DEF_EN":"A geographical area or region located in the northeast section of a larger territory (often capitalized when referring to a known political or climatic region).",
+      "DEF_ZH":"（某国或某地区的）东北部；东北地区。",
+      "SENT_EN":"The culture of the Northeast is heavily influenced by early European settlers.",
+      "SENT_ZH":"东北地区的文化深受早期欧洲定居者的影响。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Southwest",
+            "Midwest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"northeast [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "directional",
+        "meteorology"
+      ],
+      "DEF_EN":"Of, situated in, or proceeding from the northeast.",
+      "DEF_ZH":"东北方的；位于东北的；来自东北的（尤指风、气流）。",
+      "SENT_EN":"We encountered strong northeast winds during the flight.",
+      "SENT_ZH":"我们在飞行中遭遇了强劲的东北风。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "northeastern"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in geography, navigation, and meteorology."
+}

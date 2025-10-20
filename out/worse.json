@@ -1,0 +1,89 @@
+{
+  "WORD":"worse",
+  "IPA":"/wɜːrs/",
+  "CONJUGATES":"bad (positive adj) | worse (comparative adj) | worst (superlative adj) || badly (positive adv) | worse (comparative adv) | worst (superlative adv)",
+  "ETYMOLOGY":"From Old English wiersa (adjective) and wiers (adverb), from Proto-Germanic *wirsizan, related to *werra 'confusion, strife'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"worse (than [sth/sb])",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common",
+        "comparative"
+      ],
+      "DEF_EN":"Of poorer quality or lower standard than something else; more unpleasant, serious, or severe.",
+      "DEF_ZH":"质量或标准比其他事物差的；更令人不快、更严重或更严厉的。",
+      "SENT_EN":"The economic situation is getting worse every day.",
+      "SENT_ZH":"经济形势一天比一天糟糕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inferior",
+            "poorer",
+            "more severe",
+            "more serious",
+            "more detrimental"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "better"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"worse (than [sth/sb])",
+      "POS":"adv",
+      "POS_TIP":"adverb: a word that modifies a verb, an adjective, or another adverb",
+      "TAGS":[
+        "core word",
+        "common",
+        "comparative"
+      ],
+      "DEF_EN":"More badly or severely; to a greater or more serious degree.",
+      "DEF_ZH":"更糟糕地；更严重地；更厉害地。",
+      "SENT_EN":"He felt worse after taking the medicine.",
+      "SENT_ZH":"他吃了药后感觉更糟了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "more poorly",
+            "more severely",
+            "less well"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "better",
+            "more skillfully",
+            "more competently"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"for the worse\nto make matters worse | the worse for wear",
+      "POS":"n",
+      "POS_TIP":"noun: a word used to identify a person, place, thing, or idea",
+      "TAGS":[
+        "idiomatic",
+        "common phrase",
+        "archaic sense"
+      ],
+      "DEF_EN":"A worse condition or state (chiefly used in fixed phrases).",
+      "DEF_ZH":"更差的状况或状态（主要用于固定短语中）。",
+      "SENT_EN":"His health took a sudden turn for the worse.",
+      "SENT_ZH":"他的健康状况突然恶化了。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

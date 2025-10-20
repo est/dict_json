@@ -1,0 +1,132 @@
+{
+  "WORD":"element",
+  "IPA":"/ˈɛləmənt/",
+  "CONJUGATES":"elements (plural)",
+  "ETYMOLOGY":"From Old French element, from Latin elementum ('first principle, rudiment, basic constituent'). The ultimate origin is uncertain, perhaps Etruscan.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"element [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A component or constituent part of a whole, especially an abstract or necessary part.",
+      "DEF_ZH":"构成整体的组成部分或要素，尤指抽象或必要的组成部分。",
+      "SENT_EN":"Trust is a key element in maintaining a strong team.",
+      "SENT_ZH":"信任是维持强大团队的关键要素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "component",
+            "factor",
+            "constituent",
+            "ingredient"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "essence",
+            "feature"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"element [chemical]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "science",
+        "technical"
+      ],
+      "DEF_EN":"A pure substance that cannot be chemically decomposed into simpler substances and is defined by the number of protons in its atoms (atomic number).",
+      "DEF_ZH":"（化学）由具有相同质子数的原子组成，不能通过化学反应分解为更简单物质的纯净物质。",
+      "SENT_EN":"Gold is a noble element that resists oxidation.",
+      "SENT_ZH":"黄金是一种抗氧化的贵金属元素。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "compound",
+            "atom",
+            "isotope",
+            "periodic table"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"elements (plural)\nout of one's element",
+      "POS":"n",
+      "POS_TIP":"noun (often plural)",
+      "TAGS":[
+        "idiomatic",
+        "nature"
+      ],
+      "DEF_EN":"The forces of nature, especially severe or bad weather (used in plural); or, the natural, accustomed, or preferred environment for a person or thing.",
+      "DEF_ZH":"自然力或恶劣天气（常用复数）；或指某人或某物所适应的、习惯的或偏好的环境。",
+      "SENT_EN":"The small sailboat was battered by the fierce elements of the storm. / He is a mathematician, and felt completely out of his element at the fashion show.",
+      "SENT_ZH":"这艘小帆船被暴风雨的猛烈自然力量击打。/ 他是一名数学家，在时装秀上感到完全格格不入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weather",
+            "environment",
+            "habitat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heating element\nelement [electrical]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "apparatus"
+      ],
+      "DEF_EN":"A wire or coil within an electrical device that provides heat, such as in a kettle, oven, or hair dryer.",
+      "DEF_ZH":"（电器）电器设备中用于产生热量的电线或线圈，例如电水壶、烤箱或吹风机中的发热元件。",
+      "SENT_EN":"The toaster is broken because its heating element has burned out.",
+      "SENT_ZH":"烤面包机坏了，因为它的加热元件烧坏了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resistor",
+            "heater coil"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"element [mathematics]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "mathematics",
+        "formal"
+      ],
+      "DEF_EN":"A distinct object or member belonging to a particular set.",
+      "DEF_ZH":"（数学）属于特定集合的一个独特的对象或成员。",
+      "SENT_EN":"Each element in the array must be an integer.",
+      "SENT_ZH":"数组中的每个元素必须是一个整数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "member",
+            "entity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

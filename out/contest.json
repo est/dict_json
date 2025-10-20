@@ -1,0 +1,96 @@
+{
+  "WORD":"contest",
+  "IPA":"/ˈkɒntɛst/",
+  "CONJUGATES":"contests | contesting | contested",
+  "ETYMOLOGY":"From Latin contestari ('to call to witness'), from con- ('together') + testari ('to bear witness, testify'), influenced in meaning by 'to dispute' or 'to compete' in English and Old French contexts.",
+  "SINCE":"Late 16th century (as a verb); mid-17th century (as a noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A competition in which people try to win a prize or achieve superiority.",
+      "DEF_ZH":"一种人们试图赢得奖品或取得优势的竞赛或比赛。",
+      "SENT_EN":"She won first place in the writing contest.",
+      "SENT_ZH":"她在写作比赛中获得了第一名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "competition",
+            "tournament",
+            "match",
+            "game"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rivalry",
+            "challenge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"contest [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To dispute, challenge, or oppose an action, claim, or decision as wrong or unjust.",
+      "DEF_ZH":"对某一行动、主张或决定提出质疑、挑战或反对，认为其是错误的或不公正的。",
+      "SENT_EN":"The defendant decided to contest the verdict in court.",
+      "SENT_ZH":"被告决定在法庭上对判决提出异议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dispute",
+            "challenge",
+            "question",
+            "oppose"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "accept",
+            "concede",
+            "yield"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"contest [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "politics"
+      ],
+      "DEF_EN":"To take part in a competition, election, or race, especially with the intention of winning.",
+      "DEF_ZH":"参加（尤其指选举或体育赛事等）竞争，意图获胜。",
+      "SENT_EN":"She has decided to contest the parliamentary seat in the next election.",
+      "SENT_ZH":"她已决定在下次选举中角逐该议会席位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compete for",
+            "run for",
+            "vie for"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use; frequently used in legal and political contexts when used as a verb."
+}

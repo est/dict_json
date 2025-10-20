@@ -1,0 +1,78 @@
+{
+  "WORD":"medical",
+  "IPA":"/'mɛdɪkl/",
+  "CONJUGATES":"medically (adv.)",
+  "ETYMOLOGY":"From Late Latin medicalis, from Latin medicus ('physician, doctor'), from mederi ('to heal').",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "science"
+      ],
+      "DEF_EN":"Relating to the science or practice of medicine, or the treatment of disease and injury.",
+      "DEF_ZH":"与医学、医疗实践或疾病和损伤的治疗相关的。",
+      "SENT_EN":"The hospital is updating all its medical equipment.",
+      "SENT_ZH":"这家医院正在更新所有的医疗设备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "health",
+            "clinical",
+            "medicinal",
+            "therapeutic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "veterinary",
+            "surgical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"require [medical] attention",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "usage specific"
+      ],
+      "DEF_EN":"Requiring or involving intervention by a physician or health professional.",
+      "DEF_ZH":"需要或涉及医生或卫生专业人员干预的。",
+      "SENT_EN":"The patient's severe symptoms indicated a serious medical problem.",
+      "SENT_ZH":"患者的严重症状表明存在一个严重的医学问题。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"pass a [medical]",
+      "POS":"n.",
+      "POS_TIP":"noun (often informal or British English)",
+      "TAGS":[
+        "informal",
+        "UK English"
+      ],
+      "DEF_EN":"A thorough physical examination, especially one required before employment, sports participation, or entry into a service.",
+      "DEF_ZH":"（尤指在就业、参加体育运动或入职前要求的）体格检查或体检。",
+      "SENT_EN":"You must pass a medical before you are allowed to join the team.",
+      "SENT_ZH":"你必须通过体检才能获准加入该团队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "check-up",
+            "physical examination",
+            "physical"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Professional, Scientific"
+}

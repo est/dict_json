@@ -1,0 +1,87 @@
+{
+  "WORD":"voluntary",
+  "IPA":"/'vɑːlənˌtɛri/",
+  "CONJUGATES":"voluntariness (n) | voluntarily (adv)",
+  "ETYMOLOGY":"From Latin voluntarius (willing, spontaneous), derived from voluntas (will, desire), from velle (to wish).",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is voluntary\nvoluntary [action/decision]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Done, given, or undertaken of one's own free will and choice, rather than being forced or mandatory.",
+      "DEF_ZH":"自愿的；出于自由意志的；非强制性的。",
+      "SENT_EN":"Participation in the survey is entirely voluntary and anonymous.",
+      "SENT_ZH":"参与这项调查是完全自愿和匿名的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "optional",
+            "discretionary",
+            "willing",
+            "willful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mandatory",
+            "compulsory",
+            "forced",
+            "involuntary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"voluntary [work/organization/sector]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "social context",
+        "employment"
+      ],
+      "DEF_EN":"Relating to or consisting of people who give service without expecting financial payment.",
+      "DEF_ZH":"志愿服务的；由志愿者组成的（或提供的）。",
+      "SENT_EN":"She spends her weekends doing voluntary work at the local animal shelter.",
+      "SENT_ZH":"她周末在当地的动物收容所做志愿工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unpaid",
+            "charitable",
+            "pro bono"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"voluntary [muscles/action]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "physiology"
+      ],
+      "DEF_EN":"(Of a muscle or action) controlled by the conscious mind or will.",
+      "DEF_ZH":"(肌肉或行为) 受意志控制的；随意的。",
+      "SENT_EN":"Skeletal muscles are generally voluntary, allowing us to choose when and how to move.",
+      "SENT_ZH":"骨骼肌通常是随意肌，使我们能够选择何时以及如何移动。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "involuntary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

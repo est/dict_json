@@ -1,0 +1,87 @@
+{
+  "WORD":"pray",
+  "IPA":"/preɪ/",
+  "CONJUGATES":"prays | praying | prayed",
+  "ETYMOLOGY":"From Old French preier, from Latin precari ('to ask earnestly, beg'), from prex (plural preces) 'prayer, request'.",
+  "SINCE":"c. 1200 (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"pray [to sb] [for sth]",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "religious"
+      ],
+      "DEF_EN":"Address a solemn request or expression of thanks to God or another deity.",
+      "DEF_ZH":"向神或神灵献上庄严的请求或感谢。",
+      "SENT_EN":"Every evening, she kneels down to pray for peace.",
+      "SENT_ZH":"每天晚上，她都会跪下祈祷和平。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supplicate",
+            "appeal",
+            "intercede"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "prayer",
+            "worship"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pray [that...]",
+      "POS":"v tr | v intr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common",
+        "expressive"
+      ],
+      "DEF_EN":"Hope or wish strongly for a specified outcome.",
+      "DEF_ZH":"强烈希望或期盼某一特定结果。",
+      "SENT_EN":"I pray that the storm passes quickly and safely.",
+      "SENT_ZH":"我祈祷风暴能快速安全地过去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hope",
+            "wish",
+            "long"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pray thee\npray tell",
+      "POS":"v tr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "archaic",
+        "literary",
+        "formal"
+      ],
+      "DEF_EN":"Used in polite or formal requests, meaning 'I beg you' or 'please tell me'.",
+      "DEF_ZH":"（古语）用于礼貌或正式的请求，意为“我请求你”或“请告诉我”。",
+      "SENT_EN":"Pray tell, what brought you to this remote village?",
+      "SENT_ZH":"请告诉我，是什么把你带到了这个偏远的村庄？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beseech",
+            "implore",
+            "beg"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used, central to religious discourse."
+}

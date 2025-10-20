@@ -1,0 +1,72 @@
+{
+  "WORD":"injure",
+  "IPA":"/ˈɪndʒər/",
+  "CONJUGATES":"injures | injuring | injured",
+  "ETYMOLOGY":"From Middle English iniuren, from Old French injurier, ultimately from Latin iniūriāre ('to wrong, treat unjustly'), derived from iniūria ('wrong, injury'), formed from in- (negative prefix) + iūs (right, law).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"injure [sb]\ninjure [part of body]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical"
+      ],
+      "DEF_EN":"To do physical harm or damage to a person, animal, or part of the body.",
+      "DEF_ZH":"使（某人、动物或身体部位）身体受伤或受损。",
+      "SENT_EN":"He accidentally injured his ankle during the practice match.",
+      "SENT_ZH":"在练习赛中，他不小心弄伤了脚踝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hurt",
+            "wound",
+            "damage",
+            "maim"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "heal",
+            "cure"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "injury"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"injure [reputation]\ninjure [feelings]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"To harm or damage the reputation, feelings, or status of someone or something.",
+      "DEF_ZH":"损害（某人的名誉、感情或地位）。",
+      "SENT_EN":"The baseless accusations injured his professional reputation.",
+      "SENT_ZH":"那些毫无根据的指控损害了他的职业声誉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impair",
+            "compromise",
+            "tarnish",
+            "damage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in medical and legal contexts."
+}

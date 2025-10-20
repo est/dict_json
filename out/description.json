@@ -1,0 +1,78 @@
+{
+  "WORD":"description",
+  "IPA":"/dɪˈskrɪpʃən/",
+  "CONJUGATES":"descriptions (pl.)",
+  "ETYMOLOGY":"From Middle English descripcioun, from Old French descripcion, from Latin dēscrīptiōnem (nominative dēscrīptiō), derived from dēscrībere ('to write down, copy, sketch, describe') (dē- 'down' + scrībere 'to write').",
+  "SINCE":"Early 15th century (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"description [of sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A detailed account or representation, usually in words, of someone or something.",
+      "DEF_ZH":"对某人或某物的详细口头或书面叙述或描绘。",
+      "SENT_EN":"The witness provided a good description of the thief.",
+      "SENT_ZH":"证人提供了对小偷很好的描述。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "account",
+            "report",
+            "depiction",
+            "narrative"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "describe",
+            "descriptive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"description [of sth] (used usually with 'of every/that')",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "fixed phrase"
+      ],
+      "DEF_EN":"A kind, sort, or category.",
+      "DEF_ZH":"种类；类型；范畴。",
+      "SENT_EN":"They sold vegetables of every description at the market.",
+      "SENT_ZH":"他们在市场上出售各种各样的蔬菜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "type",
+            "category",
+            "sort",
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"description (as action)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"The action or process of describing.",
+      "DEF_ZH":"描述的行为或过程。",
+      "SENT_EN":"The process requires careful description and analysis.",
+      "SENT_ZH":"这个过程需要仔细的描述和分析。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

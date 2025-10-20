@@ -1,0 +1,82 @@
+{
+  "WORD":"chart",
+  "IPA":"/tʃɑːrt/",
+  "CONJUGATES":"charts | charting | charted",
+  "ETYMOLOGY":"From Middle English charte, from Old French charte ('document, charter, map'), from Latin charta ('paper, leaf, map'), ultimately from Greek khártēs ('papyrus').",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]\n[data]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "data analysis",
+        "common"
+      ],
+      "DEF_EN":"A visual presentation of data, often in the form of a graph or diagram; also, a detailed map, especially one used for navigation (nautical chart).",
+      "DEF_ZH":"图表；统计图；海图（用于航海）。",
+      "SENT_EN":"The economist displayed a bar chart illustrating global inflation rates.",
+      "SENT_ZH":"这位经济学家展示了一张条形图，说明了全球通货膨胀率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graph",
+            "diagram",
+            "map",
+            "plot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[music] charts",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "idiomatic",
+        "music industry"
+      ],
+      "DEF_EN":"A ranking list of the most popular songs, albums, or singles, typically based on sales, streaming, or broadcasts.",
+      "DEF_ZH":"（流行音乐、唱片等的）排行榜。",
+      "SENT_EN":"Her latest song has spent three weeks at the top of the charts.",
+      "SENT_ZH":"她的最新歌曲已连续三周位居排行榜榜首。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "billboard",
+            "top 40"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chart [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "planning",
+        "formal"
+      ],
+      "DEF_EN":"To record the progress or development of something over time, or to map an area, typically for future planning.",
+      "DEF_ZH":"记录（进展、趋势）；绘制（地图、路线）；规划（进程）。",
+      "SENT_EN":"We need to chart a path forward for the company's next fiscal year.",
+      "SENT_ZH":"我们需要为公司下一个财年规划出一条前进的道路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "map",
+            "plot",
+            "track",
+            "record"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

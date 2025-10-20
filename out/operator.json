@@ -1,0 +1,132 @@
+{
+  "WORD":"operator",
+  "IPA":"/'ɑːpəreɪtər/",
+  "CONJUGATES":"operators",
+  "ETYMOLOGY":"From the late 15th century, derived from the verb 'operate' and the suffix '-or' (one who does). Ultimately from Latin operārī, meaning 'to work' or 'to perform'.",
+  "SINCE":"c. 1470s",
+  "MEANINGS":[
+    {
+      "PATTERN":"operator [of sth/an operation]",
+      "POS":"n. [C]",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person or company that controls, manages, or runs a machine, piece of equipment, business, or system.",
+      "DEF_ZH":"机器、设备、系统或企业的操作员、控制者或经营者。",
+      "SENT_EN":"She trained for six months to become a licensed forklift operator.",
+      "SENT_ZH":"她接受了六个月的培训，成为了一名持证的叉车操作员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manager",
+            "handler",
+            "driver",
+            "controller"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "operation",
+            "operative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"network/mobile operator",
+      "POS":"n. [C]",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "business",
+        "telecom"
+      ],
+      "DEF_EN":"A business or organization that provides a communication service, especially mobile or telecommunications services.",
+      "DEF_ZH":"（尤指提供通讯服务的）运营商；网络服务商。",
+      "SENT_EN":"They switched to the cheapest mobile network operator in the country.",
+      "SENT_ZH":"他们转用了该国最便宜的移动网络运营商。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provider",
+            "carrier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"telephone operator",
+      "POS":"n. [C]",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "historical",
+        "telecom"
+      ],
+      "DEF_EN":"A person who works a switchboard or telephone exchange, connecting callers or providing assistance.",
+      "DEF_ZH":"（电话）接线员；总机服务人员。",
+      "SENT_EN":"Please dial zero if you wish to speak to the operator.",
+      "SENT_ZH":"如果你想和接线员通话，请拨零。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "telephonist",
+            "switchboard attendant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"operator [math/logic]",
+      "POS":"n. [C]",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "computing"
+      ],
+      "DEF_EN":"A symbol or function that indicates a mathematical or logical action to be performed on one or more operands (e.g., +, -, *, AND).",
+      "DEF_ZH":"运算符；操作符（表示数学或逻辑运算的符号或函数）。",
+      "SENT_EN":"In programming, the double equals sign (==) is the equality operator.",
+      "SENT_ZH":"在编程中，双等号（==）是相等运算符。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "operand",
+            "function",
+            "algorithm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a smooth operator",
+      "POS":"n. [C]",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"A clever, sophisticated, and often manipulative or cynical person who is skilled at dealing with situations and people to achieve their own ends.",
+      "DEF_ZH":"（俚语）圆滑世故的人；老练的行家；手腕高明者。",
+      "SENT_EN":"Don't trust him too much; he's a real operator when it comes to negotiation.",
+      "SENT_ZH":"别太相信他；在谈判方面，他是个手腕高明的行家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wheeler-dealer",
+            "manipulator",
+            "hustler"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across technical, business, and general contexts."
+}

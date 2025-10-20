@@ -1,0 +1,120 @@
+{
+  "WORD":"damage",
+  "IPA":"/ˈdæmɪdʒ/",
+  "CONJUGATES":"damages | damaging | damaged",
+  "ETYMOLOGY":"From Old French damage, derived from dam 'loss, harm,' from Latin damnum 'loss, harm, penalty.'",
+  "SINCE":"Late 13th Century (c. 1290)",
+  "MEANINGS":[
+    {
+      "PATTERN":"damage [to sth/sb]",
+      "POS":"nu",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Physical harm that impairs the value, usefulness, or normal function of something or someone.",
+      "DEF_ZH":"对某物的价值、功能或外观造成损害的身体伤害或损毁；伤害。",
+      "SENT_EN":"The fire caused severe structural damage to the historic building.",
+      "SENT_ZH":"这场火灾对这座历史建筑造成了严重的结构损坏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "harm",
+            "destruction",
+            "injury",
+            "impairment"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "repair",
+            "benefit",
+            "improvement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"damage [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To inflict physical, material, or psychological harm upon something or someone.",
+      "DEF_ZH":"对某物或某人造成身体上、物质上或心理上的损害。",
+      "SENT_EN":"A rusty pipe damaged the priceless antique rug.",
+      "SENT_ZH":"一根生锈的管道损坏了那块无价的古董地毯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ruin",
+            "impair",
+            "wreck",
+            "injure"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fix",
+            "mend",
+            "restore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"damage [to reputation/career]",
+      "POS":"nu",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"Detrimental effect or negative impact on reputation, standing, or mental well-being.",
+      "DEF_ZH":"对声誉、地位或精神健康造成的不利影响或负面效应。",
+      "SENT_EN":"The leaked emails did significant damage to the CEO’s credibility.",
+      "SENT_ZH":"泄露的电子邮件对首席执行官的信誉造成了重大损害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "detriment",
+            "blow",
+            "harm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"damages",
+      "POS":"np",
+      "POS_TIP":"noun (plural)",
+      "TAGS":[
+        "legal",
+        "specific"
+      ],
+      "DEF_EN":"Money awarded by a court to a person as compensation for loss or injury (always used in the plural in this sense).",
+      "DEF_ZH":"(法律) 法院判给受损方作为损失或伤害补偿的款项（在此义中总是用复数）。",
+      "SENT_EN":"The jury awarded the victims millions of dollars in punitive damages.",
+      "SENT_ZH":"陪审团裁定支付数百万美元的惩罚性赔偿金给受害者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compensation",
+            "restitution",
+            "settlement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Legal"
+}

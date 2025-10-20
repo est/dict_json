@@ -1,0 +1,157 @@
+{
+  "WORD":"sign",
+  "IPA":"/saɪn/",
+  "CONJUGATES":"signs | signing | signed",
+  "ETYMOLOGY":"From Old French *signe*, from Latin *signum* (mark, token, proof, standard, military standard).",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a sign [for sth]\na sign [of sth]",
+      "POS":"n. (countable)",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "visual cue"
+      ],
+      "DEF_EN":"A publicly displayed notice, symbol, or piece of writing used to give information, warning, or direction.",
+      "DEF_ZH":"公开展示的告示、符号或文字，用于提供信息、警告或指导。",
+      "SENT_EN":"We followed the signposts to find the museum.",
+      "SENT_ZH":"我们跟着路标找到了博物馆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notice",
+            "poster",
+            "placard",
+            "marker"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "billboard",
+            "signal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sign [of sth]",
+      "POS":"n. (countable)",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "indication"
+      ],
+      "DEF_EN":"An indication, gesture, or event that suggests the existence, quality, or presence of something else.",
+      "DEF_ZH":"暗示其他事物存在、性质或出现的指示、姿态或事件。",
+      "SENT_EN":"There were no signs of forced entry, suggesting the thief had a key.",
+      "SENT_ZH":"没有强行进入的迹象，表明小偷有钥匙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indication",
+            "evidence",
+            "token",
+            "omen"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "symptom",
+            "proof"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sign [a document]\nsign [for sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "legal",
+        "official"
+      ],
+      "DEF_EN":"To write one's name on a document or letter to give authorization, commitment, or authentication.",
+      "DEF_ZH":"在文件或信件上写下自己的名字以进行授权、承诺或认证。",
+      "SENT_EN":"Please read the waiver carefully before you sign it.",
+      "SENT_ZH":"请在签署前仔细阅读弃权书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endorse",
+            "autograph",
+            "authorize",
+            "execute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sign [to sb]\nsign [sth]",
+      "POS":"vi | vtr",
+      "POS_TIP":"Intransitive or Transitive Verb",
+      "TAGS":[
+        "communication"
+      ],
+      "DEF_EN":"To communicate information or instructions by means of gestures, especially through sign language.",
+      "DEF_ZH":"通过手势，特别是手语，传达信息或指示。",
+      "SENT_EN":"She signed a message to the children across the crowded room.",
+      "SENT_ZH":"她通过手势向拥挤房间里的孩子们传达了一个信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gesture",
+            "signal",
+            "motion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sign language",
+            "ASL"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mathematical sign\nan astrological sign",
+      "POS":"n. (countable)",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "astrology"
+      ],
+      "DEF_EN":"A conventional character or symbol used in mathematics or music, or one of the twelve divisions of the zodiac.",
+      "DEF_ZH":"在数学或音乐中使用的常规符号或字符，或黄道带的十二个分部之一。",
+      "SENT_EN":"The negative sign (–) means the value is below zero.",
+      "SENT_ZH":"负号 (–) 意味着该值小于零。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "symbol",
+            "character",
+            "cipher"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "zodiac",
+            "constellation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, applicable in formal (legal/official) and informal contexts."
+}

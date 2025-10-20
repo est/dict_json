@@ -1,0 +1,99 @@
+{
+  "WORD":"conjunction",
+  "IPA":"/kənˈdʒʌŋkʃən/",
+  "CONJUGATES":"conjunctions (pl.)",
+  "ETYMOLOGY":"From Latin conjunctio, from conjungere (con- 'together' + jungere 'to join'), meaning 'a joining together'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[N-COUNT] [GRAMMAR]",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "grammar term"
+      ],
+      "DEF_EN":"A word used to connect clauses or sentences or to coordinate words in the same clause (e.g., 'and', 'but', 'or').",
+      "DEF_ZH":"连接子句、句子或在同一子句中协调词语的词（例如 'and', 'but', 'or'）。",
+      "SENT_EN":"The word 'because' is a subordinating conjunction.",
+      "SENT_ZH":"“because”这个词是一个从属连词。",
+      "RELATED":[
+        {
+          "T":"types",
+          "V":[
+            "coordinator",
+            "subordinator",
+            "correlative conjunction"
+          ]
+        },
+        {
+          "T":"examples",
+          "V":[
+            "and",
+            "but",
+            "or",
+            "nor",
+            "for",
+            "yet",
+            "so"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[N-UNCOUNT] [N-COUNT]",
+      "POS":"noun",
+      "POS_TIP":"Uncountable or countable noun",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The action or an instance of two or more events or things happening at the same time or being combined or joined together.",
+      "DEF_ZH":"两个或多个事件或事物同时发生、结合或连接的动作或实例；结合；联合。",
+      "SENT_EN":"The project was the result of a happy conjunction of talent and opportunity.",
+      "SENT_ZH":"该项目是才能和机遇愉快结合的成果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combination",
+            "union",
+            "convergence",
+            "coincidence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separation",
+            "disjunction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[N-COUNT] [ASTRONOMY]",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "technical",
+        "astronomy"
+      ],
+      "DEF_EN":"An astronomical alignment of two celestial bodies (such as planets or moons) as viewed from the Earth, often appearing close together.",
+      "DEF_ZH":"从地球上看，两个天体（如行星或月亮）在一条线上对齐的天文现象，通常看起来非常接近。",
+      "SENT_EN":"We observed a rare conjunction of Jupiter and Saturn last year.",
+      "SENT_ZH":"我们去年观察到了木星和土星的一次罕见的合相。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "opposition",
+            "syzygy",
+            "transit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used across general, academic, and technical language."
+}

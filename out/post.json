@@ -1,0 +1,157 @@
+{
+  "WORD":"post",
+  "IPA":"/poʊst/",
+  "CONJUGATES":"posts | posting | posted",
+  "ETYMOLOGY":"Complex. 1. (Stake/Pillar) From Latin postis (doorpost, pillar). 2. (Mail/Position) From Old French poste (station, messenger), ultimately from Latin posita (placed, put), referring to relay stations for riders and horses.",
+  "SINCE":"c. 1200 (for pillar); c. 1500 (for mail/position)",
+  "MEANINGS":[
+    {
+      "PATTERN":"post [sth] [on sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb (takes direct object) | prep: preposition",
+      "TAGS":[
+        "core word",
+        "digital",
+        "common"
+      ],
+      "DEF_EN":"To publish or upload a message, photograph, or piece of data on a public digital forum or social media platform.",
+      "DEF_ZH":"（在网上）发布；张贴；上传。",
+      "SENT_EN":"He posted a status update about his trip on Facebook.",
+      "SENT_ZH":"他在 Facebook 上发布了一条关于他旅行的状态更新。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "publish",
+            "share",
+            "upload"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tweet",
+            "blog"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] post\n[the] posts (plural)",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "concrete",
+        "common"
+      ],
+      "DEF_EN":"A vertical wooden, metal, or concrete pole or pillar fixed in the ground, often used to support a fence, sign, or structure.",
+      "DEF_ZH":"柱子；杆子；桩；立柱。",
+      "SENT_EN":"The corner post of the building was damaged by the storm.",
+      "SENT_ZH":"建筑物的角柱在风暴中受损了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pole",
+            "pillar",
+            "column",
+            "stake"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] post\n[a] managerial post",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"A job or official position, especially within a governmental organization, public service, or large company.",
+      "DEF_ZH":"职位；岗位；差事。",
+      "SENT_EN":"She was offered a senior administrative post at the university.",
+      "SENT_ZH":"她获得了大学里的一个高级行政职位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "position",
+            "job",
+            "office"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] post\nsend by post",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "common",
+        "UK English",
+        "archaic in US"
+      ],
+      "DEF_EN":"The system or service that delivers letters and packages; mail.",
+      "DEF_ZH":"邮政（系统）；邮件。",
+      "SENT_EN":"The package was sent through the post yesterday and should arrive soon.",
+      "SENT_ZH":"包裹昨天已通过邮政寄出，应该很快就会到达。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mail",
+            "postal service"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"post [sth] [to sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes direct object)",
+      "TAGS":[
+        "UK English",
+        "common"
+      ],
+      "DEF_EN":"To send an item or document via the postal service.",
+      "DEF_ZH":"邮寄；投寄。",
+      "SENT_EN":"Did you remember to post the application forms today?",
+      "SENT_ZH":"你记得今天把申请表寄出去吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mail",
+            "send"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"post [sb] [to a location]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes direct object)",
+      "TAGS":[
+        "formal",
+        "military"
+      ],
+      "DEF_EN":"To assign a person (especially a soldier or diplomat) to a specific duty station or location.",
+      "DEF_ZH":"派驻；部署（某人到特定岗位或地点）。",
+      "SENT_EN":"The captain was posted to a new base in Germany.",
+      "SENT_ZH":"这位上尉被派驻到德国的一个新基地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "station",
+            "deploy",
+            "assign"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, ranging from technical (digital) to formal (employment/military)."
+}

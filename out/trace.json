@@ -1,0 +1,110 @@
+{
+  "WORD":"trace",
+  "IPA":"/treɪs/",
+  "CONJUGATES":"traces | tracing | traced",
+  "ETYMOLOGY":"From Middle English tracen, via Old French tracier 'to follow, delineate', from Vulgar Latin *tractiare, based on Latin tractus, past participle of trahere 'to drag, pull'",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"trace [sb]\ntrace [sth] [to sth/sb]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"vtr: transitive verb (requires direct object) | vintr: intransitive verb | nc: countable noun | nu: uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To follow the track or trail of someone or something to find them or discover their origin or history.",
+      "DEF_ZH":"追踪；追溯；查出（某人或某物的行踪、起源或历史）。",
+      "SENT_EN":"Police are trying to trace the vehicle involved in the accident.",
+      "SENT_ZH":"警方正试图追查涉及此次事故的车辆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "track",
+            "follow",
+            "discover",
+            "deduce"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tracing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trace [sth] [onto sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires direct object)",
+      "TAGS":[
+        "art",
+        "common"
+      ],
+      "DEF_EN":"To copy a drawing, map, or pattern by drawing over its lines, usually through transparent paper.",
+      "DEF_ZH":"描摹；临摹（通过透明纸复制图画）。",
+      "SENT_EN":"The child carefully traced the outlines of the butterfly.",
+      "SENT_ZH":"那个孩子小心翼翼地描摹着蝴蝶的轮廓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outline",
+            "copy",
+            "delineate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trace [of sth]\ntraces",
+      "POS":"nc | nu",
+      "POS_TIP":"nc: countable noun | nu: uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A mark, sign, or evidence of the existence or passing of something or someone.",
+      "DEF_ZH":"痕迹；踪迹；遗迹。",
+      "SENT_EN":"There was no trace of forced entry at the scene.",
+      "SENT_ZH":"现场没有发现强行进入的痕迹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mark",
+            "sign",
+            "vestige",
+            "remnant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trace [of sth]",
+      "POS":"nu",
+      "POS_TIP":"nu: uncountable noun",
+      "TAGS":[
+        "science",
+        "technical"
+      ],
+      "DEF_EN":"A very small, usually barely detectable, amount of a substance.",
+      "DEF_ZH":"微量；极少量。",
+      "SENT_EN":"The sample contained only a trace of arsenic.",
+      "SENT_ZH":"样本中仅含有微量的砷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hint",
+            "smidgen",
+            "modicum"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

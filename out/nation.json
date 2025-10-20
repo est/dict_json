@@ -1,0 +1,79 @@
+{
+  "WORD":"nation",
+  "IPA":"/ˈneɪʃən/",
+  "CONJUGATES":"nations",
+  "ETYMOLOGY":"From Old French nacion, from Latin nātiō (stem nātiōn-) 'birth, origin, breed, race, stock, kind, species, people, tribe', from nātus, past participle of nāscī 'to be born'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a nation",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory.",
+      "DEF_ZH":"由于共同的血统、历史、文化或语言而团结在一起，居住在特定国家或领土内的一大群人。",
+      "SENT_EN":"The nation celebrated its independence day with a grand parade.",
+      "SENT_ZH":"这个国家以盛大的游行庆祝了它的独立日。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "country",
+            "state",
+            "commonwealth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the nation",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The territory or geographic area occupied by such a body of people.",
+      "DEF_ZH":"由这样一群人居住的领土或地理区域。",
+      "SENT_EN":"He traveled across the entire nation, from east to west.",
+      "SENT_ZH":"他穿越了整个国家，从东到西。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "country",
+            "land",
+            "territory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a nation of [people]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "less common",
+        "historical",
+        "sociology"
+      ],
+      "DEF_EN":"A community or race of people, especially forming a distinct ethnic group, regardless of political boundaries.",
+      "DEF_ZH":"一个社群或种族的人，尤其指形成独特民族群体的人，无论政治边界如何。",
+      "SENT_EN":"Many indigenous nations are fighting to preserve their ancestral lands and traditions.",
+      "SENT_ZH":"许多原住民族正在为保护他们的祖传土地和传统而奋斗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tribe",
+            "people",
+            "ethnic group"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Formal"
+}

@@ -1,0 +1,111 @@
+{
+  "WORD":"execute",
+  "IPA":"/'ɛksɪkjuːt/",
+  "CONJUGATES":"executes | executing | executed",
+  "ETYMOLOGY":"From Middle English executen, from Old French executer, from Medieval Latin executare, variant of Latin exsequi ('follow out, carry out'), from ex- ('out, thoroughly') + sequi ('follow').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"execute [sth] (a plan/order/command)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "business",
+        "computing"
+      ],
+      "DEF_EN":"To put a plan, order, or course of action into effect; to perform or carry out.",
+      "DEF_ZH":"执行；实施；履行（计划、命令、职责等）。",
+      "SENT_EN":"The program can execute hundreds of instructions per second.",
+      "SENT_ZH":"该程序每秒可以执行数百条指令。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "implement",
+            "perform",
+            "carry out",
+            "accomplish"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fail",
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"execute [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal",
+        "serious"
+      ],
+      "DEF_EN":"To kill someone as a legal punishment (capital punishment).",
+      "DEF_ZH":"处决；执行死刑。",
+      "SENT_EN":"He was executed for high treason.",
+      "SENT_ZH":"他因叛国罪被处决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "put to death",
+            "kill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"execute [sth] (a piece/a move)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "descriptive",
+        "skillful"
+      ],
+      "DEF_EN":"To perform a skillful or complicated action or movement perfectly.",
+      "DEF_ZH":"成功地完成（技能或复杂动作）；表演。",
+      "SENT_EN":"The dancer executed a flawless pirouette.",
+      "SENT_ZH":"这位舞者完成了一个无可挑剔的旋转。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perform",
+            "master"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"execute [sth] (a will/contract)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To complete all necessary legal steps to make a document (such as a will or contract) legally valid, often by signing.",
+      "DEF_ZH":"（依法）签订（文件）；使（遗嘱等）生效。",
+      "SENT_EN":"The parties met to execute the final contract.",
+      "SENT_ZH":"各方会面以签署最终合同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "validate",
+            "sign",
+            "formalize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally in business, military, legal, and computing contexts."
+}

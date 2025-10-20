@@ -1,0 +1,87 @@
+{
+  "WORD":"valley",
+  "IPA":"/ˈvæli/",
+  "CONJUGATES":"valleys (plural)",
+  "ETYMOLOGY":"From Old French valee (Modern French vallée), from Latin vallis ('valley'). Replaced Old English dæl ('dale, valley').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A low area of land between hills or mountains, typically with a river or stream flowing through it.",
+      "DEF_ZH":"两山或两丘之间的低洼地带，通常有河流或溪流穿过。",
+      "SENT_EN":"The small village was nestled in a green valley between the two peaks.",
+      "SENT_ZH":"那个小村庄坐落在两座山峰之间的一片绿色山谷里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dale",
+            "glen",
+            "vale",
+            "hollow"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "canyon",
+            "gorge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The Valley [proper noun]",
+      "POS":"n",
+      "POS_TIP":"noun (often capitalized as a proper noun)",
+      "TAGS":[
+        "informal",
+        "US specific",
+        "toponym"
+      ],
+      "DEF_EN":"Used, often capitalized as 'The Valley', to refer to the San Fernando Valley near Los Angeles, California, or occasionally to Silicon Valley.",
+      "DEF_ZH":"（常大写为“The Valley”）特指美国加利福尼亚州洛杉矶附近的圣费尔南多谷，或有时指代硅谷。",
+      "SENT_EN":"She moved from the city to the Valley to escape the traffic and high rent.",
+      "SENT_ZH":"她从城市搬到了“山谷”（指圣费尔南多谷），以躲避交通和高昂的租金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Silicon Valley",
+            "San Fernando Valley"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"river valley [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geology",
+        "technical"
+      ],
+      "DEF_EN":"The whole drainage basin of a major river and its tributaries.",
+      "DEF_ZH":"指主要河流及其支流的整个流域盆地。",
+      "SENT_EN":"The Nile Valley has been a cradle of civilization for millennia.",
+      "SENT_ZH":"尼罗河流域在数千年来一直是文明的摇篮。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "basin",
+            "watershed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in geography and natural description contexts."
+}

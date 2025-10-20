@@ -1,0 +1,78 @@
+{
+  "WORD":"menu",
+  "IPA":"/ˈmɛnjuː/",
+  "CONJUGATES":"menus",
+  "ETYMOLOGY":"From French menu ('small, detailed list, bill of fare'), from Latin minūtus ('small, minute').",
+  "SINCE":"1837",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A list of dishes available in a restaurant, café, or other eating establishment.",
+      "DEF_ZH":"餐厅、咖啡馆或其他餐饮场所提供的菜肴清单。",
+      "SENT_EN":"The waiter handed us the dinner menu.",
+      "SENT_ZH":"服务员递给我们晚餐菜单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bill of fare",
+            "carte du jour",
+            "wine list"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] in computing",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "computing"
+      ],
+      "DEF_EN":"A list of options or commands displayed on a computer screen, from which a user can select.",
+      "DEF_ZH":"计算机屏幕上显示的一系列选项或命令，供用户选择。",
+      "SENT_EN":"Click on the File menu to save your work.",
+      "SENT_ZH":"点击“文件”菜单保存您的工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drop-down list",
+            "interface",
+            "toolbar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative"
+      ],
+      "DEF_EN":"A list of choices or options available generally.",
+      "DEF_ZH":"可供选择的一系列选择或选项（引申义）。",
+      "SENT_EN":"The university offers a wide menu of courses.",
+      "SENT_ZH":"这所大学提供广泛的课程选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "selection",
+            "range",
+            "assortment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

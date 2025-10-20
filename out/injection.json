@@ -1,0 +1,103 @@
+{
+  "WORD":"injection",
+  "IPA":"/ɪnˈdʒɛkʃən/",
+  "CONJUGATES":"injections",
+  "ETYMOLOGY":"From Middle English *inyeccioun*, from Latin *injectio* (accusative *injectionem*), from *injicere* ('to throw in'), formed from *in-* ('into') + *jacere* ('to throw').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"injection (of [sth] into [sb/sth])",
+      "POS":"n (countable/uncountable)",
+      "POS_TIP":"noun, usually countable when referring to the dose, uncountable when referring to the process",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"The act or process of forcing a liquid substance, especially a medicine or drug, into the body using a syringe and needle.",
+      "DEF_ZH":"通过注射器和针头将液体物质（尤其是药物）注入身体的行为或过程。",
+      "SENT_EN":"The doctor gave the patient an injection to reduce the inflammation.",
+      "SENT_ZH":"医生给病人打了一针注射剂以减轻炎症。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shot",
+            "jab"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "syringe",
+            "vaccine",
+            "dose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"injection (of [sth])",
+      "POS":"n (countable)",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "medical",
+        "substance"
+      ],
+      "DEF_EN":"A specific dose or liquid substance that is administered by being injected.",
+      "DEF_ZH":"被注射的特定剂量或液体物质。",
+      "SENT_EN":"She requires two insulin injections daily.",
+      "SENT_ZH":"她每天需要注射两次胰岛素。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"injection (of [sth] into [sth])",
+      "POS":"n (uncountable)",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "technical",
+        "engineering",
+        "physics"
+      ],
+      "DEF_EN":"The forcing of a liquid, gas, or material into a mechanical system, structure, or chamber.",
+      "DEF_ZH":"将液体、气体或材料强行注入机械系统、结构或腔室的过程（例如燃料喷射）。",
+      "SENT_EN":"The new engine features high-pressure direct fuel injection.",
+      "SENT_ZH":"这款新发动机的特点是高压燃油直喷系统。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "infusion",
+            "pumping",
+            "spray"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"injection (of [sth])",
+      "POS":"n (countable)",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "figurative",
+        "economics",
+        "business"
+      ],
+      "DEF_EN":"An addition of resources, typically money, needed to stimulate or support an organization, economy, or system.",
+      "DEF_ZH":"资源的增加，通常指为刺激或支持组织、经济或系统而投入的资金。",
+      "SENT_EN":"The government provided a major cash injection to the failing industry.",
+      "SENT_ZH":"政府为这个陷入困境的行业提供了大笔现金注入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "input",
+            "infusion",
+            "contribution"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

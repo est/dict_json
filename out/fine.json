@@ -1,0 +1,134 @@
+{
+  "WORD":"fine",
+  "IPA":"/faɪn/",
+  "CONJUGATES":"finer | finest | fines | fined | fining",
+  "ETYMOLOGY":"From Old French fin (finished, refined, excellent), ultimately from Latin fīnis ('end', often meaning 'limit' or 'settlement'). The meanings evolved separately: the quality meaning derives from 'finished/perfected', and the penalty meaning derives from 'final settlement/payment'.",
+  "SINCE":"c. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is fine\n[sb] is fine",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Excellent, satisfactory, or of high quality; also used to describe health or mood as acceptable or well.",
+      "DEF_ZH":"好的；健康的；令人满意的；质量高的。",
+      "SENT_EN":"The weather is fine today, and I'm feeling fine.",
+      "SENT_ZH":"今天天气很好，我感觉良好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excellent",
+            "satisfactory",
+            "splendid",
+            "well"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bad",
+            "poor",
+            "unwell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] fine",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "common"
+      ],
+      "DEF_EN":"Very thin, delicate, or small in texture or structure; composed of very minute particles.",
+      "DEF_ZH":"细的；精细的；颗粒微小的；纤细的。",
+      "SENT_EN":"The sculptor worked with fine tools to create the delicate details.",
+      "SENT_ZH":"雕塑家使用精细的工具来创作这些纤细的细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delicate",
+            "thin",
+            "minute",
+            "powdery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fine [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "finance"
+      ],
+      "DEF_EN":"A sum of money required to be paid as a penalty for an offense or infraction.",
+      "DEF_ZH":"罚款；罚金。",
+      "SENT_EN":"He paid a heavy fine for running the red light.",
+      "SENT_ZH":"他因为闯红灯而被处以巨额罚款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "penalty",
+            "forfeit",
+            "levy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fine [sb] (for [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"To impose a financial penalty on someone.",
+      "DEF_ZH":"对（某人）处以罚款。",
+      "SENT_EN":"The police fined the driver for improper parking.",
+      "SENT_ZH":"警察因停车不当而对司机处以罚款。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "penalize",
+            "charge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fine (adv)",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "informal",
+        "functional"
+      ],
+      "DEF_EN":"In a satisfactory or excellent manner; well. (Used often to modify a verb.)",
+      "DEF_ZH":"很好地；令人满意地。",
+      "SENT_EN":"The new equipment works fine now.",
+      "SENT_ZH":"新设备现在运转良好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "well",
+            "satisfactorily"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal, highly common across all registers."
+}

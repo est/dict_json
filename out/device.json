@@ -1,0 +1,85 @@
+{
+  "WORD":"device",
+  "IPA":"/dɪˈvaɪs/",
+  "CONJUGATES":"devices",
+  "ETYMOLOGY":"From Old French devis ('division', 'arrangement', 'plan'), past participle of deviser ('to divide', 'arrange'), ultimately from Latin dividere ('to divide'). The meaning shifted from 'plan' to 'something planned or constructed'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (technical apparatus)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"An apparatus, machine, or item of equipment made or adapted for a particular purpose.",
+      "DEF_ZH":"为特定目的制造或改造的仪器、机器或设备。",
+      "SENT_EN":"The doctor used a small electronic device to monitor the patient's heart rate.",
+      "SENT_ZH":"医生使用了一个小型电子设备来监测病人的心率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gadget",
+            "instrument",
+            "appliance",
+            "implement",
+            "contraption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (explosive)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "military",
+        "security",
+        "jargon"
+      ],
+      "DEF_EN":"A bomb or other explosive mechanism.",
+      "DEF_ZH":"炸弹或其他爆炸性装置（特指军事或安全语境）。",
+      "SENT_EN":"They found an improvised explosive device hidden under the bridge.",
+      "SENT_ZH":"他们在桥下发现了一个简易爆炸装置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bomb",
+            "IED",
+            "mine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (literary/rhetorical)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "literary",
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"A plan, scheme, or trick; especially a literary or artistic technique used to achieve a particular effect.",
+      "DEF_ZH":"一种计划、计策或技巧；特指为达到某种效果而使用的文学或艺术手法。",
+      "SENT_EN":"The use of unreliable narration is a fascinating literary device.",
+      "SENT_ZH":"不可靠叙事的运用是一种引人入胜的文学手法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scheme",
+            "tactic",
+            "ploy",
+            "contrivance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in technology, engineering, and everyday speech."
+}

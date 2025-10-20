@@ -1,0 +1,83 @@
+{
+  "WORD":"kitchen",
+  "IPA":"/ˈkɪtʃɪn/",
+  "CONJUGATES":"kitchens",
+  "ETYMOLOGY":"From Old English *cycene* or *cycine*, ultimately from Late Latin *coquina* (a cooking place), derived from Latin *coquere* 'to cook'.",
+  "SINCE":"c. 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"kitchen [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A room or area equipped for cooking and food preparation in a house, restaurant, or other establishment.",
+      "DEF_ZH":"房屋、餐厅或其他机构中配备用于烹饪和准备食物的房间或区域。",
+      "SENT_EN":"The family usually eats breakfast together in the kitchen.",
+      "SENT_ZH":"这家人通常在厨房里一起吃早餐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cookroom",
+            "galley"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "scullery",
+            "pantry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[style/type] kitchen [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "metonymy",
+        "common"
+      ],
+      "DEF_EN":"The style or type of cooking, especially when referring to a restaurant’s output or staff.",
+      "DEF_ZH":"（尤指餐厅的）烹饪风格或菜系；也可以指代餐厅的烹饪人员和设备。",
+      "SENT_EN":"She trained in classic French kitchen methods.",
+      "SENT_ZH":"她接受过经典的法式烹饪（厨房）方法的培训。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cuisine",
+            "fare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"kitchen [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "modifier",
+        "descriptive"
+      ],
+      "DEF_EN":"Relating to or used in a kitchen.",
+      "DEF_ZH":"与厨房有关的；用于厨房的。",
+      "SENT_EN":"We need to buy new kitchen towels.",
+      "SENT_ZH":"我们需要买新的厨房毛巾。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "culinary",
+            "domestic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use"
+}

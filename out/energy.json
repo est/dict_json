@@ -1,0 +1,112 @@
+{
+  "WORD":"energy",
+  "IPA":"/'enərdʒi/",
+  "CONJUGATES":"energies (pl.)",
+  "ETYMOLOGY":"From Greek energeia ('action, operation, vigor'), from energos ('active, working'), from en- ('in') + ergon ('work'). Adopted into English via Latin and French.",
+  "SINCE":"c. 1599",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] have [energy]\ngreat [energy]",
+      "POS":"Noun",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The strength and vitality required for sustained physical or mental activity; vigor or motivation.",
+      "DEF_ZH":"精力；活力；干劲；精神头。",
+      "SENT_EN":"After a good night's sleep, I felt full of energy.",
+      "SENT_ZH":"睡了个好觉之后，我感觉精力充沛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vigor",
+            "vitality",
+            "stamina",
+            "drive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fatigue",
+            "lethargy",
+            "lassitude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[energy] (in physics)\nconvert [energy]",
+      "POS":"Noun",
+      "POS_TIP":"uncountable noun, technical term",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"The quantitative property that must be transferred to an object in order to perform work on, or to heat, the object. It exists in various forms, such as kinetic, potential, thermal, or electrical.",
+      "DEF_ZH":"能量（物理学概念，是系统做功的能力，可转化为多种形式，如动能、热能）。",
+      "SENT_EN":"The experiment measures the amount of kinetic energy transferred upon impact.",
+      "SENT_ZH":"该实验测量撞击时转移的动能。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "power",
+            "force",
+            "joule",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[energy] source\nrenewable [energy]",
+      "POS":"Noun",
+      "POS_TIP":"uncountable or plural noun",
+      "TAGS":[
+        "resource",
+        "industry"
+      ],
+      "DEF_EN":"Resources such as fuel, electricity, or other sources used to provide power to homes, factories, or transport.",
+      "DEF_ZH":"能源；动力来源；资源（如燃料、电力或动力源）。",
+      "SENT_EN":"The country is heavily dependent on imported fossil energies.",
+      "SENT_ZH":"该国严重依赖进口的化石能源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fuel",
+            "power source",
+            "electricity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"good [energy]\nbad [energy]",
+      "POS":"Noun",
+      "POS_TIP":"uncountable noun, often subjective or spiritual use",
+      "TAGS":[
+        "spiritual",
+        "informal"
+      ],
+      "DEF_EN":"An intangible spiritual or emotional force or feeling perceived to emanate from a person or place.",
+      "DEF_ZH":"气场；氛围；（一种被感知的）精神或情感力量。",
+      "SENT_EN":"I don't like being around people who bring bad energy.",
+      "SENT_ZH":"我不喜欢和那些带来负面气场的人待在一起。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aura",
+            "vibe",
+            "emanation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across general, technical, and commercial contexts."
+}
