@@ -46,9 +46,16 @@ Do not wrap the JSON. Format is:
 }"""
 
 session  = requests.Session()
-for i, w in enumerate(whole, start=1):
-    if i < 1630: continue
-    r = session.post('https://def.est.im/.lookup', params={'q': w})
+i = 1
+while whole:
+    w, c = whole.popitem()
+    try:
+        r = session.post('https://def.est.im/.lookup', params={'q': w})
+        data: dict = r.json()
+    except:
+        time.sleep(1)
+        whole[w] = c
+        continue
     with open(f'out/{w}.json', 'w') as f:
         o = json.dumps(data, ensure_ascii=False, separators=',:', indent=2)
         b = f.write(o)
