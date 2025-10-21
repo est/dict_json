@@ -1,0 +1,88 @@
+{
+  "WORD":"attempt",
+  "IPA":"/əˈtɛmpt/",
+  "CONJUGATES":"attempts | attempted | attempting",
+  "ETYMOLOGY":"From Middle English attempten, from Old French atempter (to try, tempt), from Latin attemptare (to try, test, attack), formed from ad- (to, toward) + temptare (to handle, test, try).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"attempt [sth] | attempt to [do sth]",
+      "POS":"vtr | v + infinitive",
+      "POS_TIP":"transitive verb | verb followed by an infinitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make an effort or try to achieve something, often challenging or difficult.",
+      "DEF_ZH":"努力或尝试去做（通常是困难的）事情；试图。",
+      "SENT_EN":"They attempted to climb the mountain before the storm hit.",
+      "SENT_ZH":"在暴风雨来临前，他们试图爬上那座山。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "try",
+            "endeavor",
+            "seek",
+            "strive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "abandon",
+            "neglect",
+            "forgo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"attempt [crime]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To try to carry out a criminal act, often failing to complete it.",
+      "DEF_ZH":"试图实施犯罪（但未遂）。",
+      "SENT_EN":"He was arrested for attempting to steal the car.",
+      "SENT_ZH":"他因企图偷车而被捕。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "attempted murder",
+            "conspire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an attempt (at [doing sth] | to [do sth])",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act of trying to do something.",
+      "DEF_ZH":"一次尝试；一次努力。",
+      "SENT_EN":"This is their third attempt to secure funding for the project.",
+      "SENT_ZH":"这是他们第三次尝试为该项目争取资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "try",
+            "effort",
+            "endeavor",
+            "bid"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (general, academic, and legal usage)."
+}

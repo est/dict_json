@@ -1,0 +1,72 @@
+{
+  "WORD":"accuse",
+  "IPA":"/əˈkjuːz/",
+  "CONJUGATES":"accusing | accused | accuses",
+  "ETYMOLOGY":"From Old French acuser, from Latin accūsāre, equivalent to ad- (to) + causa (cause, lawsuit). Originally meant 'to call to account'.",
+  "SINCE":"Mid-13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"accuse [sb] of [sth] (crime/offense)",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb (requires a direct object); prep: preposition",
+      "TAGS":[
+        "Core Word",
+        "Legal"
+      ],
+      "DEF_EN":"To formally charge someone with having committed a crime or having done something illegal or wrong.",
+      "DEF_ZH":"正式指控（某人）犯有罪行或过错。",
+      "SENT_EN":"The prosecutor accused the former executive of fraud and embezzlement.",
+      "SENT_ZH":"检察官指控这位前高管犯有欺诈和贪污罪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charge",
+            "indict",
+            "impeach",
+            "allege"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "acquit",
+            "exonerate",
+            "clear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accuse [sb] of [sth] (fault/blame)",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb (requires a direct object); prep: preposition",
+      "TAGS":[
+        "Common",
+        "General"
+      ],
+      "DEF_EN":"To blame someone for a fault, failure, or negative quality, often involving criticism.",
+      "DEF_ZH":"归咎于；指摘；谴责（某人有某种缺陷或错误）。",
+      "SENT_EN":"She accused her colleague of being unprofessional and lazy.",
+      "SENT_ZH":"她指责她的同事不专业且懒惰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blame",
+            "censure",
+            "criticize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "praise",
+            "commend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often used in legal and formal contexts, but also common in everyday speech to express blame."
+}

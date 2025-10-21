@@ -1,0 +1,87 @@
+{
+  "WORD":"inequality",
+  "IPA":"/ˌɪnɪˈkwɑːləti/",
+  "CONJUGATES":"inequalities",
+  "ETYMOLOGY":"From Latin in- (not) + equalitas (equality), derived from aequalis (equal).",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[abstract noun]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "socio-economic"
+      ],
+      "DEF_EN":"The state of not being equal, especially in social status, rights, or economic opportunities.",
+      "DEF_ZH":"不平等的状态，尤其指在社会地位、权利或经济机会方面缺乏公平。",
+      "SENT_EN":"The widening gap between the rich and the poor highlights severe income inequality.",
+      "SENT_ZH":"贫富差距的扩大凸显了严重的收入不平等。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disparity",
+            "imbalance",
+            "injustice"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "equality",
+            "equity",
+            "parity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[countable noun]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"A mathematical statement or proposition that shows two values or expressions are not equal, often using symbols like <, >, ≤, or ≥.",
+      "DEF_ZH":"数学中表示两个数值或表达式不相等的陈述或命题，通常使用 <, >, ≤, 或 ≥ 等符号。",
+      "SENT_EN":"Students struggled to solve the complex system of linear inequalities.",
+      "SENT_ZH":"学生们努力解决这个复杂的线性不等式系统。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "equation",
+            "expression"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[uncountable noun]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"Lack of smoothness or uniformity; irregularity or unevenness of surface or texture.",
+      "DEF_ZH":"缺乏平滑性或统一性；表面或纹理的不规则或凹凸不平。",
+      "SENT_EN":"Due to the inequality of the terrain, crossing the field was difficult.",
+      "SENT_ZH":"由于地形的崎岖不平（不均匀），穿越这片田地很困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "irregularity",
+            "roughness",
+            "unevenness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal/Academic usage, especially in socio-economic and mathematical contexts."
+}

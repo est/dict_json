@@ -1,0 +1,68 @@
+{
+  "WORD":"addict",
+  "IPA":"/ˈædɪkt/",
+  "CONJUGATES":"addicts (n. pl.) | addicts (v. 3rd sg.) | addicting (v. pr. p.) | addicted (v. pt./p.p.)",
+  "ETYMOLOGY":"From Latin addictus, past participle of addicere ('to deliver, yield, devote, sentence'), formed from ad- ('to') + dicere ('to say, declare'). Originally meant 'to devote oneself to' (15th century); the modern sense of dependence emerged later, primarily in the 18th century.",
+  "SINCE":"c. 1400s (verb); c. 1700s (noun, modern sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] addict",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "clinical",
+        "informal"
+      ],
+      "DEF_EN":"A person who is physically or psychologically dependent on a particular substance (e.g., drugs, alcohol) or activity (e.g., gambling, gaming, shopping).",
+      "DEF_ZH":"对某种物质（如毒品、酒精）或活动（如赌博、游戏）有生理或心理依赖的人；瘾君子；迷恋者。",
+      "SENT_EN":"The clinic offers support groups for recovering drug addicts.",
+      "SENT_ZH":"这家诊所为康复中的吸毒成瘾者提供支持小组。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dependent",
+            "devotee",
+            "fiend",
+            "junkie"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "addiction",
+            "habitual user",
+            "compulsive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"addict [sb] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (often used in the passive form 'be addicted to')",
+      "TAGS":[
+        "common",
+        "formal",
+        "usually passive"
+      ],
+      "DEF_EN":"To cause someone to become physiologically or psychologically dependent on something.",
+      "DEF_ZH":"使（某人）对某事物产生依赖或上瘾。",
+      "SENT_EN":"The pharmaceutical company was accused of addicting patients to its powerful painkillers.",
+      "SENT_ZH":"这家制药公司被指控使患者对其强效止痛药上瘾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "habituate",
+            "enslave",
+            "devote"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, commonly used in medical and informal contexts."
+}

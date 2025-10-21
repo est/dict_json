@@ -1,0 +1,118 @@
+{
+  "WORD":"ward",
+  "IPA":"/wɔːrd/",
+  "CONJUGATES":"wards | warding | warded",
+  "ETYMOLOGY":"From Old English weard ('guard, watchman, protection'), related to Old High German wart ('guardian'), ultimately from Proto-Germanic *warduz.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] ward",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "architecture"
+      ],
+      "DEF_EN":"A room or section in a hospital, prison, or other institution where people are accommodated, especially patients or prisoners.",
+      "DEF_ZH":"医院、监狱或其他机构中用于容纳人们的房间或区域，尤指病房或牢房。",
+      "SENT_EN":"The patient was moved to the intensive care ward immediately.",
+      "SENT_ZH":"病人立刻被转移到了重症监护病房。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sickbay",
+            "infirmary",
+            "cell block"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ward [of court/state]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "social"
+      ],
+      "DEF_EN":"A minor or incapacitated person placed under the care and legal protection of a guardian or court.",
+      "DEF_ZH":"受监护人；由法院或监护人照管的未成年人或无行为能力人。",
+      "SENT_EN":"After her parents' death, the child became a ward of the state.",
+      "SENT_ZH":"父母去世后，这名儿童成了国家的受监护人。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "custody",
+            "dependant",
+            "minor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ward [sth] [off]",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb (phrasal verb)",
+      "TAGS":[
+        "common",
+        "phrasal"
+      ],
+      "DEF_EN":"To defend against or deflect (danger, attack, or illness); to turn aside.",
+      "DEF_ZH":"避开；挡住；抵御（危险、攻击、疾病或厄运）。",
+      "SENT_EN":"She wore an amulet to ward off evil spirits.",
+      "SENT_ZH":"她佩戴着护身符来抵御邪灵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repel",
+            "deflect",
+            "avert",
+            "fend off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] ward",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "political",
+        "administrative"
+      ],
+      "DEF_EN":"An administrative or electoral division of a city or borough.",
+      "DEF_ZH":"市或行政区的行政区划或选举区（区）。",
+      "SENT_EN":"The new boundary lines affected three wards in the city center.",
+      "SENT_ZH":"新的边界线影响了市中心三个行政区。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "district",
+            "precinct",
+            "borough"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] ward",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "mechanical"
+      ],
+      "DEF_EN":"A projection or obstruction in a lock that requires a corresponding notch or opening in the key to allow it to turn.",
+      "DEF_ZH":"锁中用于阻挡非专用钥匙的凸出物或障碍物。",
+      "SENT_EN":"The complex warding of the safe made it very difficult to pick.",
+      "SENT_ZH":"保险柜复杂的锁芯结构使其很难被撬开。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, common in administrative, legal, and medical contexts."
+}

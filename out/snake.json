@@ -1,0 +1,110 @@
+{
+  "WORD":"snake",
+  "IPA":"/sneɪk/",
+  "CONJUGATES":"snakes | snaking | snaked",
+  "ETYMOLOGY":"From Old English snaca, from Proto-Germanic *snak- (related to Old Norse snákr, Old High German snahhan 'to crawl'). Ultimately from Proto-Indo-European *sneg- 'to crawl, creep'.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a snake",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A legless, elongated, scaly reptile of the suborder Ophidia, many species of which are venomous.",
+      "DEF_ZH":"一种无腿、细长、身上有鳞的爬行动物，属于蛇亚目，其中许多物种有毒。",
+      "SENT_EN":"The hiker spotted a large green snake slithering through the grass.",
+      "SENT_ZH":"徒步旅行者看到一条大绿蛇在草丛中蠕动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "serpent"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reptile",
+            "Ophidia",
+            "viper",
+            "python"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"snake [along/through/around sth] | snake [sth] (e.g., a path)",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To move or extend with a winding or twisting course, like a snake.",
+      "DEF_ZH":"像蛇一样蜿蜒或扭曲地移动或延伸。",
+      "SENT_EN":"The river snakes through the valley for miles.",
+      "SENT_ZH":"这条河蜿蜒数英里穿过山谷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wind",
+            "twist",
+            "meander"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"snake [a drain/pipe]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specific usage",
+        "technical"
+      ],
+      "DEF_EN":"To clear a clogged pipe or drain using a long, flexible tool that can be pushed through it.",
+      "DEF_ZH":"使用一种可以穿过管道的长而灵活的工具来疏通堵塞的管道或下水道。",
+      "SENT_EN":"The plumber had to snake the drain to remove the blockage.",
+      "SENT_ZH":"水管工不得不使用疏通器来疏通下水道以清除堵塞物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "plumbing snake",
+            "auger",
+            "plunger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a snake (referring to a person)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "derogatory",
+        "figurative"
+      ],
+      "DEF_EN":"A treacherous or deceitful person, especially one who pretends to be a friend.",
+      "DEF_ZH":"一个阴险或欺骗性的人，尤其是假装是朋友的人。",
+      "SENT_EN":"He acted like a friend, but he turned out to be a real snake.",
+      "SENT_ZH":"他表现得像个朋友，但结果却是个真正的两面派。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "traitor",
+            "deceiver",
+            "betrayer",
+            "viper"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

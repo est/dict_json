@@ -1,0 +1,94 @@
+{
+  "WORD":"saint",
+  "IPA":"/seɪnt/",
+  "CONJUGATES":"noun: saint | saints || verb: saint | saints | sainting | sainted",
+  "ETYMOLOGY":"From Old French seint, from Latin sanctus 'holy, consecrated', past participle of sancire 'to consecrate'.",
+  "SINCE":"c. 1200 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] saint",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "religious"
+      ],
+      "DEF_EN":"A person officially recognized and honored by the Christian Church for exceptional holiness or virtue.",
+      "DEF_ZH":"被基督教教会正式认可并尊崇的，具有非凡圣洁或美德的人。",
+      "SENT_EN":"Saint Peter is considered one of the most important figures in Christianity.",
+      "SENT_ZH":"圣彼得被认为是基督教中最重要的M人物之一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "holy person",
+            "blessed"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "martyr",
+            "canonization",
+            "relic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] saint [person]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative",
+        "informal"
+      ],
+      "DEF_EN":"An extremely good, kind, or patient person, especially in a way that suggests superhuman virtue.",
+      "DEF_ZH":"一个非常好、善良或有耐心的人，尤其指那些表现出超凡美德的人。",
+      "SENT_EN":"My mother is a saint for putting up with all my siblings and me.",
+      "SENT_ZH":"我妈妈简直是位圣人，竟然能忍受我和我所有的兄弟姐妹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "angel",
+            "paragon",
+            "goody-goody"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "devil",
+            "monster",
+            "fiend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"saint [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "religious",
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To officially declare a deceased person to be a saint; to canonize.",
+      "DEF_ZH":"正式宣布一位已故者为圣徒；封圣。",
+      "SENT_EN":"The Pope decided to saint the venerable nun after proof of her miracles.",
+      "SENT_ZH":"在她的奇迹得到证实后，教皇决定为这位可敬的修女封圣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "canonize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"religious, informal, formal"
+}

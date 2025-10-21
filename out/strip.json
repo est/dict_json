@@ -1,0 +1,178 @@
+{
+  "WORD":"strip",
+  "IPA":"/strɪp/",
+  "CONJUGATES":"strips | stripping | stripped",
+  "ETYMOLOGY":"From Middle English strippen, from Old English stryppan or bestryppan 'to plunder, strip, despoil, ravage, rob, take by violence'. Possibly related to Middle Dutch strippen 'to pull off, strip'.",
+  "SINCE":"Before 12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"strip [sb/sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr (transitive verb) takes a direct object; vi (intransitive verb) does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To remove all or most of one's clothing or the clothing of someone else.",
+      "DEF_ZH":"脱去（衣服）；剥光",
+      "SENT_EN":"The children stripped off their clothes and ran into the sea.",
+      "SENT_ZH":"孩子们脱掉衣服跑进了海里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "undress",
+            "disrobe",
+            "divest"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dress",
+            "clothe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strip [sth] from [sth] | strip [sth] of [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb) takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To remove a covering, layer, or substance from something.",
+      "DEF_ZH":"剥去；除去（表层、覆盖物）",
+      "SENT_EN":"They stripped the old wallpaper from the walls.",
+      "SENT_ZH":"他们剥去了墙上的旧墙纸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peel",
+            "flay",
+            "denude"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "uncover",
+            "expose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strip [sb/sth] of [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb) takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To deprive someone of a rank, title, property, or right.",
+      "DEF_ZH":"剥夺；免去（头衔、权利、财产等）",
+      "SENT_EN":"The government threatened to strip the company of its license.",
+      "SENT_ZH":"政府威胁要吊销这家公司的执照。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deprive",
+            "divest",
+            "dispossess"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bestow",
+            "grant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a strip of [sth]",
+      "POS":"n",
+      "POS_TIP":"n (noun) is a word that names something.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A long, narrow piece of something.",
+      "DEF_ZH":"长条；细长片",
+      "SENT_EN":"She tore a strip of cloth to bind the wound.",
+      "SENT_ZH":"她撕下一条布来包扎伤口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "band",
+            "ribbon",
+            "sliver",
+            "stripe"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "segment",
+            "section"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a comic strip | a strip cartoon",
+      "POS":"n",
+      "POS_TIP":"n (noun) is a word that names something.",
+      "TAGS":[
+        "common",
+        "specific usage"
+      ],
+      "DEF_EN":"A sequence of drawings, typically in a newspaper or magazine, that tells a story or part of a story, usually a humorous one.",
+      "DEF_ZH":"连环漫画；报纸连载漫画",
+      "SENT_EN":"I always read the comic strip section first in the Sunday paper.",
+      "SENT_ZH":"我星期天的报纸总是先看连环漫画部分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cartoon",
+            "graphic novel",
+            "manga"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strip a screw / strip a gear",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb) takes a direct object.",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"To damage the thread of a screw or bolt, or the teeth of a gear, by turning it too forcefully, causing it to lose its grip.",
+      "DEF_ZH":"（因用力过猛而）损坏（螺纹、齿轮）",
+      "SENT_EN":"Be careful not to strip the screws when assembling the furniture.",
+      "SENT_ZH":"组装家具时，要小心不要拧滑丝螺丝。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "damage",
+            "wear out",
+            "malfunction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

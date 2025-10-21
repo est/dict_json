@@ -1,0 +1,75 @@
+{
+  "WORD":"assistance",
+  "IPA":"/əˈsɪstəns/",
+  "CONJUGATES":"assistances (rare plural, refers to specific acts of help)",
+  "ETYMOLOGY":"From Old French *assistence*, from Medieval Latin *assistentia*, ultimately from Latin *assistere* ('to stand by, take a position near, help').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"assistance [to sb/sth] | assistance [in doing sth]",
+      "POS":"n",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The act of helping or supporting someone, or the help that is provided.",
+      "DEF_ZH":"帮助；援助；支持；助力。",
+      "SENT_EN":"We are seeking technical assistance to solve this complex engineering problem.",
+      "SENT_ZH":"我们正在寻求技术援助来解决这个复杂的工程问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "help",
+            "aid",
+            "support",
+            "collaboration",
+            "succor"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hindrance",
+            "obstruction",
+            "resistance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "assist",
+            "assistant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"financial/medical/humanitarian assistance",
+      "POS":"n",
+      "POS_TIP":"Uncountable Noun (often formalized)",
+      "TAGS":[
+        "formal",
+        "official",
+        "government"
+      ],
+      "DEF_EN":"Specific, organized help or resources provided, often officially by a government, charity, or major institution.",
+      "DEF_ZH":"（官方或制度化的）援助；救济；拨款。",
+      "SENT_EN":"The organization provided substantial humanitarian assistance to the affected region after the flood.",
+      "SENT_ZH":"洪水过后，该组织向受灾地区提供了大量人道主义援助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relief",
+            "subsidy",
+            "funding"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Formal"
+}

@@ -1,0 +1,74 @@
+{
+  "WORD":"approve",
+  "IPA":"/əˈpruːv/",
+  "CONJUGATES":"approves | approved | approving",
+  "ETYMOLOGY":"From Middle English *approven*, from Old French *aprover*, from Latin *approbare* (ad- 'to' + *probare* 'to test, to prove good').",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"approve [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "administrative"
+      ],
+      "DEF_EN":"To officially agree to or consent to (a plan, proposal, or request); to sanction.",
+      "DEF_ZH":"正式批准；核准；同意（计划、提议或请求）。",
+      "SENT_EN":"The city council voted to approve the budget increase for public transport.",
+      "SENT_ZH":"市议会投票批准了公共交通的预算增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "authorize",
+            "sanction",
+            "endorse",
+            "ratify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reject",
+            "veto",
+            "disapprove"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"approve of [sb/sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "general usage"
+      ],
+      "DEF_EN":"To think favorably of; to regard as acceptable, good, or morally sound.",
+      "DEF_ZH":"赞成；对...表示满意；认为...好（常指道德或社会认可）。",
+      "SENT_EN":"I wholeheartedly approve of your decision to further your education.",
+      "SENT_ZH":"我完全赞成你继续深造的决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "favor",
+            "like",
+            "admire"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dislike",
+            "condemn",
+            "criticize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

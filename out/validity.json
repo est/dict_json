@@ -1,0 +1,76 @@
+{
+  "WORD":"validity",
+  "IPA":"/vəˈlɪdɪti/",
+  "CONJUGATES":"None",
+  "ETYMOLOGY":"From Old French validité, from Medieval Latin validitas, from Latin validus ('strong, powerful'), from valere ('to be strong').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"the validity of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"The quality of being logically or factually sound; the state of being legally or officially acceptable or effective.",
+      "DEF_ZH":"（逻辑、事实或法律上的）正确性；有效性；正当性",
+      "SENT_EN":"They questioned the validity of the evidence presented in court.",
+      "SENT_ZH":"他们质疑了法庭上提供的证据的有效性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "soundness",
+            "cogency",
+            "legitimacy",
+            "legality",
+            "correctness"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "invalidity",
+            "illegality",
+            "fallacy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "valid",
+            "validate",
+            "validation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[concept/test] validity",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "specialized",
+        "academic",
+        "research",
+        "psychology"
+      ],
+      "DEF_EN":"The extent to which a concept, conclusion or measurement is well-founded and likely true, especially in research or psychometrics, the degree to which a test measures what it claims to measure.",
+      "DEF_ZH":"（研究、测验等）效度；有效度（指研究或测验测量其声称要测量内容的准确程度）",
+      "SENT_EN":"The experiment's design ensured high internal validity, but external validity was a concern.",
+      "SENT_ZH":"实验设计确保了高内部效度，但外部效度是一个问题。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "construct validity",
+            "content validity",
+            "criterion validity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and academic"
+}

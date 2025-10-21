@@ -1,0 +1,113 @@
+{
+  "WORD":"notice",
+  "IPA":"/ˈnəʊtɪs/",
+  "CONJUGATES":"notices | noticing | noticed",
+  "ETYMOLOGY":"From Old French 'notice' (knowledge, information, notification), from Latin 'notitia' (knowledge, acquaintance, fame), from 'notus' (known), past participle of 'noscere' (to know).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"notice [sth] | notice [sb] | notice [that clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To become aware of something or someone by seeing, hearing, or feeling it.",
+      "DEF_ZH":"注意到；察觉到；意识到",
+      "SENT_EN":"I didn't notice you come in.",
+      "SENT_ZH":"我没有注意到你进来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "observe",
+            "perceive",
+            "spot",
+            "discern"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "overlook",
+            "ignore",
+            "miss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(take) notice (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The attention or observation of someone.",
+      "DEF_ZH":"注意；察觉",
+      "SENT_EN":"He tried to attract her notice but she seemed preoccupied.",
+      "SENT_ZH":"他试图引起她的注意，但她似乎心事重重。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attention",
+            "awareness",
+            "heed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a notice",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A formal announcement, sign, or warning displayed publicly, or a brief written statement.",
+      "DEF_ZH":"布告；通知；告示",
+      "SENT_EN":"Please read the notice on the bulletin board regarding the upcoming event.",
+      "SENT_ZH":"请阅读公告栏上关于即将举行的活动的通知。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "announcement",
+            "sign",
+            "poster",
+            "memo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"give notice (of [sth]) | without notice",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Formal warning of an intention to end an agreement, arrangement, or to leave a job.",
+      "DEF_ZH":"（解除合同、离职等的）通知期限；预先通知",
+      "SENT_EN":"She gave her employer two weeks' notice before quitting her job.",
+      "SENT_ZH":"她在辞职前提前两周通知了她的雇主。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "warning",
+            "advance warning",
+            "forewarning"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

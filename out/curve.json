@@ -1,0 +1,105 @@
+{
+  "WORD":"curve",
+  "IPA":"/kɜːrv/",
+  "CONJUGATES":"curves | curved | curving",
+  "ETYMOLOGY":"From Middle English curve or corve, from Old French courbe, deriving from Latin curvus ('bent, crooked')",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] curve",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "common"
+      ],
+      "DEF_EN":"A line or outline that is smoothly bent and has no straight parts or sharp angles.",
+      "DEF_ZH":"平滑弯曲且没有直线部分或尖角的线条或轮廓。",
+      "SENT_EN":"The road takes a sharp curve just past the old mill.",
+      "SENT_ZH":"过了老磨坊，这条路有一个急转弯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bend",
+            "arc",
+            "meander",
+            "arch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] curve",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "statistics",
+        "economics"
+      ],
+      "DEF_EN":"A line on a graph that represents the relationship between two variables.",
+      "DEF_ZH":"图表上表示两个变量之间关系的线条（如需求曲线、学习曲线）。",
+      "SENT_EN":"The economist analyzed the downward slope of the demand curve.",
+      "SENT_ZH":"经济学家分析了需求曲线的下行斜率。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "graph",
+            "plot",
+            "distribution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"curve [sth] | curve",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To bend into a curved shape; to follow a curved path.",
+      "DEF_ZH":"弯曲成曲线形状；沿着弯曲的路径移动。",
+      "SENT_EN":"The river curves gently around the base of the mountain.",
+      "SENT_ZH":"河流在山脚下缓缓地弯曲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bend",
+            "bow",
+            "arch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"curve [a ball]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "sports",
+        "baseball",
+        "specialized"
+      ],
+      "DEF_EN":"In baseball, to throw a ball with spin so that its path deviates sharply from a straight line.",
+      "DEF_ZH":"（在棒球中）投出一个带旋转的球，使其轨迹急剧偏离直线（投曲线球）。",
+      "SENT_EN":"The pitcher managed to curve the ball right over the plate.",
+      "SENT_ZH":"投手成功地将球投成曲线球，正好越过本垒板。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "curveball",
+            "slider"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Technical"
+}

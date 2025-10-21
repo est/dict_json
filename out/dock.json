@@ -1,0 +1,171 @@
+{
+  "WORD":"dock",
+  "IPA":"/dɑk/",
+  "CONJUGATES":"docks | docking | docked",
+  "ETYMOLOGY":"For the meaning 'wharf or basin for ships', from Middle Dutch *docke* or Middle Low German *docke* (mid-16th century). For the meaning 'to cut short or deduct', perhaps from Old English *doccian* 'to dock, shorten', related to *docce* 'burdock' (mid-15th century). The meaning 'defendant's enclosure in court' possibly derives from the ship's dock sense, implying confinement (late 17th century). The noun referring to an animal's tail also dates back to the 15th century, with unclear origin but potentially related to the verb 'to cut short'.",
+  "SINCE":"Mid 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] dock",
+      "POS":"noun",
+      "POS_TIP":"A word that names something, such as a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An artificial basin or enclosure for ships, generally used for loading, unloading, and repair; a wharf or pier.",
+      "DEF_ZH":"港口，码头；船坞（用于停泊、装卸或修理船舶）",
+      "SENT_EN":"The cargo ship arrived at the dock to unload its containers.",
+      "SENT_ZH":"货船抵达码头卸货。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wharf",
+            "pier",
+            "harbor",
+            "jetty",
+            "berth"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dry dock",
+            "wet dock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] dock [sth] | [sth] dock",
+      "POS":"vtr | vint",
+      "POS_TIP":"A transitive verb takes a direct object; an intransitive verb does not.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bring a ship, boat, or spacecraft into a dock or alongside another vessel; to moor or tie up.",
+      "DEF_ZH":"（使）船只入坞；（使）靠码头；（使）停泊；（使）对接（特指航天器）",
+      "SENT_EN":"The captain carefully docked the yacht against the pier.",
+      "SENT_ZH":"船长小心翼翼地把游艇停靠在码头边。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moor",
+            "berth",
+            "tie up",
+            "anchor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "undock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] dock [sth] from [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To deduct money from someone's wages or to remove a part from something, especially to shorten.",
+      "DEF_ZH":"扣除，削减（工资、薪水等）；截短，剪短",
+      "SENT_EN":"The company docked her pay for missing the meeting.",
+      "SENT_ZH":"公司因她缺席会议而扣了她的工资。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deduct",
+            "cut",
+            "reduce",
+            "shorten",
+            "trim"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "add",
+            "increase"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dock",
+      "POS":"noun",
+      "POS_TIP":"A word that names something, such as a person, place, thing, or idea.",
+      "TAGS":[
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"The enclosure in a criminal court where the defendant stands or sits during a trial.",
+      "DEF_ZH":"（刑事法庭上的）被告席",
+      "SENT_EN":"The accused stood in the dock, awaiting the verdict.",
+      "SENT_ZH":"被告站在被告席上，等待判决。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "accused",
+            "defendant",
+            "stand trial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dock of [an animal]",
+      "POS":"noun",
+      "POS_TIP":"A word that names something, such as a person, place, thing, or idea.",
+      "TAGS":[
+        "specialized",
+        "common"
+      ],
+      "DEF_EN":"The solid or fleshy part of an animal's tail, especially its root.",
+      "DEF_ZH":"（动物的）尾根，尾巴的肉质部分",
+      "SENT_EN":"The dog wagged its tail vigorously, including its dock.",
+      "SENT_ZH":"那只狗使劲地摇着尾巴，包括它的尾根。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] dock [an animal's] tail",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb takes a direct object.",
+      "TAGS":[
+        "specialized",
+        "common"
+      ],
+      "DEF_EN":"To cut off the end of an animal's tail, typically for cosmetic or practical reasons.",
+      "DEF_ZH":"剪短（动物的）尾巴",
+      "SENT_EN":"In some breeds, puppies' tails are traditionally docked.",
+      "SENT_ZH":"在某些品种中，小狗的尾巴传统上会被剪短。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crop",
+            "curtail",
+            "bob"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

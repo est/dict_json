@@ -1,0 +1,86 @@
+{
+  "WORD":"typewriter",
+  "IPA":"/ˈtaɪpˌraɪtər/",
+  "CONJUGATES":"typewriters",
+  "ETYMOLOGY":"Compound of 'type' (stem from 'typ' in typography) and 'writer' (agent noun from 'write'). Coined in the mid-19th century to describe the newly invented mechanical printing machine.",
+  "SINCE":"1860s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] typewriter",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "historical object"
+      ],
+      "DEF_EN":"A mechanical or electromechanical machine with keys that, when pressed, cause characters to be physically imprinted directly onto paper, widely used before the advent of personal computers.",
+      "DEF_ZH":"一种机械式或机电式的机器，带有按键，按下按键后，字符会被物理地直接印到纸上。在个人电脑出现之前广泛使用。",
+      "SENT_EN":"The clicking sound of an old typewriter always brings me back to my grandfather's office.",
+      "SENT_ZH":"老式打字机的咔嗒声总是让我想起我祖父的办公室。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "typing machine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "keyboard",
+            "word processor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"typewriter font / style",
+      "POS":"attrib. adj.",
+      "POS_TIP":"attributive adjective",
+      "TAGS":[
+        "common",
+        "descriptive",
+        "aesthetic"
+      ],
+      "DEF_EN":"Relating to or resembling the characteristic fixed-width (monospace), often slightly uneven, style of text produced by a mechanical typewriter.",
+      "DEF_ZH":"与机械打字机产生的特征性等宽（monospaced）、通常略有不均匀的文本风格相关或相似的。",
+      "SENT_EN":"He chose a typewriter font for the cover letter to give it a vintage look.",
+      "SENT_ZH":"他为求职信选择了打字机字体，以赋予它一种复古的外观。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "monospace",
+            "courier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] typewriter (person)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "obsolete",
+        "historical"
+      ],
+      "DEF_EN":"A person whose job is to operate a typewriter; a typist.",
+      "DEF_ZH":"以操作打字机为工作的人；打字员。（现已被 'typist' 取代。）",
+      "SENT_EN":"The company needed a reliable typewriter to transcribe the minutes of the board meetings.",
+      "SENT_ZH":"公司需要一名可靠的打字员来转录董事会会议的会议记录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "typist",
+            "copyist",
+            "secretary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, often used historically or aesthetically."
+}

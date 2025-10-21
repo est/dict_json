@@ -1,0 +1,95 @@
+{
+  "WORD":"zoom",
+  "IPA":"/zuːm/",
+  "CONJUGATES":"zooms | zooming | zoomed",
+  "ETYMOLOGY":"Probably imitative (onomatopoeic) of the sound of rapid motion, first recorded in aeronautical contexts.",
+  "SINCE":"c. 1917",
+  "MEANINGS":[
+    {
+      "PATTERN":"zoom [adv/prep] | zoom [vintr]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To move or travel extremely quickly, often with a low humming sound.",
+      "DEF_ZH":"（伴随着嗡嗡声）快速移动或飞行。",
+      "SENT_EN":"The motorbike zoomed past the slower traffic.",
+      "SENT_ZH":"摩托车呼啸着超过了慢速行驶的车辆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speed",
+            "dash",
+            "whiz",
+            "rush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zoom in | zoom out",
+      "POS":"vintr + adv",
+      "POS_TIP":"intransitive verb followed by adverbial particle",
+      "TAGS":[
+        "core word",
+        "photography",
+        "technology"
+      ],
+      "DEF_EN":"To adjust a camera lens or digital display to increase (zoom in) or decrease (zoom out) the apparent size of the subject.",
+      "DEF_ZH":"（通过调整镜头或数字显示）将物体放大（拉近）或缩小（拉远）。",
+      "SENT_EN":"The photographer asked the assistant to zoom in for a close-up shot.",
+      "SENT_ZH":"摄影师要求助手拉近镜头拍摄特写。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "magnify",
+            "enlarge",
+            "reduce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a zoom",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A sudden rapid movement, usually upward, or the humming sound associated with such movement.",
+      "DEF_ZH":"突然的快速移动（常指向上），或与快速移动相关的嗡嗡声。",
+      "SENT_EN":"With a quick zoom, the plane cleared the runway.",
+      "SENT_ZH":"飞机快速爬升，飞离了跑道。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"Zoom (proper noun)",
+      "POS":"n",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "technology",
+        "proper noun",
+        "very common"
+      ],
+      "DEF_EN":"A widely used cloud-based peer-to-peer software platform for video conferencing, teleconferencing, and remote screen sharing, or a meeting held using this platform.",
+      "DEF_ZH":"一款广泛使用的、基于云的点对点视频会议、电话会议和远程屏幕共享软件平台；或指代使用该平台进行的会议。",
+      "SENT_EN":"We have three Zoom calls scheduled for this afternoon.",
+      "SENT_ZH":"我们今天下午安排了三次 Zoom 会议。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Skype",
+            "Teams",
+            "Webex"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

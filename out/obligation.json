@@ -1,0 +1,88 @@
+{
+  "WORD":"obligation",
+  "IPA":"/ˌɒblɪˈɡeɪʃən/",
+  "CONJUGATES":"obligations",
+  "ETYMOLOGY":"From Late Middle English, via Anglo-Norman French, from Latin obligatio (stem obligationis), from obligare 'to bind to' (from ob- 'towards' + ligare 'to bind').",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"obligation [to do sth]",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A duty or commitment; the state of being morally or legally bound to perform a certain action.",
+      "DEF_ZH":"义务；职责；法律或道德上的责任。",
+      "SENT_EN":"Every citizen has an obligation to pay taxes honestly.",
+      "SENT_ZH":"每个公民都有诚实纳税的义务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "duty",
+            "responsibility",
+            "commitment",
+            "mandate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "discretion",
+            "option"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"financial obligation | outstanding obligation",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"A specific legal or financial commitment, such as a debt or required payment.",
+      "DEF_ZH":"（必须履行的）债务；财务负担；契约。",
+      "SENT_EN":"The company struggled to meet its monthly financial obligations after the market downturn.",
+      "SENT_ZH":"市场低迷后，公司难以履行其每月的财务义务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "debt",
+            "liability",
+            "commitment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"under an obligation [to sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun, often used in fixed phrases",
+      "TAGS":[
+        "formal",
+        "usage"
+      ],
+      "DEF_EN":"The fact of being indebted to someone for a favor or service, implying a sense of required gratitude or reciprocation.",
+      "DEF_ZH":"人情；恩惠；感激之情或受制于人的状态。",
+      "SENT_EN":"I feel under an obligation to him because he helped me secure the contract.",
+      "SENT_ZH":"我感到欠他一个人情，因为他帮助我拿到了合同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indebtedness",
+            "debt of gratitude"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, and Common Usage"
+}

@@ -1,0 +1,108 @@
+{
+  "WORD":"offshore",
+  "IPA":"/ˌɒfˈʃɔːr/",
+  "CONJUGATES":"offshores | offshoring | offshored",
+  "ETYMOLOGY":"From English 'off' (away from) + 'shore' (coast, land by the sea). The verb sense emerged much later, relating to business practices.",
+  "SINCE":"mid-19th century (adjective/adverb); late 20th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"offshore [adj/adv]",
+      "POS":"adj | adv",
+      "POS_TIP":"adjective | adverb",
+      "TAGS":[
+        "core word",
+        "common",
+        "geographic",
+        "maritime"
+      ],
+      "DEF_EN":"Located in, moving towards, or operating in the sea, away from the coast or land.",
+      "DEF_ZH":"位于海上的；近海的；向海上发展的；离岸的",
+      "SENT_EN":"The company specializes in offshore wind power projects.",
+      "SENT_ZH":"这家公司专门从事海上风力发电项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "at sea",
+            "out at sea",
+            "seaward",
+            "coastal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inshore",
+            "onshore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"offshore [adj/adv]",
+      "POS":"adj | adv",
+      "POS_TIP":"adjective | adverb",
+      "TAGS":[
+        "core word",
+        "common",
+        "business jargon",
+        "finance"
+      ],
+      "DEF_EN":"Located or based in a foreign country, especially one with lower taxes, less strict regulations, or lower labor costs.",
+      "DEF_ZH":"（公司、基金等）设在境外的，离岸的（常指为避税或规避法规）；海外的",
+      "SENT_EN":"Many wealthy individuals use offshore bank accounts to minimize their tax liabilities.",
+      "SENT_ZH":"许多富有的个人利用离岸银行账户来减少他们的税务负担。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overseas",
+            "foreign",
+            "international",
+            "global"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tax haven",
+            "freeport"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"offshore [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "business jargon"
+      ],
+      "DEF_EN":"To move a business operation or production to a foreign country, often to reduce costs or take advantage of specific regulations.",
+      "DEF_ZH":"将（公司的业务或生产）转移到国外；外包到境外",
+      "SENT_EN":"Many companies choose to offshore their customer service operations to countries with lower wages.",
+      "SENT_ZH":"许多公司选择将他们的客户服务业务外包到工资较低的国家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outsource",
+            "relocate",
+            "delegate",
+            "globalize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "onshore",
+            "insource"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; Business & Finance"
+}

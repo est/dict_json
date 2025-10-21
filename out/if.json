@@ -1,0 +1,88 @@
+{
+  "WORD":"if",
+  "IPA":"/ɪf/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English gif, gief, corresponding to Proto-Germanic *eba, *jubai.",
+  "SINCE":"c. 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"if [clause 1], [clause 2]",
+      "POS":"conj.",
+      "POS_TIP":"conjunction (connecting words, phrases, or clauses)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Introducing a condition or hypothesis; on the condition or supposition that.",
+      "DEF_ZH":"表示条件或假设；如果；要是。",
+      "SENT_EN":"If you leave now, you will catch the train.",
+      "SENT_ZH":"如果你现在走，就能赶上火车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provided that",
+            "assuming that"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb of knowing/asking] if [clause]",
+      "POS":"conj.",
+      "POS_TIP":"conjunction (connecting words, phrases, or clauses)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Introducing an indirect question, expressing doubt or choice; whether.",
+      "DEF_ZH":"是否；是不是（用于引出间接疑问句，表示怀疑或选择）。",
+      "SENT_EN":"I don't know if he is coming to the party.",
+      "SENT_ZH":"我不知道他是否会来参加聚会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whether"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"if [adj/adv]",
+      "POS":"conj.",
+      "POS_TIP":"conjunction (connecting words, phrases, or clauses)",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"Even though; although (introducing a contrasting or surprising element).",
+      "DEF_ZH":"即使；虽然（表示让步或对比）。",
+      "SENT_EN":"The room was warm, if a little dusty.",
+      "SENT_ZH":"这个房间很暖和，尽管有点灰尘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "although",
+            "even if"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the ifs and buts",
+      "POS":"n.",
+      "POS_TIP":"noun (naming a person, place, thing, or idea)",
+      "TAGS":[
+        "informal",
+        "idiomatic"
+      ],
+      "DEF_EN":"A condition or supposition; a matter of doubt or qualification.",
+      "DEF_ZH":"条件；假设；不确定因素（通常用作复数 'ifs'，尤其在习语中）。",
+      "SENT_EN":"Stop dwelling on the ifs and buts and start taking action.",
+      "SENT_ZH":"别再纠结于各种如果和但是了，开始行动吧。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

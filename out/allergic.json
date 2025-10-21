@@ -1,0 +1,78 @@
+{
+  "WORD":"allergic",
+  "IPA":"/əˈlɜːrdʒɪk/",
+  "CONJUGATES":"allergically (adv)",
+  "ETYMOLOGY":"From Modern Latin 'allergia' (coined in 1906 by Viennese pediatrician Clemens von Pirquet), from Ancient Greek 'allos' (other, different) + 'ergon' (work, activity), describing an altered immune reaction.",
+  "SINCE":"c. 1910",
+  "MEANINGS":[
+    {
+      "PATTERN":"allergic [to sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective followed by a preposition",
+      "TAGS":[
+        "core word",
+        "medical"
+      ],
+      "DEF_EN":"Having an allergy; affected by an adverse immune reaction upon exposure to a specific substance (allergen).",
+      "DEF_ZH":"对特定物质过敏的；有免疫反应的。",
+      "SENT_EN":"She broke out in hives because she is severely allergic to seafood.",
+      "SENT_ZH":"她因为对海鲜严重过敏而起了荨麻疹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sensitive",
+            "hypersensitive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "allergy",
+            "allergen",
+            "anaphylactic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"allergic [reaction/symptoms]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "medical"
+      ],
+      "DEF_EN":"Caused by or related to an allergy.",
+      "DEF_ZH":"由过敏引起的；过敏性的。",
+      "SENT_EN":"The doctor noted that the rash was an allergic symptom and prescribed medication.",
+      "SENT_ZH":"医生指出皮疹是一种过敏症状，并开了药。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"allergic [to sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective followed by a preposition",
+      "TAGS":[
+        "common",
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"Having a strong aversion, dislike, or resistance towards something (often used humorously).",
+      "DEF_ZH":"（口语，比喻）对某事物有强烈厌恶或抗拒的。",
+      "SENT_EN":"My teenage son seems allergic to doing chores, especially cleaning his room.",
+      "SENT_ZH":"我十几岁的儿子似乎对做家务很“过敏”，尤其是打扫他的房间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "averse",
+            "opposed",
+            "hostile"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common (medical or informal)"
+}

@@ -1,0 +1,100 @@
+{
+  "WORD":"nominal",
+  "IPA":"/ˈnɑːmənəl/",
+  "CONJUGATES":"nominally (adv) | nominality (n)",
+  "ETYMOLOGY":"From Latin *nōminālis* 'pertaining to a name', from *nōmen*, *nōmin-* 'name'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"nominal [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"Existing in name only, not actual or real; titular.",
+      "DEF_ZH":"名义上的；徒有其名的；非真实的",
+      "SENT_EN":"The Queen is the nominal head of state, but political power rests with the Parliament.",
+      "SENT_ZH":"女王是名义上的国家元首，但政治权力属于议会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "titular",
+            "in name only",
+            "theoretical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "actual",
+            "real",
+            "substantive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a nominal [fee/charge/value]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "financial",
+        "economics"
+      ],
+      "DEF_EN":"Very small or slight, especially of a price or charge; token.",
+      "DEF_ZH":"微不足道的；象征性的（指费用或价格）；（经济学）名义的（未调整通货膨胀）",
+      "SENT_EN":"They charged only a nominal fee to join the club, just enough to cover administrative costs.",
+      "SENT_ZH":"他们加入俱乐部只收取了象征性的费用，仅够支付行政开支。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minimal",
+            "token",
+            "trifling"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "significant",
+            "substantial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"nominal [size/rate/value]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"Referring to a designated or theoretical size, power, or value, often differing slightly from the actual measured value.",
+      "DEF_ZH":"额定的；标称的；理论上的（尺寸、功率等）",
+      "SENT_EN":"The nominal diameter of the pipe is 50 millimeters, but the tolerance allows for slight variations.",
+      "SENT_ZH":"管道的标称直径为50毫米，但公差允许有轻微变化。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"nominal [phrase/form]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"Relating to or functioning as a noun.",
+      "DEF_ZH":"名词性的；与名词有关的",
+      "SENT_EN":"The phrase 'eating quickly' is used here in a nominal sense.",
+      "SENT_ZH":"短语“eating quickly”在此处以名词性意义使用。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Business, Technical"
+}

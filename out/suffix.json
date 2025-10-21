@@ -1,0 +1,59 @@
+{
+  "WORD":"suffix",
+  "IPA":"/ˈsʌfɪks/ (noun), /səˈfɪks/ (verb)",
+  "CONJUGATES":"suffixes (noun plural) | suffixes (verb 3rd person singular present) | suffixing (verb present participle) | suffixed (verb past tense, past participle)",
+  "ETYMOLOGY":"From Latin *suffixus*, past participle of *suffigere* 'to fasten on below', from *sub-* 'under, after' + *figere* 'to fasten'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a suffix]",
+      "POS":"noun",
+      "POS_TIP":"A word (or part of a word) that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "linguistics",
+        "grammar"
+      ],
+      "DEF_EN":"A morpheme added at the end of a word to form a derivative or inflection, such as -ation, -fy, -ing, or -ed.",
+      "DEF_ZH":"附加在词根或词干后面的构词成分，用于构成派生词或表示词形变化，例如 -ation, -fy, -ing, 或 -ed。",
+      "SENT_EN":"The suffix '-ness' is often used to turn an adjective into a noun, as in 'happiness' from 'happy'.",
+      "SENT_ZH":"后缀“-ness”常用于将形容词变为名词，例如“happy”变成“happiness”。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "prefix",
+            "affix",
+            "root",
+            "morpheme",
+            "inflection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[suffix sth]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes one or more objects; 'transitive' means the action of the verb passes to an object.",
+      "TAGS":[
+        "less common",
+        "linguistics"
+      ],
+      "DEF_EN":"To add a suffix to (a word or root).",
+      "DEF_ZH":"给（一个词或词根）加上后缀。",
+      "SENT_EN":"Many verbs in English are suffixed with '-ing' to form the present participle.",
+      "SENT_ZH":"英语中的许多动词通过后缀“-ing”来构成现在分词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "prefix",
+            "affix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Linguistic, Technical"
+}

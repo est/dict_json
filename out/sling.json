@@ -1,0 +1,127 @@
+{
+  "WORD":"sling",
+  "IPA":"/slɪŋ/",
+  "CONJUGATES":"sling | slung | slung | slinging",
+  "ETYMOLOGY":"From Old English slingan (verb) 'to throw, cast', influenced by Old Norse slyngva 'to sling, cast'. Of Germanic origin, related to Dutch slingen 'to swing'. The noun meaning 'a device for throwing' or 'a supporting bandage' developed from the verb.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"sling [sth] | sling [sth] at [sb/sth]",
+      "POS":"vtr | vtr + prep",
+      "POS_TIP":"transitive verb | transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To throw (something) with a forceful, often careless motion.",
+      "DEF_ZH":"用力地、常是随意地扔（某物）；猛投。",
+      "SENT_EN":"He slung his backpack onto the bed and collapsed.",
+      "SENT_ZH":"他把背包猛地扔到床上，然后瘫了下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hurl",
+            "toss",
+            "flung",
+            "throw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sling [sth] (over [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To hang (something) loosely or casually over one's shoulder, arm, or an object.",
+      "DEF_ZH":"随意地挂（某物），尤指挂在肩上、手臂上或某物上。",
+      "SENT_EN":"She slung her jacket over her shoulder as she walked out.",
+      "SENT_ZH":"她出门时把夹克随意地搭在肩上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drape",
+            "hang",
+            "dangle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sling",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "historical"
+      ],
+      "DEF_EN":"A device, typically a strap or loop, used for throwing projectiles by swinging it rapidly.",
+      "DEF_ZH":"投石器；弹弓（通常为一根或几根带子构成的环状物，用于快速摆动投掷射弹）。",
+      "SENT_EN":"David used a sling and a stone to defeat Goliath.",
+      "SENT_ZH":"大卫用投石器和一块石头击败了哥利亚。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "catapult",
+            "trebuchet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sling (for an arm)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"A piece of cloth or bandage used to support an injured arm or hand by suspending it from the neck.",
+      "DEF_ZH":"吊带；悬臂带（用于支撑受伤的手臂或手）。",
+      "SENT_EN":"After breaking his arm, he had to wear it in a sling for six weeks.",
+      "SENT_ZH":"手臂骨折后，他不得不戴了六周的吊带。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bandage",
+            "cast",
+            "splint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sling (for lifting)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A loop of rope, metal, or other material used for supporting, raising, or carrying heavy objects.",
+      "DEF_ZH":"吊索；吊链；起重带（用于支撑、提升或搬运重物）。",
+      "SENT_EN":"The crane lowered the container using a large industrial sling.",
+      "SENT_ZH":"起重机使用一个大型工业吊索放下了集装箱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hoist",
+            "strap",
+            "harness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,92 @@
+{
+  "WORD":"drier",
+  "IPA":"/ˈdraɪər/",
+  "CONJUGATES":"dry | drier | driest (adjective) | drier | driers (noun)",
+  "ETYMOLOGY":"Comparative form of 'dry', from Old English drȳġe. Noun sense derived by adding the agent suffix -er.",
+  "SINCE":"Before 12th century (as comparative adjective); 19th century (as machine noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is drier than [sth else]",
+      "POS":"adj (comparative)",
+      "POS_TIP":"Adjective, comparative degree",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having less moisture, water, or humidity than something else; more desiccated.",
+      "DEF_ZH":"比其他事物更干燥的；更缺乏水分的。",
+      "SENT_EN":"The desert air is much drier than the coastal climate.",
+      "SENT_ZH":"沙漠空气比沿海气候干燥得多。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "more arid",
+            "more parched",
+            "more desiccated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "wetter",
+            "moister",
+            "damper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] drier",
+      "POS":"n (countable)",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "common",
+        "instrument"
+      ],
+      "DEF_EN":"An apparatus or machine designed to remove moisture from objects, especially clothing or hair.",
+      "DEF_ZH":"干燥机；烘干机；吹风机 (hair drier)。",
+      "SENT_EN":"She hung the delicate shirts rather than putting them in the clothes drier.",
+      "SENT_ZH":"她把那些精致的衬衫挂起来晾干，而不是放进烘干机里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dryer",
+            "desiccator",
+            "tumble dryer"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hair dryer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drier (substance)",
+      "POS":"n (countable/uncountable)",
+      "POS_TIP":"Countable or uncountable noun",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"A chemical substance, typically a metallic salt, added to paint, varnish, or ink to accelerate the process of drying.",
+      "DEF_ZH":"（涂料或墨水用的）催干剂。",
+      "SENT_EN":"A small quantity of cobalt drier was added to speed up the curing time of the oil paint.",
+      "SENT_ZH":"添加了少量钴催干剂以加快油漆的固化时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "siccative",
+            "desiccant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use for meanings 1 and 2; technical for meaning 3."
+}

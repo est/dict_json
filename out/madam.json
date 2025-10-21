@@ -1,0 +1,84 @@
+{
+  "WORD":"madam",
+  "IPA":"/ˈmædəm/",
+  "CONJUGATES":"madams | mesdames (formal plural)",
+  "ETYMOLOGY":"From Middle English ma dame, from Old French ma dame ('my lady'), a compound of ma (my) + dame (lady).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"madam",
+      "POS":"noun | interjection",
+      "POS_TIP":"Noun: a word that names a person, place, or thing. Interjection: a word used to express an emotion or sudden feeling.",
+      "TAGS":[
+        "core word",
+        "formal",
+        "respectful"
+      ],
+      "DEF_EN":"A respectful way of addressing or referring to a woman, especially one who is older, married, or in a position of authority or service.",
+      "DEF_ZH":"女士；夫人（对女性的礼貌称呼，尤指年长者或在职场、服务场合）。",
+      "SENT_EN":"Excuse me, madam, may I help you with your luggage?",
+      "SENT_ZH":"对不起，女士，我能帮您拿行李吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ma'am",
+            "lady",
+            "Mrs."
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sir"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] madam",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word that names a person, place, or thing.",
+      "TAGS":[
+        "formal",
+        "title"
+      ],
+      "DEF_EN":"A title used for the female head of a household or an official holding a high rank (often used before the title, e.g., Madam President).",
+      "DEF_ZH":"女主人；（用于官职前的）女士。",
+      "SENT_EN":"Please address your complaints directly to the madam of the house.",
+      "SENT_ZH":"请将您的投诉直接向这家的女主人提出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mistress",
+            "matriarch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] madam",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word that names a person, place, or thing.",
+      "TAGS":[
+        "dated",
+        "colloquial",
+        "taboo"
+      ],
+      "DEF_EN":"A woman who manages or owns a brothel.",
+      "DEF_ZH":"妓院老板娘；老鸨。",
+      "SENT_EN":"The film focused on the life of a powerful New Orleans madam in the 1920s.",
+      "SENT_ZH":"这部电影聚焦于1920年代新奥尔良一位有权势的老鸨的生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brothel keeper"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal"
+}

@@ -1,0 +1,101 @@
+{
+  "WORD":"devise",
+  "IPA":"/dɪˈvaɪz/",
+  "CONJUGATES":"devises | devising | devised",
+  "ETYMOLOGY":"From Old French *deviser* 'divide, distinguish, arrange, contrive', from Latin *dividere* 'to divide'. The sense of 'contrive, invent' developed in Old French.",
+  "SINCE":"Late Middle English (13th-14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"devise [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To plan or invent a method, system, or object by careful thought.",
+      "DEF_ZH":"通过仔细思考来计划或发明一种方法、系统或物品。",
+      "SENT_EN":"Scientists are trying to devise a new way to combat the virus.",
+      "SENT_ZH":"科学家们正试图设计一种对抗病毒的新方法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invent",
+            "plan",
+            "formulate",
+            "conceive",
+            "contrive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "design",
+            "create"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"devise [sth] to [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "legal term",
+        "rare",
+        "old-fashioned"
+      ],
+      "DEF_EN":"(Law) To leave real property to a person or entity by a will.",
+      "DEF_ZH":"（法律）通过遗嘱将不动产遗赠给某人或实体。",
+      "SENT_EN":"He devised his entire estate to his children.",
+      "SENT_ZH":"他将自己的全部遗产遗赠给了他的孩子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bequeath",
+            "will"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "legacy",
+            "inheritance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a devise",
+      "POS":"n",
+      "POS_TIP":"noun: a word that functions as the name of a specific object or set of objects",
+      "TAGS":[
+        "legal term",
+        "rare"
+      ],
+      "DEF_EN":"(Law) The act of transferring real property by will, or the clause in a will that makes such a transfer.",
+      "DEF_ZH":"（法律）通过遗嘱转让不动产的行为，或遗嘱中进行此类转让的条款。",
+      "SENT_EN":"The will contained a specific devise for the family farm.",
+      "SENT_ZH":"遗嘱中包含了一项针对家庭农场的特定不动产遗赠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bequest",
+            "legacy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "will",
+            "inheritance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The first meaning is common in general English. The second and third meanings are primarily used in legal contexts and are less common in everyday speech."
+}

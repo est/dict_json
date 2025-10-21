@@ -1,0 +1,92 @@
+{
+  "WORD":"assert",
+  "IPA":"/əˈsɜːrt/",
+  "CONJUGATES":"asserts | asserting | asserted",
+  "ETYMOLOGY":"From Latin asserere (ad- 'to' + serere 'to join, bind, connect'), originally meaning 'to join to oneself, to claim, maintain'",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"assert [sth] | assert that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To state a fact or belief strongly and confidently.",
+      "DEF_ZH":"坚定地宣称或维护（事实或信念）。",
+      "SENT_EN":"The CEO asserted that the company's financial health was excellent.",
+      "SENT_ZH":"首席执行官坚称公司的财务状况良好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "affirm",
+            "declare",
+            "claim",
+            "maintain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deny",
+            "retract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assert [right/authority] | assert [oneself]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "behavior"
+      ],
+      "DEF_EN":"To use your power, authority, or rights to make other people notice or accept something; to express your confidence clearly.",
+      "DEF_ZH":"维护或主张（权利、权力）；明确表现出自信或维护自己的立场。",
+      "SENT_EN":"It is important for young professionals to learn how to assert themselves in the workplace.",
+      "SENT_ZH":"对于年轻的专业人士来说，学会如何在工作场所维护自己的立场是很重要的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "establish",
+            "insist on",
+            "uphold"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "assertion",
+            "self-assertion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assert [condition]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computer programming, to check a condition that must be true, often causing program termination or error logging if the condition is false.",
+      "DEF_ZH":"（编程）断言某个条件必定为真，用于调试或验证程序逻辑。",
+      "SENT_EN":"The function will assert that the input array is not null.",
+      "SENT_ZH":"该函数将断言输入数组非空。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "assertion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and general use, also common in computing."
+}

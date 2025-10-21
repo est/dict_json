@@ -1,0 +1,65 @@
+{
+  "WORD":"requirement",
+  "IPA":"/rɪˈkwaɪərmənt/",
+  "CONJUGATES":"requirements",
+  "ETYMOLOGY":"From Middle English 'requiren' (to demand, ask for) + suffix '-ment', indicating the result of an action or a state.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is a requirement | a requirement for [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thing that is needed or wanted; a necessity.",
+      "DEF_ZH":"需要或必需的东西；必要条件。",
+      "SENT_EN":"Meeting the minimum requirements for the job is essential.",
+      "SENT_ZH":"满足这份工作的最低要求至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "necessity",
+            "precondition",
+            "stipulation",
+            "condition"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "option",
+            "choice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"design requirement | functional requirement",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"A specified condition or characteristic that must be met by a system, product, or process to satisfy a contract, standard, or other formally imposed criteria.",
+      "DEF_ZH":"系统、产品或流程必须满足的特定条件或特性，以符合合同、标准或其他正式施加的准则。",
+      "SENT_EN":"The software development team is documenting all the functional requirements.",
+      "SENT_ZH":"软件开发团队正在记录所有功能性需求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "specification",
+            "criterion",
+            "mandate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally used in formal and technical contexts, but also commonly in everyday conversation."
+}

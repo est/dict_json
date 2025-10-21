@@ -1,0 +1,112 @@
+{
+  "WORD":"complement",
+  "IPA":"/ˈkɒmplɪmənt/",
+  "CONJUGATES":"n: complements | v: complements | complemented | complementing",
+  "ETYMOLOGY":"From Latin complēmentum 'that which completes', from complēre 'to fill up, complete' (com- 'together' + plere 'to fill').",
+  "SINCE":"Late 14th century (as noun); Late 16th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is a complement to [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thing that completes or brings to perfection.",
+      "DEF_ZH":"补充物；使完善之物；衬托物",
+      "SENT_EN":"The red tie is the perfect complement to his suit.",
+      "SENT_ZH":"这条红领带完美地衬托了他的西装。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "addition",
+            "accompaniment",
+            "enhancement",
+            "finishing touch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the complement of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The number or quantity of something required to make a group complete.",
+      "DEF_ZH":"（使团体完整的）全体，足额；（船上、军队等）全体人员或装备",
+      "SENT_EN":"The ship has a full complement of 200 crew members.",
+      "SENT_ZH":"这艘船有200名船员，足额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "full quantity",
+            "quota",
+            "full staff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] complements [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Add to (something) in a way that enhances or improves it; complete.",
+      "DEF_ZH":"补充；衬托；使完善",
+      "SENT_EN":"The delicate wine perfectly complements the rich flavors of the dish.",
+      "SENT_ZH":"这款雅致的葡萄酒完美地衬托了这道菜浓郁的风味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enhance",
+            "complete",
+            "enrich",
+            "perfect",
+            "harmonize with"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clash with",
+            "detract from"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a complement (in grammar)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "grammar"
+      ],
+      "DEF_EN":"A word or group of words that completes the meaning of an expression, especially a predicate or a verb.",
+      "DEF_ZH":"（语法）补语",
+      "SENT_EN":"In the sentence 'She is happy,' 'happy' functions as the subject complement.",
+      "SENT_ZH":"在句子“She is happy”中，“happy”充当主语补语。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "object",
+            "predicate",
+            "argument"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with some formal or specialized contexts."
+}

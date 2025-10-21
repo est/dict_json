@@ -1,0 +1,98 @@
+{
+  "WORD":"me",
+  "IPA":"/miː/",
+  "CONJUGATES":"I | my | mine | myself",
+  "ETYMOLOGY":"From Old English mē (dative and accusative of ic 'I'), from Proto-Germanic *mek (accusative), *miz (dative). Ultimately from Proto-Indo-European *me- (accusative), *mei- (dative) 'me'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"verb + me | preposition + me",
+      "POS":"pronoun",
+      "POS_TIP":"A word that can function as a noun phrase and refers to participants in the discourse (e.g., I, you) or to someone or something mentioned elsewhere in the discourse (e.g., she, it, this).",
+      "TAGS":[
+        "core word",
+        "common",
+        "objective case"
+      ],
+      "DEF_EN":"Used as the object of a verb or preposition to refer to the speaker or writer (the first person singular).",
+      "DEF_ZH":"用作动词或介词的宾语，指说话者或书写者本人（第一人称单数）。",
+      "SENT_EN":"Can you help me with this heavy box?",
+      "SENT_ZH":"你能帮我搬一下这个重箱子吗？",
+      "RELATED":[
+        {
+          "T":"related forms",
+          "V":[
+            "I",
+            "my",
+            "mine",
+            "myself"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"than me | as me",
+      "POS":"pronoun",
+      "POS_TIP":"A word that can function as a noun phrase and refers to participants in the discourse (e.g., I, you) or to someone or something mentioned elsewhere in the discourse (e.g., she, it, this).",
+      "TAGS":[
+        "informal",
+        "colloquial"
+      ],
+      "DEF_EN":"Used instead of 'I' after comparative conjunctions like 'than' or 'as' in informal speech, though 'I' is grammatically correct.",
+      "DEF_ZH":"在非正式口语中，用于比较连词 'than' 或 'as' 之后代替 'I'，尽管 'I' 在语法上更正确。",
+      "SENT_EN":"He's much taller than me.",
+      "SENT_ZH":"他比我高很多。",
+      "RELATED":[
+        {
+          "T":"formal equivalent",
+          "V":[
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"It was me",
+      "POS":"pronoun",
+      "POS_TIP":"A word that can function as a noun phrase and refers to participants in the discourse (e.g., I, you) or to someone or something mentioned elsewhere in the discourse (e.g., she, it, this).",
+      "TAGS":[
+        "colloquial",
+        "common"
+      ],
+      "DEF_EN":"Used colloquially as a subject complement after a form of the verb 'to be', especially for emphasis, where 'I' would be formally correct.",
+      "DEF_ZH":"口语中用于系动词 'to be' 之后作主语补语，尤其用于强调，尽管正式用法应为 'I'。",
+      "SENT_EN":"Who left the lights on? Oh, that was me.",
+      "SENT_ZH":"谁没关灯？哦，是我。",
+      "RELATED":[
+        {
+          "T":"formal equivalent",
+          "V":[
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"give me [sth]",
+      "POS":"pronoun",
+      "POS_TIP":"A word that can function as a noun phrase and refers to participants in the discourse (e.g., I, you) or to someone or something mentioned elsewhere in the discourse (e.g., she, it, this).",
+      "TAGS":[
+        "indirect object",
+        "common"
+      ],
+      "DEF_EN":"Used as the indirect object of a verb, indicating the recipient of an action, often implying 'to me' or 'for me'.",
+      "DEF_ZH":"用作动词的间接宾语，表示动作的接受者，通常暗示“给我”或“为我”。",
+      "SENT_EN":"Could you please pass me the salt?",
+      "SENT_ZH":"请你把盐递给我好吗？",
+      "RELATED":[
+        {
+          "T":"related concept",
+          "V":[
+            "indirect object"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard for objective case; informal for certain subjective/complement uses."
+}

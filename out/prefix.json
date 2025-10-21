@@ -1,0 +1,106 @@
+{
+  "WORD":"prefix",
+  "IPA":"/ˈpriːfɪks/",
+  "CONJUGATES":"prefixes | prefixed | prefixing",
+  "ETYMOLOGY":"From Medieval Latin praefixum (neuter past participle of praefigere 'to fasten in front'), from Latin prae- ('before') + figere ('to fix, fasten').",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "linguistics"
+      ],
+      "DEF_EN":"An affix (a letter or group of letters) placed before the root or stem of a word to modify its meaning.",
+      "DEF_ZH":"加在词根或词干之前的词缀（一个字母或一组字母），用以改变词义。",
+      "SENT_EN":"The prefix 'anti-' means against.",
+      "SENT_ZH":"前缀“anti-”的意思是反对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "initial affix",
+            "pre-affix"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "suffix"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "root",
+            "stem",
+            "affix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A code or set of digits added to the front of a telephone number, internet address, or numerical designation.",
+      "DEF_ZH":"加在电话号码、网络地址或数字编号开头的代码或数字串。",
+      "SENT_EN":"Remember to include the country code prefix when calling internationally.",
+      "SENT_ZH":"拨打国际长途时，记得加上国家代码前缀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "code",
+            "dialing code"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "area code",
+            "protocol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prefix [sth] to [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To place (something) at the beginning of something else.",
+      "DEF_ZH":"将（某物）置于另一事物的起始位置；预先加上。",
+      "SENT_EN":"The editor prefixed a brief introduction to the main chapter.",
+      "SENT_ZH":"编辑在主要章节前预先加上了一段简短的介绍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precede",
+            "place before",
+            "add in front"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "suffix",
+            "append",
+            "postdate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

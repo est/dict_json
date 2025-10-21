@@ -1,0 +1,73 @@
+{
+  "WORD":"depose",
+  "IPA":"/dɪˈpoʊz/",
+  "CONJUGATES":"depose | deposes | deposed | deposing",
+  "ETYMOLOGY":"From Old French deposer, from Latin dēpōnere 'to lay down, put down', from dē- 'down' + pōnere 'to place, put'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"depose [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "core word",
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"To remove someone from office or power, especially a monarch or other high-ranking official, often forcefully or by rebellion.",
+      "DEF_ZH":"罢免；废黜（尤指君主或其他高级官员），常指强行或通过反叛手段。",
+      "SENT_EN":"The rebellious nobles sought to depose the tyrannical king.",
+      "SENT_ZH":"那些叛逆的贵族企图废黜暴虐的国王。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dethrone",
+            "oust",
+            "overthrow",
+            "remove"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "install",
+            "instate",
+            "crown",
+            "appoint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"depose",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb; a verb that does not require a direct object",
+      "TAGS":[
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"To give sworn testimony, especially in a written statement taken out of court (a deposition).",
+      "DEF_ZH":"（尤指在法庭外）作证，宣誓作证，以书面形式记录（证词）。",
+      "SENT_EN":"She was asked to depose for the record about what she witnessed during the incident.",
+      "SENT_ZH":"她被要求就其在事件中目睹的一切宣誓作证以作记录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "testify",
+            "attest",
+            "bear witness"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deposition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or legal context."
+}

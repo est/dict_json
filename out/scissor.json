@@ -1,0 +1,86 @@
+{
+  "WORD":"scissor",
+  "IPA":"/ˈsɪzər/",
+  "CONJUGATES":"scissors (n., plural) | scissors (v., 3rd person singular present) | scissoring (v., present participle) | scissored (v., past tense and past participle)",
+  "ETYMOLOGY":"From Old French cisoires, plural of cisoire 'chisel', from Vulgar Latin caesoria, from Latin caesus, past participle of caedere 'to cut'.",
+  "SINCE":"Late 14th century (for the tool); Mid-17th century (for the verb).",
+  "MEANINGS":[
+    {
+      "PATTERN":"a pair of [WORD]s",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun (always plural when referring to the cutting tool)",
+      "TAGS":[
+        "core word",
+        "tool",
+        "common"
+      ],
+      "DEF_EN":"A cutting tool with two blades pivoted together, usually referred to in the plural form 'scissors', used for cutting paper, fabric, hair, etc.",
+      "DEF_ZH":"一种带有两个枢轴连接的刀片的切割工具，通常以复数形式'scissors'指代，用于剪纸、布料、头发等。",
+      "SENT_EN":"Please hand me the scissors; I need to trim this photo.",
+      "SENT_ZH":"请把剪刀递给我；我需要修剪这张照片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shears",
+            "clippers"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hairdresser",
+            "tailor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [WORD] [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To cut something using scissors.",
+      "DEF_ZH":"用剪刀剪某物。",
+      "SENT_EN":"He scissored a coupon from the newspaper.",
+      "SENT_ZH":"他从报纸上剪下了一张优惠券。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut",
+            "snip",
+            "clip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [WORD] [movement/legs]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "specific",
+        "action",
+        "sports"
+      ],
+      "DEF_EN":"To move one's legs or arms with a scissor-like motion, especially in swimming, gymnastics, or wrestling.",
+      "DEF_ZH":"以剪刀状动作移动双腿或双臂，尤其是在游泳、体操或摔跤中。",
+      "SENT_EN":"The gymnast scissored her legs in the air during the routine.",
+      "SENT_ZH":"体操运动员在表演中在空中做剪刀腿动作。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "kick",
+            "flutter kick"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common"
+}

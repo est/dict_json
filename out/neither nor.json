@@ -1,0 +1,69 @@
+{
+  "WORD":"NEITHER",
+  "IPA":"/ˈnaɪðər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English neithir, from Old English nāwþēr (nē 'not' + āwþēr 'either'). The correlating element 'nor' derives from ne + or.",
+  "SINCE":"c. 12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"neither [A] nor [B]",
+      "POS":"conj",
+      "POS_TIP":"Correlative Conjunction: used in pairs to connect equivalent phrases or clauses, indicating negation of both.",
+      "TAGS":[
+        "Core Word",
+        "Grammar",
+        "Common"
+      ],
+      "DEF_EN":"Used to show that two or more things are equally untrue, do not apply, or will not happen; negating all listed options.",
+      "DEF_ZH":"（既不…也不…）用于否定两个或更多的人或事物；两者皆非。",
+      "SENT_EN":"They have neither the time nor the money to travel this year.",
+      "SENT_ZH":"他们今年既没有时间也没有钱去旅行。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "both and",
+            "either or"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"neither [of the two]",
+      "POS":"det | pron",
+      "POS_TIP":"Determiner or Pronoun: referring to two items, meaning 'not the one and not the other'.",
+      "TAGS":[
+        "Common",
+        "Syntax"
+      ],
+      "DEF_EN":"Not one and not the other of two people or things.",
+      "DEF_ZH":"（两者中）一个也不；两者皆非。",
+      "SENT_EN":"Neither of the solutions proposed seemed viable.",
+      "SENT_ZH":"提出的两个解决方案似乎都不可行。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"neither/nor [auxiliary verb] [subject]",
+      "POS":"adv | conj",
+      "POS_TIP":"Adverb or Conjunction: used after a negative statement to introduce a negative statement that agrees or confirms the previous one (also not).",
+      "TAGS":[
+        "Syntax",
+        "Common"
+      ],
+      "DEF_EN":"Used to introduce a further negative statement, agreeing with an earlier one, meaning 'and also not'.",
+      "DEF_ZH":"（也（不）是）用于引出进一步的否定陈述，表示赞同或确认前一个否定陈述。",
+      "SENT_EN":"She didn't apologize, and neither did he.",
+      "SENT_ZH":"她没有道歉，他也没有。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "me neither",
+            "also not"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Informal"
+}

@@ -1,0 +1,75 @@
+{
+  "WORD":"disable",
+  "IPA":"/dɪsˈeɪbəl/",
+  "CONJUGATES":"disables | disabling | disabled",
+  "ETYMOLOGY":"From Middle English, combining the prefix 'dis-' (expressing negation or reversal) with 'able' (from Old French *hable*, ultimately from Latin *habilis* 'apt, fit').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"disable [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "human condition"
+      ],
+      "DEF_EN":"To cause someone to have a physical or mental condition that permanently or temporarily limits their movements, senses, or activities.",
+      "DEF_ZH":"使（某人）伤残；使失去能力或功能。",
+      "SENT_EN":"The accident left him permanently disabled and unable to walk.",
+      "SENT_ZH":"那次事故使他永久伤残，无法行走。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cripple",
+            "incapacitate",
+            "immobilize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enable",
+            "rehabilitate",
+            "heal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disable [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To deactivate a function, setting, or piece of equipment, preventing it from working or running.",
+      "DEF_ZH":"禁用；关闭；停止（功能、设置或系统）。",
+      "SENT_EN":"You must disable the security alarm before entering the vault.",
+      "SENT_ZH":"进入金库前，你必须禁用安全警报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deactivate",
+            "shut down",
+            "turn off",
+            "switch off"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enable",
+            "activate",
+            "start"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal/Technical"
+}

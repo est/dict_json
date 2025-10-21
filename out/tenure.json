@@ -1,0 +1,84 @@
+{
+  "WORD":"tenure",
+  "IPA":"/ˈtɛnjər/",
+  "CONJUGATES":"tenures (n. pl.) | tenured (v. past/p.p.) | tenuring (v. pres. part.)",
+  "ETYMOLOGY":"From Old French tenure (possession, holding), from Latin tenēre (to hold, keep).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"tenure",
+      "POS":"n. uncount",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "core word",
+        "academic",
+        "professional"
+      ],
+      "DEF_EN":"The status of holding a position or office permanently, especially one giving job security and academic freedom to faculty members at a university, ensuring dismissal only for major cause.",
+      "DEF_ZH":"终身教职；永久任期（尤指大学教师享有的稳定职位，非重大过失不得解雇）。",
+      "SENT_EN":"After years of review, the committee finally granted her tenure.",
+      "SENT_ZH":"经过多年的审查，委员会最终授予了她终身教职。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sabbatical",
+            "professorship"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tenure [of office/possession]",
+      "POS":"n. count/uncount",
+      "POS_TIP":"Noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "professional"
+      ],
+      "DEF_EN":"The period or term during which a position or office is held.",
+      "DEF_ZH":"任期；在职时间；占有期。",
+      "SENT_EN":"His tenure as the Chief Justice lasted for nearly two decades.",
+      "SENT_ZH":"他担任首席大法官的任期持续了近二十年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "term",
+            "period",
+            "occupancy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tenure [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive (takes a direct object)",
+      "TAGS":[
+        "academic",
+        "rarely used as verb"
+      ],
+      "DEF_EN":"To grant permanent job status to an employee, usually a university faculty member.",
+      "DEF_ZH":"授予（某人）终身职位。",
+      "SENT_EN":"The department plans to tenure the two associate professors next year.",
+      "SENT_ZH":"该系计划明年授予这两名副教授终身职位。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"tenure [of land]",
+      "POS":"n. uncount",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "legal",
+        "historical"
+      ],
+      "DEF_EN":"The conditions or terms under which land or property is held.",
+      "DEF_ZH":"土地或财产的保有方式或条件（尤指封建时代的土地保有权）。",
+      "SENT_EN":"The old lease specified the exact form of land tenure.",
+      "SENT_ZH":"旧租约详细规定了土地保有权的准确形式。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Academic, Formal, Legal"
+}

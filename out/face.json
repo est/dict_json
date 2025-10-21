@@ -1,0 +1,133 @@
+{
+  "WORD":"face",
+  "IPA":"/feɪs/",
+  "CONJUGATES":"face (noun singular) | faces (noun plural) | face (verb base form) | faces (verb 3rd person singular present) | faced (verb past simple, past participle) | facing (verb present participle)",
+  "ETYMOLOGY":"From Old French face 'face, countenance, appearance', from Latin faciēs 'form, appearance, face, countenance'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s face",
+      "POS":"noun",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The front part of a person's head, from the forehead to the chin, and from ear to ear.",
+      "DEF_ZH":"人头部的正面，从额头到下巴，两耳之间。",
+      "SENT_EN":"She had a warm smile on her face.",
+      "SENT_ZH":"她脸上挂着温暖的笑容。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "countenance",
+            "visage",
+            "physiognomy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a face | pull a face",
+      "POS":"noun",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common",
+        "idiom"
+      ],
+      "DEF_EN":"An expression on the face, especially one indicating emotion or disapproval.",
+      "DEF_ZH":"脸上的表情，尤指表示情感或不悦的表情。",
+      "SENT_EN":"He made a funny face to amuse the children.",
+      "SENT_ZH":"他做了个鬼脸来逗孩子们开心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expression",
+            "grimace",
+            "look"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the face of [sth]",
+      "POS":"noun",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The front, outer, or upper surface of something.",
+      "DEF_ZH":"某物的前部、外部或上部表面。",
+      "SENT_EN":"The clock has a large, clear face.",
+      "SENT_ZH":"这个钟有一个大而清晰的钟面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surface",
+            "front",
+            "side",
+            "exterior"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"face [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb (transitive) - takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To deal with or confront a difficult situation, problem, or person directly.",
+      "DEF_ZH":"直接处理或面对一个困难的境况、问题或人。",
+      "SENT_EN":"We must face the truth, however unpleasant it is.",
+      "SENT_ZH":"无论多么不愉快，我们都必须面对真相。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confront",
+            "tackle",
+            "deal with",
+            "encounter"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "avoid",
+            "evade",
+            "shirk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"face [sth/sb] | face toward [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"verb (transitive or intransitive) - may or may not take a direct object",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To have the front or main side turned toward a particular direction or object.",
+      "DEF_ZH":"将（或朝向）正面或主要一侧转向特定方向或物体。",
+      "SENT_EN":"The house faces south, so it gets a lot of sun.",
+      "SENT_ZH":"这房子朝南，因此采光很好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "look toward",
+            "be oriented toward",
+            "point toward"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

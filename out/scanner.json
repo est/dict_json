@@ -1,0 +1,101 @@
+{
+  "WORD":"scanner",
+  "IPA":"/ˈskænər/",
+  "CONJUGATES":"scanners (plural)",
+  "ETYMOLOGY":"From English 'scan' (from Latin 'scandere' meaning 'to climb, to mount, to scan [verse]') + the suffix '-er' (denoting an agent or instrument).",
+  "SINCE":"Early 19th century (for one who scans, especially verse); mid-20th century (for an electronic device).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] scanner",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"A device that converts images, documents, or objects into digital data by scanning them.",
+      "DEF_ZH":"一种通过扫描将图像、文档或物体转换为数字数据的设备。",
+      "SENT_EN":"She used a flatbed scanner to digitize her old family photographs.",
+      "SENT_ZH":"她用一台平板扫描仪将家里的旧照片数字化了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "digitizer",
+            "copier",
+            "printer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] scanner",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "technology"
+      ],
+      "DEF_EN":"A device used to read and decode information, such as barcodes or QR codes, typically for inventory or transaction processing.",
+      "DEF_ZH":"一种用于读取和解码信息（如条形码或二维码）的设备，通常用于库存或交易处理。",
+      "SENT_EN":"The cashier quickly passed the items over the barcode scanner.",
+      "SENT_ZH":"收银员迅速将商品通过条形码扫描仪。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "barcode reader",
+            "QR code reader"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] scanner",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A medical imaging machine that uses various technologies (e.g., X-rays, magnetic fields, sound waves) to create images of the inside of the body.",
+      "DEF_ZH":"一种医疗成像设备，利用各种技术（如X射线、磁场、声波）来创建身体内部图像。",
+      "SENT_EN":"The patient underwent a full-body MRI scanner to check for abnormalities.",
+      "SENT_ZH":"病人接受了全身MRI扫描仪检查是否有异常。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "MRI",
+            "CT scanner",
+            "ultrasound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] scanner",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "specialized",
+        "electronics"
+      ],
+      "DEF_EN":"A radio receiver that automatically tunes across a range of frequencies to detect and listen to various radio transmissions, often used by hobbyists or for monitoring emergency services.",
+      "DEF_ZH":"一种无线电接收器，能自动在一定频率范围内调谐以检测和收听各种无线电传输，常被业余爱好者或用于监听紧急服务。",
+      "SENT_EN":"He likes to listen to the police scanner to stay informed about local incidents.",
+      "SENT_ZH":"他喜欢听警用扫描仪，以便了解当地事件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "radio receiver",
+            "frequency scanner"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, technical, medical."
+}

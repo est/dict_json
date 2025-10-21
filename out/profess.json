@@ -1,0 +1,86 @@
+{
+  "WORD":"profess",
+  "IPA":"/prəˈfɛs/",
+  "CONJUGATES":"professing | professed | professes",
+  "ETYMOLOGY":"From Old French professer, from Latin profitērī (past participle professus), meaning 'to declare publicly, acknowledge'. Formed from pro- ('forth') + fatērī ('to confess, acknowledge').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"profess [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To affirm or declare openly one's feelings, beliefs, or opinions.",
+      "DEF_ZH":"公开声明；表白（感情、信仰、立场等）。",
+      "SENT_EN":"He professed his innocence throughout the trial, despite overwhelming evidence.",
+      "SENT_ZH":"尽管证据确凿，但在整个审判过程中他都宣称自己是无辜的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "declare",
+            "affirm",
+            "avow",
+            "proclaim"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "deny"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"profess [to do sth] / profess [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "skeptical usage"
+      ],
+      "DEF_EN":"To claim, often insincerely or falsely, that one has a particular feeling, quality, or skill.",
+      "DEF_ZH":"声称拥有（某种技能或品质），常带有虚假或怀疑的意味。",
+      "SENT_EN":"She professes to hate parties, yet she attends every social event.",
+      "SENT_ZH":"她声称讨厌聚会，但她参加了所有的社交活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "claim",
+            "pretend",
+            "purport"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"profess (vows)",
+      "POS":"vit",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "rare",
+        "religious"
+      ],
+      "DEF_EN":"To take the vows of a religious order, especially monastic vows.",
+      "DEF_ZH":"（正式）宣誓加入宗教修会或发誓。",
+      "SENT_EN":"The young man decided to profess after years spent as a novice.",
+      "SENT_ZH":"这名年轻人经过多年的见习期后决定正式宣誓入教。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "profession",
+            "vow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or literary language."
+}

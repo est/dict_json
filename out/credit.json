@@ -1,0 +1,139 @@
+{
+  "WORD":"credit",
+  "IPA":"/ˈkrɛdɪt/",
+  "CONJUGATES":"n. credits | v. credits (3rd person singular present) | credited (past tense, past participle) | crediting (present participle)",
+  "ETYMOLOGY":"From Old French credit, from Italian credito, from Latin creditum 'a loan, something entrusted,' neuter past participle of credere 'to believe, trust'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] credit",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "finance"
+      ],
+      "DEF_EN":"The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.",
+      "DEF_ZH":"顾客基于未来支付的信任而先获得商品或服务的能力。",
+      "SENT_EN":"She has good credit, so she was able to get a loan.",
+      "SENT_ZH":"她信用良好，因此能够获得贷款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trust",
+            "reputation",
+            "solvency"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "debt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"credit for [sth/doing sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Public acknowledgment or praise given to someone for their contribution or achievement.",
+      "DEF_ZH":"因某人的贡献或成就而给予的公开认可或赞扬。",
+      "SENT_EN":"She deserves full credit for organizing the event.",
+      "SENT_ZH":"她组织这次活动功不可没。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "praise",
+            "recognition",
+            "acknowledgment",
+            "acclaim"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "blame",
+            "criticism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"credit (singular/plural)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "education"
+      ],
+      "DEF_EN":"A unit of study in an educational institution, representing the completion of a course or a certain amount of study.",
+      "DEF_ZH":"教育机构中代表完成某门课程或一定学习量的学分。",
+      "SENT_EN":"You need 120 credits to graduate from university.",
+      "SENT_ZH":"你大学毕业需要120个学分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"credit [sb/sth] with [sth] | credit [sth] to [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To attribute an achievement, quality, or belief to someone or something; to believe something.",
+      "DEF_ZH":"将成就、品质或信念归因于某人或某事；相信某事。",
+      "SENT_EN":"They credit him with discovering the new medicine.",
+      "SENT_ZH":"他们把新药的发现归功于他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attribute",
+            "ascribe",
+            "impute",
+            "believe",
+            "trust"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"credit [an account] with [an amount]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "finance"
+      ],
+      "DEF_EN":"To add an amount of money to an account.",
+      "DEF_ZH":"将一笔钱存入账户。",
+      "SENT_EN":"The bank credited her account with $500.",
+      "SENT_ZH":"银行在她的账户里存入了500美元。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "debit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,94 @@
+{
+  "WORD":"span",
+  "IPA":"/spæn/",
+  "CONJUGATES":"spans | spanning | spanned",
+  "ETYMOLOGY":"From Old English spann (measure of length, hand's breadth), related to Old Norse spann (bucket) and Old High German spanna (a stretch). The verb form developed from the noun.",
+  "SINCE":"Old English (pre-1000 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"span [of time/distance]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The full extent, length, or range between two limits, especially a period of time.",
+      "DEF_ZH":"（时间或距离的）跨度，范围，持续时间。",
+      "SENT_EN":"The average human life span is increasing in many developed countries.",
+      "SENT_ZH":"在许多发达国家，人类的平均寿命正在增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extent",
+            "duration",
+            "period",
+            "stretch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"span [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To stretch or extend across (a space, gap, or period of time).",
+      "DEF_ZH":"横跨，跨越，覆盖（空间或时间）。",
+      "SENT_EN":"A new fiber optic cable will span the ocean floor.",
+      "SENT_ZH":"一条新的光缆将横跨海底。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cross",
+            "bridge",
+            "extend over"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"span",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "engineering",
+        "technical"
+      ],
+      "DEF_EN":"The distance between two intermediate supports for a structure, such as the pillars of a bridge.",
+      "DEF_ZH":"（建筑结构，如桥梁或拱门）跨距，两个支撑点之间的距离。",
+      "SENT_EN":"Engineers had to calculate the maximum safe span for the new railway bridge.",
+      "SENT_ZH":"工程师们必须计算新铁路桥的最大安全跨距。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "arch",
+            "girder",
+            "trestle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"span",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "historical",
+        "unit of measure"
+      ],
+      "DEF_EN":"An archaic unit of length equal to the distance between the tip of the thumb and the tip of the little finger when the hand is fully extended (about nine inches).",
+      "DEF_ZH":"（古老的长度单位）一拃，手张开时拇指尖到小指尖的距离（约九英寸）。",
+      "SENT_EN":"He measured the width of the fabric with his hand, counting five spans.",
+      "SENT_ZH":"他用手量布料的宽度，数了五拃。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Engineering, Academic"
+}

@@ -1,0 +1,59 @@
+{
+  "WORD":"occurrence",
+  "IPA":"/əˈkʌrəns/",
+  "CONJUGATES":"occurrences",
+  "ETYMOLOGY":"From Old French 'occurrence' (event, occurrence), from Latin 'occurrere' (to meet, happen, occur), from 'ob-' (against) + 'currere' (to run).",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"an occurrence | the occurrence of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An instance or example of something happening; an event or incident.",
+      "DEF_ZH":"一件发生的事情或事例；一个事件或事故。",
+      "SENT_EN":"The occurrence of such errors is rare in this system.",
+      "SENT_ZH":"在这种系统中，这类错误的发生是罕见的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "event",
+            "incident",
+            "happening",
+            "phenomenon",
+            "episode"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the occurrence of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The fact or frequency of something happening or existing.",
+      "DEF_ZH":"某事发生或存在的这一事实或频率。",
+      "SENT_EN":"The study analyzed the occurrence of certain genetic mutations.",
+      "SENT_ZH":"这项研究分析了某些基因突变的发生率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "presence",
+            "existence",
+            "incidence",
+            "frequency"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

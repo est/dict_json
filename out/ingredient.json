@@ -1,0 +1,80 @@
+{
+  "WORD":"ingredient",
+  "IPA":"/ɪnˈɡriːdiənt/",
+  "CONJUGATES":"ingredients (plural)",
+  "ETYMOLOGY":"From Latin ingredientem, present participle of ingredi 'to go into, enter', from in- 'into' + gradi 'to walk, step'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "cooking",
+        "chemistry"
+      ],
+      "DEF_EN":"Any of the foods or substances that are combined to make a particular dish; a component part of any mixture.",
+      "DEF_ZH":"制作特定菜肴或混合物所用的任何食物或物质；组成部分。",
+      "SENT_EN":"The recipe calls for fresh, organic ingredients.",
+      "SENT_ZH":"这个食谱要求使用新鲜的有机食材。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "component",
+            "element",
+            "constituent",
+            "part",
+            "item",
+            "substance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "recipe",
+            "dish",
+            "mixture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A quality or factor contributing to a particular result or outcome.",
+      "DEF_ZH":"促成特定结果或产出的品质或因素。",
+      "SENT_EN":"Trust is a key ingredient for a successful relationship.",
+      "SENT_ZH":"信任是成功关系的关键要素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "factor",
+            "element",
+            "component",
+            "constituent",
+            "part",
+            "aspect",
+            "determinant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hindrance",
+            "obstacle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage (formal to informal)"
+}

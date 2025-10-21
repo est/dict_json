@@ -1,0 +1,116 @@
+{
+  "WORD":"haunt",
+  "IPA":"/hɔːnt/",
+  "CONJUGATES":"haunts | haunting | haunted",
+  "ETYMOLOGY":"From Middle English, derived from Old French hanter ('to frequent, inhabit'), possibly related to Old Norse heimta ('to lead home').",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"haunt [a place]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "supernatural"
+      ],
+      "DEF_EN":"(Of a ghost or spirit) to inhabit or frequently visit (a place) as a manifestation.",
+      "DEF_ZH":"（鬼魂）缠绕；出没于；经常在（某地）显灵。",
+      "SENT_EN":"The villagers believe the old lighthouse is haunted by the ghost of a drowned sailor.",
+      "SENT_ZH":"村民们相信那座古老的灯塔被一个溺水水手的鬼魂缠绕着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "infest",
+            "prowl"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ghost",
+            "apparition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"haunt [sb] | haunt [sb's] mind",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "psychological",
+        "figurative"
+      ],
+      "DEF_EN":"To persist in the mind of someone, often causing anxiety, distress, or preoccupation.",
+      "DEF_ZH":"（记忆、想法等）萦绕于心；困扰；使不安。",
+      "SENT_EN":"The terrible images of the war continued to haunt the veteran long after he returned home.",
+      "SENT_ZH":"战争中可怕的景象在他回家很久之后仍持续困扰着这位老兵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "torment",
+            "plague",
+            "obsess"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forget",
+            "soothe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] haunt | [a favorite] haunt",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A place that a specific person or group of people frequently visits.",
+      "DEF_ZH":"常去的地方；常到之处；（尤指某人或某群体的）聚集地。",
+      "SENT_EN":"This hidden jazz club used to be my favorite haunt during college.",
+      "SENT_ZH":"这家隐藏的爵士乐俱乐部过去是我大学时最喜欢常去的地方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hangout",
+            "rendezvous",
+            "resort"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"haunt [a place]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "literal",
+        "less common"
+      ],
+      "DEF_EN":"To visit a particular place frequently or habitually.",
+      "DEF_ZH":"经常出入；常去（某地）。",
+      "SENT_EN":"Before he settled down, he would haunt the bookshops and cafes of the city center.",
+      "SENT_ZH":"在他安定下来之前，他经常出入市中心的书店和咖啡馆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frequent",
+            "loiter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and literary usage."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"verbal",
+  "IPA":"/ˈvɜːrbəl/",
+  "CONJUGATES":"verbally (adv.) | verbality (n.) | verbalize (v.)",
+  "ETYMOLOGY":"From Latin verbālis (relating to words), from verbum (word).",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"verbal communication/agreement",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or consisting of words; expressed in spoken words (rather than writing or gestures).",
+      "DEF_ZH":"与词语相关的；口头的；用言语表达的（而非书写或手势）。",
+      "SENT_EN":"We need a written contract, as a verbal agreement isn't enough.",
+      "SENT_ZH":"我们需要一份书面合同，因为口头协议不足够。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oral",
+            "spoken",
+            "unwritten",
+            "vocal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "written",
+            "nonverbal",
+            "physical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"verbal adjective/noun",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "linguistics",
+        "technical"
+      ],
+      "DEF_EN":"Relating to, derived from, or characteristic of a verb.",
+      "DEF_ZH":"动词的；与动词相关的；源自动词的（例如：动名词或分词）。",
+      "SENT_EN":"A participle is a type of verbal adjective.",
+      "SENT_ZH":"分词是一种动词性形容词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "verb",
+            "gerund",
+            "participle",
+            "nominal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"verbal talent/proficiency",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "ability"
+      ],
+      "DEF_EN":"Of or relating to the faculty of using words.",
+      "DEF_ZH":"使用词语能力的；言语技能的。",
+      "SENT_EN":"Her verbal skills allowed her to excel in debates.",
+      "SENT_ZH":"她的言语技能使她在辩论中表现出色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "linguistic",
+            "expressive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, specialized in linguistics and communication."
+}

@@ -1,0 +1,155 @@
+{
+  "WORD":"bend",
+  "IPA":"/bɛnd/",
+  "CONJUGATES":"bends | bending | bent (past tense/past participle)",
+  "ETYMOLOGY":"From Old English bendan 'to stretch (a bow), to bind, to confine with a band', ultimately related to bindan 'to bind'.",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"bend [sth] | bend",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action",
+        "physical"
+      ],
+      "DEF_EN":"To shape or force something straight into a curve or angle; or for something straight to become curved.",
+      "DEF_ZH":"使（某物）弯曲；（某物）弯曲，变弯。",
+      "SENT_EN":"Don't bend the pages of the book, you'll ruin it.",
+      "SENT_ZH":"不要折弯书页，你会把它弄坏的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curve",
+            "flex",
+            "warp",
+            "kink"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "straighten",
+            "unbend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bend over | bend down",
+      "POS":"vint + adv",
+      "POS_TIP":"intransitive verb + adverb",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"To incline the body or head downwards from the waist or knees.",
+      "DEF_ZH":"弯腰；屈身；低头。",
+      "SENT_EN":"She bent down to tie her shoelace.",
+      "SENT_ZH":"她弯下身子系鞋带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stoop",
+            "crouch",
+            "lean"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bend",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "structure"
+      ],
+      "DEF_EN":"A curved part or deviation from a straight line, especially in a road, river, or pipe.",
+      "DEF_ZH":"弯道；转弯处；（河流、管道的）弯曲部。",
+      "SENT_EN":"The accident happened just around the sharp bend.",
+      "SENT_ZH":"事故就发生在那处急转弯附近。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curve",
+            "turning",
+            "corner"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bend [sth] to [sb/sth]",
+      "POS":"vtr + obj + prep",
+      "POS_TIP":"transitive verb + object + preposition",
+      "TAGS":[
+        "figurative",
+        "idiom"
+      ],
+      "DEF_EN":"To yield or conform to external pressure, authority, or rules; to force compliance.",
+      "DEF_ZH":"屈服；使顺从；适应（某人的意愿或要求）。",
+      "SENT_EN":"The company refused to bend the rules for a single customer.",
+      "SENT_ZH":"公司拒绝为了一位顾客而打破规定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "submit",
+            "comply",
+            "yield"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "resist",
+            "oppose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bend the truth/facts",
+      "POS":"vtr + obj",
+      "POS_TIP":"transitive verb + object",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To state something that is not completely true; to distort facts slightly.",
+      "DEF_ZH":"歪曲事实；略微撒谎。",
+      "SENT_EN":"He tends to bend the truth when talking about his achievements.",
+      "SENT_ZH":"他在谈论自己的成就时往往会夸大其词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exaggerate",
+            "distort",
+            "lie"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bend (heraldry)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "heraldry"
+      ],
+      "DEF_EN":"In heraldry, a broad diagonal stripe running from the top left corner to the bottom right corner of a shield.",
+      "DEF_ZH":"（纹章学）斜带（指从盾牌的左上方角延伸至右下方角的宽对角条纹）。",
+      "SENT_EN":"The coat of arms displayed a white bend on a field of azure.",
+      "SENT_ZH":"该纹章展示了一个蓝色底纹上的白色斜带。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"common language, occasionally formal/technical (heraldry)"
+}

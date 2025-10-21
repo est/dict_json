@@ -1,0 +1,80 @@
+{
+  "WORD":"attic",
+  "IPA":"/ˈætɪk/",
+  "CONJUGATES":"attic | attics",
+  "ETYMOLOGY":"From French *attique*, from Latin *Atticus* 'of Attica', referring to Athens. Originally an architectural term for a low story or decorative structure above the main cornice, characteristic of Athenian architecture. The meaning shifted to the space under the roof in the 18th century.",
+  "SINCE":"Late 17th century (architectural); 18th century (space under roof)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] attic",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A space or room located directly under the roof of a house or other building, often used for storage or as an additional living area.",
+      "DEF_ZH":"房屋屋顶下方的空间或房间，通常用于储藏物品或作为额外居住空间。",
+      "SENT_EN":"We keep old furniture and seasonal decorations in the attic.",
+      "SENT_ZH":"我们把旧家具和季节性装饰品放在阁楼里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loft",
+            "garret"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] attic [story/element]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "architectural",
+        "less common",
+        "historical"
+      ],
+      "DEF_EN":"In architecture, a low story or decorative architectural feature above the main cornice of a building, often with a balustrade or a series of pedestals.",
+      "DEF_ZH":"建筑学中，指建筑物主檐口上方的一个低层或装饰性建筑构件，常带有栏杆或一系列基座。",
+      "SENT_EN":"The museum building features a classical attic story with sculpted reliefs.",
+      "SENT_ZH":"这座博物馆建筑的特色是带有雕塑浮雕的古典阁楼层。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cornice",
+            "pedestal",
+            "balustrade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[in one's] attic",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "informal",
+        "rare",
+        "humorous"
+      ],
+      "DEF_EN":"(Informal, humorous) Used to refer to one's head or mind, especially when suggesting confusion or eccentricity.",
+      "DEF_ZH":"（非正式，幽默）指一个人的头脑或思想，尤其是在暗示困惑或古怪时使用。",
+      "SENT_EN":"He's got some strange ideas up in his attic.",
+      "SENT_ZH":"他脑子里有些奇怪的想法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mind",
+            "head"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common for the space under the roof; specialized for architecture; informal for the idiomatic sense."
+}

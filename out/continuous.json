@@ -1,0 +1,84 @@
+{
+  "WORD":"continuous",
+  "IPA":"/kənˈtɪnjuəs/",
+  "CONJUGATES":"continuously | continuousness",
+  "ETYMOLOGY":"From Anglo-Norman and Old French *continu*, derived from Latin *continuus* (connected, uninterrupted, successive), based on *continēre* (to hold together, contain).",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is continuous",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Forming an unbroken whole; existing or extending without interruption or cessation in space, sequence, or time.",
+      "DEF_ZH":"持续不断的；连续的；不间断的；在空间、序列或时间上没有中断的。",
+      "SENT_EN":"The continuous noise from the construction site made it difficult to concentrate.",
+      "SENT_ZH":"建筑工地的持续噪音让人难以集中注意力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uninterrupted",
+            "ceaseless",
+            "perpetual",
+            "ongoing"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "intermittent",
+            "broken",
+            "discontinuous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"continuous [function] | continuous [curve]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (Technical, Mathematics/Physics)",
+      "TAGS":[
+        "specialized",
+        "technical"
+      ],
+      "DEF_EN":"(Of a function or curve) such that small changes in the input result in small changes in the output, represented graphically by a single unbroken line without jumps or holes.",
+      "DEF_ZH":"(数学、物理，指函数或曲线) 连续的；在定义域内没有间断点。",
+      "SENT_EN":"The function must be continuous at this point for the theorem to apply.",
+      "SENT_ZH":"该函数必须在这一点上是连续的，该定理才能适用。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "discrete"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"continuous [aspect]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (Grammar)",
+      "TAGS":[
+        "specialized",
+        "linguistic"
+      ],
+      "DEF_EN":"(In grammar) denoting a verb aspect (often called 'progressive') used to express an action or state that is currently in progress (e.g., 'is running', 'were talking').",
+      "DEF_ZH":"(语法) 进行的；指动词的体貌，表示动作或状态正在进行中（如进行时）。",
+      "SENT_EN":"We use the past continuous tense to describe an action that was happening at a specific time in the past.",
+      "SENT_ZH":"我们使用过去进行时来描述过去某一特定时间正在发生的动作。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "progressive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

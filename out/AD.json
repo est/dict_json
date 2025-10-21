@@ -1,0 +1,65 @@
+{
+  "WORD":"ad",
+  "IPA":"/æd/",
+  "CONJUGATES":"ads (plural)",
+  "ETYMOLOGY":"Clipping of the word *advertisement*, which derives from Old French *advertissement*.",
+  "SINCE":"Late 19th century (as a clipping)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] ad [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "clipping"
+      ],
+      "DEF_EN":"An announcement, usually paid, intended to promote a product, service, or event.",
+      "DEF_ZH":"广告；宣传品；（电视或电台的）商业广告。",
+      "SENT_EN":"Did you see that clever ad for the new streaming service?",
+      "SENT_ZH":"你看到那个关于新流媒体服务的巧妙广告了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advertisement",
+            "commercial",
+            "promo"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "marketing",
+            "campaign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a specific year] AD",
+      "POS":"initialism",
+      "POS_TIP":"initialism (an abbreviation formed from the initial letters of words)",
+      "TAGS":[
+        "historical",
+        "academic",
+        "Latin"
+      ],
+      "DEF_EN":"Used in dating systems (as AD, capitalized) to denote years following the traditionally calculated year of the birth of Jesus Christ (Anno Domini).",
+      "DEF_ZH":"公元（拉丁语 Anno Domini 的缩写，意为“主的年份”）。",
+      "SENT_EN":"The invention of printing occurred in 1439 AD.",
+      "SENT_ZH":"印刷术的发明发生在公元1439年。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "BC",
+            "BCE",
+            "CE"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage for 'advertisement'; Formal or academic usage for 'Anno Domini'."
+}

@@ -1,0 +1,100 @@
+{
+  "WORD":"sledge",
+  "IPA":"/slɛdʒ/",
+  "CONJUGATES":"sledges (n.) | sledges (v.) | sledging | sledged",
+  "ETYMOLOGY":"For the vehicle: From Old Norse *sleðja* (akin to 'slide'), reinforced by Middle Low German *sledde*. For the hammer: From Old English *sleċġ* 'hammer', related to 'slag'. The cricket sense is more recent, possibly from the idea of a 'sledgehammer' blunt verbal attack.",
+  "SINCE":"Before 900 AD (for hammer), c. 14th century (for vehicle)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A vehicle on runners, used for traveling over snow or ice, often pulled by animals or people; a sleigh.",
+      "DEF_ZH":"一种带滑轨的交通工具，用于在雪或冰上滑行，通常由动物或人牵引；雪橇。",
+      "SENT_EN":"The children laughed as they rode down the snowy hill on a sledge.",
+      "SENT_ZH":"孩子们坐着雪橇从雪坡上滑下来，开心地笑着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sleigh",
+            "toboggan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] | [sth] | [sb] [sth]",
+      "POS":"v.intr. | v.tr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To travel or convey by sledge.",
+      "DEF_ZH":"乘雪橇旅行；用雪橇运载。",
+      "SENT_EN":"They spent the afternoon sledging across the frozen lake.",
+      "SENT_ZH":"他们整个下午都在冰冻的湖面上乘雪橇滑行。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "also called sledgehammer"
+      ],
+      "DEF_EN":"A large, heavy hammer, typically with a long handle, used for breaking things, driving stakes, or demolition.",
+      "DEF_ZH":"一种大而重的锤子，通常带有长柄，用于击碎物品、打桩或拆除。",
+      "SENT_EN":"He used a sledge to break up the old concrete wall.",
+      "SENT_ZH":"他用大锤砸碎了那堵旧的混凝土墙。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sledgehammer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] | [sb] [sb]",
+      "POS":"v.intr. | v.tr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "slang",
+        "cricket",
+        "Australian English",
+        "New Zealand English"
+      ],
+      "DEF_EN":"(Cricket, informal, chiefly Australian/New Zealand) To verbally abuse or taunt an opposing player in order to distract them or upset their concentration.",
+      "DEF_ZH":"(板球，非正式，主要澳新英语) 用言语攻击或嘲讽对手球员，以使其分心或扰乱其注意力。",
+      "SENT_EN":"The opposing team constantly sledged our opening batsman, trying to get under his skin.",
+      "SENT_ZH":"对方球队不断地对我们的开场击球手进行言语挑衅，试图激怒他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "taunt",
+            "jeer",
+            "heckle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "praise",
+            "encourage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General for vehicle/hammer meanings; Informal/Sport-specific for cricket meaning."
+}

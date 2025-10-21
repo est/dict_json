@@ -1,0 +1,87 @@
+{
+  "WORD":"actual",
+  "IPA":"/ˈæktʃuəl/",
+  "CONJUGATES":"actually (adverb) | actuality (noun)",
+  "ETYMOLOGY":"From Late Middle English, from Old French actuel, from Late Latin actualis 'active, pertaining to action,' from Latin actus 'a doing, action.'",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] actual",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"Existing in fact; real and not merely imagined, possible, or theoretical.",
+      "DEF_ZH":"实际存在的；真实的；确切的。",
+      "SENT_EN":"The actual number of people attending the event was much smaller than projected.",
+      "SENT_ZH":"参加此次活动的实际人数比预计的要少得多。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "real",
+            "genuine",
+            "factual",
+            "veritable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "potential",
+            "hypothetical",
+            "theoretical",
+            "imaginary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] actual",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Common",
+        "Temporal"
+      ],
+      "DEF_EN":"Existing or happening at the present time; current.",
+      "DEF_ZH":"当前的；现时的；目前的。",
+      "SENT_EN":"What is the actual state of affairs regarding the project launch?",
+      "SENT_ZH":"关于项目启动，目前的实际情况是什么？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "current",
+            "present"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"actual [legal term]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Formal",
+        "Legal"
+      ],
+      "DEF_EN":"Relating to tangible reality or physical possession, as opposed to being constructive, presumed, or potential (used especially in legal contexts like damages, intent, or possession).",
+      "DEF_ZH":"有形的；事实上的；（法律中）指实际发生、有形的，而非推定或潜在的。",
+      "SENT_EN":"The plaintiff was awarded compensation for actual physical harm and emotional distress.",
+      "SENT_ZH":"原告因实际的身体伤害和精神痛苦而获得了赔偿。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "constructive",
+            "express"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal"
+}

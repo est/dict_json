@@ -1,0 +1,106 @@
+{
+  "WORD":"ignorant",
+  "IPA":"/ˈɪɡnərənt/",
+  "CONJUGATES":"ignorantly (adv)",
+  "ETYMOLOGY":"From Latin ignorantem (nominative ignorans), present participle of ignorare 'not to know, misunderstand', from in- 'not' + gnarus 'knowing'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"ignorant [sb] | ignorant [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective - a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lacking knowledge, information, or awareness about something in particular or general; uneducated.",
+      "DEF_ZH":"缺乏特定或普遍的知识、信息或意识的；未受教育的；无知的。",
+      "SENT_EN":"Many people are ignorant of the local laws.",
+      "SENT_ZH":"许多人对当地法律一无所知。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uninformed",
+            "uneducated",
+            "unaware",
+            "unenlightened",
+            "illiterate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "knowledgeable",
+            "informed",
+            "educated",
+            "aware"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ignorant [remark/action]",
+      "POS":"adj",
+      "POS_TIP":"adjective - a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "common",
+        "can be derogatory"
+      ],
+      "DEF_EN":"Resulting from or showing a lack of knowledge or education, often in a disrespectful or offensive way.",
+      "DEF_ZH":"因缺乏知识或教育而表现出的（言行），常带有不敬或冒犯的意味。",
+      "SENT_EN":"It was an ignorant comment to make about their culture.",
+      "SENT_ZH":"对他们的文化发表那样的评论是无知的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ill-informed",
+            "unthinking",
+            "narrow-minded",
+            "prejudiced"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enlightened",
+            "thoughtful",
+            "informed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ignorant of [sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective + preposition - an adjective followed by a preposition to form a phrase.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Not knowing or aware of a particular fact or situation.",
+      "DEF_ZH":"对某个特定事实或情况不知晓或不了解的。",
+      "SENT_EN":"She was completely ignorant of his true intentions.",
+      "SENT_ZH":"她完全不知道他的真实意图。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unaware of",
+            "unconscious of",
+            "oblivious to"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "aware of",
+            "conscious of"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to informal; can be used in a derogatory sense."
+}

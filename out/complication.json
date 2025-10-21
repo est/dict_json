@@ -1,0 +1,87 @@
+{
+  "WORD":"complication",
+  "IPA":"/ˌkɑːmplɪˈkeɪʃən/",
+  "CONJUGATES":"complications",
+  "ETYMOLOGY":"From Late Latin complicationem (nominative complicatio), from complicare 'to fold together' (com- 'together' + plicare 'to fold').",
+  "SINCE":"Late Middle English (c. 1400s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"complication",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A circumstance, factor, or difficulty that makes a situation more difficult or complex.",
+      "DEF_ZH":"使情况变得更困难或更复杂的因素、事件或困难；麻烦。",
+      "SENT_EN":"The only major complication in the merger negotiations was the disagreement over stock options.",
+      "SENT_ZH":"并购谈判中唯一的重大障碍是关于股票期权的意见分歧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "difficulty",
+            "problem",
+            "obstacle",
+            "hindrance"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "simplification",
+            "solution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"complication [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "medical"
+      ],
+      "DEF_EN":"A secondary illness or adverse condition that develops during the course of a primary disease or surgical procedure, making the primary problem worse.",
+      "DEF_ZH":"(医学) 并发症；在主要疾病或外科手术过程中发生的次要疾病或不良状况，使主要问题恶化。",
+      "SENT_EN":"He suffered a complication in his lung function following the routine surgery.",
+      "SENT_ZH":"在常规手术后，他的肺功能出现并发症。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secondary infection",
+            "sequela",
+            "aftermath"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"complication",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable, formal)",
+      "TAGS":[
+        "formal",
+        "abstract"
+      ],
+      "DEF_EN":"The state or quality of being complex or intricate; complexity.",
+      "DEF_ZH":"复杂性；错综复杂的状态或品质。",
+      "SENT_EN":"The sheer complication of the machinery required specialized maintenance.",
+      "SENT_ZH":"该机器的纯粹复杂性要求专业的维护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intricacy",
+            "complexity",
+            "sophistication"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in general conversation, business, and highly technical fields like medicine."
+}

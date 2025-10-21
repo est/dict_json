@@ -1,0 +1,108 @@
+{
+  "WORD":"optic",
+  "IPA":"/ˈɒptɪk/",
+  "CONJUGATES":"optics (pl.)",
+  "ETYMOLOGY":"From Middle French optique, from Medieval Latin opticus, from Ancient Greek ὀπτικός (optikós, 'relating to sight'), from ὀπτός (optós, 'visible'), from ὄψ (óps, 'eye, sight')",
+  "SINCE":"Late 16th century (as adjective), early 17th century (as plural noun 'optics' for the science)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[The science of] optics",
+      "POS":"n. pl.",
+      "POS_TIP":"Plural noun treated as singular (the study)",
+      "TAGS":[
+        "core word",
+        "science",
+        "academic"
+      ],
+      "DEF_EN":"The branch of physics that studies the properties and behavior of light, including its interaction with matter and the construction of instruments that detect or utilize it.",
+      "DEF_ZH":"物理学的一个分支，研究光的性质和行为，包括光与物质的相互作用以及制造检测或利用光的仪器。",
+      "SENT_EN":"She is studying optics and photonics at university.",
+      "SENT_ZH":"她在大学学习光学和光子学。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "photonics",
+            "spectroscopy",
+            "refraction",
+            "reflection",
+            "diffraction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"optic [adj] | optic nerve",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "anatomy",
+        "technical"
+      ],
+      "DEF_EN":"Relating to the eye or vision.",
+      "DEF_ZH":"与眼睛或视觉有关的。",
+      "SENT_EN":"Damage to the optic nerve can lead to blindness.",
+      "SENT_ZH":"视神经受损可能导致失明。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "visual",
+            "ocular"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"optics [n. pl.]",
+      "POS":"n. pl.",
+      "POS_TIP":"Plural noun",
+      "TAGS":[
+        "common",
+        "equipment",
+        "technical"
+      ],
+      "DEF_EN":"Optical components or devices, such as lenses, prisms, and mirrors, especially those used in telescopes, cameras, or eyeglasses.",
+      "DEF_ZH":"光学元件或设备，如透镜、棱镜和反射镜，尤其用于望远镜、照相机或眼镜中的。",
+      "SENT_EN":"The camera's optics provide exceptional clarity.",
+      "SENT_ZH":"这台相机的光学器件提供了卓越的清晰度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lens",
+            "prism",
+            "telescope",
+            "microscope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"optics [fig.]",
+      "POS":"n. pl.",
+      "POS_TIP":"Plural noun (informal/figurative use)",
+      "TAGS":[
+        "idiomatic",
+        "figurative",
+        "politics"
+      ],
+      "DEF_EN":"The way in which a situation or action is perceived by the public, especially in a political or media context.",
+      "DEF_ZH":"公众对某一情境或行为的感知方式，尤其在政治或媒体背景下（形象或观感）。",
+      "SENT_EN":"Although the policy was sound, the optics of the announcement were terrible.",
+      "SENT_ZH":"尽管这项政策是合理的，但宣布方式给人的观感（光学效果）很糟糕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "image",
+            "perception",
+            "appearance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical, General"
+}

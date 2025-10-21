@@ -1,0 +1,87 @@
+{
+  "WORD":"highway",
+  "IPA":"/ˈhaɪweɪ/",
+  "CONJUGATES":"highways (plural)",
+  "ETYMOLOGY":"From Middle English, from Old English hēahweg (hēah 'high' + weg 'way'), possibly referring to a main road that was built up above the level of the surrounding ground.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"highway",
+      "POS":"n",
+      "POS_TIP":"noun (singular/plural)",
+      "TAGS":[
+        "core word",
+        "transport",
+        "common"
+      ],
+      "DEF_EN":"A major road, typically one designed for fast travel, connecting major towns or cities; often characterized by multiple lanes and restricted access (especially in US usage).",
+      "DEF_ZH":"高速公路；幹線公路。通常用於快速行駛，連接主要城鎮或城市的主要道路。",
+      "SENT_EN":"It takes about four hours to drive along the highway from Los Angeles to Las Vegas.",
+      "SENT_ZH":"沿著高速公路從洛杉磯開車到拉斯維加斯大約需要四小時。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freeway",
+            "motorway",
+            "expressway"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interstate",
+            "autobahn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"highway",
+      "POS":"n",
+      "POS_TIP":"noun (singular/plural)",
+      "TAGS":[
+        "legal",
+        "general"
+      ],
+      "DEF_EN":"Any public road or thoroughfare open for travel by the public, encompassing streets, avenues, and lanes.",
+      "DEF_ZH":"（法律或傳統上）任何向公眾開放通行的公共道路或通道。",
+      "SENT_EN":"The city maintains responsibility for snow removal on all public highways.",
+      "SENT_ZH":"市政府負責所有公共道路上的除雪工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "roadway",
+            "thoroughfare",
+            "public way"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"highway (to [sth])",
+      "POS":"n",
+      "POS_TIP":"noun (singular/plural)",
+      "TAGS":[
+        "figurative",
+        "metaphorical"
+      ],
+      "DEF_EN":"A direct or readily available path leading to a specific goal or outcome.",
+      "DEF_ZH":"通往特定結果或目標的直接或顯而易見的途徑。",
+      "SENT_EN":"Dedication is the only highway to success in this competitive field.",
+      "SENT_ZH":"奉獻精神是在這個競爭領域取得成功的唯一途徑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "path",
+            "route",
+            "way"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage in North America favors 'highway' for major routes. In the UK, 'motorway' is preferred for controlled-access roads."
+}

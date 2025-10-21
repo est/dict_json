@@ -1,0 +1,86 @@
+{
+  "WORD":"himself",
+  "IPA":"/hɪmˈsɛlf/",
+  "CONJUGATES":"he | him | his | himself",
+  "ETYMOLOGY":"From Middle English himself, from Old English him + self. Related to 'him' (dative of 'he') and 'self'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [v] himself",
+      "POS":"reflexive pronoun",
+      "POS_TIP":"A pronoun that refers back to the subject of the clause or sentence, indicating that the action of the verb is performed on the subject itself.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to refer to a male person or animal previously mentioned as the object of a verb or preposition when he is also the subject of the clause.",
+      "DEF_ZH":"用于指代动词或介词的宾语，当宾语与句子的主语是同一男性时。",
+      "SENT_EN":"He accidentally cut himself while shaving.",
+      "SENT_ZH":"他刮胡子时不小心割伤了自己。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "he",
+            "him",
+            "his",
+            "myself",
+            "yourself",
+            "ourselves",
+            "themselves",
+            "herself",
+            "itself"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] himself [v] | [sb] [v] [obj] himself",
+      "POS":"emphatic pronoun",
+      "POS_TIP":"A pronoun used to add emphasis to the subject or object, often implying 'no one else' or 'personally'.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to emphasize the male subject or object, typically to indicate that he performed an action personally or independently.",
+      "DEF_ZH":"用于强调男性主语或宾语，通常表示他亲自或独立完成了某事。",
+      "SENT_EN":"The CEO himself gave the presentation, not his assistant.",
+      "SENT_ZH":"首席执行官亲自做了演讲，而不是他的助理。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "myself",
+            "yourself",
+            "ourselves",
+            "themselves",
+            "herself",
+            "itself"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be himself",
+      "POS":"idiomatic expression (with pronoun)",
+      "POS_TIP":"A phrase whose meaning isn't obvious from its individual words, used here with a reflexive pronoun.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To be in one's normal state of health or spirits; to act in one's usual way.",
+      "DEF_ZH":"处于正常的健康或精神状态；按惯常方式行事。",
+      "SENT_EN":"He's been feeling unwell and isn't quite himself today.",
+      "SENT_ZH":"他一直身体不适，今天感觉不太像他自己。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "be oneself"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

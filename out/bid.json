@@ -1,0 +1,103 @@
+{
+  "WORD":"bid",
+  "IPA":"/bɪd/",
+  "CONJUGATES":"bid | bidding | bids | bade | bidden | bided",
+  "ETYMOLOGY":"From Old English bēodan (to offer, proclaim, command), conflated in Middle English with biddan (to ask, pray).",
+  "SINCE":"c. 800s",
+  "MEANINGS":[
+    {
+      "PATTERN":"bid [amount] (for [sth])",
+      "POS":"vtr/vin",
+      "POS_TIP":"vtr: transitive verb | vin: intransitive verb",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "finance"
+      ],
+      "DEF_EN":"To offer a specific price for something, especially at an auction or in a competitive tender for a contract.",
+      "DEF_ZH":"（尤指在拍卖中或为获得合同）出价；投标。",
+      "SENT_EN":"They bid three million dollars for the construction project.",
+      "SENT_ZH":"他们为那个建筑项目出价三百万美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tender",
+            "offer",
+            "quote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bid (for [sth])",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "finance"
+      ],
+      "DEF_EN":"An offer of a price, especially at an auction; the amount of money offered.",
+      "DEF_ZH":"（名词）出价；报价；投标。",
+      "SENT_EN":"The winning bid exceeded our expectations.",
+      "SENT_ZH":"中标价超出了我们的预期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offer",
+            "tender",
+            "proposal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bid (to do [sth])",
+      "POS":"nc",
+      "POS_TIP":"nc: countable noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"An attempt or effort to achieve something.",
+      "DEF_ZH":"试图；努力争取（某一目标或成就）。",
+      "SENT_EN":"The country made a bid to host the World Cup.",
+      "SENT_ZH":"该国努力争取主办世界杯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attempt",
+            "effort",
+            "endeavor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bid [sb] farewell/good morning",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "literary",
+        "archaic"
+      ],
+      "DEF_EN":"To utter or express a greeting or farewell to someone.",
+      "DEF_ZH":"致意；问候；道别（常用在文学或正式场合）。",
+      "SENT_EN":"I went to the dock to bid him farewell.",
+      "SENT_ZH":"我走到码头去向他道别。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "greet",
+            "wish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Commerce, Finance."
+}

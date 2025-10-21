@@ -1,0 +1,81 @@
+{
+  "WORD":"distil",
+  "IPA":"/dɪˈstɪl/",
+  "CONJUGATES":"distils | distilling | distilled",
+  "ETYMOLOGY":"From Latin 'destillare' (de- 'down' + stillare 'to drop'), via Old French 'distiller'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"distil [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To purify a liquid, especially alcohol, by heating it and then cooling and condensing the vapor produced.",
+      "DEF_ZH":"通过加热然后冷却并冷凝产生的蒸汽来提纯液体，特别是酒精。",
+      "SENT_EN":"The company distils pure spirits from local grain.",
+      "SENT_ZH":"这家公司从当地谷物中蒸馏纯酒精。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "purify",
+            "refine",
+            "extract"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "distillation",
+            "still",
+            "alcohol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"distil [sth] from [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To extract the essential meaning or most important parts of something.",
+      "DEF_ZH":"提取某事物的核心意义或最重要部分。",
+      "SENT_EN":"He managed to distil the complex theory into a few key points.",
+      "SENT_ZH":"他成功地将复杂的理论提炼成几个要点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condense",
+            "summarize",
+            "abstract",
+            "elicit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expand",
+            "elaborate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "essence",
+            "gist",
+            "summary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to semi-formal; commonly used in scientific, technical, and analytical contexts."
+}

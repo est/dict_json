@@ -1,0 +1,96 @@
+{
+  "WORD":"metallic",
+  "IPA":"/mɪˈtælɪk/",
+  "CONJUGATES":"metallically (adv) | metallicness (n)",
+  "ETYMOLOGY":"From French métallique, ultimately from Latin metallicus, combining metallum ('metal') and the suffix -icus ('pertaining to').",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] metallic",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "physics",
+        "chemistry"
+      ],
+      "DEF_EN":"Relating to, characteristic of, or consisting of metal.",
+      "DEF_ZH":"金属的；含有金属的；具金属特性的。",
+      "SENT_EN":"The spacecraft utilized advanced metallic composites for its frame.",
+      "SENT_ZH":"该航天器利用先进的金属复合材料作为其骨架。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "metal",
+            "alloy",
+            "ore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] metallic finish/color",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun.",
+      "TAGS":[
+        "design",
+        "art",
+        "common"
+      ],
+      "DEF_EN":"Having a highly reflective, glossy, or iridescent sheen similar to polished metal.",
+      "DEF_ZH":"有金属光泽的；闪光的。",
+      "SENT_EN":"The new paint features a brilliant metallic flake finish.",
+      "SENT_ZH":"这种新油漆具有亮丽的金属薄片光洁度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lustrous",
+            "glossy",
+            "shimmering"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chrome",
+            "iridescent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] metallic sound/taste",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun.",
+      "TAGS":[
+        "common",
+        "sensory"
+      ],
+      "DEF_EN":"Resembling the characteristic sound or taste associated with certain metals; often referring to a harsh, ringing sound, or the taste of blood/iron.",
+      "DEF_ZH":"（味道、声音等）像金属的；（声音）清脆刺耳的；（味道）带血腥味的。",
+      "SENT_EN":"A strange, metallic taste in his mouth warned him that he might be bleeding internally.",
+      "SENT_ZH":"他口中有一种奇怪的金属味，提醒他可能内出血了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tinny",
+            "ringing",
+            "steely"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "blood",
+            "iron"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical"
+}

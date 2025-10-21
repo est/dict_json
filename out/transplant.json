@@ -1,0 +1,107 @@
+{
+  "WORD":"transplant",
+  "IPA":"/trænsˈplænt/",
+  "CONJUGATES":"transplants | transplanting | transplanted",
+  "ETYMOLOGY":"From Late Latin *transplantare*, from *trans-* (across, over) + *plantare* (to plant). First attested as a verb in the early 15th century.",
+  "SINCE":"c. 1425 (Verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"transplant [sth] [from sth] [to sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core",
+        "medical",
+        "biological"
+      ],
+      "DEF_EN":"To move living tissue, a cell, or an organ from one part of the body or from one individual to another.",
+      "DEF_ZH":"移植；将（器官、组织、细胞）从身体的一部分或一个个体移到另一个体。",
+      "SENT_EN":"Surgeons managed to successfully transplant the kidney into the patient.",
+      "SENT_ZH":"外科医生成功地将这颗肾脏移植到了病人身上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graft",
+            "implant"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "donor",
+            "recipient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transplant [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb or intransitive verb",
+      "TAGS":[
+        "core",
+        "horticulture"
+      ],
+      "DEF_EN":"To move a plant from the place where it has been growing and plant it in another place.",
+      "DEF_ZH":"移栽；移植（植物），将其从生长地移至另一处。",
+      "SENT_EN":"It is best to transplant the seedlings when they are young.",
+      "SENT_ZH":"最好在幼苗期就将其移栽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "replant",
+            "relocate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transplant [sb] [to sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "sociological"
+      ],
+      "DEF_EN":"To move a person or a group of people to live in a new place or environment.",
+      "DEF_ZH":"迁移；使移居；将（人或群体）安置在新的环境或地区。",
+      "SENT_EN":"The company decided to transplant its entire management team to the new headquarters overseas.",
+      "SENT_ZH":"公司决定将整个管理团队迁移到海外的新总部。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resettle",
+            "relocate",
+            "move"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a transplant",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core",
+        "medical"
+      ],
+      "DEF_EN":"The medical operation in which an organ or tissue is transplanted, or the organ or tissue itself.",
+      "DEF_ZH":"移植手术；移植物（被移植的器官或组织）。",
+      "SENT_EN":"He is doing well three months after the heart transplant.",
+      "SENT_ZH":"心脏移植手术三个月后，他的状况良好。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rejection",
+            "graft"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or technical (especially in medical/biological contexts), otherwise common."
+}

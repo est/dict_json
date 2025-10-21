@@ -1,0 +1,58 @@
+{
+  "WORD":"flask",
+  "IPA":"/flæsk/",
+  "CONJUGATES":"flasks",
+  "ETYMOLOGY":"From Old French 'flasque' (bottle), from Late Latin 'flasco' (bottle, flagon), from Proto-Germanic '*flaskō' (bottle, flask).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"flask",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small container, typically made of glass or metal and having a narrow neck, used for carrying or storing liquids, especially alcoholic drinks.",
+      "DEF_ZH":"一种小容器，通常由玻璃或金属制成，瓶颈细窄，用于携带或储存液体，尤其是酒精饮料。",
+      "SENT_EN":"He discreetly took a sip from his hip flask.",
+      "SENT_ZH":"他悄悄地从他的扁酒壶里抿了一口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bottle",
+            "phial",
+            "vial",
+            "decanter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"flask",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "scientific"
+      ],
+      "DEF_EN":"A bottle-shaped glass vessel with a narrow neck, used in laboratories for holding liquids and performing chemical experiments.",
+      "DEF_ZH":"实验室中使用的一种瓶状玻璃容器，瓶颈细窄，用于盛装液体和进行化学实验。",
+      "SENT_EN":"The chemist carefully poured the solution into an Erlenmeyer flask.",
+      "SENT_ZH":"化学家小心翼翼地将溶液倒入一个锥形烧瓶中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "beaker",
+            "test tube",
+            "retort"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

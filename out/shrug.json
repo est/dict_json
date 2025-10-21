@@ -1,0 +1,85 @@
+{
+  "WORD":"shrug",
+  "IPA":"/ʃrʌɡ/",
+  "CONJUGATES":"shrugs | shrugged | shrugging",
+  "ETYMOLOGY":"Late Middle English (c. 1450), possibly of Low German origin, related to Middle Low German schrukken 'to shrink, draw up.'",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"shrug (vi) | shrug [sth] (vt)",
+      "POS":"v",
+      "POS_TIP":"verb (intransitive or transitive)",
+      "TAGS":[
+        "core word",
+        "common",
+        "gesture"
+      ],
+      "DEF_EN":"To raise both shoulders briefly and slightly, typically to express indifference, doubt, helplessness, or lack of knowledge.",
+      "DEF_ZH":"略微耸起双肩，通常表示冷漠、怀疑、无奈或不知道。",
+      "SENT_EN":"When I asked him who was responsible, he could only shrug.",
+      "SENT_ZH":"当我问他谁该负责时，他只能耸耸肩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gesture",
+            "disregard"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "apathy",
+            "indifference"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shrug [sth] off",
+      "POS":"v + adv",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To dismiss something as unimportant, or to recover quickly from an unpleasant experience or difficulty.",
+      "DEF_ZH":"对某事不予理会，或很快从不愉快的经历或困难中恢复过来。",
+      "SENT_EN":"It was a serious mistake, but he tried to shrug it off as a minor oversight.",
+      "SENT_ZH":"那是一个严重的错误，但他试图将其视为小小的疏忽而置之不理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ignore",
+            "dismiss",
+            "brush off",
+            "recover from"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dwell on",
+            "take to heart"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a shrug",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act or gesture of shrugging the shoulders.",
+      "DEF_ZH":"耸肩的动作或姿态。",
+      "SENT_EN":"He responded to the accusation with a simple shrug.",
+      "SENT_ZH":"他对指控的回应只是一个简单的耸肩。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

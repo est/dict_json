@@ -1,0 +1,98 @@
+{
+  "WORD":"expire",
+  "IPA":"/ɪkˈspaɪər/",
+  "CONJUGATES":"expires | expired | expiring",
+  "ETYMOLOGY":"From Middle English, from Old French expirer, from Latin exspirare (ex- 'out' + spirare 'breathe'). Originally meaning 'to breathe out' or 'to die'.",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] expire",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "administrative"
+      ],
+      "DEF_EN":"To cease to be valid after a specified period of time; to run out.",
+      "DEF_ZH":"（证书、合同、有效期等）期满；失效；到期。",
+      "SENT_EN":"My driver's license is due to expire next month, so I need to schedule a renewal.",
+      "SENT_ZH":"我的驾照下个月就要到期了，所以我需要安排续期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "terminate",
+            "lapse",
+            "run out",
+            "cease"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "validate",
+            "renew",
+            "begin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] expire",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "formal",
+        "euphemistic",
+        "literary",
+        "archaic"
+      ],
+      "DEF_EN":"To die; to breathe one's last breath.",
+      "DEF_ZH":"死亡；去世；断气。（多用于正式、文学或委婉的语境）",
+      "SENT_EN":"The venerable poet finally expired after a long illness.",
+      "SENT_ZH":"这位受人尊敬的诗人在长期患病后终于去世了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pass away",
+            "perish",
+            "die"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] expire [sth] (air/breath)",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "medical",
+        "archaic",
+        "physiology"
+      ],
+      "DEF_EN":"To breathe out; to exhale.",
+      "DEF_ZH":"呼气；吐气。（多为医学或旧时用法）",
+      "SENT_EN":"He would inspire slowly through the nose and expire through the mouth.",
+      "SENT_ZH":"他会通过鼻子慢慢吸气，然后通过嘴巴呼气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exhale",
+            "breathe out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inspire",
+            "inhale"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly common in legal and administrative contexts (Meaning 1)."
+}

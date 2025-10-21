@@ -1,0 +1,104 @@
+{
+  "WORD":"earth",
+  "IPA":"/ɜːθ/",
+  "CONJUGATES":"earths | earthed | earthing",
+  "ETYMOLOGY":"From Old English eorþe, of Germanic origin; related to Dutch aarde, German Erde, and Old Norse jǫrð.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"Earth",
+      "POS":"proper noun",
+      "POS_TIP":"A name used for an individual person, place, or organization, spelled with an initial capital letter.",
+      "TAGS":[
+        "core word",
+        "astronomy",
+        "common"
+      ],
+      "DEF_EN":"The planet on which we live, the third planet from the sun.",
+      "DEF_ZH":"我们居住的行星，太阳系的第三颗行星。",
+      "SENT_EN":"Life as we know it exists only on Earth.",
+      "SENT_ZH":"据我们所知，生命只存在于地球上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "world",
+            "globe",
+            "Terra"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"earth",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The substance of the land surface; soil, especially as dug up by an animal or plough.",
+      "DEF_ZH":"地表物质；泥土，尤指被动物挖掘或被犁翻起的泥土。",
+      "SENT_EN":"The freshly turned earth smelled rich and fertile.",
+      "SENT_ZH":"新翻的泥土散发着浓郁的肥沃气息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "soil",
+            "dirt",
+            "ground",
+            "loam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the earth",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things.",
+      "TAGS":[
+        "core word",
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"The world or its inhabitants; mankind.",
+      "DEF_ZH":"世界或其居民；人类。",
+      "SENT_EN":"Peace on earth seemed an impossible dream.",
+      "SENT_ZH":"世界和平似乎是一个不可能实现的梦想。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "world",
+            "mankind",
+            "humanity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"earth [sth]",
+      "POS":"verb",
+      "POS_TIP":"A word or phrase that describes an action, condition, or experience.",
+      "TAGS":[
+        "technical",
+        "UK English",
+        "common"
+      ],
+      "DEF_EN":"Connect (an electrical device) to the earth as a safety measure.",
+      "DEF_ZH":"将（电器设备）接地，作为一种安全措施。",
+      "SENT_EN":"Make sure the metal casing is properly earthed.",
+      "SENT_ZH":"确保金属外壳已正确接地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ground (US)"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in everyday conversation, scientific contexts, and technical fields (for the electrical meaning)."
+}

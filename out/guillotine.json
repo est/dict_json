@@ -1,0 +1,83 @@
+{
+  "WORD":"guillotine",
+  "IPA":"/ˌɡɪləˈtiːn/",
+  "CONJUGATES":"guillotines (n.) | guillotines (v.) | guillotining (v.) | guillotined (v.)",
+  "ETYMOLOGY":"Named after Joseph-Ignace Guillotin (1738–1814), a French physician who advocated for a more humane method of execution in 1789.",
+  "SINCE":"Late 18th century (around 1789-1792)",
+  "MEANINGS":[
+    {
+      "PATTERN":"guillotine",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "device",
+        "execution"
+      ],
+      "DEF_EN":"A machine with a heavy blade sliding vertically in grooves, used for beheading people.",
+      "DEF_ZH":"一种带有重型刀片在垂直槽中滑动、用于斩首的机器。",
+      "SENT_EN":"During the French Revolution, thousands of people were executed by the guillotine.",
+      "SENT_ZH":"在法国大革命期间，成千上万的人被断头台处决。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "decapitation",
+            "execution",
+            "axe",
+            "gallows"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"guillotine [sb]",
+      "POS":"vt.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "historical",
+        "formal",
+        "execution"
+      ],
+      "DEF_EN":"To execute (someone) by means of a guillotine.",
+      "DEF_ZH":"用断头台处决（某人）。",
+      "SENT_EN":"The revolutionary tribunal ordered them to be guillotined for treason.",
+      "SENT_ZH":"革命法庭下令以叛国罪将他们处以断头刑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "behead",
+            "decapitate",
+            "execute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"guillotine [sth]",
+      "POS":"vt.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "political",
+        "parliamentary"
+      ],
+      "DEF_EN":"To cut short or limit debate on a bill or motion by parliamentary procedure, often to expedite its passage.",
+      "DEF_ZH":"通过议会程序限制或缩短对一项议案或动议的辩论，通常是为了加快其通过。",
+      "SENT_EN":"The government used the guillotine motion to push the controversial bill through parliament.",
+      "SENT_ZH":"政府利用“断头台动议”强行通过了这项有争议的法案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curtail",
+            "cut off",
+            "expedite"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal (for the device and direct action); Political/Figurative (for parliamentary procedure)."
+}

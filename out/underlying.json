@@ -1,0 +1,90 @@
+{
+  "WORD":"underlying",
+  "IPA":"/ˌʌndərˈlaɪ.ɪŋ/",
+  "CONJUGATES":"underlie (v) | underlay (pt) | underlain (pp) | underlies (3s)",
+  "ETYMOLOGY":"Present participle of the verb 'underlie', formed from the prefix 'under-' and the verb 'lie' (to rest or be situated). First used adjectivally in the early 17th century.",
+  "SINCE":"17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"underlying [problem/cause/principle]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Fundamental; basic; forming the essential basis or foundation of a phenomenon, issue, or concept, often hidden or not immediately obvious.",
+      "DEF_ZH":"潜在的；根本的；基础的，构成事物基础的或隐藏在表面之下的。",
+      "SENT_EN":"We must identify the underlying causes of the economic recession before proposing a solution.",
+      "SENT_ZH":"在提出解决方案之前，我们必须找出经济衰退的根本原因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fundamental",
+            "basic",
+            "essential",
+            "root",
+            "implicit"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "underlie",
+            "basis",
+            "foundation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"underlying [asset/security]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "specialized",
+        "finance",
+        "legal"
+      ],
+      "DEF_EN":"Relating to the specific financial asset, commodity, or security upon which a derivative, option, or other contract is based.",
+      "DEF_ZH":"标的资产的；基础证券的（指衍生金融产品所依据的资产）。",
+      "SENT_EN":"The volatility of the options contract is directly related to the price movement of the underlying stock.",
+      "SENT_ZH":"期权合约的波动性与标的股票的价格变动直接相关。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "derivative",
+            "security",
+            "asset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] underlying [sth else]",
+      "POS":"v. part.",
+      "POS_TIP":"present participle (of the verb 'underlie')",
+      "TAGS":[
+        "literal",
+        "geology"
+      ],
+      "DEF_EN":"Lying beneath or situated under another surface or layer.",
+      "DEF_ZH":"位于...下面的；躺在...之下的（动词'underlie'的现在分词）。",
+      "SENT_EN":"Geologists drilled down to the stratum of sandstone underlying the heavy clay.",
+      "SENT_ZH":"地质学家钻探到了重粘土下方的砂岩层。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "underlie",
+            "beneath"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in academic, medical, or financial contexts."
+}

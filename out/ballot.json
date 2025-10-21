@@ -1,0 +1,85 @@
+{
+  "WORD":"ballot",
+  "IPA":"/ˈbælət/",
+  "CONJUGATES":"ballots | balloting | balloted",
+  "ETYMOLOGY":"From Italian ballotta 'a small ball used for secret voting', diminutive of balla 'a ball'",
+  "SINCE":"1540s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"A paper or electronic system used to record a vote.",
+      "DEF_ZH":"选票；（投票用的）表决纸或电子系统。",
+      "SENT_EN":"She cast her ballot for the local mayor candidate.",
+      "SENT_ZH":"她投了地方市长候选人一票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vote slip",
+            "polling paper"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "franchise",
+            "referendum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] ballot",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "politics"
+      ],
+      "DEF_EN":"The process or act of secret voting, or the system by which votes are cast.",
+      "DEF_ZH":"秘密投票（的权利或程序）；选举；投票结果。",
+      "SENT_EN":"The union agreed to hold a secret ballot concerning the strike action.",
+      "SENT_ZH":"工会同意就罢工行动进行秘密投票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "election",
+            "poll",
+            "vote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ballot [on sth]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To vote or to cause to vote, especially using a formal, secret ballot.",
+      "DEF_ZH":"（通过不记名投票）进行选举；投票表决。",
+      "SENT_EN":"The board decided to ballot the members on the new proposal.",
+      "SENT_ZH":"董事会决定让成员就新提案进行投票表决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vote",
+            "poll"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Political science, formal communication, common usage."
+}

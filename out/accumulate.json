@@ -1,0 +1,90 @@
+{
+  "WORD":"accumulate",
+  "IPA":"/əˈkjuːmjəleɪt/",
+  "CONJUGATES":"accumulates | accumulating | accumulated",
+  "ETYMOLOGY":"From Latin accumulare (ad- 'to' + cumulare 'heap'), derived from cumulus 'a heap, mass'.",
+  "SINCE":"Early 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"accumulate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb requiring a direct object",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To gather or acquire an increasing number or quantity of something over a period of time.",
+      "DEF_ZH":"积累；积聚；收集（指在一段时间内逐渐增加数量或数量）",
+      "SENT_EN":"She accumulated a large amount of wealth through shrewd investments.",
+      "SENT_ZH":"她通过精明的投资积累了大量财富。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "amass",
+            "gather",
+            "stockpile",
+            "hoard",
+            "collect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disperse",
+            "dissipate",
+            "spend",
+            "squander"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accumulate",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb: verb not requiring a direct object",
+      "TAGS":[
+        "Common",
+        "Process"
+      ],
+      "DEF_EN":"To increase in quantity, number, or degree; to mount up.",
+      "DEF_ZH":"堆积；增加；增长；不断增多",
+      "SENT_EN":"Debt can quickly accumulate if payments are missed.",
+      "SENT_ZH":"如果错过付款，债务会迅速累积。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "build up",
+            "accrue",
+            "mount up",
+            "grow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accumulate [capital/interest]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb requiring a direct object",
+      "TAGS":[
+        "Finance",
+        "Formal"
+      ],
+      "DEF_EN":"To allow income, interest, or capital to collect and remain undivided for future use or reinvestment.",
+      "DEF_ZH":"（金融或法律）将收益、利息或资本积累起来，以便将来使用或再投资。",
+      "SENT_EN":"The fund manager decided to accumulate the dividends instead of distributing them.",
+      "SENT_ZH":"基金经理决定累积股息而不是分配它们。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reinvest",
+            "compound"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally used in formal or standard English, though common in everyday conversation regarding money or materials."
+}

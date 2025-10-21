@@ -1,0 +1,100 @@
+{
+  "WORD":"mechanical",
+  "IPA":"/mɪˈkænɪkəl/",
+  "CONJUGATES":"mechanically (adv) | mechanicalness (n)",
+  "ETYMOLOGY":"From Late Latin mechanicus, from Greek mēkhanikós (of or pertaining to machines or mechanics), from mēkhanḗ (machine, device).",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"mechanical [adj] [device/system]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"Relating to or operated by a machine or mechanism; physical apparatus.",
+      "DEF_ZH":"关于或通过机器或机械装置操作的；涉及物理设备的。",
+      "SENT_EN":"The watch features a complex mechanical movement powered by a spring.",
+      "SENT_ZH":"这块手表采用复杂的机械机芯，由发条驱动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "machinery",
+            "automated",
+            "motorized",
+            "apparatus"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mechanism",
+            "engineer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mechanical [adj] [property/science]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "scientific",
+        "academic",
+        "physics"
+      ],
+      "DEF_EN":"Relating to the branch of physics concerned with motion and forces, or the physical properties (like strength or elasticity) of materials.",
+      "DEF_ZH":"涉及力学科学的，即研究运动和力的物理学分支；或涉及材料的物理性质（如强度或弹性）的。",
+      "SENT_EN":"We need to analyze the mechanical stresses on the bridge structure.",
+      "SENT_ZH":"我们需要分析桥梁结构上的机械应力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "physics",
+            "dynamics",
+            "kinetics",
+            "stress"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mechanical [adj] [action/response]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative",
+        "descriptive"
+      ],
+      "DEF_EN":"Done automatically or without thought or feeling; lacking spontaneity or genuine intent.",
+      "DEF_ZH":"机械地，不假思索地或不带感情地完成的；缺乏自发性或真实意图的。",
+      "SENT_EN":"She gave a mechanical nod of agreement, clearly not listening to the details.",
+      "SENT_ZH":"她机械地点了点头表示同意，显然没有听细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automatic",
+            "routine",
+            "perfunctory",
+            "unthinking"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "spontaneous",
+            "genuine",
+            "thoughtful"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical, Scientific, and General Usage"
+}

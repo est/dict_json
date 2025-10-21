@@ -1,0 +1,87 @@
+{
+  "WORD":"displace",
+  "IPA":"/dɪsˈpleɪs/",
+  "CONJUGATES":"displaces | displacing | displaced",
+  "ETYMOLOGY":"From Old French desplacer (des- 'away, reverse' + placer 'to place'), ultimately from Latin placēre.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"displace [sth] | displace [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take the place of someone or something; to force something or someone out of its usual or original position or function.",
+      "DEF_ZH":"取代（某人或某物）；将（某人或某物）从其通常或原有位置或职位上替换掉。",
+      "SENT_EN":"The invention of the internet displaced traditional print media as the primary source of news.",
+      "SENT_ZH":"互联网的发明取代了传统印刷媒体，成为新闻的主要来源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "replace",
+            "supplant",
+            "supersede",
+            "oust"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "establish",
+            "install",
+            "place"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"displace [sb] (from home)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "humanitarian",
+        "social science"
+      ],
+      "DEF_EN":"To force a person or community to leave their home or native area, often due to conflict, persecution, or natural disaster.",
+      "DEF_ZH":"（因战争、灾难或迫害）迫使（某人）离开家园；使流离失所。",
+      "SENT_EN":"The massive earthquake displaced over two hundred thousand people in the region.",
+      "SENT_ZH":"这场大地震使该地区超过二十万人流离失所。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "evacuate",
+            "refugee",
+            "migration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"displace [a volume]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"To move a fluid (like water or air) out of its original position, usually by immersing an object.",
+      "DEF_ZH":"排出（液体或气体）；使（流体）移位。",
+      "SENT_EN":"When the boat is launched, it displaces a specific volume of water.",
+      "SENT_ZH":"船只下水时会排开特定体积的水。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "buoyancy",
+            "submerge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in academic or official reports concerning sociology and science."
+}

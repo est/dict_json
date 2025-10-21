@@ -1,0 +1,81 @@
+{
+  "WORD":"shepherd",
+  "IPA":"/ˈʃɛpərd/",
+  "CONJUGATES":"shepherds (pl. n. / 3rd sing. v.) | shepherded (pt. pp.) | shepherding (prp.)",
+  "ETYMOLOGY":"From Middle English schepherde, from Old English scēaphierde, a compound of scēap ('sheep') and hierde ('herder').",
+  "SINCE":"Before 1100 (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "occupation"
+      ],
+      "DEF_EN":"A person whose job is to take care of sheep and guard the flock.",
+      "DEF_ZH":"牧羊人；羊倌。",
+      "SENT_EN":"The shepherd used his dog to round up the stray lambs.",
+      "SENT_ZH":"牧羊人利用他的狗来聚集走失的羔羊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "herder",
+            "stockman",
+            "pastor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"figurative, often capitalized",
+      "TAGS":[
+        "common",
+        "religious",
+        "metaphor"
+      ],
+      "DEF_EN":"A spiritual guide or protector, often referring to a Christian minister (pastor) or to God/Christ.",
+      "DEF_ZH":"（比喻义）精神导师；保护者；（尤指基督教的）牧师或上帝/基督。",
+      "SENT_EN":"The 23rd Psalm begins, 'The Lord is my Shepherd.'",
+      "SENT_ZH":"《诗篇》第23篇的开头是：“耶和华是我的牧者。”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guide",
+            "leader",
+            "protector"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shepherd [sb] / [sth] (somewhere)",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action verb"
+      ],
+      "DEF_EN":"To guide or lead a group of people or animals carefully, often in a protective manner.",
+      "DEF_ZH":"引导；带领；护送（一群人或动物）。",
+      "SENT_EN":"He successfully shepherded the journalists through the crowded halls of the conference center.",
+      "SENT_ZH":"他成功地引导记者们穿过了拥挤的会议中心大厅。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guide",
+            "escort",
+            "steer",
+            "marshall"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used figuratively or professionally."
+}

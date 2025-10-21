@@ -1,0 +1,63 @@
+{
+  "WORD":"ascribe",
+  "IPA":"/əˈskraɪb/",
+  "CONJUGATES":"ascribes | ascribed | ascribing",
+  "ETYMOLOGY":"From Latin *ascribere*, formed from *ad-* (to) + *scribere* (to write). Originally meant 'to enter in a register, enroll', later developing the meaning 'to attribute' in the 15th century.",
+  "SINCE":"15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"ascribe [sth] to [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb requiring a direct object (sth) followed by a preposition (to) indicating the recipient or cause (sb/sth).",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To attribute or regard a specific quality, cause, or characteristic as belonging to or originating from a particular person or source.",
+      "DEF_ZH":"将（品质、原因或特点）归因于；归属于；认为...是...的结果。",
+      "SENT_EN":"They wrongly ascribed the invention to the wrong scientist.",
+      "SENT_ZH":"他们错误地将这项发明归功于那位错误的科学家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attribute",
+            "impute",
+            "credit",
+            "assign"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dissociate",
+            "disconnect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ascribe [sth] to [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb requiring a direct object (sth) followed by a preposition (to) indicating the author or creator (sb).",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To assign a piece of writing, artwork, or statement to a specific author, period, or creator.",
+      "DEF_ZH":"判定（作品、言论等）的作者或年代。",
+      "SENT_EN":"Scholars generally ascribe the poem to the early Romantic era.",
+      "SENT_ZH":"学者们通常将这首诗判定为早期浪漫主义时期的作品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assign",
+            "designate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic and formal writing."
+}

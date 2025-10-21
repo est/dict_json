@@ -1,0 +1,76 @@
+{
+  "WORD":"whenever",
+  "IPA":"/wɛnˈɛvər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound of the adverb 'when' (from Old English hwænne) and the adverb 'ever' (from Old English ǣfre).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"whenever [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"At whatever time; every time that.",
+      "DEF_ZH":"无论何时；每当…时。",
+      "SENT_EN":"You can start the project whenever you are ready.",
+      "SENT_ZH":"你准备好了就可以随时开始这个项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "at any time that",
+            "every time"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"whenever",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "informal",
+        "response"
+      ],
+      "DEF_EN":"Used in response to indicate that the exact time is not important; any time is acceptable.",
+      "DEF_ZH":"随时都可以；不限时间（用于回答或表示对具体时间不关心）。",
+      "SENT_EN":"\"When should we meet?\" \"Whenever suits you best.\"",
+      "SENT_ZH":"“我们什么时候见面？”“你方便随时都可以。”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "any time",
+            "at will"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"whenever [sth happens]",
+      "POS":"conj",
+      "POS_TIP":"conjunction",
+      "TAGS":[
+        "dated",
+        "informal"
+      ],
+      "DEF_EN":"If and when; assuming that something will happen.",
+      "DEF_ZH":"如果或只要（表示假设或不确定性）。",
+      "SENT_EN":"Whenever the shipment arrives, we will notify you immediately.",
+      "SENT_ZH":"一旦货物到达，我们会立即通知您。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "if",
+            "when"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

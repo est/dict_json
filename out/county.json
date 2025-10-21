@@ -1,0 +1,63 @@
+{
+  "WORD":"county",
+  "IPA":"/ˈkaʊnti/",
+  "CONJUGATES":"counties",
+  "ETYMOLOGY":"From Old French conté, cunté ('territory of a count'), from Latin comitātus ('company, retinue, jurisdiction of a comes or count').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] county",
+      "POS":"n",
+      "POS_TIP":"Noun (Countable)",
+      "TAGS":[
+        "core word",
+        "administration",
+        "geography"
+      ],
+      "DEF_EN":"A geographical and political division of a state or country, forming a unit of local government (especially in the US, UK, Ireland, and Canada).",
+      "DEF_ZH":"州或国家下属的一个地理和政治区域划分，构成地方政府单位（尤指美国、英国、爱尔兰和加拿大）。",
+      "SENT_EN":"The new road construction project must be approved by the county council.",
+      "SENT_ZH":"新的道路建设项目必须得到县议会的批准。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shire",
+            "district",
+            "province",
+            "parish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the county",
+      "POS":"n",
+      "POS_TIP":"Noun (Collective or Metonymy)",
+      "TAGS":[
+        "collective",
+        "informal"
+      ],
+      "DEF_EN":"The inhabitants of a specific county, or the social life and gentry associated with it.",
+      "DEF_ZH":"一个特定县的居民或与其相关的社会生活和乡绅阶层（作为集体名词）。",
+      "SENT_EN":"The whole county showed up for the annual fair.",
+      "SENT_ZH":"全县的人都来参加一年一度的集市。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"county (UK Historical)",
+      "POS":"n",
+      "POS_TIP":"Noun (Countable)",
+      "TAGS":[
+        "historical",
+        "UK English"
+      ],
+      "DEF_EN":"The territory formerly ruled by a count or earl.",
+      "DEF_ZH":"（英国历史）伯爵或郡长曾经管辖的领土。",
+      "SENT_EN":"Historically, the county of Essex was far larger than it is today.",
+      "SENT_ZH":"从历史上看，埃塞克斯郡比它今天所辖的范围要大得多。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Administrative, Geographic, Formal"
+}

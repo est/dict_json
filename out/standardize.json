@@ -1,0 +1,72 @@
+{
+  "WORD":"standardize",
+  "IPA":"/ˈstændərdaɪz/",
+  "CONJUGATES":"standardizes | standardized | standardizing",
+  "ETYMOLOGY":"From standard + -ize (verb-forming suffix, from Greek -izein). First attested in the mid-19th century.",
+  "SINCE":"c. 1859",
+  "MEANINGS":[
+    {
+      "PATTERN":"standardize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make things of the same type all have the same basic characteristics or conform to a standard.",
+      "DEF_ZH":"使（某事物）标准化；使符合标准；使统一",
+      "SENT_EN":"The company decided to standardize its production processes across all factories.",
+      "SENT_ZH":"公司决定使其所有工厂的生产流程标准化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uniformize",
+            "regularize",
+            "normalize",
+            "homogenize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "diversify",
+            "individualize",
+            "vary"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "standard",
+            "standardization"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"standardize [sth] against [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"To adjust or calibrate a measurement, instrument, or solution against a known standard to ensure accuracy.",
+      "DEF_ZH":"将（某事物）与（某标准）进行校准；使对照标准确定",
+      "SENT_EN":"Lab technicians must standardize their equipment against certified reference materials before conducting experiments.",
+      "SENT_ZH":"实验室技术人员在进行实验前必须用经过认证的参考物质校准其设备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calibrate",
+            "validate",
+            "normalize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to everyday use, particularly in business, industry, and scientific contexts."
+}

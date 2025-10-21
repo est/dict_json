@@ -1,0 +1,109 @@
+{
+  "WORD":"update",
+  "IPA":"/ʌpˈdeɪt/",
+  "CONJUGATES":"updates | updating | updated",
+  "ETYMOLOGY":"Compound of the prefix 'up-' (meaning 'up to date') and the noun 'date' (referring to time), first recorded as a verb in the mid-20th century.",
+  "SINCE":"c. 1940s",
+  "MEANINGS":[
+    {
+      "PATTERN":"update [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "technology"
+      ],
+      "DEF_EN":"To make something more current, modern, or accurate by incorporating the latest information or changes.",
+      "DEF_ZH":"更新；使...现代化或最新；修正。",
+      "SENT_EN":"Please update your software before the end of the week.",
+      "SENT_ZH":"请在本周末前更新您的软件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "refresh",
+            "modernize",
+            "renovate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "downgrade",
+            "obsolete"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"update [sb] on [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To give someone the most recent information about a situation or development.",
+      "DEF_ZH":"告知最新情况；向...汇报最新的进展。",
+      "SENT_EN":"Our manager promised to update us on the merger talks tomorrow.",
+      "SENT_ZH":"我们的经理承诺明天向我们汇报合并谈判的最新情况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brief",
+            "inform",
+            "notify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an update",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "technology"
+      ],
+      "DEF_EN":"A newer version of something, especially software or data, that includes recent modifications or improvements.",
+      "DEF_ZH":"更新版本；升级；补丁。",
+      "SENT_EN":"The latest security update fixed a major vulnerability.",
+      "SENT_ZH":"最新的安全更新修复了一个主要的漏洞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "upgrade",
+            "patch",
+            "revision"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"receive an update",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "report"
+      ],
+      "DEF_EN":"A report or piece of information containing the latest news or developments.",
+      "DEF_ZH":"最新进展报告；简报；消息。",
+      "SENT_EN":"I received a worrying update on my grandmother's health this morning.",
+      "SENT_ZH":"今天早上我收到了关于我祖母健康状况的令人担忧的消息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "report",
+            "bulletin",
+            "briefing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, highly frequent in technology, computing, and business contexts."
+}

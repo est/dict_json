@@ -1,0 +1,78 @@
+{
+  "WORD":"telex",
+  "IPA":"/ˈtɛl.ɛks/",
+  "CONJUGATES":"telexes | telexed | telexing",
+  "ETYMOLOGY":"A blend of 'teleprinter' and 'exchange' (or 'teleprinter exchange').",
+  "SINCE":"c. 1932",
+  "MEANINGS":[
+    {
+      "PATTERN":"telex",
+      "POS":"n",
+      "POS_TIP":"noun, usually uncountable",
+      "TAGS":[
+        "core word",
+        "telecommunications",
+        "historical"
+      ],
+      "DEF_EN":"An international communication network and service for sending written messages, using teleprinters connected by telephone lines.",
+      "DEF_ZH":"一种国际电传通信网络和服务，使用通过电话线连接的电传打字机来发送书面信息。",
+      "SENT_EN":"The telex system was crucial for global commerce before the rise of the internet.",
+      "SENT_ZH":"在互联网兴起之前，电传系统对全球商业至关重要。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "teleprinter",
+            "telegraph"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a telex",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "common",
+        "historical"
+      ],
+      "DEF_EN":"A message sent or received using the telex system.",
+      "DEF_ZH":"通过电传系统发送或接收的信息或电报。",
+      "SENT_EN":"We need to send a telex to the supplier confirming the order quantity.",
+      "SENT_ZH":"我们需要给供应商发送一份电传，确认订单数量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "telegram",
+            "cable",
+            "wire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"telex [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "historical"
+      ],
+      "DEF_EN":"To send a message or information to someone via the telex system.",
+      "DEF_ZH":"通过电传系统向某人发送信息。",
+      "SENT_EN":"The company telexed the urgent update to all its international branches.",
+      "SENT_ZH":"该公司通过电传向所有国际分部发送了紧急更新。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wire",
+            "send"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"historical, business, telecommunications"
+}

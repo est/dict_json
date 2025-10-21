@@ -1,0 +1,112 @@
+{
+  "WORD":"MOUSE",
+  "IPA":"/maʊs/",
+  "CONJUGATES":"Plural: mice | Past Tense: moused | Past Participle: moused | Present Participle: mousing",
+  "ETYMOLOGY":"From Old English mūs, from Proto-Germanic *mūs, ultimately from Proto-Indo-European *muh₂s (mouse).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] mouse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small, widespread rodent, typically having a pointed snout, long, thin tail, and brownish-grey fur, often living near or in human habitation.",
+      "DEF_ZH":"一种小型且分布广泛的啮齿动物，通常有尖嘴、细长尾巴和棕灰色毛皮，常生活在人类居所附近或内部。",
+      "SENT_EN":"The cat waited patiently for the mouse to emerge from its hiding spot.",
+      "SENT_ZH":"猫耐心地等待老鼠从藏身之处出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rodent",
+            "vermin"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rat",
+            "vole"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] computer mouse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technology"
+      ],
+      "DEF_EN":"A small hand-held device that controls the movement of a cursor on a computer screen and is used to select, click, and drag items.",
+      "DEF_ZH":"一种小型手持设备，用于控制计算机屏幕上光标的移动，并用于选择、点击和拖拽项目。",
+      "SENT_EN":"I need a new mouse because the scroll wheel on mine is broken.",
+      "SENT_ZH":"我需要一个新鼠标，因为我这个的滚轮坏了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trackpad",
+            "keyboard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mouse [over/around/to] [sth]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "computing",
+        "transitive"
+      ],
+      "DEF_EN":"To move a computer mouse, especially in order to position the cursor, click, or hover over a specific area.",
+      "DEF_ZH":"移动计算机鼠标，特别是为了定位光标、点击或悬停在特定区域上。",
+      "SENT_EN":"Mouse over the link to see the preview before you click.",
+      "SENT_ZH":"点击前，将鼠标移到链接上查看预览。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "navigate",
+            "cursor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] mouse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "informal"
+      ],
+      "DEF_EN":"A person who is quiet, shy, or timid.",
+      "DEF_ZH":"一个安静、害羞或胆小的人。",
+      "SENT_EN":"Don't be such a mouse; speak up and tell them what you think.",
+      "SENT_ZH":"不要这么胆小，大声说出你的想法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shrinking violet",
+            "wallflower"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "extrovert",
+            "loudmouth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (computing)"
+}

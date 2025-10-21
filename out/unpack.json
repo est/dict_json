@@ -1,0 +1,94 @@
+{
+  "WORD":"unpack",
+  "IPA":"/ʌnˈpæk/",
+  "CONJUGATES":"unpacks | unpacking | unpacked",
+  "ETYMOLOGY":"From Middle English un- (reversal of action) + pack (to put into a container).",
+  "SINCE":"c. 1590s",
+  "MEANINGS":[
+    {
+      "PATTERN":"unpack [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take items out of a container, such as a box, suitcase, or package, especially after traveling or moving.",
+      "DEF_ZH":"将物品从容器（如箱子、手提箱或包裹）中取出，尤其是在旅行或搬家之后。",
+      "SENT_EN":"We finally found time to unpack all the moving boxes.",
+      "SENT_ZH":"我们终于有时间把所有的搬家箱子都打开了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "empty",
+            "unload"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "pack",
+            "load"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unpack [sth abstract]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "academic",
+        "professional"
+      ],
+      "DEF_EN":"To analyze or examine the details of something complex, usually an idea, concept, or argument, in order to understand it fully.",
+      "DEF_ZH":"详细分析或检验某复杂事物的细节，通常指概念、想法或论点，以便充分理解。",
+      "SENT_EN":"The essay attempts to unpack the underlying biases in the governmental report.",
+      "SENT_ZH":"这篇文章试图深入分析政府报告中潜在的偏见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analyze",
+            "elaborate",
+            "deconstruct",
+            "examine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unpack [data/file]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To restore data or files from a compressed or coded format to its original usable state.",
+      "DEF_ZH":"将数据或文件从压缩或编码格式恢复到原始可用的状态。",
+      "SENT_EN":"You need a special program to unpack these archived files.",
+      "SENT_ZH":"你需要一个特殊的程序来解压这些存档文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decompress",
+            "unzip",
+            "extract"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "compress",
+            "zip"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, professional, and technical contexts."
+}

@@ -1,0 +1,109 @@
+{
+  "WORD":"hail",
+  "IPA":"/heɪl/",
+  "CONJUGATES":"hail (verb): hails | hailing | hailed; hail (noun): hails (plural)",
+  "ETYMOLOGY":"For the precipitation sense (noun and verb): from Old English *hægl* (noun) and *haglian* (verb), ultimately from Proto-Germanic *haglaz*. For the greeting/calling sense (verb and interjection): from Old Norse *heill* 'health, prosperity' and Old English *hāl* 'whole, healthy', related to 'whole'.",
+  "SINCE":"Pre-12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"hail",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Pellets of ice falling from the sky, often during a thunderstorm.",
+      "DEF_ZH":"从天空落下的冰粒，常伴随雷暴。",
+      "SENT_EN":"The heavy hail damaged the crops in the fields.",
+      "SENT_ZH":"大冰雹损坏了田里的庄稼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ice pellets",
+            "sleet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"It hails.",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"(Of precipitation) to fall as hail.",
+      "DEF_ZH":"（指降水）下冰雹。",
+      "SENT_EN":"It began to hail unexpectedly during our picnic.",
+      "SENT_ZH":"野餐时突然下起了冰雹。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"hail [sb/sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To call out to someone or something, often to attract attention or summon a vehicle.",
+      "DEF_ZH":"向某人或某物大声呼喊，常为引起注意或召唤车辆。",
+      "SENT_EN":"She hailed a taxi from across the street.",
+      "SENT_ZH":"她从街对面叫了一辆出租车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "call",
+            "summon",
+            "beckon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hail [sb/sth] as [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To praise someone or something publicly and enthusiastically, often describing them as outstanding.",
+      "DEF_ZH":"公开并热情地赞扬某人或某事，常形容其杰出。",
+      "SENT_EN":"The new policy was hailed as a great success by experts.",
+      "SENT_ZH":"这项新政策被专家们誉为巨大的成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acclaim",
+            "applaud",
+            "praise",
+            "salute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Hail!",
+      "POS":"interj",
+      "POS_TIP":"interjection",
+      "TAGS":[
+        "old word",
+        "poetic",
+        "formal"
+      ],
+      "DEF_EN":"An archaic or poetic greeting, or an exclamation of praise.",
+      "DEF_ZH":"一种古老或诗意的问候语，或表示赞扬的感叹词。",
+      "SENT_EN":"“Hail, Caesar!” the Roman legions cheered.",
+      "SENT_ZH":"“万岁，凯撒！”罗马军团欢呼道。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General for most meanings; the interjection and 'praise' verb senses can be formal or poetic."
+}

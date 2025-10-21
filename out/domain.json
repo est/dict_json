@@ -1,0 +1,103 @@
+{
+  "WORD":"domain",
+  "IPA":"/dəˈmeɪn/",
+  "CONJUGATES":"domains",
+  "ETYMOLOGY":"From Old French domaine, ultimately from Latin dominium ('lordship', 'property', 'right of ownership'), related to dominus ('lord', 'master').",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] domain [of sth/sb]",
+      "POS":"n. count/uncount",
+      "POS_TIP":"noun, countable or uncountable",
+      "TAGS":[
+        "Core Word",
+        "Formal"
+      ],
+      "DEF_EN":"An area of territory owned or controlled by a ruler or government; a sphere of influence or activity.",
+      "DEF_ZH":"领地；势力范围；界域。",
+      "SENT_EN":"The small island remained within the colonial power's domain.",
+      "SENT_ZH":"这个小岛仍然属于殖民强国的领地范围。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "territory",
+            "realm",
+            "sphere",
+            "province"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"domain",
+      "POS":"n. count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "Computing",
+        "Technical"
+      ],
+      "DEF_EN":"A distinct subset of the Internet identified by a domain name (e.g., example.com) and associated with a group of computers or organizations.",
+      "DEF_ZH":"(计算机) 域名；网络域。",
+      "SENT_EN":"She checked to see if the desired domain name was still available for purchase.",
+      "SENT_ZH":"她检查了想要的域名是否仍可供购买。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "URL",
+            "DNS",
+            "subdomain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] domain [of knowledge/expertise]",
+      "POS":"n. count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "Common",
+        "Figurative"
+      ],
+      "DEF_EN":"A specified area of professional, academic, or physical expertise or activity.",
+      "DEF_ZH":"专业领域；知识范围；学科范畴。",
+      "SENT_EN":"Quantum physics is a highly specialized domain that few people fully understand.",
+      "SENT_ZH":"量子物理学是一个高度专业化的领域，很少有人能完全理解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "field",
+            "area",
+            "specialty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] domain [of a function]",
+      "POS":"n. count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "Mathematics",
+        "Technical"
+      ],
+      "DEF_EN":"The set of all possible input values (arguments) for which a function or mathematical relation is defined.",
+      "DEF_ZH":"(数学) 定义域。",
+      "SENT_EN":"The function's domain includes all positive integers.",
+      "SENT_ZH":"该函数的定义域包括所有正整数。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "range",
+            "codomain",
+            "function"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used across general, formal, and technical contexts (especially computing and mathematics)."
+}

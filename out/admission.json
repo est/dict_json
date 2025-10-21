@@ -1,0 +1,101 @@
+{
+  "WORD":"admission",
+  "IPA":"/ədˈmɪʃən/",
+  "CONJUGATES":"plural: admissions",
+  "ETYMOLOGY":"From Old French 'admission', from Latin 'admissionem' (nominative 'admissio') meaning 'an allowing in, an admittance', from past participle stem of 'admittere' ('to admit')",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"admission [to sth]",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun; the act of allowing or the right to enter a place, institution, or organization",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act of allowing someone to enter a place, or the right to enter a place or institution.",
+      "DEF_ZH":"允许进入某地，或进入某地或机构的权利；入场；入学；入院。",
+      "SENT_EN":"Admission to the concert is by invitation only.",
+      "SENT_ZH":"音乐会仅凭请柬入场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entry",
+            "access",
+            "entrance"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exclusion",
+            "denial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"admission (of sth) | admission (that...)",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun; a statement acknowledging the truth of something, often something negative or undesirable",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"An acknowledgment of the truth or existence of something, often a fault or crime.",
+      "DEF_ZH":"承认某事的真实性或存在性，常指承认错误或罪行；供认。",
+      "SENT_EN":"Her admission of guilt shocked the jury.",
+      "SENT_ZH":"她认罪的供词震惊了陪审团。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confession",
+            "acknowledgement",
+            "disclosure"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "denial",
+            "rejection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"admission (fee/charge)",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun; the charge for entering a place",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The money that you pay to enter a place.",
+      "DEF_ZH":"进入某地所需的费用；门票；入场费。",
+      "SENT_EN":"The admission fee includes access to all exhibits.",
+      "SENT_ZH":"门票包含所有展品的参观权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entry fee",
+            "ticket price",
+            "cover charge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ticket",
+            "pass"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

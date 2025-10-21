@@ -1,0 +1,81 @@
+{
+  "WORD":"sergeant",
+  "IPA":"/ˈsɑːrdʒənt/",
+  "CONJUGATES":"sergeants",
+  "ETYMOLOGY":"From Middle English *sergeaunt*, from Old French *sergent* ('servant, attendant, officer'), ultimately from Latin *servientem* (present participle of *servire* 'to serve'). The military sense developed from the meaning of a retainer or attendant to a lord.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"sergeant [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "rank"
+      ],
+      "DEF_EN":"A non-commissioned officer (NCO) rank in the army, air force, or marine corps, typically ranking above a corporal and acting as a leader of a squad or section.",
+      "DEF_ZH":"陆军、空军或海军陆战队中的士官军衔，通常高于下士，担任班或排的领导者。",
+      "SENT_EN":"The Sergeant ordered the platoon to fall in for inspection.",
+      "SENT_ZH":"中士命令排队接受检查。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "corporal",
+            "lieutenant",
+            "major",
+            "NCO"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"police sergeant [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "police",
+        "rank"
+      ],
+      "DEF_EN":"An officer rank in many police forces, ranking above a constable or patrol officer and often having supervisory duties.",
+      "DEF_ZH":"许多警察部队中的警衔，级别高于普通警员或巡警，通常负有监督职责。",
+      "SENT_EN":"The police sergeant approved the application for the parade permit.",
+      "SENT_ZH":"警士批准了游行许可的申请。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "constable",
+            "inspector",
+            "detective"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Sergeant-at-arms | Sergeant-at-law",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "title",
+        "historical",
+        "professional"
+      ],
+      "DEF_EN":"A title given to certain officials, such as the Sergeant-at-arms in a legislature (responsible for order) or a historical senior barrister (Sergeant-at-law).",
+      "DEF_ZH":"授予某些官员的头衔，例如立法机构中的执法官（负责维持秩序）或历史上的高级出庭律师（法律军士）。",
+      "SENT_EN":"The Sergeant-at-arms maintained decorum during the contentious debate.",
+      "SENT_ZH":"在充满争议的辩论中，执法官维持了会场秩序。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bailiff",
+            "usher"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Military and Police Contexts, Formal Title"
+}

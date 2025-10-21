@@ -1,0 +1,147 @@
+{
+  "WORD":"tackle",
+  "IPA":"/ˈtækl/",
+  "CONJUGATES":"tackles | tackling | tackled",
+  "ETYMOLOGY":"From Middle English takelen, from Middle Dutch takelen 'to handle, seize, grapple with', perhaps related to takel 'equipment, rope'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"tackle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a determined effort to deal with a problem or difficult task.",
+      "DEF_ZH":"应对；处理；着手解决（难题或局面）",
+      "SENT_EN":"The government is trying to tackle the problem of unemployment.",
+      "SENT_ZH":"政府正努力解决失业问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "address",
+            "handle",
+            "deal with",
+            "undertake",
+            "grapple with"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tackle [sb] (in sports)",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb (requires a direct object) | intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "sports"
+      ],
+      "DEF_EN":"In games like football or rugby, to try to take the ball away from an opponent.",
+      "DEF_ZH":"（在足球、橄榄球等运动中）抢截，阻截",
+      "SENT_EN":"He was tackled just outside the penalty area.",
+      "SENT_ZH":"他在禁区外被抢截。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "block",
+            "intercept"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tackle [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To confront or attack someone, often to restrain them.",
+      "DEF_ZH":"扭住；与…搏斗",
+      "SENT_EN":"A security guard tackled the shoplifter.",
+      "SENT_ZH":"一名保安将扒手扭住。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grapple",
+            "restrain",
+            "apprehend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[activity] tackle",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "specific context"
+      ],
+      "DEF_EN":"The equipment needed for a particular activity, especially fishing.",
+      "DEF_ZH":"（尤指钓鱼用具或船具的）装备，器械",
+      "SENT_EN":"He spent the morning buying new fishing tackle.",
+      "SENT_ZH":"他上午去买了新的钓鱼用具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equipment",
+            "gear",
+            "apparatus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a tackle",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "sports"
+      ],
+      "DEF_EN":"An act of trying to take the ball from an opponent in a game.",
+      "DEF_ZH":"（在体育运动中）抢截，阻截",
+      "SENT_EN":"It was a clean tackle, and the referee waved play on.",
+      "SENT_ZH":"那是一次干净的抢截，裁判示意比赛继续。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "block",
+            "intercept"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a tackle",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "nautical"
+      ],
+      "DEF_EN":"A system of ropes and pulleys used for lifting heavy weights, especially on a ship.",
+      "DEF_ZH":"滑轮组；（用于提升重物的）起重器",
+      "SENT_EN":"They used a block and tackle to hoist the sail.",
+      "SENT_ZH":"他们用滑轮组升起帆。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hoist",
+            "pulley"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, sports, and nautical contexts."
+}

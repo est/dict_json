@@ -1,0 +1,106 @@
+{
+  "WORD":"activate",
+  "IPA":"/ˈæktɪveɪt/",
+  "CONJUGATES":"activates | activating | activated",
+  "ETYMOLOGY":"From Latin 'actus' (past participle of 'agere' 'to drive, do') + '-ate' (verb suffix). Literally 'to make active'.",
+  "SINCE":"Mid-19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"activate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something start working or functioning; to set in motion.",
+      "DEF_ZH":"使某物开始工作或运转；启动。",
+      "SENT_EN":"The security system activates automatically when you close the door.",
+      "SENT_ZH":"当你关上门时，安全系统会自动启动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "initiate",
+            "trigger",
+            "start",
+            "switch on",
+            "enable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deactivate",
+            "disable",
+            "shut down",
+            "turn off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"activate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "specialized",
+        "chemistry",
+        "biology"
+      ],
+      "DEF_EN":"To make a chemical, enzyme, cell, or biological process active or reactive.",
+      "DEF_ZH":"使化学物质、酶、细胞或生物过程变得活跃或有反应。",
+      "SENT_EN":"Heat can activate the enzyme in the solution, speeding up the reaction.",
+      "SENT_ZH":"热量可以激活溶液中的酶，加速反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stimulate",
+            "energize",
+            "catalyze"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inhibit",
+            "deactivate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"activate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"To enable a software product or a specific feature by entering a code, key, or performing an action, often to unlock full functionality.",
+      "DEF_ZH":"通过输入代码、密钥或执行操作来启用软件产品或特定功能，通常是为了解锁其完整功能。",
+      "SENT_EN":"You need to activate your new software license before you can use all its features.",
+      "SENT_ZH":"在使用所有功能之前，您需要激活您的新软件许可证。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enable",
+            "register",
+            "authorize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deactivate",
+            "uninstall",
+            "revoke"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Computing"
+}

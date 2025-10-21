@@ -1,0 +1,65 @@
+{
+  "WORD":"consultant",
+  "IPA":"/kənˈsʌltənt/",
+  "CONJUGATES":"consultants",
+  "ETYMOLOGY":"From the verb 'consult', ultimately from Latin *consultare* (to deliberate, consult), plus the agent noun suffix '-ant'.",
+  "SINCE":"c. 1650s (as an advisor); modern professional usage widespread since the mid-20th century.",
+  "MEANINGS":[
+    {
+      "PATTERN":"consultant [in sth]",
+      "POS":"n (countable)",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "business",
+        "common"
+      ],
+      "DEF_EN":"A professional who provides expert advice in a particular field such as management, technology, or finance, often on a contractual or freelance basis.",
+      "DEF_ZH":"顾问；咨询师；提供专业意见的专家（尤指商业、管理或技术领域），通常以合同或自由职业者的身份工作。",
+      "SENT_EN":"The small firm hired a cybersecurity consultant to audit their network security.",
+      "SENT_ZH":"这家小公司聘请了一位网络安全顾问来审计他们的网络安全。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advisor",
+            "expert",
+            "specialist",
+            "strategist"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "consultancy",
+            "consulting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consultant [in medicine]",
+      "POS":"n (countable)",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "medical",
+        "UK English",
+        "specific usage"
+      ],
+      "DEF_EN":"In the UK and some Commonwealth countries, a senior hospital doctor who has completed specialist training and holds a post with full clinical responsibility for patients under their care.",
+      "DEF_ZH":"（英国医疗体系）主治医生；专科顾问医生；已完成专科培训并负有全部临床责任的资深医生。",
+      "SENT_EN":"She requires surgery, so the general practitioner referred her to a surgical consultant.",
+      "SENT_ZH":"她需要手术，所以全科医生将她转介给了一位外科主治医生。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "specialist",
+            "attending physician"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Professional contexts (Business, Medical)."
+}

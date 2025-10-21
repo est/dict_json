@@ -1,0 +1,76 @@
+{
+  "WORD":"pasture",
+  "IPA":"/ˈpæstʃər/",
+  "CONJUGATES":"plural: pastures | verb: pastures | pasturing | pastured",
+  "ETYMOLOGY":"From Old French pasture, from Latin pastura 'pasture, fodder', from pastus, past participle of pascere 'to feed, to graze'.",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"pasture",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Land covered with grass and other low plants suitable for grazing animals.",
+      "DEF_ZH":"用于放牧牲畜的草地；牧场。",
+      "SENT_EN":"The sheep were grazing peacefully in the green pasture.",
+      "SENT_ZH":"羊群在绿色的牧场里安静地吃草。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meadow",
+            "grazing land",
+            "field"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pasture [sth/sb]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To put animals out to graze in a pasture.",
+      "DEF_ZH":"将（牲畜）放到牧场上吃草。",
+      "SENT_EN":"The farmer will pasture his cows in the lower fields during the summer.",
+      "SENT_ZH":"农夫夏天会把他的奶牛放到下面的田地里放牧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graze",
+            "herd"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] pasture",
+      "POS":"verb (intransitive)",
+      "POS_TIP":"A verb that does not require a direct object to complete its meaning.",
+      "TAGS":[
+        "common",
+        "less frequent"
+      ],
+      "DEF_EN":"(Of animals) to feed on grass or other vegetation in a pasture.",
+      "DEF_ZH":"（指动物）在牧场上吃草。",
+      "SENT_EN":"The horses pastured contentedly in the open field.",
+      "SENT_ZH":"马匹在开阔的田野里心满意足地吃草。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graze",
+            "feed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

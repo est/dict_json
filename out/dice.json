@@ -1,0 +1,103 @@
+{
+  "WORD":"dice",
+  "IPA":"/daɪs/",
+  "CONJUGATES":"noun: dice (plural) | verb: dices | dicing | diced",
+  "ETYMOLOGY":"From Old French dez (plural of de 'a die'), from Latin datum ('something given or thrown', past participle of dare 'to give'). The plural form dez was reanalyzed in Middle English as a singular 'dice', leading to its use as both singular and plural, while 'die' emerged as a back-formation for the singular.",
+  "SINCE":"c. 1350 (noun), c. 1530 (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"dice",
+      "POS":"noun (plural)",
+      "POS_TIP":"plural noun; typically refers to two or more 'die'",
+      "TAGS":[
+        "core word",
+        "common",
+        "games"
+      ],
+      "DEF_EN":"Small cubes with faces marked with spots (usually 1-6) that are tossed to generate random numbers, especially in games.",
+      "DEF_ZH":"指用于游戏的带有1到6个点的小立方体，通常掷出以产生随机数字。",
+      "SENT_EN":"You need two dice to play craps.",
+      "SENT_ZH":"玩掷骰子游戏你需要两颗骰子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "die",
+            "craps",
+            "gambling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dice [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; takes a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "cooking"
+      ],
+      "DEF_EN":"To cut food or other material into small cubes.",
+      "DEF_ZH":"将食物或其他材料切成小方块。",
+      "SENT_EN":"Please dice the onions and carrots for the stew.",
+      "SENT_ZH":"请将洋葱和胡萝卜切丁做炖菜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cube",
+            "chop",
+            "mince"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dice | dice",
+      "POS":"noun (singular, informal)",
+      "POS_TIP":"countable noun; informally used to refer to a single 'die', though 'die' is the standard singular form",
+      "TAGS":[
+        "common",
+        "informal",
+        "games"
+      ],
+      "DEF_EN":"(Informal or non-standard) A single small cube used in games; a single 'die'.",
+      "DEF_ZH":"（非正式或非标准用法）指用于游戏的单个小立方体；一颗“die”。",
+      "SENT_EN":"I rolled a dice and got a six.",
+      "SENT_ZH":"我掷了一颗骰子，掷出了六点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "die"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"play dice | game of dice",
+      "POS":"noun (uncountable)",
+      "POS_TIP":"uncountable noun; refers to the game or activity itself",
+      "TAGS":[
+        "common",
+        "gambling",
+        "games"
+      ],
+      "DEF_EN":"A game or activity played with dice; gambling involving dice.",
+      "DEF_ZH":"一种用骰子进行的或涉及骰子的游戏或赌博活动。",
+      "SENT_EN":"They spent the evening playing dice and cards.",
+      "SENT_ZH":"他们晚上都在玩骰子和纸牌。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "craps",
+            "backgammon"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

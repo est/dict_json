@@ -1,0 +1,121 @@
+{
+  "WORD":"immune",
+  "IPA":"/ɪˈmjuːn/",
+  "CONJUGATES":"more immune | most immune | immunes (as noun)",
+  "ETYMOLOGY":"From Latin *immunis* 'exempt from public service, exempt from tax,' from *in-* 'not' + *munis* 'performing services.' Sense of 'protected from disease' developed in the mid-19th century.",
+  "SINCE":"Late 15th century (as 'exempt'); Mid-19th century (as 'protected from disease')",
+  "MEANINGS":[
+    {
+      "PATTERN":"immune (from/to sth)",
+      "POS":"adjective",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "general",
+        "formal"
+      ],
+      "DEF_EN":"Protected from or not susceptible to something, especially a disease or an obligation; exempt.",
+      "DEF_ZH":"不受（某物，尤指疾病或义务）影响的；有免疫力的；豁免的。",
+      "SENT_EN":"No one is entirely immune from criticism, regardless of their position.",
+      "SENT_ZH":"无论身处何位，没有人能完全免受批评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exempt",
+            "protected",
+            "invulnerable",
+            "resistant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vulnerable",
+            "susceptible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"immune (to a disease/infection)",
+      "POS":"adjective",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "medical",
+        "scientific"
+      ],
+      "DEF_EN":"Having developed protection against a specific disease or infection, typically after exposure or vaccination.",
+      "DEF_ZH":"（对某种疾病或感染）有免疫力的，免疫的。",
+      "SENT_EN":"Once you've had chickenpox, you are usually immune to it for life.",
+      "SENT_ZH":"一旦得过水痘，你通常终生对其免疫。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "immunity",
+            "immunization",
+            "antibody",
+            "vaccine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"immune (to sth)",
+      "POS":"adjective",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Unaffected by or unresponsive to something, often negative influences or emotional states.",
+      "DEF_ZH":"不受（负面影响）的；无动于衷的；不为所动的。",
+      "SENT_EN":"She tried to insult him, but he seemed immune to her barbs.",
+      "SENT_ZH":"她试图侮辱他，但他似乎对她的嘲讽无动于衷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impervious",
+            "unaffected",
+            "unresponsive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sensitive",
+            "responsive",
+            "affected"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an immune",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, idea, or quality.",
+      "TAGS":[
+        "rare",
+        "specialized",
+        "medical"
+      ],
+      "DEF_EN":"An individual or organism that is immune to a particular disease or condition.",
+      "DEF_ZH":"具有免疫力的人或生物。",
+      "SENT_EN":"Scientists are studying the immunes to understand why they didn't get sick.",
+      "SENT_ZH":"科学家正在研究这些有免疫力的人，以了解他们为何没有生病。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "survivor",
+            "resistant individual"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and scientific in medical contexts; general usage for exemption and figurative meanings."
+}

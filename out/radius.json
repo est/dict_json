@@ -1,0 +1,81 @@
+{
+  "WORD":"radius",
+  "IPA":"/ˈreɪdiəs/",
+  "CONJUGATES":"radii | radiuses",
+  "ETYMOLOGY":"From Latin radius ('spoke of a wheel, ray'). Adopted into English in the 16th century, primarily for the geometric concept.",
+  "SINCE":"Mid 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] radius [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun: A word used to identify people, places, or things",
+      "TAGS":[
+        "Core word",
+        "Mathematics",
+        "Geometry"
+      ],
+      "DEF_EN":"A straight line extending from the center of a circle or sphere to the circumference or surface; also, the length of this line.",
+      "DEF_ZH":"连接圆心或球心到圆周或表面的直线；亦指该直线的长度，即半径。",
+      "SENT_EN":"To calculate the area, you must first know the radius of the circle.",
+      "SENT_ZH":"要计算面积，你首先必须知道圆的半径。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "diameter",
+            "circumference",
+            "center",
+            "arc"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"within a [distance] radius [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun: A word used to identify people, places, or things",
+      "TAGS":[
+        "Common usage",
+        "Spatial"
+      ],
+      "DEF_EN":"A specified distance around a central point, defining a circular area or range.",
+      "DEF_ZH":"以某中心点为圆心，特定距离所界定的范围或区域。",
+      "SENT_EN":"The new restaurant delivers food within a two-mile radius.",
+      "SENT_ZH":"这家新餐厅在两英里半径范围内提供送餐服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "range",
+            "vicinity",
+            "scope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the radius",
+      "POS":"n.",
+      "POS_TIP":"Noun: A word used to identify people, places, or things",
+      "TAGS":[
+        "Anatomy",
+        "Technical"
+      ],
+      "DEF_EN":"The smaller of the two bones in the human forearm, located on the side of the thumb.",
+      "DEF_ZH":"人体前臂两块骨头中较小的一块，位于拇指一侧的桡骨。",
+      "SENT_EN":"A fall often results in a fracture of the distal radius.",
+      "SENT_ZH":"摔倒经常导致桡骨远端骨折。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ulna",
+            "forearm",
+            "humerus"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Technical"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"infinity",
+  "IPA":"/ɪnˈfɪnɪti/",
+  "CONJUGATES":"infinities",
+  "ETYMOLOGY":"From Old French infinité or directly from Latin infinitas ('boundlessness'), derived from infinitus ('unbounded'), from in- ('not') + finis ('end, limit').",
+  "SINCE":"Late 14th century (in philosophical/theological contexts)",
+  "MEANINGS":[
+    {
+      "PATTERN":"infinity",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "philosophy"
+      ],
+      "DEF_EN":"The state or quality of being infinite; endlessness or boundlessness.",
+      "DEF_ZH":"无限性；无穷大；没有止境的状态或质量。",
+      "SENT_EN":"In mathematics, the symbol $\\infty$ is used to denote infinity.",
+      "SENT_ZH":"在数学中，符号 $\\infty$ 用来表示无穷大。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endlessness",
+            "boundlessness",
+            "immeasurability"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "finiteness",
+            "limit",
+            "boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"infinity [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable/uncountable)",
+      "TAGS":[
+        "common",
+        "hyperbolic"
+      ],
+      "DEF_EN":"An extremely large quantity or extent; an immense number.",
+      "DEF_ZH":"极其巨大的数量或范围；极多的事物。",
+      "SENT_EN":"The small town offered an infinity of peaceful spots for painting.",
+      "SENT_ZH":"这个小镇提供了无数个适合绘画的宁静地点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "multitude",
+            "plethora",
+            "host"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the infinity",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "literary",
+        "philosophy"
+      ],
+      "DEF_EN":"Infinite space, time, or scope; the infinite whole, often referring to the universe or God.",
+      "DEF_ZH":"无限的空间、时间或范围；无限的整体（常指宇宙或上帝）。",
+      "SENT_EN":"The astronomer contemplated the terrifying infinity of the cosmos.",
+      "SENT_ZH":"这位天文学家沉思着宇宙那令人恐惧的无限。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "eternity",
+            "void",
+            "cosmos"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Mathematical, Philosophical"
+}

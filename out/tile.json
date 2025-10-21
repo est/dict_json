@@ -1,0 +1,80 @@
+{
+  "WORD":"tile",
+  "IPA":"/taɪl/",
+  "CONJUGATES":"tiles | tiling | tiled",
+  "ETYMOLOGY":"From Old English tigele, from Proto-Germanic *tegula, from Latin tegula 'roof tile', from tegere 'to cover'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] tile",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thin, flat, rectangular or square piece of baked clay, ceramic, or other hard material, used for covering roofs, floors, walls, or other surfaces.",
+      "DEF_ZH":"用于覆盖屋顶、地板、墙壁或其他表面的薄而平整的方形或矩形烧制粘土、陶瓷或其他硬质材料片。",
+      "SENT_EN":"The bathroom floor is covered with beautiful ceramic tiles.",
+      "SENT_ZH":"浴室地板铺着漂亮的瓷砖。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ceramic",
+            "mosaic",
+            "slab",
+            "paving"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tile [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cover or pave (a surface) with tiles.",
+      "DEF_ZH":"用瓷砖或其他瓦片覆盖或铺砌（表面）。",
+      "SENT_EN":"They hired a professional to tile the kitchen backsplash.",
+      "SENT_ZH":"他们雇佣了一名专业人员来铺设厨房的防溅板。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pave",
+            "floor",
+            "cover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] tile",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific use",
+        "common"
+      ],
+      "DEF_EN":"A small, flat piece used in certain board games, such as Scrabble or mah-jong.",
+      "DEF_ZH":"在某些棋盘游戏（如拼字游戏或麻将）中使用的小而扁平的棋子或牌。",
+      "SENT_EN":"He picked up a blank tile, hoping to make a big word.",
+      "SENT_ZH":"他拿起一张空白牌，希望能拼出一个大词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "game piece",
+            "mah-jongg tile",
+            "scrabble tile"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

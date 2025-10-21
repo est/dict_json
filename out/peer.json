@@ -1,0 +1,93 @@
+{
+  "WORD":"peer",
+  "IPA":"/pɪər/",
+  "CONJUGATES":"peer | peers | peered | peering",
+  "ETYMOLOGY":"From Old French per ('equal'), from Latin par ('equal'). The verb sense 'to look' is of uncertain origin, possibly from an earlier use meaning 'to appear', or related to the noun sense of 'equal' implying one is 'looking at an equal level'.",
+  "SINCE":"13th century (for noun, 14th century for verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"peer [at/into/through sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To look closely or with difficulty at something, especially because you cannot see it clearly.",
+      "DEF_ZH":"仔细看；费力地看；凝视，尤指因看不清楚而努力看。",
+      "SENT_EN":"She peered at the small print on the contract, trying to decipher it.",
+      "SENT_ZH":"她仔细审视合同上的小字，努力辨认。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gaze",
+            "stare",
+            "squint",
+            "frown",
+            "ogle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] peer",
+      "POS":"n",
+      "POS_TIP":"noun: a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who is equal to another in abilities, qualifications, status, or age.",
+      "DEF_ZH":"同辈；同等地位的人；同龄人。",
+      "SENT_EN":"Children are often influenced more by their peers than by their parents.",
+      "SENT_ZH":"孩子往往受同龄人的影响比受父母的影响更大。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equal",
+            "coequal",
+            "contemporary",
+            "colleague",
+            "counterpart"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "superior",
+            "inferior"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a peer [of the realm]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "formal",
+        "UK specific",
+        "less common"
+      ],
+      "DEF_EN":"A member of the nobility in the UK or certain other countries, especially one entitled to sit in the House of Lords.",
+      "DEF_ZH":"（英国或某些国家的）贵族；公爵、侯爵、伯爵、子爵或男爵。",
+      "SENT_EN":"He was elevated to the peerage for his distinguished public service.",
+      "SENT_ZH":"他因其杰出的公共服务而被授予贵族头衔。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lord",
+            "baron",
+            "duke",
+            "earl",
+            "viscount"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally neutral for the verb and 'equal' noun senses. The 'nobility' noun sense is more formal and context-specific (mainly UK)."
+}

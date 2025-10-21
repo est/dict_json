@@ -1,0 +1,89 @@
+{
+  "WORD":"furnish",
+  "IPA":"/ˈfɜːrnɪʃ/",
+  "CONJUGATES":"furnishes | furnishing | furnished",
+  "ETYMOLOGY":"From Old French furniss-, present stem of furnir ('to provide, complete, equip'), ultimately from Frankish *frumjan ('to complete, carry out').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is furnished",
+      "POS":"adj",
+      "POS_TIP":"Adjective (derived from past participle)",
+      "TAGS":[
+        "core word",
+        "housing"
+      ],
+      "DEF_EN":"Equipped with necessary furniture, equipment, or fittings. (This is the specific meaning of the input 'furnished')",
+      "DEF_ZH":"配备了必需家具、设备或装置的。（这是输入词'furnished'的特定含义）",
+      "SENT_EN":"They rented a fully furnished apartment near the university.",
+      "SENT_ZH":"他们在大学附近租了一套配有全套家具的公寓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equipped",
+            "fitted",
+            "appointed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unfurnished"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"furnish [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To supply, provide, or present someone with something necessary or useful, often information or documentation.",
+      "DEF_ZH":"向某人提供、供应或呈现必需或有用的东西，通常指信息或文件。",
+      "SENT_EN":"You must furnish us with proof of address before the deadline.",
+      "SENT_ZH":"你必须在截止日期前向我们提供地址证明。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provide",
+            "supply",
+            "yield"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "provision"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"furnish [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "interior design"
+      ],
+      "DEF_EN":"To equip a room or building with furniture.",
+      "DEF_ZH":"为房间或建筑物添置家具。",
+      "SENT_EN":"They spent months furnishing their new home.",
+      "SENT_ZH":"他们花了数月时间为新家添置家具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decorate",
+            "equip",
+            "fit out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in legal/administrative contexts (meaning 2) and real estate (meaning 1)."
+}

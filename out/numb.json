@@ -1,0 +1,93 @@
+{
+  "WORD":"numb",
+  "IPA":"/nʌm/",
+  "CONJUGATES":"Numbed | Numbing | Numbness",
+  "ETYMOLOGY":"From Middle English *nome*, originally meaning 'taken' or 'seized,' related to Old English *niman* ('to take'). The silent 'b' was later added in the 14th century, perhaps by analogy with words like *thumb*.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "physical sensation"
+      ],
+      "DEF_EN":"Deprived of the power of sensation or movement, typically due to cold, injury, or anesthetic.",
+      "DEF_ZH":"麻木的；失去知觉的；僵硬的（常因寒冷、受伤或麻醉引起）。",
+      "SENT_EN":"My toes were completely numb after skiing in freezing temperatures.",
+      "SENT_ZH":"在冰点温度下滑雪后，我的脚趾完全麻木了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insensible",
+            "deadened",
+            "anaesthetized"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sensitive",
+            "feeling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "emotional",
+        "mental state"
+      ],
+      "DEF_EN":"Lacking or unable to feel emotion or respond to outside stimuli, often due to shock, grief, or indifference.",
+      "DEF_ZH":"感情麻木的；无动于衷的；震惊得不知所措的。",
+      "SENT_EN":"She was so numb with grief that she couldn't cry.",
+      "SENT_ZH":"她悲伤得非常麻木，以至于哭不出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apathetic",
+            "callous",
+            "indifferent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "overwhelmed",
+            "responsive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"numb [sth] / numb [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "core word"
+      ],
+      "DEF_EN":"To make someone or something lose feeling or sensation, either physically or emotionally.",
+      "DEF_ZH":"使麻木；使失去知觉；使感情迟钝或不敏感。",
+      "SENT_EN":"The doctor administered a shot to numb the area before the procedure.",
+      "SENT_ZH":"医生在手术前注射了一针，使该区域麻木。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deadened",
+            "stupefy",
+            "desensitize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in medical and emotional contexts."
+}

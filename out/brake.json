@@ -1,0 +1,103 @@
+{
+  "WORD":"brake",
+  "IPA":"/ˈbreɪk/",
+  "CONJUGATES":"brake | braking | braked | braked",
+  "ETYMOLOGY":"Old English *bræcan* (to break, crush). The modern sense of a stopping device developed later, influenced by Middle Low German/Dutch *brake* (tool for breaking flax or hemp), signifying an instrument of control or crushing.",
+  "SINCE":"c. 1610 (mechanical device sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] brake(s)",
+      "POS":"noun",
+      "POS_TIP":"countable noun: A noun that can be counted and has a plural form.",
+      "TAGS":[
+        "core word",
+        "common",
+        "mechanical"
+      ],
+      "DEF_EN":"A device used to slow or stop a vehicle or moving machine, typically by applying friction to the wheels or axles.",
+      "DEF_ZH":"用于减速或停止车辆或移动机器的装置，通常通过对车轮或轴施加摩擦力。",
+      "SENT_EN":"She hit the brakes hard when the traffic light suddenly turned red.",
+      "SENT_ZH":"当交通灯突然变红时，她猛踩了刹车。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "accelerator",
+            "clutch",
+            "pedal",
+            "disc brake"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brake [v]",
+      "POS":"vintr + vtr",
+      "POS_TIP":"intransitive verb/transitive verb: A verb that may or may not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "driving"
+      ],
+      "DEF_EN":"To use a brake to reduce the speed of a vehicle or machine.",
+      "DEF_ZH":"使用刹车装置来降低车辆或机器的速度。",
+      "SENT_EN":"Drivers are advised to brake early when approaching a curve.",
+      "SENT_ZH":"建议司机在接近弯道时提早刹车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slow down",
+            "decelerate",
+            "stop"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "accelerate",
+            "speed up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"put the brake(s) on [sth]",
+      "POS":"idiom",
+      "POS_TIP":"idiom: A phrase or expression whose meaning cannot be inferred from the meanings of the individual words.",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To restrict or stop the progress or development of something.",
+      "DEF_ZH":"限制或阻止某事物的进展或发展。",
+      "SENT_EN":"The city council decided to put the brakes on the new housing development due to budget concerns.",
+      "SENT_ZH":"出于预算考虑，市议会决定限制新的住房开发项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curb",
+            "halt",
+            "check"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a brake",
+      "POS":"noun",
+      "POS_TIP":"countable noun: A noun that can be counted and has a plural form.",
+      "TAGS":[
+        "archaic",
+        "technical"
+      ],
+      "DEF_EN":"An apparatus formerly used for breaking the stalks of flax or hemp to separate the fiber.",
+      "DEF_ZH":"（旧时）用于捣碎亚麻或大麻茎以分离纤维的装置。",
+      "SENT_EN":"The museum displayed an old brake used in the textile industry centuries ago.",
+      "SENT_ZH":"博物馆展示了一个几个世纪前用于纺织工业的旧式麻茎捣碎机。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, highly common in contexts related to transportation and motion."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"probe",
+  "IPA":"/proʊb/",
+  "CONJUGATES":"probes | probing | probed",
+  "ETYMOLOGY":"From Medieval Latin *proba* (examination, proof), derived from Latin *probare* ('to test, examine, approve'). Originally referred to a surgical instrument.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"a probe (into [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "investigation",
+        "journalistic"
+      ],
+      "DEF_EN":"A thorough inquiry or investigation into a subject or incident, often official or detailed.",
+      "DEF_ZH":"对某一主题或事件进行的彻底调查或探究，通常是官方的或详细的。",
+      "SENT_EN":"The police launched a full-scale probe into allegations of corruption.",
+      "SENT_ZH":"警方对腐败指控展开了全面的调查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inquiry",
+            "investigation",
+            "examination"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "audit",
+            "scrutiny"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"probe [sth] | probe (into) [sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To explore or examine physically, often with a slender instrument; or to attempt to discover information about something.",
+      "DEF_ZH":"用细长的工具进行物理探查或检查；或试图发现有关某事的信息。",
+      "SENT_EN":"Reporters continued to probe the sources of the company's funding.",
+      "SENT_ZH":"记者们继续深入调查该公司资金的来源。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "investigate",
+            "examine",
+            "delve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a probe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "scientific",
+        "medical",
+        "instrument"
+      ],
+      "DEF_EN":"A slender surgical instrument used for exploring a wound or part of the body; or a scientific instrument package sent into space to gather information.",
+      "DEF_ZH":"用于探查伤口或身体部位的细长外科仪器；或送入太空收集信息的科学仪器包或航天器。",
+      "SENT_EN":"NASA launched an interplanetary probe to study Jupiter's moons.",
+      "SENT_ZH":"美国宇航局发射了一个行星际探测器来研究木星的卫星。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sensor",
+            "scanner",
+            "endoscope"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; formal or technical in scientific/journalistic contexts."
+}

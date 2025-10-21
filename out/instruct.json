@@ -1,0 +1,79 @@
+{
+  "WORD":"instruct",
+  "IPA":"/ɪnˈstrʌkt/",
+  "CONJUGATES":"instructs | instructing | instructed",
+  "ETYMOLOGY":"From Latin īnstruere ('to build, equip, teach'), from in- ('in, on') + struere ('to pile up, build').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"instruct [sb] (in [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To teach someone a subject, skill, or procedure; to impart knowledge.",
+      "DEF_ZH":"传授知识或技能；教导；指导。",
+      "SENT_EN":"The pilot instructed the new recruits in emergency landing procedures.",
+      "SENT_ZH":"这位飞行员指导新兵进行紧急降落程序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "teach",
+            "educate",
+            "train",
+            "coach"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "instruction",
+            "instructor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"instruct [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To give someone an order, direction, or command, often officially.",
+      "DEF_ZH":"指示；下达命令或指令（常用于正式场合）。",
+      "SENT_EN":"The management instructed all staff to wear protective gear.",
+      "SENT_ZH":"管理层指示所有员工穿戴防护装备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "order",
+            "command",
+            "direct",
+            "tell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"instruct [a lawyer/solicitor]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "specific"
+      ],
+      "DEF_EN":"To give directions or authority to a solicitor or barrister to act on one's behalf in a legal matter.",
+      "DEF_ZH":"（向律师）提供指示或委托诉讼。",
+      "SENT_EN":"We have instructed our solicitor to proceed with legal action.",
+      "SENT_ZH":"我们已委托律师继续采取法律行动。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Formal, Legal"
+}

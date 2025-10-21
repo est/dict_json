@@ -1,0 +1,86 @@
+{
+  "WORD":"patrol",
+  "IPA":"/pəˈtroʊl/",
+  "CONJUGATES":"patrols | patrolling | patrolled",
+  "ETYMOLOGY":"From French patrouiller ('to paddle, splash, patrol'), possibly related to Old French patte ('paw, foot').",
+  "SINCE":"Late 17th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"patrol [an area]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"To travel through an area, typically military or police, in order to protect it and check that there is no trouble.",
+      "DEF_ZH":"（军事或警察）在某区域内巡查或巡逻，以保护该区域并检查是否有异常情况。",
+      "SENT_EN":"Security guards patrol the building premises every two hours.",
+      "SENT_ZH":"保安人员每两小时在建筑物场地巡逻一次。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guard",
+            "police",
+            "monitor",
+            "keep watch"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "neglect",
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a patrol",
+      "POS":"nc | nu",
+      "POS_TIP":"countable noun | uncountable noun",
+      "TAGS":[
+        "Common"
+      ],
+      "DEF_EN":"The act of patrolling an area.",
+      "DEF_ZH":"巡查或巡逻的行为或任务。",
+      "SENT_EN":"The officer went out on patrol at midnight.",
+      "SENT_ZH":"这位警官午夜出去巡逻了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rounds",
+            "surveillance",
+            "watch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a patrol of [sb]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Military",
+        "Scouting"
+      ],
+      "DEF_EN":"A small detachment (of soldiers, police, or scouts) assigned to a specific surveillance duty.",
+      "DEF_ZH":"被分配执行特定监视任务的一小队人（士兵、警察或童子军）。",
+      "SENT_EN":"The patrol reported no enemy activity in the valley.",
+      "SENT_ZH":"该巡逻队报告称山谷中没有敌方活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "squad",
+            "detachment",
+            "unit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, especially in contexts related to security, police, or military operations."
+}

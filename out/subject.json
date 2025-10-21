@@ -1,0 +1,188 @@
+{
+  "WORD":"subject",
+  "IPA":"/ˈsʌbdʒɪkt/ (noun, adjective) | /səbˈdʒɛkt/ (verb)",
+  "CONJUGATES":"noun: subjects | verb: subjects | subjected | subjecting",
+  "ETYMOLOGY":"From Latin *subiectus*, past participle of *subicere* 'throw under, place under', from *sub-* 'under' + *iacere* 'to throw'. Originally referred to a person under the rule of another.",
+  "SINCE":"Late Middle English (late 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a subject [of discussion/study]",
+      "POS":"n.",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A topic or theme of discussion or representation; an area of knowledge or study.",
+      "DEF_ZH":"讨论或研究的主题、论题或学科领域。",
+      "SENT_EN":"The main subject of the meeting was the new marketing strategy.",
+      "SENT_ZH":"会议的主要议题是新的营销策略。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "topic",
+            "theme",
+            "matter",
+            "issue",
+            "question",
+            "discipline",
+            "field"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a subject [of a monarch/state]",
+      "POS":"n.",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "common",
+        "political",
+        "social"
+      ],
+      "DEF_EN":"A person or thing that is being discussed or described; a person who is under the dominion or control of a sovereign or state.",
+      "DEF_ZH":"被讨论或描述的人或事物；在君主或国家统治下的公民或臣民。",
+      "SENT_EN":"All subjects of the crown were required to pay their taxes.",
+      "SENT_ZH":"所有王室臣民都必须缴纳税款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "citizen",
+            "national",
+            "liegeman",
+            "vassal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sovereign",
+            "ruler"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the subject [of a sentence]",
+      "POS":"n.",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "grammar",
+        "technical"
+      ],
+      "DEF_EN":"In grammar, the part of a sentence or clause that typically indicates who or what is performing the action or being described.",
+      "DEF_ZH":"在语法中，句子或从句中通常指示执行动作或被描述的人或事的部分。",
+      "SENT_EN":"In the sentence 'The cat slept', 'The cat' is the subject.",
+      "SENT_ZH":"在句子“猫睡了”中，“猫”是主语。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "predicate",
+            "verb",
+            "object"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"subject [sb/sth] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cause or force (someone or something) to undergo (a particular experience, treatment, or state).",
+      "DEF_ZH":"使（某人或某物）遭受或经历（某种特定体验、待遇或状态）。",
+      "SENT_EN":"The new law will subject all citizens to stricter surveillance.",
+      "SENT_ZH":"新法律将使所有公民受到更严格的监视。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expose",
+            "put through",
+            "submit",
+            "cause to undergo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"subject [sth] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"To bring (a country, people, etc.) under the dominion or control of another.",
+      "DEF_ZH":"使（国家、人民等）受制于他人的统治或控制。",
+      "SENT_EN":"The empire aimed to subject all neighboring lands to its rule.",
+      "SENT_ZH":"该帝国旨在将其所有邻近土地置于其统治之下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conquer",
+            "subdue",
+            "dominate",
+            "enslave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] is subject to [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective: a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Under the authority or control of; susceptible or liable to be affected by.",
+      "DEF_ZH":"受制于某权威或控制；易受影响或可能遭受。",
+      "SENT_EN":"All employees are subject to the company's code of conduct.",
+      "SENT_ZH":"所有员工都必须遵守公司的行为准则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subordinate",
+            "dependent",
+            "amenable",
+            "vulnerable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is subject to [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective: a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "common",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"Conditional upon or dependent on something happening or being done.",
+      "DEF_ZH":"有条件的，取决于某事的发生或完成。",
+      "SENT_EN":"The offer is subject to contract and approval by the board.",
+      "SENT_ZH":"该提议有待合同签订和董事会批准。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conditional",
+            "contingent",
+            "dependent on"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

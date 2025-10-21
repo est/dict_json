@@ -1,0 +1,76 @@
+{
+  "WORD":"telecommunication",
+  "IPA":"/ˌtɛlɪkəˌmjuːnɪˈkeɪʃən/",
+  "CONJUGATES":"telecommunications (plural)",
+  "ETYMOLOGY":"From Ancient Greek 'tēle' (τῆλε) meaning 'far off', combined with Latin 'communicatio' (from 'communicare' 'to share', 'to make common'). The term was coined in French (télécommunication) by Édouard Estaunié in 1904.",
+  "SINCE":"Early 20th century (1904)",
+  "MEANINGS":[
+    {
+      "PATTERN":"telecommunication",
+      "POS":"uncountable noun",
+      "POS_TIP":"a word that names something that cannot be counted (e.g., information, water)",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "field"
+      ],
+      "DEF_EN":"Communication over a distance by electronic means, such as by cable, telephone, radio, or satellite.",
+      "DEF_ZH":"通过电子方式进行的远距离通信，例如通过电缆、电话、无线电或卫星等方式。",
+      "SENT_EN":"The invention of the telegraph marked a significant milestone in the history of telecommunication.",
+      "SENT_ZH":"电报的发明是电信史上一个重要的里程碑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distance communication",
+            "remote communication"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "communication",
+            "networking",
+            "information technology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"telecommunications",
+      "POS":"plural noun",
+      "POS_TIP":"a word that names something that can be counted, appearing in its plural form; often refers to systems or an industry",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "industry"
+      ],
+      "DEF_EN":"The technology and processes involved in transmitting information over long distances, often referring to the industry or infrastructure that provides such services.",
+      "DEF_ZH":"涉及远距离信息传输的技术和过程，常指提供此类服务的行业或基础设施。",
+      "SENT_EN":"The global telecommunications industry is undergoing rapid transformation with the advent of 5G technology.",
+      "SENT_ZH":"随着5G技术的出现，全球电信行业正在经历快速转型。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "telecom",
+            "communications sector",
+            "network systems"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "internet",
+            "mobile networks",
+            "broadband",
+            "satellite communication"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal, technical, general"
+}

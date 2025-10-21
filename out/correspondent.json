@@ -1,0 +1,88 @@
+{
+  "WORD":"correspondent",
+  "IPA":"/ˌkɒrɪˈspɒndənt/",
+  "CONJUGATES":"correspondents",
+  "ETYMOLOGY":"From Middle French correspondant, present participle of correspondre ('to correspond'), from Latin com- ('with, together') + respondere ('to answer').",
+  "SINCE":"Late 17th century (as a person who communicates by letters); early 19th century (as a reporter)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "media"
+      ],
+      "DEF_EN":"A person employed by a news organization (newspaper, TV, radio) to gather and report news, especially from a distant location or specializing in a certain topic.",
+      "DEF_ZH":"受雇于新闻机构（报纸、电视、电台）的记者，负责收集和报道新闻，尤指驻外或报道特定领域的记者。",
+      "SENT_EN":"The foreign correspondent was evacuated just before the conflict escalated.",
+      "SENT_ZH":"那名驻外记者在冲突升级前不久被疏散了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reporter",
+            "journalist",
+            "newscaster",
+            "envoy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bureau chief",
+            "cameraman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "general",
+        "formal"
+      ],
+      "DEF_EN":"A person with whom one exchanges letters or email regularly; a pen pal.",
+      "DEF_ZH":"与某人定期通信或交换电子邮件的人；笔友。",
+      "SENT_EN":"They remained devoted correspondents for over fifty years, despite never having met.",
+      "SENT_ZH":"尽管从未谋面，他们依然保持了五十多年的忠实通信关系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pen pal",
+            "communicator",
+            "epistolary friend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"Being in agreement or conformity; equivalent or matching (Note: 'corresponding' is more common in this adjectival role).",
+      "DEF_ZH":"对应的；相符的；一致的（注意：形容词用法中'corresponding'更常见）。",
+      "SENT_EN":"Please ensure the entry dates match the correspondent ledger numbers.",
+      "SENT_ZH":"请确保输入日期与对应的分类账编号相匹配。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "corresponding",
+            "equivalent",
+            "matching",
+            "congruent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in professional media and formal communication."
+}

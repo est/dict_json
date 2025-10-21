@@ -1,0 +1,100 @@
+{
+  "WORD":"goat",
+  "IPA":"/ɡoʊt/",
+  "CONJUGATES":"goats",
+  "ETYMOLOGY":"From Old English gāt, from Proto-Germanic *gaitaz (compare Old High German geiz, Old Norse geit), ultimately from Proto-Indo-European *gʰaid- 'goat'.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] goat",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A hardy, domesticated ruminant mammal (Capra aegagrus hircus) related to the sheep, having backward-curving horns and, in the male, a beard.",
+      "DEF_ZH":"一种性情强健的家养反刍动物（学名 Capra aegagrus hircus），与绵羊有亲缘关系，有向后弯曲的角，雄性通常有胡须。",
+      "SENT_EN":"The goat grazed peacefully in the meadow.",
+      "SENT_ZH":"那只山羊在草地上平静地吃草。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "caprine",
+            "kid",
+            "billy goat",
+            "nanny goat"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sheep",
+            "lamb",
+            "ram",
+            "ewe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] goat",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"A person who is blamed or made to suffer for the mistakes or failures of others; a scapegoat.",
+      "DEF_ZH":"替别人承担错误或失败责任的人；替罪羊。",
+      "SENT_EN":"He was made the goat for the team's poor performance.",
+      "SENT_ZH":"他成了球队表现不佳的替罪羊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scapegoat",
+            "fall guy",
+            "patsy",
+            "whipping boy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] GOAT",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "modern",
+        "informal",
+        "acronym"
+      ],
+      "DEF_EN":"An acronym standing for 'Greatest Of All Time', often used to describe someone who is exceptionally skilled or successful in their field.",
+      "DEF_ZH":"“史上最佳”（Greatest Of All Time）的缩写，常用于形容在某个领域内技能超群或成就非凡的人。",
+      "SENT_EN":"Many consider Michael Jordan to be the GOAT in basketball.",
+      "SENT_ZH":"许多人认为迈克尔·乔丹是篮球界的“史上最佳”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "legend",
+            "master",
+            "virtuoso",
+            "titan"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "underdog",
+            "novice"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with the third meaning being informal/slang."
+}

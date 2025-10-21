@@ -1,0 +1,60 @@
+{
+  "WORD":"vowel",
+  "IPA":"/ˈvaʊəl/",
+  "CONJUGATES":"vowels",
+  "ETYMOLOGY":"From Middle English, from Old French vouel, from Latin vocalis (littera 'letter' being understood), from vox 'voice'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "linguistics",
+        "phonetics"
+      ],
+      "DEF_EN":"A speech sound produced by the open passage of air through the pharynx and mouth without audible friction, forming the nucleus of a syllable.",
+      "DEF_ZH":"一种语音，通过气流在咽喉和口腔中无阻碍地自由通过而产生，通常构成音节的核心。",
+      "SENT_EN":"The short 'i' in 'sit' is a pure vowel sound.",
+      "SENT_ZH":"“sit”中的短“i”是一个纯粹的元音。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "consonant"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "monophthong",
+            "diphthong"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "orthography",
+        "grammar"
+      ],
+      "DEF_EN":"A written letter or symbol (such as 'a', 'e', 'i', 'o', 'u' in English) representing a vowel sound.",
+      "DEF_ZH":"表示元音的字母或书写符号（如英语中的 a, e, i, o, u）。",
+      "SENT_EN":"The Spanish alphabet has five vowels.",
+      "SENT_ZH":"西班牙语字母表有五个元音字母。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "consonant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic (Linguistics)"
+}

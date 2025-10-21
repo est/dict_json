@@ -1,0 +1,68 @@
+{
+  "WORD":"terrain",
+  "IPA":"/təˈreɪn/",
+  "CONJUGATES":"terrains",
+  "ETYMOLOGY":"From French terrain, from Vulgar Latin terranum, from Latin terra 'earth'.",
+  "SINCE":"Mid-18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"terrain",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A stretch of land, especially with regard to its natural or physical features.",
+      "DEF_ZH":"一片陆地，尤指其自然或物理特征。",
+      "SENT_EN":"The mountainous terrain made the hike challenging.",
+      "SENT_ZH":"多山的地形使徒步旅行充满挑战。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "landscape",
+            "ground",
+            "countryside",
+            "topography",
+            "land"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "geography",
+            "environment",
+            "ecosystem"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"terrain",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "technical",
+        "military",
+        "gaming"
+      ],
+      "DEF_EN":"A particular type of ground or surface, especially in relation to its suitability for travel, military operations, or virtual environments.",
+      "DEF_ZH":"特指某种类型的地面或地表，尤其是就其是否适合旅行、军事行动或虚拟环境而言。",
+      "SENT_EN":"The tank was designed to handle very rough terrain.",
+      "SENT_ZH":"这辆坦克被设计用来应对非常崎岖的地形。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ground",
+            "surface",
+            "earth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Military"
+}

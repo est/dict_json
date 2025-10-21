@@ -1,0 +1,72 @@
+{
+  "WORD":"syntax",
+  "IPA":"/ˈsɪnˌtæks/",
+  "CONJUGATES":"syntaxes (rarely used as a count noun) | syntactical (adj.) | syntactic (adj.)",
+  "ETYMOLOGY":"From Late Latin syntaxis, from Greek syntaxis (arrangement, order), from syn- (together) + taxis (arrangement, order, classification).",
+  "SINCE":"16th Century (c. 1570s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"syntax [of a language]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "linguistics",
+        "academic"
+      ],
+      "DEF_EN":"The arrangement of words and phrases to create well-formed sentences in a language, or the set of rules governing this structure.",
+      "DEF_ZH":"语言中，词语和短语构成结构良好句子的排列方式，或支配这种结构的一套规则（即句法）。",
+      "SENT_EN":"Students often struggle with the complex syntax of German verb structures.",
+      "SENT_ZH":"学生们通常难以掌握复杂的德语动词结构句法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grammar",
+            "structure",
+            "arrangement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "morphology",
+            "semantics",
+            "phonology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"syntax [of code/programming]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"The set of rules that define the combinations of symbols that are correctly structured programs or statements in a particular programming language.",
+      "DEF_ZH":"在特定编程语言中，定义符号组合如何构成结构正确的程序或语句的一套规则。",
+      "SENT_EN":"A simple syntax error prevented the program from compiling correctly.",
+      "SENT_ZH":"一个简单的语法错误阻止了程序正确编译。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "code structure",
+            "grammar (computing)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "semantics",
+            "compiler",
+            "debugging"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical, General"
+}

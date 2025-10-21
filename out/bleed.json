@@ -1,0 +1,113 @@
+{
+  "WORD":"bleed",
+  "IPA":"/bliːd/",
+  "CONJUGATES":"bleeds | bleeding | bled",
+  "ETYMOLOGY":"From Old English blēdan ('to emit blood'), derived from Proto-Germanic *blōþijan, related to *blōþam ('blood').",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"bleed",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical"
+      ],
+      "DEF_EN":"To lose blood from the body, typically due to injury, illness, or menstruation.",
+      "DEF_ZH":"因受伤、疾病或生理期而失血或流血。",
+      "SENT_EN":"He cut his hand badly and it wouldn't stop bleeding.",
+      "SENT_ZH":"他手被割伤得很厉害，血流不止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hemorrhage",
+            "gush",
+            "flow"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bloody",
+            "blood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bleed",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "figurative",
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To suffer a heavy and continuous loss of money or resources.",
+      "DEF_ZH":"遭受大量持续的经济损失；资金耗尽。",
+      "SENT_EN":"The endless lawsuits are bleeding the small business dry.",
+      "SENT_ZH":"无休止的诉讼正在耗尽这家小企业的资金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lose money",
+            "exploit",
+            "drain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bleed [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "technical",
+        "automotive",
+        "plumbing"
+      ],
+      "DEF_EN":"To release trapped air or fluid from a closed hydraulic or mechanical system (e.g., brakes or radiators).",
+      "DEF_ZH":"从封闭的液压或机械系统（如刹车或散热器）中释放滞留的空气或液体。",
+      "SENT_EN":"You need to bleed the air out of the radiator before adding more coolant.",
+      "SENT_ZH":"在添加更多冷却液之前，你需要排出散热器中的空气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "purge",
+            "vent",
+            "drain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bleed",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "technical",
+        "printing",
+        "design"
+      ],
+      "DEF_EN":"(Of ink or color) to spread or run into an adjacent area; (Of a printed image) to extend past the edge of the paper.",
+      "DEF_ZH":"(指油墨或颜色) 渗出、洇染到相邻区域；(指印刷图像) 延伸到纸张边缘之外（出血）。",
+      "SENT_EN":"The dark color in the corner started to bleed into the white margin.",
+      "SENT_ZH":"角落里的深色开始洇染到白色边缘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "run",
+            "smudge",
+            "seep"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

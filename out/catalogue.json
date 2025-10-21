@@ -1,0 +1,84 @@
+{
+  "WORD":"catalogue",
+  "IPA":"/ˈkætəlɒɡ/",
+  "CONJUGATES":"noun: catalogues | verb: catalogues, cataloguing, catalogued",
+  "ETYMOLOGY":"From Old French catalogue, from Late Latin catalogus, from Ancient Greek katalogos 'a list, register', from kata- 'down, completely' + legein 'to say, to list'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a catalogue of sth]",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A complete list of items, typically one in alphabetical or systematic order, in particular those in a library or museum.",
+      "DEF_ZH":"（尤指图书馆或博物馆的）目录，分类簿；清单。",
+      "SENT_EN":"The library's online catalogue allows you to search for books by author or title.",
+      "SENT_ZH":"图书馆的在线目录允许你按作者或书名搜索书籍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "list",
+            "register",
+            "index",
+            "directory",
+            "inventory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a catalogue]",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "commerce"
+      ],
+      "DEF_EN":"A publication containing a list of items for sale, especially one distributed by mail order.",
+      "DEF_ZH":"（商品的）目录册，产品型录。",
+      "SENT_EN":"I ordered several items from the furniture catalogue.",
+      "SENT_ZH":"我从家具目录册上订购了几件商品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brochure",
+            "prospectus",
+            "leaflet",
+            "flyer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[catalogue sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, requiring an object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a systematic list of (items of the same type).",
+      "DEF_ZH":"编目；登记；分类。",
+      "SENT_EN":"The museum spent years cataloguing its vast collection of artifacts.",
+      "SENT_ZH":"博物馆花了数年时间对其庞大的文物藏品进行编目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "classify",
+            "list",
+            "index",
+            "register",
+            "inventory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

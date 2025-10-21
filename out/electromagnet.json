@@ -1,0 +1,38 @@
+{
+  "WORD":"electromagnet",
+  "IPA":"/ɪˌlɛktroʊˈmæɡnət/",
+  "CONJUGATES":"electromagnets (plural)",
+  "ETYMOLOGY":"From 'electro-' (referring to electricity, from Greek 'elektron' meaning 'amber') and 'magnet' (from Greek 'magnētis lithos' meaning 'Magnesian stone'). First coined after the discovery of electromagnetism.",
+  "SINCE":"c. 1820s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "science",
+        "technology",
+        "physics"
+      ],
+      "DEF_EN":"A temporary magnet made by coiling wire around an iron or similar core and passing an electric current through the wire, generating a magnetic field that disappears when the current is turned off.",
+      "DEF_ZH":"一种通过将导线缠绕在铁或其他类似材料的磁芯上并通入电流而产生的临时磁铁，其磁场在电流关闭时消失。",
+      "SENT_EN":"The scrapyard uses a giant electromagnet to lift and move heavy metallic objects.",
+      "SENT_ZH":"废品回收站使用一个巨大的电磁铁来吊起和移动沉重的金属物体。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "solenoid",
+            "magnetic field",
+            "permanent magnet",
+            "generator",
+            "motor",
+            "inductor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"scientific, technical, general"
+}

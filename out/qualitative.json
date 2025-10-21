@@ -1,0 +1,60 @@
+{
+  "WORD":"qualitative",
+  "IPA":"/ˈkwɒlɪtətɪv/",
+  "CONJUGATES":"qualitatively (adv.) | quality (n.) | qualitativeness (n.)",
+  "ETYMOLOGY":"From Medieval Latin quālitātīvus (related to quality), from Latin quālis ('of what kind') + suffix -ātīvus (adjectival suffix).",
+  "SINCE":"c. 1650s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] qualitative",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to, measuring, or based on the quality, nature, or character of something rather than its quantity or size.",
+      "DEF_ZH":"与某事物的性质、特征或品质有关，而非数量或大小。",
+      "SENT_EN":"The manager's report provided a qualitative assessment of employee morale.",
+      "SENT_ZH":"经理的报告提供了关于员工士气的定性评估。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "quantitative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"qualitative research/data/analysis",
+      "POS":"adj",
+      "POS_TIP":"adjective (specialized)",
+      "TAGS":[
+        "academic",
+        "technical",
+        "statistics"
+      ],
+      "DEF_EN":"In research, referring to data that is non-numerical and descriptive, collected via methods like observation, interviews, or text analysis.",
+      "DEF_ZH":"（研究中）指非数字性的描述性数据，通常通过观察、访谈或文本分析等方法收集。",
+      "SENT_EN":"The sociologist focused on qualitative research methods to understand cultural dynamics.",
+      "SENT_ZH":"该社会学家专注于定性研究方法来理解文化动态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "descriptive",
+            "non-numerical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "quantitative"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, and Technical"
+}

@@ -1,0 +1,123 @@
+{
+  "WORD":"time",
+  "IPA":"/taɪm/",
+  "CONJUGATES":"times | timing | timed",
+  "ETYMOLOGY":"From Old English tīma ('time, limited space of time, season'), from Proto-Germanic *tīmô (time), from Proto-Indo-European *dī- ('to divide').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"time",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "fundamental concept",
+        "common"
+      ],
+      "DEF_EN":"The indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
+      "DEF_ZH":"过去、现在和未来事件的连续进程，被视为一个整体的无尽持续。",
+      "SENT_EN":"Time flies when you're having fun.",
+      "SENT_ZH":"玩得开心时，时光飞逝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "duration",
+            "period",
+            "existence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a time | the time [for sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A specific moment, hour, or period, usually indicated or understood.",
+      "DEF_ZH":"特定的时刻、小时或时期，通常是已知或理解的。",
+      "SENT_EN":"What time is it? It's time for dinner.",
+      "SENT_ZH":"几点了？该吃晚饭了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moment",
+            "occasion",
+            "era",
+            "interval"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[numeral] times",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Used to express multiplication or repetition of an action or event.",
+      "DEF_ZH":"用于表示乘法或某行为或事件重复的次数。",
+      "SENT_EN":"I've told you three times already.",
+      "SENT_ZH":"我已经告诉你三次了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occurrence",
+            "instance",
+            "turn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"time [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To measure the duration of an event or process.",
+      "DEF_ZH":"测量某事件或过程的持续时间。",
+      "SENT_EN":"Can you time how long it takes me to run a mile?",
+      "SENT_ZH":"你能给我计时跑一英里需要多长时间吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure",
+            "record",
+            "clock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"time [sth] [right/well]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To choose the moment or occasion for something to happen or be done.",
+      "DEF_ZH":"选择某事发生或完成的正确时刻或时机。",
+      "SENT_EN":"He timed his entrance perfectly to surprise everyone.",
+      "SENT_ZH":"他完美地把握了进场时机，给大家一个惊喜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schedule",
+            "coordinate",
+            "synchronize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

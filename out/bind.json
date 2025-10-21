@@ -1,0 +1,136 @@
+{
+  "WORD":"bind",
+  "IPA":"/baɪnd/",
+  "CONJUGATES":"binds | binding | bound",
+  "ETYMOLOGY":"From Old English bindan, tracing back to Proto-Indo-European *bʰendʰ- (meaning 'to tie, link').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"bind [sth] (together/up/with sth)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To tie or fasten tightly, especially with rope or cord.",
+      "DEF_ZH":"用绳索、带子或其他材料将某物捆扎、系紧。",
+      "SENT_EN":"The rescuers used strong nylon cord to bind the injured man's leg.",
+      "SENT_ZH":"救援人员使用结实的尼龙绳捆扎伤者的腿部。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fasten",
+            "tie",
+            "secure",
+            "truss"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "untie",
+            "unfasten",
+            "release"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bind [sb] to [sth/doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"To place someone under a legal or moral obligation or commitment.",
+      "DEF_ZH":"使（某人）受法律或道德约束；使负有义务或承诺。",
+      "SENT_EN":"The settlement agreement binds both parties to confidentiality.",
+      "SENT_ZH":"这份和解协议约束双方必须保密。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obligate",
+            "commit",
+            "compel",
+            "constrain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bind [sth/sb] together",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To unite or hold elements or people together, often through shared purpose or loyalty.",
+      "DEF_ZH":"使联合；使凝聚；使结合在一起（常指情感或目的）。",
+      "SENT_EN":"Their common struggle against the disease helped bind the family together.",
+      "SENT_ZH":"他们共同与疾病抗争的经历使一家人更加紧密地团结在一起。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unite",
+            "link",
+            "integrate",
+            "cohere"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bind [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specific",
+        "craft"
+      ],
+      "DEF_EN":"To secure the pages of a book or document between covers.",
+      "DEF_ZH":"装订（书本、文件等）。",
+      "SENT_EN":"It takes several hours to hand-bind a leather journal.",
+      "SENT_ZH":"手工装订一本皮面日志需要几个小时。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bookbinding",
+            "staple"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in a bind",
+      "POS":"n",
+      "POS_TIP":"noun (often used idiomatically in a phrase)",
+      "TAGS":[
+        "informal",
+        "idiomatic"
+      ],
+      "DEF_EN":"A difficult, restrictive, or awkward situation; a predicament.",
+      "DEF_ZH":"困境；窘境；束手无策的情况。（常用于习语 in a bind）",
+      "SENT_EN":"I'm in a bind because I promised two different friends I’d help them at the same time.",
+      "SENT_ZH":"我处于窘境，因为我答应了两个不同的朋友同时帮助他们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "predicament",
+            "dilemma",
+            "fix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General to Formal, depending on context."
+}

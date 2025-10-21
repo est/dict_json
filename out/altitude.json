@@ -1,0 +1,63 @@
+{
+  "WORD":"altitude",
+  "IPA":"/ˈæltɪtuːd/",
+  "CONJUGATES":"altitudes",
+  "ETYMOLOGY":"From Latin altitudo ('height'), from altus ('high, tall').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] altitude",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea. Often used with 'sth' for 'something' when referring to inanimate objects or concepts, or 'sb' for 'somebody' when referring to people.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The height of an object or point in relation to sea level or ground level.",
+      "DEF_ZH":"物体或地点相对于海平面或地面的高度。",
+      "SENT_EN":"The aircraft maintained a cruising altitude of 35,000 feet.",
+      "SENT_ZH":"飞机保持着35,000英尺的巡航高度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "height",
+            "elevation",
+            "loftiness"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "depth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] altitude",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea. Often used with 'sth' for 'something' when referring to inanimate objects or concepts, or 'sb' for 'somebody' when referring to people.",
+      "TAGS":[
+        "technical",
+        "astronomy",
+        "geometry"
+      ],
+      "DEF_EN":"(Astronomy, Geometry) The angular distance of a celestial body above the horizon, measured perpendicular to the horizon.",
+      "DEF_ZH":"(天文学，几何学) 天体高于地平线的角距离，垂直于地平线测量。",
+      "SENT_EN":"Navigators use a sextant to measure the altitude of stars to determine their position.",
+      "SENT_ZH":"航海员使用六分仪测量恒星的高度以确定其位置。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "azimuth",
+            "zenith",
+            "nadir"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, scientific, aviation, geography"
+}

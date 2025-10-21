@@ -1,0 +1,72 @@
+{
+  "WORD":"depot",
+  "IPA":"/ˈdiːpoʊ/",
+  "CONJUGATES":"depots (n.) | depoted (v.) | depoting (v.)",
+  "ETYMOLOGY":"From French dépôt ('deposit, storehouse'), from Old French depose (to put down, deposit), ultimately from Latin dēpōnere (dē- 'away' + pōnere 'to place').",
+  "SINCE":"Early 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] depot",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "logistics"
+      ],
+      "DEF_EN":"A place where a large quantity of equipment, goods, or provisions are stored; a storehouse or warehouse, especially for military supplies.",
+      "DEF_ZH":"仓库或货栈，尤指储存大量设备、物资或军用补给的场所。",
+      "SENT_EN":"The delivery trucks pick up their parcels every morning from the central distribution depot.",
+      "SENT_ZH":"送货卡车每天早上都从中央配送仓库领取包裹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "warehouse",
+            "storehouse",
+            "magazine",
+            "repository"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[transport] depot",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "North American English",
+        "transportation"
+      ],
+      "DEF_EN":"A railway or bus station; a terminal.",
+      "DEF_ZH":"火车站或汽车站；终点站（主要用于北美英语）。",
+      "SENT_EN":"They finally arrived at the bus depot after an eight-hour journey.",
+      "SENT_ZH":"经过八小时的旅程，他们终于到达了公共汽车站。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "station",
+            "terminal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"depot [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "technical"
+      ],
+      "DEF_EN":"To store or deposit goods in a depot.",
+      "DEF_ZH":"将（货物）存放在仓库中。",
+      "SENT_EN":"The excess machinery was depoted until the new factory extension was complete.",
+      "SENT_ZH":"多余的机器被存放起来，直到新的工厂扩建完成。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Military, Transportation"
+}

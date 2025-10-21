@@ -1,0 +1,137 @@
+{
+  "WORD":"letter",
+  "IPA":"/ˈlɛtər/",
+  "CONJUGATES":"letter | letters",
+  "ETYMOLOGY":"From Old French 'lettre', from Latin 'littera' (plural 'litterae'), meaning 'a letter of the alphabet', 'writing', 'epistle'.",
+  "SINCE":"12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a/an letter",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A character representing one or more of the sounds used in speech; any of the symbols of an alphabet.",
+      "DEF_ZH":"字母；文字符号；音标符号。",
+      "SENT_EN":"The first letter of the English alphabet is 'A'.",
+      "SENT_ZH":"英文字母的第一个字母是“A”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "character",
+            "symbol",
+            "grapheme"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a/an letter [to sb] [about sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A written or printed communication, typically sent in an envelope by post or messenger.",
+      "DEF_ZH":"信件；函件；书信。",
+      "SENT_EN":"She received a long letter from her pen pal.",
+      "SENT_ZH":"她收到了笔友的一封长信。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "correspondence",
+            "message",
+            "note",
+            "epistle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "email",
+            "postcard",
+            "memo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the letter of [sth]",
+      "POS":"noun phrase",
+      "POS_TIP":"noun phrase: a group of words functioning as a noun.",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "legal context"
+      ],
+      "DEF_EN":"The strict, literal interpretation of words or laws, as opposed to the spirit or general intention.",
+      "DEF_ZH":"（法律或规定的）字面意义；表面含义。",
+      "SENT_EN":"He followed the letter of the law, but many felt he violated its spirit.",
+      "SENT_ZH":"他遵守了法律的字面规定，但许多人认为他违背了其精神。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "spirit",
+            "intention",
+            "gist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"letter [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb; a verb that takes one or more direct objects.",
+      "TAGS":[
+        "uncommon",
+        "technical"
+      ],
+      "DEF_EN":"To mark, write, or inscribe with letters.",
+      "DEF_ZH":"用字母标记；题字；书写字母。",
+      "SENT_EN":"The calligrapher carefully lettered the invitation cards.",
+      "SENT_ZH":"那位书法家小心翼翼地在请柬上写了字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inscribe",
+            "mark",
+            "label",
+            "caption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"win/earn a letter",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "US English",
+        "sports",
+        "education"
+      ],
+      "DEF_EN":"A block letter (e.g., 'V' for varsity), usually made of felt or chenille, awarded to a high school or college student for excellence in sports or other extracurricular activities.",
+      "DEF_ZH":"（美国高中或大学颁发的）校队队员奖章，通常是校名首字母的臂章。",
+      "SENT_EN":"She earned a varsity letter for her outstanding performance in track and field.",
+      "SENT_ZH":"她因在田径比赛中的出色表现而获得了校队队员奖章。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "varsity letter",
+            "award",
+            "honor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

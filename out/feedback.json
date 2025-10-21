@@ -1,0 +1,135 @@
+{
+  "WORD":"feedback",
+  "IPA":"/'fiːdbæk/",
+  "CONJUGATES":"Noun: feedback (uncountable, plural 'feedbacks' is rare) | Verb: feedback (base) | feedbacks (3rd person singular) | feedbacking (present participle) | feedbacked (past simple, past participle)",
+  "ETYMOLOGY":"Coined in English from 'feed' (verb) + 'back' (adverb), first used in the context of electrical engineering, referring to the return of part of the output to the input.",
+  "SINCE":"Early 20th century (c. 1920s for technical use, wider use from 1940s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"give/receive feedback [on sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea. In this case, it is typically used as an uncountable noun, meaning it does not have a plural form, or its plural form is rare and refers to types or instances.",
+      "TAGS":[
+        "core word",
+        "common",
+        "communication",
+        "business"
+      ],
+      "DEF_EN":"Information about someone's performance of a task, used as a basis for improvement. Or, reactions to a product, service, or idea.",
+      "DEF_ZH":"关于某人完成任务表现的信息，用作改进的基础。或对产品、服务或想法的反应。",
+      "SENT_EN":"We encourage employees to give constructive feedback on new projects.",
+      "SENT_ZH":"我们鼓励员工就新项目提供建设性的反馈意见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "input",
+            "response",
+            "commentary",
+            "critique",
+            "evaluation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "silence",
+            "ignorance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "review",
+            "assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] feedback loop | positive/negative feedback",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea. In this case, it is typically used as an uncountable noun, meaning it does not have a plural form, or its plural form is rare and refers to types or instances.",
+      "TAGS":[
+        "technical",
+        "common",
+        "science",
+        "engineering"
+      ],
+      "DEF_EN":"The return of a fraction of the output signal from one stage of an electronic circuit or mechanical system to the input of the same or a preceding stage.",
+      "DEF_ZH":"电子电路或机械系统某一级输出信号的一部分返回到同一级或前一级输入的现象。",
+      "SENT_EN":"The system uses a negative feedback loop to maintain a stable temperature.",
+      "SENT_ZH":"该系统利用负反馈回路来保持温度稳定。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cybernetics",
+            "thermostat",
+            "control system"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"audio feedback | microphone feedback",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea. In this case, it is typically used as an uncountable noun, meaning it does not have a plural form, or its plural form is rare and refers to types or instances.",
+      "TAGS":[
+        "common",
+        "technical",
+        "music",
+        "sound"
+      ],
+      "DEF_EN":"A loud, usually unwanted, high-pitched noise produced by a sound system when a microphone picks up its own amplified sound from a loudspeaker.",
+      "DEF_ZH":"当麦克风拾取扬声器放大的自身声音时，音响系统产生的一种响亮、通常是不受欢迎的刺耳噪音。",
+      "SENT_EN":"The concert was interrupted by a burst of painful audio feedback.",
+      "SENT_ZH":"音乐会被一阵刺耳的音响反馈打断了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "howl",
+            "squeal",
+            "whine",
+            "drone"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "distortion",
+            "reverb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feedback [sth] [to sb] | feedback [on sth]",
+      "POS":"verb",
+      "POS_TIP":"A word that describes an action, state, or occurrence. It can be used transitively (takes a direct object) or intransitively (does not take a direct object).",
+      "TAGS":[
+        "less common",
+        "informal",
+        "technical",
+        "business"
+      ],
+      "DEF_EN":"To provide feedback or information about something.",
+      "DEF_ZH":"提供关于某事的反馈或信息。",
+      "SENT_EN":"Please feedback your comments to the project manager by Friday.",
+      "SENT_ZH":"请在周五前将您的意见反馈给项目经理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "report back",
+            "inform",
+            "respond",
+            "relay"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally used in formal and informal contexts, particularly in business, technology, and communication."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"strategic",
+  "IPA":"/strəˈtiːdʒɪk/",
+  "CONJUGATES":"strategically (adv) | strategy (n)",
+  "ETYMOLOGY":"From Greek stratēgikós, derived from stratēgós ('general, leader of an army'), from stratós ('army') + ágein ('to lead'). Adopted into English via French 'stratégique'.",
+  "SINCE":"Early 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is strategic",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "planning",
+        "common"
+      ],
+      "DEF_EN":"Relating to the identification of long-term or overall aims and the means of achieving them; essential to achieving a major goal.",
+      "DEF_ZH":"战略性的；用于指导或实现长期目标或总体计划的。",
+      "SENT_EN":"Developing new technologies is a strategic priority for the company.",
+      "SENT_ZH":"开发新技术是该公司的战略重点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "planned",
+            "calculated",
+            "future-oriented"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "tactical",
+            "haphazard",
+            "random"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a strategic [position/resource]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "military",
+        "geographical",
+        "important"
+      ],
+      "DEF_EN":"Crucial or essential because of its importance in a strategy or position.",
+      "DEF_ZH":"至关重要的；具有战略地位的（通常指军事或地理位置）。",
+      "SENT_EN":"The small island proved to be a strategic location controlling the shipping lanes.",
+      "SENT_ZH":"事实证明，这座小岛是一个控制航运路线的战略要地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "critical",
+            "vital",
+            "key",
+            "pivotal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strategic [weapons/forces]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "military",
+        "specialized"
+      ],
+      "DEF_EN":"In military use, denoting weapons or actions directed toward an enemy's industrial capacity or command structure, usually involving long-range capabilities, distinct from tactical operations.",
+      "DEF_ZH":"（军事）战略级的；指针对敌方本土或核心目标（如工业或指挥中心）的远程武器或行动。",
+      "SENT_EN":"The treaty focused on reducing strategic nuclear weapons rather than conventional arms.",
+      "SENT_ZH":"该条约侧重于削减战略核武器，而非常规武器。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "tactical"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Business | Military"
+}

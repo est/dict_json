@@ -1,0 +1,109 @@
+{
+  "WORD":"suspend",
+  "IPA":"/səˈspend/",
+  "CONJUGATES":"suspends | suspending | suspended",
+  "ETYMOLOGY":"From Old French suspendre, from Latin suspendere (sub- 'under' + pendere 'to hang'), originally 'to hang up, keep in suspense, interrupt'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"suspend [sth/sb] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "official"
+      ],
+      "DEF_EN":"To stop something, usually temporarily, from continuing or being in force; to temporarily prevent someone from continuing their job, school attendance, or participation in an activity, typically as a punishment.",
+      "DEF_ZH":"暂时停止（某事）的继续或效力；暂时阻止（某人）继续其工作、学业或参与活动，通常作为一种惩罚。",
+      "SENT_EN":"The company decided to suspend production until the safety issues were resolved.",
+      "SENT_ZH":"公司决定暂停生产，直到安全问题得到解决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "halt",
+            "postpone",
+            "interrupt",
+            "adjourn",
+            "bar"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "continue",
+            "resume",
+            "implement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suspend [sth] (in [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To hang something from a higher place so that it is supported by something else and does not touch the ground or another surface.",
+      "DEF_ZH":"将某物从高处悬挂起来，使其被某物支撑，不接触地面或其他表面。",
+      "SENT_EN":"A chandelier was suspended from the high ceiling of the ballroom.",
+      "SENT_ZH":"一个枝形吊灯悬挂在宴会厅的高高的天花板上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hang",
+            "dangle",
+            "sling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suspend [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"To keep fine solid particles dispersed throughout a fluid, creating a suspension.",
+      "DEF_ZH":"使细小的固体颗粒分散在流体中，形成悬浮液。",
+      "SENT_EN":"The chemist needed to suspend the powder evenly in the solvent for the reaction to occur.",
+      "SENT_ZH":"化学家需要将粉末均匀地悬浮在溶剂中，以便反应发生。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "suspension"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suspend belief/judgement",
+      "POS":"vtr + n",
+      "POS_TIP":"transitive verb followed by noun",
+      "TAGS":[
+        "idiomatic",
+        "literary"
+      ],
+      "DEF_EN":"To temporarily disregard one's critical faculties or disbelief in order to enjoy a fictional work or unusual event.",
+      "DEF_ZH":"暂时搁置（自己的）信念或判断力，以便欣赏虚构作品或不寻常事件。",
+      "SENT_EN":"We were asked to suspend our disbelief for the duration of the fantasy film.",
+      "SENT_ZH":"我们被要求在观看这部奇幻电影期间暂时放下我们的怀疑。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "suspense"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and general usage, common in legal, administrative, and technical contexts."
+}

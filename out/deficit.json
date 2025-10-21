@@ -1,0 +1,83 @@
+{
+  "WORD":"deficit",
+  "IPA":"/ˈdɛfɪsɪt/",
+  "CONJUGATES":"deficits",
+  "ETYMOLOGY":"From Latin dēficit (third-person singular present active indicative of dēficere 'to fail, fall short'), literally meaning 'it is wanting' or 'it is lacking.' Adopted into English via French in the mid-18th century.",
+  "SINCE":"c. 1750",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] deficit | budget/trade deficit",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Financial",
+        "Economic"
+      ],
+      "DEF_EN":"The amount by which expenditures exceed revenues, or liabilities exceed assets, over a given period; a financial shortfall.",
+      "DEF_ZH":"赤字；亏空（尤指政府或公司的支出大于收入的差额）。",
+      "SENT_EN":"The Treasury Department announced that the national budget deficit had narrowed this quarter.",
+      "SENT_ZH":"财政部宣布本季度国家预算赤字有所收窄。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shortfall",
+            "loss",
+            "debt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "surplus",
+            "profit",
+            "excess"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "GNP",
+            "GDP",
+            "inflation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a deficit of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Common",
+        "General",
+        "Medical"
+      ],
+      "DEF_EN":"A lack or shortage of something necessary, often used in medical or resource contexts.",
+      "DEF_ZH":"缺乏；不足；欠缺（尤指身体机能或必需品）。",
+      "SENT_EN":"Research showed that many children suffered from a deficit of essential vitamins due to poor diet.",
+      "SENT_ZH":"研究表明，由于饮食不良，许多儿童患有必需维生素缺乏症。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deficiency",
+            "inadequacy",
+            "dearth",
+            "want"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "abundance",
+            "sufficiency",
+            "plenitude"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal; highly common in Economic, Political, and Medical contexts."
+}

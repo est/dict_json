@@ -1,0 +1,79 @@
+{
+  "WORD":"canine",
+  "IPA":"/ˈkeɪnaɪn/",
+  "CONJUGATES":"canines",
+  "ETYMOLOGY":"From Latin caninus (adjective 'of a dog'), derived from canis ('dog').",
+  "SINCE":"Late 14th century (adj.); Early 17th century (n. tooth)",
+  "MEANINGS":[
+    {
+      "PATTERN":"canine [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "zoology"
+      ],
+      "DEF_EN":"Relating to or resembling a dog or other members of the dog family (Canidae).",
+      "DEF_ZH":"犬科动物的；狗的；似狗的。",
+      "SENT_EN":"The veterinarian specializes in canine diseases.",
+      "SENT_ZH":"这位兽医擅长犬科疾病。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "doglike",
+            "lupine",
+            "vulpine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a canine",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "zoology"
+      ],
+      "DEF_EN":"An animal belonging to the family Canidae, which includes dogs, wolves, foxes, jackals, and coyotes.",
+      "DEF_ZH":"犬科动物（如狗、狼、狐狸等）。",
+      "SENT_EN":"Wolves and domestic dogs are both classified as canines.",
+      "SENT_ZH":"狼和家犬都被归类为犬科动物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dog",
+            "wolf",
+            "fox",
+            "coyote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a canine",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "anatomy"
+      ],
+      "DEF_EN":"A pointed tooth situated between the incisors and the premolars in humans and most other mammals.",
+      "DEF_ZH":"犬齿；尖牙（位于切牙和前磨牙之间）。",
+      "SENT_EN":"The dentist checked if the patient's canines were properly aligned.",
+      "SENT_ZH":"牙医检查了患者的犬齿是否排列整齐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cuspid",
+            "fang"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Biology"
+}

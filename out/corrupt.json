@@ -1,0 +1,134 @@
+{
+  "WORD":"corrupt",
+  "IPA":"/kəˈrʌpt/",
+  "CONJUGATES":"corrupts | corrupted | corrupting | corruption | corruptible",
+  "ETYMOLOGY":"From Middle English, via Old French *corrupt*, from Latin *corruptus*, past participle of *corrumpere* ('to spoil, bribe, destroy'), formed from *com-* (thoroughly) + *rumpere* (to break).",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"a corrupt [official/system]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"Having or showing a willingness to act dishonestly in return for money or personal gain, especially those in positions of power.",
+      "DEF_ZH":"（尤指掌权者）贪污的；腐败的；不诚实的。",
+      "SENT_EN":"The investigation revealed several highly corrupt officials within the city council.",
+      "SENT_ZH":"这项调查揭露了市议会中几名高度腐败的官员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "venal",
+            "dishonest",
+            "bribable",
+            "fraudulent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "honest",
+            "incorruptible",
+            "upright"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"morally corrupt [person/society]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "moral"
+      ],
+      "DEF_EN":"Depraved or evil; showing decay in moral principles or integrity.",
+      "DEF_ZH":"道德败坏的；堕落的。",
+      "SENT_EN":"He believed that too much wealth would make the youth weak and morally corrupt.",
+      "SENT_ZH":"他认为过多的财富会使年轻人变得软弱和道德败坏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wicked",
+            "vicious",
+            "degenerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"corrupt [data/file/text]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"Spoiled or changed from its original or correct state, typically referring to data or files, making it unusable or unreliable.",
+      "DEF_ZH":"（数据、文件等）损坏的；被破坏的；失真的。",
+      "SENT_EN":"We couldn't open the document because the file became corrupt after the power outage.",
+      "SENT_ZH":"由于断电，文件受损，我们打不开这份文档。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "damaged",
+            "spoiled",
+            "tainted"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"corrupt [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To cause someone to become immoral or dishonest; to influence someone for the worse (especially by bribery).",
+      "DEF_ZH":"使（某人）腐败；收买；败坏（某人的品德）。",
+      "SENT_EN":"The lure of easy money can easily corrupt impressionable young minds.",
+      "SENT_ZH":"不劳而获的诱惑很容易腐蚀那些易受影响的年轻心灵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pervert",
+            "debase",
+            "deprave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"corrupt [sth] | [sth] corrupts",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "formal",
+        "metaphorical"
+      ],
+      "DEF_EN":"To destroy or spoil the integrity or accuracy of something; to introduce errors or imperfections.",
+      "DEF_ZH":"破坏（事物的完整性或纯洁性）；使（语言、文本等）失真或变质。",
+      "SENT_EN":"Unchecked political power often corrupts the government's entire operation.",
+      "SENT_ZH":"不受约束的政治权力往往会败坏整个政府的运作。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "taint",
+            "contaminate",
+            "vitiate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

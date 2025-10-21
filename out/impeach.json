@@ -1,0 +1,69 @@
+{
+  "WORD":"impeach",
+  "IPA":"/ɪmˈpiːtʃ/",
+  "CONJUGATES":"impeach | impeaches | impeaching | impeached",
+  "ETYMOLOGY":"From Old French empeechier 'to impede, hinder', from Latin impedicare 'to shackle the feet', from in- 'into' + pedica 'fetter', from pes, pedis 'foot'. The legal sense developed in Middle English from the sense 'to accuse, bring a charge against'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"impeach [sb] (a public official)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, takes a direct object",
+      "TAGS":[
+        "core word",
+        "formal",
+        "legal",
+        "political"
+      ],
+      "DEF_EN":"To charge a public official with misconduct in office, typically before a legislative body acting as a tribunal.",
+      "DEF_ZH":"指控（公职人员）在职期间行为不当；弹劾。",
+      "SENT_EN":"The House of Representatives voted to impeach the president.",
+      "SENT_ZH":"众议院投票弹劾总统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accuse",
+            "indict",
+            "bring charges against",
+            "prosecute"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "impeachment",
+            "convict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"impeach [sth] (evidence, testimony)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, takes a direct object",
+      "TAGS":[
+        "rare",
+        "legal",
+        "formal",
+        "old use"
+      ],
+      "DEF_EN":"To challenge the credibility or validity of (e.g., a witness's testimony or evidence) in a legal context.",
+      "DEF_ZH":"（在法律语境中）质疑（证据、证词等）的可靠性或有效性。",
+      "SENT_EN":"The defense lawyer tried to impeach the witness's testimony by presenting contradictory evidence.",
+      "SENT_ZH":"辩护律师试图通过出示反证来质疑证人的证词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "challenge",
+            "question",
+            "dispute",
+            "discredit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, primarily used in legal and political contexts."
+}

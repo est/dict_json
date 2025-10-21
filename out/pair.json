@@ -1,0 +1,101 @@
+{
+  "WORD":"pair",
+  "IPA":"/pɛər/",
+  "CONJUGATES":"pairs | paired | pairing",
+  "ETYMOLOGY":"From Old French 'paire', from Latin 'par' ('equal, like, suitable')",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a pair of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Two identical or similar things that are designed to be used together as a set.",
+      "DEF_ZH":"两个相同或相似的物品，常设计成一套一起使用。",
+      "SENT_EN":"I need a new pair of shoes.",
+      "SENT_ZH":"我需要一双新鞋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "duo",
+            "couple",
+            "brace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pair of [sb/animals]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Two people or animals that are together or associated.",
+      "DEF_ZH":"两个人或动物在一起或有联系。",
+      "SENT_EN":"The happy pair walked hand in hand.",
+      "SENT_ZH":"这对幸福的伴侣手牵手散步。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "couple",
+            "duo",
+            "twosome"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pair [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put two people or things together, often for a specific purpose or because they belong together.",
+      "DEF_ZH":"将两个人或物放在一起，通常是为了特定目的或因为它们属于一对。",
+      "SENT_EN":"She spent the morning pairing socks.",
+      "SENT_ZH":"她整个上午都在配袜子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "match",
+            "couple",
+            "join"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pair [sth] with [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To combine two things that complement each other well, especially food and drink.",
+      "DEF_ZH":"将两种互补的或搭配得很好的东西结合起来，尤指食物和饮品。",
+      "SENT_EN":"This wine pairs perfectly with grilled salmon.",
+      "SENT_ZH":"这款酒与烤三文鱼完美搭配。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combine",
+            "complement",
+            "match"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

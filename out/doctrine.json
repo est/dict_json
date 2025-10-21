@@ -1,0 +1,70 @@
+{
+  "WORD":"doctrine",
+  "IPA":"/ˈdɒktrɪn/",
+  "CONJUGATES":"doctrines (plural)",
+  "ETYMOLOGY":"From Middle English, from Old French *doctrine*, from Latin *doctrina* ('teaching', 'instruction', 'learning'), from *doctor* ('teacher').",
+  "SINCE":"c. 1350 (Mid-14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] doctrine [of sth]",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "religious",
+        "philosophical"
+      ],
+      "DEF_EN":"A belief or set of beliefs held and taught by a church, political party, or other group.",
+      "DEF_ZH":"宗教、政党或其他团体所持有并传授的一套信念或原则；教义；信条。",
+      "SENT_EN":"The core doctrine of the organization is based on mutual respect and cooperation.",
+      "SENT_ZH":"该组织的核心教义是建立在相互尊重和合作的基础上的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dogma",
+            "creed",
+            "tenet",
+            "principle",
+            "belief"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "theology",
+            "ideology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] doctrine",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "formal",
+        "military",
+        "legal",
+        "policy"
+      ],
+      "DEF_EN":"A principle or policy formally adopted and promulgated by a government, military force, or legal system.",
+      "DEF_ZH":"政府、军队或法律体系正式采纳并公布的原则或政策；学说；方针。",
+      "SENT_EN":"The new military doctrine emphasizes speed and flexibility in deployment.",
+      "SENT_ZH":"新的军事学说强调部署的速度和灵活性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "policy",
+            "strategy",
+            "maxim",
+            "rule"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Religious, Political contexts."
+}

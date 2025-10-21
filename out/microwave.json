@@ -1,0 +1,81 @@
+{
+  "WORD":"microwave",
+  "IPA":"/ˈmaɪkrəweɪv/",
+  "CONJUGATES":"n: microwaves | v: microwaves, microwaving, microwaved",
+  "ETYMOLOGY":"Compound of 'micro-' (from Greek mikros 'small') + 'wave'. The term 'microwave' for electromagnetic radiation first appeared in the 1930s; the domestic appliance and verb usage date from the mid-20th century.",
+  "SINCE":"1930s (as electromagnetic wave), 1960s (as appliance/verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a microwave | the microwave",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "appliance"
+      ],
+      "DEF_EN":"An electric oven that cooks or heats food using microwave radiation.",
+      "DEF_ZH":"一种利用微波辐射烹饪或加热食物的电烤箱。",
+      "SENT_EN":"I just need to pop this in the microwave for two minutes.",
+      "SENT_ZH":"我只需要把这个放进微波炉里两分钟。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "oven",
+            "cooker",
+            "appliance",
+            "kitchenware"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"microwave [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cook or heat (food) in a microwave oven.",
+      "DEF_ZH":"用微波炉烹饪或加热（食物）。",
+      "SENT_EN":"Can you microwave these leftovers for me?",
+      "SENT_ZH":"你能帮我把这些剩菜用微波炉加热一下吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heat",
+            "cook",
+            "reheat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"microwave | microwaves",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"An electromagnetic wave with a wavelength between about 1 millimeter and 1 meter, shorter than radio waves but longer than infrared radiation, used in radar, telecommunications, and heating.",
+      "DEF_ZH":"一种波长介于约1毫米至1米之间的电磁波，比无线电波短但比红外线长，用于雷达、电信和加热。",
+      "SENT_EN":"Radar systems often use microwaves to detect objects.",
+      "SENT_ZH":"雷达系统常利用微波来探测物体。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "radio wave",
+            "electromagnetic spectrum",
+            "radiation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

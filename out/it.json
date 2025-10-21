@@ -1,0 +1,98 @@
+{
+  "WORD":"it",
+  "IPA":"/ɪt/",
+  "CONJUGATES":"its (possessive) | itself (reflexive)",
+  "ETYMOLOGY":"From Old English hit (neuter nominative and accusative pronoun), from Proto-Germanic *hit, ultimately from Proto-Indo-European *ko-, demonstrative stem.",
+  "SINCE":"Before 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[it]",
+      "POS":"pn",
+      "POS_TIP":"Pronoun: A word that replaces a noun.",
+      "TAGS":[
+        "core word",
+        "very common"
+      ],
+      "DEF_EN":"The third person singular neuter pronoun, used to refer to a specific non-human object, animal, concept, or event previously mentioned, or generally understood.",
+      "DEF_ZH":"第三人称单数中性代词，指代前面提到或普遍理解的非人事物、动物、概念或事件。",
+      "SENT_EN":"Where is the remote? I put it on the table.",
+      "SENT_ZH":"遥控器在哪里？我把它放在桌子上了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "he",
+            "she",
+            "they"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[it] + (impersonal verb/phrase)",
+      "POS":"pn",
+      "POS_TIP":"Pronoun: Used as an impersonal or dummy subject.",
+      "TAGS":[
+        "grammatical function",
+        "very common"
+      ],
+      "DEF_EN":"Used as the dummy subject of an impersonal verb or expression, typically concerning the weather, time, or distance.",
+      "DEF_ZH":"用作无人称动词或表达的主语（虚指主语），通常涉及天气、时间或距离。",
+      "SENT_EN":"It is freezing outside. | It is five miles to the nearest town.",
+      "SENT_ZH":"外面冷极了。| 到最近的镇子有五英里远。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[it] + is/was + (adj/n) + to/that...",
+      "POS":"pn",
+      "POS_TIP":"Pronoun: Used as an anticipatory subject (expletive).",
+      "TAGS":[
+        "grammatical function",
+        "very common"
+      ],
+      "DEF_EN":"Used as an anticipatory or expletive subject preceding the predicate when the actual logical subject is a phrase or clause following the predicate.",
+      "DEF_ZH":"用作先行主语（赘语），当句子的真正主语是位于谓语之后的短语或从句时使用。",
+      "SENT_EN":"It is difficult to understand the complex instructions.",
+      "SENT_ZH":"理解这些复杂的指示是很困难的。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"have [it] | be [it]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"The desired quality, ability, or charisma that ensures success, attraction, or appeal, especially in performance or fashion.",
+      "DEF_ZH":"确保成功、吸引力或魅力的特质、能力或气场，尤指在表演或时尚领域。",
+      "SENT_EN":"The new model really has 'it'; everyone loves her look.",
+      "SENT_ZH":"这位新模特真的很有“范儿”；每个人都喜欢她的造型。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charisma",
+            "pizzazz",
+            "appeal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be [it]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "specific context",
+        "children's games"
+      ],
+      "DEF_EN":"In children's games, particularly tag, the person who is designated to pursue or chase the others.",
+      "DEF_ZH":"在儿童游戏（特别是捉人游戏）中，被指定追逐或抓捕其他人的那个人。",
+      "SENT_EN":"He tapped Sarah on the shoulder and yelled, 'You're it!'",
+      "SENT_ZH":"他拍了拍莎拉的肩膀，大喊：“你是‘鬼’（你被抓了）！”",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English, high frequency"
+}

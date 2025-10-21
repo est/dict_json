@@ -1,0 +1,92 @@
+{
+  "WORD":"friend",
+  "IPA":"/frɛnd/",
+  "CONJUGATES":"n. friends | v. friends | friending | friended",
+  "ETYMOLOGY":"From Old English 'frēond' (noun), meaning 'lover, relative, companion', from Proto-Germanic '*frijōndz' (present participle of '*frijōnan' 'to love'), from PIE root '*pri-' 'to love'. The verb usage is much more recent, particularly with social media.",
+  "SINCE":"Before 900 AD (noun), early 2000s (verb, social media context)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s friend | a friend",
+      "POS":"n.",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
+      "DEF_ZH":"与某人有相互喜爱关系的人，通常不包括性关系或家庭关系。",
+      "SENT_EN":"She is my best friend and we've known each other for years.",
+      "SENT_ZH":"她是我最好的朋友，我们认识很多年了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "companion",
+            "pal",
+            "mate",
+            "confidant",
+            "buddy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enemy",
+            "foe",
+            "adversary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"friend of [sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"A person who supports a cause, group, or person.",
+      "DEF_ZH":"支持某个事业、团体或人物的人。",
+      "SENT_EN":"He has always been a great friend of the arts and contributes generously.",
+      "SENT_ZH":"他一直是艺术界的大力支持者，慷慨捐助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supporter",
+            "advocate",
+            "ally",
+            "patron"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"friend [sb]",
+      "POS":"vt.",
+      "POS_TIP":"Transitive verb: a verb that requires one or more objects.",
+      "TAGS":[
+        "modern usage",
+        "common",
+        "informal",
+        "internet"
+      ],
+      "DEF_EN":"To add (someone) to a list of contacts on a social networking website.",
+      "DEF_ZH":"在社交网站上将某人添加到联系人列表。",
+      "SENT_EN":"I'll friend you on Facebook so we can keep in touch.",
+      "SENT_ZH":"我会在Facebook上加你好友，这样我们就能保持联系了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "unfriend",
+            "follow",
+            "connect"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

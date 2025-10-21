@@ -1,0 +1,89 @@
+{
+  "WORD":"mute",
+  "IPA":"/mjuːt/",
+  "CONJUGATES":"mutes | muting | muted",
+  "ETYMOLOGY":"From Latin mūtus ('silent, dumb, speechless'), via Old French muet.",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"mute [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "technology"
+      ],
+      "DEF_EN":"To reduce or turn off the volume or sound of (an electronic device or broadcast).",
+      "DEF_ZH":"使（声音）静音或显著降低音量；消音。",
+      "SENT_EN":"I had to mute the television during the commercial break.",
+      "SENT_ZH":"我不得不在插播广告时把电视静音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "silence",
+            "turn off"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unmute",
+            "amplify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is mute",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"Unable or unwilling to speak.",
+      "DEF_ZH":"不能说话的；哑的；沉默不语的。",
+      "SENT_EN":"He remained mute when questioned about his involvement.",
+      "SENT_ZH":"当被问及他的参与时，他保持了沉默。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "silent",
+            "speechless",
+            "tongue-tied"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dumb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mute",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "music",
+        "device"
+      ],
+      "DEF_EN":"A device fitted to a musical instrument, especially brass instruments, to soften or muffle the tone.",
+      "DEF_ZH":"（乐器，尤指铜管乐器上的）弱音器；制音器。",
+      "SENT_EN":"The trumpet player attached a Harmon mute for that jazzy sound.",
+      "SENT_ZH":"那位小号手为了营造爵士乐的音色，装上了一个哈曼弱音器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "damper",
+            "silencer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical (Electronics)"
+}

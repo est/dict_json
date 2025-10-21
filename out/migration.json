@@ -1,0 +1,65 @@
+{
+  "WORD":"migration",
+  "IPA":"/maɪˈɡreɪʃən/",
+  "CONJUGATES":"migrations",
+  "ETYMOLOGY":"From Latin migratio ('a moving, changing one's abode'), from migrare ('to move, shift, remove, change one's residence').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"migration [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The movement of people, animals, or sometimes things from one place to another, often over a long distance, especially to find food, a better climate, or work.",
+      "DEF_ZH":"人、动物或有时是事物从一个地方到另一个地方的移动，常指长距离的移动，尤指为了寻找食物、更好的气候或工作。",
+      "SENT_EN":"The annual migration of wildebeest across the Serengeti is a spectacular event.",
+      "SENT_ZH":"角马每年穿越塞伦盖蒂的迁徙是一场壮观的事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relocation",
+            "movement",
+            "exodus",
+            "emigration",
+            "immigration"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "migrant",
+            "migrate",
+            "migratory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"data migration | system migration",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"The process of moving data, applications, or systems from one computing environment to another.",
+      "DEF_ZH":"将数据、应用程序或系统从一个计算环境移动到另一个计算环境的过程。",
+      "SENT_EN":"The company planned a major data migration to its new cloud infrastructure.",
+      "SENT_ZH":"该公司计划将其数据大规模迁移到新的云基础设施。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cloud computing",
+            "data management"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general, formal, scientific, technical"
+}

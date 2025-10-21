@@ -1,0 +1,85 @@
+{
+  "WORD":"differentiate",
+  "IPA":"/ˌdɪfəˈrɛnʃieɪt/",
+  "CONJUGATES":"differentiate | differentiates | differentiating | differentiated",
+  "ETYMOLOGY":"From Latin differentia 'difference' + -ate (verb suffix).",
+  "SINCE":"Mid 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"differentiate [sth] | differentiate between [sth] and [sth] | differentiate [sth] from [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To recognize or ascertain what makes (someone or something) different; to perceive the difference between two or more things.",
+      "DEF_ZH":"区分，辨别；看出或指出（某人或某事物）的差异",
+      "SENT_EN":"It's often hard to differentiate between genuine and fake designer products.",
+      "SENT_ZH":"区分真假名牌产品往往很难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distinguish",
+            "discriminate",
+            "tell apart",
+            "discern"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "confuse",
+            "conflate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"differentiate [sth] | differentiate [oneself]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To make (someone or something) different in some way; to alter or develop so as to be distinctive.",
+      "DEF_ZH":"使...不同；使...具有特色；使区别开来",
+      "SENT_EN":"Companies strive to differentiate their services from those of their competitors.",
+      "SENT_ZH":"公司努力使他们的服务与竞争对手的服务有所不同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distinguish",
+            "set apart",
+            "individualize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[cell] differentiate | differentiate [a function]",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "specialized",
+        "scientific"
+      ],
+      "DEF_EN":"(Biology) To develop different characteristics in a specialized way. (Mathematics) To find the derivative of (a function or equation).",
+      "DEF_ZH":"(生物学) 分化；(数学) 求导数",
+      "SENT_EN":"Stem cells have the remarkable ability to differentiate into various cell types.",
+      "SENT_ZH":"干细胞具有分化成各种细胞类型的非凡能力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "differentiation",
+            "derivative"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, General"
+}

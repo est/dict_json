@@ -1,0 +1,87 @@
+{
+  "WORD":"academic",
+  "IPA":"/ˌækəˈdɛmɪk/",
+  "CONJUGATES":"academically | academics",
+  "ETYMOLOGY":"From Latin academicus, from Ancient Greek akadēmikós ('of the Academy'), ultimately derived from Akadēmeia, the name of the grove where Plato taught.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"academic [life/institution/pursuits]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "education"
+      ],
+      "DEF_EN":"Relating to schools, colleges, universities, or scholarly pursuits; concerning study and research.",
+      "DEF_ZH":"学术的；教育的；与大学或研究相关的",
+      "SENT_EN":"She focused entirely on her academic career after graduation.",
+      "SENT_ZH":"毕业后，她全身心投入到她的学术生涯中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scholarly",
+            "educational",
+            "pedagogic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"academic [discussion/question]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "often critical"
+      ],
+      "DEF_EN":"Relating to theory and abstraction; not relating to practical or real-world application; purely theoretical.",
+      "DEF_ZH":"纯理论的；不切实际的；空泛的",
+      "SENT_EN":"The debate over who should lead the team is purely academic since the project has already been canceled.",
+      "SENT_ZH":"关于谁应该领导团队的争论纯粹是空谈，因为项目已经被取消了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "theoretical",
+            "speculative",
+            "abstract"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "practical",
+            "applied",
+            "real-world"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an academic",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession"
+      ],
+      "DEF_EN":"A person who teaches or does research at a college or university; a scholar.",
+      "DEF_ZH":"大学教师；学者；研究院",
+      "SENT_EN":"The conference attracted academics from various countries.",
+      "SENT_ZH":"这次会议吸引了来自不同国家的学者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scholar",
+            "professor",
+            "lecturer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and General Use"
+}

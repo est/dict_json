@@ -1,0 +1,71 @@
+{
+  "WORD":"rainfall",
+  "IPA":"/ˈreɪnfɔːl/",
+  "CONJUGATES":"rainfalls (plural)",
+  "ETYMOLOGY":"Compound of 'rain' (from Old English regn, rægn) and 'fall' (from Old English feallan). The sense of 'amount of rain' developed from the earlier sense of 'the act of falling rain'.",
+  "SINCE":"Late 16th century (for the act of falling rain); mid 19th century (for the amount of rain).",
+  "MEANINGS":[
+    {
+      "PATTERN":"rainfall",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The amount of rain that falls in a particular area during a particular period.",
+      "DEF_ZH":"在特定区域特定时期内落下的雨量。",
+      "SENT_EN":"The region has experienced unusually heavy rainfall this month.",
+      "SENT_ZH":"这个地区本月经历了异常大的降雨量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precipitation",
+            "downpour",
+            "drizzle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rain gauge",
+            "monsoon",
+            "climate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rainfall",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "less common",
+        "descriptive"
+      ],
+      "DEF_EN":"The act or process of rain falling.",
+      "DEF_ZH":"雨水落下的行为或过程。",
+      "SENT_EN":"The gentle rainfall outside made the evening feel peaceful.",
+      "SENT_ZH":"外面轻柔的降雨让夜晚感觉很平静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rain",
+            "downfall",
+            "precipitation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "showers",
+            "storm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in meteorology, geography, and everyday conversation."
+}

@@ -1,0 +1,108 @@
+{
+  "WORD":"enter",
+  "IPA":"/ˈɛntər/",
+  "CONJUGATES":"enters | entering | entered",
+  "ETYMOLOGY":"From Old French entrer, from Latin intrāre ('to go into'), from in- ('into') + trāre (related to trans 'across, through')",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"enter [sth] | enter [a place]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"To come or go into a place, area, or organization.",
+      "DEF_ZH":"进入（一个地方）；走进；加入",
+      "SENT_EN":"We waited for the signal before entering the theater.",
+      "SENT_ZH":"我们在进入剧院前等待信号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "go in",
+            "come into",
+            "access"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exit",
+            "leave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enter [data] | enter [a password]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"To input data, information, or commands into a computer system or record.",
+      "DEF_ZH":"输入（数据、命令等）；录入；登记",
+      "SENT_EN":"Please enter your user ID and password to log in.",
+      "SENT_ZH":"请键入您的用户ID和密码登录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "input",
+            "key in",
+            "submit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enter [a competition] | enter [a plea]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "formal",
+        "participate"
+      ],
+      "DEF_EN":"To register officially or become involved in a competition, race, agreement, or formal proceeding.",
+      "DEF_ZH":"参加；报名；提交（法律文件或答辩）",
+      "SENT_EN":"She decided to enter her artwork into the national contest.",
+      "SENT_ZH":"她决定将她的艺术作品报名参加国家竞赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "participate in",
+            "enroll in",
+            "sign up for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Press Enter",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "device"
+      ],
+      "DEF_EN":"The key on a computer keyboard used to confirm a command or start a new line of text.",
+      "DEF_ZH":"（计算机键盘上的）回车键；确认键",
+      "SENT_EN":"After typing the formula, just press Enter.",
+      "SENT_ZH":"输入公式后，按下回车键即可。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Return Key",
+            "Spacebar"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly frequent in both conversational and technical contexts."
+}

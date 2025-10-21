@@ -1,0 +1,86 @@
+{
+  "WORD":"sharpen",
+  "IPA":"/ˈʃɑːrpən/",
+  "CONJUGATES":"sharpen | sharpens | sharpened | sharpening",
+  "ETYMOLOGY":"From Middle English `scharpen`, from `sharp` (adjective) + the verb-forming suffix `-en`. Ultimately from Proto-Germanic `*skarpaną`.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"sharpen [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something, such as a knife, pencil, or tool, have a very thin or pointed edge or tip.",
+      "DEF_ZH":"使（刀、铅笔或工具等）变得锋利或尖锐。",
+      "SENT_EN":"He used a whetstone to sharpen his kitchen knives.",
+      "SENT_ZH":"他用磨刀石磨利他的厨房刀具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hone",
+            "whet",
+            "grind"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dull",
+            "blunt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sharpen [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires one or more objects",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To improve, refine, or make something, such as a skill, sense, or ability, more keen, effective, or focused.",
+      "DEF_ZH":"提高、磨练或使（技能、感官或能力等）变得更敏锐、有效或专注。",
+      "SENT_EN":"Taking an advanced course can help you sharpen your coding skills.",
+      "SENT_ZH":"上高级课程可以帮助你磨练编程技能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "improve",
+            "refine",
+            "enhance",
+            "hone",
+            "focus"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "weaken",
+            "blunt",
+            "diminish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] sharpen",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: a verb that does not require a direct object",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To become sharp or sharper; to come to a finer point or edge.",
+      "DEF_ZH":"变得锋利或更锋利；变得更尖锐。",
+      "SENT_EN":"The debate began to sharpen as the two candidates presented their opposing views.",
+      "SENT_ZH":"随着两位候选人提出各自对立的观点，辩论开始变得更加激烈。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general"
+}

@@ -1,0 +1,135 @@
+{
+  "WORD":"ham",
+  "IPA":"/hæm/",
+  "CONJUGATES":"noun: ham | hams | verb: ham | hams | hamming | hammed",
+  "ETYMOLOGY":"From Old English 'hamm' meaning 'hollow or bend of the knee', also 'hock of a hog'. Related to Old High German 'hamma' ('back of the knee') and Dutch 'ham' ('thigh, ham'). The culinary sense developed from this, referring to the cured thigh of a hog. The sense of 'overacting' comes from 'ham-actor' (1870s), possibly from 'hamfatter' which was a minstrel song and implies low quality or exaggerated performance. The 'amateur radio' sense is from the early 20th century, of uncertain origin but possibly derogatory initially.",
+  "SINCE":"Before 900 AD (for the meat/anatomical sense), early 20th century (for overacting/radio senses)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "food"
+      ],
+      "DEF_EN":"Meat from the upper part of a pig's leg, cured by salting or smoking, eaten as food.",
+      "DEF_ZH":"猪腿肉（尤指腌制或熏制的），火腿。",
+      "SENT_EN":"We had sliced ham and cheese sandwiches for lunch.",
+      "SENT_ZH":"我们午餐吃了火腿芝士三明治。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gammon",
+            "pork"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bacon",
+            "prosciutto"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "anatomical"
+      ],
+      "DEF_EN":"The back of the thigh, especially the muscular part connecting to the knee, in humans or animals.",
+      "DEF_ZH":"（人或动物的）大腿后部，股后肌群。",
+      "SENT_EN":"The athlete pulled a muscle in his ham during the sprint.",
+      "SENT_ZH":"这位运动员在短跑中拉伤了大腿后部的肌肉。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "thigh",
+            "hamstring"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "informal",
+        "derogatory"
+      ],
+      "DEF_EN":"An actor who performs in an exaggerated or over-the-top style.",
+      "DEF_ZH":"（尤指演员）做作的人，夸张的表演者。",
+      "SENT_EN":"The director told the actor not to be such a ham in this serious scene.",
+      "SENT_ZH":"导演告诉演员在这个严肃的场景中不要那么夸张。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overactor",
+            "histrion",
+            "show-off"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "underactor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ham it up | ham [sth] up",
+      "POS":"vint | vtr + adv",
+      "POS_TIP":"Intransitive verb: a verb that does not take a direct object. | Transitive verb followed by an adverb.",
+      "TAGS":[
+        "informal"
+      ],
+      "DEF_EN":"To perform in an exaggerated, theatrical, or over-the-top manner, often for comic effect or to attract attention.",
+      "DEF_ZH":"（为达到喜剧效果或吸引注意）夸张表演，做作。",
+      "SENT_EN":"The comedian loved to ham it up for the television cameras.",
+      "SENT_ZH":"那位喜剧演员喜欢对着电视镜头夸张地表演。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overact",
+            "mug",
+            "showboat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "informal",
+        "specialized"
+      ],
+      "DEF_EN":"An amateur radio operator.",
+      "DEF_ZH":"业余无线电爱好者。",
+      "SENT_EN":"My uncle is a ham and spends hours talking to people around the world on his radio.",
+      "SENT_ZH":"我叔叔是个业余无线电爱好者，他花好几个小时通过收音机与世界各地的人交谈。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "radio operator",
+            "amateur radio"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; some meanings are informal or specialized."
+}

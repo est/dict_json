@@ -1,0 +1,90 @@
+{
+  "WORD":"same",
+  "IPA":"/seɪm/",
+  "CONJUGATES":"Invariable (adjective, pronoun, adverb)",
+  "ETYMOLOGY":"From Old Norse samr ('same'), from Proto-Germanic *samaz, from Proto-Indo-European *somos ('same, one'). Related to Latin similis ('similar') and Greek homos ('same').",
+  "SINCE":"c. 1200 (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is the same (as [sth else]) | the same [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Identical; not different; being one and not another.",
+      "DEF_ZH":"相同的；一样的；同一的",
+      "SENT_EN":"We ordered the same meal as last time.",
+      "SENT_ZH":"我们点了和上次一样的饭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identical",
+            "alike",
+            "similar",
+            "corresponding",
+            "equivalent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "different",
+            "distinct",
+            "diverse",
+            "opposite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the same",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that can function as a noun phrase referring to someone or something previously mentioned or known",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The identical thing or person previously mentioned or implied.",
+      "DEF_ZH":"同一事物；同一个人；相同的情况",
+      "SENT_EN":"She told me the same thing yesterday.",
+      "SENT_ZH":"她昨天告诉我同样的事情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "likewise",
+            "identically"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(just) the same",
+      "POS":"adv",
+      "POS_TIP":"adverb: a word or phrase that modifies an adjective, verb, or other adverb, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"Nonetheless; nevertheless; in spite of what has been said or done.",
+      "DEF_ZH":"仍然；照样；尽管如此（非正式用法）",
+      "SENT_EN":"Even though it was raining, they went out just the same.",
+      "SENT_ZH":"尽管下着雨，他们还是照样出去了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nevertheless",
+            "nonetheless",
+            "anyway",
+            "still"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

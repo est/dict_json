@@ -1,0 +1,72 @@
+{
+  "WORD":"emphasize",
+  "IPA":"/ˈɛmfəsaɪz/",
+  "CONJUGATES":"emphasizes | emphasizing | emphasized",
+  "ETYMOLOGY":"From Greek emphainein ('to show, display'), via Late Latin emphasis ('stress, significance'), entering English as a noun in the 16th century. The verb form 'emphasize' developed in the 18th century.",
+  "SINCE":"Mid-18th century (verb form)",
+  "MEANINGS":[
+    {
+      "PATTERN":"emphasize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"To give special importance or attention to something in speaking or writing.",
+      "DEF_ZH":"强调；着重指出；突显",
+      "SENT_EN":"The report emphasized the need for better communication between departments.",
+      "SENT_ZH":"这份报告强调了部门之间需要更好的沟通。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stress",
+            "highlight",
+            "underscore",
+            "underline",
+            "assert"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "minimize",
+            "downplay",
+            "disregard"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "emphasis",
+            "emphatic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"emphasize [word/syllable]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Linguistics",
+        "Rhetoric"
+      ],
+      "DEF_EN":"To pronounce a word or part of a word with greater volume or intensity (to give it stress or accent).",
+      "DEF_ZH":"（发音时）重读；加重语气",
+      "SENT_EN":"In English, we emphasize the first syllable of the word 'photograph'.",
+      "SENT_ZH":"在英语中，我们重读“photograph”的第一个音节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stress",
+            "accent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Formal"
+}

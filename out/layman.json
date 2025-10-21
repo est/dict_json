@@ -1,0 +1,75 @@
+{
+  "WORD":"layman",
+  "IPA":"/ˈleɪmən/",
+  "CONJUGATES":"laymen (plural)",
+  "ETYMOLOGY":"Middle English (c. 1300), from 'lay' (referring to non-clergy or non-professional) + 'man'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a layman] (in a field)",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Field Specific"
+      ],
+      "DEF_EN":"A person who is not professionally trained or does not possess specialized knowledge in a particular subject, often contrasted with an expert.",
+      "DEF_ZH":"外行；门外汉；非专业人士。",
+      "SENT_EN":"To a layman, the intricate details of quantum physics are nearly impossible to grasp.",
+      "SENT_ZH":"对于一个外行来说，量子物理学错综复杂的细节几乎无法理解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "non-specialist",
+            "amateur",
+            "novice",
+            "outsider"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expert",
+            "specialist",
+            "professional",
+            "insider"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a layman] (religious context)",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "Religious Context",
+        "Formal"
+      ],
+      "DEF_EN":"In religious contexts, a member of the laity; a person who is not ordained or a member of the clergy.",
+      "DEF_ZH":"（宗教）平信徒；非神职人员。",
+      "SENT_EN":"The priest encouraged the laymen of the parish to volunteer for the charity drive.",
+      "SENT_ZH":"牧师鼓励教区的平信徒们志愿参加慈善活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "layperson",
+            "parishioner"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clergy",
+            "cleric",
+            "priest",
+            "minister"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally, often in formal or technical discussions."
+}

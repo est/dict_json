@@ -1,0 +1,68 @@
+{
+  "WORD":"spoken",
+  "IPA":"/ˈspoʊkən/",
+  "CONJUGATES":"speak | speaks | speaking | spoke | spoken",
+  "ETYMOLOGY":"Past participle of 'speak,' ultimately from Old English *sprecan* (to utter words, converse), related to Old High German *sprehhan*.",
+  "SINCE":"Old English (c. 900 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[v]",
+      "POS":"v. pp.",
+      "POS_TIP":"Verb, Past Participle (used to form perfect tenses or passive voice)",
+      "TAGS":[
+        "core word",
+        "grammar"
+      ],
+      "DEF_EN":"The past participle of the verb 'speak.'",
+      "DEF_ZH":"动词 speak 的过去分词形式，用于构成完成时态或被动语态。",
+      "SENT_EN":"She has spoken about her experiences many times.",
+      "SENT_ZH":"她已经多次谈论她的经历了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describing a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Expressed in speech; delivered orally rather than in writing.",
+      "DEF_ZH":"口头的；用言语表达的（而非书面的）。",
+      "SENT_EN":"The policy was clear in the written rules, but the spoken instructions were different.",
+      "SENT_ZH":"这项政策在书面规则中很明确，但口头指示却不同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oral",
+            "vocal",
+            "verbal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "written",
+            "printed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [language]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describing a noun)",
+      "TAGS":[
+        "linguistics",
+        "specific"
+      ],
+      "DEF_EN":"Pertaining to the ability to communicate using the voice in a particular language.",
+      "DEF_ZH":"关于某种特定语言的口头交流或表达能力的。",
+      "SENT_EN":"Her fluency in spoken Chinese impressed everyone at the meeting.",
+      "SENT_ZH":"她流利的中文口语令所有参会人员印象深刻。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,116 @@
+{
+  "WORD":"delta",
+  "IPA":"/ˈdɛltə/",
+  "CONJUGATES":"deltas (plural)",
+  "ETYMOLOGY":"From Ancient Greek δέλτα (délta), the name of the fourth letter of the Greek alphabet, which has a triangular shape. This shape resembles the mouth of the Nile River, hence its application to river deltas.",
+  "SINCE":"Late 16th century (for the Greek letter); early 17th century (for the river formation).",
+  "MEANINGS":[
+    {
+      "PATTERN":"a delta",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A triangular tract of sediment deposited at the mouth of a river, typically where it diverges into several outlets.",
+      "DEF_ZH":"河流入海口或入湖口处由泥沙堆积形成的三角形平原，通常河流在此处分叉成多个支流。",
+      "SENT_EN":"The fertile land of the Nile Delta has supported agriculture for millennia.",
+      "SENT_ZH":"尼罗河三角洲的肥沃土地数千年来一直支持着农业发展。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alluvial fan",
+            "estuary (related concept)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Nile Delta",
+            "Mississippi Delta"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Delta",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "symbol",
+        "mathematics",
+        "science",
+        "common"
+      ],
+      "DEF_EN":"The fourth letter of the Greek alphabet (Δ, δ). In mathematics and science, it is often used to denote a change in quantity or an incremental change.",
+      "DEF_ZH":"希腊字母表的第四个字母（大写Δ，小写δ）。在数学和科学中常用来表示数量的变化或增量。",
+      "SENT_EN":"The Greek letter delta (Δ) is often used to represent a change in a variable, such as ΔT for a change in temperature.",
+      "SENT_ZH":"希腊字母德尔塔（Δ）常用来表示变量的变化，例如ΔT表示温度变化。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "alpha",
+            "beta",
+            "gamma",
+            "sigma"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a delta",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "technical",
+        "finance",
+        "specialized"
+      ],
+      "DEF_EN":"In finance, especially options trading, a measure of an option's price sensitivity to a change in the price of the underlying asset.",
+      "DEF_ZH":"在金融领域，特别是期权交易中，衡量期权价格对标的资产价格变化的敏感度的指标。",
+      "SENT_EN":"A call option with a delta of 0.5 is expected to move half a point for every one-point move in the underlying stock.",
+      "SENT_ZH":"一个德尔塔值为0.5的看涨期权，预计在标的股票每波动一个点时，期权价格会波动半个点。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gamma",
+            "theta",
+            "vega",
+            "rho"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Delta + [noun]",
+      "POS":"proper noun",
+      "POS_TIP":"A noun that refers to a specific person, place, organization, or thing, and is usually capitalized.",
+      "TAGS":[
+        "proper noun",
+        "common",
+        "contemporary"
+      ],
+      "DEF_EN":"Used as a part of various proper names, such as an airline company (Delta Air Lines) or a specific variant of a virus (Delta variant).",
+      "DEF_ZH":"用于各种专有名词的一部分，例如一家航空公司（达美航空）或病毒的特定变种（德尔塔变种）。",
+      "SENT_EN":"Delta Air Lines is one of the oldest airlines in the United States.",
+      "SENT_ZH":"达美航空公司是美国历史最悠久的航空公司之一。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "airline",
+            "variant",
+            "COVID-19"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, academic, technical, financial, and contemporary usage for proper nouns."
+}

@@ -1,0 +1,80 @@
+{
+  "WORD":"format",
+  "IPA":"/ˈfɔːrmæt/",
+  "CONJUGATES":"formats | formatting | formatted",
+  "ETYMOLOGY":"Late 18th century (as noun meaning 'shape, size'): from French, from Latin formatus, past participle of formare 'to form'. The computing sense emerged in the mid-20th century.",
+  "SINCE":"Late 18th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] format [of sth]",
+      "POS":"n (countable)",
+      "POS_TIP":"noun (a word used to identify any of a class of people, places, or things, or a specific one)",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"The way in which something is arranged or presented; the style or structure.",
+      "DEF_ZH":"格式；版式；结构；组织方式。",
+      "SENT_EN":"We need to agree on the format of the final report before we start writing.",
+      "SENT_ZH":"在开始撰写之前，我们需要就最终报告的格式达成一致。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "layout",
+            "structure",
+            "arrangement",
+            "design"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"format [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (a verb that takes one or more objects)",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"To prepare a data storage medium (such as a disk or drive) for initial use, typically by creating a file system and erasing existing data.",
+      "DEF_ZH":"格式化（磁盘、存储介质）；初始化（准备使用）。",
+      "SENT_EN":"The first step in setting up the new computer was to format the hard drive.",
+      "SENT_ZH":"设置新电脑的第一步是格式化硬盘。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "initialize",
+            "partition",
+            "wipe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"format [sth] [as sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive (a verb that takes one or more objects)",
+      "TAGS":[
+        "Common",
+        "Editing"
+      ],
+      "DEF_EN":"To arrange or style text, data, or images according to a specific layout or set of rules.",
+      "DEF_ZH":"为（文本、数据）排版；确定样式；使符合特定格式。",
+      "SENT_EN":"Please format the bibliography using the MLA style guide.",
+      "SENT_ZH":"请使用MLA风格指南来排版参考文献。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "style",
+            "arrange",
+            "layout"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, especially common in publishing, media, and computing contexts."
+}

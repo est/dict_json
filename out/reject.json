@@ -1,0 +1,109 @@
+{
+  "WORD":"reject",
+  "IPA":"/rɪˈdʒɛkt/",
+  "CONJUGATES":"rejects | rejected | rejecting",
+  "ETYMOLOGY":"From Latin reicere (re- 'back' + iacere 'to throw'), meaning 'to throw back' or 'to cast off'.",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"reject [sth] | reject [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To refuse to accept, submit to, believe, or make use of (a proposal, request, or person).",
+      "DEF_ZH":"拒绝接受、采纳、相信或使用（提议、请求或某人）。",
+      "SENT_EN":"The committee firmly rejected the new funding proposal.",
+      "SENT_ZH":"委员会坚决拒绝了新的资助提案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "refuse",
+            "decline",
+            "turn down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "accept",
+            "approve",
+            "receive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reject [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "manufacturing",
+        "quality control"
+      ],
+      "DEF_EN":"To discard or dismiss something as inadequate, defective, or faulty.",
+      "DEF_ZH":"因不合格、有缺陷或故障而丢弃或淘汰。",
+      "SENT_EN":"Quality control rejected three percent of the components due to poor welding.",
+      "SENT_ZH":"质量控制部门因焊接不良而淘汰了百分之三的零件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discard",
+            "scrap",
+            "throw out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reject [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "medicine"
+      ],
+      "DEF_EN":"(Of a body) To fail to accept a transplanted organ or tissue, triggering an immune response against it.",
+      "DEF_ZH":"（身体）排斥移植的器官或组织。",
+      "SENT_EN":"The patient's immune system began to reject the new kidney within days.",
+      "SENT_ZH":"病人的免疫系统在几天内就开始排斥新的肾脏。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rejection",
+            "graft-versus-host disease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a reject",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "countable"
+      ],
+      "DEF_EN":"A person or thing that has been rejected or discarded, especially because of poor quality or inadequacy.",
+      "DEF_ZH":"被拒绝或淘汰的人或物；次品；淘汰品。",
+      "SENT_EN":"This chair is a factory reject because the leg is slightly uneven.",
+      "SENT_ZH":"这把椅子是工厂的次品，因为腿部略有不平。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outcast",
+            "discard",
+            "cull"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral"
+}

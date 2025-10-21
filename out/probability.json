@@ -1,0 +1,67 @@
+{
+  "WORD":"probability",
+  "IPA":"/ˌprɒbəˈbɪləti/",
+  "CONJUGATES":"probabilities (plural)",
+  "ETYMOLOGY":"From Old French probabilité, from Latin probabilitās ('credibility, likelihood'), from probabilis ('credible, likely'), from probare ('to test, to prove').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"probability [of sth/that...]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun). Can be countable or uncountable.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The extent to which something is probable; the likelihood of something happening or being true.",
+      "DEF_ZH":"某事可能发生或真实的可能性或程度。",
+      "SENT_EN":"There is a high probability of success for this project.",
+      "SENT_ZH":"这个项目成功的可能性很高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "likelihood",
+            "chance",
+            "odds",
+            "prospect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "improbability",
+            "impossibility",
+            "unlikelihood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"probability [of an event]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun). Can be countable or uncountable.",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "statistics"
+      ],
+      "DEF_EN":"A numerical measure of the likelihood of an event, expressed as a number between 0 (impossible) and 1 (certain).",
+      "DEF_ZH":"衡量事件发生可能性的一种数值，表示为0（不可能）到1（确定）之间的数字。",
+      "SENT_EN":"The probability of rolling a specific number on a fair six-sided die is 1/6.",
+      "SENT_ZH":"掷一个公正的六面骰子得到特定数字的概率是1/6。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "statistics",
+            "random",
+            "frequency",
+            "odds ratio"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and informal contexts, particularly common in academic, scientific, and statistical discourse."
+}

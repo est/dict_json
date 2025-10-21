@@ -1,0 +1,151 @@
+{
+  "WORD":"brief",
+  "IPA":"/briːf/",
+  "CONJUGATES":"briefer | briefest | briefly | briefs (v) | briefed | briefing",
+  "ETYMOLOGY":"From Middle English *bref*, from Old French *bref* or *brief*, ultimately from Latin *brevis* (meaning 'short').",
+  "SINCE":"c. 1250 (as adjective/noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"brief [sth] (time)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lasting only for a short duration.",
+      "DEF_ZH":"短暂的；为时短的。",
+      "SENT_EN":"They exchanged a brief glance before continuing the meeting.",
+      "SENT_ZH":"他们在继续会议前交换了一个短暂的眼神。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "short",
+            "fleeting",
+            "momentary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "long",
+            "lengthy",
+            "extended"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brief [sth] (statement/writing)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Using few words; concise or succinct.",
+      "DEF_ZH":"简洁的；简短的（指表达或书写）。",
+      "SENT_EN":"The introduction provides a brief summary of the book's contents.",
+      "SENT_ZH":"引言提供了该书内容的简要摘要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concise",
+            "succinct",
+            "pithy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "detailed",
+            "extensive",
+            "verbose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brief [sb] on [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb used with a preposition",
+      "TAGS":[
+        "business",
+        "military",
+        "common"
+      ],
+      "DEF_EN":"To give someone detailed instructions, essential information, or a quick summary, usually before a specific task or event.",
+      "DEF_ZH":"向（某人）作简报；向（某人）介绍情况（尤指指示任务）。",
+      "SENT_EN":"The manager briefed the sales team on the new marketing strategy.",
+      "SENT_ZH":"经理向销售团队简要介绍了新的营销策略。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instruct",
+            "inform",
+            "update",
+            "apprise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "debrief",
+            "briefing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a brief (document)",
+      "POS":"nc",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A written legal document containing the facts and arguments for a client's case, submitted to a court.",
+      "DEF_ZH":"诉讼摘要；案件概要（法律文件）。",
+      "SENT_EN":"The court requires the filing of all appeal briefs by the end of the month.",
+      "SENT_ZH":"法院要求所有上诉摘要必须在本月底前提交。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "memorandum",
+            "summary",
+            "report",
+            "abstract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"briefs (clothing)",
+      "POS":"nc (pl)",
+      "POS_TIP":"Countable Noun (usually plural)",
+      "TAGS":[
+        "common",
+        "clothing"
+      ],
+      "DEF_EN":"Short, close-fitting underpants or panties.",
+      "DEF_ZH":"三角裤；紧身内裤。",
+      "SENT_EN":"He prefers the comfort of cotton briefs for exercise.",
+      "SENT_ZH":"他喜欢棉质三角裤带来的运动舒适感。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "underpants",
+            "boxers",
+            "knickers"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Legal, Casual"
+}

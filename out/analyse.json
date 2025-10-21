@@ -1,0 +1,88 @@
+{
+  "WORD":"ANALYZE",
+  "IPA":"/ˈænəlaɪz/",
+  "CONJUGATES":"analyzes | analyzing | analyzed | analyse (UK spelling)",
+  "ETYMOLOGY":"From Middle French analyser, from Medieval Latin analysis, ultimately from Ancient Greek ἀνάλυσις (análysis, 'a breaking up'), from ἀνά- (aná-, 'up, throughout') + λύσις (lýsis, 'a loosening').",
+  "SINCE":"Early 17th century (c. 1610)",
+  "MEANINGS":[
+    {
+      "PATTERN":"analyze [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"To examine methodically and in detail the constitution or structure of something, especially for purposes of explanation and interpretation.",
+      "DEF_ZH":"系统地、详细地检查某物的构成或结构，特别是为了解释和阐述目的。",
+      "SENT_EN":"We need to analyze the current market trends before making a decision.",
+      "SENT_ZH":"在做出决定之前，我们需要分析当前的市场趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examine",
+            "scrutinize",
+            "evaluate",
+            "study"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "analysis",
+            "analytical",
+            "analyst"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"analyze [sth] (scientific)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"To ascertain the chemical constituents of a substance or to resolve a mathematical or logical expression into simpler elements.",
+      "DEF_ZH":"确定物质的化学成分，或将数学或逻辑表达式分解为更简单的元素。",
+      "SENT_EN":"The laboratory will analyze the soil samples for contaminants.",
+      "SENT_ZH":"实验室将分析土壤样本中的污染物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "test",
+            "assay",
+            "break down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"analyze [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "psychological"
+      ],
+      "DEF_EN":"To subject a patient to psychoanalysis.",
+      "DEF_ZH":"对病人进行精神分析。",
+      "SENT_EN":"She decided to analyze her past dreams with the help of a therapist.",
+      "SENT_ZH":"她决定在治疗师的帮助下分析自己过去的梦境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "psychoanalyze",
+            "counsel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Professional, Common"
+}

@@ -1,0 +1,65 @@
+{
+  "WORD":"antibiotic",
+  "IPA":"/ˌæntibaɪˈɒtɪk/",
+  "CONJUGATES":"antibiotics",
+  "ETYMOLOGY":"From Greek anti- ('against') + bios ('life'), coined in 1942 by Selman Waksman to describe substances produced by microorganisms that are antagonistic to the growth of other microorganisms.",
+  "SINCE":"1942",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A medicine (such as penicillin or streptomycin) that inhibits the growth of or destroys microorganisms, especially bacteria.",
+      "DEF_ZH":"一种能抑制或杀死微生物（尤其是细菌）的药物（例如青霉素或链霉素）。",
+      "SENT_EN":"The doctor prescribed a broad-spectrum antibiotic to treat the bacterial infection.",
+      "SENT_ZH":"医生开了一种广谱抗生素来治疗细菌感染。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "antibacterial",
+            "antimicrobial"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "penicillin",
+            "amoxicillin",
+            "streptomycin",
+            "infection",
+            "bacteria"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj]",
+      "POS":"adjective",
+      "POS_TIP":"a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"Relating to or involving antibiotics; effective against microorganisms.",
+      "DEF_ZH":"与抗生素有关的；有效对抗微生物的。",
+      "SENT_EN":"Researchers are studying the antibiotic properties of various plant extracts.",
+      "SENT_ZH":"研究人员正在研究各种植物提取物的抗菌特性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "antibacterial",
+            "antimicrobial"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Medical, General"
+}

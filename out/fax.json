@@ -1,0 +1,76 @@
+{
+  "WORD":"fax",
+  "IPA":"/fæks/",
+  "CONJUGATES":"faxes | faxing | faxed",
+  "ETYMOLOGY":"Abbreviation of \"facsimile\" (from Latin fac simile, 'make similar').",
+  "SINCE":"c. 1970s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[countable]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technology"
+      ],
+      "DEF_EN":"A machine or system used for transmitting and reproducing documents or images electronically over a telecommunications network.",
+      "DEF_ZH":"用于通过电信网络电子传输和复制文件或图像的机器或系统；传真机。",
+      "SENT_EN":"The office still relies on an old fax machine for official communication.",
+      "SENT_ZH":"办公室仍然依赖一台旧传真机进行官方通信。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "facsimile machine",
+            "telecopier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[countable]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "document"
+      ],
+      "DEF_EN":"A document or image transmitted by a fax machine.",
+      "DEF_ZH":"通过传真机发送的文件或图像；传真件。",
+      "SENT_EN":"Please review the fax I sent you yesterday and confirm the details.",
+      "SENT_ZH":"请查阅我昨天发给你的传真件并确认细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "facsimile",
+            "copy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fax [sth] (to [sb]/[somewhere])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To send a document using a fax machine.",
+      "DEF_ZH":"通过传真机发送文件或信息。",
+      "SENT_EN":"He agreed to fax the signed contract immediately.",
+      "SENT_ZH":"他同意立即将签好的合同传真过去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "send",
+            "transmit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common, often associated with business and institutional communication (becoming less frequent due to email)."
+}

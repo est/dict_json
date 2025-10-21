@@ -1,0 +1,112 @@
+{
+  "WORD":"kill",
+  "IPA":"/kɪl/",
+  "CONJUGATES":"kills | killing | killed",
+  "ETYMOLOGY":"From Middle English *killen*, probably from Old Norse *kylja* ('to strike, hit, wound'), possibly influenced by or merged with Old English *cwellan* ('to kill, murder').",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"kill [sb] | kill [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "literal",
+        "common"
+      ],
+      "DEF_EN":"To cause the death of a person, animal, or organism.",
+      "DEF_ZH":"导致（人、动物或生物）死亡；杀死；夺去性命。",
+      "SENT_EN":"A single shot was enough to kill the intruder.",
+      "SENT_ZH":"一枪就足以杀死入侵者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "murder",
+            "slay",
+            "execute",
+            "eliminate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "revive",
+            "save",
+            "resuscitate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"kill [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To destroy, defeat, or put a decisive end to something, especially a plan, idea, or feeling.",
+      "DEF_ZH":"终止；扼杀；破坏（计划、想法或感觉）。",
+      "SENT_EN":"The lack of funding killed the whole research project.",
+      "SENT_ZH":"缺乏资金使整个研究项目流产了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abolish",
+            "terminate",
+            "quash",
+            "crush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"kill time",
+      "POS":"v phrase",
+      "POS_TIP":"verbal phrase",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To occupy oneself while waiting for something; to pass the time idly.",
+      "DEF_ZH":"打发时间；消磨时间。",
+      "SENT_EN":"We went window shopping to kill time before the movie started.",
+      "SENT_ZH":"在电影开始之前，我们去逛街打发时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occupy oneself",
+            "pass the time"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] kill",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "noun form",
+        "wildlife"
+      ],
+      "DEF_EN":"An act of killing, or the animal or prey that has been killed.",
+      "DEF_ZH":"杀戮的行为；猎物；被捕获的动物。",
+      "SENT_EN":"The scavenger birds descended quickly on the lion's kill.",
+      "SENT_ZH":"食腐鸟迅速地降落在狮子的猎物上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prey",
+            "victim",
+            "catch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English usage (verb and noun)"
+}

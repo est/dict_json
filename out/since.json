@@ -1,0 +1,75 @@
+{
+  "WORD":"since",
+  "IPA":"/sɪns/",
+  "CONJUGATES":"N/A",
+  "ETYMOLOGY":"From Middle English *sins*, *sithnes*, *sithens*, earlier *sith*, *sithe*, *sithen*, from Old English *síððan* 'afterwards', a contraction of *síð* 'later' + *þan* 'then'.",
+  "SINCE":"Old English (pre-12th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[clause 1] since [clause 2]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: a word used to connect clauses or sentences or to coordinate words in the same clause",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"From the time when; during the period after a specified past event or time.",
+      "DEF_ZH":"自从（某事发生）以来；从（某时）以后",
+      "SENT_EN":"Many things have changed since I last saw you.",
+      "SENT_ZH":"自从我上次见到你以来，很多事情都变了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"since [reason clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: a word used to connect clauses or sentences or to coordinate words in the same clause",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Because; seeing that; as a consequence of the fact that.",
+      "DEF_ZH":"既然；由于；鉴于",
+      "SENT_EN":"Since you're busy, I'll go by myself.",
+      "SENT_ZH":"既然你很忙，我就自己去吧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "because",
+            "as",
+            "seeing that"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"since [time/event]",
+      "POS":"prep",
+      "POS_TIP":"preposition: a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"From (a definite past time or event) until now.",
+      "DEF_ZH":"从（某一特定过去时间或事件）起至今",
+      "SENT_EN":"I haven't eaten anything since breakfast.",
+      "SENT_ZH":"我早餐后什么都没吃过。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"ever since | long since",
+      "POS":"adv",
+      "POS_TIP":"adverb: a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"From that time until now; continuously from a past time.",
+      "DEF_ZH":"从那时起；从那时到现在",
+      "SENT_EN":"He left the company in 2010 and has been working for himself ever since.",
+      "SENT_ZH":"他于2010年离开公司，从那时起就一直为自己工作。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General English"
+}

@@ -1,0 +1,72 @@
+{
+  "WORD":"accelerate",
+  "IPA":"/əkˈsɛləreɪt/",
+  "CONJUGATES":"accelerates | accelerating | accelerated",
+  "ETYMOLOGY":"From Latin acceleratus, past participle of accelerare, from ad- (to) + celerare (to hasten, from celer 'swift'). Literally 'to increase swiftness'.",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"accelerate (intr) | accelerate [sth] (tr)",
+      "POS":"v | vtr",
+      "POS_TIP":"verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "physics",
+        "common"
+      ],
+      "DEF_EN":"To increase the speed or velocity of an object, or for an object to increase its own speed.",
+      "DEF_ZH":"（使）速度增加；加速。",
+      "SENT_EN":"The pilot pushed the throttle to accelerate the aircraft down the runway.",
+      "SENT_ZH":"飞行员推动节流阀，使飞机沿跑道加速。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speed up",
+            "quicken"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "decelerate",
+            "slow down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accelerate [sth] (tr) | accelerate (intr)",
+      "POS":"vtr | v",
+      "POS_TIP":"transitive verb | verb",
+      "TAGS":[
+        "figurative",
+        "business",
+        "academic"
+      ],
+      "DEF_EN":"To cause a process, change, or development to happen more quickly or sooner.",
+      "DEF_ZH":"加快进程；促进发展；使…提前。",
+      "SENT_EN":"The company's new investment strategy is expected to accelerate their market entry by six months.",
+      "SENT_ZH":"公司的新投资策略有望使其市场进入提前六个月。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expedite",
+            "hasten",
+            "further"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "delay",
+            "impede",
+            "retard"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general use, technical contexts (especially physics/engineering), and formal writing."
+}

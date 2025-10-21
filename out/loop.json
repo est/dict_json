@@ -1,0 +1,125 @@
+{
+  "WORD":"loop",
+  "IPA":"/luːp/",
+  "CONJUGATES":"loop (n.) | loops (n.pl.) | loop (v.) | loops (v.3rd sg.) | looped (v.past) | looping (v.pres.part)",
+  "ETYMOLOGY":"Of uncertain origin, probably from a Germanic root, related to Middle English 'loupen' (to leap). The sense of a bent or folded shape is first recorded in the late 14th century.",
+  "SINCE":"Late 14th century (noun), early 16th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a loop [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A shape produced by a curve that bends around and crosses itself, or a piece of rope, wire, etc., bent into a curved shape with two ends either joined or almost meeting.",
+      "DEF_ZH":"环状物；圈；结；环路",
+      "SENT_EN":"She tied the string into a small loop.",
+      "SENT_ZH":"她把绳子打了个小环。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ring",
+            "circle",
+            "coil",
+            "hoop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a loop",
+      "POS":"n.",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "common",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A sequence of instructions in a computer program that is repeated until a certain condition is met or for a specified number of times.",
+      "DEF_ZH":"（计算机程序的）循环",
+      "SENT_EN":"The program got stuck in an infinite loop.",
+      "SENT_ZH":"程序陷入了无限循环。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "iteration",
+            "recursion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a loop [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "common",
+        "media"
+      ],
+      "DEF_EN":"A segment of film, tape, or digital data that is repeated continuously, typically forming a continuous sound or video sequence.",
+      "DEF_ZH":"循环播放的片段（音乐、视频等）",
+      "SENT_EN":"The DJ put the beat on a loop for the entire set.",
+      "SENT_ZH":"DJ在整场表演中将这段节拍循环播放。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sample",
+            "repeater"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"loop [sth] | loop [around sth]",
+      "POS":"v.",
+      "POS_TIP":"verb (a word that describes an action, state, or occurrence)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To form into a loop or loops; to make a loop with something.",
+      "DEF_ZH":"使成环；打环；盘绕；（使）环行",
+      "SENT_EN":"The road loops around the mountain, offering scenic views.",
+      "SENT_ZH":"这条路环绕着山，风景优美。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coil",
+            "wind",
+            "curl",
+            "circulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"loop [sth] through/around",
+      "POS":"v.",
+      "POS_TIP":"verb (a word that describes an action, state, or occurrence)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To fasten or connect by means of a loop.",
+      "DEF_ZH":"用环连接；打结固定；穿过",
+      "SENT_EN":"She looped the dog's leash through the fence post.",
+      "SENT_ZH":"她把狗的皮带穿过栅栏柱系好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fasten",
+            "tie",
+            "secure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

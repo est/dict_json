@@ -1,0 +1,112 @@
+{
+  "WORD":"man",
+  "IPA":"/mæn/",
+  "CONJUGATES":"men (pl.) | man's (poss. sing.) | men's (poss. pl.) | manned (v. past) | manning (v. pres. part.)",
+  "ETYMOLOGY":"From Old English mann, ultimately from Proto-Germanic *mann- (human being). It originally referred to a person, regardless of gender, but later specialized to mean an adult male.",
+  "SINCE":"pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] man",
+      "POS":"n. count.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An adult male human being.",
+      "DEF_ZH":"成年男性人类。",
+      "SENT_EN":"The man standing by the window is my uncle.",
+      "SENT_ZH":"站在窗边的那位男士是我的叔叔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gentleman",
+            "male",
+            "guy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "woman",
+            "girl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"men",
+      "POS":"n. count.",
+      "POS_TIP":"countable noun (plural form)",
+      "TAGS":[
+        "military",
+        "organizational"
+      ],
+      "DEF_EN":"Soldiers, sailors, employees, or followers under the command or supervision of a particular person or group (used frequently in the plural).",
+      "DEF_ZH":"部下；属员；士兵（特指在某人指挥或监督下工作的人员，常使用复数 'men'）。",
+      "SENT_EN":"The CEO's men prepared the presentation for the board.",
+      "SENT_ZH":"首席执行官的部下为董事会准备了演示文稿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subordinate",
+            "troop",
+            "crew",
+            "employee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"man",
+      "POS":"n. mass.",
+      "POS_TIP":"mass noun (non-countable)",
+      "TAGS":[
+        "archaic",
+        "general",
+        "literary"
+      ],
+      "DEF_EN":"The human race; humankind generally (often replaced by 'humanity' or 'people' to avoid gender bias).",
+      "DEF_ZH":"人类；全体人（现常用 humanity 或 people 替代，以避免性别倾向）。",
+      "SENT_EN":"Man has always sought to understand the stars.",
+      "SENT_ZH":"人类一直在寻求了解星辰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mankind",
+            "humankind",
+            "humanity",
+            "people"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"to man [sth]",
+      "POS":"v. tr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "crew"
+      ],
+      "DEF_EN":"To supply with a person or crew to operate or defend a machine, station, or vessel.",
+      "DEF_ZH":"为（机器、岗位、舰船）配备人员；担任（某岗位的）工作人员。",
+      "SENT_EN":"They needed two engineers to man the control panel.",
+      "SENT_ZH":"他们需要两名工程师来操控控制面板。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "staff",
+            "crew",
+            "operate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common use across formal, informal, and professional contexts."
+}

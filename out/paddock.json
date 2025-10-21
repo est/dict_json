@@ -1,0 +1,72 @@
+{
+  "WORD":"paddock",
+  "IPA":"/ˈpædək/",
+  "CONJUGATES":"paddocks | paddocked | paddocked | paddocking",
+  "ETYMOLOGY":"Variant of earlier parrock, ultimately derived from Old English pearroc (meaning 'an enclosure' or 'park').",
+  "SINCE":"Late 18th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] paddock [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "agriculture",
+        "equestrian"
+      ],
+      "DEF_EN":"A small enclosed field or pasture, especially one near a stable or house, used for grazing or exercising horses and other livestock.",
+      "DEF_ZH":"（马或牲畜的）小围场；放牧场；牧场。",
+      "SENT_EN":"The farmer turned the horses out into the front paddock after the heavy rain.",
+      "SENT_ZH":"大雨过后，农夫把马匹放到了前面的围场里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enclosure",
+            "corral",
+            "croft",
+            "pasture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the paddock",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "motorsport",
+        "horse racing",
+        "specific use"
+      ],
+      "DEF_EN":"The area at a racetrack where race cars are prepared and maintained, or where horses are assembled before a race.",
+      "DEF_ZH":"（赛车或赛马场的）准备区、维修区或马匹检录区。",
+      "SENT_EN":"Security was tight around the Formula One paddock during the race weekend.",
+      "SENT_ZH":"赛车周末期间，一级方程式维修区周围的安保非常严格。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pit lane",
+            "garage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"paddock [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "dated"
+      ],
+      "DEF_EN":"To put or confine (livestock or animals) in a paddock.",
+      "DEF_ZH":"将（牲畜）关入围场。",
+      "SENT_EN":"He paddocked the cattle for the night to protect them from coyotes.",
+      "SENT_ZH":"为了保护牛群不受土狼侵扰，他在夜里把它们关入了围场。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, common in rural, equestrian, or motorsports contexts."
+}

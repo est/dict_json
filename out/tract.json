@@ -1,0 +1,85 @@
+{
+  "WORD":"tract",
+  "IPA":"/trækt/",
+  "CONJUGATES":"tracts (n.)",
+  "ETYMOLOGY":"From Middle English tracte, from Latin tractus 'a drawing out, extent, course, area', past participle of trahere 'to pull, draw'.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] tract of [land/forest/desert]",
+      "POS":"noun",
+      "POS_TIP":"A person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "geography"
+      ],
+      "DEF_EN":"A large area or stretch of land, typically indefinite in extent.",
+      "DEF_ZH":"一大片土地或区域；广阔的地域。",
+      "SENT_EN":"The developer purchased a large tract of undeveloped land near the coast.",
+      "SENT_ZH":"开发商在海岸附近购买了一大片未开发的土地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expanse",
+            "stretch",
+            "area",
+            "region"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] [digestive/respiratory/nerve] tract",
+      "POS":"noun",
+      "POS_TIP":"A person, place, thing, or idea.",
+      "TAGS":[
+        "specialized",
+        "science",
+        "anatomy"
+      ],
+      "DEF_EN":"A system of organs or tissues that forms a continuous passage in the body.",
+      "DEF_ZH":"（身体内部的）道；管；束；系统（如消化道、呼吸道）。",
+      "SENT_EN":"Infections of the urinary tract are extremely common.",
+      "SENT_ZH":"泌尿道感染非常普遍。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pathway",
+            "system",
+            "duct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"distribute [a] tract",
+      "POS":"noun",
+      "POS_TIP":"A person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "literature",
+        "religion",
+        "politics"
+      ],
+      "DEF_EN":"A short treatise or pamphlet, especially one on a religious or political subject, intended for general distribution.",
+      "DEF_ZH":"（尤指宗教或政治性的）宣传册；短文；传单。",
+      "SENT_EN":"He wrote a fiery tract criticizing the government's foreign policy.",
+      "SENT_ZH":"他写了一本抨击政府外交政策的激烈的小册子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pamphlet",
+            "leaflet",
+            "treatise",
+            "booklet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral"
+}

@@ -1,0 +1,62 @@
+{
+  "WORD":"ski",
+  "IPA":"/skiː/",
+  "CONJUGATES":"ski | skis | skied | skiing",
+  "ETYMOLOGY":"From Norwegian 'ski', from Old Norse 'skíð' meaning 'stick of wood' or 'ski'.",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a ski | skis",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"One of a pair of long, narrow runners attached to boots for gliding over snow.",
+      "DEF_ZH":"用于在雪上滑行的长而窄的板，通常成对出现并附在靴子上。",
+      "SENT_EN":"He bought a new pair of skis for the winter season.",
+      "SENT_ZH":"他为冬季买了一副新滑雪板。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "snowboard",
+            "ski pole",
+            "ski boot",
+            "ski resort"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] ski",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To travel over snow on skis.",
+      "DEF_ZH":"穿着滑雪板在雪上滑行。",
+      "SENT_EN":"They plan to ski in the Alps this winter.",
+      "SENT_ZH":"他们计划今年冬天去阿尔卑斯山滑雪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snowboard"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "skiing",
+            "skier"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

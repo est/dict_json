@@ -1,0 +1,84 @@
+{
+  "WORD":"smile",
+  "IPA":"/smaɪl/",
+  "CONJUGATES":"smiles | smiling | smiled",
+  "ETYMOLOGY":"From Middle English smilen, likely from a Scandinavian source (e.g., Old Norse *smíla* or Danish smile).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"smile",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To form one's features into a pleased, kind, or amused expression, typically by turning up the corners of the mouth.",
+      "DEF_ZH":"露出愉悦、友好或有趣的表情；微笑。",
+      "SENT_EN":"She smiled when she heard the good news.",
+      "SENT_ZH":"当她听到好消息时，她笑了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beam",
+            "grin",
+            "chuckle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "frown",
+            "scowl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a smile",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"A facial expression indicating pleasure, amusement, or friendliness, characterized by the upward curving of the corners of the mouth.",
+      "DEF_ZH":"表示高兴、有趣或友好的面部表情；笑容，微笑。",
+      "SENT_EN":"He had a nervous smile before his presentation.",
+      "SENT_ZH":"在演讲前，他露出了紧张的微笑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grin",
+            "simper",
+            "smirk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"smile [on/upon sb/sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"(Of fortune or fate) to be favorable or propitious to someone.",
+      "DEF_ZH":"（指运气或命运）眷顾；青睐。",
+      "SENT_EN":"It seemed that fate finally smiled upon the young inventor.",
+      "SENT_ZH":"看起来命运终于眷顾了这位年轻的发明家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "favor",
+            "bless",
+            "be propitious"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

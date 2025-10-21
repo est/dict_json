@@ -1,0 +1,98 @@
+{
+  "WORD":"degrade",
+  "IPA":"/dɪˈɡreɪd/",
+  "CONJUGATES":"degrades | degrading | degraded",
+  "ETYMOLOGY":"From Old French dégrader, derived from Medieval Latin dēgradāre ('to reduce in rank'), from Latin dē- ('down, away') + gradus ('step, rank').",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"degrade [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "environmental"
+      ],
+      "DEF_EN":"To lower the quality, condition, or efficiency of something; to cause deterioration.",
+      "DEF_ZH":"降低（某物的）质量、价值或状态；使恶化；损害。",
+      "SENT_EN":"Overfishing continues to degrade the marine ecosystem.",
+      "SENT_ZH":"过度捕捞持续损害着海洋生态系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deteriorate",
+            "impair",
+            "worsen"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "improve",
+            "enhance",
+            "upgrade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"degrade [sb] | degrade [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "social",
+        "moral"
+      ],
+      "DEF_EN":"To treat someone with disrespect or contempt, or to reduce their honor or dignity; to humiliate.",
+      "DEF_ZH":"贬低（某人）的身份或尊严；侮辱；使蒙羞。",
+      "SENT_EN":"The manager’s constant insults were designed to degrade his employees.",
+      "SENT_ZH":"经理持续不断的侮辱是为了羞辱他的员工。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "humiliate",
+            "abase",
+            "disgrace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exalt",
+            "honor",
+            "respect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"degrade [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "technical",
+        "chemistry",
+        "biology"
+      ],
+      "DEF_EN":"To break down or decompose a substance into simpler compounds, typically by chemical reaction or microbial action.",
+      "DEF_ZH":"使（物质）分解成更简单的化合物；降解。",
+      "SENT_EN":"It takes centuries for this plastic to fully degrade in the landfill.",
+      "SENT_ZH":"这种塑料需要几个世纪才能在垃圾填埋场中完全降解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decompose",
+            "break down",
+            "biodegrade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Environmental Science"
+}

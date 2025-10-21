@@ -1,0 +1,83 @@
+{
+  "WORD":"skull",
+  "IPA":"/skʌl/",
+  "CONJUGATES":"skulls",
+  "ETYMOLOGY":"Of uncertain origin, likely from Old Norse skalli 'bald head, skull', related to Old English scealu 'shell, husk'.",
+  "SINCE":"Mid-13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] skull [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "anatomy"
+      ],
+      "DEF_EN":"The bony framework of the head, protecting the brain; the cranium.",
+      "DEF_ZH":"颅骨；头盖骨（构成头部保护大脑的骨骼结构）；头颅。",
+      "SENT_EN":"A severe blow to the skull can cause brain damage.",
+      "SENT_ZH":"头部受到重击可能会导致脑损伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cranium",
+            "brainpan"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "skeleton",
+            "bone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skull [and crossbones]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "symbolism",
+        "figurative"
+      ],
+      "DEF_EN":"A representation or image of a human skull, often used as a symbol of death, poison, or danger (especially in conjunction with crossbones).",
+      "DEF_ZH":"骷髅头标志；死神象征（常用于表示死亡、剧毒或危险的图像，尤其是与交叉骨一起使用时）。",
+      "SENT_EN":"The Jolly Roger flag features a white skull and crossbones on a black background.",
+      "SENT_ZH":"海盗旗上是以黑色背景上的白色骷髅头和交叉骨为特色。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Jolly Roger",
+            "memento mori"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] skull",
+      "POS":"n (informal)",
+      "POS_TIP":"noun (informal)",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"The head or the mind itself (used informally).",
+      "DEF_ZH":"脑袋；头脑（非正式或俚语用法）。",
+      "SENT_EN":"He finally got the complex theory into his thick skull.",
+      "SENT_ZH":"他终于把这个复杂的理论弄进了他那迟钝的脑袋里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "head",
+            "noggin"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Anatomy"
+}

@@ -1,0 +1,141 @@
+{
+  "WORD":"slack",
+  "IPA":"/slæk/",
+  "CONJUGATES":"slacker | slackest | slacks | slacked | slacking",
+  "ETYMOLOGY":"From Middle English slak, from Old English slæc 'loose, weak, negligent, slow, lazy', related to Old Norse slakr.",
+  "SINCE":"c. 10th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (rope, wire)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "physical state"
+      ],
+      "DEF_EN":"Not tense, tight, or taut; loose.",
+      "DEF_ZH":"不紧绷的；松弛的；松的。",
+      "SENT_EN":"The line went slack after the fish stopped pulling.",
+      "SENT_ZH":"鱼停止拉扯后，鱼线松弛了下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loose",
+            "drooping",
+            "limp"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "tight",
+            "taut",
+            "tense"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] / [sth] (performance, rules)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "behavioral"
+      ],
+      "DEF_EN":"Lacking in diligence, effort, or care; negligent or lazy.",
+      "DEF_ZH":"懈怠的；不勤奋的；疏忽的。",
+      "SENT_EN":"He was fired for being slack in his duties.",
+      "SENT_ZH":"他因工作懈怠而被解雇了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lazy",
+            "negligent",
+            "remiss"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "diligent",
+            "hardworking",
+            "strict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slack off",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "phrasal verb",
+        "common"
+      ],
+      "DEF_EN":"To reduce effort or become less active or busy; to waste time.",
+      "DEF_ZH":"偷懒；懈怠；减少努力。",
+      "SENT_EN":"The students tend to slack off just before the holidays.",
+      "SENT_ZH":"学生们往往在假期前就松懈下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shirk",
+            "loaf",
+            "coast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the slack",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "business",
+        "economic"
+      ],
+      "DEF_EN":"A period of reduced business or activity; a lull.",
+      "DEF_ZH":"不景气时期；淡季；活动低潮。",
+      "SENT_EN":"We need to fill the slack time with training activities.",
+      "SENT_ZH":"我们需要用培训活动来填补这段空闲时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lull",
+            "slowdown",
+            "respite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take up the slack",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "measurement"
+      ],
+      "DEF_EN":"The unused or surplus part; the amount by which something is not taut (often used figuratively to mean managing workload left by others).",
+      "DEF_ZH":"松弛的部分；多余或未使用的部分（常用于习语中，指承担他人留下的工作）。",
+      "SENT_EN":"When the supervisor was sick, the team lead had to take up the slack.",
+      "SENT_ZH":"当主管生病时，团队负责人不得不接替未完成的工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excess",
+            "surplus",
+            "leeway"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often used in business, industrial, or nautical contexts."
+}

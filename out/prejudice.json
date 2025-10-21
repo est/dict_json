@@ -1,0 +1,87 @@
+{
+  "WORD":"prejudice",
+  "IPA":"/ˈprɛdʒədɪs/",
+  "CONJUGATES":"prejudices (pl. n.) | prejudices (v.) | prejudicing (v.) | prejudiced (v./adj.)",
+  "ETYMOLOGY":"From Middle English, derived from Old French *prejudice*, which comes from Latin *praeiūdicium* ('previous judgment'), a compound of *prae-* ('before') and *iūdicium* ('judgment').",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s prejudice against [sb]/[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable and uncountable)",
+      "TAGS":[
+        "core word",
+        "social",
+        "psychology"
+      ],
+      "DEF_EN":"A preconceived, usually unfavorable, opinion or feeling formed without knowledge, thought, or reason, often targeting a group based on race, religion, sex, etc.",
+      "DEF_ZH":"偏见；成见；歧视（尤指针对特定种族、宗教、性别或群体的负面态度或意见，缺乏理性或经验基础）。",
+      "SENT_EN":"She fought against the deep-seated prejudice in the community.",
+      "SENT_ZH":"她与社区中根深蒂固的偏见作斗争。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bias",
+            "bigotry",
+            "partiality",
+            "discrimination"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "racism",
+            "sexism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"to the prejudice of [sth] | without prejudice to [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable, formal)",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"Harm or injury that results or may result from some action or judgment; detriment or disadvantage.",
+      "DEF_ZH":"损害；侵害；不利影响（常用于法律语境）。",
+      "SENT_EN":"The court dismissed the claim without prejudice, allowing the plaintiff to file again later.",
+      "SENT_ZH":"法院驳回了诉讼，但不影响原告稍后重新提起诉讼（无损其权利）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "detriment",
+            "harm",
+            "injury"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prejudice [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To cause someone to form an adverse opinion or decision before adequate evidence is available; to bias or unfairly influence.",
+      "DEF_ZH":"使产生偏见；损害或不利地影响（某人或某事）。",
+      "SENT_EN":"The newspaper reports might prejudice the jury against the defendant.",
+      "SENT_ZH":"报纸的报道可能会使陪审团对被告产生偏见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bias",
+            "predispose",
+            "influence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal (Legal for meaning 2)"
+}

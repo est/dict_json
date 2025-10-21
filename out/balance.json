@@ -1,0 +1,123 @@
+{
+  "WORD":"balance",
+  "IPA":"/ˈbæləns/",
+  "CONJUGATES":"balances (n) | balances (v) | balancing | balanced",
+  "ETYMOLOGY":"From Old French balance (scale, equilibrium), derived from Latin bilanx (having two scales), combining bi- (two) and lanx (plate, scale).",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"balance (n)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical state",
+        "concept"
+      ],
+      "DEF_EN":"A state where weight, forces, or influences are distributed equally, maintaining stability or equilibrium.",
+      "DEF_ZH":"重量、力量或影响平均分配的状态，以保持稳定或平衡。",
+      "SENT_EN":"The gymnast showed incredible balance while performing on the beam.",
+      "SENT_ZH":"这位体操运动员在平衡木上表演时展现了惊人的平衡能力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equilibrium",
+            "stability",
+            "poise",
+            "harmony"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "imbalance",
+            "instability",
+            "wobble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"balance [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core action",
+        "general use"
+      ],
+      "DEF_EN":"To bring into or keep in a state of equilibrium or equality; to offset one thing against another.",
+      "DEF_ZH":"使处于或保持平衡或相等的状态；用一事物抵消另一事物。",
+      "SENT_EN":"She tries to balance the demands of her career and her family life.",
+      "SENT_ZH":"她试图平衡事业和家庭生活的各项要求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stabilize",
+            "equalize",
+            "counteract",
+            "offset"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unbalance",
+            "tip",
+            "destabilize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"account balance (n) | outstanding balance (n)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "finance",
+        "accounting",
+        "business"
+      ],
+      "DEF_EN":"The amount of money remaining in an account, or the difference between the total credits and the total debits in an account.",
+      "DEF_ZH":"账户中剩余的金额，或账户中贷方总额与借方总额之间的差额。",
+      "SENT_EN":"My bank statement shows a current balance of $5,000.",
+      "SENT_ZH":"我的银行对账单显示当前余额为5000美元。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "debt",
+            "credit",
+            "deposit",
+            "ledger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the balance of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "remainder"
+      ],
+      "DEF_EN":"The remainder; the part of something that is left over after a part has been used, removed, or accounted for.",
+      "DEF_ZH":"剩余部分；在使用、移除或计算出某一部分后剩下的东西。",
+      "SENT_EN":"We will pay the balance of the payment next week.",
+      "SENT_ZH":"我们将在下周支付剩余的款项。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remainder",
+            "rest",
+            "residue"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in daily conversation, business, and physical sciences."
+}

@@ -1,0 +1,110 @@
+{
+  "WORD":"turn",
+  "IPA":"/tɜːrn/",
+  "CONJUGATES":"turns | turning | turned",
+  "ETYMOLOGY":"From Old French tourner, from Latin tornāre 'to turn in a lathe, round off', ultimately from Greek τόρνος (tórnos) 'lathe, compasses'.",
+  "SINCE":"12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"turn",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"Move in a circular direction or around an axis; change direction or orientation.",
+      "DEF_ZH":"旋转；改变方向或面向。",
+      "SENT_EN":"The car slowed down before turning the corner.",
+      "SENT_ZH":"汽车在转弯前减速了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rotate",
+            "pivot",
+            "spin",
+            "veer"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "continue",
+            "straighten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"turn [adj]",
+      "POS":"vi + adj",
+      "POS_TIP":"Intransitive verb + adjective (used as a linking verb)",
+      "TAGS":[
+        "state change",
+        "common use"
+      ],
+      "DEF_EN":"Become or change into a specified condition, state, or color.",
+      "DEF_ZH":"变成；变得（指状态或颜色变化）。",
+      "SENT_EN":"The leaves usually turn yellow and red in October.",
+      "SENT_ZH":"树叶通常在十月变黄变红。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "become",
+            "grow",
+            "transition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"turn [sth] [prep]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "action",
+        "control"
+      ],
+      "DEF_EN":"Move something by rotating it, often to operate a device or adjust a setting.",
+      "DEF_ZH":"扭动；操作（通过旋转来移动或调整某物）。",
+      "SENT_EN":"Could you turn the volume up a little?",
+      "SENT_ZH":"你能把音量调高一点吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjust",
+            "manipulate",
+            "operate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"turn [age/number]",
+      "POS":"vi + n",
+      "POS_TIP":"Intransitive verb + noun",
+      "TAGS":[
+        "idiomatic",
+        "age"
+      ],
+      "DEF_EN":"Reach or pass a certain age or significant point.",
+      "DEF_ZH":"达到或超过（某个年龄或时间点）。",
+      "SENT_EN":"She will be turning thirty next month.",
+      "SENT_ZH":"她下个月就要满三十岁了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reach",
+            "hit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General conversation and literature",
+  "NOTES":"The input 'turning' is the present participle or gerund form of 'turn'."
+}

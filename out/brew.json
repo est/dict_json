@@ -1,0 +1,102 @@
+{
+  "WORD":"brew",
+  "IPA":"/bruː/",
+  "CONJUGATES":"brews | brewing | brewed",
+  "ETYMOLOGY":"From Old English brēowan, from Proto-Germanic *breuwanan, related to boiling and bubbling.",
+  "SINCE":"c. 8th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"brew [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "culinary"
+      ],
+      "DEF_EN":"To make beer, ale, or other alcoholic drinks by steeping, boiling, and fermentation.",
+      "DEF_ZH":"通过浸泡、煮沸和发酵来制作啤酒、麦酒或其他酒精饮料（酿造）。",
+      "SENT_EN":"The monastery has been brewing its famous stout for centuries.",
+      "SENT_ZH":"这座修道院几个世纪以来一直在酿造其著名的黑啤酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ferment",
+            "distil",
+            "make"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brew [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common",
+        "domestic"
+      ],
+      "DEF_EN":"To make a hot drink, such as tea or coffee, by mixing the ingredients with hot water.",
+      "DEF_ZH":"冲泡，沏（茶、咖啡等热饮）。",
+      "SENT_EN":"Would you like me to brew a fresh pot of coffee?",
+      "SENT_ZH":"你想让我冲一壶新咖啡吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steep",
+            "infuse",
+            "prepare"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] brew (or be brewing)",
+      "POS":"vintr | vtr",
+      "POS_TIP":"Intransitive or transitive verb",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"(Of an unwelcome event or situation) to start to develop or be imminent; to gather.",
+      "DEF_ZH":"（指不愉快的事情、麻烦或天气）酝酿；即将来临。",
+      "SENT_EN":"Tension had been brewing between the two rival gangs for weeks.",
+      "SENT_ZH":"这两个敌对帮派之间的紧张关系已经酝酿了好几周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loom",
+            "gather",
+            "originate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a brew",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"A beverage, especially beer, ale, or a hot drink like tea or coffee.",
+      "DEF_ZH":"一种饮料（尤指啤酒、麦酒或热饮，如茶或咖啡）。",
+      "SENT_EN":"I stopped by the local pub for a cold brew after work.",
+      "SENT_ZH":"下班后我去了当地的酒吧喝了一杯冰镇啤酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drink",
+            "beverage",
+            "concoction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in culinary and informal contexts."
+}

@@ -1,0 +1,82 @@
+{
+  "WORD":"orphan",
+  "IPA":"/ˈɔːrfən/",
+  "CONJUGATES":"orphans (n) | orphans (v) | orphaned | orphaning",
+  "ETYMOLOGY":"From Middle English *orfan*, from Old French *orfelin*, from Latin *orphanus* 'parentless', derived from Ancient Greek *ὀρφανός* (*orphanós*) meaning 'bereft, parentless'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A child whose parents are dead.",
+      "DEF_ZH":"父母双亡或失踪的儿童；孤儿。",
+      "SENT_EN":"Oliver Twist is one of the most famous literary orphans.",
+      "SENT_ZH":"奥利弗·特威斯特是文学作品中最著名的孤儿之一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "waif",
+            "foundling"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "orphanage",
+            "foster child"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"orphan [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To cause (someone, especially a child) to become an orphan.",
+      "DEF_ZH":"使（某人，尤指儿童）成为孤儿；夺去（某人）的父母。",
+      "SENT_EN":"The 1918 flu epidemic orphaned thousands of children across the globe.",
+      "SENT_ZH":"1918年的流感疫情使全球数千名儿童成为孤儿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bereave",
+            "leave parentless"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "figurative"
+      ],
+      "DEF_EN":"A person, animal, or thing that is without support, guidance, or association with a larger group or system.",
+      "DEF_ZH":"脱离支持、指导，或与所属主要系统或群体缺乏关联的事物（例如，编程中的孤立进程或排版中的孤行）。",
+      "SENT_EN":"The designer hated having orphans and widows in his typography.",
+      "SENT_ZH":"这位设计师讨厌他的排版中出现孤行（orphans and widows）。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stray",
+            "outlier"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

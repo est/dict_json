@@ -1,0 +1,75 @@
+{
+  "WORD":"ignition",
+  "IPA":"/ɪɡˈnɪʃən/",
+  "CONJUGATES":"ignitions",
+  "ETYMOLOGY":"From Latin ignitio (genitive ignitionem) 'a setting on fire', from ignire 'to set on fire', from ignis 'fire'.",
+  "SINCE":"Early 17th century (c. 1620s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ignition (of [sth])",
+      "POS":"n.",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, things, or abstract ideas.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"The action or process of setting something on fire or starting to burn.",
+      "DEF_ZH":"点燃或开始燃烧的动作或过程。",
+      "SENT_EN":"The ignition of the rocket fuel occurred successfully.",
+      "SENT_ZH":"火箭燃料的点燃成功进行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combustion",
+            "kindling",
+            "firing",
+            "blaze-up"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ignite",
+            "fire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ignition",
+      "POS":"n.",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, things, or abstract ideas.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "automotive",
+        "common"
+      ],
+      "DEF_EN":"The electrical system in an internal combustion engine that ignites the fuel mixture, typically by an electric spark; also, the switch that activates this system.",
+      "DEF_ZH":"内燃机中通过电火花点燃燃料混合物的电气系统；也指启动该系统的开关。",
+      "SENT_EN":"She turned the ignition key, but the car wouldn't start.",
+      "SENT_ZH":"她转动了点火钥匙，但车子没有启动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "starter",
+            "firing system",
+            "sparking system"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "spark plug",
+            "car",
+            "engine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical, general"
+}

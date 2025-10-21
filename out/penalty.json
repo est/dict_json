@@ -1,0 +1,113 @@
+{
+  "WORD":"penalty",
+  "IPA":"/'pen.əl.ti/",
+  "CONJUGATES":"penalties",
+  "ETYMOLOGY":"From Anglo-Norman *penalité*, from Medieval Latin *poenālitās*, derived from Latin *poenālis* ('pertaining to punishment'), ultimately from *poena* ('punishment, pain, fine').",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"penalty [for sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A punishment imposed for breaking a law, rule, or contract.",
+      "DEF_ZH":"因违反法律、规则或合同而遭受的惩罚或罚款。",
+      "SENT_EN":"The maximum penalty for insider trading is a hefty fine and jail time.",
+      "SENT_ZH":"内幕交易的最高惩罚是巨额罚款和监禁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "punishment",
+            "sanction",
+            "fine",
+            "consequence"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "imprisonment",
+            "sentence",
+            "capital punishment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(in sports) penalty",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "sports",
+        "common"
+      ],
+      "DEF_EN":"A disadvantage or free attempt awarded to the opposing team when a player commits a foul, such as a penalty kick in football or a penalty shot in ice hockey.",
+      "DEF_ZH":"（体育运动中）当一名队员犯规时，判给对方球队的劣势或自由射门机会（如足球中的点球）。",
+      "SENT_EN":"The referee immediately awarded a penalty when the defender handled the ball in the box.",
+      "SENT_ZH":"当防守队员在禁区内手球时，裁判立即判罚了点球。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "foul",
+            "red card",
+            "penalty kick",
+            "free throw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"financial penalty",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"A financial charge or fee incurred for failing to meet an agreement, such as an overdue payment or early withdrawal from a savings plan.",
+      "DEF_ZH":"未能履行协议（如逾期付款或提前支取）而产生的财务费用或罚款。",
+      "SENT_EN":"The bank charges a severe penalty if you withdraw funds before the maturity date.",
+      "SENT_ZH":"如果您在到期日之前提取资金，银行将收取严重的罚金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surcharge",
+            "levy",
+            "forfeit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the penalty of [sth]",
+      "POS":"noun",
+      "POS_TIP":"Figurative/Abstract Noun",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A negative consequence or suffering that results naturally from a fault or misfortune.",
+      "DEF_ZH":"因过失或不幸而自然产生的负面后果或苦难；代价。",
+      "SENT_EN":"He paid the penalty of his excessive pride and was eventually dismissed.",
+      "SENT_ZH":"他为自己过度的骄傲付出了代价，并最终被解雇了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cost",
+            "detriment",
+            "sacrifice"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across legal, financial, and sports contexts."
+}

@@ -1,0 +1,84 @@
+{
+  "WORD":"bachelor",
+  "IPA":"/ˈbætʃələr/",
+  "CONJUGATES":"bachelors",
+  "ETYMOLOGY":"From Old French bacheler 'young knight, novice, squire' (11th century), possibly from Medieval Latin baccalaris 'farm-worker, tenant farmer' (referring to someone holding a small estate or farm), or from Latin baculum 'staff', implying a young man who carries a staff (i.e., a novice or apprentice). The sense of 'unmarried man' developed later.",
+  "SINCE":"c. 1300 (for 'young knight'), c. 1380 (for 'unmarried man'), c. 1400 (for 'university degree holder')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] bachelor",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An unmarried man.",
+      "DEF_ZH":"未婚男子；单身汉。",
+      "SENT_EN":"He remained a confirmed bachelor his entire life.",
+      "SENT_ZH":"他一生都是个老光棍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "single man",
+            "celibate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "husband",
+            "married man"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "spinster",
+            "bachelorette"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bachelor of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"A person who has been awarded the first university degree.",
+      "DEF_ZH":"学士学位获得者。",
+      "SENT_EN":"She is pursuing a Bachelor of Arts in English literature.",
+      "SENT_ZH":"她正在攻读英语文学学士学位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "master",
+            "doctorate",
+            "graduate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] bachelor",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "rare",
+        "historical"
+      ],
+      "DEF_EN":"(Historical) A young knight serving under the banner of another; a novice or junior member of a guild or company.",
+      "DEF_ZH":"（历史）服役于他人麾下的年轻骑士；行会或公司的初级或新手成员。",
+      "SENT_EN":"In medieval times, a bachelor might refer to a young warrior yet to prove himself.",
+      "SENT_ZH":"在中世纪，学士可能指的是尚未证明自己的年轻战士。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

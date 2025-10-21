@@ -1,0 +1,64 @@
+{
+  "WORD":"dental",
+  "IPA":"/ˈdɛntəl/",
+  "CONJUGATES":"dentally (adv)",
+  "ETYMOLOGY":"From Latin dentalis, from dens (genitive dentis) 'tooth'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"dental [adj]",
+      "POS":"adjective",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to teeth or dentistry.",
+      "DEF_ZH":"与牙齿或牙科有关的。",
+      "SENT_EN":"I have a dental appointment tomorrow for a check-up.",
+      "SENT_ZH":"我明天有一个牙科预约进行检查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "odontic",
+            "odontological"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dentist",
+            "dentistry",
+            "denture",
+            "orthodontics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dental [adj] (phonetics)",
+      "POS":"adjective",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun.",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"(Of a speech sound, especially a consonant) articulated with the tongue touching the upper front teeth.",
+      "DEF_ZH":"(指语音，尤指辅音) 齿音的，发音时舌尖接触上门齿的。",
+      "SENT_EN":"The 'th' sound in English is typically a dental fricative.",
+      "SENT_ZH":"英语中的“th”音通常是齿擦音。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "interdental",
+            "labiodental",
+            "alveolar"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Linguistics)"
+}

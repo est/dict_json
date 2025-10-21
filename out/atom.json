@@ -1,0 +1,66 @@
+{
+  "WORD":"atom",
+  "IPA":"/ˈætəm/",
+  "CONJUGATES":"atoms (pl)",
+  "ETYMOLOGY":"From Middle English, from Old French atome, from Latin atomus, from Greek atomos (ἄτομος), meaning 'indivisible' (a- 'not' + temnein 'to cut').",
+  "SINCE":"Late 14th Century (revived from Ancient Greek concept)",
+  "MEANINGS":[
+    {
+      "PATTERN":"atom",
+      "POS":"noun",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core scientific",
+        "chemistry",
+        "physics"
+      ],
+      "DEF_EN":"The smallest unit of ordinary matter that forms a chemical element, consisting of a nucleus of protons and neutrons surrounded by electrons.",
+      "DEF_ZH":"构成化学元素的最小单位，由原子核（质子和中子）和围绕其运行的电子组成。",
+      "SENT_EN":"All materials in the universe are made up of atoms.",
+      "SENT_ZH":"宇宙中的所有物质都由原子构成。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "molecule",
+            "element",
+            "nucleus",
+            "electron"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an atom of [sth]",
+      "POS":"noun",
+      "POS_TIP":"noun (figurative)",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"An extremely small piece or amount of something; a trace.",
+      "DEF_ZH":"极微小的量或事物；一丝一毫。",
+      "SENT_EN":"She did not show an atom of remorse for her actions.",
+      "SENT_ZH":"她对自己的行为没有表现出一丝一毫的悔意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "iota",
+            "smidgen",
+            "bit",
+            "trace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mass",
+            "bulk"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, Academic (Science)"
+}

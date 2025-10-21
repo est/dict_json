@@ -1,0 +1,64 @@
+{
+  "WORD":"mortgage",
+  "IPA":"/ˈmɔːrɡɪdʒ/",
+  "CONJUGATES":"mortgages | mortgaged | mortgaging",
+  "ETYMOLOGY":"From Old French morgage, derived from mort ('dead') and gage ('pledge'). The term implies that the pledge dies (is extinguished) when the debt is paid or when the property is taken if the debt is defaulted.",
+  "SINCE":"Late Middle English (14th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] mortgage (on [sth]) | take out a mortgage",
+      "POS":"n. count/uncount",
+      "POS_TIP":"Noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "finance",
+        "legal"
+      ],
+      "DEF_EN":"A legal agreement by which a bank or creditor lends money at interest in exchange for taking title to the debtor's property, with the condition that the transfer of title becomes void upon the payment of the debt.",
+      "DEF_ZH":"抵押贷款；按揭。银行或其他债权人与借款人签订的法律协议，以借款人的房产作为抵押物，在收取利息的前提下提供资金，借款人还清债务后抵押权解除。",
+      "SENT_EN":"They took out a 30-year mortgage to buy their first home.",
+      "SENT_ZH":"他们申请了30年期的抵押贷款来购买他们的第一套房。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "home loan",
+            "deed of trust"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "foreclosure",
+            "collateral"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mortgage [sth] (to [sb/sth])",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive",
+      "TAGS":[
+        "common",
+        "finance",
+        "action"
+      ],
+      "DEF_EN":"To legally pledge property or assets as security to a creditor for the repayment of a loan.",
+      "DEF_ZH":"抵押；按揭（房产或资产）。将财产或资产合法地抵押给债权人以作为偿还贷款的担保。",
+      "SENT_EN":"Due to overwhelming debt, they were forced to mortgage their farm.",
+      "SENT_ZH":"由于负债累累，他们被迫抵押了他们的农场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pledge",
+            "collateralize",
+            "hypothecate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Finance, Legal"
+}

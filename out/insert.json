@@ -1,0 +1,88 @@
+{
+  "WORD":"insert",
+  "IPA":"/ɪnˈsɜːrt/",
+  "CONJUGATES":"inserts | inserting | inserted",
+  "ETYMOLOGY":"From Latin inserere (past participle insertus), meaning 'to graft, plant, thrust in', formed from in- ('into, in') + serere ('to join, attach').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"insert [sth] into [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To place, fit, or thrust something into something else.",
+      "DEF_ZH":"插入；嵌入；放入。",
+      "SENT_EN":"Remember to insert the key gently into the lock.",
+      "SENT_ZH":"记住要轻轻地把钥匙插入锁中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "put in",
+            "embed",
+            "place",
+            "introduce"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "remove",
+            "extract",
+            "withdraw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"insert [sth] (into [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "computing",
+        "writing"
+      ],
+      "DEF_EN":"To introduce or incorporate text, data, or an image into a document or larger whole.",
+      "DEF_ZH":"插入（文字、数据、图片等）；添加；引入。",
+      "SENT_EN":"The editor decided to insert a short explanation into the footnotes.",
+      "SENT_ZH":"编辑决定在脚注中插入一个简短的解释。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "add",
+            "interject",
+            "interpose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an insert",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "printing",
+        "media"
+      ],
+      "DEF_EN":"A loose page or section, typically an advertisement or supplement, placed inside a magazine or newspaper.",
+      "DEF_ZH":"插页；（报纸或杂志中的）广告夹页或附页。",
+      "SENT_EN":"I found a discount coupon insert in the Sunday paper.",
+      "SENT_ZH":"我在周日报纸里发现了一张折扣券插页。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supplement",
+            "leaflet",
+            "flyer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally across mechanical, informational, and media contexts."
+}

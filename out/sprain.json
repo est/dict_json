@@ -1,0 +1,74 @@
+{
+  "WORD":"sprain",
+  "IPA":"/spreɪn/",
+  "CONJUGATES":"sprains | spraining | sprained",
+  "ETYMOLOGY":"From Anglo-Norman *espreindre* 'to press, to wring out', from Old French *espreindre*, from Latin *exprimere* 'to press out' (ex- 'out' + premere 'to press'). The 's' was lost in Middle French but re-added in English.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"sprain [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"To injure a joint (such as an ankle, wrist, or knee) by a sudden wrenching or twisting movement, causing the ligaments to stretch or tear.",
+      "DEF_ZH":"扭伤（关节），通过突然的扭曲或拉扯，使关节韧带拉伸或撕裂。",
+      "SENT_EN":"He sprained his ankle badly during the football match.",
+      "SENT_ZH":"他在足球比赛中严重扭伤了脚踝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wrench",
+            "twist",
+            "strain"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "injure",
+            "ligament",
+            "fracture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sprain",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"An injury to a joint in which the ligaments supporting it are stretched or torn, typically caused by a sudden wrenching movement.",
+      "DEF_ZH":"扭伤（名词），关节因突然的扭曲或拉扯而导致的韧带拉伸或撕裂的损伤。",
+      "SENT_EN":"She was diagnosed with a mild sprain after her fall.",
+      "SENT_ZH":"她摔倒后被诊断为轻度扭伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strain",
+            "wrench",
+            "twist"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "injury",
+            "ligament",
+            "fracture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common language, frequently used in medical, sports, and everyday contexts."
+}

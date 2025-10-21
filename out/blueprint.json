@@ -1,0 +1,105 @@
+{
+  "WORD":"blueprint",
+  "IPA":"/ˈbluːprɪnt/",
+  "CONJUGATES":"blueprints (n.) | blueprints (v.) | blueprinting | blueprinted",
+  "ETYMOLOGY":"From English 'blue' + 'print', referring to the cyanotype photographic process where white lines appear on a blue background, used for technical drawings.",
+  "SINCE":"1846",
+  "MEANINGS":[
+    {
+      "PATTERN":"blueprint",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A photographic print of a technical drawing, especially of an architectural or engineering plan, showing white lines on a blue background.",
+      "DEF_ZH":"一种技术图纸（特别是建筑或工程图纸）的照相印制件，通常为蓝底白线。",
+      "SENT_EN":"The engineer unrolled the blueprint, revealing the intricate design of the machine.",
+      "SENT_ZH":"工程师展开了蓝图，展示了机器复杂的内部设计。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plan",
+            "drawing",
+            "schematic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cad",
+            "diagram"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blueprint [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A detailed plan or scheme of action, often serving as a model or guide for future developments.",
+      "DEF_ZH":"一份详细的计划或行动方案，常作为未来发展的模型或指南。",
+      "SENT_EN":"The new policy provides a blueprint for sustainable urban development.",
+      "SENT_ZH":"这项新政策为可持续城市发展提供了蓝图。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plan",
+            "strategy",
+            "roadmap",
+            "master plan",
+            "framework"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "chaos",
+            "disorder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blueprint [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To plan something in detail, often by creating a comprehensive design or scheme.",
+      "DEF_ZH":"详细规划某事，通常通过制定全面的设计或方案。",
+      "SENT_EN":"The team is currently blueprinting the next phase of the project.",
+      "SENT_ZH":"团队目前正在详细规划项目的下一阶段。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plan",
+            "design",
+            "devise",
+            "outline"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "improvise",
+            "wing it"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

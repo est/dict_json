@@ -1,0 +1,91 @@
+{
+  "WORD":"epoch",
+  "IPA":"/ˈiːpɒk/",
+  "CONJUGATES":"epochs",
+  "ETYMOLOGY":"From Late Latin epocha, from Ancient Greek ἐποχή (epokhḗ, 'a fixed point, a stopping place'), derived from ἐπέχω (epékhō, 'I hold back, I stop').",
+  "SINCE":"1610s",
+  "MEANINGS":[
+    {
+      "PATTERN":"an epoch",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "common",
+        "historical"
+      ],
+      "DEF_EN":"A period of time in history or a person's life marked by notable events or characteristics; a major phase or turning point.",
+      "DEF_ZH":"历史上或某人生命中以重大事件或鲜明特征为标志的时期；一个重要的阶段或转折点。",
+      "SENT_EN":"The transition from silent films to 'talkies' marked a new epoch in cinema.",
+      "SENT_ZH":"从无声电影到有声电影的转变标志着电影业的一个新纪元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "era",
+            "age",
+            "period",
+            "time",
+            "juncture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "milestone",
+            "watershed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an epoch (geological/astronomical)",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "scientific",
+        "academic",
+        "technical"
+      ],
+      "DEF_EN":"(Geology) A unit of geological time that is a subdivision of a period. (Astronomy) A specific date and time for which astronomical calculations (like planetary positions) are made.",
+      "DEF_ZH":"（地质学）一个地质时期的细分单位，通常小于“纪”；（天文学）用于计算天体位置和轨道参数的特定参考时间点。",
+      "SENT_EN":"The Pliocene epoch preceded the Pleistocene epoch.",
+      "SENT_ZH":"上新世纪元早于更新世纪元。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "eon",
+            "period",
+            "age",
+            "geochronology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Unix epoch",
+      "POS":"nu",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "computing",
+        "jargon"
+      ],
+      "DEF_EN":"(Computing) The moment in time from which a computer system measures time, usually 00:00:00 Coordinated Universal Time (UTC) on Thursday, 1 January 1970.",
+      "DEF_ZH":"（计算机）计算机系统测量系统时间的起始参考点，通常是1970年1月1日协调世界时（UTC）00:00:00。",
+      "SENT_EN":"The system clock counts the seconds elapsed since the Unix epoch.",
+      "SENT_ZH":"系统时钟计算着自Unix纪元以来所经过的秒数。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "timestamp",
+            "UTC",
+            "Unix time"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Literary, Scientific"
+}

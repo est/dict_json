@@ -1,0 +1,171 @@
+{
+  "WORD":"bug",
+  "IPA":"/bʌɡ/",
+  "CONJUGATES":"bugs (n. pl.) | bugged (v. past/p.p.) | bugging (v. pres. part.)",
+  "ETYMOLOGY":"Mid-17th century, possibly from Middle English *bugge* (frightening object, goblin). The sense of 'defect' (especially technical/computing) emerged late 19th century, referring to difficulties in mechanical systems.",
+  "SINCE":"c. 1620s (insect sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (insect)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small insect, often one considered a pest or carrier of disease.",
+      "DEF_ZH":"小型昆虫，通常指害虫或疾病传播者。",
+      "SENT_EN":"There are too many flying bugs in the kitchen during summer.",
+      "SENT_ZH":"夏天厨房里有太多飞虫了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insect",
+            "arthropod",
+            "creepy-crawly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (error/defect)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"An error or flaw in a computer program, system, or machine.",
+      "DEF_ZH":"计算机程序、系统或机器中的错误或故障（漏洞）。",
+      "SENT_EN":"We need to fix this critical bug before the software release.",
+      "SENT_ZH":"在软件发布前，我们需要修复这个关键的漏洞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glitch",
+            "error",
+            "defect",
+            "fault"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bug [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To annoy or irritate someone.",
+      "DEF_ZH":"惹恼或烦扰某人。",
+      "SENT_EN":"Stop bugging me with silly questions!",
+      "SENT_ZH":"别再用愚蠢的问题烦我了！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pester",
+            "annoy",
+            "irritate",
+            "bother"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bug [sth] (illness)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "medical"
+      ],
+      "DEF_EN":"A minor, temporary illness, usually caused by a virus or bacteria (e.g., stomach bug, flu bug).",
+      "DEF_ZH":"轻微、暂时的疾病，通常由病毒或细菌引起（如肠胃炎）。",
+      "SENT_EN":"The whole office seems to have caught the same flu bug.",
+      "SENT_ZH":"好像整个办公室都得了同样的流感。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "virus",
+            "illness",
+            "infection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bug [sth] (device)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "spy jargon"
+      ],
+      "DEF_EN":"To install a hidden microphone or listening device in a room or object.",
+      "DEF_ZH":"在房间或物品中安装隐藏的窃听器。",
+      "SENT_EN":"They believe their private conversations are being bugged.",
+      "SENT_ZH":"他们相信他们的私人谈话正在被窃听。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wiretap",
+            "eavesdrop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] bug (listening device)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "spy jargon"
+      ],
+      "DEF_EN":"A concealed miniature microphone used for secret listening.",
+      "DEF_ZH":"用于秘密窃听的微型隐藏麦克风（窃听器）。",
+      "SENT_EN":"The security team swept the area for hidden bugs.",
+      "SENT_ZH":"安全团队搜查了该区域，寻找隐藏的窃听器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wiretap",
+            "spy device"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"catch the [sth] bug",
+      "POS":"n",
+      "POS_TIP":"noun (used idiomatically)",
+      "TAGS":[
+        "idiom",
+        "informal"
+      ],
+      "DEF_EN":"A strong, infectious enthusiasm for a particular activity or hobby (e.g., the travel bug, the fishing bug).",
+      "DEF_ZH":"对某种活动或爱好的强烈、具有感染力的热情（如旅行瘾、钓鱼瘾）。",
+      "SENT_EN":"She caught the travel bug after her first trip abroad and now she can't stay put.",
+      "SENT_ZH":"她第一次出国旅行后就迷上了旅行，现在她无法安定下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "craze",
+            "enthusiasm",
+            "addiction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage; highly common across technical, conversational, and informal contexts."
+}

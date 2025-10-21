@@ -1,0 +1,119 @@
+{
+  "WORD":"differential",
+  "IPA":"/ˌdɪfəˈrɛnʃəl/",
+  "CONJUGATES":"differential (adj) | differentials (n. plural)",
+  "ETYMOLOGY":"From Latin differentia ('difference') + -alis (adjectival suffix). As a noun in mathematics, attested from the late 17th century; as an adjective, earlier.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"differential [sth]",
+      "POS":"adjective",
+      "POS_TIP":"An adjective describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Relating to or constituting a difference; based on a difference.",
+      "DEF_ZH":"有差异的；区别的；基于差异的。",
+      "SENT_EN":"They offered a differential pay scale based on experience and qualifications.",
+      "SENT_ZH":"他们根据经验和资质提供了差异化的薪酬等级。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distinctive",
+            "discriminating",
+            "varying"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "uniform",
+            "identical",
+            "standard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the differential of [sth] | a differential equation",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"In mathematics, an infinitesimal difference between two values of a variable; or, the derivative of a function.",
+      "DEF_ZH":"(数学) 微分；变量的无限小差量；导数。",
+      "SENT_EN":"Calculating the differential of the function f(x) is a fundamental concept in calculus.",
+      "SENT_ZH":"计算函数f(x)的微分是微积分中的一个基本概念。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "calculus",
+            "derivative",
+            "infinitesimal",
+            "integral"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a differential | the differential in [vehicle]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "mechanics",
+        "automotive"
+      ],
+      "DEF_EN":"A gear assembly in a vehicle that allows different driving wheels or shafts to rotate at different speeds, especially when turning.",
+      "DEF_ZH":"(机械) 差速器；车辆中允许驱动轮或轴以不同速度转动的齿轮装置。",
+      "SENT_EN":"The car's differential ensures smooth turning by allowing the outer wheel to spin faster than the inner wheel.",
+      "SENT_ZH":"汽车的差速器通过允许外轮比内轮转速更快来确保平稳转弯。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gearbox",
+            "axle",
+            "transmission",
+            "driveshaft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a differential | a wage differential | price differential",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "formal",
+        "economics",
+        "sociology"
+      ],
+      "DEF_EN":"A difference in amount, price, rate, or status between two or more things or groups, often referring to wages or costs.",
+      "DEF_ZH":"差额；差异；(尤指工资、价格等方面的) 差别。",
+      "SENT_EN":"There is a significant wage differential between workers in the city and those in rural areas.",
+      "SENT_ZH":"城市工人与农村工人之间存在显著的工资差额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disparity",
+            "gap",
+            "variance",
+            "imbalance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical"
+}

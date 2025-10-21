@@ -1,0 +1,114 @@
+{
+  "WORD":"cop",
+  "IPA":"/kɑːp/ | /kɒp/",
+  "CONJUGATES":"cop (singular noun) | cops (plural noun) | cop (base verb) | cops (3rd person singular present) | copping (present participle) | copped (past tense/past participle)",
+  "ETYMOLOGY":"As a verb ('to catch, seize'), from Old French caper ('to seize, take') or from Latin capere ('to take, seize'). The noun meaning ('policeman') emerged later, perhaps as a shortened form of 'copper' (from 'cop' + '-er'), or directly from the verb 'to cop' meaning 'to catch'.",
+  "SINCE":"Mid-19th century (verb); late 19th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] cop",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "colloquial",
+        "core word"
+      ],
+      "DEF_EN":"A police officer.",
+      "DEF_ZH":"一名警官；警察。",
+      "SENT_EN":"The cops arrived at the scene just minutes after the call.",
+      "SENT_ZH":"报警后几分钟，警察就赶到了现场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "police officer",
+            "policeman",
+            "policewoman",
+            "constable",
+            "trooper"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gendarme",
+            "sheriff"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cop [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "colloquial"
+      ],
+      "DEF_EN":"To get, obtain, or receive something, often something undesirable like a punishment or something desirable like a prize.",
+      "DEF_ZH":"获得，得到，尤指令人不快的事物（如惩罚）或奖品。",
+      "SENT_EN":"He copped a lot of flak for his controversial comments.",
+      "SENT_ZH":"他因其有争议的言论而受到了大量抨击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "get",
+            "receive",
+            "obtain",
+            "acquire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cop out",
+      "POS":"vi + adv",
+      "POS_TIP":"intransitive verb + adverb",
+      "TAGS":[
+        "informal",
+        "colloquial",
+        "phrasal verb"
+      ],
+      "DEF_EN":"To avoid doing something that you should do, especially by finding an excuse.",
+      "DEF_ZH":"逃避责任或承诺，尤其通过找借口。",
+      "SENT_EN":"Don't try to cop out of your responsibilities now.",
+      "SENT_ZH":"现在别想推卸你的责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bail out",
+            "back out",
+            "renege",
+            "shirk",
+            "evade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cop a plea",
+      "POS":"vphr",
+      "POS_TIP":"verb phrase",
+      "TAGS":[
+        "legal slang",
+        "informal"
+      ],
+      "DEF_EN":"(Legal) To plead guilty to a lesser charge in exchange for a lighter sentence.",
+      "DEF_ZH":"（法律）认罪以换取较轻的惩罚。",
+      "SENT_EN":"Facing overwhelming evidence, the suspect decided to cop a plea.",
+      "SENT_ZH":"面对确凿的证据，嫌疑犯决定认罪以求轻判。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plea bargain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Mainly informal and colloquial; the noun form is very common in everyday speech."
+}

@@ -1,0 +1,96 @@
+{
+  "WORD":"mistake",
+  "IPA":"/mɪˈsteɪk/",
+  "CONJUGATES":"mistake (base, v, n) | mistakes (3rd sing. present, v; plural, n) | mistaking (present participle, v) | mistook (past simple, v) | mistaken (past participle, v; adjective)",
+  "ETYMOLOGY":"From Old Norse mistaka 'to take by mistake, misunderstand', from mis- 'amiss, wrongly' + taka 'to take'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"mistake [sth/sb] for [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, meaning it takes a direct object. Often followed by 'for' when confusing one thing/person with another.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To incorrectly identify or understand someone or something, often confusing them with another.",
+      "DEF_ZH":"误认；误解；弄错（某人或某物）",
+      "SENT_EN":"I often mistake her for her twin sister.",
+      "SENT_ZH":"我经常把她误认为她的孪生姐姐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confuse",
+            "mix up",
+            "misunderstand",
+            "misinterpret"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mistake",
+      "POS":"n",
+      "POS_TIP":"A noun, a word that names something.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An action, opinion, or judgment that is incorrect or wrong.",
+      "DEF_ZH":"错误；失误；过失",
+      "SENT_EN":"It was a big mistake to underestimate our opponents.",
+      "SENT_ZH":"低估我们的对手是一个大错误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "error",
+            "blunder",
+            "oversight",
+            "fault"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "correctness",
+            "accuracy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] be mistaken | a mistaken idea/belief",
+      "POS":"adj",
+      "POS_TIP":"An adjective, a word that describes a noun or pronoun. 'Mistaken' is the past participle used adjectivally.",
+      "TAGS":[
+        "common",
+        "derivative"
+      ],
+      "DEF_EN":"Wrong in one's opinion or judgment; based on or involving an error.",
+      "DEF_ZH":"错误的；弄错了的；被误解的",
+      "SENT_EN":"You are mistaken if you think this will solve the problem.",
+      "SENT_ZH":"如果你认为这能解决问题，那你就错了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wrong",
+            "incorrect",
+            "erroneous",
+            "flawed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "correct",
+            "accurate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, suitable for both formal and informal contexts."
+}

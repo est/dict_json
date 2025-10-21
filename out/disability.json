@@ -1,0 +1,88 @@
+{
+  "WORD":"disability",
+  "IPA":"/ˌdɪsəˈbɪlɪti/",
+  "CONJUGATES":"disabilities (plural)",
+  "ETYMOLOGY":"Formed in English from the prefix 'dis-' (negation, removal) + 'ability'. First recorded in Middle English as 'disabilite', originating from Medieval Latin or Old French 'desabilité'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s disability | a disability",
+      "POS":"n, mass/count",
+      "POS_TIP":"noun, mass or countable",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical",
+        "social"
+      ],
+      "DEF_EN":"A physical or mental condition that limits a person's movements, senses, or activities.",
+      "DEF_ZH":"身体或精神上的状况，限制了一个人的行动、感官或主要生活活动的能力。",
+      "SENT_EN":"The organization works to promote the rights of people with disabilities.",
+      "SENT_ZH":"该组织致力于促进残疾人的权利。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impairment",
+            "handicap",
+            "condition"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ableism",
+            "disabled"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"legal disability | under disability",
+      "POS":"n, mass",
+      "POS_TIP":"noun, mass",
+      "TAGS":[
+        "legal",
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"A legal restriction, lack of qualification, or incapacity to perform certain acts (such as signing a contract or voting).",
+      "DEF_ZH":"法律上的限制、缺乏资格或无能力执行某些行为（如签订合同或投票）。",
+      "SENT_EN":"As a minor, she was under a legal disability to enter into the agreement.",
+      "SENT_ZH":"作为未成年人，她在法律上没有资格订立该协议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incapacity",
+            "restriction",
+            "disqualification"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disability benefits | payments",
+      "POS":"n, mass",
+      "POS_TIP":"noun, mass",
+      "TAGS":[
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"Financial support provided by the government or an insurer due to a person's inability to work.",
+      "DEF_ZH":"由于个人无法工作，由政府或保险公司提供的经济援助或福利金。",
+      "SENT_EN":"He applied for disability payments after his accident.",
+      "SENT_ZH":"事故发生后，他申请了残疾津贴。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "insurance",
+            "welfare"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Legal"
+}

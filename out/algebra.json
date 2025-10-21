@@ -1,0 +1,60 @@
+{
+  "WORD":"algebra",
+  "IPA":"/ˈældʒɪbrə/",
+  "CONJUGATES":"plural: algebras",
+  "ETYMOLOGY":"From Medieval Latin *algebra*, from Arabic *al-jabr* (الجبر, meaning 'the reunion of broken parts, bone-setting, algebra'), derived from the verb *jabara* ('to reunite, to restore'). The term gained prominence from the title of the 9th-century Arabic mathematical treatise *Kitab al-Jabr wa-l-Muqabala* by Al-Khwarizmi.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"algebra",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"The branch of mathematics that uses symbols (such as letters) to represent numbers and quantities in formulas and equations, and deals with the manipulation of these symbols according to certain rules.",
+      "DEF_ZH":"数学的一个分支，使用符号（如字母）表示公式和方程中的数字和量，并根据特定规则对这些符号进行操作。",
+      "SENT_EN":"She found algebra more challenging than geometry in high school.",
+      "SENT_ZH":"她觉得高中代数比几何更具挑战性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "arithmetic",
+            "geometry",
+            "calculus",
+            "trigonometry",
+            "logic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an algebra",
+      "POS":"countable noun",
+      "POS_TIP":"countable noun: a noun that can be counted, such as 'book' or 'chair'; it has a plural form.",
+      "TAGS":[
+        "mathematics",
+        "technical"
+      ],
+      "DEF_EN":"A specific system of operations or relations between elements, often within a particular mathematical structure, such as Boolean algebra or linear algebra.",
+      "DEF_ZH":"一种特定的运算或元素之间关系的系统，通常在特定的数学结构内，例如布尔代数或线性代数。",
+      "SENT_EN":"Boolean algebra is fundamental to the design of digital circuits.",
+      "SENT_ZH":"布尔代数是数字电路设计的基础。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Boolean algebra",
+            "linear algebra",
+            "abstract algebra",
+            "matrix algebra"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"academic, formal, mathematical"
+}

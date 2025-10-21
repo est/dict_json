@@ -1,0 +1,109 @@
+{
+  "WORD":"volunteer",
+  "IPA":"/ˌvɑːlənˈtɪər/",
+  "CONJUGATES":"volunteers | volunteering | volunteered",
+  "ETYMOLOGY":"From Middle French *volontaire* (adj. 'voluntary', noun 'volunteer'), ultimately derived from Latin *voluntas* (will, desire, free choice). Entered English in the early 17th century, initially referring to military service.",
+  "SINCE":"c. 1600s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] volunteer (for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "civic"
+      ],
+      "DEF_EN":"A person who performs services for free, typically for a non-profit organization, community, or cause.",
+      "DEF_ZH":"志愿者；志愿服务者；自愿参加者。",
+      "SENT_EN":"She works as a volunteer at the local library three days a week.",
+      "SENT_ZH":"她每周三天在当地图书馆做志愿者工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "helper",
+            "unpaid worker",
+            "altruist"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "charity",
+            "donation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"volunteer (to do [sth]) | volunteer (for [sth])",
+      "POS":"vitr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To freely offer one's service, time, or presence for a task or purpose without being prompted or obligated.",
+      "DEF_ZH":"自愿提出；志愿做；自告奋勇。",
+      "SENT_EN":"Many residents volunteered to clean up the park after the fireworks display.",
+      "SENT_ZH":"许多居民自愿清理烟火表演后的公园。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offer",
+            "proffer",
+            "step forward"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "be forced",
+            "be compelled"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"volunteer [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To offer or provide (information, a statement, or services) without being asked or pressured.",
+      "DEF_ZH":"主动提供（信息或声明）。",
+      "SENT_EN":"The witness suddenly volunteered a crucial piece of evidence that changed the direction of the investigation.",
+      "SENT_ZH":"那位证人突然主动提供了一条关键证据，改变了调查的方向。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disclose",
+            "reveal",
+            "state freely"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] volunteer",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "biology"
+      ],
+      "DEF_EN":"A plant that grows spontaneously from seed, rather than being intentionally planted or sown.",
+      "DEF_ZH":"自生植物；自发苗（未经种植而自己生长的植物）。",
+      "SENT_EN":"We had several tomato volunteers pop up in the compost pile this year.",
+      "SENT_ZH":"今年我们在堆肥堆里冒出了好几棵西红柿自发苗。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

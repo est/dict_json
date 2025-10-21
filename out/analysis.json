@@ -1,0 +1,113 @@
+{
+  "WORD":"analysis",
+  "IPA":"/əˈnælɪsɪs/",
+  "CONJUGATES":"plural: analyses /əˈnælɪsiːz/",
+  "ETYMOLOGY":"From Ancient Greek ἀνάλυσις (análysis, 'a loosening, resolution'), from ἀναλύειν (analúein, 'to unloose, resolve'), compounded from ἀνά (aná, 'up, throughout') + λύειν (lúein, 'to loosen').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"analysis (of [sth])",
+      "POS":"n. uncount/count",
+      "POS_TIP":"Noun, either used generally (uncountable) or referring to a specific study (countable).",
+      "TAGS":[
+        "core word",
+        "academic",
+        "formal"
+      ],
+      "DEF_EN":"The process of examining something complex in detail, in order to understand its nature, structure, or determine its essential features.",
+      "DEF_ZH":"对复杂事物进行详细审视、分解和研究的过程，目的是理解其性质、结构或确定其基本特征；分析；解析。",
+      "SENT_EN":"The report provides a detailed analysis of the current economic climate.",
+      "SENT_ZH":"这份报告对当前的经济形势进行了详细的分析。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examination",
+            "investigation",
+            "scrutiny",
+            "breakdown"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "analyze",
+            "synthesis",
+            "analytics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chemical analysis | statistical analysis",
+      "POS":"n. uncount",
+      "POS_TIP":"Noun, used generally to denote a field or type of study.",
+      "TAGS":[
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"The determination of the component parts of a substance or data set.",
+      "DEF_ZH":"确定物质或数据集的组成部分、结构或含量；化验；统计。",
+      "SENT_EN":"They sent the samples for chemical analysis to determine their purity.",
+      "SENT_ZH":"他们将样本送去进行化学分析以确定其纯度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "assay",
+            "qualitative",
+            "quantitative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in analysis",
+      "POS":"n. uncount",
+      "POS_TIP":"Noun, used as a shortened form.",
+      "TAGS":[
+        "psychology",
+        "informal"
+      ],
+      "DEF_EN":"Short for psychoanalysis; a therapeutic technique for treating mental disorders by investigating the interaction of conscious and unconscious elements in the patient's mind.",
+      "DEF_ZH":"精神分析（的简称）；一种通过探索患者意识和潜意识的相互作用来治疗精神障碍的疗法。",
+      "SENT_EN":"After years of turmoil, he decided to go into analysis.",
+      "SENT_ZH":"经历了多年的动荡之后，他决定接受精神分析。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "psychoanalysis",
+            "therapy",
+            "Freud"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Real Analysis | Complex Analysis",
+      "POS":"n. uncount",
+      "POS_TIP":"Noun, used as a proper name for a field of study.",
+      "TAGS":[
+        "mathematics",
+        "specialized",
+        "academic"
+      ],
+      "DEF_EN":"A major branch of mathematics that deals with continuous change, limits, continuity, differentiation, and integration (calculus and its extensions).",
+      "DEF_ZH":"数学的一个主要分支，研究连续变化、极限、连续性、微分和积分（微积分及其扩展）。",
+      "SENT_EN":"Analysis is often considered the foundation of modern mathematics.",
+      "SENT_ZH":"分析学通常被认为是现代数学的基础。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "calculus",
+            "topology",
+            "algebra"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Technical"
+}

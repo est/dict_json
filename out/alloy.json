@@ -1,0 +1,88 @@
+{
+  "WORD":"alloy",
+  "IPA":"/ˈælɔɪ/, /əˈlɔɪ/",
+  "CONJUGATES":"alloys (n.) | alloys (v.) | alloying | alloyed",
+  "ETYMOLOGY":"From Old French aloi (mixture, standard of fineness), from aloier (to combine, mix, unite), from Latin alligare (to bind to), from ad- 'to' + ligare 'to bind'.",
+  "SINCE":"Late Middle English (late 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] alloy",
+      "POS":"n",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "material science"
+      ],
+      "DEF_EN":"A metal made by combining two or more metallic elements, especially to give greater strength or resistance to corrosion.",
+      "DEF_ZH":"两种或多种金属元素（尤指为了增加强度或耐腐蚀性）熔合而成的金属。",
+      "SENT_EN":"Stainless steel is a common alloy of iron, carbon, and other metals like chromium and nickel.",
+      "SENT_ZH":"不锈钢是铁、碳以及铬、镍等其他金属的常见合金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "brass",
+            "bronze",
+            "steel",
+            "amalgam",
+            "mixture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"alloy [sth] (with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (a verb that takes one or more objects)",
+      "TAGS":[
+        "common",
+        "technical",
+        "material science"
+      ],
+      "DEF_EN":"To mix metals to form an alloy.",
+      "DEF_ZH":"将金属混合制成合金。",
+      "SENT_EN":"Copper is often alloyed with zinc to produce brass.",
+      "SENT_ZH":"铜常与锌合金制成黄铜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mix",
+            "blend",
+            "combine",
+            "amalgamate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an alloy of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "rare",
+        "figurative",
+        "old word"
+      ],
+      "DEF_EN":"A mixture, especially one that reduces the quality or value of the original; something added that detracts from the value or purity.",
+      "DEF_ZH":"混合物，尤指降低原有品质或价值的掺杂物；减损价值或纯度的添加物。",
+      "SENT_EN":"His seemingly noble intentions were an alloy of ambition and self-interest.",
+      "SENT_ZH":"他看似高尚的意图，实则是野心和私利的混合体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mixture",
+            "blend",
+            "admixture",
+            "adulterant",
+            "impurity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical (especially for materials science), General"
+}

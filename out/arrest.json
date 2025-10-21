@@ -1,0 +1,107 @@
+{
+  "WORD":"arrest",
+  "IPA":"/əˈrɛst/",
+  "CONJUGATES":"arrested | arresting | arrests",
+  "ETYMOLOGY":"From Old French arester (to stop, stay), from Vulgar Latin *arrestare, combining Latin ad- (to, toward) and restare (to remain, stay back).",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"arrest [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Legal",
+        "Core word"
+      ],
+      "DEF_EN":"To take a person into custody by legal authority.",
+      "DEF_ZH":"根据法律权限逮捕或拘留某人。",
+      "SENT_EN":"The police had to arrest the man for public disturbance.",
+      "SENT_ZH":"警方不得不因该男子扰乱公共秩序而将其逮捕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apprehend",
+            "detain",
+            "capture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "warrant",
+            "custody"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"arrest [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Medical"
+      ],
+      "DEF_EN":"To stop or check a movement, action, or progressive development, such as a disease.",
+      "DEF_ZH":"阻止或延缓（运动、行动或发展，尤指疾病的恶化）。",
+      "SENT_EN":"Doctors hope the new medication will arrest the spread of the infection.",
+      "SENT_ZH":"医生希望这种新药能阻止感染的扩散。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "halt",
+            "check",
+            "inhibit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"arrest [sb's] attention",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Idiomatic",
+        "Common"
+      ],
+      "DEF_EN":"To catch and hold the attention or interest of someone immediately.",
+      "DEF_ZH":"立即吸引（某人的）注意或兴趣。",
+      "SENT_EN":"The strange silence arrested her attention; she knew something was wrong.",
+      "SENT_ZH":"那份奇怪的寂静引起了她的注意；她知道有些不对劲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "captivate",
+            "engross"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an arrest",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Legal",
+        "Core word"
+      ],
+      "DEF_EN":"The act of taking a person into legal custody.",
+      "DEF_ZH":"逮捕或拘留的行为；逮捕令。",
+      "SENT_EN":"The police made three arrests following the riot.",
+      "SENT_ZH":"骚乱发生后，警方进行了三次逮捕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apprehension",
+            "detention"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common (Verb/Noun), Legal (Primary usage)"
+}

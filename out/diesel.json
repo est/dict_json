@@ -1,0 +1,87 @@
+{
+  "WORD":"diesel",
+  "IPA":"/ˈdiːzəl/",
+  "CONJUGATES":"diesels",
+  "ETYMOLOGY":"Named after Rudolf Diesel (1858–1913), German engineer who invented the compression-ignition engine in 1892.",
+  "SINCE":"c. 1902",
+  "MEANINGS":[
+    {
+      "PATTERN":"diesel [U]",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "fuel",
+        "chemistry"
+      ],
+      "DEF_EN":"A heavy petroleum fraction (fuel oil) used as fuel in compression-ignition engines (diesel engines).",
+      "DEF_ZH":"一种重质石油馏分（燃料油），用于压缩点火式发动机（柴油机）的燃料。",
+      "SENT_EN":"We need to stop and refill the tank with diesel.",
+      "SENT_ZH":"我们需要停车用柴油加满油箱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "diesel oil",
+            "petrodiesel"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gasoline",
+            "petrol",
+            "kerosene",
+            "biodiesel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diesel [C]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "automotive",
+        "engineering"
+      ],
+      "DEF_EN":"A compression-ignition engine, or a vehicle (such as a locomotive or truck) powered by a diesel engine.",
+      "DEF_ZH":"压缩点火式发动机（柴油机），或指使用柴油机作为动力的车辆（如卡车或机车）。",
+      "SENT_EN":"The fleet consists of five new diesels and three older gasoline trucks.",
+      "SENT_ZH":"这支车队由五辆新型柴油车和三辆旧汽油卡车组成。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "locomotive",
+            "gasoline engine",
+            "electric motor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diesel [adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "attribute",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or operated by a diesel engine or using diesel fuel.",
+      "DEF_ZH":"与柴油发动机或燃料有关的；使用柴油动力的。",
+      "SENT_EN":"The EU is tightening regulations on diesel emissions.",
+      "SENT_ZH":"欧盟正在收紧对柴油排放的法规。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "petrol-powered",
+            "gas-fired"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Automotive, Engineering"
+}

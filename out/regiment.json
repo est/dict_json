@@ -1,0 +1,97 @@
+{
+  "WORD":"regiment",
+  "IPA":"/ˈrɛdʒɪmənt/",
+  "CONJUGATES":"regiments | regimented | regimenting",
+  "ETYMOLOGY":"From Middle French *régiment*, from Late Latin *regimentum* ('rule, government'), derived from Latin *regere* ('to rule, guide'). The military sense emerged later, shifting from general 'rule' to 'a body of men under one rule'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] regiment [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "core word",
+        "military",
+        "organizational"
+      ],
+      "DEF_EN":"A permanent unit of an army, typically comprising several battalions or companies, and commanded by a colonel or similar officer.",
+      "DEF_ZH":"军队的永久性单位，通常由几营或几连组成，由上校或类似军官指挥；团。",
+      "SENT_EN":"The entire infantry regiment was honored for its bravery in the recent campaign.",
+      "SENT_ZH":"整个步兵团因在最近的战役中表现出的英勇而受到表彰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "battalion",
+            "brigade",
+            "division",
+            "corps"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"regiment [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb.",
+      "TAGS":[
+        "common",
+        "critical",
+        "formal"
+      ],
+      "DEF_EN":"To organize or control strictly and systematically, often excessively, especially in a uniform manner.",
+      "DEF_ZH":"对（某人/某事物）进行严格且系统化的（通常是过度）组织、控制或管理。",
+      "SENT_EN":"They complained that factory workers were too highly regimented and lacked personal freedom.",
+      "SENT_ZH":"他们抱怨工厂工人被管束得太严格，缺乏个人自由。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "control",
+            "discipline",
+            "standardize",
+            "regulate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "free",
+            "liberalize",
+            "loosen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] regiment [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A large or organized group of people or things.",
+      "DEF_ZH":"一大群或有组织的一群人或事物。",
+      "SENT_EN":"A whole regiment of lawyers descended upon the courtroom to handle the complex case.",
+      "SENT_ZH":"一大群律师涌向法庭处理这个复杂的案件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crowd",
+            "host",
+            "multitude"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "regimen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, military, or critical descriptions of organization."
+}

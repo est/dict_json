@@ -1,0 +1,133 @@
+{
+  "WORD":"rip",
+  "IPA":"/rɪp/",
+  "CONJUGATES":"rips | ripping | ripped",
+  "ETYMOLOGY":"Middle English, possibly from Germanic roots, related to Low German *rippen* or Swedish *rippa* (to tear or strip).",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"rip [sth] (open/off)",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive Verb | Intransitive Verb",
+      "TAGS":[
+        "Core",
+        "Action"
+      ],
+      "DEF_EN":"To tear, cut, or pull apart quickly and violently.",
+      "DEF_ZH":"快速、猛烈地撕裂、割开或扯下某物。",
+      "SENT_EN":"She ripped the wrapping paper off the present.",
+      "SENT_ZH":"她把礼物上的包装纸快速撕了下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tear",
+            "shred",
+            "split",
+            "slash"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rip up",
+            "rip out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rip",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core",
+        "Physical"
+      ],
+      "DEF_EN":"A tear or split in something, especially cloth or paper.",
+      "DEF_ZH":"（尤指布料或纸上的）裂口，撕痕。",
+      "SENT_EN":"He noticed a large rip in the seam of his coat.",
+      "SENT_ZH":"他注意到他外套接缝处有一个很大的裂口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tear",
+            "slit",
+            "gash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rip [sth] (from source)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "Technical",
+        "Computing",
+        "Slang"
+      ],
+      "DEF_EN":"To copy data, typically audio or video, from a source medium (like a CD or DVD) to a computer file.",
+      "DEF_ZH":"（俚语/技术）从源介质（如CD或DVD）上提取或复制数据（通常是音频或视频）到计算机文件。",
+      "SENT_EN":"I need to rip the entire movie collection to my hard drive.",
+      "SENT_ZH":"我需要把整套电影集都从光盘上转存到我的硬盘里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extract",
+            "digitize",
+            "copy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rip [through/along] [loc]",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb",
+      "TAGS":[
+        "Informal",
+        "Movement"
+      ],
+      "DEF_EN":"To move very fast or violently through a space.",
+      "DEF_ZH":"（非正式）快速或猛烈地移动。",
+      "SENT_EN":"The speedboat ripped across the water at top speed.",
+      "SENT_ZH":"那艘快艇以最高速度在水面上飞驰而过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "race",
+            "zoom",
+            "streak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rip",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Nautical",
+        "Informal"
+      ],
+      "DEF_EN":"A strong, often dangerous current flowing out to sea; a rip current or riptide.",
+      "DEF_ZH":"（口语/航海）一股强劲、通常危险的、流向大海的水流（即离岸流或回流）。",
+      "SENT_EN":"Swimmers were warned about the strong rips near the headland.",
+      "SENT_ZH":"游泳者们被警告要小心海角附近的强大离岸流。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "riptide",
+            "undertow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with some meanings specific to technical or informal contexts."
+}

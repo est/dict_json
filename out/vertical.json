@@ -1,0 +1,90 @@
+{
+  "WORD":"vertical",
+  "IPA":"/ˈvɜːrtɪkəl/",
+  "CONJUGATES":"vertically (adv) | verticality (n)",
+  "ETYMOLOGY":"From Late Latin verticalis, derived from Latin vertex (summit, highest point, pole), referring to the direction toward the zenith.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"vertical [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "geometry"
+      ],
+      "DEF_EN":"At right angles to a horizontal plane; upright or plumb.",
+      "DEF_ZH":"垂直的；竖直的；与水平面成直角的。",
+      "SENT_EN":"The wall was perfectly vertical, making the climb difficult.",
+      "SENT_ZH":"这面墙非常垂直，导致攀爬十分困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "upright",
+            "perpendicular",
+            "sheer",
+            "plumb"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "horizontal",
+            "flat",
+            "level"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vertical [integration/structure]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "business",
+        "technical"
+      ],
+      "DEF_EN":"Relating to a hierarchy or system of control, often involving all stages of production or a top-down structure.",
+      "DEF_ZH":"纵向的；垂直整合的（指涵盖从上至下所有阶段或层次的）。",
+      "SENT_EN":"The company decided on a vertical integration strategy, controlling manufacturing through retail.",
+      "SENT_ZH":"该公司决定采用垂直整合战略，控制从制造到零售的各个环节。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "vertical integration",
+            "vertical market"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a vertical",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "business",
+        "jargon",
+        "common"
+      ],
+      "DEF_EN":"A specific market, industry, or sector.",
+      "DEF_ZH":"（商业或技术中的）垂直行业；特定市场领域。",
+      "SENT_EN":"We focus our sales efforts on the financial services vertical.",
+      "SENT_ZH":"我们把销售重点放在金融服务垂直行业上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sector",
+            "segment",
+            "niche",
+            "industry"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Business"
+}

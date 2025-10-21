@@ -1,0 +1,74 @@
+{
+  "WORD":"recession",
+  "IPA":"/rɪˈsɛʃən/",
+  "CONJUGATES":"recessions",
+  "ETYMOLOGY":"From Latin recessiō (a going back, retreat), from recedere (re- 'back' + cedere 'go'). Originally meant 'act of retiring or withdrawing' (17th century). The economic sense developed in the early 20th century.",
+  "SINCE":"Early 17th century (economic sense: early 20th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"recession",
+      "POS":"noun",
+      "POS_TIP":"A naming word, referring to a person, place, thing, or concept.",
+      "TAGS":[
+        "core word",
+        "economics",
+        "common"
+      ],
+      "DEF_EN":"A period of temporary economic decline during which trade and industrial activity are reduced, typically defined by a fall in GDP in two successive quarters.",
+      "DEF_ZH":"经济活动暂时衰退的时期，通常指连续两个季度国内生产总值（GDP）下降。",
+      "SENT_EN":"The government is implementing new policies to pull the country out of recession.",
+      "SENT_ZH":"政府正在实施新政策，以使国家摆脱衰退。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "downturn",
+            "slump",
+            "contraction"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "boom",
+            "expansion",
+            "growth"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "depression",
+            "stagflation",
+            "GDP"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recession [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A naming word, referring to a person, place, thing, or concept.",
+      "TAGS":[
+        "formal",
+        "scientific",
+        "rare"
+      ],
+      "DEF_EN":"The action or process of receding, withdrawing, or moving backward.",
+      "DEF_ZH":"后退、撤回或向后移动的动作或过程。",
+      "SENT_EN":"The geologist measured the annual rate of recession of the shoreline.",
+      "SENT_ZH":"地质学家测量了海岸线每年后退的速度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retreat",
+            "withdrawal",
+            "receding"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Economic, Financial, General discourse"
+}

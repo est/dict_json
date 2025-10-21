@@ -1,0 +1,99 @@
+{
+  "WORD":"amplify",
+  "IPA":"/ˈæm.plɪ.faɪ/",
+  "CONJUGATES":"amplify | amplifies | amplifying | amplified",
+  "ETYMOLOGY":"From Old French amplifier, from Latin amplificare 'to make larger, enlarge', from amplus 'large' + facere 'to make'.",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"amplify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To increase the volume, especially of sound, using an electronic device.",
+      "DEF_ZH":"（尤指通过电子设备）增大（声音）的音量。",
+      "SENT_EN":"The speakers amplified the music for the whole audience.",
+      "SENT_ZH":"扬声器为所有听众放大了音乐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "boost",
+            "magnify",
+            "increase",
+            "intensify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "attenuate",
+            "muffle",
+            "soften"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"amplify [sth] | amplify on [sth]",
+      "POS":"vtr | vint + prep",
+      "POS_TIP":"transitive verb, takes a direct object | intransitive verb followed by a prepositional phrase",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To expand on a statement or idea, providing more detail or making it stronger.",
+      "DEF_ZH":"详细阐述或扩展（观点、陈述），使其更具影响力或提供更多细节。",
+      "SENT_EN":"Could you please amplify your point with some examples?",
+      "SENT_ZH":"你能不能用一些例子来详细阐述你的观点？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "elaborate",
+            "expand",
+            "enlarge",
+            "magnify",
+            "strengthen"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "condense",
+            "abbreviate",
+            "summarize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"amplify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, takes a direct object",
+      "TAGS":[
+        "specialized",
+        "biology"
+      ],
+      "DEF_EN":"To increase the number of copies of a gene or DNA sequence, often using techniques like PCR.",
+      "DEF_ZH":"（在生物学中）增加基因或DNA序列的拷贝数，常通过聚合酶链式反应（PCR）等技术。",
+      "SENT_EN":"The lab technicians used PCR to amplify the DNA sample for analysis.",
+      "SENT_ZH":"实验室技术人员使用PCR技术扩增DNA样本进行分析。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "PCR",
+            "cloning",
+            "replication"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

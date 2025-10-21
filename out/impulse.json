@@ -1,0 +1,112 @@
+{
+  "WORD":"impulse",
+  "IPA":"/ˈɪmpʌls/",
+  "CONJUGATES":"impulses (N, V 3rd sing) | impulsing (V present part) | impulsed (V past)",
+  "ETYMOLOGY":"Late Middle English, from Latin impulsus, past participle of impellere ('to drive or push into'), from in- ('into, toward') + pellere ('to drive').",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"impulse [to do sth] | on impulse",
+      "POS":"N",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"A sudden strong and unreflective urge or desire to act, often without planning.",
+      "DEF_ZH":"突然的、强烈的、通常是不加思索的行为欲望或念头；冲动。",
+      "SENT_EN":"She regretted buying the flight tickets on an impulse.",
+      "SENT_ZH":"她后悔自己一时冲动买了那些机票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "urge",
+            "whim",
+            "drive",
+            "compulsion"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deliberation",
+            "forethought",
+            "planning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an impulse (of force/power)",
+      "POS":"N",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Technical",
+        "Physics"
+      ],
+      "DEF_EN":"The product of the average force and the time interval over which the force acts, equal to the change in momentum of an object.",
+      "DEF_ZH":"冲量；作用于物体使其改变动量或开始运动的短暂作用力。",
+      "SENT_EN":"The impact delivered a massive impulse to the stationary ball.",
+      "SENT_ZH":"这次撞击给静止的球施加了巨大的冲量。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "momentum",
+            "force",
+            "thrust"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"electrical/nerve impulse",
+      "POS":"N",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Technical",
+        "Biology",
+        "Electronics"
+      ],
+      "DEF_EN":"A short burst of energy or signal, especially an electrical signal traveling along a nerve fiber or circuit.",
+      "DEF_ZH":"短暂的能量爆发或信号，尤指沿着神经纤维或电路传播的电脉冲或神经信号。",
+      "SENT_EN":"The microphone converts sound waves into electrical impulses.",
+      "SENT_ZH":"麦克风将声波转换成电脉冲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pulse",
+            "signal",
+            "wave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"impulse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Rare",
+        "Specialized"
+      ],
+      "DEF_EN":"To give an impulse to; to drive or propel forward.",
+      "DEF_ZH":"推动；施加冲力使其前进。",
+      "SENT_EN":"The small engine impulsed the boat across the water.",
+      "SENT_ZH":"那台小发动机推动船只在水面上前行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "propel",
+            "drive",
+            "push"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies from Common (urge) to Scientific (physics/biology)"
+}

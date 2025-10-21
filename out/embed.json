@@ -1,0 +1,110 @@
+{
+  "WORD":"embed",
+  "IPA":"/ɪmˈbɛd/",
+  "CONJUGATES":"embeds | embedding | embedded",
+  "ETYMOLOGY":"From Middle English *en-* (in) + *bed* (bed), literally meaning 'to place in a bed'.",
+  "SINCE":"c. 1560",
+  "MEANINGS":[
+    {
+      "PATTERN":"embed [sth] (in [sth else])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fix something firmly and deeply in a surrounding mass.",
+      "DEF_ZH":"将某物牢固地深嵌于周围的物质中。",
+      "SENT_EN":"The geologist found tiny fossils embedded in the rock samples.",
+      "SENT_ZH":"地质学家在岩石样本中发现了深嵌其中的微小化石。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insert",
+            "implant",
+            "inlay",
+            "fixate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "extract",
+            "dislodge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"embed [sth] (in [context/mind])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "abstract"
+      ],
+      "DEF_EN":"To fix an idea, feeling, or characteristic firmly and deeply in a system, culture, or person's mind.",
+      "DEF_ZH":"将某种想法、感觉或特征牢固地根植于系统、文化或人的思想中。",
+      "SENT_EN":"These core values are deeply embedded in the company's operational philosophy.",
+      "SENT_ZH":"这些核心价值观已深深植根于公司的运营理念中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ingrain",
+            "instill",
+            "root"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"embed [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "internet"
+      ],
+      "DEF_EN":"To integrate data, code, or an object (like a video or link) within a larger document or website so it appears directly.",
+      "DEF_ZH":"将数据、代码或对象（如视频）集成到文档或网页中，使其直接显示。",
+      "SENT_EN":"We need to embed the interactive map into the event page.",
+      "SENT_ZH":"我们需要将这个互动地图嵌入到活动页面中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "iframe",
+            "API",
+            "hyperlink"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"embed [sb] (with [unit])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "journalistic",
+        "military"
+      ],
+      "DEF_EN":"To assign a journalist or reporter to live and travel with a military unit during a conflict or operation.",
+      "DEF_ZH":"（军事或新闻）指派记者随军单位生活和旅行。",
+      "SENT_EN":"The news organization chose to embed three of its senior reporters with the peacekeeping forces.",
+      "SENT_ZH":"该新闻机构选择将其三名资深记者随同维和部队。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "war correspondent",
+            "on assignment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Journalistic"
+}

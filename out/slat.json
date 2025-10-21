@@ -1,0 +1,81 @@
+{
+  "WORD":"slat",
+  "IPA":"/slæt/",
+  "CONJUGATES":"Noun: slats (plural) | Verb: slats (3rd person singular present) | slatted (past tense, past participle) | slatting (present participle)",
+  "ETYMOLOGY":"From Middle English, of uncertain Germanic origin; the noun (thin strip) may be related to Middle Low German 'slatte' (a stripe); the verb (to strike) may be related to Old Norse 'slathra' (to strike, beat).",
+  "SINCE":"Late 15th century (as a noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thin, flat strip of wood, metal, or other rigid material, often one of a series.",
+      "DEF_ZH":"木头、金属或其他硬质材料制成的薄而扁平的条状物，通常为系列中的一条。",
+      "SENT_EN":"The bed frame was supported by several wooden slats.",
+      "SENT_ZH":"床架由几根木板条支撑着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strip",
+            "lath",
+            "batten",
+            "bar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slat [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb; a verb that takes one or more objects.",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To equip or furnish something with slats.",
+      "DEF_ZH":"给某物安装板条；用板条固定。",
+      "SENT_EN":"They decided to slat the new fence rather than using solid panels.",
+      "SENT_ZH":"他们决定给新围栏安装板条而不是使用实心板。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "batten",
+            "strip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slat [sth] | slat (intransitive)",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive verb; a verb that takes one or more objects. | Intransitive verb; a verb that does not take a direct object.",
+      "TAGS":[
+        "old word",
+        "regional",
+        "rare"
+      ],
+      "DEF_EN":"To strike or throw something with force; to dash or beat.",
+      "DEF_ZH":"猛击或猛扔某物；猛冲或猛打。",
+      "SENT_EN":"The rain slatted against the windows during the storm.",
+      "SENT_ZH":"暴风雨中，雨点猛烈地敲打着窗户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hurl",
+            "fling",
+            "dash",
+            "strike"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

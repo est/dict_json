@@ -1,0 +1,80 @@
+{
+  "WORD":"purify",
+  "IPA":"/ˈpjʊərɪfaɪ/",
+  "CONJUGATES":"purifies | purified | purifying",
+  "ETYMOLOGY":"From Old French purifier, from Latin purificare 'to make pure', from purus 'pure' + facere 'to make'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"purify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To remove contaminants, pollutants, or unwanted elements from something, making it clean or pure.",
+      "DEF_ZH":"清除某物中的污染物、杂质或不需要的成分，使其变得洁净或纯粹。",
+      "SENT_EN":"The new water treatment plant can purify millions of liters of water daily.",
+      "SENT_ZH":"新的水处理厂每天可以净化数百万升水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cleanse",
+            "refine",
+            "decontaminate",
+            "filter",
+            "distill",
+            "clarify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contaminate",
+            "pollute",
+            "defile",
+            "taint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"purify [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "common",
+        "religious",
+        "spiritual"
+      ],
+      "DEF_EN":"To free someone or something from moral corruption, sin, or spiritual defilement; to make morally or spiritually pure.",
+      "DEF_ZH":"使某人或某物摆脱道德败坏、罪恶或精神上的污染；使之变得道德或精神纯洁。",
+      "SENT_EN":"Many ancient rituals were believed to purify the soul and body.",
+      "SENT_ZH":"许多古代仪式被认为可以净化灵魂和身体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cleanse",
+            "sanctify",
+            "expiate",
+            "absolve"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "corrupt",
+            "taint",
+            "defile",
+            "sully"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or technical, depending on the context (e.g., scientific purification vs. spiritual purification)."
+}

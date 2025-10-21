@@ -1,0 +1,81 @@
+{
+  "WORD":"candidate",
+  "IPA":"/ˈkæn.dɪ.deɪt/",
+  "CONJUGATES":"candidates",
+  "ETYMOLOGY":"From Latin candidatus, literally 'one clothed in white' (from candidus 'white'), referring to Roman office seekers who wore white togas.",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"candidate [for sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"A person who is competing for an election, applying for a job, or being considered for an honor or award.",
+      "DEF_ZH":"申请职位、寻求选举、或被考虑授予荣誉或奖项的人；候选人，申请人。",
+      "SENT_EN":"The primary candidate promised to lower taxes if elected.",
+      "SENT_ZH":"这位主要候选人承诺如果当选就会减税。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nominee",
+            "aspirant",
+            "applicant",
+            "contestant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"candidate [for sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "general"
+      ],
+      "DEF_EN":"A person or thing that is likely or suitable for a specific fate, treatment, or designation.",
+      "DEF_ZH":"被认为可能或适合某种特定结果、处理或名称的人或事物；人选，目标。",
+      "SENT_EN":"Due to its age, the server is a prime candidate for replacement.",
+      "SENT_ZH":"由于年事已高，这台服务器是首要的更换目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prospect",
+            "subject",
+            "target"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"candidate",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "academic",
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"A student taking an examination, especially one seeking a degree or specific qualification.",
+      "DEF_ZH":"参加考试的学生，尤指攻读学位或特定资格证书的考生；应试者。",
+      "SENT_EN":"All doctoral candidates must defend their thesis before the committee.",
+      "SENT_ZH":"所有博士学位考生都必须在委员会面前答辩他们的论文。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examinee",
+            "test taker"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to formal (widely used in politics, business, and academia)."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"sad",
+  "IPA":"/sæd/",
+  "CONJUGATES":"sadder | saddest",
+  "ETYMOLOGY":"From Middle English sadde ('firm, heavy, serious, sorrowful'), from Old English sæd ('sated, full'), related to sadian ('to satiate'). The sense shifted from 'full/sated' to 'heavy/serious' and eventually to 'sorrowful' in Middle English.",
+  "SINCE":"Before 900 AD (Old English, though the modern 'sorrowful' sense solidified in the 13th-14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is sad | [sb] feels sad (about [sth])",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "emotion"
+      ],
+      "DEF_EN":"Feeling or showing sorrow or unhappiness; not joyful.",
+      "DEF_ZH":"感到或表现出悲伤或不快乐；不愉快的。",
+      "SENT_EN":"He felt immensely sad after hearing the news of the cancellation.",
+      "SENT_ZH":"听到取消的消息后，他感到非常难过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unhappy",
+            "miserable",
+            "sorrowful",
+            "depressed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "happy",
+            "joyful",
+            "cheerful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sad situation/event",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "descriptive",
+        "common"
+      ],
+      "DEF_EN":"Causing or characterized by sorrow, regret, or misfortune; lamentable.",
+      "DEF_ZH":"引起或具有悲伤、遗憾或不幸的特点；可悲的。",
+      "SENT_EN":"It is a sad reality that poverty still exists in wealthy nations.",
+      "SENT_ZH":"贫穷仍然存在于富裕国家，这是一个可悲的现实。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tragic",
+            "regrettable",
+            "woeful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sad excuse/attempt",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "informal",
+        "derogatory"
+      ],
+      "DEF_EN":"Pitiable, deplorably inadequate, or of poor quality; pathetic.",
+      "DEF_ZH":"可怜的，严重不足的或质量差的；可悲的（指事物）。",
+      "SENT_EN":"That was a sad performance; the whole team looked lost.",
+      "SENT_ZH":"那是一场糟糕的表演；整个团队看起来都手足无措。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pathetic",
+            "miserable",
+            "lame"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English, highly common."
+}

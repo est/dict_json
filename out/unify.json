@@ -1,0 +1,60 @@
+{
+  "WORD":"unify",
+  "IPA":"/'juːnɪfaɪ/",
+  "CONJUGATES":"unifies | unifying | unified",
+  "ETYMOLOGY":"From Latin *unus* ('one') combined with the suffix *-fy* (from Old French *-fier*, ultimately from Latin *facere* 'to make').",
+  "SINCE":"c. 1610",
+  "MEANINGS":[
+    {
+      "PATTERN":"unify [sth] (or simply unify)",
+      "POS":"v.t. or v.i.",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "general usage",
+        "formal"
+      ],
+      "DEF_EN":"To make or become one; to bring separate elements, groups, or ideas together into a single, cohesive unit.",
+      "DEF_ZH":"使...统一；合并；整合分散的部分或群体，使成为一个整体。",
+      "SENT_EN":"The goal of the treaty was to unify the disparate states under a common economic policy.",
+      "SENT_ZH":"该条约的目的是使这些不同的国家在共同的经济政策下统一起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unite",
+            "integrate",
+            "merge",
+            "consolidate",
+            "coalesce"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "divide",
+            "separate",
+            "fragment",
+            "scatter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unify [two or more expressions]",
+      "POS":"v.t.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "logic",
+        "mathematics"
+      ],
+      "DEF_EN":"In logic and computer science, to find a substitution (a set of assignments) that makes two or more expressions identical.",
+      "DEF_ZH":"(逻辑/计算机科学) 求置换使两个或多个逻辑表达式相等或一致。",
+      "SENT_EN":"Prolog uses an algorithm called unification to unify variables in expressions.",
+      "SENT_ZH":"Prolog使用一种称为合一的算法来统一表达式中的变量。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English, often used in political, organizational, or academic contexts."
+}

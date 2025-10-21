@@ -1,0 +1,98 @@
+{
+  "WORD":"mediate",
+  "IPA":"/ˈmiː.di.eɪt/",
+  "CONJUGATES":"mediates | mediating | mediated",
+  "ETYMOLOGY":"From Latin mediātus, past participle of mediāre 'to be in the middle, interpose', from medius 'middle'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"mediate [between sb] and [sb] | mediate [sth]",
+      "POS":"v.intr. | v.tr.",
+      "POS_TIP":"v.intr. stands for intransitive verb, meaning it does not take a direct object; v.tr. stands for transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To intervene between people in a dispute in order to bring about an agreement or reconciliation.",
+      "DEF_ZH":"在争端各方之间进行调解，以达成协议或和解。",
+      "SENT_EN":"The diplomat was asked to mediate the conflict between the two nations.",
+      "SENT_ZH":"这位外交官被要求调解两国之间的冲突。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arbitrate",
+            "intervene",
+            "negotiate",
+            "conciliate",
+            "reconcile",
+            "umpire"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "aggravate",
+            "worsen",
+            "incite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mediate [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"v.tr. stands for transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bring about (a result such as a settlement or agreement) by intervening between parties.",
+      "DEF_ZH":"通过干预促成或实现（某种结果，如和解或协议）。",
+      "SENT_EN":"She successfully mediated a compromise between the striking workers and the management.",
+      "SENT_ZH":"她成功地促成了罢工工人与资方之间的妥协。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "broker",
+            "negotiate",
+            "facilitate",
+            "arrange"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adj. stands for adjective, describing a noun.",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"Acting as an intermediate agent or means; indirect.",
+      "DEF_ZH":"作为中间媒介或手段；间接的。",
+      "SENT_EN":"The mediate cause of the crisis was a series of political missteps.",
+      "SENT_ZH":"这场危机的间接原因是接连的政治失误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intermediate",
+            "intervening",
+            "indirect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "immediate",
+            "direct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral, commonly used in legal, political, and diplomatic contexts."
+}

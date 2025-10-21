@@ -1,0 +1,65 @@
+{
+  "WORD":"radiochemical",
+  "IPA":"/ˌreɪdioʊˈkɛmɪkl/",
+  "CONJUGATES":"radiochemicals (plural noun)",
+  "ETYMOLOGY":"Blend of 'radio-' (from Latin radius 'ray', referring to radiation) and 'chemical' (from Greek chēmeia 'art of alloying metals, alchemy').",
+  "SINCE":"Early 20th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] radiochemical [process/analysis]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or involving radiochemistry or radioactive chemical substances.",
+      "DEF_ZH":"与放射化学或放射性化学物质有关的；放射化学的。",
+      "SENT_EN":"The research team developed a new radiochemical method for detecting trace elements.",
+      "SENT_ZH":"研究团队开发了一种新的放射化学方法来检测微量元素。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "radioactive",
+            "nuclear",
+            "isotope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a radiochemical | radiochemicals",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"A chemical compound that is radioactive, or a substance used in radiochemistry.",
+      "DEF_ZH":"一种具有放射性的化合物；放射化学物质。",
+      "SENT_EN":"Several radiochemicals are produced for medical imaging and cancer therapy.",
+      "SENT_ZH":"生产了几种放射性化学品用于医学成像和癌症治疗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "radionuclide",
+            "radioisotope"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "isotope",
+            "tracer",
+            "pharmaceutical"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, scientific, technical, academic"
+}

@@ -1,0 +1,99 @@
+{
+  "WORD":"award",
+  "IPA":"/əˈwɔːrd/",
+  "CONJUGATES":"awards | awarding | awarded",
+  "ETYMOLOGY":"From Middle English, derived from Old French *awarder* (to determine, grant), related to *esgarder* (to look at, consider). Ultimately of Germanic origin.",
+  "SINCE":"Late 14th century (verb); 15th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"award [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To officially grant or bestow a payment, prize, contract, or recognition to someone.",
+      "DEF_ZH":"正式授予；判给（奖金、奖品、荣誉、合同等）。",
+      "SENT_EN":"The university will award scholarships to the top students.",
+      "SENT_ZH":"大学将向最优秀的学生颁发奖学金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grant",
+            "bestow",
+            "confer",
+            "present"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdraw",
+            "retract",
+            "forfeit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an award (for [sth])",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A prize or honor given to someone for an achievement, performance, or service.",
+      "DEF_ZH":"奖项；奖品；荣誉。",
+      "SENT_EN":"Winning that film award greatly boosted her career.",
+      "SENT_ZH":"赢得那个电影奖极大地促进了她的事业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prize",
+            "trophy",
+            "accolade",
+            "honor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "medal",
+            "citation",
+            "commendation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the award of [sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A judicial decision, settlement, or the sum of money determined by a court or arbitrator, especially as compensation for damages.",
+      "DEF_ZH":"（法院或仲裁人的）裁决；判定的金额（尤指赔偿金）。",
+      "SENT_EN":"The jury made a substantial award to the victims of the accident.",
+      "SENT_ZH":"陪审团对事故受害者作出了巨额赔偿裁决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "judgment",
+            "settlement",
+            "compensation",
+            "indemnity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, common in legal, competitive, and ceremonial contexts."
+}

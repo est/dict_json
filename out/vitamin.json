@@ -1,0 +1,64 @@
+{
+  "WORD":"vitamin",
+  "IPA":"/ˈvaɪtəmɪn/",
+  "CONJUGATES":"vitamins",
+  "ETYMOLOGY":"Coined in 1912 by Polish biochemist Kazimierz Funk, from Latin vita ('life') + amine (because the first discovered vitamin, B1, contained an amine group; later determined that not all vitamins are amines).",
+  "SINCE":"1912",
+  "MEANINGS":[
+    {
+      "PATTERN":"vitamin (A | B | C | D | E | K)",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "Core word",
+        "Science",
+        "Health"
+      ],
+      "DEF_EN":"Any of a group of organic compounds which are essential for normal growth and nutrition and are required in small quantities in the diet because they generally cannot be synthesized by the body.",
+      "DEF_ZH":"维持生物体正常生长、营养和代谢所必需的，通常不能由身体自行合成，需要通过饮食摄入的微量有机化合物。",
+      "SENT_EN":"Eating a balanced diet ensures you get enough essential vitamins and minerals.",
+      "SENT_ZH":"均衡饮食确保你摄入了足够的必需维生素和矿物质。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nutrient",
+            "micronutrient"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "supplement",
+            "mineral",
+            "nutrition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vitamin [for sth]",
+      "POS":"nu",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "Figurative",
+        "Informal"
+      ],
+      "DEF_EN":"Something considered necessary or beneficial for a person's energy, spirit, or successful performance.",
+      "DEF_ZH":"比喻为对某人的活力、精神或成功表现至关重要的事物。",
+      "SENT_EN":"The sunshine was the vitamin I needed after a long, dark winter.",
+      "SENT_ZH":"阳光是我熬过漫长黑暗的冬天后所需要的“维生素”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "boost",
+            "stimulant",
+            "impetus"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

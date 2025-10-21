@@ -1,0 +1,114 @@
+{
+  "WORD":"aim",
+  "IPA":"/eɪm/",
+  "CONJUGATES":"aims | aiming | aimed",
+  "ETYMOLOGY":"From Middle English 'aimen', derived from Old French 'esmer' (to estimate, calculate, intend), ultimately from Latin 'aestimare' (to estimate, value).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"aim (at [sth/sb])",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "metaphorical"
+      ],
+      "DEF_EN":"To intend to achieve a specific goal or result; to direct efforts or purpose toward something.",
+      "DEF_ZH":"旨在达成某一特定目标或结果；将努力或目的导向某事物。",
+      "SENT_EN":"The program aims to provide housing for low-income families.",
+      "SENT_ZH":"该计划旨在为低收入家庭提供住房。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intend",
+            "strive",
+            "aspire",
+            "plan"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "goal",
+            "objective"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"aim [sth] (at [sth/sb])",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "literal",
+        "action"
+      ],
+      "DEF_EN":"To point or direct a weapon, object, or beam toward a specific target.",
+      "DEF_ZH":"将武器、物体或光束指向特定目标；瞄准。",
+      "SENT_EN":"She aimed the hose at the burning corner of the building.",
+      "SENT_ZH":"她将水管瞄准了建筑物的燃烧角落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "point",
+            "direct",
+            "target",
+            "sight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the aim of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The purpose, intention, or objective; the desired outcome.",
+      "DEF_ZH":"目的、意图或目标；期望的结果。",
+      "SENT_EN":"The main aim of the negotiation was to achieve a ceasefire.",
+      "SENT_ZH":"这次谈判的主要目标是实现停火。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "goal",
+            "purpose",
+            "objective",
+            "intent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take aim",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "literal",
+        "action"
+      ],
+      "DEF_EN":"The action of directing something, especially a weapon, toward a target; the skill of being accurate.",
+      "DEF_ZH":"瞄准的动作（尤指武器）；准确度或瞄准技巧。",
+      "SENT_EN":"His poor aim meant the ball missed the hoop entirely.",
+      "SENT_ZH":"他糟糕的准头意味着球完全错过了篮筐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accuracy",
+            "targeting",
+            "sighting"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

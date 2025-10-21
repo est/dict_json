@@ -1,0 +1,91 @@
+{
+  "WORD":"author",
+  "IPA":"/ˈɔːθər/",
+  "CONJUGATES":"authors (n. pl.) | authored (v. pt.) | authoring (v. prp.)",
+  "ETYMOLOGY":"From Middle English autor, from Old French autor, from Latin auctor ('promoter, producer, originator'), from augēre ('to increase, originate, promote').",
+  "SINCE":"c. 1300 (13th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"author [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (名词)",
+      "TAGS":[
+        "core word",
+        "common",
+        "literature"
+      ],
+      "DEF_EN":"The writer of a book, article, play, or other written work.",
+      "DEF_ZH":"书籍、文章、剧本或其他书面作品的撰写者或创作者。",
+      "SENT_EN":"She is the author of the best-selling novel published last year.",
+      "SENT_ZH":"她是去年出版的那本畅销小说的作者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "writer",
+            "novelist",
+            "scribe",
+            "wordsmith"
+          ]
+        },
+        {
+          "T":"hyponyms",
+          "V":[
+            "essayist",
+            "playwright",
+            "poet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"author [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (名词)",
+      "TAGS":[
+        "formal",
+        "general"
+      ],
+      "DEF_EN":"The originator, creator, or primary agent of a plan, idea, theory, or action.",
+      "DEF_ZH":"某项计划、想法、理论或行动的发起者、创造者或主要执行者/主谋。",
+      "SENT_EN":"The committee is trying to identify the author of the controversial policy proposal.",
+      "SENT_ZH":"委员会正试图确定这项有争议的政策提案的提出者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creator",
+            "originator",
+            "architect",
+            "initiator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"author [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (及物动词)",
+      "TAGS":[
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"To write, create, or be the originator of a work, especially a technical document or piece of software.",
+      "DEF_ZH":"撰写、创作或成为某作品（尤指技术文档或软件）的作者。",
+      "SENT_EN":"He successfully authored the entire technical manual in under two months.",
+      "SENT_ZH":"他在不到两个月的时间内成功地撰写了整本技术手册。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "write",
+            "compose",
+            "draft",
+            "pen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

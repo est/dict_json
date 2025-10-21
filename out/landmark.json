@@ -1,0 +1,109 @@
+{
+  "WORD":"landmark",
+  "IPA":"/ˈlændmɑːrk/",
+  "CONJUGATES":"landmarks",
+  "ETYMOLOGY":"Compound of Middle English 'land' and 'mark'; attested in the 16th century referring to a boundary marker. Figurative use (milestone) developed later.",
+  "SINCE":"c. 1560s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] physical landmark",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An object or feature of a landscape or place that is easily recognizable and used to help locate or navigate to a specific area.",
+      "DEF_ZH":"用于定位或导航的、容易识别的自然或人造地貌特征或物体。",
+      "SENT_EN":"The church steeple served as the only clear landmark visible from the road.",
+      "SENT_ZH":"教堂的尖顶是路上唯一清晰可见的地标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "marker",
+            "point of reference",
+            "guidepost"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] historic landmark",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "very common",
+        "architecture"
+      ],
+      "DEF_EN":"A building or site of outstanding historical, aesthetic, or cultural importance.",
+      "DEF_ZH":"具有突出历史、美学或文化重要性的著名建筑物或遗址。",
+      "SENT_EN":"Tourists flock to see the historic landmarks of Rome.",
+      "SENT_ZH":"游客们蜂拥而至，参观罗马的历史地标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "monument",
+            "icon",
+            "site"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "heritage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] landmark (event)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"An important event or stage in the history of something; a turning point.",
+      "DEF_ZH":"某事物历史上的重要事件或阶段；里程碑。",
+      "SENT_EN":"The invention of the internet was a major landmark in modern communication.",
+      "SENT_ZH":"互联网的发明是现代通信的一个重要的里程碑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "milestone",
+            "turning point",
+            "watershed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"landmark [decision | case]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (attributive)",
+      "TAGS":[
+        "formal",
+        "law",
+        "business"
+      ],
+      "DEF_EN":"Highly significant or precedent-setting, especially referring to a judicial decision or major policy.",
+      "DEF_ZH":"具有里程碑意义的；开创先例的（尤其指判决或政策）。",
+      "SENT_EN":"The Supreme Court delivered a landmark ruling on civil rights.",
+      "SENT_ZH":"最高法院就民权问题做出了一项具有里程碑意义的裁决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "historic",
+            "pioneering",
+            "groundbreaking"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, though figurative and adjective uses are often formal or journalistic."
+}

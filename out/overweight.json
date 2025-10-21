@@ -1,0 +1,92 @@
+{
+  "WORD":"overweight",
+  "IPA":"/ˌoʊvərˈweɪt/",
+  "CONJUGATES":"overweight (adj.) | more overweight (comparative) | most overweight (superlative)",
+  "ETYMOLOGY":"Compound word, from prefix 'over-' (indicating excess) and noun 'weight'. First attested in the early 19th century.",
+  "SINCE":"c. 1830s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth] is overweight",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"Having a body weight greater than what is generally considered healthy or normal, often resulting from excess body fat.",
+      "DEF_ZH":"体重超过健康或正常标准，通常由体内脂肪过多引起。",
+      "SENT_EN":"The doctor advised the patient to exercise because he was significantly overweight.",
+      "SENT_ZH":"医生建议病人多锻炼，因为他体重严重超标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obese",
+            "hefty",
+            "stout"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "underweight",
+            "slight"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "obesity",
+            "BMI"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"overweight [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "general",
+        "technical"
+      ],
+      "DEF_EN":"Exceeding a specified or permissible maximum weight, often relating to cargo or baggage.",
+      "DEF_ZH":"超过规定的或允许的最大重量（常用于货物或行李）。",
+      "SENT_EN":"The airline charged extra for the overweight suitcase.",
+      "SENT_ZH":"航空公司对超重的行李箱收取了额外费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excessive",
+            "heavy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"overweight [in] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (finance/jargon)",
+      "TAGS":[
+        "finance",
+        "jargon"
+      ],
+      "DEF_EN":"(In finance) Designating a recommendation that a particular asset or sector should make up a larger proportion of an investor's portfolio than the benchmark index.",
+      "DEF_ZH":"（金融）指建议投资者在投资组合中，某个资产或行业的比例应高于基准指数。",
+      "SENT_EN":"The brokerage firm maintained its ‘overweight’ rating on pharmaceutical stocks.",
+      "SENT_ZH":"这家券商维持了对制药股的“超配”评级。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "underweight",
+            "neutral"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Financial"
+}

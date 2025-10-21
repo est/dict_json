@@ -1,0 +1,73 @@
+{
+  "WORD":"they",
+  "IPA":"/ðeɪ/",
+  "CONJUGATES":"Subjective: they | Objective: them | Possessive Adjective: their | Possessive Pronoun: theirs | Reflexive/Intensive: themselves",
+  "ETYMOLOGY":"From Old Norse 'þeir' (masculine plural demonstrative pronoun), ultimately from Proto-Germanic *þai. Replaced Old English 'hīe'.",
+  "SINCE":"Early 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"they [v]",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that can function as a noun phrase referring to a participant in the discourse or to someone or something mentioned elsewhere in the discourse.",
+      "TAGS":[
+        "core word",
+        "common",
+        "personal pronoun"
+      ],
+      "DEF_EN":"Used to refer to two or more people, animals, or things previously mentioned or easily identified as the subject of a verb.",
+      "DEF_ZH":"用作动词主语，指代之前提到或易于辨认的两个人、动物或事物。",
+      "SENT_EN":"The students finished their homework, and then they went home.",
+      "SENT_ZH":"学生们做完作业后就回家了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "them",
+            "their",
+            "theirs"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"they [v]",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that can function as a noun phrase referring to a participant in the discourse or to someone or something mentioned elsewhere in the discourse.",
+      "TAGS":[
+        "common",
+        "gender-neutral",
+        "singular use"
+      ],
+      "DEF_EN":"Used to refer to a single person whose gender is not specified or who identifies as non-binary, or to avoid specifying gender.",
+      "DEF_ZH":"用于指代性别未明确或自我认同为非二元性别的单个人，或用于避免指明性别。",
+      "SENT_EN":"Someone left their jacket, I hope they come back for it. | My friend Alex is non-binary; they prefer to use 'they/them' pronouns.",
+      "SENT_ZH":"有人落了外套，我希望他们能回来取。| 我的朋友亚历克斯是非二元性别的；他们喜欢使用“they/them”代词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "them",
+            "their",
+            "theirs"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"they say [that...]",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that can function as a noun phrase referring to a participant in the discourse or to someone or something mentioned elsewhere in the discourse.",
+      "TAGS":[
+        "common",
+        "impersonal",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to refer to people in general or to unspecified authorities, often in idiomatic expressions.",
+      "DEF_ZH":"泛指人们或未指明的权威人士，常用于习语表达中。",
+      "SENT_EN":"They say the new restaurant is excellent.",
+      "SENT_ZH":"他们说（人们说）那家新餐馆很棒。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General English"
+}

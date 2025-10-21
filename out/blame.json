@@ -1,0 +1,86 @@
+{
+  "WORD":"blame",
+  "IPA":"/bleɪm/",
+  "CONJUGATES":"Blames (3rd sing. pres.) | Blaming (pres. part.) | Blamed (past tense, past part.)",
+  "ETYMOLOGY":"Middle English, from Anglo-Norman/Old French blasmer (to find fault with), ultimately derived from Late Latin blasphemare (to blaspheme, speak ill of), and Greek blasphēmein.",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"blame [sb/sth] for [sth] | blame [sth] on [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To hold someone responsible for a fault, error, or negative situation.",
+      "DEF_ZH":"责怪；归咎于；认为...是引起某事的原因。",
+      "SENT_EN":"The manager blamed the lack of sales on the poor marketing strategy.",
+      "SENT_ZH":"经理将销量不佳归咎于糟糕的营销策略。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accuse",
+            "fault",
+            "censure",
+            "reproach"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "praise",
+            "credit",
+            "exonerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take/get the blame | the blame for [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "core word",
+        "uncountable"
+      ],
+      "DEF_EN":"Responsibility for a fault, failure, or offense.",
+      "DEF_ZH":"责任；过失；指责。",
+      "SENT_EN":"No one wanted to take the blame for the server crash.",
+      "SENT_ZH":"没有人愿意为服务器崩溃承担责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fault",
+            "culpability",
+            "responsibility"
+          ]
+        },
+        {
+          "T":"collocation",
+          "V":[
+            "blame game",
+            "shift the blame"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blame [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object.",
+      "TAGS":[
+        "informal",
+        "idiomatic"
+      ],
+      "DEF_EN":"To understand or accept that someone's negative action or reaction is justified or inevitable (often used in negative constructions like 'can't blame').",
+      "DEF_ZH":"理解；不指责（表示理解或认同某人的行为或感受）。",
+      "SENT_EN":"She left the meeting early, and I don't blame her; it was running way over time.",
+      "SENT_ZH":"她提前离开了会议，我能理解她（不怪她），会议拖得太久了。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General English"
+}

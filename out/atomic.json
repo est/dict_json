@@ -1,0 +1,70 @@
+{
+  "WORD":"atomic",
+  "IPA":"/əˈtɒmɪk/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From French atomique or Latin atomicus, from Greek atomikos 'indivisible', from atomos 'uncuttable' (see atom).",
+  "SINCE":"Late 17th century (general), mid-20th century (nuclear energy sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[atomic + Noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common",
+        "science"
+      ],
+      "DEF_EN":"Of or relating to an atom or atoms; extremely small or fundamental.",
+      "DEF_ZH":"原子的；原子能的；微小的，极小的。",
+      "SENT_EN":"Scientists are studying the atomic structure of the new material.",
+      "SENT_ZH":"科学家们正在研究这种新材料的原子结构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "microscopic",
+            "minute",
+            "subatomic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "atom",
+            "molecule"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[atomic + Noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "common",
+        "physics",
+        "historical"
+      ],
+      "DEF_EN":"Using or produced by the energy released from the nucleus of an atom; nuclear.",
+      "DEF_ZH":"使用原子能的；核能的。",
+      "SENT_EN":"The development of atomic weapons profoundly changed global politics.",
+      "SENT_ZH":"原子武器的发展深刻地改变了全球政治。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nuclear"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "atomic bomb",
+            "atomic energy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in general and scientific contexts."
+}

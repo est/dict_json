@@ -1,0 +1,107 @@
+{
+  "WORD":"recovery",
+  "IPA":"/rɪˈkʌvəri/",
+  "CONJUGATES":"plural: recoveries",
+  "ETYMOLOGY":"From Middle English *recoverie*, from Old French *recouvrerie*, from *recouvrer* (to recover, regain), from Latin *recuperare* (to get back, regain). The noun form 'recovery' is derived from the verb 'recover'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"recovery (from sth)",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that functions as the name of a specific object, place, person, animal, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical",
+        "general"
+      ],
+      "DEF_EN":"The process of regaining health, strength, or a normal state after illness, injury, or a setback.",
+      "DEF_ZH":"康复；恢复健康、力量或正常状态的过程（尤指在疾病、受伤或挫折之后）。",
+      "SENT_EN":"She made a remarkable recovery from her illness.",
+      "SENT_ZH":"她从疾病中恢复得非常好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recuperation",
+            "healing",
+            "rehabilitation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deterioration",
+            "decline",
+            "relapse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"economic recovery | recovery in prices",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that functions as the name of a specific object, place, person, animal, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "business",
+        "economics"
+      ],
+      "DEF_EN":"A return to a more prosperous or better condition, especially in economic or financial terms.",
+      "DEF_ZH":"经济复苏；情况好转；恢复到以前更好或更繁荣的状态（尤指经济或财政方面）。",
+      "SENT_EN":"The government is hopeful for a strong economic recovery next year.",
+      "SENT_ZH":"政府对明年的强劲经济复苏抱有希望。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revival",
+            "upturn",
+            "resurgence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "recession",
+            "downturn",
+            "slump"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the recovery of lost data | recovery of stolen goods",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that functions as the name of a specific object, place, person, animal, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"The act or process of getting back something that was lost, stolen, or taken.",
+      "DEF_ZH":"找回；恢复；失物复得或数据恢复的过程。",
+      "SENT_EN":"The police announced the recovery of the stolen artworks.",
+      "SENT_ZH":"警方宣布找回了被盗的艺术品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retrieval",
+            "reclamation",
+            "repossession"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "backup",
+            "restore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, also specific to medical, economic, and technical contexts."
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"shuttle",
+  "IPA":"/ˈʃʌtəl/",
+  "CONJUGATES":"shuttle | shuttles | shuttling | shuttled",
+  "ETYMOLOGY":"From Old English *scytel* 'missile, dart', related to *sceotan* 'to shoot'. The sense of a weaving implement comes from its back-and-forth movement. The verb sense developed from the noun.",
+  "SINCE":"circa 14th century (for weaving device); mid-19th century (for verb of transport)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] shuttle",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "historical",
+        "technical"
+      ],
+      "DEF_EN":"A device used in weaving to carry the weft thread back and forth between the warp threads.",
+      "DEF_ZH":"织布机上的梭子，用于在经线之间来回穿梭以引纬线。",
+      "SENT_EN":"The weaver threw the shuttle across the loom with practiced ease.",
+      "SENT_ZH":"织工熟练地轻松将梭子穿过织机。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "loom",
+            "weft",
+            "warp"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] shuttle",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A vehicle or service that travels regularly back and forth between two places, often over a relatively short distance.",
+      "DEF_ZH":"（往返于两地之间的）班车、班机；航天飞机。",
+      "SENT_EN":"We took a free shuttle bus from the airport to the hotel.",
+      "SENT_ZH":"我们乘坐免费班车从机场到酒店。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bus",
+            "ferry",
+            "transport"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "space shuttle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shuttle (between A and B) | shuttle [sth/sb] (between A and B)",
+      "POS":"v.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To move or cause to move regularly back and forth between two places.",
+      "DEF_ZH":"（使）往返穿梭；（使）来回运送。",
+      "SENT_EN":"The diplomat had to shuttle between the two capitals to finalize the peace deal.",
+      "SENT_ZH":"外交官必须在两国首都之间穿梭，以敲定和平协议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commute",
+            "ferry",
+            "transport"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general language, particularly in contexts of transportation, aerospace, and textiles."
+}

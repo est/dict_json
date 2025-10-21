@@ -1,0 +1,86 @@
+{
+  "WORD":"cellular",
+  "IPA":"/ˈsɛljʊlər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Latin cellula (diminutive of cella 'small room, cell') + English suffix -ar (pertaining to).",
+  "SINCE":"c. 1850",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "biology",
+        "scientific"
+      ],
+      "DEF_EN":"Relating to, consisting of, or derived from a cell or cells (the basic structural, functional, and biological unit of all known organisms).",
+      "DEF_ZH":"细胞的；由细胞构成的；与细胞有关的。",
+      "SENT_EN":"The doctor specialized in identifying cellular changes related to cancer.",
+      "SENT_ZH":"这位医生专门研究与癌症相关的细胞变化。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cytology",
+            "biology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[network] | [phone]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technology",
+        "telecom",
+        "common"
+      ],
+      "DEF_EN":"Denoting a communications system that uses a large number of low-power radio transmitters, each covering a small area (a cell), to allow mobile communication over a wide area.",
+      "DEF_ZH":"蜂窝状无线电话系统的；移动通信的（特指北美常用的'cellular phone'）。",
+      "SENT_EN":"We lost the cellular signal when we entered the deep canyon.",
+      "SENT_ZH":"当我们进入深峡谷时，我们失去了移动蜂窝信号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mobile",
+            "cell phone"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "network",
+            "telephony"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[structure]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "general",
+        "descriptive"
+      ],
+      "DEF_EN":"Having a porous, spongy, or compartmented structure, often resembling a honeycomb or the structure of biological cells.",
+      "DEF_ZH":"多孔的；蜂窝状的；有许多小隔间或空腔的。",
+      "SENT_EN":"The material's highly cellular construction made it very lightweight and insulating.",
+      "SENT_ZH":"该材料高度多孔的结构使其非常轻便且具有绝缘性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "porous",
+            "spongy",
+            "alveolar"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Science, Technology, and everyday North American English (referring to mobile phones)."
+}

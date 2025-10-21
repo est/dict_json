@@ -1,0 +1,127 @@
+{
+  "WORD":"quench",
+  "IPA":"/kwɛntʃ/",
+  "CONJUGATES":"quenches | quenched | quenching",
+  "ETYMOLOGY":"From Old English cwencan, from Proto-Germanic *kwenkijaną, akin to *kwenkōną 'to drown', ultimately from PIE root *gwen- 'to strike, kill'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"quench [sth/thirst]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To satisfy (one's thirst) by drinking.",
+      "DEF_ZH":"止渴；解渴。",
+      "SENT_EN":"She drank a large glass of water to quench her thirst after the long hike.",
+      "SENT_ZH":"长途跋涉后，她喝了一大杯水来解渴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slake",
+            "satisfy",
+            "allay"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inflame",
+            "ignite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quench [sth/fire]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put out or extinguish (a fire or light).",
+      "DEF_ZH":"扑灭，熄灭（火焰、光亮）。",
+      "SENT_EN":"The firefighters quickly quenched the blaze before it could spread.",
+      "SENT_ZH":"消防员迅速扑灭了大火，防止其蔓延。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extinguish",
+            "douse",
+            "smother"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignite",
+            "start",
+            "light"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quench [sth/feeling]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To suppress or subdue (a feeling, desire, or spirit).",
+      "DEF_ZH":"抑制，消除（感情、欲望、精神）。",
+      "SENT_EN":"He tried to quench his anger, but it was too strong to control.",
+      "SENT_ZH":"他试图平息怒火，但它太强烈了，无法控制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suppress",
+            "stifle",
+            "curb",
+            "repress"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "arouse",
+            "provoke",
+            "foster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quench [sth/metal]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "technical",
+        "specific usage",
+        "metallurgy"
+      ],
+      "DEF_EN":"To cool (hot metal) rapidly by plunging it into water or other liquid, typically to harden it.",
+      "DEF_ZH":"（冶金）骤冷，淬火（通过将灼热金属浸入水中或其他液体中使其快速冷却，通常用于硬化）。",
+      "SENT_EN":"The blacksmith quenched the hot steel in a barrel of oil to temper it.",
+      "SENT_ZH":"铁匠将灼热的钢材浸入油桶中淬火，以对其进行回火处理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cool rapidly",
+            "harden",
+            "temper"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with some specific technical applications."
+}

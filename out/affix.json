@@ -1,0 +1,66 @@
+{
+  "WORD":"affix",
+  "IPA":"/əˈfɪks/",
+  "CONJUGATES":"affixes | affixed | affixing",
+  "ETYMOLOGY":"From Latin affigere 'to fasten on', from ad- 'to' + figere 'fasten'.",
+  "SINCE":"Late Middle English (verb); Mid 17th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"affix [sth] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To attach, fasten, or stick something to something else.",
+      "DEF_ZH":"将某物附加、固定或粘贴到另一物上。",
+      "SENT_EN":"Please affix a stamp to the envelope before mailing it.",
+      "SENT_ZH":"寄出前请在信封上贴上邮票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attach",
+            "fasten",
+            "append",
+            "stick"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "detach",
+            "remove",
+            "unfasten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"affix",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common",
+        "linguistics"
+      ],
+      "DEF_EN":"A morpheme added to a word to form a derivative or inflectional form.",
+      "DEF_ZH":"加到词根上以构成派生词或屈折形式的词缀。",
+      "SENT_EN":"The word 'unhappy' has the negative affix 'un-'.",
+      "SENT_ZH":"单词“unhappy”带有一个否定词缀“un-”。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "prefix",
+            "suffix",
+            "infix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

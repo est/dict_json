@@ -1,0 +1,76 @@
+{
+  "WORD":"verify",
+  "IPA":"/'vɛrɪfaɪ/",
+  "CONJUGATES":"verifies | verifying | verified",
+  "ETYMOLOGY":"From Middle English *verifien*, from Old French *verifier*, from Medieval Latin *verificare* (to make true), from Latin *verus* (true) + *facere* (to make).",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"verify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To check or prove that something is true, accurate, or justified.",
+      "DEF_ZH":"核实或证明某事的真实性、准确性或合理性。",
+      "SENT_EN":"Please verify your personal information before submitting the application.",
+      "SENT_ZH":"在提交申请之前，请核实您的个人信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confirm",
+            "authenticate",
+            "substantiate",
+            "corroborate",
+            "validate",
+            "check"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disprove",
+            "invalidate",
+            "refute",
+            "falsify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "verification",
+            "verifiable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"verify [sth] (Law)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To assert or affirm formally and solemnly, often by oath, that a statement or document is true.",
+      "DEF_ZH":"正式且庄严地确认或断言（通常通过宣誓），某陈述或文件是真实的。",
+      "SENT_EN":"The witness had to verify the content of the statement in court.",
+      "SENT_ZH":"证人必须在法庭上核实该陈述的内容。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attest",
+            "swear",
+            "certify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often used in technical, administrative, and legal contexts."
+}

@@ -1,0 +1,109 @@
+{
+  "WORD":"serial",
+  "IPA":"/ˈsɪəriəl/",
+  "CONJUGATES":"serials (noun)",
+  "ETYMOLOGY":"From Latin seriālis, from series 'row, sequence, series', related to serere 'to join, connect'.",
+  "SINCE":"Mid-17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"serial [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "descriptive"
+      ],
+      "DEF_EN":"Occurring or produced in a sequence of installments, parts, or events.",
+      "DEF_ZH":"一系列的; 连续的; 分段的 (尤指出版物或广播节目)",
+      "SENT_EN":"Each product has a unique serial number for tracking.",
+      "SENT_ZH":"每件产品都有一个独特的序列号用于追踪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sequential",
+            "successive",
+            "consecutive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"serial [sb/sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "criminal justice",
+        "psychology"
+      ],
+      "DEF_EN":"Repeatedly committing the same type of action, especially a crime, over a period of time.",
+      "DEF_ZH":"多次重复同一行为的 (尤指犯罪); 连环的",
+      "SENT_EN":"The police are hunting for a notorious serial killer.",
+      "SENT_ZH":"警方正在追捕一名臭名昭著的连环杀手。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "series",
+            "pattern",
+            "recurrent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"serial",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "media",
+        "publishing"
+      ],
+      "DEF_EN":"A story or play published or broadcast in a number of regular installments.",
+      "DEF_ZH":"连载小说; 连续剧; 连续节目",
+      "SENT_EN":"She waited impatiently for the next installment of her favorite radio serial.",
+      "SENT_ZH":"她焦急地等待着她最喜欢的广播连续剧的下一集。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "miniseries",
+            "installment",
+            "soap opera"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "periodical",
+            "magazine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"serial [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"Relating to the sequential transmission of data (bit by bit) over a single channel.",
+      "DEF_ZH":"串行的 (指数据传输)",
+      "SENT_EN":"A serial port is typically slower than a parallel port.",
+      "SENT_ZH":"串行端口通常比并行端口慢。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "parallel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (computing), media."
+}

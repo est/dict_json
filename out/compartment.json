@@ -1,0 +1,80 @@
+{
+  "WORD":"compartment",
+  "IPA":"/kəmˈpɑːrtmənt/",
+  "CONJUGATES":"compartments",
+  "ETYMOLOGY":"From French compartiment, itself from Medieval Latin compartiri (to divide into parts), from com- (together, with) + partiri (to divide, from pars 'part').",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a compartment in [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A separate section, division, or enclosed space within a larger structure or area.",
+      "DEF_ZH":"较大结构或区域内的一个分隔的、独立的区域或空间（如汽车、火车或行李中的隔层）。",
+      "SENT_EN":"Please place your small bags in the overhead compartment.",
+      "SENT_ZH":"请将您的小包放入头顶的行李隔间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "section",
+            "division",
+            "bay",
+            "chamber",
+            "cubbyhole"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a compartment of [life/mind]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"A conceptually separate category or area of life, feeling, or activity that is kept distinct from others.",
+      "DEF_ZH":"在概念上或心理上与生活的其他方面分开的一个独立区域或类别。",
+      "SENT_EN":"He kept his personal and professional lives in completely separate compartments.",
+      "SENT_ZH":"他将个人生活和职业生活完全分隔开来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "category",
+            "sphere",
+            "domain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cellular compartment",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "biology"
+      ],
+      "DEF_EN":"In biology, a defined space or region, often enclosed by membranes, within a cell or organism, where specific metabolic or physiological functions occur.",
+      "DEF_ZH":"在生物学中，细胞或有机体内一个由膜包围的、发生特定代谢或生理功能的区域或空间（即区室）。",
+      "SENT_EN":"The mitochondrion is an important cellular compartment responsible for energy production.",
+      "SENT_ZH":"线粒体是负责能量生产的重要细胞区室。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "organelle",
+            "cytoplasm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, occasionally technical (Biology/Engineering)"
+}

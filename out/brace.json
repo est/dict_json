@@ -1,0 +1,134 @@
+{
+  "WORD":"brace",
+  "IPA":"/breɪs/",
+  "CONJUGATES":"braces | braced | bracing",
+  "ETYMOLOGY":"Middle English, from Old French brace (arms, two arms' length), ultimately from Latin bracchia (plural of bracchium 'arm'). Refers to things used for holding, spanning, or supporting.",
+  "SINCE":"c. 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"brace [sb/sth] | brace [oneself] (for [sth])",
+      "POS":"vtr / v. refl.",
+      "POS_TIP":"transitive verb / reflexive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To prepare or steady oneself for a shock, impact, or difficulty; or to secure and support (a structure) by strengthening it.",
+      "DEF_ZH":"使自己做好准备（应对冲击、困难或不愉快）；支撑，加固，使稳固。",
+      "SENT_EN":"The passengers braced themselves as the plane hit turbulence.",
+      "SENT_ZH":"当飞机遭遇气流时，乘客们都稳住了身体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steady",
+            "support",
+            "fortify",
+            "prepare"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "relax",
+            "collapse",
+            "unbrace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a brace (for [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "medical",
+        "construction",
+        "common"
+      ],
+      "DEF_EN":"A device worn to support or restrict the movement of a body part (like a leg or teeth); or a structural component used to strengthen a framework.",
+      "DEF_ZH":"（医用）支架，矫形器，护具（如牙套、护膝）；（建筑）支撑物，拉杆。",
+      "SENT_EN":"The architect added diagonal braces to the roof for extra stability.",
+      "SENT_ZH":"建筑师在屋顶添加了对角支撑以增加稳定性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "support",
+            "splint",
+            "truss",
+            "framework"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"braces (plural)",
+      "POS":"n. pl.",
+      "POS_TIP":"noun (plural)",
+      "TAGS":[
+        "UK English",
+        "apparel"
+      ],
+      "DEF_EN":"Straps passing over the shoulders to hold up trousers (called 'suspenders' in US English).",
+      "DEF_ZH":"（英）背带，裤子吊带。",
+      "SENT_EN":"He prefers wearing braces instead of a belt with his suit.",
+      "SENT_ZH":"他喜欢穿西装时用背带代替皮带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suspenders"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a brace of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "formal",
+        "hunting",
+        "old-fashioned"
+      ],
+      "DEF_EN":"A pair of something, often used specifically for game animals or birds killed in a hunt.",
+      "DEF_ZH":"一对；一双（尤指猎获的动物或鸟类）。",
+      "SENT_EN":"The report mentioned that the hunter secured a brace of ducks.",
+      "SENT_ZH":"报告提到那位猎人猎获了一对野鸭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pair",
+            "couple",
+            "duo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"curly braces",
+      "POS":"n.",
+      "POS_TIP":"noun (countable, often plural)",
+      "TAGS":[
+        "computing",
+        "typography"
+      ],
+      "DEF_EN":"One of the pair of punctuation marks { and } used to enclose grouped elements, especially in mathematics and computer programming.",
+      "DEF_ZH":"大括号，花括号（{}），用于数学或编程中。",
+      "SENT_EN":"Remember to close the function definition with a curly brace.",
+      "SENT_ZH":"记住要用大括号来闭合函数定义。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "parentheses",
+            "brackets"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, varies by meaning (medical/technical for supports; formal/historical for 'pair')."
+}

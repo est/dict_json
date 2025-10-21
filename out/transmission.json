@@ -1,0 +1,89 @@
+{
+  "WORD":"transmission",
+  "IPA":"/trænzˈmɪʃən/",
+  "CONJUGATES":"transmissions",
+  "ETYMOLOGY":"From Latin trānsmissiō, from trānsmittō ('send across'), combining trans- ('across') + mittō ('send').",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"transmission [of sth] (process)",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "core word",
+        "process",
+        "technical"
+      ],
+      "DEF_EN":"The action or process of sending or passing something—such as energy, signals, information, or disease—from one person, object, or place to another.",
+      "DEF_ZH":"传输；传送；传播（指信号、能量、疾病等从一处到另一处的行为或过程）。",
+      "SENT_EN":"The high voltage power lines ensure the efficient transmission of electricity across the region.",
+      "SENT_ZH":"高压输电线路确保了电力在整个地区的有效传输。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "conveyance",
+            "relay",
+            "propagation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reception",
+            "absorption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transmission (vehicle part)",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "automotive",
+        "engineering"
+      ],
+      "DEF_EN":"The mechanism, usually involving a system of gears, by which power is transmitted from the engine to the drive axle or wheels of a vehicle.",
+      "DEF_ZH":"变速箱；传动系统（尤指机动车中将发动机动力传递到车轮的机构）。",
+      "SENT_EN":"The mechanic said the car's automatic transmission was failing.",
+      "SENT_ZH":"机械师说这辆车的自动变速箱出了故障。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gearbox",
+            "drivetrain",
+            "clutch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a transmission (broadcast)",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "media",
+        "communication"
+      ],
+      "DEF_EN":"A radio or electronic message or signal that has been sent; a broadcast.",
+      "DEF_ZH":"播送的节目；广播信息；发出的信号。",
+      "SENT_EN":"The radio operators received an urgent transmission from the base station.",
+      "SENT_ZH":"无线电操作员收到了来自基站的紧急信号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "broadcast",
+            "message",
+            "signal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard, Technical"
+}

@@ -1,0 +1,97 @@
+{
+  "WORD":"disk",
+  "IPA":"/dɪsk/",
+  "CONJUGATES":"disks",
+  "ETYMOLOGY":"From Latin *discus* 'quoit, disc' (via Old French *disc* or Medieval Latin *discus*). The spelling 'disk' is a later variant, especially common in American English and computing contexts, while 'disc' is more common in British English and for optical/anatomical contexts.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] disk",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A flat, thin, circular object or plate.",
+      "DEF_ZH":"扁平、薄、圆形的物体或板。",
+      "SENT_EN":"The decorative disk on the wall was made of polished metal.",
+      "SENT_ZH":"墙上的装饰性圆盘由抛光金属制成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disc",
+            "plate",
+            "saucer",
+            "circular object"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "CD",
+            "DVD"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a disk",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"A round, flat medium on which data is recorded, such as a hard disk or floppy disk.",
+      "DEF_ZH":"一种圆形、扁平的介质，用于记录数据，例如硬盘或软盘。",
+      "SENT_EN":"I need to save these files to an external hard disk.",
+      "SENT_ZH":"我需要将这些文件保存到一个外接硬盘上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disc",
+            "drive",
+            "storage medium"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hard drive",
+            "floppy disk",
+            "solid-state drive",
+            "SSD"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] disk",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "medical",
+        "anatomy"
+      ],
+      "DEF_EN":"A pad of cartilage separating vertebrae in the spine.",
+      "DEF_ZH":"脊椎之间分隔椎骨的软骨垫。",
+      "SENT_EN":"He suffered from a herniated disk in his lower back.",
+      "SENT_ZH":"他患有下背部椎间盘突出。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "vertebra",
+            "spine",
+            "cartilage",
+            "intervertebral disc"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

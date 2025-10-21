@@ -1,0 +1,81 @@
+{
+  "WORD":"torrent",
+  "IPA":"/ˈtɔːrənt/",
+  "CONJUGATES":"torrents",
+  "ETYMOLOGY":"From Middle English torent, from Old French torrent, from Latin torrens (present participle of torrēre 'to parch, scorch'), meaning 'roaring, rushing, burning'.",
+  "SINCE":"15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] torrent [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun, singular",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A strong, fast-moving stream of water or other liquid.",
+      "DEF_ZH":"洪流；急流；奔流。",
+      "SENT_EN":"The mountain stream became a muddy torrent after the cloudburst.",
+      "SENT_ZH":"暴雨过后，这条山间溪流变成了一股泥泞的洪流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "current",
+            "flood",
+            "deluge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] torrent [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun, singular",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A sudden, voluminous, and overwhelming flow or outpouring of something non-liquid, such as words, abuse, or emotions.",
+      "DEF_ZH":"倾泻；爆发；连珠般的一股（指言语、情感、数据等）。",
+      "SENT_EN":"The official faced a torrent of criticism following the scandal.",
+      "SENT_ZH":"丑闻发生后，这位官员面临着排山倒海般的批评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outpouring",
+            "rush",
+            "flood",
+            "barrage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] torrent (file)",
+      "POS":"n.",
+      "POS_TIP":"noun, singular",
+      "TAGS":[
+        "computing",
+        "technical",
+        "modern"
+      ],
+      "DEF_EN":"A small file containing metadata about files and folders to be distributed via the BitTorrent protocol; often used to refer to the file-sharing system itself.",
+      "DEF_ZH":"（计算机）BT种子文件；（BitTorrent）点对点文件共享协议。",
+      "SENT_EN":"He used a torrent client to download the large software update.",
+      "SENT_ZH":"他使用了一个BT客户端来下载那个大型软件更新。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "BitTorrent",
+            "P2P",
+            "client"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard and Technical"
+}

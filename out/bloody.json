@@ -1,0 +1,112 @@
+{
+  "WORD":"bloody",
+  "IPA":"/ˈblʌdi/",
+  "CONJUGATES":"bloodier | bloodiest (comparative & superlative adj.); bloodies | bloodying | bloodied (verb)",
+  "ETYMOLOGY":"From Old English blōdig 'covered in blood', from blōd 'blood'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"bloody [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "descriptive"
+      ],
+      "DEF_EN":"Covered or stained with blood.",
+      "DEF_ZH":"沾有或被血染污的。",
+      "SENT_EN":"His hands were bloody from the accident.",
+      "SENT_ZH":"他的双手因事故而沾满了血。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gory",
+            "sanguineous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bloody [event/conflict]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "descriptive",
+        "often negative"
+      ],
+      "DEF_EN":"Involving much bloodshed and violence.",
+      "DEF_ZH":"涉及大量流血和暴力的。",
+      "SENT_EN":"The bloody battle lasted for days.",
+      "SENT_ZH":"那场血腥的战斗持续了数日。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "violent",
+            "savage",
+            "brutal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bloody [adj/adv] | [sth] is bloody [adj]",
+      "POS":"adv | adj",
+      "POS_TIP":"adverb | adjective (informal)",
+      "TAGS":[
+        "slang",
+        "British English",
+        "informal",
+        "intensifier",
+        "historically taboo"
+      ],
+      "DEF_EN":"(British, informal) Used as an intensifier, often to express anger or annoyance, or sometimes admiration. Historically considered a mild expletive.",
+      "DEF_ZH":"(英式，非正式) 用作加强语，常用来表达愤怒或恼火，有时也表达赞赏。历史上被认为是轻微的脏话。",
+      "SENT_EN":"It's a bloody shame you missed the party. / That's a bloody good idea!",
+      "SENT_ZH":"你错过了派对真是太可惜了。/ 那真是个非常棒的主意！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "very",
+            "extremely",
+            "damned (informal)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bloody hell",
+            "bloody-minded"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] bloody [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "action"
+      ],
+      "DEF_EN":"To stain or cover with blood; to wound so as to draw blood.",
+      "DEF_ZH":"使沾血或覆盖血；使受伤流血。",
+      "SENT_EN":"He fell and bloodied his knee.",
+      "SENT_ZH":"他摔倒了，把膝盖弄出血了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wound",
+            "gash",
+            "cut"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard for meanings related to blood; informal, especially British English for the intensifier."
+}

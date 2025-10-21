@@ -1,0 +1,78 @@
+{
+  "WORD":"parameter",
+  "IPA":"/pəˈræmɪtər/",
+  "CONJUGATES":"parameters",
+  "ETYMOLOGY":"From New Latin *parameter*, from Ancient Greek *παρά* (pará, 'beside, beyond') + *μέτρον* (métron, 'measure'). Coined in mathematics in the 17th century.",
+  "SINCE":"Late 17th century (mathematics), mid-20th century (general use)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a parameter of [sth] | [sth] parameter",
+      "POS":"n.count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "statistics",
+        "technical"
+      ],
+      "DEF_EN":"A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.",
+      "DEF_ZH":"决定系统、函数或模型特性的变量或常数；参数。",
+      "SENT_EN":"The temperature is a crucial parameter in this chemical reaction.",
+      "SENT_ZH":"温度是这个化学反应中的一个关键参数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "variable",
+            "factor",
+            "metric",
+            "coefficient"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dimension",
+            "attribute",
+            "indicator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"within the parameters of [sth] | a parameter for [sth]",
+      "POS":"n.count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "general usage",
+        "common"
+      ],
+      "DEF_EN":"A factor or characteristic that helps to define a particular situation or problem; often used to refer to a boundary or limit.",
+      "DEF_ZH":"构成或界定某事物的特性或因素；限定条件；范围；准则。",
+      "SENT_EN":"We need to work within the strict parameters of the project budget.",
+      "SENT_ZH":"我们必须在项目预算的严格范围内工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "boundary",
+            "constraint",
+            "criterion",
+            "guideline"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "scope",
+            "framework",
+            "condition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and technical, but also commonly used in general business and academic discussions."
+}

@@ -1,0 +1,125 @@
+{
+  "WORD":"late",
+  "IPA":"/leɪt/",
+  "CONJUGATES":"later | latest | lately",
+  "ETYMOLOGY":"From Middle English late, from Old English læt ('slow, tardy'), from Proto-Germanic *lataz.",
+  "SINCE":"Before 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth] is late",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "time"
+      ],
+      "DEF_EN":"Arriving, happening, or done after the due, expected, or customary time.",
+      "DEF_ZH":"迟到的；超过预定时间的；晚点的。",
+      "SENT_EN":"I must apologize for my late arrival.",
+      "SENT_ZH":"我必须为我的迟到道歉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tardy",
+            "overdue",
+            "delayed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "early",
+            "punctual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the late [sth] (e.g., late 20th century)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "time",
+        "description"
+      ],
+      "DEF_EN":"Occurring toward the end of a specified period, process, or series.",
+      "DEF_ZH":"后期的；接近末尾的；晚期的。",
+      "SENT_EN":"We experienced a sudden cold snap in late autumn.",
+      "SENT_ZH":"我们在深秋遭遇了一次突如其来的寒流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "latter",
+            "closing"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "early",
+            "initial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the late [person]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "euphemism"
+      ],
+      "DEF_EN":"Denoting a person who has recently died.",
+      "DEF_ZH":"已故的；已逝的（用于人名或职称前）。",
+      "SENT_EN":"The foundation was established in honor of the late President Smith.",
+      "SENT_ZH":"该基金会是为纪念已故的史密斯总统而设立的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deceased",
+            "departed",
+            "former"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"do [sth] late",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"After the usual, scheduled, or expected time.",
+      "DEF_ZH":"迟；晚；延期地。",
+      "SENT_EN":"The plane left two hours late due to heavy fog.",
+      "SENT_ZH":"由于大雾，飞机晚点两小时起飞。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "early"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stay up late",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "time"
+      ],
+      "DEF_EN":"Far on in the day or night.",
+      "DEF_ZH":"到很晚；深夜。",
+      "SENT_EN":"I often work late into the evening.",
+      "SENT_ZH":"我经常工作到深夜。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common usage in all contexts"
+}

@@ -1,0 +1,99 @@
+{
+  "WORD":"patent",
+  "IPA":"/ˈpætənt/, /ˈpeɪtənt/",
+  "CONJUGATES":"patents (n. pl.) | patents | patented | patenting (v.)",
+  "ETYMOLOGY":"From Middle English *patent*, from Old French *patente*, ultimately from Latin *patēns* (present participle of *patēre* 'to lie open, be open'). Originally referring to *litterae patentes* (letters patent), an open document issued by a sovereign or government conferring a right.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"A government-granted exclusive right or license for a set period, especially the sole right to exclude others from making, using, or selling an invention.",
+      "DEF_ZH":"专利权；专利证书。政府在特定时期内授予的排他性权利或许可，特别是对发明创造的制造、使用或销售的独占权。",
+      "SENT_EN":"They successfully defended their patent against infringement claims.",
+      "SENT_ZH":"他们成功地为自己的专利辩护，对抗侵权索赔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "copyright",
+            "license",
+            "exclusive right"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "invention",
+            "trademark",
+            "intellectual property"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (often negative)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive",
+        "formal"
+      ],
+      "DEF_EN":"Plainly evident; obvious and unconcealed (used primarily with the /ˈpeɪtənt/ pronunciation, especially in UK English, but generally common).",
+      "DEF_ZH":"明显的；显而易见的；公开的（通常指负面事物）。",
+      "SENT_EN":"His claim that he wasn't involved was a patent lie.",
+      "SENT_ZH":"他声称自己没有参与，这是一个明显的谎言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obvious",
+            "evident",
+            "unmistakable",
+            "blatant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concealed",
+            "hidden",
+            "subtle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"patent [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "technical",
+        "legal"
+      ],
+      "DEF_EN":"To obtain or secure a patent for an invention or process.",
+      "DEF_ZH":"为（某项发明）取得专利权。",
+      "SENT_EN":"We need to patent this new formula immediately before the competitors copy it.",
+      "SENT_ZH":"我们需要立即为这个新配方申请专利，以免竞争对手效仿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "register",
+            "secure",
+            "protect"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in legal, business, and general contexts."
+}

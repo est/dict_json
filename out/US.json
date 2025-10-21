@@ -1,0 +1,69 @@
+{
+  "WORD":"us",
+  "IPA":"/ʌs/",
+  "CONJUGATES":"We | Our | Ours",
+  "ETYMOLOGY":"From Old English ūs (dative and accusative of wē 'we'), from Proto-Germanic *uns (accusative plural of the first person pronoun).",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[verb] us [prep]",
+      "POS":"pron",
+      "POS_TIP":"pronoun (first person plural, objective case)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The objective case of the pronoun 'we', referring to the speaker and one or more others as the object of a verb or preposition.",
+      "DEF_ZH":"我们（第一人称复数宾格），指代说话者及其他人在句中充当动词或介词的宾语。",
+      "SENT_EN":"Can you call us when you arrive at the station?",
+      "SENT_ZH":"你到车站时能给我们打电话吗？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "we",
+            "our",
+            "ourselves"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"US (United States)",
+      "POS":"abbr",
+      "POS_TIP":"abbreviation (proper noun)",
+      "TAGS":[
+        "geopolitical",
+        "common"
+      ],
+      "DEF_EN":"Abbreviation for the United States (of America), used to refer to the country or its government.",
+      "DEF_ZH":"美国（美利坚合众国）的缩写，常指该国或其政府。",
+      "SENT_EN":"The US government issued a travel advisory.",
+      "SENT_ZH":"美国政府发布了旅行警告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "USA",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"US [noun]",
+      "POS":"abbr, adj",
+      "POS_TIP":"abbreviation, adjective",
+      "TAGS":[
+        "geopolitical",
+        "common"
+      ],
+      "DEF_EN":"Of or relating to the United States.",
+      "DEF_ZH":"美国的；属于美国的（用作形容词）。",
+      "SENT_EN":"Do they follow US generally accepted accounting principles?",
+      "SENT_ZH":"他们遵循美国通用会计准则吗？",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General English | Official/Geopolitical Context (when capitalized as US)"
+}

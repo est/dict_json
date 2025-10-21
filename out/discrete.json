@@ -1,0 +1,66 @@
+{
+  "WORD":"discrete",
+  "IPA":"/dɪˈskriːt/",
+  "CONJUGATES":"discretely | discreteness",
+  "ETYMOLOGY":"From Latin discretus, past participle of discernere ('to separate, distinguish'), via Old French discret. Meaning 'individually separate'. (Not to be confused with 'discreet', meaning prudent or cautious.)",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is discrete",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Formal"
+      ],
+      "DEF_EN":"Individually separate and distinct; having an independent existence.",
+      "DEF_ZH":"独立的；不连续的；各自独立的。",
+      "SENT_EN":"The building is made up of several discrete blocks connected by walkways.",
+      "SENT_ZH":"这座建筑由几个独立的体块组成，通过走道连接。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "distinct",
+            "individual",
+            "detached"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "continuous",
+            "unified",
+            "homogeneous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discrete [data/variable/math]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Technical",
+        "Mathematics",
+        "Computer Science"
+      ],
+      "DEF_EN":"(In mathematics and computing) characterized by data or variables that can only take on distinct, separate values (often integers) rather than forming a continuous range.",
+      "DEF_ZH":"（数学或计算机科学）离散的；指变量或数值只能取有限或可数个明确的值，而非连续变化。",
+      "SENT_EN":"A count of the number of customers is a discrete variable, whereas time is continuous.",
+      "SENT_ZH":"顾客数量的计数是离散变量，而时间是连续的。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "continuous",
+            "analog"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Technical"
+}

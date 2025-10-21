@@ -1,0 +1,63 @@
+{
+  "WORD":"context",
+  "IPA":"/ˈkɒntɛkst/",
+  "CONJUGATES":"contexts",
+  "ETYMOLOGY":"From Latin contextus ('a joining together, connection, sequence'), past participle of contexere ('to weave together'), from con- ('together') + texere ('to weave').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"context [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The circumstances, environment, or background information relevant to a particular event, statement, or idea, which allows it to be fully understood.",
+      "DEF_ZH":"语境；背景；环境；情况。构成某一事件、陈述或想法的背景信息或环境，有助于对其进行全面理解。",
+      "SENT_EN":"It is important to consider the cultural context before judging their customs.",
+      "SENT_ZH":"在评判他们的习俗之前，考虑其文化背景非常重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "setting",
+            "background",
+            "circumstances",
+            "framework"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "contextualize",
+            "contextual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"context [of a word/passage]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "linguistics",
+        "literary"
+      ],
+      "DEF_EN":"The surrounding text (words, phrases, or sentences) of a particular word or passage that clarify its meaning.",
+      "DEF_ZH":"上下文。（一个词语或段落）前后的文字，有助于确定其含义。",
+      "SENT_EN":"I couldn't figure out what the archaic word meant without reading the surrounding context.",
+      "SENT_ZH":"如果我不阅读周围的上下文，我就无法弄清楚那个古老的词是什么意思。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surrounding text",
+            "co-text"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, General"
+}

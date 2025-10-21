@@ -1,0 +1,114 @@
+{
+  "WORD":"gauge",
+  "IPA":"/ɡeɪdʒ/",
+  "CONJUGATES":"gauges (n. plural) | gauges (v. 3rd person singular present) | gauging (v. present participle) | gauged (v. past tense, past participle)",
+  "ETYMOLOGY":"From Old Northern French gauge (standard measure), from Frankish *galga (measuring rod), from Proto-Germanic *galgō (pole, rod). Related to 'gallows'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a gauge (for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"An instrument or device for measuring or testing, especially a quantity like pressure, temperature, or fuel level.",
+      "DEF_ZH":"测量或测试的仪器或装置，尤指用于测量压力、温度或燃油量等。",
+      "SENT_EN":"The car's fuel gauge was showing empty.",
+      "SENT_ZH":"汽车的燃油表显示为空。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meter",
+            "indicator",
+            "dial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the gauge of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A standard measure or a specific dimension, especially the distance between the rails of a railway track, or the thickness of sheet metal, wire, or knitting yarn.",
+      "DEF_ZH":"标准尺寸或特定规格，尤指铁轨间的距离（轨距），或金属板、电线、编织线的厚度。",
+      "SENT_EN":"This railway line uses a narrow gauge.",
+      "SENT_ZH":"这条铁路线使用的是窄轨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "standard",
+            "measure",
+            "caliber",
+            "dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gauge [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To calculate or estimate a quantity, dimension, or characteristic, often using a device; to measure precisely.",
+      "DEF_ZH":"（常使用仪器）计算、估量或精确测量某个数量、尺寸或特征。",
+      "SENT_EN":"Engineers gauged the depth of the river.",
+      "SENT_ZH":"工程师测量了河流的深度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure",
+            "calculate",
+            "estimate",
+            "determine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gauge [sth] | gauge [sb/sth] (as/at) [adj/n]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To form a judgment or assessment of (a situation, quality, or feeling); to assess someone's mood or reaction.",
+      "DEF_ZH":"判断或评估（情况、质量或感受）；衡量某人的情绪或反应。",
+      "SENT_EN":"It was difficult to gauge the public's reaction to the new policy.",
+      "SENT_ZH":"很难衡量公众对新政策的反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assess",
+            "evaluate",
+            "appraise",
+            "judge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misjudge",
+            "miscalculate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

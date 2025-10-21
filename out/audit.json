@@ -1,0 +1,79 @@
+{
+  "WORD":"audit",
+  "IPA":"/'ɔːdɪt/",
+  "CONJUGATES":"audits | audited | auditing",
+  "ETYMOLOGY":"From Latin *auditus* ('a hearing'), past participle of *audire* ('to hear'), referring originally to the official examination of accounts where evidence was presented orally.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "finance",
+        "formal"
+      ],
+      "DEF_EN":"An official, typically independent, inspection and verification of a company's or individual's financial records and accounts.",
+      "DEF_ZH":"对公司或个人财务记录和账目进行的正式的、通常是独立的检查和核实；审计。",
+      "SENT_EN":"The company's annual report included findings from the external audit.",
+      "SENT_ZH":"公司的年度报告包含了外部审计的结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inspection",
+            "examination",
+            "scrutiny"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "auditor",
+            "accounting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"audit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "finance",
+        "formal"
+      ],
+      "DEF_EN":"To officially examine and verify the financial accounts and records of a company or individual.",
+      "DEF_ZH":"对（某公司或个人的财务记录）进行审计或核查。",
+      "SENT_EN":"The IRS decided to audit his tax returns for the last three years.",
+      "SENT_ZH":"美国国税局决定审计他过去三年的纳税申报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inspect",
+            "examine",
+            "verify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"audit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "education",
+        "specialized"
+      ],
+      "DEF_EN":"To attend a course or class informally without registering for credit, grades, or formal certification.",
+      "DEF_ZH":"旁听；选课但不要求学分或成绩。",
+      "SENT_EN":"She chose to audit the history course as she didn't need the credit.",
+      "SENT_ZH":"她选择旁听这门历史课，因为她不需要学分。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Business, Finance, Education"
+}

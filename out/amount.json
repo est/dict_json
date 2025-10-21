@@ -1,0 +1,92 @@
+{
+  "WORD":"amount",
+  "IPA":"/əˈmaʊnt/",
+  "CONJUGATES":"amounts | amounted | amounting",
+  "ETYMOLOGY":"From Middle English amounten, derived from Old French amonter ('to climb up, ascend, rise'), from the phrase a mont ('upwards'), ultimately from Latin ad montem ('to the mountain').",
+  "SINCE":"Late 13th century (verb), Late 14th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an/the] amount [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "quantitative"
+      ],
+      "DEF_EN":"A quantity of something, especially the total sum or mass of an uncountable substance or abstract measure.",
+      "DEF_ZH":"数量；总量；总额",
+      "SENT_EN":"We need a significant amount of capital to start the project.",
+      "SENT_ZH":"我们需要大量的资金来启动这个项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quantity",
+            "sum",
+            "total",
+            "magnitude"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "volume",
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"amount [to sth]",
+      "POS":"v. intr. + prep.",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "common",
+        "financial",
+        "calculation"
+      ],
+      "DEF_EN":"To total or come to a specified quantity or sum when calculated.",
+      "DEF_ZH":"(总计) 达到；总共是；合计为",
+      "SENT_EN":"The final bill amounted to nearly $2000.",
+      "SENT_ZH":"最终的账单总计接近2000美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "total",
+            "sum up",
+            "equal",
+            "reach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"amount [to sth]",
+      "POS":"v. intr. + prep.",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "common",
+        "abstract",
+        "figurative"
+      ],
+      "DEF_EN":"To be equivalent to or have the same effect, status, or significance as something else (often used idiomatically, e.g., 'amount to nothing').",
+      "DEF_ZH":"等同于；无异于；实际意味着",
+      "SENT_EN":"His silence amounted to an admission of his failure.",
+      "SENT_ZH":"他的沉默等同于承认了他的失败。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equate to",
+            "constitute",
+            "signify",
+            "be tantamount to"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

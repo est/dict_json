@@ -1,0 +1,81 @@
+{
+  "WORD":"moor",
+  "IPA":"/mʊər/ | /mɔːr/",
+  "CONJUGATES":"moors | moored | mooring (verb) | moors (noun, land)",
+  "ETYMOLOGY":"Two distinct origins. Noun (land): From Old English mōr (marsh, swamp, heath). Verb (secure): Possibly related to Middle Low German mōren (to tie up). Noun (person): From Latin Maurus, via Greek Mauros, referring to inhabitants of Mauretania (NW Africa).",
+  "SINCE":"Before 900 AD (land); 14th Century (secure); 13th Century (person)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] moor(s)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "UK English"
+      ],
+      "DEF_EN":"A tract of open, uncultivated upland, especially in Britain, covered with heather, grasses, and often peat.",
+      "DEF_ZH":"高沼地；荒野（尤指英国长满石南、野草和泥煤的高地）",
+      "SENT_EN":"We hiked across the desolate moor for hours before reaching the village.",
+      "SENT_ZH":"我们在荒凉的高沼地上徒步了数小时才到达村庄。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heath",
+            "fell",
+            "upland"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"moor [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "nautical"
+      ],
+      "DEF_EN":"To secure a boat or ship in a particular place by attaching it by cables or anchors to the shore or to the bottom of a body of water.",
+      "DEF_ZH":"停泊；系泊（用缆绳或锚将船只固定在特定地点）",
+      "SENT_EN":"The captain decided to moor the yacht close to the sheltered inlet.",
+      "SENT_ZH":"船长决定将游艇系泊在靠近有遮蔽的内湾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dock",
+            "berth",
+            "anchor",
+            "tie up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] Moor",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "dated"
+      ],
+      "DEF_EN":"A member of the Muslim population of northwestern Africa (Maghreb) who conquered Spain in the 8th century.",
+      "DEF_ZH":"摩尔人（历史上指8世纪侵入西班牙的西北非穆斯林民族）",
+      "SENT_EN":"The influence of the Moors on Spanish architecture is undeniable.",
+      "SENT_ZH":"摩尔人对西班牙建筑的影响是毋庸置疑的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Morisco",
+            "Mauretania",
+            "Andalusia"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general usage (land/verb); Historical context (person)."
+}

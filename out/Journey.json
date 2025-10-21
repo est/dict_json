@@ -1,0 +1,88 @@
+{
+  "WORD":"journey",
+  "IPA":"/ˈdʒɜːrni/",
+  "CONJUGATES":"journeys | journeying | journeyed",
+  "ETYMOLOGY":"From Middle English journee (c. 13th century), derived from Old French journée ('a day, a day's travel, a day's work'), from Late Latin diurnata, ultimately related to Latin diurnus ('daily') and dies ('day').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"journey (from [place] to [place])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act of traveling from one place to another, often over a long distance or a long period.",
+      "DEF_ZH":"从一个地方到另一个地方的旅行或行程，通常指较长距离或较长时间的移动。",
+      "SENT_EN":"The family undertook a long journey across the continent.",
+      "SENT_ZH":"这家人进行了一次穿越大陆的长途旅行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trip",
+            "voyage",
+            "expedition",
+            "trek"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "travel",
+            "commute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"journey (through [experience])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "metaphorical",
+        "abstract"
+      ],
+      "DEF_EN":"A long and often difficult process of personal change, development, or discovery.",
+      "DEF_ZH":"一个长期且往往充满挑战的个人变化、发展、探索或经历过程。",
+      "SENT_EN":"She described her battle with illness as a spiritual journey.",
+      "SENT_ZH":"她将自己与疾病的斗争描述为一次精神之旅。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "process",
+            "path",
+            "odyssey",
+            "evolution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"journey (to [place])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To travel or make a trip.",
+      "DEF_ZH":"旅行；进行长途或正式的旅行。",
+      "SENT_EN":"They journeyed south to visit their grandparents for the holidays.",
+      "SENT_ZH":"他们在假期向南行进，去拜访他们的祖父母。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "travel",
+            "trek",
+            "wander"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, widely used in both literal and metaphorical contexts."
+}

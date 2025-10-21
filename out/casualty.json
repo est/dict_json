@@ -1,0 +1,64 @@
+{
+  "WORD":"casualty",
+  "IPA":"/ˈkæʒuəlti/",
+  "CONJUGATES":"casualties (plural)",
+  "ETYMOLOGY":"From Middle English *casualte*, derived from Old French *casualité* (chance, accident), ultimately from Late Latin *casualitas*, from *casualis* (accidental, resulting from chance). The meaning shifted from 'accident' to 'the result of an accident' or 'victim'.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"casualty [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "common"
+      ],
+      "DEF_EN":"A person killed or injured in a war, accident, or disaster.",
+      "DEF_ZH":"（战争、事故或灾难中的）伤亡人员；受害者。",
+      "SENT_EN":"The official report stated that there were over 500 casualties in the conflict.",
+      "SENT_ZH":"官方报告称，冲突中有超过500人伤亡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "victim",
+            "fatality",
+            "wounded"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "death toll",
+            "injury"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"casualty (of sth)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A person, thing, or organization that is badly affected by an event or situation, often resulting in loss or failure.",
+      "DEF_ZH":"（某事件或局势的）受害者；牺牲品；受损事物。",
+      "SENT_EN":"The struggling newspaper was the latest casualty of the digital media revolution.",
+      "SENT_ZH":"这家苦苦挣扎的报纸是数字媒体革命的最新牺牲品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "victim",
+            "sufferer",
+            "sacrifice"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal (often used in news and military reporting)"
+}

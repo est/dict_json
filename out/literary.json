@@ -1,0 +1,95 @@
+{
+  "WORD":"literary",
+  "IPA":"/ˈlɪtərɛri/",
+  "CONJUGATES":"more literary | most literary",
+  "ETYMOLOGY":"From Late Latin litterarius ('of letters, reading, or grammar'), derived from Latin littera ('letter of the alphabet'). First attested in English referring to learning and scholarship.",
+  "SINCE":"Mid-15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"literary [work/genre/criticism]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Pertaining to, concerned with, or characteristic of the writing, study, or content of literature, especially works considered to have artistic or intellectual value.",
+      "DEF_ZH":"文学的；与文学创作、研究或内容相关的，特指具有艺术或思想价值的作品。",
+      "SENT_EN":"She decided to major in literary studies because of her deep love for classic novels.",
+      "SENT_ZH":"由于她对经典小说的热爱，她决定主修文学研究。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "textual",
+            "belletristic",
+            "scholarly"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "literature",
+            "writer",
+            "poetic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"literary [style/language]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "formal"
+      ],
+      "DEF_EN":"Using language or style that is formal, elegant, or elevated, often suggesting complexity or sophistication suitable for written works rather than everyday speech.",
+      "DEF_ZH":"（语言、风格）书面的；讲究辞藻的；过于正式或雕琢的。",
+      "SENT_EN":"His spoken English was too literary, making it difficult for the casual listeners to follow.",
+      "SENT_ZH":"他的口语过于书面化，使得普通听众很难跟上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "formal",
+            "elevated",
+            "rhetorical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "colloquial",
+            "informal",
+            "vernacular"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"literary [figure/community]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "contextual"
+      ],
+      "DEF_EN":"Relating to the social circle or profession of authors, poets, and critics.",
+      "DEF_ZH":"文人（界）的；从事文学工作或研究的人群的。",
+      "SENT_EN":"The cafe became a famous hub for the city's literary community.",
+      "SENT_ZH":"这家咖啡馆成了该市著名文人圈子的中心。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "authorial",
+            "critique",
+            "intellectual"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Formal Contexts"
+}

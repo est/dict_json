@@ -1,0 +1,108 @@
+{
+  "WORD":"binary",
+  "IPA":"/ˈbaɪnəri/",
+  "CONJUGATES":"binaries (plural noun)",
+  "ETYMOLOGY":"From Latin bīnārius ('of or belonging to two'), from bīnī ('two by two').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is binary",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word or phrase that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to, composed of, or involving two things or parts; characterized by two states or options.",
+      "DEF_ZH":"由两个事物或部分组成的；涉及或基于两种状态或选择的。",
+      "SENT_EN":"The debate presented a binary choice: either you are with us or against us.",
+      "SENT_ZH":"这场辩论提出了一个二元选择：要么与我们同在，要么反对我们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dual",
+            "double",
+            "twofold"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unitary",
+            "multiple"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"binary [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word or phrase that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"Relating to or expressed in a system of numerical notation that has 2 rather than 10 as its base, using only the digits 0 and 1.",
+      "DEF_ZH":"关于或以一种以2而不是10为基数的数字表示系统表示的，仅使用数字0和1。",
+      "SENT_EN":"Computers process information using binary code.",
+      "SENT_ZH":"计算机使用二进制代码处理信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "digital"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a binary | the binary",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A system in which information is represented by two states, such as 0 and 1. Also, an executable computer file (as opposed to source code).",
+      "DEF_ZH":"一个信息由两种状态（如0和1）表示的系统。也指计算机的可执行文件（与源代码相对）。",
+      "SENT_EN":"After compilation, the software is packaged into a binary for distribution.",
+      "SENT_ZH":"编译后，软件被打包成一个二进制文件进行分发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "executable",
+            "program",
+            "machine code"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a binary | binary star",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "technical",
+        "astronomy",
+        "specialized"
+      ],
+      "DEF_EN":"A system of two stars orbiting a common center of mass, also known as a binary star system.",
+      "DEF_ZH":"由两颗恒星围绕共同质心运行的系统，也称为双星系统。",
+      "SENT_EN":"Astronomers discovered a new binary in a distant galaxy.",
+      "SENT_ZH":"天文学家在遥远的星系中发现了一个新的双星系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "double star",
+            "binary star system"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, and specifically technical in computing and astronomy contexts."
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"discourse",
+  "IPA":"/dɪˈskɔːrs/",
+  "CONJUGATES":"discourses (plural noun) | discourses (3rd person singular present) | discoursing (present participle) | discoursed (past tense, past participle)",
+  "ETYMOLOGY":"From Old French discourir ('to run about, to talk, discuss'), from Latin discursus ('a running to and fro, discourse'), from discurrere ('to run to and fro, to discuss'), from dis- 'apart, away' + currere 'to run'.",
+  "SINCE":"Late 14th century (as a verb); mid-16th century (as a noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] discourse | discourse on/about [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"A long and serious treatment or discussion of a subject in speech or writing.",
+      "DEF_ZH":"对某一主题进行的正式而严肃的口头或书面论述或讨论。",
+      "SENT_EN":"The professor delivered a fascinating discourse on the history of economic thought.",
+      "SENT_ZH":"教授就经济思想史进行了一次引人入胜的论述。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discussion",
+            "conversation",
+            "dialogue",
+            "treatise",
+            "essay",
+            "lecture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] discourse",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "academic",
+        "sociology",
+        "linguistics",
+        "common"
+      ],
+      "DEF_EN":"The language used in a particular field of study or activity, or a particular context; a mode of communication.",
+      "DEF_ZH":"在特定研究领域、活动或语境中使用的语言；一种交流方式。",
+      "SENT_EN":"The political discourse surrounding climate change has become highly polarized.",
+      "SENT_ZH":"围绕气候变化的政治话语已经变得高度两极分化。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rhetoric",
+            "narrative",
+            "ideology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discourse on/upon [sth]",
+      "POS":"verb, intransitive",
+      "POS_TIP":"A verb that does not take a direct object; it expresses a complete thought without one.",
+      "TAGS":[
+        "formal",
+        "less common",
+        "literary"
+      ],
+      "DEF_EN":"To speak or write at length about a subject.",
+      "DEF_ZH":"就某事进行长篇论述或撰写。",
+      "SENT_EN":"He discoursed eloquently upon the virtues of a minimalist lifestyle.",
+      "SENT_ZH":"他就极简主义生活方式的优点滔滔不绝地发表了看法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expound",
+            "lecture",
+            "speak",
+            "converse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, academic, sometimes literary."
+}

@@ -1,0 +1,70 @@
+{
+  "WORD":"crate",
+  "IPA":"/kreɪt/",
+  "CONJUGATES":"crates (n. pl.) | crates (v. 3rd pers. sing. pres.) | crating (v. pres. part.) | crated (v. past tense & past part.)",
+  "ETYMOLOGY":"From Middle Dutch crate 'basket, hamper', related to Proto-Germanic *krato-. The sense of 'box for packing' emerged in the early 19th century.",
+  "SINCE":"Early 15th century (for 'basket'); 1812 (for 'box')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] crate",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large wooden or plastic container used for transporting goods.",
+      "DEF_ZH":"用于运输货物的木制或塑料大箱子。",
+      "SENT_EN":"The workers loaded the crates of fruit onto the truck.",
+      "SENT_ZH":"工人们把一箱箱的水果装上卡车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "box",
+            "case",
+            "container",
+            "package"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"crate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, requiring a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To pack (something) in a crate for storage or transport.",
+      "DEF_ZH":"将（某物）装入板条箱以供储存或运输。",
+      "SENT_EN":"They needed to crate all the fragile items before moving.",
+      "SENT_ZH":"他们需要在搬家前把所有易碎物品都装箱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pack",
+            "box",
+            "case"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"crate [animal]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, requiring a direct object.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To put an animal, especially a dog, into a crate, typically for confinement, training, or transport.",
+      "DEF_ZH":"将动物（尤其是狗）关入笼中，通常是为了限制、训练或运输。",
+      "SENT_EN":"We had to crate the puppy overnight to prevent it from chewing furniture.",
+      "SENT_ZH":"我们不得不把小狗关在笼子里过夜，以防它啃咬家具。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

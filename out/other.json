@@ -1,0 +1,94 @@
+{
+  "WORD":"other",
+  "IPA":"/ˈʌðər/",
+  "CONJUGATES":"others (plural pronoun/noun)",
+  "ETYMOLOGY":"From Old English ōþer ('second, another'), from Proto-Germanic *anþeraz, from Proto-Indo-European *ánteros ('other, inside'), a comparative form of *h₁énti ('in'). Cognate with Latin alter ('other').",
+  "SINCE":"Pre-10th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"other [N]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"different from one already mentioned or known; additional.",
+      "DEF_ZH":"与已提及或已知的事物不同的；另外的，附加的。",
+      "SENT_EN":"Do you have any other questions about the project?",
+      "SENT_ZH":"关于这个项目你还有其他问题吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "another",
+            "different",
+            "additional",
+            "alternative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "same",
+            "identical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the other | others",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that takes the place of a noun or noun phrase",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"referring to the remaining one or ones of a group of people or things previously mentioned or understood.",
+      "DEF_ZH":"指之前提及或已知的一群人或事物中剩余的一个或一些。",
+      "SENT_EN":"One child is playing outside, the others are reading indoors.",
+      "SENT_ZH":"一个孩子在外面玩，其他的在室内看书。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "some",
+            "many",
+            "few"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Other",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "specialized",
+        "philosophical",
+        "sociological"
+      ],
+      "DEF_EN":"(often capitalized) a person or thing that is different from and separate from oneself or itself; often implying alienation or opposition.",
+      "DEF_ZH":"（常大写）他者；异己；与自身不同的事物或人，常暗示疏远或对立。",
+      "SENT_EN":"The concept of 'the Other' is central to postcolonial theory, exploring how groups define themselves against those perceived as different.",
+      "SENT_ZH":"“他者”的概念是后殖民理论的核心，探讨群体如何通过与被认为是不同的人来定义自身。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outsider",
+            "stranger"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "alterity",
+            "alienation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with a specialized meaning in academic contexts."
+}

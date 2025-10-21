@@ -1,0 +1,70 @@
+{
+  "WORD":"them",
+  "IPA":"/ðəm/",
+  "CONJUGATES":"them (objective/demonstrative pronoun) | they (nominative) | their (possessive adjective) | theirs (possessive pronoun) | themselves (reflexive/emphatic)",
+  "ETYMOLOGY":"From Old Norse þeim, dative plural of sá (masculine), sú (feminine), þat (neuter) 'that'. Akin to Old English þām (dative plural of se, sēo, þæt 'the, that').",
+  "SINCE":"Late Old English / Early Middle English (circa 12th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[verb] them",
+      "POS":"pronoun",
+      "POS_TIP":"A word that replaces a noun or noun phrase, typically referring to people or things previously mentioned or easily identified, functioning as the direct or indirect object of a verb or preposition.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used as the object of a verb or preposition to refer to two or more people or things previously mentioned or implied.",
+      "DEF_ZH":"用作动词或介词的宾语，指代之前提及或暗示的两个或更多人或事物。",
+      "SENT_EN":"I saw them leaving the building.",
+      "SENT_ZH":"我看见他们离开了那栋楼。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "they",
+            "their",
+            "theirs",
+            "themselves"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb] them [something]",
+      "POS":"pronoun",
+      "POS_TIP":"A word that replaces a noun or noun phrase, typically referring to people or things previously mentioned or easily identified, functioning as the indirect object of a verb.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used as the indirect object of a verb to refer to two or more people or things.",
+      "DEF_ZH":"用作动词的间接宾语，指代两个或更多人或事物。",
+      "SENT_EN":"She gave them a present.",
+      "SENT_ZH":"她送给了他们一份礼物。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"those them",
+      "POS":"demonstrative pronoun",
+      "POS_TIP":"A pronoun used to point to specific people or things, acting as an object; often used informally or dialectally.",
+      "TAGS":[
+        "informal",
+        "dialectal"
+      ],
+      "DEF_EN":"(Informal, dialectal) Used demonstratively to refer to particular people or things (often used instead of 'those' or 'they').",
+      "DEF_ZH":"（非正式，方言）用作指示代词，指代特定的人或事物（常替代'those'或'they'）。",
+      "SENT_EN":"Look at them flowers, ain't they beautiful?",
+      "SENT_ZH":"看看那些花，它们难道不美吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "those",
+            "they"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to informal, depending on usage. The demonstrative use is typically informal or regional."
+}

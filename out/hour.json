@@ -1,0 +1,103 @@
+{
+  "WORD":"hour",
+  "IPA":"/aʊər/",
+  "CONJUGATES":"hour | hours",
+  "ETYMOLOGY":"From Middle English 'houre', from Old French 'hore', ultimately from Latin 'hōra', and Ancient Greek 'ὥρα' (hṓra, meaning 'time, season, period').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "measurement"
+      ],
+      "DEF_EN":"A unit of time equal to 60 minutes (3,600 seconds).",
+      "DEF_ZH":"时间单位，等于60分钟（3600秒）。",
+      "SENT_EN":"It took an hour and a half to complete the repair.",
+      "SENT_ZH":"完成修理花了一个半小时。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "minute",
+            "second",
+            "day",
+            "week"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A specific time of day, often referenced by a clock, or a designated point in time.",
+      "DEF_ZH":"一天中的某个特定时间点；某个指定的时刻。",
+      "SENT_EN":"The time is set for the dinner hour.",
+      "SENT_ZH":"晚餐的时刻已经定好了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "time",
+            "moment",
+            "o'clock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (usually preceded by an adjective or another noun)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "idiomatic",
+        "contextual"
+      ],
+      "DEF_EN":"A customary or scheduled period for a particular activity.",
+      "DEF_ZH":"用于特定活动的惯常或预定的时段。",
+      "SENT_EN":"Most businesses have specific opening hours.",
+      "SENT_ZH":"大多数企业都有特定的营业时间。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rush hour",
+            "happy hour",
+            "business hours"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (often plural, 'hours')",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A difficult or significant period of time, especially when describing a long duration of effort or suffering.",
+      "DEF_ZH":"一段艰难或重要的时期，尤指描述长时间的努力或痛苦。",
+      "SENT_EN":"They spent long hours preparing for the presentation.",
+      "SENT_ZH":"他们花费了数小时的时间为演示做准备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "duration",
+            "span",
+            "period"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

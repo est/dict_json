@@ -1,0 +1,105 @@
+{
+  "WORD":"many",
+  "IPA":"/ˈmɛni/",
+  "CONJUGATES":"more | most",
+  "ETYMOLOGY":"From Old English manig (adjective) 'many, much', from Proto-Germanic *managaz, from Proto-Indo-European *menag- 'many'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"many [sth]",
+      "POS":"det | adj",
+      "POS_TIP":"A determiner (det) is a word that introduces a noun; an adjective (adj) is a word that describes a noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"a large number of things or people.",
+      "DEF_ZH":"大量的；许多的（用于可数名词前）。",
+      "SENT_EN":"Many students attended the lecture.",
+      "SENT_ZH":"许多学生参加了讲座。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "numerous",
+            "countless",
+            "myriad"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "few",
+            "scarcely any",
+            "no"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "much"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"many",
+      "POS":"pron",
+      "POS_TIP":"A pronoun (pron) is a word that can substitute for a noun or noun phrase.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"a large number of things or people.",
+      "DEF_ZH":"许多（指人或物，作代词用）。",
+      "SENT_EN":"Many of them are still waiting for a decision.",
+      "SENT_ZH":"他们中的许多人仍在等待决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "a lot",
+            "numerous ones"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "few",
+            "none"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the many",
+      "POS":"adj",
+      "POS_TIP":"An adjective (adj) is a word that describes a noun; here used as a noun to refer to a group of people.",
+      "TAGS":[
+        "literary",
+        "archaic"
+      ],
+      "DEF_EN":"the majority of people; the common people.",
+      "DEF_ZH":"大多数人；民众（通常与 'the' 连用）。",
+      "SENT_EN":"The welfare of the many outweighs the welfare of the few.",
+      "SENT_ZH":"大多数人的福祉重于少数人的福祉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "the populace",
+            "the masses"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "the few",
+            "the elite"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

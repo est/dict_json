@@ -1,0 +1,130 @@
+{
+  "WORD":"dummy",
+  "IPA":"/ˈdʌmi/",
+  "CONJUGATES":"dummies (plural noun) | dummied (past tense verb) | dummied (past participle verb) | dummying (present participle verb)",
+  "ETYMOLOGY":"Mid 16th century, from earlier dumb (meaning 'mute') + -y (diminutive suffix). Originally referred to a mute person, then a stupid person, and later to a model or imitation.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] dummy [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A model of a human, used for display or practice, or a representation of an object for testing or substitution.",
+      "DEF_ZH":"人体模型，用于展示或练习；或用于测试或替代的物体模型。",
+      "SENT_EN":"The shop window displayed new clothes on a tailor's dummy.",
+      "SENT_ZH":"商店橱窗里的人体模型展示着新衣服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mannequin",
+            "model",
+            "replica",
+            "substitute"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "crash test dummy",
+            "ventriloquist's dummy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is a dummy",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "informal",
+        "colloquial",
+        "derogatory"
+      ],
+      "DEF_EN":"A stupid or foolish person.",
+      "DEF_ZH":"愚蠢或笨拙的人。",
+      "SENT_EN":"Don't be such a dummy, you can figure this out!",
+      "SENT_ZH":"别那么笨，你能想明白的！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "idiot",
+            "fool",
+            "nitwit",
+            "blockhead"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "genius",
+            "intellectual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dummy [sth]",
+      "POS":"adjective",
+      "POS_TIP":"A word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"Not real; designed to look like something real but actually a substitute, imitation, or non-functional version.",
+      "DEF_ZH":"不真实的；看起来像真的，但实际上是替代品、仿制品或非功能性版本。",
+      "SENT_EN":"The thief replaced the real diamonds with dummy jewels.",
+      "SENT_ZH":"小偷用假珠宝替换了真钻石。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fake",
+            "imitation",
+            "simulated",
+            "bogus",
+            "mock"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "real",
+            "genuine",
+            "authentic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dummy [sth]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes one or more objects.",
+      "TAGS":[
+        "less common",
+        "technical"
+      ],
+      "DEF_EN":"To make a model or imitation of something; to prepare a blank version, especially for testing or presentation.",
+      "DEF_ZH":"制作某物的模型或仿制品；准备一个空白版本，尤指用于测试或展示。",
+      "SENT_EN":"They dummied up a prototype to test the ergonomic design.",
+      "SENT_ZH":"他们制作了一个原型来测试人体工程学设计。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "model",
+            "mock up",
+            "simulate",
+            "prototype"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific informal or derogatory connotations depending on the context."
+}

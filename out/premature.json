@@ -1,0 +1,88 @@
+{
+  "WORD":"premature",
+  "IPA":"/ˌpriːməˈtʃʊər/",
+  "CONJUGATES":"prematurely (adverb) | prematurity (noun)",
+  "ETYMOLOGY":"From Latin *prae-* (before) + *maturus* (ripe, early). Meaning 'happening too early' emerged in Middle English.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is premature",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Occurring or existing before the expected, usual, or appropriate time.",
+      "DEF_ZH":"过早的；不成熟的；提前的",
+      "SENT_EN":"The celebration proved premature when the opposing team scored in the final minute.",
+      "SENT_ZH":"当对方球队在最后一分钟得分时，事实证明庆祝为时过早。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "untimely",
+            "early",
+            "too soon",
+            "ill-timed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "overdue",
+            "belated",
+            "late"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"premature birth | a premature baby",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "medical",
+        "specialized"
+      ],
+      "DEF_EN":"Relating to a birth occurring before the end of the full term of gestation (usually defined as before 37 weeks of pregnancy).",
+      "DEF_ZH":"早产的 (指婴儿或分娩)",
+      "SENT_EN":"Advances in medicine have greatly improved the survival rate of premature infants.",
+      "SENT_ZH":"医学的进步极大地提高了早产儿的存活率。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "full-term",
+            "neonatal",
+            "gestation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a premature conclusion/judgement",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Characterized by haste, or based on insufficient evidence or consideration.",
+      "DEF_ZH":"仓促的；草率的；缺乏深思熟虑的",
+      "SENT_EN":"It would be premature to assume the project has failed after only one setback.",
+      "SENT_ZH":"仅凭一次挫折就断定项目失败是草率的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hasty",
+            "rash",
+            "ill-advised"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

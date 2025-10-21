@@ -1,0 +1,88 @@
+{
+  "WORD":"heating",
+  "IPA":"/ˈhiːtɪŋ/",
+  "CONJUGATES":"heat (base form) | heats (3rd person singular present) | heating (present participle/gerund) | heated (past tense/past participle)",
+  "ETYMOLOGY":"From the verb 'heat' + the suffix '-ing'. The verb 'heat' comes from Old English 'hǣtan' (to make hot) and the noun 'hǣtu' (heat, warmth).",
+  "SINCE":"Late Old English (for 'heat'); as a noun for a system, early 19th century.",
+  "MEANINGS":[
+    {
+      "PATTERN":"heating",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The equipment or system used to provide warmth to a building or space.",
+      "DEF_ZH":"为建筑物或空间提供温暖的设备或系统。",
+      "SENT_EN":"The central heating system broke down during the cold snap.",
+      "SENT_ZH":"寒潮期间，中央供暖系统坏了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "furnace",
+            "boiler",
+            "radiator",
+            "warmth",
+            "heating system"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heating of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (gerundial form of a verb)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action or process of making something hot or warm.",
+      "DEF_ZH":"使某物变热或变暖的行为或过程。",
+      "SENT_EN":"The rapid heating of the metal caused it to expand.",
+      "SENT_ZH":"金属的快速加热导致它膨胀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "warming",
+            "combustion",
+            "calefaction"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cooling",
+            "chilling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heating [sth] (noun)",
+      "POS":"adj",
+      "POS_TIP":"adjective (present participle form of a verb)",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"Serving to make something hot or provide heat.",
+      "DEF_ZH":"用于使某物变热或提供热量的。",
+      "SENT_EN":"We need to install a new heating element in the oven.",
+      "SENT_ZH":"我们需要在烤箱里安装一个新的加热元件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "thermal",
+            "calorific",
+            "warming"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

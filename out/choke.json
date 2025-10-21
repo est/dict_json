@@ -1,0 +1,106 @@
+{
+  "WORD":"choke",
+  "IPA":"/tʃoʊk/",
+  "CONJUGATES":"choked | choking | chokes",
+  "ETYMOLOGY":"From Middle English chokken (c. 1300), likely related to the jaw/cheek area, meaning 'to be obstructed in the throat'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"choke [sb/sth] | choke on [sth]",
+      "POS":"vtr | vi + prep",
+      "POS_TIP":"Transitive verb | Intransitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To prevent someone from breathing or swallowing by blocking or squeezing the throat or airway; to suffer from this obstruction.",
+      "DEF_ZH":"使窒息；卡住；噎住（指呼吸道或食道被阻塞）。",
+      "SENT_EN":"The doctor had to perform the Heimlich maneuver because the man was choking on a fish bone.",
+      "SENT_ZH":"医生不得不进行海姆立克急救法，因为那名男子被鱼刺噎住了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suffocate",
+            "strangle",
+            "gag"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "asphyxiate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"choke [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "descriptive",
+        "technical"
+      ],
+      "DEF_EN":"To clog or obstruct a passage, pipe, or channel, preventing flow or movement.",
+      "DEF_ZH":"堵塞；阻塞（通道、管道等）。",
+      "SENT_EN":"The river was choked with weeds and debris after the flood.",
+      "SENT_ZH":"洪水过后，河道被杂草和碎屑堵塞了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clog",
+            "block",
+            "obstruct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"choke",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "informal",
+        "sports"
+      ],
+      "DEF_EN":"To fail to perform successfully at a critical moment, especially in a sports competition, usually due to nervousness or high pressure.",
+      "DEF_ZH":"（在关键时刻）因紧张或压力而发挥失常；失手。",
+      "SENT_EN":"The team had a huge lead, but they choked in the last quarter and lost the game.",
+      "SENT_ZH":"这支队伍曾遥遥领先，但在最后一节他们失常了，输掉了比赛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fold",
+            "buckle",
+            "fail"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "excel",
+            "thrive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a choke",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "automotive"
+      ],
+      "DEF_EN":"A device in a carburetor that regulates the amount of air mixing with fuel, especially for starting a cold engine.",
+      "DEF_ZH":"（发动机的）阻风门；风门。",
+      "SENT_EN":"Older cars often require the driver to pull the choke before starting in the winter.",
+      "SENT_ZH":"在冬天，旧车通常要求司机在启动前拉出阻风门。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Sports, Technical"
+}

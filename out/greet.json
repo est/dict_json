@@ -1,0 +1,90 @@
+{
+  "WORD":"greet",
+  "IPA":"/ɡriːt/",
+  "CONJUGATES":"greets | greeted | greeting",
+  "ETYMOLOGY":"From Old English grētan 'to approach, attack, salute, address', which is of Germanic origin. The sense of salutation became dominant in Middle English.",
+  "SINCE":"Old English (pre-1150)",
+  "MEANINGS":[
+    {
+      "PATTERN":"greet [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "politeness"
+      ],
+      "DEF_EN":"To address someone with a friendly word or gesture upon meeting or arrival.",
+      "DEF_ZH":"问候；打招呼；致意（在相遇或到达时用友好言语或姿势）。",
+      "SENT_EN":"The host came to the door to greet their guests personally.",
+      "SENT_ZH":"主人来到门口亲自迎接他们的客人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hail",
+            "salute",
+            "welcome",
+            "address"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignore",
+            "shun",
+            "snub"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] greets [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"(Of a sight, sound, or smell) to become immediately apparent or perceptible to someone on arrival.",
+      "DEF_ZH":"（景象、声音或气味）映入眼帘；扑面而来；传入耳中。",
+      "SENT_EN":"Silence greeted the investigator as he entered the abandoned mansion.",
+      "SENT_ZH":"当调查员进入这座废弃的豪宅时，他感受到的只有寂静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meet",
+            "assail",
+            "encounter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"greet [sth] (with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "response"
+      ],
+      "DEF_EN":"To receive or respond to an event, proposal, or statement in a specific manner.",
+      "DEF_ZH":"对（某事）作出反应；回应；接受。",
+      "SENT_EN":"The manager's new policy was greeted with skepticism by the staff.",
+      "SENT_ZH":"经理的新政策受到了员工的质疑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "receive",
+            "react to",
+            "respond to"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

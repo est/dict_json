@@ -1,0 +1,98 @@
+{
+  "WORD":"phone",
+  "IPA":"/foʊn/",
+  "CONJUGATES":"phones (n. plural) | phones (v. 3rd person singular present) | phoning (v. present participle) | phoned (v. past tense/past participle)",
+  "ETYMOLOGY":"Shortened form of telephone, which comes from Ancient Greek tēle (τῆλε, 'far') + phōnē (φωνή, 'voice, sound').",
+  "SINCE":"c. 1878",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] [sb's] phone | on the phone",
+      "POS":"n",
+      "POS_TIP":"n: noun (a word that names something)",
+      "TAGS":[
+        "core word",
+        "very common",
+        "technology"
+      ],
+      "DEF_EN":"A device used to transmit sound (voice) over distances, especially a mobile device (cell phone/smartphone).",
+      "DEF_ZH":"用于远距离传输声音（语音）的设备，尤指移动设备（手机/智能手机）。",
+      "SENT_EN":"Please turn off your phone during the movie.",
+      "SENT_ZH":"观看电影时请关闭您的手机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cellphone",
+            "mobile",
+            "smartphone",
+            "handset"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "telephone",
+            "landline",
+            "app"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"phone [sb] | phone [sth] (up)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common usage",
+        "communication"
+      ],
+      "DEF_EN":"To contact or speak to someone using a telephone; to make a phone call.",
+      "DEF_ZH":"通过电话联系或与某人交谈；打电话。",
+      "SENT_EN":"I need to phone the office to confirm the meeting time.",
+      "SENT_ZH":"我需要给办公室打电话确认会议时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "call",
+            "ring",
+            "contact"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "text",
+            "email"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] phone",
+      "POS":"n",
+      "POS_TIP":"n: noun (a word that names something)",
+      "TAGS":[
+        "technical",
+        "linguistics",
+        "rare usage"
+      ],
+      "DEF_EN":"In phonetics, any distinct speech sound or utterance in a language, regardless of its meaningful function (contrast with phoneme).",
+      "DEF_ZH":"在语音学中，语言中任何独特的语音或发音，不考虑其是否有区别意义的作用（与音位相对）。",
+      "SENT_EN":"The linguist transcribed the sequence of phones in the new dialect.",
+      "SENT_ZH":"语言学家转录了新方言中的语音序列。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "phoneme",
+            "allophone",
+            "vowel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Informal"
+}

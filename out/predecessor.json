@@ -1,0 +1,73 @@
+{
+  "WORD":"predecessor",
+  "IPA":"/ˌpriːdɪˈsesər/",
+  "CONJUGATES":"predecessors",
+  "ETYMOLOGY":"From Middle English predecessour, via Old French predecesseur, ultimately from Latin praedēcessor (prae- 'before' + dēcessor 'one who gives up office, retiring official').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"predecessor [of sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"A person who held a position, office, or role before the current holder.",
+      "DEF_ZH":"前任；接替者之前擔任某一職位或職務的人。",
+      "SENT_EN":"The new manager vowed to fix the problems created by his predecessor.",
+      "SENT_ZH":"新任經理誓言要解決其前任製造的問題。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "forerunner",
+            "antecedent",
+            "former occupant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "successor",
+            "heir"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"predecessor [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technology",
+        "historical",
+        "abstract"
+      ],
+      "DEF_EN":"A thing, system, or concept that has been followed or replaced by another.",
+      "DEF_ZH":"先驅；前身；被另一相似事物取代的事物、系統或概念。",
+      "SENT_EN":"The early vacuum tube computer was the bulky predecessor of the modern microchip-based PC.",
+      "SENT_ZH":"早期的真空管計算機是現代基於微芯片的個人電腦的龐大前身。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prototype",
+            "ancestor",
+            "forerunner",
+            "original"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "successor",
+            "descendant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, often used in professional, historical, or technological contexts."
+}

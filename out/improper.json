@@ -1,0 +1,83 @@
+{
+  "WORD":"improper",
+  "IPA":"/ɪmˈprɒpər/",
+  "CONJUGATES":"improper | more improper | most improper",
+  "ETYMOLOGY":"From Middle English `improper`, from Old French `impropre`, from Latin `improprius` ('not belonging to one's self, not proper or fitting'), from `in-` ('not') + `proprius` ('one's own, proper').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"improper [behavior/conduct/use]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not in accordance with accepted standards of good taste, morality, or appropriateness.",
+      "DEF_ZH":"不合宜的；不适当的；不道德的；不正当的",
+      "SENT_EN":"His improper use of company resources led to his dismissal.",
+      "SENT_ZH":"他对公司资源的不正当使用导致他被解雇。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indecent",
+            "unsuitable",
+            "unbecoming",
+            "inappropriate",
+            "unseemly",
+            "rude",
+            "vulgar",
+            "unethical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "proper",
+            "appropriate",
+            "seemly",
+            "suitable",
+            "decent",
+            "correct",
+            "ethical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"improper [fraction/integral]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"(Of a fraction) having a numerator larger than or equal to the denominator. More generally, not conforming to the usual or standard form.",
+      "DEF_ZH":"(分数)假分数的；(通常)不符合标准形式的；反常的",
+      "SENT_EN":"An improper fraction like 7/4 can be written as a mixed number 1 3/4.",
+      "SENT_ZH":"像7/4这样的假分数可以写成带分数1又3/4。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nonstandard",
+            "atypical",
+            "irregular",
+            "anomalous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "proper",
+            "standard",
+            "regular",
+            "normal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general"
+}

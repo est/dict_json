@@ -1,0 +1,88 @@
+{
+  "WORD":"impose",
+  "IPA":"/ɪmˈpoʊz/",
+  "CONJUGATES":"imposing | imposed | imposes",
+  "ETYMOLOGY":"From Middle French imposer, derived from Latin impōnere (past participle impōsitus) 'to place, lay, put upon', from in- 'in, upon' + pōnere 'to put, place'.",
+  "SINCE":"c. 1425",
+  "MEANINGS":[
+    {
+      "PATTERN":"impose [sth] (on/upon [sb/sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core word",
+        "Formal",
+        "Authority"
+      ],
+      "DEF_EN":"To officially force a rule, tax, punishment, burden, or requirement to be accepted or obeyed.",
+      "DEF_ZH":"强行实行；征收；强制推行（法律、税收、惩罚或要求等）",
+      "SENT_EN":"The UN decided to impose economic sanctions on the rogue nation.",
+      "SENT_ZH":"联合国决定对该流氓国家实施经济制裁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "levy",
+            "inflict",
+            "enforce",
+            "mandate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lift",
+            "withdraw",
+            "remove"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"impose (on/upon [sb])",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "Common",
+        "Social interaction",
+        "Politeness"
+      ],
+      "DEF_EN":"To take unfair advantage of someone by demanding attention or commitment; to intrude or presume upon someone's kindness or time.",
+      "DEF_ZH":"打扰；把自己的要求强加于人；利用（某人的好意或时间）",
+      "SENT_EN":"I hope I wasn't imposing too much by asking you to drive me to the airport.",
+      "SENT_ZH":"我希望我要求你载我去机场这件事没有太打扰你。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intrude",
+            "presume",
+            "encroach"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "imposition",
+            "intrusive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"impose [sth] (on [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Technical",
+        "Printing"
+      ],
+      "DEF_EN":"In printing, to arrange the pages of a form so that they will be in the correct order after the sheet is printed and folded.",
+      "DEF_ZH":"（印刷）拼版，将书页按折叠顺序排版",
+      "SENT_EN":"The printer must impose the pages correctly to ensure proper pagination.",
+      "SENT_ZH":"印刷工必须正确拼版，以确保正确的页码顺序。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Varies between formal (Meaning 1) and general usage (Meaning 2)."
+}

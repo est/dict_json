@@ -1,0 +1,85 @@
+{
+  "WORD":"polar",
+  "IPA":"/ˈpoʊlər/",
+  "CONJUGATES":"polarly (adv) | polarity (n) | polarization (n)",
+  "ETYMOLOGY":"From Latin polaris, derived from polus 'end of an axis, pole', via Greek polos 'axis, pivot'.",
+  "SINCE":"c. 1620s",
+  "MEANINGS":[
+    {
+      "PATTERN":"polar [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "geography",
+        "astronomy"
+      ],
+      "DEF_EN":"Relating to, situated near, or characteristic of the earth's geographic poles (North or South) or the celestial poles.",
+      "DEF_ZH":"极地的；位于极点的；与地球或天体极点相关的。",
+      "SENT_EN":"The explorers navigated the polar ice caps.",
+      "SENT_ZH":"探险家们穿过了极地冰盖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arctic",
+            "antarctic",
+            "glacial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"polar [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Having completely opposite or contrasting characteristics; diametrically opposed.",
+      "DEF_ZH":"截然相反的；对立的；两极分化的。",
+      "SENT_EN":"Their political ideologies are polar opposites.",
+      "SENT_ZH":"他们的政治意识形态截然相反。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opposite",
+            "contrary",
+            "antithetical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"polar [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "science",
+        "chemistry",
+        "physics"
+      ],
+      "DEF_EN":"Denoting a molecule, bond, or substance having a separation of electric charge leading to positive and negative ends (poles).",
+      "DEF_ZH":"(化学/物理) 极性的；具有电荷不对称分布，从而形成正负极的。",
+      "SENT_EN":"Water is known as a highly polar solvent.",
+      "SENT_ZH":"水被认为是一种高极性溶剂。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "nonpolar"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dipole"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General vocabulary, used frequently in geography and science."
+}

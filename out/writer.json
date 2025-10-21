@@ -1,0 +1,80 @@
+{
+  "WORD":"writer",
+  "IPA":"/ˈraɪtər/",
+  "CONJUGATES":"writer (singular) | writers (plural)",
+  "ETYMOLOGY":"From Old English writere, from writan 'to write' + -ere (agent noun suffix).",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"writer",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "profession"
+      ],
+      "DEF_EN":"A person who writes books, articles, stories, or other literary or journalistic works, especially as a profession or occupation.",
+      "DEF_ZH":"撰写书籍、文章、故事或其他文学或新闻作品的人，尤指以此为职业。",
+      "SENT_EN":"She is a celebrated writer known for her eloquent prose.",
+      "SENT_ZH":"她是一位以其雄辩的散文而闻名的著名作家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "author",
+            "novelist",
+            "journalist",
+            "playwright",
+            "poet",
+            "essayist",
+            "scribe",
+            "wordsmith"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "writing",
+            "literature",
+            "book",
+            "pen",
+            "manuscript"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a type of] writer",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"A person who performs the act of writing, often with an adjective describing their skill, style, or the specific context of their writing.",
+      "DEF_ZH":"指进行书写行为的人，常伴有形容词描述其技巧、风格或书写的特定语境。",
+      "SENT_EN":"He's a very clear writer, even when dealing with complex topics.",
+      "SENT_ZH":"他是一个非常清晰的写作者，即使处理复杂的主题也如此。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "composer",
+            "draftsman",
+            "correspondent"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "handwriting",
+            "composition",
+            "style"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

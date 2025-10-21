@@ -1,0 +1,77 @@
+{
+  "WORD":"mechanize",
+  "IPA":"/ˈmɛkənaɪz/",
+  "CONJUGATES":"mechanizes | mechanizing | mechanized",
+  "ETYMOLOGY":"From French 'mécaniser', from 'mécanique' (mechanic) + '-iser' (-ize). 'Mécanique' is from Latin 'mechanicus', from Greek 'mēkhanikos' 'of machines', from 'mēkhanē' 'machine'.",
+  "SINCE":"Mid-19th century (circa 1845)",
+  "MEANINGS":[
+    {
+      "PATTERN":"mechanize [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To introduce machines or automatic devices into a place, process, or army.",
+      "DEF_ZH":"使机械化；用机器装备；用机器替代人力。",
+      "SENT_EN":"The factory invested heavily to mechanize its entire production line, significantly boosting output.",
+      "SENT_ZH":"这家工厂投入巨资使其整条生产线机械化，产量显著增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automate",
+            "industrialize",
+            "motorize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "manualize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mechanization",
+            "machine",
+            "robotics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mechanize [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "abstract use"
+      ],
+      "DEF_EN":"To make a process or activity operate in a routine, unthinking, or impersonal way.",
+      "DEF_ZH":"使变得机械；使例行公事化；使失去人情味。",
+      "SENT_EN":"The endless bureaucracy can mechanize the interaction between citizens and government officials.",
+      "SENT_ZH":"无休止的官僚主义可能会使公民与政府官员之间的互动变得机械化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "routinize",
+            "standardize",
+            "depersonalize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "personalize",
+            "individualize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or technical"
+}

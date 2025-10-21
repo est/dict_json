@@ -1,0 +1,131 @@
+{
+  "WORD":"transfer",
+  "IPA":"/trænsˈfɜːr/",
+  "CONJUGATES":"transfers | transferring | transferred",
+  "ETYMOLOGY":"From Middle French transferer, derived from Latin trānsferre (trāns- 'across, beyond' + ferre 'to carry, bear').",
+  "SINCE":"Circa 14th century (as noun, relating to conveyance); circa 15th century (as verb).",
+  "MEANINGS":[
+    {
+      "PATTERN":"transfer [sth] [from A] [to B]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "Core",
+        "Common"
+      ],
+      "DEF_EN":"To move something, someone, or the ownership of something from one place, system, or person to another.",
+      "DEF_ZH":"转移；搬迁；调动（人员）；转让（所有权或权利）。",
+      "SENT_EN":"The company decided to transfer its headquarters from London to Paris.",
+      "SENT_ZH":"公司决定将总部从伦敦迁往巴黎。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "move",
+            "shift",
+            "relocate",
+            "convey"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "transmission",
+            "exchange"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transfer [funds/data]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Finance",
+        "Technology"
+      ],
+      "DEF_EN":"To send money electronically or to copy electronic data or files from one storage medium to another.",
+      "DEF_ZH":"汇款；传输（数据）。",
+      "SENT_EN":"She logged in to transfer the remaining balance to her savings account.",
+      "SENT_ZH":"她登录系统将剩余余额转入她的储蓄账户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wire",
+            "transmit",
+            "upload"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transfer [to a team/department]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Sports",
+        "Employment"
+      ],
+      "DEF_EN":"To change jobs, departments, schools, or sports teams.",
+      "DEF_ZH":"调职；（运动员）转会；（学生）转学。",
+      "SENT_EN":"The star forward is expected to transfer to a rival club next season.",
+      "SENT_ZH":"这位明星前锋预计将在下个赛季转会到一家竞争对手俱乐部。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "recruit",
+            "draft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a transfer [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable/uncountable)",
+      "TAGS":[
+        "Core",
+        "Action"
+      ],
+      "DEF_EN":"The act or process of moving or conveying something from one place, person, or control to another.",
+      "DEF_ZH":"转移；移交；调动；转让（指行为或过程）。",
+      "SENT_EN":"The swift transfer of the documents ensured the project started on time.",
+      "SENT_ZH":"文件的快速移交确保了项目按时启动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "move",
+            "transition",
+            "change"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get a transfer",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "Transport",
+        "US English"
+      ],
+      "DEF_EN":"A ticket or pass allowing a passenger to switch from one public transport route or vehicle to another as part of the same fare.",
+      "DEF_ZH":"换乘票；转乘（服务）。",
+      "SENT_EN":"Ask the driver for a transfer if you need to switch to the number 12 bus.",
+      "SENT_ZH":"如果你需要换乘12路公交车，请向司机索要一张换乘票。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ticket",
+            "pass"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, frequently used in finance, IT, and sports contexts."
+}

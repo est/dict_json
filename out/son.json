@@ -1,0 +1,89 @@
+{
+  "WORD":"son",
+  "IPA":"/sʌn/",
+  "CONJUGATES":"sons",
+  "ETYMOLOGY":"From Old English sunu, from Proto-Germanic *sunuz (compare Dutch zoon, German Sohn, Swedish son), from Proto-Indo-European *suhnu- (compare Sanskrit sūnu, Lithuanian sūnus, Russian syn).",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] son",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) that is used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A male child or person in relation to his parents.",
+      "DEF_ZH":"某人的男性子女；儿子。",
+      "SENT_EN":"They have two daughters and one son.",
+      "SENT_ZH":"他们有两个女儿和一个儿子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "boy",
+            "male child",
+            "offspring"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "daughter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "father",
+            "mother",
+            "parent",
+            "child",
+            "heir",
+            "descendant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"my son",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) that is used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "affectionate",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used as a form of address to a boy or young man, especially by an older person.",
+      "DEF_ZH":"（长者称呼小伙子或男孩时用的爱称或尊称）孩子，小伙子。",
+      "SENT_EN":"Come here, my son, and tell me what happened.",
+      "SENT_ZH":"过来，孩子，告诉我发生了什么事。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"the Son | Son of God",
+      "POS":"proper noun",
+      "POS_TIP":"A noun that refers to a specific person, place, or organization, and is usually capitalized.",
+      "TAGS":[
+        "religious",
+        "theology"
+      ],
+      "DEF_EN":"In Christian theology, Jesus Christ as the second person of the Trinity.",
+      "DEF_ZH":"（常大写为 Son）在基督教神学中，指圣子，三位一体的第二位（耶稣基督）。",
+      "SENT_EN":"Christians believe in God the Father, God the Son, and God the Holy Spirit.",
+      "SENT_ZH":"基督徒信仰圣父、圣子和圣灵。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Jesus",
+            "Christ",
+            "Messiah",
+            "Trinity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; formal or specialized in religious contexts"
+}

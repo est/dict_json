@@ -1,0 +1,89 @@
+{
+  "WORD":"transmit",
+  "IPA":"/trænzˈmɪt/",
+  "CONJUGATES":"transmits | transmitted | transmitting",
+  "ETYMOLOGY":"From Latin transmittere, from trans- 'across' + mittere 'send, let go'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"transmit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "communication",
+        "technical"
+      ],
+      "DEF_EN":"To send out an electrical signal, a program, or data by means of radio waves or over a network.",
+      "DEF_ZH":"以电波或网络形式发送电信号、数据或节目。",
+      "SENT_EN":"The station began to transmit the emergency broadcast immediately.",
+      "SENT_ZH":"该电台立即开始传输紧急广播。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "broadcast",
+            "send",
+            "relay"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "receive",
+            "intercept"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transmit [sth] [to sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "medical",
+        "biological",
+        "physics"
+      ],
+      "DEF_EN":"To pass (a disease, force, energy, or characteristic) from one person, animal, or object to another.",
+      "DEF_ZH":"将（疾病、力量、能量或特征）从一个个体或物体传递给另一个。",
+      "SENT_EN":"Certain insects can transmit the virus to humans through bites.",
+      "SENT_ZH":"某些昆虫能通过叮咬将病毒传染给人类。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "convey",
+            "spread",
+            "transfer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transmit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "cultural",
+        "legacy"
+      ],
+      "DEF_EN":"To pass on (a tradition, custom, or knowledge) to succeeding generations.",
+      "DEF_ZH":"将（传统、习俗或知识）传递给后代。",
+      "SENT_EN":"The elders worked hard to transmit their traditional stories to the youth.",
+      "SENT_ZH":"长老们努力将他们的传统故事传授给年轻人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impart",
+            "hand down",
+            "bequeath"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, frequent in technical, medical, and communications contexts."
+}

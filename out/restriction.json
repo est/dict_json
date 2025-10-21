@@ -1,0 +1,89 @@
+{
+  "WORD":"restriction",
+  "IPA":"/rɪˈstrɪkʃən/",
+  "CONJUGATES":"restrictions (n. pl.) | restrict (v.) | restrictive (adj.)",
+  "ETYMOLOGY":"From Latin restrīctiōnem (nominative restrīctiō, 'a drawing back'), from past participle of restringere (re- 'back' + stringere 'to draw tight, bind').",
+  "SINCE":"c. 1570",
+  "MEANINGS":[
+    {
+      "PATTERN":"restriction [on sth]",
+      "POS":"n. count/uncount",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A rule, law, or condition that limits or controls what people can do or what is permitted.",
+      "DEF_ZH":"限制；约束；规定（尤其指法律或官方规定的限制）。",
+      "SENT_EN":"The city council imposed new restrictions on water usage due to the drought.",
+      "SENT_ZH":"由于干旱，市议会实行了新的用水限制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limitation",
+            "constraint",
+            "curb",
+            "regulation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "freedom",
+            "permission",
+            "allowance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"restriction [of sth]",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "formal",
+        "action"
+      ],
+      "DEF_EN":"The act or process of limiting, bounding, or confining something.",
+      "DEF_ZH":"限制的行为或过程；束缚。",
+      "SENT_EN":"The restriction of trade across the border harmed the local economy.",
+      "SENT_ZH":"跨境贸易的限制损害了当地经济。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "containment",
+            "confinement",
+            "curtailment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"restriction [in sth]",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "medical"
+      ],
+      "DEF_EN":"A physical narrowing or blockage of a passage, vessel, or opening, especially in the body.",
+      "DEF_ZH":"（通道、血管等的）狭窄或阻塞。",
+      "SENT_EN":"An arterial restriction required immediate surgical intervention.",
+      "SENT_ZH":"动脉狭窄需要立即进行手术干预。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stenosis",
+            "blockage",
+            "constriction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Legal"
+}

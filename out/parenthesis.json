@@ -1,0 +1,67 @@
+{
+  "WORD":"parenthesis",
+  "IPA":"/pəˈrɛnθəsɪs/",
+  "CONJUGATES":"parentheses (plural)",
+  "ETYMOLOGY":"From Late Latin 'parenthesis', from Ancient Greek 'parentíthemai' (to put in beside), from 'para-' (beside) + 'en-' (in) + 'títhēmi' (to put).",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"use a parenthesis | enclose in parentheses",
+      "POS":"noun",
+      "POS_TIP":"A word (or word group) that functions as the name of a specific entity, place, object, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "punctuation"
+      ],
+      "DEF_EN":"Either of a pair of round brackets, ( ), used to enclose an interpolated word or passage.",
+      "DEF_ZH":"圆括号中的任一个，即( )，用于括住插入的词语或短语。",
+      "SENT_EN":"Please ensure you close the parenthesis after the optional information.",
+      "SENT_ZH":"请确保在可选信息后加上右括号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bracket",
+            "dash",
+            "comma"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a historical parenthesis | a brief parenthesis",
+      "POS":"noun",
+      "POS_TIP":"A word (or word group) that functions as the name of a specific entity, place, object, or idea.",
+      "TAGS":[
+        "common",
+        "rhetoric",
+        "discourse"
+      ],
+      "DEF_EN":"A word, phrase, or sentence inserted as an explanation or afterthought into a passage, often marked by brackets, dashes, or commas; also, the act of doing so.",
+      "DEF_ZH":"插入到一段文字中的解释性或补充性的词语、短语或句子，通常用括号、破折号或逗号标记；也指这种插入行为。",
+      "SENT_EN":"His long speech was punctuated by several interesting historical parentheses.",
+      "SENT_ZH":"他冗长的演讲中穿插着几段有趣的史实补充。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "digression",
+            "aside",
+            "interpolation",
+            "interruption",
+            "excursus"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "main topic",
+            "continuation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general usage, especially in writing and academic contexts."
+}

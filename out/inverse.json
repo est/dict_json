@@ -1,0 +1,99 @@
+{
+  "WORD":"inverse",
+  "IPA":"/ɪnˈvɜːrs/",
+  "CONJUGATES":"n: inverses | v: inverses | inversing | inversed",
+  "ETYMOLOGY":"From Latin inversus, past participle of invertere 'to turn upside down' (in- 'into, on' + vertere 'to turn').",
+  "SINCE":"Late 14th century (as adjective), mid-17th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] inverse",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Opposite in nature, direction, or effect; inverted.",
+      "DEF_ZH":"相反的；倒转的；反向的",
+      "SENT_EN":"There is an inverse relationship between the price of a product and the quantity demanded.",
+      "SENT_ZH":"产品价格与需求量之间存在反向关系。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opposite",
+            "contrary",
+            "reversed",
+            "inverted"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "direct",
+            "positive",
+            "corresponding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the inverse of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"Something that is the exact opposite or reverse of something else. In mathematics, a quantity or function that, when combined with another, yields an identity element (e.g., multiplicative inverse, additive inverse).",
+      "DEF_ZH":"相反的事物；倒数；逆元素；逆函数",
+      "SENT_EN":"The inverse of addition is subtraction.",
+      "SENT_ZH":"加法的逆运算是减法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opposite",
+            "reverse",
+            "converse",
+            "counterpart"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reciprocal",
+            "negative",
+            "complement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] inverse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "technical"
+      ],
+      "DEF_EN":"To turn inside out or upside down; to reverse the order or position of.",
+      "DEF_ZH":"倒置；反转；使颠倒",
+      "SENT_EN":"The device can inverse the polarity of the electrical signal.",
+      "SENT_ZH":"该设备可以反转电信号的极性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invert",
+            "reverse",
+            "transpose",
+            "overturn"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and technical, frequently used in mathematics, logic, and science."
+}

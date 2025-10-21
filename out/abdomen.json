@@ -1,0 +1,66 @@
+{
+  "WORD":"abdomen",
+  "IPA":"/'æbdəmən/",
+  "CONJUGATES":"abdomens | abdomina (technical plural)",
+  "ETYMOLOGY":"From Latin abdōmen ('belly, paunch'), possibly related to abs 'away from' and dere 'to hide' (something hidden or concealed, referring to the viscera).",
+  "SINCE":"c. 1540s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s abdomen",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "anatomy",
+        "medical"
+      ],
+      "DEF_EN":"The part of the body between the thorax (chest) and the pelvis, containing the major digestive, excretory, and reproductive organs.",
+      "DEF_ZH":"腹部；腹腔。位于胸腔和骨盆之间的身体部分，包含主要的消化、排泄和生殖器官。",
+      "SENT_EN":"The doctor pressed lightly on the patient's abdomen to check for tenderness.",
+      "SENT_ZH":"医生轻轻按压患者的腹部以检查是否有压痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "belly",
+            "stomach",
+            "tummy",
+            "gut"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "thorax",
+            "pelvis",
+            "viscera",
+            "abdominal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]'s abdomen",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "biology",
+        "technical"
+      ],
+      "DEF_EN":"The posterior (rearmost) major segment of the body of an insect, crustacean, or other arthropod.",
+      "DEF_ZH":"腹部（昆虫或节肢动物）。节肢动物身体的后部主段，位于胸部之后。",
+      "SENT_EN":"The dragonfly's abdomen is long and slender.",
+      "SENT_ZH":"蜻蜓的腹部细长。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "thorax",
+            "cephalothorax"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical (Anatomy)"
+}

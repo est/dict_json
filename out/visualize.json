@@ -1,0 +1,58 @@
+{
+  "WORD":"visualize",
+  "IPA":"/'vɪʒuəlaɪz/",
+  "CONJUGATES":"visualizes | visualizing | visualized | visualization | visualizer",
+  "ETYMOLOGY":"From visual (from Latin visualis, related to videre 'to see') + the suffix -ize.",
+  "SINCE":"Mid-19th Century (c. 1840s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"visualize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "mental action"
+      ],
+      "DEF_EN":"To form a mental image of something; imagine or picture in the mind.",
+      "DEF_ZH":"在脑海中形成图像；想象或设想。",
+      "SENT_EN":"She closed her eyes and tried to visualize the finished painting.",
+      "SENT_ZH":"她闭上眼睛，试图想象出这幅画完成后的样子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imagine",
+            "envision",
+            "picture",
+            "conceive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"visualize [data] | visualize [concept]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "data processing"
+      ],
+      "DEF_EN":"To make something visible, especially data or abstract concepts, often by means of graphs, charts, or other diagrams.",
+      "DEF_ZH":"使某些事物变得可见，特别是数据或抽象概念，通常通过图表或图示的方式。",
+      "SENT_EN":"The program helps us visualize the statistical trends over the last decade.",
+      "SENT_ZH":"该程序帮助我们可视化过去十年中的统计趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "display",
+            "represent",
+            "illustrate",
+            "chart"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and General Use"
+}

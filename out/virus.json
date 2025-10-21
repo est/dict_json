@@ -1,0 +1,86 @@
+{
+  "WORD":"virus",
+  "IPA":"/ˈvaɪrəs/",
+  "CONJUGATES":"viruses",
+  "ETYMOLOGY":"From Latin *virus* 'poison, slimy liquid'. Used in English from the late 14th century to refer to a poisonous substance; its biological sense emerged in the late 19th century.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] virus",
+      "POS":"noun",
+      "POS_TIP":"noun (명사): A word (other than a pronoun) used to identify any of a class of people, places, things, or ideas.",
+      "TAGS":[
+        "core word",
+        "biology",
+        "medicine",
+        "common"
+      ],
+      "DEF_EN":"An infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.",
+      "DEF_ZH":"一种微小的感染性病原体，通常由蛋白质外壳包裹的核酸分子组成，无法通过光学显微镜观察，只能在宿主活细胞内复制。",
+      "SENT_EN":"The common cold is caused by a virus.",
+      "SENT_ZH":"普通感冒是由病毒引起的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bacteria",
+            "pathogen",
+            "infection",
+            "disease",
+            "microbe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] computer virus",
+      "POS":"noun",
+      "POS_TIP":"noun (명사): A word (other than a pronoun) used to identify any of a class of people, places, things, or ideas.",
+      "TAGS":[
+        "core word",
+        "computing",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"A piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.",
+      "DEF_ZH":"一段能够自我复制并通常具有破坏性影响的代码，例如破坏系统或销毁数据。",
+      "SENT_EN":"He lost all his files due to a computer virus.",
+      "SENT_ZH":"他因为电脑病毒丢失了所有文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "malware",
+            "worm",
+            "trojan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] virus of [sth]",
+      "POS":"noun",
+      "POS_TIP":"noun (명사): A word (other than a pronoun) used to identify any of a class of people, places, things, or ideas.",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A corrupting or harmful influence or tendency that spreads rapidly.",
+      "DEF_ZH":"一种迅速传播的腐蚀性或有害影响或趋势。",
+      "SENT_EN":"The rumor spread like a virus throughout the organization.",
+      "SENT_ZH":"这个谣言像病毒一样在整个组织中传播开来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bane",
+            "scourge",
+            "poison",
+            "contagion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday language, scientific/medical contexts, and computing."
+}

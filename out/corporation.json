@@ -1,0 +1,70 @@
+{
+  "WORD":"corporation",
+  "IPA":"/ˌkɔːrpəˈreɪʃən/",
+  "CONJUGATES":"corporations (plural)",
+  "ETYMOLOGY":"Late Middle English, from Old French corporacion, from Latin corporatio, from corporare 'to furnish with a body', which comes from corpus 'body'.",
+  "SINCE":"Late 14th century (general body/group); 16th century (modern legal business sense).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] corporation",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Business",
+        "Legal",
+        "Formal"
+      ],
+      "DEF_EN":"A large business entity or group of companies authorized to act as a single legal person, separate and distinct from its owners, often for commercial purposes.",
+      "DEF_ZH":"法人实体；公司；企业（在法律上被视为单一的个体，独立于其所有者）。",
+      "SENT_EN":"The tech corporation faced a major antitrust lawsuit.",
+      "SENT_ZH":"这家科技公司面临一场重大的反垄断诉讼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "company",
+            "firm",
+            "enterprise",
+            "organization"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "LLC",
+            "Inc",
+            "conglomerate",
+            "holding company"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the corporation",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Formal",
+        "Government",
+        "Historical",
+        "UK specific"
+      ],
+      "DEF_EN":"A municipal body charged with the government of a town or city.",
+      "DEF_ZH":"市政当局；市议会；地方行政管理机构（尤指历史或英国用法）。",
+      "SENT_EN":"The city corporation is responsible for maintaining the local infrastructure.",
+      "SENT_ZH":"该市的市政当局负责维护当地的基础设施。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "municipality",
+            "council",
+            "city government"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, Legal"
+}

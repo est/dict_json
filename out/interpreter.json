@@ -1,0 +1,87 @@
+{
+  "WORD":"interpreter",
+  "IPA":"/ɪnˈtɜːrprɪtər/",
+  "CONJUGATES":"interpreters",
+  "ETYMOLOGY":"From Middle English, derived from Old French interpreteur, ultimately from Latin interpretātor, agent noun of interpretari 'to explain, translate'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"interpreter [sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession",
+        "common"
+      ],
+      "DEF_EN":"A person who translates spoken or sign language orally between speakers of different languages.",
+      "DEF_ZH":"口头翻译员；口译员（在不同语言使用者之间进行口头或手语翻译的人）。",
+      "SENT_EN":"The diplomat relied heavily on his personal interpreter during the negotiations.",
+      "SENT_ZH":"在谈判期间，这位外交官非常依赖他的私人口译员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "translator",
+            "consecutive interpreter",
+            "simultaneous interpreter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interpretation",
+            "translation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interpreter [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"A computer program that directly executes instructions written in a programming or scripting language without first compiling them into machine code.",
+      "DEF_ZH":"解释器（一种直接执行用编程或脚本语言编写的指令的计算机程序，无需预先将其编译成机器码）。",
+      "SENT_EN":"The JavaScript code runs in the browser’s interpreter.",
+      "SENT_ZH":"JavaScript 代码在浏览器的解释器中运行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "compiler",
+            "virtual machine",
+            "runtime environment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interpreter [sb] [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"One who explains or clarifies the meaning of obscure or complex texts, ideas, or events.",
+      "DEF_ZH":"阐释者；解释者（解释晦涩难懂的文本、思想或事件含义的人）。",
+      "SENT_EN":"Historians often act as interpreters of past societal trends.",
+      "SENT_ZH":"历史学家经常充当过去社会趋势的阐释者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expounder",
+            "elucidator",
+            "exegete"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Professional, Computing"
+}

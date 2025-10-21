@@ -1,0 +1,87 @@
+{
+  "WORD":"bet",
+  "IPA":"/bɛt/",
+  "CONJUGATES":"bet | bets | betting | betted (less common)",
+  "ETYMOLOGY":"Origin uncertain; possibly related to the obsolete verb 'abette' (meaning 'to stir up or instigate'), which comes from Old French abeter (to bait, incite). The sense of wagering is recorded later.",
+  "SINCE":"Late 16th century (c. 1590s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"bet [sth] on [sth/sb]",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "finance"
+      ],
+      "DEF_EN":"To stake or risk money, property, or anything of value on the outcome of an unpredictable event, such as a race, game, or competition.",
+      "DEF_ZH":"打赌；下赌注。指在某个不确定的结果上冒险投入金钱或财物。",
+      "SENT_EN":"He decided to bet all his savings on the final football match.",
+      "SENT_ZH":"他决定把他所有的积蓄都押在最后一场足球比赛上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wager",
+            "gamble",
+            "stake"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bookmaker",
+            "punting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(I) bet (that) [clause]",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb (used idiomatically)",
+      "TAGS":[
+        "common",
+        "idiom",
+        "informal"
+      ],
+      "DEF_EN":"To be highly confident or certain about a statement; often used informally to agree strongly or express conviction.",
+      "DEF_ZH":"确信；敢肯定（口语，常用于表示赞同或对某事非常确定）。",
+      "SENT_EN":"I bet he forgot his keys again; he always does.",
+      "SENT_ZH":"我敢肯定他又忘了带钥匙；他总是这样。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "I'm certain",
+            "I guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bet",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An agreement between two parties that money or other stakes will be paid to the one who correctly predicts the outcome of an event.",
+      "DEF_ZH":"赌注；打赌的行为或金额。",
+      "SENT_EN":"It was a foolish bet, and he ended up losing a lot of money.",
+      "SENT_ZH":"这是一个愚蠢的赌注，他最终输了很多钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wager",
+            "stake",
+            "punt"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use; specific financial/gambling context."
+}

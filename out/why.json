@@ -1,0 +1,101 @@
+{
+  "WORD":"why",
+  "IPA":"/waɪ/",
+  "CONJUGATES":"whys (plural noun)",
+  "ETYMOLOGY":"From Old English hwī (instrumental case of hwæt 'what'), from Proto-Germanic *hwī (instrumental of *hwaz), from Proto-Indo-European *kʷi-.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"why [question]",
+      "POS":"adv",
+      "POS_TIP":"Interrogative adverb: an adverb used to ask a question, typically about reason, manner, place, or time.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"For what reason or purpose; used to ask for the cause or explanation of something.",
+      "DEF_ZH":"为什么；何故；为了什么目的或理由。",
+      "SENT_EN":"Why did you decide to leave so early?",
+      "SENT_ZH":"你为什么决定这么早就离开了？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "for what reason",
+            "how come",
+            "on what grounds"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[statement], why [reason]",
+      "POS":"conj",
+      "POS_TIP":"Conjunction: a word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The reason for which; referring to the cause or explanation.",
+      "DEF_ZH":"……的理由；之所以……是因为（引导名词性从句）。",
+      "SENT_EN":"I know why he chose that particular university.",
+      "SENT_ZH":"我知道他为什么选择那所大学。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "the reason that",
+            "the cause for which"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the why of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"A reason or explanation for something; the underlying cause or principle.",
+      "DEF_ZH":"原因；缘由；道理。",
+      "SENT_EN":"Understanding the 'why' behind their actions is crucial for conflict resolution.",
+      "SENT_ZH":"理解他们行动背后的'原因'对解决冲突至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reason",
+            "cause",
+            "explanation",
+            "motive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Why!",
+      "POS":"interj",
+      "POS_TIP":"Interjection: an exclamation, often used to express a strong emotion or surprise, but not forming a grammatical part of a sentence.",
+      "TAGS":[
+        "common",
+        "older usage"
+      ],
+      "DEF_EN":"Used to express mild surprise, indignation, protest, or to introduce a remark with emphasis.",
+      "DEF_ZH":"（表示惊讶、不赞同或强调）哎呀；哦；哼。",
+      "SENT_EN":"Why, that's an absolutely brilliant idea!",
+      "SENT_ZH":"哎呀，那真是个绝妙的主意！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "well",
+            "indeed",
+            "oh"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; used in both formal and informal contexts across various meanings."
+}

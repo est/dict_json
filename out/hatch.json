@@ -1,0 +1,127 @@
+{
+  "WORD":"hatch",
+  "IPA":"/hætʃ/",
+  "CONJUGATES":"hatches | hatching | hatched",
+  "ETYMOLOGY":"Old English hæcce (for the noun 'gate, opening') and Middle English hachen (verb, possibly related to Old High German hacchan 'to hack, chop'; meaning 'to emerge from an egg' developed later in the 16th century).",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"hatch [v]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"To emerge from an egg, chrysalis, or pupa.",
+      "DEF_ZH":"（幼崽）孵化，出壳，破茧而出。",
+      "SENT_EN":"We waited patiently for the baby turtles to hatch.",
+      "SENT_ZH":"我们耐心地等待小海龟孵化出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emerge",
+            "break out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hatch [v] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"To cause an egg to produce young; to incubate.",
+      "DEF_ZH":"孵（蛋）；孵出（幼崽）。",
+      "SENT_EN":"The mother bird hatched three eggs successfully.",
+      "SENT_ZH":"这只母鸟成功地孵出了三枚蛋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incubate",
+            "brood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hatch [v] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "idiomatic",
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To devise or plan (often secretly, usually used for schemes or plots).",
+      "DEF_ZH":"策划；密谋；制定（计划或阴谋）。",
+      "SENT_EN":"The conspirators hatched a cunning plot to overthrow the government.",
+      "SENT_ZH":"密谋者们策划了一个推翻政府的狡猾阴谋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plot",
+            "devise",
+            "conspire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hatch [n]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "architecture",
+        "marine",
+        "common"
+      ],
+      "DEF_EN":"An opening or door, especially in the floor, ceiling, or roof of a building, or on the deck of a ship (a hatchway).",
+      "DEF_ZH":"（船只、飞机上的）舱口；（地板、屋顶上的）开口门，小门。",
+      "SENT_EN":"He climbed down through the emergency hatch into the basement.",
+      "SENT_ZH":"他通过紧急舱口爬进了地下室。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trapdoor",
+            "manhole",
+            "hatchback"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hatch [n]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "specialized",
+        "drawing",
+        "art"
+      ],
+      "DEF_EN":"A line or set of parallel lines used in drawing, engraving, or mapping to shade, indicate texture, or show contours.",
+      "DEF_ZH":"阴影线；排线（在绘画或制图中标注阴影或纹理的平行短线）。",
+      "SENT_EN":"The illustrator used fine hatch lines to give the image depth.",
+      "SENT_ZH":"插画家使用精细的排线来增加图像的深度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cross-hatching",
+            "shading"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

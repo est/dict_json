@@ -1,0 +1,89 @@
+{
+  "WORD":"tolerance",
+  "IPA":"/ˈtɒlərəns/",
+  "CONJUGATES":"tolerances",
+  "ETYMOLOGY":"From Old French tolérance, from Latin tolerantia ('endurance, patience'), from tolerare ('to bear, endure').",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"tolerance [for/of sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, things, or ideas.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The ability or willingness to tolerate the existence of opinions or behavior that one dislikes or disagrees with.",
+      "DEF_ZH":"容忍；宽容；忍受（对不喜欢或不同意的观点或行为）",
+      "SENT_EN":"She showed great tolerance for opposing viewpoints.",
+      "SENT_ZH":"她对不同的观点表现出了极大的宽容。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acceptance",
+            "patience",
+            "forbearance",
+            "open-mindedness"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "intolerance",
+            "bigotry",
+            "prejudice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tolerance [to sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, things, or ideas.",
+      "TAGS":[
+        "common",
+        "medical",
+        "biological"
+      ],
+      "DEF_EN":"The capacity of the body to endure or become less responsive to a drug, poison, or other substance, especially with continued use.",
+      "DEF_ZH":"耐受性；抵抗力（尤指对药物、毒物或其他物质，特别是长期使用后）",
+      "SENT_EN":"The patient developed a tolerance to the pain medication.",
+      "SENT_ZH":"病人对止痛药产生了耐受性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "immunity",
+            "resistance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tolerance [in sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, things, or ideas.",
+      "TAGS":[
+        "common",
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"The permissible limit or limits of variation in a measurement or quality.",
+      "DEF_ZH":"公差；容许误差；偏差范围（在测量或质量上的允许变动范围）",
+      "SENT_EN":"The engineer specified a tight tolerance for the new component.",
+      "SENT_ZH":"工程师为新部件规定了严格的公差。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allowance",
+            "margin",
+            "variation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Formal"
+}

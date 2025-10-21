@@ -1,0 +1,83 @@
+{
+  "WORD":"reciprocal",
+  "IPA":"/rɪˈsɪprəkəl/",
+  "CONJUGATES":"reciprocally (adv.) | reciprocality (n.) | reciprocals (n. pl.)",
+  "ETYMOLOGY":"From Latin reciprocus 'alternating, returning the same way, mutual', possibly a compound of re- 'back' and pro- 'forward'.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"reciprocal [sth] (action/relationship)",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"Given, felt, or done in return; relating to or involving two people or things and affecting each other equally.",
+      "DEF_ZH":"相互的；互惠的；对应的。",
+      "SENT_EN":"The two countries signed a reciprocal trade agreement guaranteeing equal access to markets.",
+      "SENT_ZH":"两国签署了互惠贸易协定，保障了平等的市场准入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mutual",
+            "corresponding",
+            "complementary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "one-sided",
+            "unilateral"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reciprocal [sth] (mathematics)",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"Relating to the multiplicative inverse of a number or function.",
+      "DEF_ZH":"（数学）倒数的。",
+      "SENT_EN":"We need to find the reciprocal function for this equation.",
+      "SENT_ZH":"我们需要找到这个方程的倒数函数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inverse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the reciprocal of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"The multiplicative inverse of a quantity; a number which, when multiplied by the original number, equals one.",
+      "DEF_ZH":"（数学）倒数。",
+      "SENT_EN":"The reciprocal of three quarters is four thirds.",
+      "SENT_ZH":"四分之三的倒数是三分之四。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inverse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and academic contexts; standard use in mathematics."
+}

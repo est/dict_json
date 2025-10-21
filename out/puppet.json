@@ -1,0 +1,67 @@
+{
+  "WORD":"puppet",
+  "IPA":"/ˈpʌpɪt/",
+  "CONJUGATES":"puppets",
+  "ETYMOLOGY":"From Old French 'poupee' (doll), diminutive of 'poupe' from Latin 'pupa' (girl, doll).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a ~]",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common",
+        "object"
+      ],
+      "DEF_EN":"A movable model of a person or animal, usually controlled by strings from above or by a hand inserted from below.",
+      "DEF_ZH":"由线或手控制的，模仿人或动物的小型模型；木偶。",
+      "SENT_EN":"The puppeteer made the puppet dance gracefully across the miniature stage.",
+      "SENT_ZH":"木偶师让木偶在微型舞台上优雅地跳舞。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "marionette",
+            "doll",
+            "figurine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a ~ of [sb]/[sth]]",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "figurative",
+        "derogatory"
+      ],
+      "DEF_EN":"A person, group, or country whose actions are controlled by others; someone who is easily manipulated.",
+      "DEF_ZH":"被他人或他国操控的人或国家；傀儡。",
+      "SENT_EN":"Many critics viewed the new leader as a mere puppet of the former dictator.",
+      "SENT_ZH":"许多评论家认为新领导人不过是前独裁者的一个傀儡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tool",
+            "pawn",
+            "figurehead",
+            "stooge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "master",
+            "controller",
+            "leader"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

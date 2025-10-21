@@ -1,0 +1,141 @@
+{
+  "WORD":"curry",
+  "IPA":"/ˈkʌri/",
+  "CONJUGATES":"curries (noun plural) | curries (verb 3rd person singular present) | currying (verb present participle) | curried (verb past tense/past participle)",
+  "ETYMOLOGY":"For the food/spice meanings: From Tamil 'kari' (கறி), meaning 'sauce, relish for rice', adopted into English via Portuguese 'caril'.\nFor the verb 'to groom' and the idiom 'curry favor': From Middle English 'curray', from Old French 'correier' ('to prepare, groom a horse'). The idiom 'curry favor' evolved from 'curry Favel', Favel being a personified yellow horse representing flattery in medieval French literature.",
+  "SINCE":"Late Middle English (14th century) for 'to groom'; Late 16th century (approx. 1598) for the food/spice meaning.",
+  "MEANINGS":[
+    {
+      "PATTERN":"curry",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea; can be countable or uncountable.",
+      "TAGS":[
+        "core word",
+        "food",
+        "common"
+      ],
+      "DEF_EN":"A dish, originating from Indian cuisine, consisting of meat, vegetables, or pulses cooked in a spicy sauce.",
+      "DEF_ZH":"一道源自印度菜肴的菜品，由肉、蔬菜或豆类与辛辣酱汁烹制而成。",
+      "SENT_EN":"We ordered a delicious chicken curry for dinner tonight.",
+      "SENT_ZH":"我们今晚晚餐点了一份美味的咖喱鸡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stew",
+            "ragout"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Indian cuisine",
+            "spices",
+            "masala"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"curry (powder)",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea; typically uncountable when referring to the blend.",
+      "TAGS":[
+        "ingredient",
+        "common"
+      ],
+      "DEF_EN":"A blend of spices, typically including turmeric, coriander, and cumin, used to flavor curry dishes.",
+      "DEF_ZH":"一种香料混合物，通常包含姜黄、香菜和孜然，用于给咖喱菜肴调味。",
+      "SENT_EN":"Don't forget to add a spoonful of curry powder to the sauce.",
+      "SENT_ZH":"别忘了在酱汁中加入一勺咖喱粉。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spices",
+            "turmeric",
+            "coriander",
+            "cumin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"curry favor with [sb]",
+      "POS":"idiom",
+      "POS_TIP":"A group of words established by usage as having a meaning not deducible from those of the individual words.",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To try to gain favor, approval, or goodwill from someone, often through flattery or subservient behavior.",
+      "DEF_ZH":"通过奉承或卑躬屈膝的行为，试图获得某人的好感、赞同或善意。",
+      "SENT_EN":"He's always trying to curry favor with the boss by agreeing with everything he says.",
+      "SENT_ZH":"他总是通过认同老板所说的一切来讨好他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flatter",
+            "fawn",
+            "ingratiate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "offend",
+            "alienate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"curry [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which takes a direct object.",
+      "TAGS":[
+        "cooking",
+        "less common"
+      ],
+      "DEF_EN":"To prepare or flavor food with curry powder or a curry sauce.",
+      "DEF_ZH":"用咖喱粉或咖喱酱烹饪或给食物调味。",
+      "SENT_EN":"She decided to curry the vegetables for a richer flavor.",
+      "SENT_ZH":"她决定用咖喱烹制蔬菜以获得更浓郁的味道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "season",
+            "spice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"curry [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which takes a direct object.",
+      "TAGS":[
+        "old-fashioned",
+        "animal care",
+        "less common"
+      ],
+      "DEF_EN":"To rub and clean (a horse or other animal) with a curry comb.",
+      "DEF_ZH":"用梳刷擦洗和清洁（马匹或其他动物）。",
+      "SENT_EN":"The stable hand would curry the horses every morning to keep their coats shiny.",
+      "SENT_ZH":"马夫每天早上都会梳理马匹，以保持它们的毛色光亮。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "curry comb",
+            "groom"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in culinary contexts; 'curry favor' is a common idiom; 'curry' as a verb for grooming is more archaic or specific to equestrian contexts."
+}

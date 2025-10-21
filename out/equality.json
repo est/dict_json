@@ -1,0 +1,77 @@
+{
+  "WORD":"equality",
+  "IPA":"/ɪˈkwɑːlɪti/",
+  "CONJUGATES":"equalities",
+  "ETYMOLOGY":"From Middle English equalite, via Old French equalité, from Latin aequalitas, derived from aequalis 'equal'.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"equality [between sb] | equality [of sth]",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun; also countable when referring to specific instances or measures of equality",
+      "TAGS":[
+        "core word",
+        "political",
+        "social"
+      ],
+      "DEF_EN":"The state where all people, regardless of their differences, possess the same fundamental rights, status, opportunities, and treatment.",
+      "DEF_ZH":"（尤指社会地位、权利和机会方面的）平等，均等；平等主义。",
+      "SENT_EN":"The campaign advocates for racial and gender equality in the workplace.",
+      "SENT_ZH":"这项活动倡导工作场所中的种族和性别平等。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fairness",
+            "parity",
+            "equity",
+            "egalitarianism",
+            "impartiality"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inequality",
+            "disparity",
+            "discrimination",
+            "bias"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"equality [in quantity] | equality [of value]",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun; often used in formal or scientific contexts",
+      "TAGS":[
+        "mathematics",
+        "formal"
+      ],
+      "DEF_EN":"The condition of being the same in quantity, measure, value, or degree.",
+      "DEF_ZH":"数量、价值、度量或程度上的相等或一致。",
+      "SENT_EN":"The symbol '=' denotes the equality of the two mathematical expressions.",
+      "SENT_ZH":"符号“=”表示两个数学表达式的相等。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equivalence",
+            "sameness",
+            "uniformity",
+            "identity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "difference",
+            "imbalance",
+            "asymmetry"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, academic, political discourse, mathematics."
+}

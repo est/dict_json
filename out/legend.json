@@ -1,0 +1,84 @@
+{
+  "WORD":"legend",
+  "IPA":"/ˈledʒənd/",
+  "CONJUGATES":"legends (plural) | legendary (adjective)",
+  "ETYMOLOGY":"From Old French legende, from Medieval Latin legenda 'things to be read', neuter plural of legendum, gerundive of legere 'to read'. Originally referred to narratives of the lives of saints.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"a legend [about sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "narrative",
+        "folklore"
+      ],
+      "DEF_EN":"A traditional story, sometimes popularly regarded as historical but unauthenticated, often featuring heroes, events, or places.",
+      "DEF_ZH":"传说；传奇故事；民间故事。通常被视为历史性的但未经证实的传统故事。",
+      "SENT_EN":"The ancient legend tells of a sleeping dragon hidden beneath the mountain.",
+      "SENT_ZH":"这个古老的传说讲述了一条沉睡在山下的巨龙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "myth",
+            "folktale",
+            "saga",
+            "epic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a legend [in a field]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative",
+        "praise"
+      ],
+      "DEF_EN":"An extremely famous or notorious person, especially one prominent in a particular field, usually due to great achievement over a long period.",
+      "DEF_ZH":"传奇人物；巨星；偶像。在特定领域因长期卓越成就而极度著名的人。",
+      "SENT_EN":"She is considered a rock and roll legend, inspiring generations of musicians.",
+      "SENT_ZH":"她被认为是摇滚乐界的传奇人物，激励了几代音乐家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "icon",
+            "superstar",
+            "master",
+            "hero"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the legend [of a map/chart]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "cartography",
+        "design"
+      ],
+      "DEF_EN":"An explanatory list of the symbols, colors, or shading used on a map, chart, or diagram.",
+      "DEF_ZH":"图例；说明。解释地图、图表或示意图上使用的符号、颜色或阴影的列表。",
+      "SENT_EN":"Consult the legend to find out what the different colors on the topographical map represent.",
+      "SENT_ZH":"请查阅图例以了解地形图上不同颜色代表的含义。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "key",
+            "explanation",
+            "index"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General or Formal (depending on meaning 1 and 2); Technical (meaning 3)"
+}

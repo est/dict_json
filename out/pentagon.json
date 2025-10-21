@@ -1,0 +1,86 @@
+{
+  "WORD":"pentagon",
+  "IPA":"/ˈpɛntəɡɒn/",
+  "CONJUGATES":"pentagons (pl.)",
+  "ETYMOLOGY":"From Ancient Greek πεντάγωνον (pentágōnon), neuter of πεντάγωνος (pentágōnos, 'five-angled'), from πέντε (pénte, 'five') + γωνία (gōnía, 'angle, corner').",
+  "SINCE":"Late 16th century (Geometry); 1940s (Building)",
+  "MEANINGS":[
+    {
+      "PATTERN":"pentagon",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry"
+      ],
+      "DEF_EN":"A polygon with five sides and five angles.",
+      "DEF_ZH":"五边形；有五条边和五个角的图形。",
+      "SENT_EN":"A regular pentagon has all sides equal and all angles equal.",
+      "SENT_ZH":"一个正五边形所有边都相等，所有角也都相等。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "triangle",
+            "quadrilateral",
+            "hexagon",
+            "octagon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The Pentagon",
+      "POS":"proper n",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "politics"
+      ],
+      "DEF_EN":"The headquarters of the United States Department of Defense, located in Arlington County, Virginia, which is a massive five-sided building.",
+      "DEF_ZH":"五角大楼；美国国防部总部所在地，位于弗吉尼亚州阿灵顿县的一座巨大的五边形建筑。",
+      "SENT_EN":"The President is meeting with officials at the Pentagon today.",
+      "SENT_ZH":"总统今天正在五角大楼与官员会面。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "White House",
+            "Capitol Hill"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "US Department of Defense"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The Pentagon",
+      "POS":"proper n",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "metonymy",
+        "politics",
+        "military"
+      ],
+      "DEF_EN":"The leadership or administration of the US Department of Defense, often used as a metonym for the US military establishment.",
+      "DEF_ZH":"（借代）美国国防部；美国军方高层或军方机构。",
+      "SENT_EN":"The Pentagon announced budget cuts for the next fiscal year.",
+      "SENT_ZH":"五角大楼宣布了下一财年的预算削减。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "The Kremlin",
+            "Whitehall"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/technical (geometry); common (metonymy)"
+}

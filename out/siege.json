@@ -1,0 +1,87 @@
+{
+  "WORD":"siege",
+  "IPA":"/siːdʒ/",
+  "CONJUGATES":"sieges (plural noun) | sieging (present participle, verb) | sieged (past tense, verb)",
+  "ETYMOLOGY":"From Old French *siege* (seat, military blockade), derived from Vulgar Latin *sedicum*, ultimately from Latin *sedes* (seat, dwelling). The military sense arose from the position taken by the attacking forces.",
+  "SINCE":"c. 1250",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] siege [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military"
+      ],
+      "DEF_EN":"A military operation in which enemy forces surround a fortified place, such as a town or castle, cutting off essential supplies and reinforcements, with the aim of forcing a surrender.",
+      "DEF_ZH":"围攻；围城战。军队包围敌方的城镇或堡垒，切断补给和增援，迫使守军投降的军事行动。",
+      "SENT_EN":"The inhabitants faced starvation during the brutal eight-month siege.",
+      "SENT_ZH":"在长达八个月的残酷围城战中，居民面临饥饿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blockade",
+            "encirclement",
+            "beleaguerment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "besiege",
+            "fortress",
+            "citadel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] siege [of sth/troubles]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A prolonged period of sustained pressure, difficulty, or suffering.",
+      "DEF_ZH":"长期围困；持续的压力或麻烦的时期。",
+      "SENT_EN":"The politician was under a siege of questions regarding the financial scandal.",
+      "SENT_ZH":"这位政治家受到了关于金融丑闻的持续不断的质问。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "onslaught",
+            "barrage",
+            "assault"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"siege [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "military"
+      ],
+      "DEF_EN":"To subject a place to a military siege (Note: The verb 'besiege' is far more common).",
+      "DEF_ZH":"围攻；包围（某地）。（注意：动词 'besiege' 更常用）。",
+      "SENT_EN":"The troops marched quickly to siege the enemy stronghold.",
+      "SENT_ZH":"部队迅速行军去围攻敌人的据点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "besiege",
+            "surround",
+            "blockade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal (military context) or General (figurative context)"
+}

@@ -1,0 +1,74 @@
+{
+  "WORD":"headache",
+  "IPA":"/ˈhɛdˌeɪk/",
+  "CONJUGATES":"headaches (plural)",
+  "ETYMOLOGY":"Compound word formed from 'head' (Old English hēafod) and 'ache' (Old English æce/æc, pain). Used as a single word since Middle English.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] have a headache",
+      "POS":"noun",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A continuous pain or throbbing feeling localized in the head.",
+      "DEF_ZH":"头部的持续性疼痛或搏动感。",
+      "SENT_EN":"I took two paracetamol tablets because I had a splitting headache this morning.",
+      "SENT_ZH":"我今天早上头痛欲裂，所以吃了两片扑热息痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "migraine",
+            "cephalgia",
+            "head pain"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tension headache",
+            "cluster headache"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is a headache",
+      "POS":"noun",
+      "POS_TIP":"noun (informal)",
+      "TAGS":[
+        "idiomatic",
+        "figurative",
+        "informal"
+      ],
+      "DEF_EN":"A problematic situation, task, or person that causes persistent difficulty, trouble, or worry.",
+      "DEF_ZH":"指令人担忧或带来持续困难的问题、任务或人（麻烦事或麻烦精）。",
+      "SENT_EN":"Trying to get this permit approved has been a complete bureaucratic headache.",
+      "SENT_ZH":"试图让这个许可证通过审批一直是一个完全的官僚主义大麻烦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nuisance",
+            "bother",
+            "trouble",
+            "hassle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "breeze",
+            "pleasure",
+            "joy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage in general conversation, literature, and medical contexts."
+}

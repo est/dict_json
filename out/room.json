@@ -1,0 +1,125 @@
+{
+  "WORD":"room",
+  "IPA":"/ruːm/",
+  "CONJUGATES":"rooms | rooming | roomed",
+  "ETYMOLOGY":"From Old English rūm ('space, extent, opportunity'), from Proto-Germanic *rūmaz.",
+  "SINCE":"pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"room",
+      "POS":"n [countable]",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "architecture"
+      ],
+      "DEF_EN":"A section or division of a building enclosed by walls, a floor, and a ceiling.",
+      "DEF_ZH":"建筑物中由墙壁、地板和天花板围成的隔间或部分。",
+      "SENT_EN":"The hotel room was small but comfortable.",
+      "SENT_ZH":"这家酒店的房间虽小但很舒适。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chamber",
+            "compartment",
+            "apartment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bedroom",
+            "kitchen",
+            "hall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"room [for sth/sb]",
+      "POS":"n [uncountable]",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "abstract concept",
+        "common"
+      ],
+      "DEF_EN":"Space that can be occupied by something or someone; physical capacity.",
+      "DEF_ZH":"可供某物或某人占据的空间；物理容量或余地。",
+      "SENT_EN":"Could you move over? I need room to stretch my legs.",
+      "SENT_ZH":"你能挪一下吗？我需要空间伸展一下我的腿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "space",
+            "area",
+            "capacity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "crowding",
+            "fullness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"room [for improvement/doubt/negotiation]",
+      "POS":"n [uncountable]",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"Opportunity or scope for something to happen, especially for improvement, change, or doubt.",
+      "DEF_ZH":"某事物发生或实现的余地或范围，尤指改进、改变或怀疑的空间。",
+      "SENT_EN":"While the project was successful, there is still room for improvement.",
+      "SENT_ZH":"虽然这个项目是成功的，但仍有改进的余地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scope",
+            "latitude",
+            "leeway",
+            "opportunity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"room [with sb]",
+      "POS":"v [intransitive]",
+      "POS_TIP":"verb, intransitive",
+      "TAGS":[
+        "US usage",
+        "colloquial"
+      ],
+      "DEF_EN":"To live in a shared rented room, apartment, or lodging, especially in college.",
+      "DEF_ZH":"合租房间、公寓或住所，尤指大学期间的合住。",
+      "SENT_EN":"She decided to room with her older sister to save money.",
+      "SENT_ZH":"她决定和她的姐姐合住以节省开支。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "share",
+            "lodge",
+            "cohabit"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "roommate",
+            "flatmate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation and professional contexts."
+}

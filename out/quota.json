@@ -1,0 +1,74 @@
+{
+  "WORD":"quota",
+  "IPA":"/ˈkwoʊtə/",
+  "CONJUGATES":"quotas",
+  "ETYMOLOGY":"From Medieval Latin quota, feminine singular of quotus 'which number (in a series)', from Latin quot 'how many'. Originally meaning 'a share or proportion'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"quota (for sth)",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Official",
+        "Business"
+      ],
+      "DEF_EN":"A fixed share of something that a person, group, or country is entitled to receive or is bound to contribute; an allocation.",
+      "DEF_ZH":"定额；份额；配额。分配给个人、团体或国家的固定比例或数量。",
+      "SENT_EN":"Each region has been assigned a strict quota for water usage during the drought.",
+      "SENT_ZH":"在干旱期间，每个地区都被分配了严格的用水定额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allocation",
+            "share",
+            "portion",
+            "apportionment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quota (on sth)",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Political",
+        "Economic",
+        "Legal"
+      ],
+      "DEF_EN":"An official limit on the number or amount of something allowed or required, especially in trade or immigration.",
+      "DEF_ZH":"限额；限制数量。对进出口、移民或特定产品数量施加的官方限制。",
+      "SENT_EN":"The administration plans to lift the import quota on foreign cars next year.",
+      "SENT_ZH":"政府计划明年取消对外国汽车的进口配额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "restriction",
+            "ceiling",
+            "cap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"meet/fill one's quota",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Informal",
+        "Figurative"
+      ],
+      "DEF_EN":"The required minimum amount of an activity or achievement that must be satisfied.",
+      "DEF_ZH":"必需完成的最低量或目标。",
+      "SENT_EN":"I need to make five more phone calls to fill my quota before I can leave.",
+      "SENT_ZH":"我还需要打五个电话才能达到我的任务指标，然后才能离开。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common in business, economics, and political contexts."
+}

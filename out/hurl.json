@@ -1,0 +1,91 @@
+{
+  "WORD":"hurl",
+  "IPA":"/hɜːrl/",
+  "CONJUGATES":"hurls | hurled | hurling",
+  "ETYMOLOGY":"Late Middle English (c. 1300s), of uncertain origin, perhaps related to the Low German/Dutch 'hurrelen' (to rush, whirl).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"hurl [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical action"
+      ],
+      "DEF_EN":"To throw an object with great force or violence.",
+      "DEF_ZH":"猛烈地投掷或抛出某物。",
+      "SENT_EN":"The athlete managed to hurl the javelin over 80 meters.",
+      "SENT_ZH":"那名运动员成功地将标枪投掷出超过80米。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "throw",
+            "fling",
+            "launch",
+            "propel"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "catch",
+            "receive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hurl [sth] at [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb plus preposition",
+      "TAGS":[
+        "figurative",
+        "discourse",
+        "common"
+      ],
+      "DEF_EN":"To direct or utter (abuse, accusations, or insults) vehemently at someone or something.",
+      "DEF_ZH":"猛烈地向某人或某事发出或抛出（辱骂、指控或侮辱）。",
+      "SENT_EN":"Fans began to hurl insults at the referee after the controversial call.",
+      "SENT_ZH":"在那个有争议的判罚之后，球迷开始向裁判大声辱骂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "utter",
+            "direct",
+            "launch",
+            "rail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hurl",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "informal",
+        "slang",
+        "euphemistic"
+      ],
+      "DEF_EN":"To vomit or throw up.",
+      "DEF_ZH":"呕吐；把胃里的东西吐出来。",
+      "SENT_EN":"He had to pull over the car because he felt like he was going to hurl.",
+      "SENT_ZH":"他不得不把车停在路边，因为他感觉自己快要吐了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vomit",
+            "puke",
+            "throw up"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general, usage M3 is informal"
+}

@@ -1,0 +1,85 @@
+{
+  "WORD":"visual",
+  "IPA":"/ˈvɪʒuəl/",
+  "CONJUGATES":"visuals (n. plural) | visually (adv)",
+  "ETYMOLOGY":"From Medieval Latin visualis, derived from Latin visus (sight, vision), the past participle of videre (to see).",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"visual [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to seeing or sight.",
+      "DEF_ZH":"与视力或视觉相关的。",
+      "SENT_EN":"Dogs rely less on visual cues than humans do.",
+      "SENT_ZH":"狗对视觉线索的依赖性不如人类。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "optic",
+            "optical",
+            "seeing"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "vision",
+            "visibility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"visual (plural: visuals)",
+      "POS":"n (c)",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common",
+        "media",
+        "art"
+      ],
+      "DEF_EN":"An image, photograph, or piece of film used to illustrate or accompany something, especially a presentation or artistic work.",
+      "DEF_ZH":"视觉材料；（尤指用于演示或艺术作品的）图片、影像、图表。",
+      "SENT_EN":"The marketing team created stunning visuals for the new product launch.",
+      "SENT_ZH":"营销团队为新产品发布创造了令人惊叹的视觉材料。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "image",
+            "picture",
+            "graphic",
+            "display"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"visual [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical"
+      ],
+      "DEF_EN":"Used in or suitable for viewing or observation by sight, often referring to instruments.",
+      "DEF_ZH":"用于目视观察或适合目视观察的（常指工具）。",
+      "SENT_EN":"The astronomer used a visual magnitude scale to measure the star's brightness.",
+      "SENT_ZH":"这位天文学家使用视星等来测量恒星的亮度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "observational"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

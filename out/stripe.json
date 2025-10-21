@@ -1,0 +1,80 @@
+{
+  "WORD":"stripe",
+  "IPA":"/straɪp/",
+  "CONJUGATES":"stripes | striping | striped",
+  "ETYMOLOGY":"From Middle English strippe or strype, likely via Middle Dutch or Middle Low German stripe (a streak, line, whip mark). Related to German Streifen.",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"a stripe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A long, narrow band or line, especially one differing in color, texture, or material from the surrounding area.",
+      "DEF_ZH":"条纹；色带；线。指与周围区域颜色、质地或材料不同的长而窄的带状或线条。",
+      "SENT_EN":"The national flag has red and white stripes.",
+      "SENT_ZH":"国旗有红白相间的条纹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "band",
+            "streak",
+            "line",
+            "bar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stripe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "military",
+        "police",
+        "informal"
+      ],
+      "DEF_EN":"A chevron or bar worn on a uniform sleeve to indicate rank, especially in military or police forces.",
+      "DEF_ZH":"（军人或警察制服上的）等级标志；V形臂章；军衔。",
+      "SENT_EN":"He was proud to finally earn his corporal’s stripe.",
+      "SENT_ZH":"他很自豪自己终于获得了下士的军衔。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chevron",
+            "epaulette"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stripe [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "core word"
+      ],
+      "DEF_EN":"To mark or decorate with stripes or streaks.",
+      "DEF_ZH":"给…画上条纹；用条纹装饰。",
+      "SENT_EN":"The artist striped the wall with vivid geometric patterns.",
+      "SENT_ZH":"这位艺术家用生动的几何图案给墙壁画上了条纹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "streak",
+            "band",
+            "line"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often applied to textiles, animals, graphic design, and organizational rank."
+}

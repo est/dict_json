@@ -1,0 +1,90 @@
+{
+  "WORD":"meal",
+  "IPA":"/miːl/",
+  "CONJUGATES":"meals",
+  "ETYMOLOGY":"There are two distinct etymologies for 'meal'. For the meaning 'an occasion for eating' or 'the food served', it derives from Old English *mæl* 'fixed time, occasion, meal', from Proto-Germanic *mēlą*. For the meaning 'ground grain', it derives from Old English *melu* 'meal, flour', from Proto-Germanic *melwą*.",
+  "SINCE":"Before 12th century (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"meal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An occasion when food is eaten, such as breakfast, lunch, or dinner.",
+      "DEF_ZH":"一次进食的场合，如早餐、午餐或晚餐。",
+      "SENT_EN":"We usually have our main meal in the evening.",
+      "SENT_ZH":"我们通常在晚上吃主餐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repast",
+            "feast",
+            "collation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "breakfast",
+            "lunch",
+            "dinner",
+            "supper",
+            "brunch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"meal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The food itself that is eaten on a specific occasion.",
+      "DEF_ZH":"在特定场合所食用的食物。",
+      "SENT_EN":"The chef prepared a simple but satisfying meal.",
+      "SENT_ZH":"厨师准备了一顿简单但令人满意的饭菜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "food",
+            "dish",
+            "fare",
+            "cuisine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"meal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"Grain or other edible seeds ground to a powder, used as food or in making flour.",
+      "DEF_ZH":"磨成粉状的谷物或其他可食用的种子，用作食物或制作面粉。",
+      "SENT_EN":"Cornmeal is a staple in many Southern dishes.",
+      "SENT_ZH":"玉米粉是许多南方菜肴中的主食。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "flour",
+            "grits",
+            "oatmeal",
+            "cornmeal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

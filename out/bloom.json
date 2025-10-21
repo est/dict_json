@@ -1,0 +1,131 @@
+{
+  "WORD":"bloom",
+  "IPA":"/bluːm/",
+  "CONJUGATES":"blooms | bloomed | blooming (v); blooms (n)",
+  "ETYMOLOGY":"Middle English *blome*, from Old Norse *blóm* or Old Low German *blōme*, ultimately related to Proto-Germanic *blōmô* (flower, blossom).",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] bloom",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "nature"
+      ],
+      "DEF_EN":"To produce flowers; to open into a flower.",
+      "DEF_ZH":"开花；花期；植物开出花朵。",
+      "SENT_EN":"The cherry trees usually bloom early in spring.",
+      "SENT_ZH":"樱花树通常在早春时节开花。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blossom",
+            "flower",
+            "effloresce"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "wither",
+            "fade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] bloom",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "metaphorical",
+        "common"
+      ],
+      "DEF_EN":"To flourish, thrive, or develop healthily and successfully.",
+      "DEF_ZH":"繁荣；兴旺；焕发生机或青春。",
+      "SENT_EN":"She has really bloomed since she started college.",
+      "SENT_ZH":"自从她开始上大学以来，她真正地焕发了生机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thrive",
+            "flourish",
+            "prosper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in bloom | the bloom of [sth] | a bloom",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "nature"
+      ],
+      "DEF_EN":"The state of flowering; the mass of flowers on a plant; or a flower itself.",
+      "DEF_ZH":"花朵；开花期；盛开的状态。",
+      "SENT_EN":"The garden is now in full bloom.",
+      "SENT_ZH":"花园现在正值盛开期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blossom",
+            "flower",
+            "floret"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the bloom of youth | a bloom on the cheeks",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "literary",
+        "descriptive"
+      ],
+      "DEF_EN":"A fresh, healthy, often rosy glow on the skin, suggesting youth and vitality.",
+      "DEF_ZH":"容光；红润的光泽；青春的容颜。",
+      "SENT_EN":"Even in old age, she retained a certain bloom.",
+      "SENT_ZH":"即使年老，她仍保持着某种容光。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glow",
+            "radiance",
+            "flush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bloom on [sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "technical",
+        "specific usage"
+      ],
+      "DEF_EN":"A whitish, waxy or powdery coating found naturally on the surface of certain fruits (e.g., plums, grapes) or a hazy effect in optics/photography.",
+      "DEF_ZH":"（水果表面的）白霜；（摄影或光学中的）光晕、模糊效果。",
+      "SENT_EN":"The grapes had a beautiful natural bloom, indicating freshness.",
+      "SENT_ZH":"葡萄上有一层美丽的天然白霜，这表明它们很新鲜。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "patina",
+            "waxy coating"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Literary, and Scientific."
+}

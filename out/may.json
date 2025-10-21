@@ -1,0 +1,100 @@
+{
+  "WORD":"may",
+  "IPA":"/meɪ/",
+  "CONJUGATES":"might (past/conditional form) | Mays (plural noun)",
+  "ETYMOLOGY":"Modal verb: From Old English mæg ('I can, I am able to'), from Proto-Germanic *magan. | Noun (month): From Latin Maius, named for the Roman goddess Maia.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] may [v]",
+      "POS":"modal v",
+      "POS_TIP":"Modal verb, functioning as an auxiliary verb expressing necessity, possibility, permission, or suggestion.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to express possibility or chance that something will happen or is true.",
+      "DEF_ZH":"表示某事可能发生或属实的可能性或机会。",
+      "SENT_EN":"The train may be delayed due to the weather.",
+      "SENT_ZH":"由于天气原因，火车可能会晚点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "might",
+            "could",
+            "possibly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mustn't (certainty of non-occurrence)",
+            "cannot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"May I [v]...",
+      "POS":"modal v",
+      "POS_TIP":"Modal verb, functioning as an auxiliary verb expressing necessity, possibility, permission, or suggestion.",
+      "TAGS":[
+        "polite",
+        "formal"
+      ],
+      "DEF_EN":"Used to ask for or give permission (often considered more polite than 'can').",
+      "DEF_ZH":"用于请求或给予许可（通常比 'can' 更礼貌）。",
+      "SENT_EN":"You may leave the table now that you are finished eating.",
+      "SENT_ZH":"既然你吃完了，你现在可以离开餐桌了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "can (informal)",
+            "be permitted to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"May [sb] [v]...",
+      "POS":"modal v",
+      "POS_TIP":"Modal verb, functioning as an auxiliary verb expressing necessity, possibility, permission, or suggestion.",
+      "TAGS":[
+        "literary",
+        "idiomatic",
+        "fixed expression"
+      ],
+      "DEF_EN":"Used in formal or literary contexts to express a wish, prayer, or strong hope.",
+      "DEF_ZH":"用于正式或文学语境中，表达愿望、祈祷或强烈的希望。",
+      "SENT_EN":"May the odds be ever in your favor.",
+      "SENT_ZH":"愿机会永远对你有利。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"May",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "calendar",
+        "proper noun"
+      ],
+      "DEF_EN":"The fifth month of the year, following April and preceding June.",
+      "DEF_ZH":"一年中的第五个月，在四月之后，六月之前。",
+      "SENT_EN":"We plan to travel to the coast during May.",
+      "SENT_ZH":"我们计划在五月去海边旅行。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spring",
+            "May Day"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General",
+  "POS_TIP":"Modal verb, functioning as an auxiliary verb expressing necessity, possibility, permission, or suggestion."
+}

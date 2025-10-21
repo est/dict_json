@@ -1,0 +1,155 @@
+{
+  "WORD":"shift",
+  "IPA":"/ʃɪft/",
+  "CONJUGATES":"shifts (3rd person singular present) | shifted (past tense) | shifting (present participle) | shifted (past participle)",
+  "ETYMOLOGY":"From Middle English `shiften`, from Old English `sciftan` (intransitive) or `scyftan` (transitive), meaning 'to divide, arrange, distribute, separate'. Later developed the sense of 'to move' in late Middle English, influenced by Old Norse `skipta` 'to divide, share'.",
+  "SINCE":"Before 12th century (for earlier senses); 14th century (for 'to move' sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"shift [sth] | shift",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To move or cause to move from one place or position to another; to change position, direction, or focus.",
+      "DEF_ZH":"移动或使移动；改变（位置、方向、焦点等）。",
+      "SENT_EN":"She shifted her weight from one foot to the other. The wind shifted to the north.",
+      "SENT_ZH":"她把重心从一只脚移到另一只脚。风向北转了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "move",
+            "relocate",
+            "alter",
+            "change",
+            "adjust"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "remain",
+            "stay",
+            "fix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shift [gear]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "specific usage"
+      ],
+      "DEF_EN":"To change the gears in a vehicle to make it go faster or slower.",
+      "DEF_ZH":"（在车辆中）换挡。",
+      "SENT_EN":"He shifted into third gear as the road started to climb.",
+      "SENT_ZH":"路开始上坡时，他换到了三挡。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "gearbox",
+            "transmission"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a shift",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A period of time for which a person is scheduled to work, especially as part of a rota.",
+      "DEF_ZH":"（轮班制的）一班，一个工作时段。",
+      "SENT_EN":"She works the night shift at the hospital.",
+      "SENT_ZH":"她在医院上夜班。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spell",
+            "turn",
+            "watch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "duty",
+            "roster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a shift in [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A slight change in position, direction, or tendency.",
+      "DEF_ZH":"（位置、方向或趋势的）轻微变化；转变。",
+      "SENT_EN":"There has been a significant shift in public opinion on the issue.",
+      "SENT_ZH":"公众对这个问题的看法发生了显著转变。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "change",
+            "alteration",
+            "variation",
+            "deviation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shifting [N]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive",
+        "derivative"
+      ],
+      "DEF_EN":"Moving or changing position; not fixed, stable, or constant.",
+      "DEF_ZH":"移动的；变化的；不稳定的；变幻莫测的。",
+      "SENT_EN":"We watched the shifting patterns of the clouds in the sky. The political landscape is a constantly shifting ground.",
+      "SENT_ZH":"我们看着天空中变幻莫测的云朵图案。政治格局瞬息万变。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mobile",
+            "variable",
+            "fluid",
+            "changeable",
+            "unstable",
+            "fluctuating"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stable",
+            "static",
+            "fixed",
+            "constant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

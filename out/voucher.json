@@ -1,0 +1,59 @@
+{
+  "WORD":"voucher",
+  "IPA":"/ˈvaʊtʃər/",
+  "CONJUGATES":"vouchers | vouchered | vouchering",
+  "ETYMOLOGY":"Middle English, from Anglo-Norman vocher (to call, summon as a witness or guarantor), related to Old French vochier. The meaning shifted from guaranteeing a claim to the document representing the claim/payment.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commerce"
+      ],
+      "DEF_EN":"A small printed piece of paper or an electronic code that entitles the holder to a discount, or that can be exchanged for goods or services.",
+      "DEF_ZH":"凭证；代金券；优惠券；票据。",
+      "SENT_EN":"I used a gift voucher to buy the new headphones.",
+      "SENT_ZH":"我用了一张礼品券来购买新的耳机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coupon",
+            "token",
+            "certificate",
+            "ticket"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "accounting",
+        "finance"
+      ],
+      "DEF_EN":"A document providing proof of a transaction, especially a receipt for money paid or costs incurred.",
+      "DEF_ZH":"证明文件；收据；发票（尤指证明支付或费用发生的单据）。",
+      "SENT_EN":"The audit required the submission of all associated expense vouchers.",
+      "SENT_ZH":"审计要求提交所有相关的费用凭证。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "receipt",
+            "proof of purchase",
+            "invoice",
+            "document"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Commercial, Accounting"
+}

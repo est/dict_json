@@ -1,0 +1,62 @@
+{
+  "WORD":"overdraft",
+  "IPA":"/ˈoʊvərdræft/",
+  "CONJUGATES":"overdrafts (n.) | overdrafted (v.) | overdrafting (v.)",
+  "ETYMOLOGY":"Compound of the prefix 'over-' (meaning 'excessive, beyond') and 'draft' (referring to a drawing out or withdrawal, especially of funds). Attested in the financial sense since the mid-19th century.",
+  "SINCE":"c. 1850s",
+  "MEANINGS":[
+    {
+      "PATTERN":"overdraft",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "banking"
+      ],
+      "DEF_EN":"A deficit in a bank account caused by withdrawing more money than the account holds.",
+      "DEF_ZH":"透支额；透支（银行账户中取款超出存款余额的部分）。",
+      "SENT_EN":"The bank charged a hefty fee for the unauthorized overdraft.",
+      "SENT_ZH":"银行对未经授权的透支收取了高额费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deficit",
+            "negative balance",
+            "overdrawn account"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "line of credit",
+            "bounced check"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"overdraft [an account]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "less common",
+        "banking"
+      ],
+      "DEF_EN":"To withdraw funds from a bank account exceeding the balance present.",
+      "DEF_ZH":"使（账户）透支。",
+      "SENT_EN":"He accidentally overdrafted his account when paying for groceries.",
+      "SENT_ZH":"他在支付杂货费用时不小心透支了账户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overdraw"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Finance, Banking, Everyday Usage (in financial context)"
+}

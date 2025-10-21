@@ -1,0 +1,89 @@
+{
+  "WORD":"remainder",
+  "IPA":"/rɪˈmeɪndər/",
+  "CONJUGATES":"remainders (n. plural) | remaindered (v. past tense/past participle) | remaindering (v. present participle)",
+  "ETYMOLOGY":"From Anglo-Norman and Old French remaindre 'to remain,' derived from Latin remanēre (re- 'back' + manēre 'to stay, abide'). The noun sense of 'what is left over' developed in Middle English.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] remainder [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The part of something that is left over after the other parts have been used, dealt with, or removed.",
+      "DEF_ZH":"剩余部分；余下物；残余",
+      "SENT_EN":"We spent the remainder of the afternoon planning the trip.",
+      "SENT_ZH":"我们用下午剩下的时间来计划这次旅行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rest",
+            "balance",
+            "residue",
+            "leftovers"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "whole",
+            "entirety",
+            "aggregate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] remainder [of X]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"The quantity left over after dividing one number by another that is not exactly divisible, or the result of a subtraction.",
+      "DEF_ZH":"（数学）余数",
+      "SENT_EN":"If you divide 17 by 5, the result is 3 with a remainder of 2.",
+      "SENT_ZH":"如果用17除以5，结果是3，余数是2。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "quotient",
+            "dividend",
+            "divisor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"remainder [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes an object)",
+      "TAGS":[
+        "specific usage",
+        "commerce",
+        "publishing"
+      ],
+      "DEF_EN":"To sell books or other items that are surplus stock at a greatly reduced price.",
+      "DEF_ZH":"（特指出版业）将滞销书或剩余库存低价清仓出售",
+      "SENT_EN":"The bookstore decided to remainder the old editions before the new ones arrived.",
+      "SENT_ZH":"书店决定在新版本到货之前，将旧版本低价清仓出售。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "liquidate",
+            "discount",
+            "clearance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

@@ -1,0 +1,104 @@
+{
+  "WORD":"airway",
+  "IPA":"/ˈɛrˌweɪ/",
+  "CONJUGATES":"airway | airways",
+  "ETYMOLOGY":"From English 'air' + 'way'.",
+  "SINCE":"Late 19th century (first recorded in medical context around 1878, aviation context around 1919).",
+  "MEANINGS":[
+    {
+      "PATTERN":"airway",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "medical",
+        "anatomy"
+      ],
+      "DEF_EN":"The passage through which air enters and leaves the lungs, including the nose, mouth, pharynx, larynx, trachea, and bronchi.",
+      "DEF_ZH":"空气进入和离开肺部的通道，包括鼻、口、咽、喉、气管和支气管。",
+      "SENT_EN":"The paramedics worked quickly to clear the patient's airway.",
+      "SENT_ZH":"护理人员迅速清理了病人的气道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "respiratory tract",
+            "breathing passage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "trachea",
+            "bronchus",
+            "larynx"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"airway",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "aviation",
+        "transport"
+      ],
+      "DEF_EN":"A designated route for aircraft, often equipped with navigation aids and control points.",
+      "DEF_ZH":"供飞机使用的指定航线，通常配备有导航设备和管制点。",
+      "SENT_EN":"The plane was cleared to enter the main airway.",
+      "SENT_ZH":"飞机获准进入主航线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flight path",
+            "air lane",
+            "skyway"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "route",
+            "corridor",
+            "control zone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"airway",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A passage or channel specifically designed for the movement or circulation of air, such as in ventilation systems or natural formations.",
+      "DEF_ZH":"专为空气流动或循环设计的通道或渠道，例如在通风系统或自然形成中。",
+      "SENT_EN":"The narrow airway in the old house made ventilation difficult.",
+      "SENT_ZH":"老房子里狭窄的通风道使得通风很困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vent",
+            "duct",
+            "passage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "flue",
+            "shaft",
+            "channel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Aviation"
+}

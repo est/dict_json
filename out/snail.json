@@ -1,0 +1,94 @@
+{
+  "WORD":"snail",
+  "IPA":"/sneɪl/",
+  "CONJUGATES":"snails | snailed | snailing",
+  "ETYMOLOGY":"From Old English snægl, from Proto-Germanic *snagilaz.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"snail",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "animal"
+      ],
+      "DEF_EN":"A mollusk with a spiral shell that moves very slowly, often leaving a mucous trail.",
+      "DEF_ZH":"一种通常带有螺旋形外壳、移动缓慢并常留下黏液痕迹的软体动物。",
+      "SENT_EN":"After the rain, snails emerged from their hiding places.",
+      "SENT_ZH":"雨后，蜗牛们从藏身之处爬了出来。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "slug",
+            "gastropod",
+            "escargot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a snail",
+      "POS":"n",
+      "POS_TIP":"noun, used figuratively",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A person or thing that moves or acts very slowly.",
+      "DEF_ZH":"喻指行动或进展非常缓慢的人或事物。",
+      "SENT_EN":"My old computer is a real snail when it comes to loading applications.",
+      "SENT_ZH":"我那台旧电脑加载应用程序时慢得像蜗牛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slowpoke",
+            "dawdler"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "speedster",
+            "go-getter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"snail [along/past]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "less common",
+        "figurative"
+      ],
+      "DEF_EN":"To move or progress very slowly.",
+      "DEF_ZH":"（动词）非常缓慢地移动或行进。",
+      "SENT_EN":"The traffic snailed through the construction zone.",
+      "SENT_ZH":"车流缓慢地穿过施工区域。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creep",
+            "crawl",
+            "inch"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rush",
+            "hurry",
+            "speed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

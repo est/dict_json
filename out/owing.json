@@ -1,0 +1,66 @@
+{
+  "WORD":"owing",
+  "IPA":"/ˈəʊɪŋ/",
+  "CONJUGATES":"owe | owes | owed | owing",
+  "ETYMOLOGY":"From Middle English owynge, present participle of the verb owen ('to owe'), ultimately from Old English āgan ('to have, own, possess'). The prepositional use 'owing to' developed later from the adjectival sense.",
+  "SINCE":"Late Middle English (for the verbal base 'owe' and participial form 'owing'); 17th century (for 'owing to' as a preposition).",
+  "MEANINGS":[
+    {
+      "PATTERN":"owing to [sth]",
+      "POS":"preposition",
+      "POS_TIP":"A word or phrase used before a noun, pronoun, or noun phrase to show direction, time, place, location, spatial relationships, or to introduce an object (e.g., 'to', 'from', 'on', 'because of').",
+      "TAGS":[
+        "common",
+        "formal",
+        "causal"
+      ],
+      "DEF_EN":"Because of; as a result of.",
+      "DEF_ZH":"由于；因为（表示原因）",
+      "SENT_EN":"Owing to the adverse weather conditions, the flight was delayed.",
+      "SENT_ZH":"由于恶劣的天气状况，航班延误了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "due to",
+            "because of",
+            "on account of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] owing (to [sb/sth])",
+      "POS":"adjective",
+      "POS_TIP":"A word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "common",
+        "formal",
+        "financial"
+      ],
+      "DEF_EN":"(Of money or a debt) yet to be paid; due.",
+      "DEF_ZH":"（款项或债务）未付的；到期的",
+      "SENT_EN":"There was a substantial amount of money owing to the tax authorities.",
+      "SENT_ZH":"有一大笔钱欠着税务机关。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "due",
+            "unpaid",
+            "outstanding",
+            "payable"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "debt",
+            "liability"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and general; the adjectival use is often found in financial or legal contexts."
+}

@@ -1,0 +1,92 @@
+{
+  "WORD":"pirate",
+  "IPA":"/ˈpaɪrət/",
+  "CONJUGATES":"pirates | pirating | pirated",
+  "ETYMOLOGY":"From Middle English, via Old French pirate, from Latin pirata, from Ancient Greek peirātḗs (πειρατής), meaning 'one who attempts' or 'adventurer', related to peîra (πεῖρα, 'trial, attempt, experience').",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "history"
+      ],
+      "DEF_EN":"A person who attacks and robs ships at sea.",
+      "DEF_ZH":"在海上攻击和抢劫船只的人；海盗。",
+      "SENT_EN":"Legends speak of famous pirates who buried immense treasures.",
+      "SENT_ZH":"传说中提到了埋藏了巨额财宝的著名海盗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "buccaneer",
+            "corsair",
+            "freebooter",
+            "privateer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "modern usage",
+        "figurative"
+      ],
+      "DEF_EN":"A person who illegally reproduces or uses another's work, especially copyrighted intellectual property like software or media.",
+      "DEF_ZH":"非法复制或使用他人作品（特别是受版权保护的知识产权或媒体）的人；盗版者。",
+      "SENT_EN":"The music industry constantly battles digital pirates.",
+      "SENT_ZH":"音乐产业不断与数字盗版者作斗争。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "infringer",
+            "plagiarist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pirate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action"
+      ],
+      "DEF_EN":"To rob or attack (a ship or goods) at sea.",
+      "DEF_ZH":"在海上抢劫或攻击（船只或货物）。",
+      "SENT_EN":"The rebels planned to pirate the oil tanker and hold the crew for ransom.",
+      "SENT_ZH":"叛乱分子计划劫持油轮并索要船员赎金。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"pirate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "technology"
+      ],
+      "DEF_EN":"To illegally copy, reproduce, or use (intellectual property or media).",
+      "DEF_ZH":"非法复制、盗版或使用（知识产权或媒体）。",
+      "SENT_EN":"The film was pirated within days of its official release.",
+      "SENT_ZH":"这部电影在正式上映后的几天内就被盗版了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bootleg",
+            "illegally copy",
+            "infringe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General vocabulary, common in historical context and intellectual property discussions."
+}

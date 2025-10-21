@@ -1,0 +1,86 @@
+{
+  "WORD":"correlate",
+  "IPA":"/ˈkɒrəleɪt/",
+  "CONJUGATES":"correlates | correlating | correlated | correlative (adj) | correlation (n)",
+  "ETYMOLOGY":"From Late Latin correlatus, past participle of correlare (co- 'together' + relatus 'brought back', from referre 'to bring back').",
+  "SINCE":"Mid 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"correlate [A] with [B] | [A] and [B] correlate",
+      "POS":"vtr | vi",
+      "POS_TIP":"verb transitive | verb intransitive",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To have or establish a mutual relationship or connection between two or more things.",
+      "DEF_ZH":"使（事物）相互关联；建立相互关系；相互对应。",
+      "SENT_EN":"We need to correlate the findings from the survey with the current sales figures.",
+      "SENT_ZH":"我们需要将调查结果与当前的销售数据关联起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "associate",
+            "link",
+            "connect",
+            "correspond"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "correlation",
+            "interdependence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"correlate [data]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "technical",
+        "statistics"
+      ],
+      "DEF_EN":"To relate two or more variables statistically; to calculate the correlation coefficient.",
+      "DEF_ZH":"（统计学）计算或显示变量间的统计相关性。",
+      "SENT_EN":"The analysts correlated the variables to determine the strength of the linear relationship.",
+      "SENT_ZH":"分析师对这些变量进行了相关性分析，以确定线性关系的强度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "regression",
+            "covariance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the correlate of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "rare"
+      ],
+      "DEF_EN":"A thing that is related to or corresponds with another.",
+      "DEF_ZH":"相互关联的事物；对应物。",
+      "SENT_EN":"Physical activity is often considered the best behavioral correlate of improved mental health.",
+      "SENT_ZH":"体育活动通常被认为是改善心理健康的最佳行为对应物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "counterpart",
+            "analogue"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical, Formal"
+}

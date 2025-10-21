@@ -1,0 +1,93 @@
+{
+  "WORD":"swap",
+  "IPA":"/swɒp/",
+  "CONJUGATES":"swap | swaps | swapped | swapping",
+  "ETYMOLOGY":"Probably of imitative origin, originally meaning 'to strike' (c. 1300). The sense of 'to exchange' developed around 1590, possibly from the idea of striking hands to seal a bargain, or a quick motion of exchange.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"swap [sth] for [sth] | swap [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To give something to someone and receive something else in return; to exchange.",
+      "DEF_ZH":"与某人交换某物，以获得另一物；进行交换。",
+      "SENT_EN":"Can we swap seats so I can see better?",
+      "SENT_ZH":"我们能换个座位吗，这样我能看得更清楚？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exchange",
+            "trade",
+            "barter"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "keep",
+            "retain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a swap of [sth] for [sth] | a swap",
+      "POS":"n",
+      "POS_TIP":"noun: a word that names something (such as a person, place, thing, or idea)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act of exchanging one thing for another.",
+      "DEF_ZH":"交换一物以获得另一物的行为；一次交换。",
+      "SENT_EN":"Let's make a quick swap of contact details.",
+      "SENT_ZH":"我们快速交换一下联系方式吧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exchange",
+            "trade"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deal",
+            "transaction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"swap [data/assets]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires one or more objects",
+      "TAGS":[
+        "technical",
+        "computing",
+        "finance"
+      ],
+      "DEF_EN":"In computing, to move data from main memory to a disk, or vice versa; in finance, to exchange one financial instrument or asset for another, often to manage risk or optimize returns.",
+      "DEF_ZH":"在计算机领域，指将数据从主内存移至磁盘，反之亦然；在金融领域，指交换一种金融工具或资产以获得另一种，常用于风险管理或优化回报。",
+      "SENT_EN":"The operating system may swap inactive pages to disk to free up RAM.",
+      "SENT_ZH":"操作系统可能会将不活跃的页面交换到磁盘以释放内存。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "page file",
+            "currency swap",
+            "debt-for-equity swap"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

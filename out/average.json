@@ -1,0 +1,131 @@
+{
+  "WORD":"average",
+  "IPA":"/'ævərɪdʒ/",
+  "CONJUGATES":"averages | averaged | averaging (Verb) | averages (Plural Noun)",
+  "ETYMOLOGY":"From Middle French 'average' (loss or damage), related to Latin 'haveragium' (duty). The statistical sense developed in the 18th century, originating from the calculation of losses shared among ship owners (maritime law).",
+  "SINCE":"Late 15th Century (maritime); 18th Century (statistical)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] average [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "mathematics"
+      ],
+      "DEF_EN":"The result obtained by adding several quantities together and then dividing this total by the number of quantities; the arithmetic mean.",
+      "DEF_ZH":"平均数；平均值；算术平均数。",
+      "SENT_EN":"The average of the three test scores was 85.",
+      "SENT_ZH":"这三个测试分数的平均值是85。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mean",
+            "norm",
+            "median"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "standard deviation",
+            "mode"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"average [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "descriptive"
+      ],
+      "DEF_EN":"Constituting the standard or norm; typical, ordinary, or usual; neither particularly good nor bad.",
+      "DEF_ZH":"一般的；普通的；中等的；平常的。",
+      "SENT_EN":"His performance was just average, nothing spectacular.",
+      "SENT_ZH":"他的表现很普通，没有什么出彩之处。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "normal",
+            "standard",
+            "mediocre",
+            "typical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exceptional",
+            "outstanding",
+            "subpar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"average [sth] (out)",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb (verb that takes a direct object)",
+      "TAGS":[
+        "common",
+        "calculation"
+      ],
+      "DEF_EN":"To calculate the arithmetic mean of (a set of numbers or values).",
+      "DEF_ZH":"求（一组数字或值）的平均值；计算平均数。",
+      "SENT_EN":"We need to average these monthly sales figures to get the yearly trend.",
+      "SENT_ZH":"我们需要对这些月销售数据求平均值，以获得年度趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculate the mean",
+            "normalize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"average [sth]",
+      "POS":"vintr.",
+      "POS_TIP":"intransitive verb (verb that does not take a direct object)",
+      "TAGS":[
+        "common",
+        "statistics",
+        "performance"
+      ],
+      "DEF_EN":"To amount to or achieve a specified average value over a period of time.",
+      "DEF_ZH":"（在一段时间内）平均达到或保持（某数值）。",
+      "SENT_EN":"The player averages 25 points per game this season.",
+      "SENT_ZH":"这名球员本赛季场均得分25分。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"on average",
+      "POS":"n.",
+      "POS_TIP":"noun (used idiomatically)",
+      "TAGS":[
+        "idiom",
+        "common"
+      ],
+      "DEF_EN":"Based on a customary level; usually; typically.",
+      "DEF_ZH":"按平均计算；通常；一般而言。",
+      "SENT_EN":"On average, she spends two hours commuting every day.",
+      "SENT_ZH":"平均而言，她每天花两个小时通勤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "typically",
+            "generally"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, used in academic, business, and daily contexts."
+}

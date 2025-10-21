@@ -1,0 +1,99 @@
+{
+  "WORD":"transition",
+  "IPA":"/trænˈzɪʃən/",
+  "CONJUGATES":"transitions (n. plural) | transitions (v. 3rd person singular present) | transitioning (v. present participle) | transitioned (v. past tense, past participle)",
+  "ETYMOLOGY":"From Latin transitio, from transire 'go across' (trans- 'across' + ire 'go').",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"transition (from [A] to [B])",
+      "POS":"n",
+      "POS_TIP":"noun (countable or uncountable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The process or a period of changing from one state, condition, style, or activity to another.",
+      "DEF_ZH":"转变；过渡；转型期",
+      "SENT_EN":"The political transition from military rule to democracy was long and complicated.",
+      "SENT_ZH":"从军事统治向民主的政治过渡漫长而复杂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "change",
+            "shift",
+            "transformation",
+            "conversion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "transitional"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transition (to [sth]) | transition [sth]",
+      "POS":"v",
+      "POS_TIP":"verb (intransitive or transitive)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To change or cause something to change from one form or state to another.",
+      "DEF_ZH":"过渡；转变；转换",
+      "SENT_EN":"The software company is transitioning its major services to the cloud.",
+      "SENT_ZH":"这家软件公司正在将其主要服务过渡到云端。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "switch",
+            "move",
+            "convert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transition",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "technical",
+        "art"
+      ],
+      "DEF_EN":"A passage in music, film, or writing that connects two sections or themes.",
+      "DEF_ZH":"（音乐、电影或文学作品中的）过渡乐段；转场；过渡段",
+      "SENT_EN":"The director used a slow fade to black as a transition between the two storylines.",
+      "SENT_ZH":"导演使用缓慢的淡出黑屏作为两条故事情节之间的转场。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"transition",
+      "POS":"n",
+      "POS_TIP":"noun (technical)",
+      "TAGS":[
+        "science",
+        "physics"
+      ],
+      "DEF_EN":"The change of a system, such as an atom or molecule, from one energy state to another; or the change of a substance from one phase (solid, liquid, gas) to another.",
+      "DEF_ZH":"（物理、化学）跃迁；相变",
+      "SENT_EN":"Electron transitions between energy levels result in the emission of light.",
+      "SENT_ZH":"电子在能级之间的跃迁导致光的发射。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "phase transition",
+            "quantum jump"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally, but frequently encountered in academic, technical, business, and political contexts."
+}

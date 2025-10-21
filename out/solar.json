@@ -1,0 +1,77 @@
+{
+  "WORD":"solar",
+  "IPA":"/ˈsoʊlər/",
+  "CONJUGATES":"solarly (adverb) | sol (related noun for sun)",
+  "ETYMOLOGY":"From Latin sōlāris ('of the sun'), derived from sōl (sun).",
+  "SINCE":"Circa 1610s",
+  "MEANINGS":[
+    {
+      "PATTERN":"solar [n]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "astronomy"
+      ],
+      "DEF_EN":"Relating to, derived from, or operating by means of the sun.",
+      "DEF_ZH":"太阳的；与太阳有关的；来自太阳的。",
+      "SENT_EN":"A solar eclipse occurs when the Moon passes between the Sun and Earth.",
+      "SENT_ZH":"当月球运行到太阳和地球之间时，就会发生日食。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stellar",
+            "lunar",
+            "celestial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"solar [n]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "energy"
+      ],
+      "DEF_EN":"Designed to convert the sun's light into usable energy (electricity or heat).",
+      "DEF_ZH":"利用太阳能的；太阳能驱动的。",
+      "SENT_EN":"The company specializes in installing solar panels on commercial buildings.",
+      "SENT_ZH":"这家公司专门为商业建筑安装太阳能电池板。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "photovoltaic",
+            "heliothermal"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "renewable",
+            "geothermal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"solar [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "rare",
+        "astrology"
+      ],
+      "DEF_EN":"In astrology, relating to a person's sun sign or natal chart position of the sun.",
+      "DEF_ZH":"（占星术）关于太阳星座或本命盘中太阳位置的。",
+      "SENT_EN":"The solar return chart is calculated for your birthday each year.",
+      "SENT_ZH":"太阳回归图每年都会根据你的生日计算。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Science, Technology, and everyday usage when discussing energy."
+}

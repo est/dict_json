@@ -1,0 +1,87 @@
+{
+  "WORD":"prescription",
+  "IPA":"/prɪˈskrɪpʃən/",
+  "CONJUGATES":"prescriptions",
+  "ETYMOLOGY":"From Latin praescriptio(n-) 'an order, written instruction', derived from praescribere (prae- 'before' + scribere 'write').",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"prescription (for [sth])",
+      "POS":"n | count/uncount",
+      "POS_TIP":"Noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "medicine",
+        "common"
+      ],
+      "DEF_EN":"An official written order by a doctor or other qualified health practitioner authorizing a patient to be provided with a specific medicine or treatment.",
+      "DEF_ZH":"医生或其他合格的医疗从业者开具的官方书面指示，授权患者获取特定药物或治疗。",
+      "SENT_EN":"I need to drop off this prescription at the pharmacy before lunch.",
+      "SENT_ZH":"我需要在午饭前把这份处方拿到药房去取药。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "script",
+            "Rx",
+            "doctor's order"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "over-the-counter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prescription (for [sth])",
+      "POS":"n | uncount",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "formal",
+        "general usage"
+      ],
+      "DEF_EN":"A recommendation or authoritative rule suggested as a method for dealing with a problem or situation.",
+      "DEF_ZH":"为处理问题或情况而提出的建议或权威规则；规定；药方。",
+      "SENT_EN":"The new policy is the government's prescription for economic recovery.",
+      "SENT_ZH":"这项新政策是政府开出的经济复苏的“药方”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recommendation",
+            "instruction",
+            "mandate",
+            "formula"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"by prescription",
+      "POS":"n | uncount",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "legal",
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"(Law) The acquisition of a title or right, or the establishment of a legal principle, by long or continuous usage; limitation of action.",
+      "DEF_ZH":"（法律）因长期或连续使用而获得所有权或权利；法定时效。",
+      "SENT_EN":"The right to use the path was established by prescription after decades of unquestioned access.",
+      "SENT_ZH":"经过数十年的无争议使用，使用这条道路的权利已按法定时效确立。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "adverse possession",
+            "statute of limitations"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used primarily in medicine and formal discussion, occasionally in legal contexts."
+}

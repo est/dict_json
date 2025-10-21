@@ -1,0 +1,86 @@
+{
+  "WORD":"adult",
+  "IPA":"/ˈædʌlt/",
+  "CONJUGATES":"adults (n. pl.) | adulting (v. informal gerund)",
+  "ETYMOLOGY":"From Latin adultus, past participle of adolescere ('to grow up'), from ad- ('to') + alere ('to nourish, grow'). Originally meant 'grown up' or 'mature'.",
+  "SINCE":"Mid-17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] adult",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"A person who is fully grown or mature, having reached the legal age of responsibility (often 18 or 21).",
+      "DEF_ZH":"成年人；达到法定年龄并具有完全责任能力的个体。",
+      "SENT_EN":"In most countries, you are legally considered an adult when you turn eighteen.",
+      "SENT_ZH":"在大多数国家，你年满十八岁时就被合法地视为一名成年人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grown-up",
+            "major"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "child",
+            "minor",
+            "juvenile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"adult [sth] | [sth] is adult",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Core Word",
+        "Descriptive"
+      ],
+      "DEF_EN":"Fully developed, mature, or characteristic of a mature person or organism.",
+      "DEF_ZH":"成年的；成熟的；适用于成年人的。",
+      "SENT_EN":"The doctor specializes in both pediatric and adult medicine.",
+      "SENT_ZH":"这位医生擅长儿科和成人医学。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mature",
+            "full-grown",
+            "developed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"adult [content/themes]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Classification",
+        "Euphemism"
+      ],
+      "DEF_EN":"Relating to sexual or otherwise mature themes, often restricted to viewers over a certain age.",
+      "DEF_ZH":"涉及成人主题的；限制级的（尤指涉及性内容）。",
+      "SENT_EN":"The new streaming service requires age verification to access adult content.",
+      "SENT_ZH":"新的流媒体服务要求进行年龄验证才能访问成人内容。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mature",
+            "explicit",
+            "R-rated"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

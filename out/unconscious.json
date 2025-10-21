@@ -1,0 +1,89 @@
+{
+  "WORD":"unconscious",
+  "IPA":"/ʌnˈkɒnʃəs/",
+  "CONJUGATES":"unconsciousness | unconsciously",
+  "ETYMOLOGY":"From Latin prefix un- (not) + conscious, from Latin conscius (knowing, aware). First recorded in the sense of 'not knowing, unaware' in the 17th century; the psychological meaning developed later in the 18th century.",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is unconscious",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"Not awake or aware of the surroundings due to injury, illness, or sleep; insensible.",
+      "DEF_ZH":"失去知觉的；昏迷的；不省人事的。",
+      "SENT_EN":"The patient remained unconscious for twelve hours after the surgery.",
+      "SENT_ZH":"手术后，病人持续昏迷了十二个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insensible",
+            "comatose",
+            "knocked out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conscious",
+            "awake",
+            "alert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unconscious action/desire",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "psychology",
+        "abstract"
+      ],
+      "DEF_EN":"Relating to mental processes, feelings, or desires that influence a person's actions without them being aware of it; unintentional.",
+      "DEF_ZH":"潜意识的；下意识的；不自觉的。",
+      "SENT_EN":"His jealousy was an unconscious factor driving his competitive behavior.",
+      "SENT_ZH":"他的嫉妒是一种驱使他产生竞争行为的潜意识因素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subconscious",
+            "unwitting",
+            "instinctive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the unconscious",
+      "POS":"n",
+      "POS_TIP":"noun (used as a conceptual category)",
+      "TAGS":[
+        "psychology",
+        "theory",
+        "formal"
+      ],
+      "DEF_EN":"In psychological theory (especially Freudian), the part of the mind which is inaccessible to consciousness but which exerts a strong influence on behavior and emotion.",
+      "DEF_ZH":"潜意识（心理学概念中人类无法感知的、但影响行为的心智部分）。",
+      "SENT_EN":"Psychoanalysis aims to bring repressed memories from the unconscious into conscious awareness.",
+      "SENT_ZH":"精神分析旨在将受压抑的记忆从潜意识带入到意识层面。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "subconscious",
+            "psyche",
+            "repression"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Psychological"
+}

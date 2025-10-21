@@ -1,0 +1,89 @@
+{
+  "WORD":"antagonist",
+  "IPA":"/ænˈtæɡənɪst/",
+  "CONJUGATES":"antagonists",
+  "ETYMOLOGY":"From Greek antagonistes (opponent), from antagonizesthai (to struggle against), from anti- (against) + agonizesthai (to struggle, contend, from agon 'contest').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"antagonist",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "literary",
+        "narrative"
+      ],
+      "DEF_EN":"A person who actively opposes or is hostile to someone or something; an adversary. In literature, the character who opposes the protagonist.",
+      "DEF_ZH":"在故事、戏剧或电影中，积极反对或与某人（尤其是主角）作对的人或群体；反派角色；对手。",
+      "SENT_EN":"In many classic novels, the main antagonist embodies the societal prejudices of the era.",
+      "SENT_ZH":"在许多经典小说中，主要的反派角色体现了那个时代的社会偏见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opponent",
+            "adversary",
+            "foe",
+            "rival",
+            "enemy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "protagonist",
+            "hero"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"antagonist [chemical/drug]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "biology",
+        "medicine",
+        "chemistry"
+      ],
+      "DEF_EN":"A substance, such as a drug or chemical, that interferes with or inhibits the physiological action of another substance or process.",
+      "DEF_ZH":"一种干扰或抑制另一种物质或过程的生理作用的物质（如药物或化学品）。",
+      "SENT_EN":"Naloxone acts as an opioid receptor antagonist, blocking the effects of opioids and reversing overdose.",
+      "SENT_ZH":"纳洛酮作为一种阿片受体拮抗剂，能阻断阿片类药物的作用并逆转过量反应。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "agonist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"antagonist [muscle]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "anatomy",
+        "biology"
+      ],
+      "DEF_EN":"A muscle whose contraction opposes the action of another muscle (the agonist).",
+      "DEF_ZH":"收缩时与另一块肌肉（主动肌）的作用相反的肌肉。",
+      "SENT_EN":"When you flex your arm, the triceps muscle acts as an antagonist to the biceps.",
+      "SENT_ZH":"当你弯曲手臂时，肱三头肌作为肱二头肌的拮抗肌发挥作用。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "agonist"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral, depending on the context; technical in biological/medical contexts."
+}

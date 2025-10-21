@@ -1,0 +1,82 @@
+{
+  "WORD":"percentage",
+  "IPA":"/pərˈsɛntɪdʒ/",
+  "CONJUGATES":"percentages",
+  "ETYMOLOGY":"From percent and the suffix -age. Percent is derived from Latin per centum ('by the hundred').",
+  "SINCE":"Mid 19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"percentage [of sth]",
+      "POS":"nc | nu",
+      "POS_TIP":"noun, countable or uncountable",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "statistics"
+      ],
+      "DEF_EN":"A rate, number, or amount in each hundred; the result of expressing a proportion or ratio as so many parts per hundred.",
+      "DEF_ZH":"百分数；百分率；百分比",
+      "SENT_EN":"What percentage of the population voted in the last election?",
+      "SENT_ZH":"在上次选举中，有多少百分比的人口投了票？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ratio",
+            "proportion",
+            "rate",
+            "fraction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a percentage [of the profit]",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "common",
+        "business",
+        "informal"
+      ],
+      "DEF_EN":"A share or portion of a total, often used informally when referring to a commission or profit received.",
+      "DEF_ZH":"份额；提成；分得的利润",
+      "SENT_EN":"The salesman receives a high percentage of every deal he closes.",
+      "SENT_ZH":"这位销售员从他完成的每笔交易中都获得高额提成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commission",
+            "cut",
+            "share"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the percentages",
+      "POS":"npl",
+      "POS_TIP":"noun, plural",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"Odds or chances, especially when considering the likelihood of success or failure in a given situation.",
+      "DEF_ZH":"胜算；成功的可能性；概率",
+      "SENT_EN":"The percentages are definitely against them winning the championship this year.",
+      "SENT_ZH":"他们今年赢得冠军的胜算绝对不高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "odds",
+            "probability",
+            "likelihood"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, ranging from formal (M1) to informal (M2, M3)."
+}

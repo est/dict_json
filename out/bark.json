@@ -1,0 +1,126 @@
+{
+  "WORD":"bark",
+  "IPA":"/bɑːrk/",
+  "CONJUGATES":"barks | barking | barked (verb); barks (noun)",
+  "ETYMOLOGY":"Verb (dog sound): From Old English 'beorcan'. | Noun (tree covering): From Old Norse 'börkr'.",
+  "SINCE":"Verb (dog sound): Before 900 AD | Noun (tree covering): Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[animal] bark",
+      "POS":"vi",
+      "POS_TIP":"\"vi\" stands for intransitive verb, which is a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"(Of a dog or other animal) emit a sharp, sudden, loud utterance.",
+      "DEF_ZH":"(指狗或其他动物) 发出短促、响亮、突然的声音。",
+      "SENT_EN":"The dog barked loudly at the mailman.",
+      "SENT_ZH":"狗对着邮递员大声吠叫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yap",
+            "howl",
+            "growl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bark",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun, a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sharp, abrupt sound made by a dog or other animal.",
+      "DEF_ZH":"狗或其他动物发出的短促、突然的叫声。",
+      "SENT_EN":"We heard a distant bark in the woods.",
+      "SENT_ZH":"我们听到树林里传来一声遥远的狗叫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "yap",
+            "howl",
+            "growl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]'s bark",
+      "POS":"n",
+      "POS_TIP":"\"n\" stands for noun, a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "botany"
+      ],
+      "DEF_EN":"The tough, protective outer sheath of the trunk and branches of a tree or other woody plant.",
+      "DEF_ZH":"树木或其他木本植物的树干和树枝上坚韧的保护性外层。",
+      "SENT_EN":"The tree had rough, gnarled bark.",
+      "SENT_ZH":"这棵树的树皮粗糙而多节。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cortex",
+            "cambium",
+            "phloem"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bark [sth] at [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"\"vtr\" stands for transitive verb, which is a verb that takes a direct object. \"prep\" stands for preposition.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To utter (words or a command) in a loud, abrupt, or angry tone.",
+      "DEF_ZH":"大声、突然或愤怒地喊出（词语或命令）。",
+      "SENT_EN":"The sergeant barked an order at the recruits.",
+      "SENT_ZH":"警官对新兵们大声吼叫着下达命令。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shout",
+            "snap",
+            "yell"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bark [sth]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" stands for transitive verb, which is a verb that takes a direct object.",
+      "TAGS":[
+        "less common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To scrape or rub the skin off (a shin or elbow, for example).",
+      "DEF_ZH":"擦伤（例如，小腿或肘部）的皮肤。",
+      "SENT_EN":"He barked his shin on the coffee table.",
+      "SENT_ZH":"他的小腿撞到咖啡桌上，擦破了皮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graze",
+            "scrape",
+            "abrade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

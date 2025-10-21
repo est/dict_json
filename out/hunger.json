@@ -1,0 +1,87 @@
+{
+  "WORD":"hunger",
+  "IPA":"/ˈhʌŋɡər/",
+  "CONJUGATES":"hungers | hungering | hungered",
+  "ETYMOLOGY":"From Old English hungor (noun) and hungrian (verb), related to Old Norse hungr. Ultimately from Proto-Germanic *hungruz.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"hunger",
+      "POS":"noun",
+      "POS_TIP":"Nomen, substantive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A strong physiological need or desire for food.",
+      "DEF_ZH":"身体上对食物的强烈需求或渴望；饥饿感。",
+      "SENT_EN":"The children cried from hunger after missing two meals.",
+      "SENT_ZH":"孩子们因为错过了两顿饭，饿得哭了起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appetite",
+            "starvation",
+            "famishment"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "satiety",
+            "fullness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hunger for [sth]",
+      "POS":"noun",
+      "POS_TIP":"Nomen, substantive",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A strong, compelling desire or craving for something non-physical.",
+      "DEF_ZH":"对非物质事物的强烈、迫切的渴望或需求。",
+      "SENT_EN":"He had a tremendous hunger for power and recognition.",
+      "SENT_ZH":"他对权力和认可抱有巨大的渴望。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "craving",
+            "thirst",
+            "yearning",
+            "desire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hunger | hunger for [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"Verb intransitive + preposition",
+      "TAGS":[
+        "literary",
+        "dynamic"
+      ],
+      "DEF_EN":"To feel or suffer from hunger, or to have a strong desire for something.",
+      "DEF_ZH":"感到饥饿；热切地渴望某事物。",
+      "SENT_EN":"She hungered for the day she would finally leave the village.",
+      "SENT_ZH":"她渴望着最终离开村庄的那一天。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crave",
+            "yearn",
+            "pine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

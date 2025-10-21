@@ -1,0 +1,112 @@
+{
+  "WORD":"commitment",
+  "IPA":"/kəˈmɪtmənt/",
+  "CONJUGATES":"commitments",
+  "ETYMOLOGY":"From English commit, based on Latin committere (com- 'together' + mittere 'send'), plus the suffix -ment.",
+  "SINCE":"Mid-17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"commitment [to sth/sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract noun"
+      ],
+      "DEF_EN":"The state or quality of being dedicated or devoted to a cause, activity, or person; a firm decision or promise to do something.",
+      "DEF_ZH":"奉献；承诺；对某项事业、活动或某人的献身精神；坚定的决定或保证。",
+      "SENT_EN":"Success requires a long-term commitment to continuous learning and improvement.",
+      "SENT_ZH":"成功需要对持续学习和改进的长期投入。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dedication",
+            "devotion",
+            "pledge",
+            "obligation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "indifference",
+            "apathy",
+            "irresponsibility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"financial commitment",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"An obligation to spend or use resources, especially financial capital.",
+      "DEF_ZH":"财政承担；资金义务；必须履行的财务责任。",
+      "SENT_EN":"Buying a new car often involves a significant monthly financial commitment.",
+      "SENT_ZH":"购买新车通常涉及重大的每月财政支出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "liability",
+            "debt",
+            "expenditure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prior commitments",
+      "POS":"n (countable)",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "daily use"
+      ],
+      "DEF_EN":"An engagement, appointment, or duty that requires one's presence or attention, especially one scheduled previously.",
+      "DEF_ZH":"约会；需要出席的义务；事先安排的日程。",
+      "SENT_EN":"I regret I cannot attend the meeting as I have several prior commitments that day.",
+      "SENT_ZH":"很抱歉我不能出席会议，因为那天我有很多事先安排好的事情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "engagement",
+            "appointment",
+            "duty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"commitment [to institution]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "legal",
+        "dated"
+      ],
+      "DEF_EN":"The official act of sending a person to a prison, mental health facility, or other institution; often used interchangeably with 'committal'.",
+      "DEF_ZH":"（法律上）送交（监狱或精神病院）的行为。",
+      "SENT_EN":"The court ordered the commitment of the patient for observation.",
+      "SENT_ZH":"法院命令将病人收押观察。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "committal",
+            "incarceration",
+            "detention"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal"
+}

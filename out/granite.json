@@ -1,0 +1,75 @@
+{
+  "WORD":"granite",
+  "IPA":"/ˈɡrænɪt/",
+  "CONJUGATES":"granites (pl.)",
+  "ETYMOLOGY":"From Italian granito, past participle of granire 'to reduce to grain', from grano 'grain', from Latin granum 'grain, seed'. Named for its coarse-grained structure.",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[granite]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geology",
+        "material"
+      ],
+      "DEF_EN":"A very hard, coarse-grained igneous rock consisting mainly of quartz, mica, and feldspar, widely used in building.",
+      "DEF_ZH":"花岗岩；花岗石。一种非常坚硬、粗粒的火成岩，主要由石英、云母和长石组成，广泛用于建筑。",
+      "SENT_EN":"The kitchen countertop was made of polished granite.",
+      "SENT_ZH":"厨房的台面是用抛光的花岗岩制成的。",
+      "RELATED":[
+        {
+          "T":"hyponyms",
+          "V":[
+            "syenite",
+            "diorite",
+            "gabbro"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "quartz",
+            "feldspar",
+            "mica",
+            "igneous rock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[granite] [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"Having the unyielding hardness, roughness, or durability associated with granite.",
+      "DEF_ZH":"花岗岩般的；坚硬的；不屈的（比喻性质坚硬、粗糙或耐用）。",
+      "SENT_EN":"He had a granite resolve that would not allow him to quit.",
+      "SENT_ZH":"他有一种花岗岩般的决心，不允许他退出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unyielding",
+            "adamant",
+            "firm",
+            "steely"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "soft",
+            "pliable",
+            "flexible"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

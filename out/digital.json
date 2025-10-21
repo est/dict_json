@@ -1,0 +1,86 @@
+{
+  "WORD":"digital",
+  "IPA":"/ˈdɪdʒɪtəl/",
+  "CONJUGATES":"digitally (adv) | digitalization (n) | digitize (v)",
+  "ETYMOLOGY":"From digit, derived from Latin digitus ('finger, toe'), because fingers were used for counting. The meaning related to computing (discrete signals) emerged in the mid-20th century.",
+  "SINCE":"Late 15th Century (anatomical sense); Mid-20th Century (computing sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] digital",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"Relating to, using, or storing data in the form of discrete numerical signals (usually binary code 0s and 1s), rather than in a continuous or varying (analog) form.",
+      "DEF_ZH":"与数字信号（通常是二进制代码 0 和 1）形式的数据相关、使用或存储的，而非连续或变化的（模拟）形式。",
+      "SENT_EN":"The transition to digital media has fundamentally changed the music industry.",
+      "SENT_ZH":"向数字媒体的过渡从根本上改变了音乐产业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "electronic",
+            "computerized",
+            "virtual"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "analog",
+            "analogue",
+            "physical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"digital [sth] (like clock/display)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "measurement"
+      ],
+      "DEF_EN":"Displaying information, such as the time, using numerical digits rather than hands, pointers, or dials.",
+      "DEF_ZH":"使用数字而非指针、刻度盘来显示信息（例如时间）的。",
+      "SENT_EN":"He checked the time on his bright red digital clock.",
+      "SENT_ZH":"他查看了他那块亮红色数字时钟上的时间。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "analog",
+            "analogue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"digital [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "anatomy"
+      ],
+      "DEF_EN":"Relating to a finger or toe, or performed using the fingers.",
+      "DEF_ZH":"与手指或脚趾相关的，或用手指进行的。",
+      "SENT_EN":"The doctor performed a digital rectal examination.",
+      "SENT_ZH":"医生进行了直肠指检。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manual",
+            "tactile"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical, General Communication"
+}

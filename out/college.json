@@ -1,0 +1,82 @@
+{
+  "WORD":"college",
+  "IPA":"/ˈkɑːlɪdʒ/",
+  "CONJUGATES":"colleges",
+  "ETYMOLOGY":"From Old French college, from Latin collegium 'community, society, guild', from collega 'colleague'.",
+  "SINCE":"Late 14th century (for 'body of colleagues'); mid-15th century (for 'place of learning')",
+  "MEANINGS":[
+    {
+      "PATTERN":"college [n]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "education"
+      ],
+      "DEF_EN":"An institution of higher education, typically offering bachelor's degrees or associate degrees, or a constituent part of a university.",
+      "DEF_ZH":"提供高等教育（通常是学士或副学士学位）的机构，或大学的组成部分。",
+      "SENT_EN":"She decided to attend college to study computer science after graduating high school.",
+      "SENT_ZH":"高中毕业后，她决定上大学学习计算机科学。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "university",
+            "academy",
+            "institute"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "school",
+            "higher education",
+            "campus",
+            "faculty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"college [n]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "common",
+        "metonymy"
+      ],
+      "DEF_EN":"The collective body of students, faculty, or staff at an educational institution.",
+      "DEF_ZH":"某教育机构的全体学生、教职工或工作人员。",
+      "SENT_EN":"The whole college celebrated when their basketball team won the championship.",
+      "SENT_ZH":"当他们的篮球队赢得冠军时，全校师生都进行了庆祝。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"college [n]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "less common",
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"An organized body of people with shared functions, privileges, or duties.",
+      "DEF_ZH":"一个具有共同职能、特权或职责的组织团体。",
+      "SENT_EN":"The Electoral College formally elects the President and Vice President of the United States.",
+      "SENT_ZH":"选举人团正式选举美国总统和副总统。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "council",
+            "assembly",
+            "guild",
+            "society"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in academic, social, and political contexts."
+}

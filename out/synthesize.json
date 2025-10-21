@@ -1,0 +1,79 @@
+{
+  "WORD":"synthesize",
+  "IPA":"/ˈsɪnθɪsaɪz/",
+  "CONJUGATES":"synthesizes | synthesizing | synthesized",
+  "ETYMOLOGY":"From Greek sunthesis 'composition, compilation' (sun- 'together' + tithenai 'to place') + -ize. First recorded with the meaning of artificial production in the late 18th century, becoming more common in the 19th century.",
+  "SINCE":"c. 1790s (chemical sense), mid-19th century (general sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"synthesize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"To make something by combining different substances, elements, or parts, especially artificially or chemically.",
+      "DEF_ZH":"通过结合不同的物质、元素或部分来制造某物，特别是人工或化学合成。",
+      "SENT_EN":"Chemists can synthesize new compounds in the laboratory.",
+      "SENT_ZH":"化学家可以在实验室里合成新的化合物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "create",
+            "form",
+            "manufacture",
+            "produce",
+            "compound"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "decompose",
+            "break down",
+            "analyze"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"synthesize [information/ideas]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "common",
+        "academic",
+        "abstract"
+      ],
+      "DEF_EN":"To combine a number of separate ideas, facts, or pieces of information into a coherent whole or a new complex idea.",
+      "DEF_ZH":"将许多独立的想法、事实或信息组合成一个连贯的整体或一个新的复杂概念。",
+      "SENT_EN":"The report attempts to synthesize data from various sources into a single conclusion.",
+      "SENT_ZH":"这份报告试图将来自不同来源的数据综合成一个单一的结论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "integrate",
+            "combine",
+            "consolidate",
+            "merge",
+            "assimilate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "differentiate",
+            "separate",
+            "disintegrate",
+            "analyze"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal"
+}

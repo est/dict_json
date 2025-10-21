@@ -1,0 +1,84 @@
+{
+  "WORD":"bibliography",
+  "IPA":"/ˌbɪbliˈɑːɡrəfi/",
+  "CONJUGATES":"bibliographies",
+  "ETYMOLOGY":"From Greek bibliographia, combining biblio- (from biblion 'book') and -graphia ('writing, description'). Originally meant 'the writing of books' or 'the copying of books,' later shifting to 'the systematic listing or description of books' in the 17th century.",
+  "SINCE":"17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"bibliography [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "academic"
+      ],
+      "DEF_EN":"A list of the books, articles, and other sources used or referred to in a scholarly work, typically placed at the end of a paper or book.",
+      "DEF_ZH":"（通常附于书末的）参考书目；文献目录。",
+      "SENT_EN":"Always remember to format the bibliography correctly according to the required style guide (e.g., APA or MLA).",
+      "SENT_ZH":"务必记住根据要求的格式指南（例如 APA 或 MLA）正确地编排参考书目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reference list",
+            "works cited",
+            "source list"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "citation",
+            "footnoting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bibliography [on sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "general use"
+      ],
+      "DEF_EN":"A comprehensive list of books and articles related to a specific subject, author, or period, compiled as a separate resource.",
+      "DEF_ZH":"某一专题或作者的文献目录清单。",
+      "SENT_EN":"The librarian provided a detailed bibliography on ancient Roman history.",
+      "SENT_ZH":"图书馆员提供了一份关于古罗马历史的详细文献目录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "catalog",
+            "index"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bibliography",
+      "POS":"noun",
+      "POS_TIP":"Uncountable noun",
+      "TAGS":[
+        "specialized",
+        "academic"
+      ],
+      "DEF_EN":"The scholarly study of books as physical objects, including their history, production, descriptive classification, and textual transmission.",
+      "DEF_ZH":"书目学；文献学（研究书籍的制作、历史、版本和分类）。",
+      "SENT_EN":"She chose textual criticism and bibliography as her primary focus in her doctoral studies.",
+      "SENT_ZH":"她在博士研究中选择文献批评和文献学作为她的主要研究重点。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "paleography",
+            "codicology",
+            "textual criticism"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic"
+}

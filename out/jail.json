@@ -1,0 +1,76 @@
+{
+  "WORD":"jail",
+  "IPA":"/dʒeɪl/",
+  "CONJUGATES":"jails | jailed | jailing",
+  "ETYMOLOGY":"From Old French jaiole or gaiole ('cage, prison'), from Vulgar Latin *caveola, a diminutive of Latin cavea ('cavity, cage').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A place for the confinement of people accused or convicted of a crime.",
+      "DEF_ZH":"监狱；看守所；拘留所。用于关押被指控或被判有罪的人的场所。",
+      "SENT_EN":"He spent a month in jail awaiting trial.",
+      "SENT_ZH":"他在监狱里度过了一个月，等待审判。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prison",
+            "penitentiary",
+            "correctional facility",
+            "lockup",
+            "cell"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "inmate",
+            "warden",
+            "sentence",
+            "crime"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"jail [sb]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb (v) that takes a direct object (tr).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put (someone) in jail.",
+      "DEF_ZH":"监禁；关押；使入狱。将（某人）关进监狱。",
+      "SENT_EN":"The judge decided to jail him for six months.",
+      "SENT_ZH":"法官决定判他入狱六个月。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imprison",
+            "incarcerate",
+            "confine",
+            "detain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "release",
+            "free",
+            "acquit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common; used in everyday language as well as legal and judicial contexts."
+}

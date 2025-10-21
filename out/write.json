@@ -1,0 +1,107 @@
+{
+  "WORD":"write",
+  "IPA":"/raɪt/",
+  "CONJUGATES":"writes | writing | wrote | written",
+  "ETYMOLOGY":"From Old English 'wrītan' (to score, outline, write), from Proto-Germanic *wrītaną.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"write [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To form letters, words, or symbols on a surface, typically paper, with a pen, pencil, or other tool.",
+      "DEF_ZH":"用笔、铅笔或其他工具在纸张或其他表面上形成字母、单词或符号。",
+      "SENT_EN":"She began to write her name in the sand.",
+      "SENT_ZH":"她开始在沙子上写她的名字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compose",
+            "pen",
+            "inscribe",
+            "jot down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"write [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To compose or author a literary, musical, or artistic work such as a book, song, or play.",
+      "DEF_ZH":"创作或撰写文学、音乐或艺术作品，如书籍、歌曲或戏剧。",
+      "SENT_EN":"He wants to write a novel about his adventures.",
+      "SENT_ZH":"他想写一部关于他冒险经历的小说。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "author",
+            "compose",
+            "draft",
+            "create"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"write (to) [sb] (about) [sth]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive or intransitive verb: a verb that may or may not take an object",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To communicate with someone by sending them a letter, email, or message.",
+      "DEF_ZH":"通过发送信件、电子邮件或消息与某人进行书面沟通。",
+      "SENT_EN":"Please write to me when you arrive at your destination.",
+      "SENT_ZH":"当你到达目的地时请给我写信。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "correspond",
+            "communicate",
+            "email"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"write [data] (to) [device]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To record or store data onto a computer storage medium such as a hard drive or memory.",
+      "DEF_ZH":"将数据记录或存储到计算机存储介质（如硬盘或内存）上。",
+      "SENT_EN":"The software will write the changes to the disk automatically.",
+      "SENT_ZH":"该软件将自动把更改写入磁盘。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "read"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "save",
+            "record"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

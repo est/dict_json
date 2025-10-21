@@ -1,0 +1,191 @@
+{
+  "WORD":"chop",
+  "IPA":"/tʃɒp/",
+  "CONJUGATES":"chop | chops | chopping | chopped",
+  "ETYMOLOGY":"Probably from Middle English *choppen*, 'to cut with a quick, heavy blow', perhaps related to Old French *coper* 'to cut, strike' or Germanic roots such as Dutch *kappen* 'to chop'.",
+  "SINCE":"Late 14th century (verb), early 15th century (noun, 'piece cut off')",
+  "MEANINGS":[
+    {
+      "PATTERN":"chop [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cut something into pieces with a heavy, sharp tool like an axe or cleaver.",
+      "DEF_ZH":"用重型锋利的工具（如斧头或切肉刀）将某物切成块。",
+      "SENT_EN":"He chopped the vegetables for the stew.",
+      "SENT_ZH":"他把炖菜用的蔬菜切碎了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut",
+            "hew",
+            "cleave"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mince",
+            "dice",
+            "slice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chop [sth/sb]",
+      "POS":"vtr | vit",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To strike with a quick, heavy downward blow, often to cut or fell something.",
+      "DEF_ZH":"以快速、重力向下的方式击打，常用于砍伐或击倒某物。",
+      "SENT_EN":"The lumberjack chopped down the old oak tree. The karate expert chopped at the board.",
+      "SENT_ZH":"伐木工人砍倒了那棵老橡树。空手道专家用手刀劈向木板。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hack",
+            "fell",
+            "strike"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a chop",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A thick slice of meat, usually pork, lamb, or veal, cut from the rib.",
+      "DEF_ZH":"通常是从排骨上切下来的厚肉片，尤指猪排、羊排或小牛排。",
+      "SENT_EN":"She ordered a grilled lamb chop for her dinner.",
+      "SENT_ZH":"她晚餐点了一份烤羊排。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "steak",
+            "rib",
+            "cutlet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a chop",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "specific context",
+        "martial arts"
+      ],
+      "DEF_EN":"A quick, sharp, downward blow, especially with the hand in martial arts.",
+      "DEF_ZH":"一种快速、锋利、向下的打击，尤指武术中的手刀。",
+      "SENT_EN":"He blocked the punch and delivered a swift karate chop.",
+      "SENT_ZH":"他挡住了拳头，并迅速打出一记空手道手刀。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "karate",
+            "strike",
+            "blow",
+            "punch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the chops",
+      "POS":"npl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "informal",
+        "old-fashioned"
+      ],
+      "DEF_EN":"(Informal, often humorous) A person's or animal's mouth or jaws.",
+      "DEF_ZH":"(非正式，常用于幽默) 人或动物的嘴巴或下颌。",
+      "SENT_EN":"Keep your chops shut and listen!",
+      "SENT_ZH":"闭上你的嘴，听着！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mouth",
+            "jaws"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "muzzle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s chops",
+      "POS":"npl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "informal",
+        "slang",
+        "music"
+      ],
+      "DEF_EN":"(Slang) A musician's skill or proficiency, especially in improvisation or a particular instrument.",
+      "DEF_ZH":"(俚语) 音乐家的技能或熟练程度，尤指在即兴演奏或某种乐器方面。",
+      "SENT_EN":"That jazz trumpeter has some serious chops!",
+      "SENT_ZH":"那位爵士小号手技术炉火纯青！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skill",
+            "proficiency",
+            "virtuosity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "talent",
+            "mastery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the chops",
+      "POS":"npl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "informal",
+        "nautical"
+      ],
+      "DEF_EN":"(Informal, nautical) Rough, choppy water, typically short, steep waves.",
+      "DEF_ZH":"(非正式，航海) 波浪起伏不平的海面，通常指短而急的波浪。",
+      "SENT_EN":"The small boat struggled through the chops in the harbor.",
+      "SENT_ZH":"小船在港湾的波涛中艰难航行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "waves",
+            "swell",
+            "roughness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific informal/slang uses."
+}

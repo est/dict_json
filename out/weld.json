@@ -1,0 +1,93 @@
+{
+  "WORD":"weld",
+  "IPA":"/wɛld/",
+  "CONJUGATES":"welds | welding | welded",
+  "ETYMOLOGY":"From Middle English wellen, from Old English wellan, wiellan 'to boil, bubble, spring forth', related to Old Norse vella 'to boil'. The sense of 'join by heating' developed from the idea of 'melting' metals together.",
+  "SINCE":"Late 14th century (for 'to boil'); early 19th century (for 'to join metals')",
+  "MEANINGS":[
+    {
+      "PATTERN":"weld [sth] | weld [sth] to [sth]",
+      "POS":"v.t.",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "engineering",
+        "industrial"
+      ],
+      "DEF_EN":"Join (metal parts) by heating the surfaces to the point of liquefaction or plasticity and uniting them with or without pressure, and with or without the use of a filler metal.",
+      "DEF_ZH":"通过加热表面使其液化或塑性，然后施加或不施加压力，并使用或不使用填充金属，将金属部件连接起来。",
+      "SENT_EN":"The workers welded the steel beams together to form the framework of the building.",
+      "SENT_ZH":"工人们将钢梁焊接在一起，形成了建筑物的框架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fuse",
+            "join",
+            "solder",
+            "braze"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "welding machine",
+            "welder",
+            "welding rod"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a weld",
+      "POS":"n.",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "engineering",
+        "industrial"
+      ],
+      "DEF_EN":"A united joint or seam formed by welding.",
+      "DEF_ZH":"通过焊接形成的接合处或焊缝。",
+      "SENT_EN":"The inspection revealed a faulty weld that needed immediate repair.",
+      "SENT_ZH":"检查发现一处有缺陷的焊缝需要立即修复。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "seam",
+            "joint",
+            "bond",
+            "fusion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weld [sb/sth] together | weld [sb/sth] into [sth]",
+      "POS":"v.t.",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To unite or integrate firmly and completely, often in a figurative sense.",
+      "DEF_ZH":"（喻）使（人或事物）牢固而彻底地结合或融合。",
+      "SENT_EN":"The shared experience of hardship welded the team together into an unbreakable unit.",
+      "SENT_ZH":"共同经历的苦难将团队紧密地凝聚成一个牢不可破的整体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unite",
+            "bind",
+            "fuse",
+            "integrate",
+            "forge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common; industrial or technical when referring to metalwork."
+}

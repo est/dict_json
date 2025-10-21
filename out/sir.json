@@ -1,0 +1,80 @@
+{
+  "WORD":"sir",
+  "IPA":"/sɜːr/",
+  "CONJUGATES":"sirs",
+  "ETYMOLOGY":"From Old French sire (title of respect for a feudal superior), from Latin senior ('older'), comparative of senex ('old').",
+  "SINCE":"Late 13th century (as a form of address); 16th century (as a title)",
+  "MEANINGS":[
+    {
+      "PATTERN":"sir",
+      "POS":"noun",
+      "POS_TIP":"A word that functions as the name of a specific object or set of objects; here, used as a direct address (vocative case).",
+      "TAGS":[
+        "core word",
+        "common",
+        "polite address"
+      ],
+      "DEF_EN":"A polite and respectful term used to address a man, especially one in a position of authority, a customer, or someone older.",
+      "DEF_ZH":"先生；阁下（对男性的礼貌称呼，尤指对长辈、上级或顾客）。",
+      "SENT_EN":"Excuse me, sir, could you tell me the time?",
+      "SENT_ZH":"打扰了，先生，您能告诉我时间吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mister",
+            "gentleman"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "madam",
+            "miss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Sir [Name]",
+      "POS":"noun",
+      "POS_TIP":"A word that functions as the name of a specific object or set of objects.",
+      "TAGS":[
+        "formal",
+        "title",
+        "British honorific"
+      ],
+      "DEF_EN":"A title of honour used before the first name of a knight or baronet.",
+      "DEF_ZH":"爵士（英国授于骑士或男爵的头衔，用在名字前）。",
+      "SENT_EN":"Sir Isaac Newton made significant contributions to physics.",
+      "SENT_ZH":"艾萨克·牛顿爵士对物理学做出了重大贡献。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Dame",
+            "Lord",
+            "Lady"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sir",
+      "POS":"noun",
+      "POS_TIP":"A word that functions as the name of a specific object or set of objects; here, used as a direct address (vocative case).",
+      "TAGS":[
+        "informal",
+        "dated",
+        "British English",
+        "school context"
+      ],
+      "DEF_EN":"(British, informal, often dated) A term used by schoolboys to address a male teacher.",
+      "DEF_ZH":"（英式，非正式，常过时）先生（男生对男教师的称呼）。",
+      "SENT_EN":"Yes, sir, I've completed my homework.",
+      "SENT_ZH":"是的，先生，我已完成作业。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Generally formal and polite for direct address; formal for the title; can be informal/dated in specific contexts."
+}

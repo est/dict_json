@@ -1,0 +1,115 @@
+{
+  "WORD":"antecedent",
+  "IPA":"/ˌæntɪˈsiːd(ə)nt/",
+  "CONJUGATES":"antecedents | antecedently",
+  "ETYMOLOGY":"From Latin antecedēns, present participle of antecedere (to go before, precede), from ante- ('before') + cēdere ('to go').",
+  "SINCE":"Late 15th century (as adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] antecedent [to sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "academic"
+      ],
+      "DEF_EN":"Existing or occurring before something else in time, cause, or order.",
+      "DEF_ZH":"先前的；先行发生的；属于前因的。",
+      "SENT_EN":"The current economic crisis has several clear antecedent conditions.",
+      "SENT_ZH":"当前的经济危机有几个明确的先行条件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preceding",
+            "prior",
+            "earlier"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "subsequent",
+            "consequent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the antecedent of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"A thing or event that existed before, or logically precedes, another and may have influenced it; a precursor.",
+      "DEF_ZH":"先例；前因；先决条件；祖先（多用于复数）。",
+      "SENT_EN":"The invention of the printing press was a crucial antecedent to the spread of literacy.",
+      "SENT_ZH":"印刷机的发明是识字率普及的关键先决条件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precursor",
+            "forerunner",
+            "cause"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "consequence",
+            "outcome"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the antecedent",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "linguistics",
+        "technical"
+      ],
+      "DEF_EN":"The word, phrase, or clause that a pronoun or other pro-form refers back to.",
+      "DEF_ZH":"（代词、关系词等的）先行词。",
+      "SENT_EN":"In the sentence 'The cat chased the mouse, and it ran away,' 'the mouse' is the antecedent of 'it.'",
+      "SENT_ZH":"在“猫追老鼠，老鼠跑了”这个句子中，“老鼠”是“它”的先行词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pronoun",
+            "referent",
+            "anaphora"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the antecedent",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "logic",
+        "mathematics"
+      ],
+      "DEF_EN":"The first part of a conditional proposition (the 'if' clause); the term of a ratio that is compared to the consequent.",
+      "DEF_ZH":"（逻辑学中）前件（如“如果 P，那么 Q”中的 P）；比的前项。",
+      "SENT_EN":"If the antecedent is true and the consequent is false, the entire conditional statement is false.",
+      "SENT_ZH":"如果前件为真而后果为假，则整个条件陈述为假。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "consequent",
+            "implication"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Formal writing, and specific technical fields (Grammar, Logic)."
+}

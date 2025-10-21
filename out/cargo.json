@@ -1,0 +1,69 @@
+{
+  "WORD":"cargo",
+  "IPA":"/ˈkɑːrɡoʊ/",
+  "CONJUGATES":"cargoes | cargos",
+  "ETYMOLOGY":"From Spanish 'cargo' (load, burden), derived from 'cargar' (to load), ultimately from Late Latin 'carricare' (to load a wagon or cart). Entered English around the 17th century.",
+  "SINCE":"c. 1650",
+  "MEANINGS":[
+    {
+      "PATTERN":"cargo [mass noun] | [countable noun]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commercial",
+        "transportation",
+        "logistics"
+      ],
+      "DEF_EN":"Goods or produce transported, usually for commercial gain, by means of a ship, aircraft, or vehicle.",
+      "DEF_ZH":"通过船舶、飞机或车辆运输的货物或产品，通常用于商业目的。",
+      "SENT_EN":"The port authority is expecting a large volume of container cargo this quarter.",
+      "SENT_ZH":"港务局预计本季度集装箱货运量将很大。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freight",
+            "shipment",
+            "load",
+            "consignment",
+            "haul"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "logistics",
+            "dock",
+            "shipper",
+            "container"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cargo [attributive]",
+      "POS":"n.",
+      "POS_TIP":"noun used attributively (acting as an adjective)",
+      "TAGS":[
+        "modifier",
+        "common"
+      ],
+      "DEF_EN":"Used to describe something designed for carrying goods or related to the transportation industry.",
+      "DEF_ZH":"用于描述为运载货物而设计的事物，或与运输业相关的事物。",
+      "SENT_EN":"The airline only uses this aircraft for long-haul cargo flights.",
+      "SENT_ZH":"该航空公司仅将此飞机用于长途货运航班。",
+      "RELATED":[
+        {
+          "T":"examples",
+          "V":[
+            "cargo ship",
+            "cargo plane",
+            "cargo pants"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commercial, Logistics, Shipping."
+}

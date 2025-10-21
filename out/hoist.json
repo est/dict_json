@@ -1,0 +1,111 @@
+{
+  "WORD":"hoist",
+  "IPA":"/hɔɪst/",
+  "CONJUGATES":"hoists | hoisting | hoisted",
+  "ETYMOLOGY":"Early Modern English (c. 1500s), probably from Middle Low German 'hissen' or Middle Dutch 'hijsen', meaning 'to lift'.",
+  "SINCE":"c. 1500",
+  "MEANINGS":[
+    {
+      "PATTERN":"hoist [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To raise or lift (something heavy) by means of ropes, pulleys, or a mechanical apparatus.",
+      "DEF_ZH":"用绳索、滑轮或机械装置提升或吊起（重物）。",
+      "SENT_EN":"The workers used a winch to hoist the heavy machinery onto the truck.",
+      "SENT_ZH":"工人们使用绞车将重型机械吊到卡车上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lift",
+            "raise",
+            "haul up",
+            "elevate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lower",
+            "drop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hoist [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "general",
+        "figurative"
+      ],
+      "DEF_EN":"To lift or heave something or someone up, often quickly or forcefully.",
+      "DEF_ZH":"迅速或用力地举起或提起某物或某人。",
+      "SENT_EN":"He quickly hoisted his backpack onto his shoulders and started walking.",
+      "SENT_ZH":"他迅速将背包背到肩上，开始行走。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heave",
+            "boost",
+            "shoulder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hoist",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "equipment"
+      ],
+      "DEF_EN":"An apparatus or machine designed for lifting or lowering objects, such as a crane, winch, or set of pulleys.",
+      "DEF_ZH":"用于升降物体的机械或装置，如起重机、绞车或滑轮组。",
+      "SENT_EN":"The hydraulic hoist in the garage can lift cars weighing several tons.",
+      "SENT_ZH":"车库里的液压升降机可以举起重达数吨的汽车。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "crane",
+            "winch",
+            "pulley",
+            "lift"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hoist (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "general",
+        "nautical"
+      ],
+      "DEF_EN":"The act of hoisting or lifting something.",
+      "DEF_ZH":"提升或举起的动作或过程。",
+      "SENT_EN":"The spectators watched the precise hoist of the flag at dawn.",
+      "SENT_ZH":"观众们观看了黎明时精确的升旗过程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lift",
+            "elevation",
+            "raise"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Nautical"
+}

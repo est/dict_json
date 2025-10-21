@@ -1,0 +1,109 @@
+{
+  "WORD":"stop",
+  "IPA":"/stɑp/",
+  "CONJUGATES":"stops | stopping | stopped",
+  "ETYMOLOGY":"From Late Old English *stoppian* (to plug, close up, stanch), likely via Vulgar Latin *stuppāre* (to stop with tow), from Latin *stuppa* (coarse flax, tow). The sense evolved from 'to plug a hole' to 'to block passage' and finally 'to cease movement'.",
+  "SINCE":"c. 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] stop | stop [sth]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"vintr: intransitive verb | vtr: transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cease moving, operating, or happening; or to cause someone or something to cease motion or activity.",
+      "DEF_ZH":"停止移动、运行或发生；或使某人或某事停止运动或活动。",
+      "SENT_EN":"The music stopped suddenly, and the lights came on.",
+      "SENT_ZH":"音乐突然停了，灯亮了起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cease",
+            "halt",
+            "discontinue"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "start",
+            "begin",
+            "continue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stop [sb] / [sth] (from [doing sth])",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb | prep: preposition",
+      "TAGS":[
+        "common",
+        "prevention"
+      ],
+      "DEF_EN":"To prevent someone or something from doing something or proceeding.",
+      "DEF_ZH":"阻止某人或某事做某事或进行下去。",
+      "SENT_EN":"The fence was designed to stop deer from eating the crops.",
+      "SENT_ZH":"修建围栏是为了阻止鹿吃庄稼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prevent",
+            "impede",
+            "hinder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a stop",
+      "POS":"ncu",
+      "POS_TIP":"ncu: countable noun",
+      "TAGS":[
+        "common",
+        "noun usage"
+      ],
+      "DEF_EN":"A place where a vehicle regularly pauses or a scheduled pause in a journey.",
+      "DEF_ZH":"车辆定期停靠的地方；或旅途中的预定暂停。",
+      "SENT_EN":"The bus makes a stop at every major intersection.",
+      "SENT_ZH":"公共汽车在每个主要路口都停靠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "station",
+            "depot",
+            "halt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a stop",
+      "POS":"ncu",
+      "POS_TIP":"ncu: countable noun",
+      "TAGS":[
+        "UK English",
+        "technical"
+      ],
+      "DEF_EN":"A period (.), used especially in British English as the common term for the punctuation mark (full stop).",
+      "DEF_ZH":"句号（.），尤其在英式英语中指该标点符号（full stop）。",
+      "SENT_EN":"Remember to use a full stop at the end of the sentence.",
+      "SENT_ZH":"记住要在句子末尾加上句号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "period",
+            "full stop"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common everyday language."
+}

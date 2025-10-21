@@ -1,0 +1,55 @@
+{
+  "WORD":"intervene",
+  "IPA":"/ˌɪntərˈviːn/",
+  "CONJUGATES":"intervene | intervenes | intervening | intervened",
+  "ETYMOLOGY":"From Latin intervenire, from inter- 'between' + venire 'to come'. Meaning 'to come between, to occur in the middle'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"intervene [in sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"vintr: intransitive verb; prep: preposition",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To become involved in a situation in order to improve or help it, or to prevent it from getting worse.",
+      "DEF_ZH":"干预；介入；插手 (为改善或帮助某事，或阻止其恶化而介入某个局面)",
+      "SENT_EN":"The UN decided to intervene in the conflict to prevent further bloodshed.",
+      "SENT_ZH":"联合国决定介入冲突以防止进一步流血事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mediate",
+            "interfere",
+            "intercede",
+            "step in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "abstain",
+            "withdraw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intervene [between A and B]",
+      "POS":"vintr",
+      "POS_TIP":"vintr: intransitive verb",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To occur or happen between two other events or times.",
+      "DEF_ZH":"发生于其间；介于两者之间 (指事件或时间)",
+      "SENT_EN":"A long silence intervened before the verdict was announced.",
+      "SENT_ZH":"在宣判之前，出现了一段长时间的沉默。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal or neutral, often used in contexts of conflict, diplomacy, or official actions."
+}

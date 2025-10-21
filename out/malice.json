@@ -1,0 +1,80 @@
+{
+  "WORD":"malice",
+  "IPA":"/ˈmæləs/",
+  "CONJUGATES":"plural: malices (rare)",
+  "ETYMOLOGY":"From Old French malice, from Latin malitia ('badness, ill will'), from malus ('bad').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"malice",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that functions as the name of a specific object or set of objects, such as living creatures, places, actions, qualities, states of existence, or ideas.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The intention or desire to do evil; ill will.",
+      "DEF_ZH":"恶意；怨恨；害人之心。",
+      "SENT_EN":"He acted out of pure malice, not by accident.",
+      "SENT_ZH":"他完全是出于恶意，并非偶然。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spite",
+            "malevolence",
+            "ill will",
+            "rancor",
+            "venom"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "benevolence",
+            "goodwill",
+            "kindness",
+            "charity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "malicious",
+            "maleficent",
+            "malign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"malice",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that functions as the name of a specific object or set of objects, such as living creatures, places, actions, qualities, states of existence, or ideas.",
+      "TAGS":[
+        "legal term"
+      ],
+      "DEF_EN":"(Law) The intention or desire to commit an unlawful act or injure someone without justification, especially as an element of certain crimes (e.g., murder).",
+      "DEF_ZH":"（法律）预谋犯罪或无正当理由伤害他人的意图，尤其指某些罪行（如谋杀）的构成要素。",
+      "SENT_EN":"The prosecution argued that the crime was committed with malice aforethought.",
+      "SENT_ZH":"控方认为该罪行是蓄意谋杀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "premeditation",
+            "intent"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mens rea",
+            "malice aforethought"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, somewhat literary, or legal context."
+}

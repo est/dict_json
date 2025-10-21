@@ -1,0 +1,70 @@
+{
+  "WORD":"villa",
+  "IPA":"/ˈvɪlə/",
+  "CONJUGATES":"villas",
+  "ETYMOLOGY":"From Latin villa 'country house, farm, estate'. The word entered English through Old French.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"villa",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "architecture",
+        "common"
+      ],
+      "DEF_EN":"A large and luxurious country house, often spacious, detached, and surrounded by a garden, especially one used for holidays in southern Europe or the tropics.",
+      "DEF_ZH":"（尤指用于度假的）大型豪华独立式住宅；别墅。",
+      "SENT_EN":"They rented a beautiful villa overlooking the coast of Tuscany for the summer.",
+      "SENT_ZH":"他们租了一栋俯瞰托斯卡纳海岸的美丽别墅度过夏天。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mansion",
+            "estate",
+            "country house"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chalet",
+            "bungalow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(Roman) villa",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "Roman"
+      ],
+      "DEF_EN":"In ancient Rome, a country estate comprising a main residence and farm buildings.",
+      "DEF_ZH":"（古罗马）乡村庄园或农场，通常包括主宅和农舍。",
+      "SENT_EN":"The archaeologists excavated the ruins of a vast Roman villa.",
+      "SENT_ZH":"考古学家们挖掘了一座庞大的古罗马庄园遗址。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"villa",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "regional",
+        "UK",
+        "dated"
+      ],
+      "DEF_EN":"(UK, Australia) A relatively small suburban house, often semi-detached or terraced.",
+      "DEF_ZH":"（英式/澳式，旧称）郊区的小型住宅，通常是半独立式或排屋。",
+      "SENT_EN":"The street was lined with identical Victorian villas.",
+      "SENT_ZH":"街道两旁排列着一模一样的维多利亚式排屋。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general | architectural | travel/real estate"
+}

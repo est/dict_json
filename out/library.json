@@ -1,0 +1,87 @@
+{
+  "WORD":"library",
+  "IPA":"/ˈlaɪbrɛri/",
+  "CONJUGATES":"libraries",
+  "ETYMOLOGY":"From Old French librairie 'collection of books', from Latin libraria 'bookshop', from liber 'book'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A building or room containing a collection of books, periodicals, and sometimes films and recorded music, for use by the public or members of an institution.",
+      "DEF_ZH":"存放书籍、期刊以及有时包括电影和录制音乐等资料的建筑物或房间，供公众或机构成员使用。",
+      "SENT_EN":"I spent the whole afternoon studying at the public library.",
+      "SENT_ZH":"我在公共图书馆学习了一个下午。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "archive",
+            "book depository",
+            "bibliotheca"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "librarian",
+            "book",
+            "research"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A collection of books or other literary materials, especially one owned by a private person.",
+      "DEF_ZH":"个人所藏的书籍或其他文学资料的集合。",
+      "SENT_EN":"He has an impressive personal library of over a thousand books.",
+      "SENT_ZH":"他拥有一千多本书的令人印象深刻的个人藏书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "collection",
+            "bibliography",
+            "stock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(Computing) A collection of pre-written functions, routines, or resources (such as code or data) that a program can use.",
+      "DEF_ZH":"(计算机) 存储在文件中的子程序、例程或资源的集合（如代码或数据），可供其他程序使用。",
+      "SENT_EN":"The programmer used a graphics library to create the animation.",
+      "SENT_ZH":"程序员使用了一个图形库来创建动画。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "module",
+            "toolkit",
+            "API",
+            "framework"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Computing)"
+}

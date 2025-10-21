@@ -1,0 +1,89 @@
+{
+  "WORD":"certainly",
+  "IPA":"/ˈsɜːrtənli/",
+  "CONJUGATES":"certain (adj) | certainty (n)",
+  "ETYMOLOGY":"From Middle English *certainly*, derived from the adjective *certain* and the suffix *-ly*. *Certain* originates from Old French *certain*, from Vulgar Latin *certanus*, based on Latin *certus* ('sure', 'fixed').",
+  "SINCE":"Mid 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"certainly",
+      "POS":"Adv",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Affirmation"
+      ],
+      "DEF_EN":"Without doubt; definitely; used to express strong agreement or confirmation.",
+      "DEF_ZH":"毫无疑问地；当然；表示肯定或赞同。",
+      "SENT_EN":"The experiment certainly proves the hypothesis correct.",
+      "SENT_ZH":"这项实验无疑证明了该假设是正确的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "absolutely",
+            "definitely",
+            "surely",
+            "undeniably"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "doubtfully",
+            "uncertainly",
+            "maybe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"certainly (as a response)",
+      "POS":"Interjection/Adv",
+      "POS_TIP":"Interjection or Adverb used as an affirmative response",
+      "TAGS":[
+        "Polite usage",
+        "Common"
+      ],
+      "DEF_EN":"Used as a polite affirmative answer, especially to a request or command, indicating willingness.",
+      "DEF_ZH":"当然可以；乐意地（用于礼貌地回应请求或命令）。",
+      "SENT_EN":"\"Could you please open the window?\" \"Certainly.\"",
+      "SENT_ZH":"“你能把窗户打开吗？”“当然可以。”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "of course",
+            "by all means",
+            "gladly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"certainly (modifying a statement)",
+      "POS":"Adv",
+      "POS_TIP":"Adverb modifying a verb or clause",
+      "TAGS":[
+        "Emphasis",
+        "Common"
+      ],
+      "DEF_EN":"Used to emphasize the truth or likelihood of a statement, often setting it against a potential uncertainty or previous claim.",
+      "DEF_ZH":"确实地；无疑地（用于加强语气或强调事实，有时带有对比意味）。",
+      "SENT_EN":"He certainly seemed nervous, even though he claimed he was prepared.",
+      "SENT_ZH":"他看起来确实很紧张，尽管他声称自己已经准备好了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indeed",
+            "truly",
+            "positively"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, ranging from formal conversational to informal."
+}

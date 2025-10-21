@@ -1,0 +1,90 @@
+{
+  "WORD":"fathom",
+  "IPA":"/ˈfæðəm/",
+  "CONJUGATES":"fathoms | fathoming | fathomed",
+  "ETYMOLOGY":"From Old English fæðm (noun) 'the embracing arms, space covered by the outstretched arms; competence, power, embrace, bosom, cubit, fathom (measure of length)', from Proto-Germanic *faþmaz. The verb meaning 'to encircle with the arms' is from Old English, and 'to measure depth' is early 16th century. The figurative sense 'to get to the bottom of, to understand' is from the 1580s.",
+  "SINCE":"Before 12th century (noun); 16th century (verb 'measure'); 1580s (verb 'understand')",
+  "MEANINGS":[
+    {
+      "PATTERN":"fathom [sth] | fathom [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Understand (a difficult problem or an enigmatic person) after much thought.",
+      "DEF_ZH":"理解；弄懂；看穿（一个难题或一个难以捉摸的人）",
+      "SENT_EN":"I couldn't fathom what she meant by her strange comment.",
+      "SENT_ZH":"我无法弄懂她那奇怪的评论是什么意思。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "comprehend",
+            "grasp",
+            "understand",
+            "penetrate",
+            "make sense of"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misunderstand",
+            "be baffled by",
+            "perplex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fathom [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "technical",
+        "nautical"
+      ],
+      "DEF_EN":"Measure the depth of water.",
+      "DEF_ZH":"测量（水的深度）",
+      "SENT_EN":"The explorers used sonar to fathom the ocean floor.",
+      "SENT_ZH":"探险家们使用声纳测量海底深度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sound",
+            "gauge",
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[number] fathoms",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "unit of measurement",
+        "nautical",
+        "historical"
+      ],
+      "DEF_EN":"A unit of length equal to six feet (approximately 1.83 meters), used especially in measuring the depth of water.",
+      "DEF_ZH":"英寻（水深计量单位，约等于1.83米或6英尺）",
+      "SENT_EN":"The shipwreck was found at a depth of one hundred fathoms.",
+      "SENT_ZH":"那艘沉船在一百英寻深的水下被发现。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "foot",
+            "meter",
+            "depth"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Formal"
+}

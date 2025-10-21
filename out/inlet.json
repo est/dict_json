@@ -1,0 +1,69 @@
+{
+  "WORD":"inlet",
+  "IPA":"/ˈɪnlɛt/",
+  "CONJUGATES":"inlets",
+  "ETYMOLOGY":"From Middle English inlet ('entrance'), from in + letan ('to let, allow'), related to Old English inlætan ('to let in, introduce').",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"inlet",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common",
+        "geography"
+      ],
+      "DEF_EN":"A small arm of the sea, a lake, or a river that extends into the land.",
+      "DEF_ZH":"伸入陆地的小海湾、湖汊或河口；水湾；港湾。",
+      "SENT_EN":"We navigated our boat through the narrow inlet to reach the hidden cove.",
+      "SENT_ZH":"我们驾驶船只穿过狭窄的水湾，抵达了隐蔽的海湾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cove",
+            "bay",
+            "estuary",
+            "fjord",
+            "creek"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gulf",
+            "sound",
+            "lagoon",
+            "harbor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inlet [sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "technical",
+        "less common"
+      ],
+      "DEF_EN":"A passage or opening through which water, air, or other substances enter a machine, pipe, or container.",
+      "DEF_ZH":"机器、管道或容器中水、空气或其他物质进入的入口或通道；进气口；进水口。",
+      "SENT_EN":"The air inlet for the engine was blocked, causing a drop in performance.",
+      "SENT_ZH":"发动机的进气口被堵塞了，导致性能下降。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intake",
+            "opening",
+            "vent",
+            "port"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Geography, Technical"
+}

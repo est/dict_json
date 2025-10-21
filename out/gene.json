@@ -1,0 +1,66 @@
+{
+  "WORD":"gene",
+  "IPA":"/dʒiːn/",
+  "CONJUGATES":"genes (plural) | genic (adj)",
+  "ETYMOLOGY":"From German Gen, coined in 1909 by Danish botanist Wilhelm Johannsen, derived from Greek génos (birth, race, kind).",
+  "SINCE":"1909",
+  "MEANINGS":[
+    {
+      "PATTERN":"gene [sth] (of a trait)",
+      "POS":"noun",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "biology",
+        "genetics"
+      ],
+      "DEF_EN":"The fundamental physical and functional unit of heredity, consisting of a specific sequence of nucleotides in DNA or RNA that determines the structure of a specific protein or functional RNA molecule.",
+      "DEF_ZH":"遗传的基本物理和功能单位，是DNA或RNA中一段特定的核苷酸序列，决定特定蛋白质或功能性RNA分子的结构。",
+      "SENT_EN":"The scientist isolated the specific gene responsible for the eye color trait.",
+      "SENT_ZH":"这位科学家分离出了决定眼睛颜色性状的特定基因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hereditary factor",
+            "allele"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "DNA",
+            "chromosome",
+            "genome",
+            "genetics",
+            "RNA"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gene [sth] (figurative)",
+      "POS":"noun",
+      "POS_TIP":"noun (countable, often figurative)",
+      "TAGS":[
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"An innate or essential characteristic or tendency that dictates behavior or character, often used hyperbolically.",
+      "DEF_ZH":"某种决定行为或性格的先天或本质特征或倾向（常用于夸张或非正式语境）。",
+      "SENT_EN":"He seems to have the innovation gene, always coming up with new ideas.",
+      "SENT_ZH":"他似乎天生就带有创新的基因，总能想出新点子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "essence",
+            "nature",
+            "instinct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific (predominantly), Common"
+}

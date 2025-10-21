@@ -1,0 +1,83 @@
+{
+  "WORD":"incidence",
+  "IPA":"/'ɪnsɪdəns/",
+  "CONJUGATES":"incidences",
+  "ETYMOLOGY":"From Late Middle English, via Old French, or directly from Latin incidentia, from incidens, present participle of incidere 'to fall upon' (in- 'upon' + cadere 'to fall').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"incidence of [sth]",
+      "POS":"n. mass",
+      "POS_TIP":"mass noun (uncountable)",
+      "TAGS":[
+        "Core word",
+        "Formal",
+        "Statistical",
+        "Medical"
+      ],
+      "DEF_EN":"The rate or frequency of occurrence, especially of a disease, crime, or undesirable event.",
+      "DEF_ZH":"（疾病、犯罪或事件）发生率；频率；发病数",
+      "SENT_EN":"The high incidence of cardiovascular disease is a major concern for public health authorities.",
+      "SENT_ZH":"心血管疾病的高发病率是公共卫生部门关注的一个主要问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frequency",
+            "occurrence",
+            "rate",
+            "prevalence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"angle of incidence",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Technical",
+        "Physics",
+        "Geometry"
+      ],
+      "DEF_EN":"The striking of a ray or particle on a surface; specifically, the angle at which a line or ray meets a surface.",
+      "DEF_ZH":"（光线、粒子等的）入射；入射角",
+      "SENT_EN":"According to the law of reflection, the angle of incidence equals the angle of reflection.",
+      "SENT_ZH":"根据反射定律，入射角等于反射角。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reflection",
+            "refraction",
+            "trajectory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"incidence of [tax]",
+      "POS":"n. mass",
+      "POS_TIP":"mass noun (uncountable)",
+      "TAGS":[
+        "Economic",
+        "Specialized",
+        "Formal"
+      ],
+      "DEF_EN":"In economics, the final resting of a tax burden; who ultimately bears the cost of a tax.",
+      "DEF_ZH":"（税收的）最终负担；归宿；税负承担者",
+      "SENT_EN":"Studies revealed that the incidence of the consumption tax was largely borne by low-income consumers.",
+      "SENT_ZH":"研究表明，消费税的税负最终主要由低收入消费者承担。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "burden",
+            "liability"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, or Technical contexts."
+}

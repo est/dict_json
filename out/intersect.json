@@ -1,0 +1,89 @@
+{
+  "WORD":"intersect",
+  "IPA":"/ˌɪntərˈsɛkt/",
+  "CONJUGATES":"intersects | intersecting | intersected",
+  "ETYMOLOGY":"From Latin intersectus, past participle of intersecare 'to cut between, cut off, divide', from inter 'between' + secare 'to cut'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] intersects [sth else] | [sth] and [sth else] intersect",
+      "POS":"verb (intransitive/transitive)",
+      "POS_TIP":"An 'intransitive verb' (vi) does not take a direct object. A 'transitive verb' (vt) takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "geometry",
+        "general"
+      ],
+      "DEF_EN":"(Of two or more lines, paths, or objects) to meet and cross each other.",
+      "DEF_ZH":"（指两条或多条线、路径或物体）相交，交叉。",
+      "SENT_EN":"The two roads intersect just outside the village.",
+      "SENT_ZH":"这两条路就在村庄外面相交。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cross",
+            "meet",
+            "converge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "intersection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] intersects [sth else]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A 'transitive verb' (vt) takes a direct object.",
+      "TAGS":[
+        "common",
+        "formal",
+        "geometry"
+      ],
+      "DEF_EN":"To divide or cut across something.",
+      "DEF_ZH":"穿过，横断；把…切开或分割。",
+      "SENT_EN":"A river intersects the plain, creating a fertile delta.",
+      "SENT_ZH":"一条河流横穿平原，形成了一个肥沃的三角洲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "traverse",
+            "bisect",
+            "cut across"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] intersects [sth else] | [sth] and [sth else] intersect",
+      "POS":"verb (intransitive/transitive)",
+      "POS_TIP":"An 'intransitive verb' (vi) does not take a direct object. A 'transitive verb' (vt) takes a direct object.",
+      "TAGS":[
+        "common",
+        "abstract",
+        "general"
+      ],
+      "DEF_EN":"(Of ideas, interests, or groups) to share a common point or area; to overlap.",
+      "DEF_ZH":"（指观点、兴趣或群体）有共同点，重叠。",
+      "SENT_EN":"Their political views intersect on several key issues.",
+      "SENT_ZH":"他们在几个关键问题上的政治观点有重叠之处。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overlap",
+            "coincide",
+            "converge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral, often used in mathematical, geographical, or analytical contexts."
+}

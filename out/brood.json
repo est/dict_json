@@ -1,0 +1,80 @@
+{
+  "WORD":"brood",
+  "IPA":"/bruːd/",
+  "CONJUGATES":"broods | brooding | brooded",
+  "ETYMOLOGY":"From Old English brōd 'brood, hatching, offspring' (noun), also 'bred, hatched' (adjective), related to brēdan 'to breed'. Ultimately from Proto-Germanic *brod-.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"brood [over sth] | brood [on sth] | brood [about sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"\"vintr\" means intransitive verb; \"prep\" means preposition.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To think deeply about something that makes one unhappy, worried, or angry; to dwell on something with prolonged, often melancholic thought.",
+      "DEF_ZH":"长时间地沉思某事，尤指令人不快、担忧或生气的事情；闷闷不乐地思考。",
+      "SENT_EN":"He would often brood over his past mistakes and misfortunes.",
+      "SENT_ZH":"他经常会为过去的错误和不幸而闷闷不乐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ponder",
+            "ruminate",
+            "dwell",
+            "mull over"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brood",
+      "POS":"vintr",
+      "POS_TIP":"\"vintr\" means intransitive verb.",
+      "TAGS":[
+        "core word",
+        "biology"
+      ],
+      "DEF_EN":"(Of a bird or other animal) to sit on eggs to hatch them; (of an animal) to protect and care for its young.",
+      "DEF_ZH":"(指鸟或其他动物) 孵蛋；(指动物) 保护并照料其幼崽。",
+      "SENT_EN":"The hen is brooding her clutch of eggs.",
+      "SENT_ZH":"母鸡正在孵她那窝蛋。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hatch",
+            "incubate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a brood of [sth]",
+      "POS":"nc",
+      "POS_TIP":"\"nc\" means countable noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "biology"
+      ],
+      "DEF_EN":"A family of young animals produced at one hatching or birth; all the children in a family.",
+      "DEF_ZH":"一次孵化或生产出的幼崽群体；一个家庭的所有孩子。",
+      "SENT_EN":"The robin had a brood of four chicks in the nest.",
+      "SENT_ZH":"知更鸟巢里有一窝四只小鸟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "litter",
+            "clutch",
+            "offspring"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

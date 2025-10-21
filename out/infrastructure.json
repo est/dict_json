@@ -1,0 +1,68 @@
+{
+  "WORD":"infrastructure",
+  "IPA":"/'ɪnfrəˌstrʌktʃər/",
+  "CONJUGATES":"infrastructures",
+  "ETYMOLOGY":"From French infrastructure (c. 1870), combining the Latin prefix infra- ('below, beneath') and structure (from Latin structura 'a fitting together, building'). Originally used in a military context to describe fixed installations.",
+  "SINCE":"c. 1940s (in widespread general and economic use)",
+  "MEANINGS":[
+    {
+      "PATTERN":"infrastructure",
+      "POS":"n",
+      "POS_TIP":"noun (usually uncountable)",
+      "TAGS":[
+        "core word",
+        "technical",
+        "economics"
+      ],
+      "DEF_EN":"The basic physical and organizational structures and facilities (e.g., buildings, roads, power supplies, communication systems) needed for the operation of a society or enterprise.",
+      "DEF_ZH":"基础设施；底层结构；为一个社会、经济或组织正常运转所必需的基本实体和组织结构（例如道路、电力、通信网络）。",
+      "SENT_EN":"Poor maintenance of the public infrastructure led to frequent power outages.",
+      "SENT_ZH":"公共基础设施的维护不善导致了频繁的停电。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "foundation",
+            "framework",
+            "base",
+            "substructure",
+            "public works"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "utility",
+            "network",
+            "logistics",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"infrastructure [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"The underlying technical elements, hardware, and systems required for a computer network or software application to function.",
+      "DEF_ZH":"（技术）架构；计算机网络或软件应用所需的底层技术元件、硬件和系统。",
+      "SENT_EN":"We need to update our IT infrastructure to handle the increased data load.",
+      "SENT_ZH":"我们需要更新我们的IT基础架构来处理增加的数据负载。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "architecture",
+            "platform",
+            "system"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical, Economics, Planning."
+}

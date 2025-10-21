@@ -1,0 +1,64 @@
+{
+  "WORD":"automate",
+  "IPA":"/ˌɔːtəˈmeɪt/",
+  "CONJUGATES":"automates | automated | automating",
+  "ETYMOLOGY":"A back-formation from 'automation', coined in the 1940s, combining Greek 'auto-' (self) with the suffix '-mation' (suggesting action or process).",
+  "SINCE":"c. 1947",
+  "MEANINGS":[
+    {
+      "PATTERN":"automate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "technology",
+        "business"
+      ],
+      "DEF_EN":"To convert a process, system, or piece of equipment to largely automatic operation; to replace or minimize human labor with machines or computers.",
+      "DEF_ZH":"使（过程、系统或机构）自动化；使用机器或电脑使其自动运行，以取代或减少人工劳动。",
+      "SENT_EN":"The company plans to automate many of its clerical tasks using AI software.",
+      "SENT_ZH":"该公司计划利用人工智能软件将其许多文书工作自动化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mechanize",
+            "robotize",
+            "computerize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "automation",
+            "automatic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[automated] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (past participle used attributively, describing the user's input word)",
+      "TAGS":[
+        "high frequency",
+        "technology"
+      ],
+      "DEF_EN":"Operating largely by automatic equipment; performed by machines or systems with minimal human intervention.",
+      "DEF_ZH":"自动操作的；由机器或系统执行，仅需极少人工干预的。",
+      "SENT_EN":"The facility relies on an automated warehouse system for inventory management.",
+      "SENT_ZH":"该设施依赖一套自动化的仓库系统进行库存管理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automatic",
+            "robotic",
+            "mechanized"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; heavily used in industrial and technological contexts."
+}

@@ -1,0 +1,58 @@
+{
+  "WORD":"uncle",
+  "IPA":"/ˈʌŋkl/",
+  "CONJUGATES":"uncles (plural)",
+  "ETYMOLOGY":"From Old French 'oncle' (meaning 'mother's brother'), from Latin 'avunculus' ('mother's brother', diminutive of 'avus' 'grandfather').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"uncle",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The brother of one's father or mother or the husband of one's aunt.",
+      "DEF_ZH":"父亲或母亲的兄弟，或姑姑、姨妈的丈夫。",
+      "SENT_EN":"My uncle always brings me a gift when he visits.",
+      "SENT_ZH":"我叔叔每次来访都会给我带礼物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "aunt",
+            "nephew",
+            "niece",
+            "cousin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"uncle",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "colloquial",
+        "informal",
+        "polite"
+      ],
+      "DEF_EN":"(Informal) A friendly or respectful term of address for an older man, especially in some cultures, not necessarily a relative.",
+      "DEF_ZH":"(非正式) 对年长男性的友好或尊称，尤其是在某些文化中，不一定是亲戚。",
+      "SENT_EN":"Hello, Uncle, how are you today?",
+      "SENT_ZH":"叔叔好，您今天怎么样？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sir",
+            "mister",
+            "elder"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

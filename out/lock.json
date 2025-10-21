@@ -1,0 +1,145 @@
+{
+  "WORD":"lock",
+  "IPA":"/lɒk/",
+  "CONJUGATES":"locks | locking | locked",
+  "ETYMOLOGY":"From Old English loc 'a bolt, bar, fastening, enclosure,' from Proto-Germanic *lukana 'to close' (cognate with Old Norse lok 'fastening, lock,' Old Frisian lok 'enclosure, prison,' Old High German loh 'dungeon'). The sense of a 'tress of hair' is from Old English locc, from Proto-Germanic *lukkoz.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"a lock [of a door/chest]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A mechanism for keeping a door, lid, or container fastened, typically operated by a key or combination, to prevent unauthorized access.",
+      "DEF_ZH":"一种用于固定门、盖子或容器的机械装置，通常通过钥匙或密码操作，以防止未经授权的进入。",
+      "SENT_EN":"She heard the click of the lock as the door closed behind him.",
+      "SENT_ZH":"她听到门在他身后关上时锁的咔哒声。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "key",
+            "bolt",
+            "latch",
+            "padlock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lock [sth] | lock [sth] up",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fasten something with a lock; to make secure by means of a lock.",
+      "DEF_ZH":"用锁将某物锁上；通过锁将其固定住。",
+      "SENT_EN":"Always lock the door when you leave the house.",
+      "SENT_ZH":"你离开家时务必锁门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secure",
+            "fasten",
+            "bolt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unlock",
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lock [sb/sth] in/out",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb with prepositional phrase",
+      "TAGS":[
+        "common",
+        "phrasal verb"
+      ],
+      "DEF_EN":"To prevent someone or something from entering or leaving a place by locking a door.",
+      "DEF_ZH":"通过锁门来阻止某人或某物进入或离开某地。",
+      "SENT_EN":"I accidentally locked myself out of the house.",
+      "SENT_ZH":"我不小心把自己锁在门外了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a lock [of hair]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A small, curled, or braided piece of hair.",
+      "DEF_ZH":"一小撮卷曲的、编织的或缕状的头发。",
+      "SENT_EN":"She pushed a stray lock of hair from her eyes.",
+      "SENT_ZH":"她把一缕散落的头发从眼前拨开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tress",
+            "strand",
+            "curl"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lock [together/in place]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"intransitive or transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To become, or cause to become, rigidly fixed or jammed together so as to be immovable or secure.",
+      "DEF_ZH":"（使）变得或卡在一起，僵硬地固定住，无法移动或变得牢固。",
+      "SENT_EN":"The two pieces of the toy clicked and locked together.",
+      "SENT_ZH":"玩具的两部分咔嗒一声卡在一起。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interlock",
+            "fasten",
+            "fix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a lock [on a canal]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "specific use"
+      ],
+      "DEF_EN":"A short section of a canal or river with gates and sluices at each end, used for raising and lowering boats from one level to another.",
+      "DEF_ZH":"运河或河流上的一小段，两端有闸门和水闸，用于将船只从一个水位升降到另一个水位。",
+      "SENT_EN":"The barges waited their turn to pass through the lock.",
+      "SENT_ZH":"驳船排队等待通过船闸。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "canal",
+            "sluice",
+            "dam"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

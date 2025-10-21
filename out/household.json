@@ -1,0 +1,87 @@
+{
+  "WORD":"household",
+  "IPA":"/ˈhaʊsˌhoʊld/",
+  "CONJUGATES":"households (plural)",
+  "ETYMOLOGY":"Compound of Old English hūs (house) and hald (holding, control, governance), likely meaning 'governance of a house'.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] household",
+      "POS":"noun",
+      "POS_TIP":"A person, place, or thing.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A family or social unit consisting of all the people living together in the same residence or dwelling.",
+      "DEF_ZH":"家庭；一户（指居住在同一住宅内的所有人员）。",
+      "SENT_EN":"The survey showed that the average household size in the city is three people.",
+      "SENT_ZH":"调查显示，该市的平均家庭规模是三个人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "family",
+            "dwelling",
+            "residence",
+            "unit"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "householder",
+            "domicile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"household [n]",
+      "POS":"adj",
+      "POS_TIP":"An adjective describing a noun.",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Relating to a house, its occupants, or the management of domestic affairs.",
+      "DEF_ZH":"家庭的；家用的；家务的。",
+      "SENT_EN":"She is responsible for all the household chores and expenses.",
+      "SENT_ZH":"她负责所有的家务和家庭开支。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "domestic",
+            "familial",
+            "home"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the royal household",
+      "POS":"noun",
+      "POS_TIP":"A person, place, or thing.",
+      "TAGS":[
+        "formal",
+        "historical"
+      ],
+      "DEF_EN":"The establishment, retinue, and staff of a sovereign or noble person.",
+      "DEF_ZH":"（君主或贵族的）府邸、家眷及侍从人员。",
+      "SENT_EN":"The reorganization of the royal household caused quite a stir among the staff.",
+      "SENT_ZH":"王室随从人员的重组在工作人员中引起了不小的轰动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retinue",
+            "court",
+            "establishment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

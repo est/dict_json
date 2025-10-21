@@ -1,0 +1,62 @@
+{
+  "WORD":"electrical",
+  "IPA":"/ɪˈlɛktrɪkəl/",
+  "CONJUGATES":"electrically (adverb)",
+  "ETYMOLOGY":"Formed from the adjective 'electric' and the suffix '-al'. 'Electric' was coined in 1600 by William Gilbert from New Latin *electricus* ('of amber'), derived from Greek *ēlektron* ('amber'), because friction on amber was the first known source of static electricity.",
+  "SINCE":"Circa 1700s (as a common modifier, distinguishing itself from 'electric')",
+  "MEANINGS":[
+    {
+      "PATTERN":"electrical [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"Relating to, concerned with, or operated by electricity.",
+      "DEF_ZH":"与电有关的；使用电力的；电学的。",
+      "SENT_EN":"The building safety inspection found several major electrical faults in the wiring.",
+      "SENT_ZH":"大楼安全检查发现了电线中的几处主要电气故障。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "electric"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "electricity",
+            "electronic",
+            "electrics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"electrical [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "scientific",
+        "technical"
+      ],
+      "DEF_EN":"Producing or capable of transmitting electricity.",
+      "DEF_ZH":"导电的；能产生电的。",
+      "SENT_EN":"Copper is known for its excellent electrical conductivity.",
+      "SENT_ZH":"铜因其优异的导电性而闻名。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "conductive",
+            "insulating"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, and Scientific use."
+}

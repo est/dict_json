@@ -1,0 +1,110 @@
+{
+  "WORD":"inject",
+  "IPA":"/ɪnˈdʒɛkt/",
+  "CONJUGATES":"injects | injecting | injected",
+  "ETYMOLOGY":"From Latin iniēctāre, frequentative of iniciō ('to throw in, cast upon'), combining in- ('into') and iacere ('to throw, hurl').",
+  "SINCE":"Late 15th century (medical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"inject [sth] into [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"To force (a fluid, especially a drug or vaccine) into a person or animal's body with a syringe or similar device.",
+      "DEF_ZH":"用注射器或类似装置将液体（尤指药物或疫苗）强行注入人或动物体内。",
+      "SENT_EN":"The doctor had to inject the painkiller directly into the muscle.",
+      "SENT_ZH":"医生不得不将止痛药直接注入肌肉中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inoculate",
+            "administer",
+            "jab"
+          ]
+        },
+        {
+          "T":"derivative",
+          "V":[
+            "injection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inject [sth] into [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To introduce a new, often exciting, quality or element into something in order to improve it or change its nature.",
+      "DEF_ZH":"向某物中注入某种新的、通常是令人兴奋的特质或元素，以期改善或改变其性质。",
+      "SENT_EN":"The coach tried to inject enthusiasm into the losing team during halftime.",
+      "SENT_ZH":"教练试图在中场休息时为这支失败的球队注入热情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "introduce",
+            "infuse",
+            "instill",
+            "impart"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inject [money/capital] into [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"To provide funds or capital for a project, company, or economy.",
+      "DEF_ZH":"为项目、公司或经济提供资金或资本。",
+      "SENT_EN":"The central bank decided to inject liquidity into the market to stabilize prices.",
+      "SENT_ZH":"中央银行决定向市场注入流动性以稳定物价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invest",
+            "fund",
+            "subsidize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inject [data/code]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing",
+        "security"
+      ],
+      "DEF_EN":"To insert unauthorized data, code, or commands into a computer system or program, often exploiting vulnerabilities.",
+      "DEF_ZH":"将未经授权的数据、代码或命令插入计算机系统或程序中，通常是利用漏洞进行恶意操作。",
+      "SENT_EN":"Security researchers warned of a new method to inject malware into operating systems.",
+      "SENT_ZH":"安全研究人员警告了一种将恶意软件注入操作系统的新方法。",
+      "RELATED":[
+        {
+          "T":"related concept",
+          "V":[
+            "SQL injection",
+            "cross-site scripting"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

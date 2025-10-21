@@ -1,0 +1,90 @@
+{
+  "WORD":"foster",
+  "IPA":"/ˈfɑːstər/",
+  "CONJUGATES":"fosters | fostering | fostered",
+  "ETYMOLOGY":"From Old English fōstrian 'to feed, nourish, bring up', derived from fōster 'food, nourishment', ultimately related to Old English fōda 'food'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"foster [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To encourage or promote the development or growth of something, especially a positive feeling, idea, or collaboration.",
+      "DEF_ZH":"培养；促进；鼓励发展（尤指感情、想法或合作关系）。",
+      "SENT_EN":"The program was designed to foster better communication between departments.",
+      "SENT_ZH":"该项目旨在促进部门之间更好的沟通。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "promote",
+            "encourage",
+            "cultivate",
+            "nurture"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hinder",
+            "suppress",
+            "obstruct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"foster [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "specific usage (child welfare)"
+      ],
+      "DEF_EN":"To take a child of other parents into one's family and bring it up for a period of time, without legally adopting it.",
+      "DEF_ZH":"寄养；代养（指在未正式收养的情况下，将他人的孩子带入家庭抚养一段时间）。",
+      "SENT_EN":"They decided to foster three siblings so they wouldn't have to be separated.",
+      "SENT_ZH":"他们决定寄养这三姐弟，这样他们就不必分开了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "adoption",
+            "nurture",
+            "guardian",
+            "parent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"foster parent / foster care / foster home",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "relational"
+      ],
+      "DEF_EN":"Providing or receiving parental care, although not related by blood or law for adoption.",
+      "DEF_ZH":"寄养的；代养的（指提供或接受非亲生或非法定收养的父母之爱或照顾）。",
+      "SENT_EN":"She was placed in a foster home after her biological parents could no longer care for her.",
+      "SENT_ZH":"她的亲生父母无法再照顾她后，她被安置在一个寄养家庭。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "adopted",
+            "biological",
+            "stepfamily"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Formal"
+}

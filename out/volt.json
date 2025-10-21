@@ -1,0 +1,38 @@
+{
+  "WORD":"volt",
+  "IPA":"/voʊlt/",
+  "CONJUGATES":"volts (plural)",
+  "ETYMOLOGY":"Named after Alessandro Volta (1745–1827), an Italian physicist who invented the electric battery.",
+  "SINCE":"1881",
+  "MEANINGS":[
+    {
+      "PATTERN":"[number] volt",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "unit of measurement",
+        "scientific"
+      ],
+      "DEF_EN":"The SI unit of electric potential, electromotive force, and electric potential difference, defined as the potential difference between two points of a conductor when a current of one ampere dissipates one watt of power.",
+      "DEF_ZH":"伏特，国际单位制（SI）中电位差、电动势和电压的单位，符号为 V。定义为当一安培的电流通过导体时，耗散一瓦特功率的两点之间的电位差。",
+      "SENT_EN":"This device requires a 5-volt power supply.",
+      "SENT_ZH":"这个设备需要一个5伏特的电源。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ampere",
+            "ohm",
+            "watt",
+            "coulomb",
+            "farad",
+            "hertz"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"technical, scientific"
+}

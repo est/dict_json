@@ -1,0 +1,76 @@
+{
+  "WORD":"symptom",
+  "IPA":"/ˈsɪmptəm/",
+  "CONJUGATES":"symptoms",
+  "ETYMOLOGY":"From Late Latin symptoma, from Greek symptoma 'a happening, an accident, a symptom', from sympiptein 'happen', from syn- 'together' + piptein 'to fall'.",
+  "SINCE":"Mid-16th century (approx. 1540s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"symptom of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"A physical or mental feature which is regarded as indicating a condition of disease, especially such a feature that is apparent to the patient.",
+      "DEF_ZH":"疾病或医疗状况的身体或精神表现，尤指病人能察觉到的特征。",
+      "SENT_EN":"Fever and cough are common symptoms of the flu.",
+      "SENT_ZH":"发烧和咳嗽是流感的常见症状。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sign",
+            "indicator",
+            "manifestation",
+            "mark"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "disease",
+            "condition",
+            "diagnosis",
+            "ailment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"symptom of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "general use"
+      ],
+      "DEF_EN":"A sign or indication of the existence of something else, especially something undesirable.",
+      "DEF_ZH":"某种事物（尤指不良事物）存在的迹象或征兆。",
+      "SENT_EN":"The growing unrest is a symptom of deeper social problems.",
+      "SENT_ZH":"日益加剧的动荡是更深层社会问题的征兆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sign",
+            "indicator",
+            "signal",
+            "omen",
+            "warning"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cure",
+            "solution"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Medical, general discourse"
+}

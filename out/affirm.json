@@ -1,0 +1,96 @@
+{
+  "WORD":"affirm",
+  "IPA":"/əˈfɜːrm/",
+  "CONJUGATES":"affirming | affirmed | affirms",
+  "ETYMOLOGY":"From Middle English, via Old French *affirmer*, from Latin *affirmare* (ad- 'to' + firmare 'make firm, strengthen', from *firmus* 'firm').",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"affirm [sth] | affirm that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To state or assert something to be true positively and publicly; confirm a strong belief or intention.",
+      "DEF_ZH":"肯定；断言；确认某事属实或表达坚定信念。",
+      "SENT_EN":"The CEO affirmed his commitment to sustainable business practices during the press conference.",
+      "SENT_ZH":"首席执行官在新闻发布会上重申了他对可持续商业实践的承诺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assert",
+            "state",
+            "certify",
+            "confirm"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deny",
+            "negate",
+            "reject"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"affirm [a judgment/decision]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "legal",
+        "specialized"
+      ],
+      "DEF_EN":"(Law) To confirm or uphold a judgment or decision made by a lower court.",
+      "DEF_ZH":"（法律）维持原判；确认（下级法院的判决）。",
+      "SENT_EN":"The Court of Appeals affirmed the ruling, finding no legal error in the initial trial.",
+      "SENT_ZH":"上诉法院维持了原裁决，认为初审中没有法律错误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uphold",
+            "validate",
+            "ratify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reverse",
+            "overturn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"affirm",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To make a solemn declaration instead of taking a religious oath, especially in legal proceedings.",
+      "DEF_ZH":"郑重声明；以庄严宣言替代宣誓（通常基于良心或宗教原因）。",
+      "SENT_EN":"Witnesses who cannot swear an oath for religious reasons are permitted to affirm.",
+      "SENT_ZH":"因宗教原因不能宣誓的证人被允许进行郑重声明。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "oath",
+            "testify",
+            "declaration"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and often legal or official contexts."
+}

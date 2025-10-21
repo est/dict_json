@@ -1,0 +1,67 @@
+{
+  "WORD":"inertia",
+  "IPA":"/ɪˈnɜːrʃə/",
+  "CONJUGATES":"no plural form (uncountable noun)",
+  "ETYMOLOGY":"From Latin inertia 'idleness, sluggishness, inactivity', from iners (genitive inertis) 'unskilled, inactive', from in- 'not' + ars 'skill, art'. Adopted into English for its scientific meaning in the 17th century.",
+  "SINCE":"Late 17th century (scientific use)",
+  "MEANINGS":[
+    {
+      "PATTERN":"inertia",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun: refers to a concept or quality that cannot be counted individually",
+      "TAGS":[
+        "core word",
+        "physics",
+        "technical"
+      ],
+      "DEF_EN":"In physics, the property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force.",
+      "DEF_ZH":"物理学中，物体保持其静止状态或匀速直线运动状态的性质，除非受到外力作用迫使它改变这种状态。",
+      "SENT_EN":"Newton's first law of motion describes the principle of inertia.",
+      "SENT_ZH":"牛顿第一运动定律描述了惯性原理。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "mass",
+            "momentum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inertia",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun: refers to a concept or quality that cannot be counted individually",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A tendency to do nothing or to remain unchanged; a lack of activity or energy.",
+      "DEF_ZH":"不作为或保持不变的趋势；缺乏活动或活力；惰性。",
+      "SENT_EN":"The committee's inertia prevented any real progress on the issue.",
+      "SENT_ZH":"委员会的惰性阻碍了该问题取得任何实质性进展。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lethargy",
+            "stagnation",
+            "passivity",
+            "inactivity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dynamism",
+            "activity",
+            "action",
+            "drive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to scientific, also common in general figurative use."
+}

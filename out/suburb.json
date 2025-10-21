@@ -1,0 +1,64 @@
+{
+  "WORD":"suburb",
+  "IPA":"/ˈsʌb.ɜːrb/",
+  "CONJUGATES":"suburbs",
+  "ETYMOLOGY":"From Middle French *suburbe*, from Latin *suburbium* (sub- 'under, near' + *urbs* 'city').",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"An outlying district of a city, especially a residential one that is not as densely populated as the city center.",
+      "DEF_ZH":"城市外围的住宅区或近郊区，通常人口密度低于市中心。",
+      "SENT_EN":"They decided to move out of the noisy city center and buy a house in the quiet suburb.",
+      "SENT_ZH":"他们决定搬出喧嚣的市中心，在安静的郊区买一套房子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outskirts",
+            "residential area",
+            "exurb"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "urban",
+            "metropolis",
+            "suburbanite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the suburbs",
+      "POS":"n",
+      "POS_TIP":"noun (used collectively, usually plural)",
+      "TAGS":[
+        "sociology",
+        "collective"
+      ],
+      "DEF_EN":"The collective residential areas surrounding a large urban center, often referring to the lifestyle associated with these areas (e.g., car dependence, single-family homes).",
+      "DEF_ZH":"（统称）城市周边的住宅区，通常指郊区生活方式或环境。",
+      "SENT_EN":"Most of the workforce commutes into the city every morning from the suburbs.",
+      "SENT_ZH":"大部分劳动力每天早上都从郊区通勤到城市。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commuter belt",
+            "hinterland"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

@@ -1,0 +1,78 @@
+{
+  "WORD":"inference",
+  "IPA":"/ˈɪnfərəns/",
+  "CONJUGATES":"plural: inferences",
+  "ETYMOLOGY":"Late Middle English: from Latin *inferentia*, from *inferre* 'bring in, infer', which comes from *in-* 'into, towards' + *ferre* 'to carry, bear'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "logic",
+        "result"
+      ],
+      "DEF_EN":"A conclusion reached on the basis of evidence and reasoning.",
+      "DEF_ZH":"基于证据和推理得出的结论。",
+      "SENT_EN":"From her silence, his inference was that she was displeased.",
+      "SENT_ZH":"从她的沉默，他推断她不高兴。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deduction",
+            "conclusion",
+            "reasoning",
+            "presumption"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "infer",
+            "implication",
+            "assumption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "technical",
+        "logic",
+        "process",
+        "statistics"
+      ],
+      "DEF_EN":"The act or process of deriving a conclusion from premises or evidence; the drawing of logical conclusions from facts.",
+      "DEF_ZH":"从前提或证据中推导结论的行为或过程；从事实中得出逻辑结论。",
+      "SENT_EN":"Statistical inference allows us to make educated guesses about population parameters from sample data.",
+      "SENT_ZH":"统计推断使我们能够从样本数据中对总体参数做出有根据的猜测。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extrapolation",
+            "generalization",
+            "induction",
+            "deduction"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "inferential",
+            "analysis",
+            "synthesis"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general, often used in academic and logical contexts."
+}

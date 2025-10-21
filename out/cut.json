@@ -1,0 +1,131 @@
+{
+  "WORD":"cut",
+  "IPA":"/kʌt/",
+  "CONJUGATES":"cut | cutting | cuts",
+  "ETYMOLOGY":"From Middle English cutten, origin uncertain, possibly related to Old Norse kuta ('to cut short').",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"cut [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To divide, separate, or open something with a sharp instrument, such as a knife or scissors.",
+      "DEF_ZH":"用刀、剪刀等锋利的工具分割、分离或切开某物。",
+      "SENT_EN":"He used a bread knife to cut the loaf in half.",
+      "SENT_ZH":"他用面包刀把面包切成两半。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slice",
+            "chop",
+            "sever",
+            "gash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cut [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To reduce the size, amount, duration, or cost of something.",
+      "DEF_ZH":"减少某物的尺寸、数量、持续时间或成本；削减。",
+      "SENT_EN":"They decided to cut the budget by 10%.",
+      "SENT_ZH":"他们决定将预算削减10%。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "lower",
+            "decrease"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "raise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cut [sth] | cut [sb] | cut!",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "cinema/theatre"
+      ],
+      "DEF_EN":"To stop or cease an action, typically used as an instruction by a film director to stop filming.",
+      "DEF_ZH":"停止或终止一个动作；（尤指电影导演）喊“停”。",
+      "SENT_EN":"The director yelled 'Cut!' and the actors relaxed.",
+      "SENT_ZH":"导演喊道“停！”，演员们放松了下来。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a cut | a cut on [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A wound or opening in the skin caused by a sharp object.",
+      "DEF_ZH":"由锋利物体造成的皮肤伤口或切口。",
+      "SENT_EN":"He cleaned the deep cut on his finger.",
+      "SENT_ZH":"他清理了手指上的深切口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gash",
+            "laceration",
+            "wound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cut in [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "economics"
+      ],
+      "DEF_EN":"A reduction in the amount, size, or level of something, such as funding or prices.",
+      "DEF_ZH":"数量、规模或水平上的减少，例如资金或价格的削减。",
+      "SENT_EN":"The bank announced a significant cut in interest rates.",
+      "SENT_ZH":"银行宣布大幅削减利率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduction",
+            "decrease",
+            "curtailment"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "hike"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

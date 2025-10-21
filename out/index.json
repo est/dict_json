@@ -1,0 +1,124 @@
+{
+  "WORD":"index",
+  "IPA":"/ˈɪndɛks/",
+  "CONJUGATES":"n. indexes | indices | v. indexes | indexed | indexing",
+  "ETYMOLOGY":"From Latin index (genitive indicis) 'forefinger, sign, list', from indicare 'to point out, indicate'.",
+  "SINCE":"Late 14th century (as a list); late 16th century (as an indicator).",
+  "MEANINGS":[
+    {
+      "PATTERN":"index [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An alphabetical list of names, subjects, etc., with references to the places where they occur, typically found at the end of a book or document.",
+      "DEF_ZH":"（书后的）索引；（文件等的）目录",
+      "SENT_EN":"Look up the topic in the index at the back of the book.",
+      "SENT_ZH":"在书后的索引中查找该主题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "directory",
+            "catalogue",
+            "list"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"index [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sign or indicator of something, especially something abstract.",
+      "DEF_ZH":"标志；迹象；指数",
+      "SENT_EN":"The crime rate is an index of social problems.",
+      "SENT_ZH":"犯罪率是社会问题的标志。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indicator",
+            "measure",
+            "gauge",
+            "barometer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"index [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A number, especially one that indicates the relative level of prices, wages, or other economic factors compared with a previous level, often used in statistics.",
+      "DEF_ZH":"（经济）指数；指标",
+      "SENT_EN":"The cost of living index has risen significantly this quarter.",
+      "SENT_ZH":"本季度生活成本指数显著上升。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "CPI",
+            "Dow Jones Index"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"index [sth]",
+      "POS":"vt.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To record (names, subjects, etc.) in an index; to make an index for.",
+      "DEF_ZH":"编入索引；做索引",
+      "SENT_EN":"The book is fully indexed by subject and author.",
+      "SENT_ZH":"这本书按主题和作者编有完整的索引。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "catalogue",
+            "list",
+            "classify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"index [sth] to [sth]",
+      "POS":"vt.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"To adjust (wages, pensions, or other payments) automatically in relation to a price index, such as inflation.",
+      "DEF_ZH":"（使）与指数挂钩；（使）指数化",
+      "SENT_EN":"Salaries are often indexed to the cost of living to maintain purchasing power.",
+      "SENT_ZH":"薪水通常与生活成本指数挂钩，以保持购买力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inflation-proof",
+            "adjust"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Formal"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"vendor",
+  "IPA":"/ˈvɛndər/",
+  "CONJUGATES":"vendors (pl.)",
+  "ETYMOLOGY":"From Old French vendeor, derived from Latin venditor, agent noun of vendere ('to sell').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] or [company]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"A person or company selling goods or services, especially a small retailer or street seller.",
+      "DEF_ZH":"卖方；销售商；（尤指）小贩或街头摊贩。",
+      "SENT_EN":"She bought fresh flowers from a market vendor.",
+      "SENT_ZH":"她从一个市场小贩那里买了新鲜的鲜花。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seller",
+            "dealer",
+            "retailer",
+            "supplier",
+            "merchant",
+            "hawker"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "vending machine",
+            "vendee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[tech context]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"A company that provides specific computer hardware or software products to other businesses or consumers.",
+      "DEF_ZH":"（计算机/技术领域）供应商；硬件或软件生产商。",
+      "SENT_EN":"We are evaluating proposals from several cloud service vendors.",
+      "SENT_ZH":"我们正在评估几家云服务供应商的提案。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "third-party vendor",
+            "OEM"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[legal context]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal",
+        "real estate"
+      ],
+      "DEF_EN":"The party in a legal contract, particularly involving real estate, who transfers property by sale.",
+      "DEF_ZH":"（法律/地产）出卖人；财产出售方。",
+      "SENT_EN":"The vendor is responsible for clearing all encumbrances on the property before closing.",
+      "SENT_ZH":"在交易结束前，出卖人有责任清除财产上的所有负担。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "vendee"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Business, Legal"
+}

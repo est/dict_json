@@ -1,0 +1,68 @@
+{
+  "WORD":"sue",
+  "IPA":"/suː/",
+  "CONJUGATES":"sues | suing | sued",
+  "ETYMOLOGY":"From Old French suir, sivre 'to follow', from Vulgar Latin *sequere, from Latin sequi 'to follow'. The legal sense developed from the idea of 'following up on' a claim or right.",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"sue [sb] for [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"To take legal action against someone, typically to claim compensation for an injury or wrongdoing.",
+      "DEF_ZH":"对某人提起诉讼，通常是为了就伤害或不法行为要求赔偿。",
+      "SENT_EN":"She decided to sue the company for discrimination after she was unfairly dismissed.",
+      "SENT_ZH":"她被不公平解雇后，决定起诉该公司歧视。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "take legal action",
+            "litigate",
+            "prosecute"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lawsuit",
+            "plaintiff",
+            "defendant",
+            "court"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sue for [sth]",
+      "POS":"vi",
+      "POS_TIP":"vi: intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "rare",
+        "archaic",
+        "literary"
+      ],
+      "DEF_EN":"To make an earnest request or appeal for something, especially peace or mercy.",
+      "DEF_ZH":"恳切地请求或呼吁某事，尤指和平或宽恕。",
+      "SENT_EN":"After years of conflict, the two nations finally decided to sue for peace.",
+      "SENT_ZH":"经过多年的冲突，两国最终决定求和。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plead",
+            "entreat",
+            "petition",
+            "appeal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, especially in legal contexts; generally common language for the primary meaning."
+}

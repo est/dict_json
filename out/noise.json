@@ -1,0 +1,92 @@
+{
+  "WORD":"noise",
+  "IPA":"/nɔɪz/",
+  "CONJUGATES":"noises (n) | noises (v) | noising (v) | noised (v)",
+  "ETYMOLOGY":"From Old French noise ('quarrel, din, uproar'), from Latin nausea ('seasickness, disgust, annoyance').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] noise | [C] noises",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun | countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sound, especially one that is loud or unpleasant or that causes disturbance.",
+      "DEF_ZH":"声音，尤指响亮、不悦耳或造成干扰的声音。",
+      "SENT_EN":"I couldn't concentrate because of all the noise outside.",
+      "SENT_ZH":"我因为外面所有的噪音而无法集中注意力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sound",
+            "din",
+            "racket",
+            "clatter",
+            "uproar"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "silence",
+            "quiet",
+            "stillness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U] noise",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"Irregular fluctuations that accompany a transmitted signal but are not part of it and tend to obscure it.",
+      "DEF_ZH":"伴随传输信号但不属于信号本身，并倾向于模糊信号的无规律波动（通常指电子干扰）。",
+      "SENT_EN":"The audio recording had a lot of background noise.",
+      "SENT_ZH":"这段录音有许多背景噪声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interference",
+            "static",
+            "distortion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"noise [sth] (about [sth])",
+      "POS":"verb",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "formal",
+        "old-fashioned"
+      ],
+      "DEF_EN":"To spread a rumour or report.",
+      "DEF_ZH":"散布谣言或消息。",
+      "SENT_EN":"They have been noising it about that the company is to be sold.",
+      "SENT_ZH":"他们一直在散布公司将被出售的谣言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spread",
+            "rumour",
+            "report",
+            "broadcast",
+            "gossip"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

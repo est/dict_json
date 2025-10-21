@@ -1,0 +1,76 @@
+{
+  "WORD":"guerrilla",
+  "IPA":"/ɡəˈrɪlə/",
+  "CONJUGATES":"guerrillas (pl.)",
+  "ETYMOLOGY":"From Spanish guerrilla, diminutive of guerra ('war'). Literally meaning 'little war'. It became prominent during the Peninsular War (1808–1814).",
+  "SINCE":"c. 1809",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"Noun",
+      "POS_TIP":"A person, place, or thing",
+      "TAGS":[
+        "core word",
+        "military",
+        "politics"
+      ],
+      "DEF_EN":"A member of a small independent group taking part in irregular fighting, typically against larger regular forces, often involving sabotage and surprise raids.",
+      "DEF_ZH":"游击队成员；游击队员。指进行非正规作战的小型独立团体成员。",
+      "SENT_EN":"The guerrillas managed to hold the mountain passes for weeks against the heavily equipped army.",
+      "SENT_ZH":"游击队员们成功抵御装备精良的军队数周，守住了山隘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insurgent",
+            "partisan",
+            "rebel",
+            "freedom fighter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "warfare",
+            "terrorism",
+            "militia"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] + [sth]",
+      "POS":"Adjective",
+      "POS_TIP":"A word that describes a noun",
+      "TAGS":[
+        "common",
+        "strategic",
+        "figurative"
+      ],
+      "DEF_EN":"Relating to or characteristic of guerrillas or guerrilla warfare; using irregular or unconventional methods, often applied to activities outside a military context (e.g., marketing).",
+      "DEF_ZH":"游击战的；采用游击战术的；非传统或非正规的（常用于描述营销或艺术等）。",
+      "SENT_EN":"Guerrilla marketing relies on unconventional methods to promote a product with minimal budget.",
+      "SENT_ZH":"游击营销依赖非传统方法，以最少的预算推广产品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "irregular",
+            "unconventional",
+            "underground",
+            "hit-and-run"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "skirmish",
+            "ambush",
+            "sabotage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Military, Politics, Business/Marketing"
+}

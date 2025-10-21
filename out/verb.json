@@ -1,0 +1,59 @@
+{
+  "WORD":"verb",
+  "IPA":"/vɜːb/",
+  "CONJUGATES":"verbs",
+  "ETYMOLOGY":"From Old French verbe, from Latin verbum ('word', 'verb'), likely influenced by the Greek rhēma ('word', 'verb').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] verb",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Grammar Term",
+        "Common"
+      ],
+      "DEF_EN":"A word (part of speech) that functions as the main element of the predicate, typically denoting an action, state, or occurrence.",
+      "DEF_ZH":"动词。作为谓语的主要成分，表示动作、状态或发生的词类。",
+      "SENT_EN":"The sentence must contain at least one finite verb to be grammatically complete.",
+      "SENT_ZH":"一个句子必须包含至少一个限定动词才能在语法上完整。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Noun",
+            "Adjective",
+            "Adverb",
+            "Conjugation",
+            "Tense"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Verb",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Theology",
+        "Archaic",
+        "Formal"
+      ],
+      "DEF_EN":"(Often capitalized) The divine Word of God; specifically, the second person of the Holy Trinity, Christ (The Logos).",
+      "DEF_ZH":"(常大写) 圣言；道；特指神学中三位一体的第二位，基督（道，或称逻各斯）。",
+      "SENT_EN":"The doctrine centers on the incarnation of the Verb, made flesh for humanity.",
+      "SENT_ZH":"该教义围绕着为人类道成肉身的原则。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Logos",
+            "Christ",
+            "Incarnation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Linguistic, Academic"
+}

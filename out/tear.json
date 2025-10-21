@@ -1,0 +1,104 @@
+{
+  "WORD":"tear",
+  "IPA":"/tɛər/ (verb) | /tɪər/ (noun)",
+  "CONJUGATES":"verb: tear | tears | tearing | tore | torn | noun: tear | tears",
+  "ETYMOLOGY":"The word 'tear' has two distinct etymological origins based on its pronunciation and meaning. As a verb meaning 'to rip' (/tɛər/), it comes from Old English 'teran' ('to pull apart, lacerate'), of Germanic origin. As a noun meaning 'a drop of liquid from the eye' (/tɪər/), it comes from Old English 'teagor' ('a tear'), also of Germanic origin; related to Dutch 'traan' and German 'Zähre'.",
+  "SINCE":"Old English (pre-12th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"tear [sth]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" means a transitive verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To pull or rip (something) apart or to pieces with force.",
+      "DEF_ZH":"（用力）撕开，扯破，撕碎某物。",
+      "SENT_EN":"She accidentally tore the old photograph in half.",
+      "SENT_ZH":"她不小心把那张旧照片撕成了两半。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rip",
+            "shred",
+            "rend",
+            "split"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mend",
+            "repair",
+            "join"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tear (intransitive)",
+      "POS":"vint",
+      "POS_TIP":"\"vint\" means an intransitive verb that does not take a direct object.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To move very quickly or forcefully in a specified direction.",
+      "DEF_ZH":"（尤指车辆或人）疾驰，飞奔。",
+      "SENT_EN":"The sports car tore down the highway at high speed.",
+      "SENT_ZH":"那辆跑车在高速公路上飞速疾驰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dash",
+            "rush",
+            "speed",
+            "zoom"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tear away",
+            "tear along"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a tear | tears",
+      "POS":"nc",
+      "POS_TIP":"\"nc\" means a countable noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A drop of clear, salty liquid secreted from the eye as a response to emotion (such as sadness or joy) or irritation.",
+      "DEF_ZH":"眼泪，泪水（因情感或刺激从眼睛分泌出来的透明咸味液体）。",
+      "SENT_EN":"A single tear rolled down her cheek as she heard the sad news.",
+      "SENT_ZH":"听到这个悲伤的消息时，一滴眼泪从她脸颊滑落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lachryma",
+            "drop (of liquid)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "teardrop",
+            "tearful",
+            "tear-jerker",
+            "crying"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

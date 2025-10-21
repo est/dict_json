@@ -1,0 +1,79 @@
+{
+  "WORD":"multiple",
+  "IPA":"/'mʌltɪpəl/",
+  "CONJUGATES":"multiples",
+  "ETYMOLOGY":"From Old French multiple, from Latin multiplex (multi- 'many' + plicāre 'to fold'), literally meaning 'having many folds'.",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"multiple [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Consisting of or involving more than one individual, element, or part; many and various.",
+      "DEF_ZH":"由多于一个的个体、元素或部分组成的；许多的，多样的。",
+      "SENT_EN":"The doctor ordered multiple tests to determine the cause of the illness.",
+      "SENT_ZH":"医生要求进行多项检查来确定疾病的原因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "numerous",
+            "several",
+            "manifold",
+            "various"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "single",
+            "solitary",
+            "unitary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[number] is a multiple of [another number]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"A quantity that contains another quantity an exact number of times (e.g., 12 is a multiple of 4).",
+      "DEF_ZH":"能被另一个数量整除的量；倍数。",
+      "SENT_EN":"The least common multiple of 6 and 8 is 24.",
+      "SENT_ZH":"6和8的最小公倍数是24。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "factor",
+            "divisor",
+            "product"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"multiple",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "finance"
+      ],
+      "DEF_EN":"A figure used in financial valuation, often representing the ratio of a company's stock price to its earnings (P/E multiple).",
+      "DEF_ZH":"（金融估值中）市盈率等倍数指标。",
+      "SENT_EN":"The acquisition was valued at an enterprise value of seven times the earnings multiple.",
+      "SENT_ZH":"这项收购按收益倍数的七倍的企业价值进行估值。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal and informal use; frequently used in academic and technical contexts."
+}

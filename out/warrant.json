@@ -1,0 +1,110 @@
+{
+  "WORD":"warrant",
+  "IPA":"/ˈwɔːrənt/",
+  "CONJUGATES":"warrants | warranted | warranting",
+  "ETYMOLOGY":"From Middle English warant, from Anglo-Norman warant (protector, guarantor), ultimately from Old Frankish *warjan (to defend, protect). Related to modern English 'guarantee' and 'warranty'.",
+  "SINCE":"C. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] warrant (for [sth]/[sb])",
+      "POS":"n.",
+      "POS_TIP":"Noun (Countable)",
+      "TAGS":[
+        "Legal",
+        "Core"
+      ],
+      "DEF_EN":"A document issued by a judicial officer or magistrate authorizing the police or another body to make an arrest, search premises, or carry out another action relating to justice.",
+      "DEF_ZH":"由司法官员或裁判官签发的，授权警察或其他机构进行逮捕、搜查场所或执行其他司法相关行动的文件。",
+      "SENT_EN":"The judge issued a search warrant for the suspect's residence.",
+      "SENT_ZH":"法官签发了对嫌疑人住所的搜查令。",
+      "RELATED":[
+        {
+          "T":"types",
+          "V":[
+            "search warrant",
+            "arrest warrant"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "authorization",
+            "permit",
+            "writ"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"warrant [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "Formal",
+        "Core"
+      ],
+      "DEF_EN":"To justify or necessitate (a particular course of action or outcome); to serve as adequate grounds for.",
+      "DEF_ZH":"作为充分的理由或根据，证明（某一特定行动或结果）是正当的或必需的。",
+      "SENT_EN":"The quality of the product did not warrant the high price tag.",
+      "SENT_ZH":"该产品的质量不值得如此高的价格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "justify",
+            "necessitate",
+            "merit",
+            "call for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"warrant (for [sth])",
+      "POS":"n.",
+      "POS_TIP":"Noun (Uncountable)",
+      "TAGS":[
+        "Formal",
+        "Abstract"
+      ],
+      "DEF_EN":"Justification or adequate reason for a belief, action, or feeling.",
+      "DEF_ZH":"信念、行动或感觉的正当理由或充分根据。",
+      "SENT_EN":"There is no warrant for his extreme confidence in the face of uncertainty.",
+      "SENT_ZH":"面对不确定性，他极度的自信没有根据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grounds",
+            "reason",
+            "basis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"warrant [sb/sth] to do [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "Legal",
+        "Guarantee"
+      ],
+      "DEF_EN":"To guarantee or affirm the quality, condition, or truth of something, especially formally.",
+      "DEF_ZH":"保证或确认某事的质量、状况或真实性，尤指正式地。",
+      "SENT_EN":"I warrant this watch to be free from defects for one year.",
+      "SENT_ZH":"我保证这块手表一年内没有缺陷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "warranty",
+            "guarantee",
+            "vouch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in legal and formal writing; the verb form is often used in educated speech."
+}

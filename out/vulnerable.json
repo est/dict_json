@@ -1,0 +1,111 @@
+{
+  "WORD":"vulnerable",
+  "IPA":"/'vʌlnərəbəl/",
+  "CONJUGATES":"vulnerably (adverb) | vulnerability (noun)",
+  "ETYMOLOGY":"From Late Latin vulnerabilis, from Latin vulnerare ('to wound'), derived from vulnus (genitive vulneris) ('wound'), combined with the suffix -abilis ('able to').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth] is vulnerable (to [sth])",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"Exposed to the possibility of being attacked or harmed, either physically or emotionally; easily hurt.",
+      "DEF_ZH":"易受伤害的；脆弱的；易受攻击的。",
+      "SENT_EN":"Children are often the most vulnerable members of society.",
+      "SENT_ZH":"儿童往往是社会中最脆弱的群体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "susceptible",
+            "defenseless",
+            "exposed",
+            "unprotected"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "invulnerable",
+            "secure",
+            "shielded"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is vulnerable",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Psychological",
+        "Emotive"
+      ],
+      "DEF_EN":"Showing emotional openness, which makes one liable to be hurt or criticized.",
+      "DEF_ZH":"容易受到情感伤害的；坦诚而脆弱的。",
+      "SENT_EN":"He allowed himself to be vulnerable when discussing his past failures.",
+      "SENT_ZH":"在谈论自己过去的失败时，他允许自己表现出脆弱的一面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sensitive",
+            "exposed",
+            "open",
+            "raw"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[system/software] is vulnerable (to [sth])",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"Describing a system, program, or network susceptible to security breaches, exploits, or faults.",
+      "DEF_ZH":"(系统、软件) 有漏洞的；易受侵入的。",
+      "SENT_EN":"The software update patched several critical vulnerabilities in the network protocol.",
+      "SENT_ZH":"这次软件更新修补了网络协议中的几个关键漏洞。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "exploit",
+            "zero-day",
+            "patch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[species] is vulnerable",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Ecology",
+        "Technical"
+      ],
+      "DEF_EN":"In conservation, classified (by IUCN) as facing a high risk of extinction in the wild (a category less severe than 'endangered').",
+      "DEF_ZH":"(生态学) 易危的（IUCN 分类，濒危程度低于‘濒危’）。",
+      "SENT_EN":"Habitat loss is the primary reason the blue crane is considered vulnerable.",
+      "SENT_ZH":"栖息地丧失是蓝鹤被认为易危的主要原因。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "endangered",
+            "critically endangered"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in general, formal, and technical contexts."
+}

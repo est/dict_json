@@ -1,0 +1,127 @@
+{
+  "WORD":"show",
+  "IPA":"/ʃoʊ/",
+  "CONJUGATES":"shows | showing | showed | shown",
+  "ETYMOLOGY":"From Old English scēawian 'look at, inspect, see, show', from Proto-Germanic *skauwanan.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"show [sth] (to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To let or make something be seen; to display.",
+      "DEF_ZH":"使可见；展示；陈列。",
+      "SENT_EN":"Could you please show me your passport?",
+      "SENT_ZH":"请问您能给我看一下您的护照吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "display",
+            "exhibit",
+            "present",
+            "reveal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hide",
+            "conceal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"show (that...) | show [sth]",
+      "POS":"vtr | v + clause",
+      "POS_TIP":"transitive verb | verb followed by a clause",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To prove or demonstrate something; to indicate a fact or truth.",
+      "DEF_ZH":"证明；表明；说明。",
+      "SENT_EN":"The survey results show that public opinion is changing.",
+      "SENT_ZH":"调查结果表明公众舆论正在发生变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "demonstrate",
+            "prove",
+            "indicate",
+            "suggest"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "evidence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"show [sb] [sth] | show [sb] around",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To lead or guide someone to a place or along a route.",
+      "DEF_ZH":"指引；带领；引导。",
+      "SENT_EN":"He kindly offered to show me the way to the library.",
+      "SENT_ZH":"他主动提出给我指去图书馆的路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guide",
+            "lead",
+            "direct",
+            "usher"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a show",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A theatrical performance, a broadcast, or an exhibition of items.",
+      "DEF_ZH":"演出；节目；展览。",
+      "SENT_EN":"We bought tickets for a concert show next month.",
+      "SENT_ZH":"我们买了下个月的演唱会门票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "performance",
+            "display",
+            "exhibition",
+            "broadcast",
+            "spectacle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "theater",
+            "movie",
+            "concert"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

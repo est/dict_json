@@ -1,0 +1,116 @@
+{
+  "WORD":"rain",
+  "IPA":"/reɪn/",
+  "CONJUGATES":"rains | rained | raining",
+  "ETYMOLOGY":"From Old English *regn* (noun) and *regnian* (verb), from Proto-Germanic *regnaz*.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"rain",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "weather"
+      ],
+      "DEF_EN":"Water falling from the sky in drops.",
+      "DEF_ZH":"从天空中以水滴形式落下的水。",
+      "SENT_EN":"The rain started suddenly after a long dry spell.",
+      "SENT_ZH":"经过长时间的干旱，雨突然下了起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "downpour",
+            "shower",
+            "drizzle",
+            "precipitation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rainy",
+            "rainbow",
+            "raincoat",
+            "rainfall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rain",
+      "POS":"vi",
+      "POS_TIP":"verb (intransitive)",
+      "TAGS":[
+        "core word",
+        "common",
+        "weather"
+      ],
+      "DEF_EN":"To fall as rain; to send down rain.",
+      "DEF_ZH":"下雨；降雨。",
+      "SENT_EN":"It started to rain heavily just as we left the house.",
+      "SENT_ZH":"我们刚离开家，雨就下得很大。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pour",
+            "drizzle",
+            "sprinkle",
+            "hail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rain of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A large quantity of things falling or appearing to fall in a thick shower.",
+      "DEF_ZH":"大量事物像雨点般落下或涌现。",
+      "SENT_EN":"A rain of arrows descended on the fortress.",
+      "SENT_ZH":"万箭齐发，射向堡垒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shower",
+            "flurry",
+            "barrage",
+            "hail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] rain down on [sb/sth]",
+      "POS":"vt + prep",
+      "POS_TIP":"verb (transitive) + preposition",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To fall or send down in large quantities or numbers, like rain.",
+      "DEF_ZH":"像雨一样大量落下或倾泻。",
+      "SENT_EN":"Presents rained down on the celebrity during her birthday party.",
+      "SENT_ZH":"在她生日派对上，礼物像雨点般倾泻给这位名人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shower",
+            "hail",
+            "pour"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

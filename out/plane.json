@@ -1,0 +1,124 @@
+{
+  "WORD":"plane",
+  "IPA":"/pleɪn/",
+  "CONJUGATES":"planes | planed | planing | planer | planest",
+  "ETYMOLOGY":"From Old French plan, from Latin planum (flat surface, level ground), derived from planus (flat, level). The meaning 'aircraft' is a shortening of 'aeroplane' (c. 1908).",
+  "SINCE":"c. 1300s (geometric/surface noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a plane",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A powered flying vehicle with fixed wings, especially one that is shorter for 'aeroplane' or 'airplane'.",
+      "DEF_ZH":"飞机（通常指固定翼的动力飞行器，是'aeroplane'或'airplane'的简称）。",
+      "SENT_EN":"The plane was delayed due to heavy fog.",
+      "SENT_ZH":"由于大雾，飞机延误了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "airplane",
+            "aeroplane",
+            "jet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plane",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geometry",
+        "academic"
+      ],
+      "DEF_EN":"A flat surface that extends infinitely in two dimensions.",
+      "DEF_ZH":"平面；水平面（在几何学中指无限延伸的二维平坦表面）。",
+      "SENT_EN":"The graph lies entirely within the Cartesian plane.",
+      "SENT_ZH":"该图完全位于笛卡尔平面内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surface",
+            "level",
+            "sheet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plane [of existence/thought]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "figurative"
+      ],
+      "DEF_EN":"A level or standard of existence, quality, or thought.",
+      "DEF_ZH":"层次；境界；范围（指存在的级别、思想或发展阶段）。",
+      "SENT_EN":"Their conversation was operating on a higher intellectual plane.",
+      "SENT_ZH":"他们的谈话是在更高的智力层面上进行的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "level",
+            "sphere",
+            "realm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"plane [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "woodworking"
+      ],
+      "DEF_EN":"To smooth or finish a surface, especially wood, by using a plane tool.",
+      "DEF_ZH":"刨平；用刨子修整（尤指木材）。",
+      "SENT_EN":"The carpenter planed the rough edges of the shelf.",
+      "SENT_ZH":"木匠用刨子刨平了架子的粗糙边缘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smooth",
+            "level",
+            "shave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a plane",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "tool",
+        "technical"
+      ],
+      "DEF_EN":"A tool used for smoothing or shaping wood.",
+      "DEF_ZH":"刨子（用于刨平或修整木材的工具）。",
+      "SENT_EN":"He sharpened the blade of his hand plane before starting work.",
+      "SENT_ZH":"他在开始工作前磨利了手刨的刀片。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "planer",
+            "jointer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

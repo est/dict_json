@@ -1,0 +1,120 @@
+{
+  "WORD":"cue",
+  "IPA":"/kjuː/",
+  "CONJUGATES":"cues | cuing | cued",
+  "ETYMOLOGY":"From Middle French queue 'tail', from Latin cauda 'tail'. The sense of 'signal' evolved from the theatrical practice of stage directions marked 'Q' for 'queue' (the end of a speech or scene), or from the idea of the end of a line/sequence. The sense of 'billiard stick' also comes from the 'tail' meaning.",
+  "SINCE":"Late 15th century (as a variant of 'queue' meaning 'tail'), early 17th century (as a theatrical signal), mid-18th century (as a billiard stick).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] cue",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A signal or hint that tells someone what to do or say.",
+      "DEF_ZH":"暗示；提示；信号",
+      "SENT_EN":"The actor missed his cue and didn't come on stage.",
+      "SENT_ZH":"演员错过了他的提示，没有上台。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hint",
+            "signal",
+            "prompt",
+            "indication"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "trigger",
+            "stimulus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cue [sb] | cue [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To give a signal or hint to someone; to prompt or prepare something.",
+      "DEF_ZH":"给...提示；暗示；为...做好准备",
+      "SENT_EN":"The director cued the stage manager to lower the lights.",
+      "SENT_ZH":"导演提示舞台经理把灯光调暗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prompt",
+            "signal",
+            "indicate",
+            "trigger"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "interrupt",
+            "stop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cue (for billiards)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "specific usage"
+      ],
+      "DEF_EN":"A long, tapering stick used in billiards, pool, or snooker to strike the cue ball.",
+      "DEF_ZH":"球杆（台球、斯诺克等运动中使用的长杆）",
+      "SENT_EN":"He carefully selected a cue from the rack before starting the game.",
+      "SENT_ZH":"在开始比赛前，他小心地从球杆架上选了一根球杆。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pool",
+            "billiards",
+            "snooker",
+            "chalk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cue (of hair)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "dated",
+        "rare"
+      ],
+      "DEF_EN":"A pigtail or queue, especially one worn at the back of the head.",
+      "DEF_ZH":"辫子；发辫（尤指脑后垂下的发辫，旧时用法）",
+      "SENT_EN":"The old paintings often depict gentlemen with powdered wigs and neatly tied cues.",
+      "SENT_ZH":"古老的画作中常常描绘戴着扑粉假发、脑后留着整齐辫子的绅士。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pigtail",
+            "plait",
+            "braid",
+            "queue"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

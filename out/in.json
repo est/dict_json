@@ -1,0 +1,138 @@
+{
+  "WORD":"in",
+  "IPA":"/ɪn/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English in (preposition, adverb), ultimately from Proto-Germanic *inna-, derived from the Proto-Indo-European root *en 'in'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"in [place] | in [container]",
+      "POS":"prep",
+      "POS_TIP":"preposition (介词)",
+      "TAGS":[
+        "core word",
+        "location"
+      ],
+      "DEF_EN":"Expressing the position of something that is enclosed or surrounded by something else.",
+      "DEF_ZH":"在...之中；在...内部。",
+      "SENT_EN":"The cat is sleeping in the basket.",
+      "SENT_ZH":"猫正在篮子里睡觉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inside",
+            "within"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "outside",
+            "out of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in [time period] | in [year/month]",
+      "POS":"prep",
+      "POS_TIP":"preposition (介词)",
+      "TAGS":[
+        "core word",
+        "time"
+      ],
+      "DEF_EN":"During a period of time, or at the end of a specific time period.",
+      "DEF_ZH":"在（某时间段）内；在（某年/月）。",
+      "SENT_EN":"We are going on vacation in August.",
+      "SENT_ZH":"我们八月份要去度假。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"in [state] | in [condition]",
+      "POS":"prep",
+      "POS_TIP":"preposition (介词)",
+      "TAGS":[
+        "abstract"
+      ],
+      "DEF_EN":"Expressing a state, condition, or feeling.",
+      "DEF_ZH":"处于（某种状态、情况或情绪）中。",
+      "SENT_EN":"She is deeply in love with him.",
+      "SENT_ZH":"她深深地爱着他。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"go in | come in | be in",
+      "POS":"adv",
+      "POS_TIP":"adverb (副词)",
+      "TAGS":[
+        "movement"
+      ],
+      "DEF_EN":"Toward the interior; expressing movement or location within a place.",
+      "DEF_ZH":"向内；进入某处内部。",
+      "SENT_EN":"The door was open, so I went in.",
+      "SENT_ZH":"门是开着的，所以我进去了。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "out",
+            "away"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be in [fashion]",
+      "POS":"adj",
+      "POS_TIP":"adjective (形容词)",
+      "TAGS":[
+        "informal",
+        "fashion"
+      ],
+      "DEF_EN":"Currently popular or fashionable.",
+      "DEF_ZH":"流行的；时髦的。",
+      "SENT_EN":"That style of music is really in right now.",
+      "SENT_ZH":"那种音乐风格现在真的很流行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trendy",
+            "fashionable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "out",
+            "dated"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the ins and outs",
+      "POS":"n",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "informal",
+        "plural"
+      ],
+      "DEF_EN":"A position of influence or power, often used specifically as 'the ins' or idiomatically as 'the ins and outs' (details).",
+      "DEF_ZH":"内部权力地位；内情或详细情况（常用于复数或习语中）。",
+      "SENT_EN":"He knows all the ins and outs of the system.",
+      "SENT_ZH":"他知道这个系统的所有细节和内幕。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "influence",
+            "details"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal (Used across all registers, though the adjective/noun forms are often informal or colloquial)."
+}

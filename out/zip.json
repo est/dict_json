@@ -1,0 +1,158 @@
+{
+  "WORD":"zip",
+  "IPA":"/zɪp/",
+  "CONJUGATES":"zips | zipping | zipped | zips (pl.)",
+  "ETYMOLOGY":"Onomatopoeic, imitating the sound of quick movement or the sound made by a quick-fastening device. Applied to the fastener (zipper) itself around the 1920s.",
+  "SINCE":"c. 1920s",
+  "MEANINGS":[
+    {
+      "PATTERN":"zip [sth] up/down",
+      "POS":"vtr | vintr + part",
+      "POS_TIP":"transitive or intransitive verb plus particle",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To close or open something using a zipper.",
+      "DEF_ZH":"拉上或拉开（拉链）；用拉链扣紧。",
+      "SENT_EN":"He zipped up his coat and walked into the cold air.",
+      "SENT_ZH":"他拉上外套的拉链，走进寒冷的空气中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fasten",
+            "close"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unzip",
+            "unfasten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zip [v] [adv/prep]",
+      "POS":"vi | intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "speed"
+      ],
+      "DEF_EN":"To move or travel at a very high speed.",
+      "DEF_ZH":"快速移动；疾驰而过。",
+      "SENT_EN":"The motorcycle zipped down the street.",
+      "SENT_ZH":"那辆摩托车沿着街道疾驰而下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "zoom",
+            "dash",
+            "speed"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "zip line"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zip",
+      "POS":"n | count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "UK usage"
+      ],
+      "DEF_EN":"A fastener consisting of two rows of metal or plastic teeth on strips of fabric that are closed or opened by pulling a slider between them; a zipper.",
+      "DEF_ZH":"拉链；拉锁（尤其在英式英语中）。",
+      "SENT_EN":"The zip on this bag is broken.",
+      "SENT_ZH":"这个包的拉链坏了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "zipper",
+            "fastener"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zip",
+      "POS":"n | uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"Nothing at all; zero (often used in referring to scores or totals).",
+      "DEF_ZH":"零；无；一无所有。",
+      "SENT_EN":"The final score was four goals to zip.",
+      "SENT_ZH":"最后比分是四比零。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "zero",
+            "nought",
+            "nothing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zip",
+      "POS":"n | uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "informal",
+        "positive"
+      ],
+      "DEF_EN":"Energy, vitality, or vigor.",
+      "DEF_ZH":"活力；精力；劲头。",
+      "SENT_EN":"That new operating system has real zip.",
+      "SENT_ZH":"那个新操作系统非常有活力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pep",
+            "zest",
+            "vigor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"zip [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To compress (a file or files) into a single archive format, typically using the .zip format, for easier storage or transmission.",
+      "DEF_ZH":"压缩（文件）。",
+      "SENT_EN":"Did you remember to zip the attachments before sending the email?",
+      "SENT_ZH":"你记得在发送邮件前把附件压缩了吗？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "archive",
+            "unzip"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

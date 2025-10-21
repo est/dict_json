@@ -1,0 +1,105 @@
+{
+  "WORD":"people",
+  "IPA":"/ˈpiːpl/",
+  "CONJUGATES":"person (sg) | people (pl) | peoples (pl, for distinct groups) | peoples (v. 3rd sg pres) | peopled (v. past/pp) | peopling (v. pres p)",
+  "ETYMOLOGY":"From Old French poeple, peuple, from Latin populus 'the people, a nation, a community'.",
+  "SINCE":"Late 13th century (as a noun, meaning 'persons collectively')",
+  "MEANINGS":[
+    {
+      "PATTERN":"people",
+      "POS":"n pl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Human beings in general; individuals of a community or group. (This is the most common plural form of 'person').",
+      "DEF_ZH":"人类，人们；某个群体或社区的个体。（这是'person'最常见的复数形式。）",
+      "SENT_EN":"Many people around the world are learning English.",
+      "SENT_ZH":"世界上很多人都在学英语。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "humans",
+            "individuals",
+            "persons",
+            "folks",
+            "mankind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the people",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "collective"
+      ],
+      "DEF_EN":"The citizens or inhabitants of a country or state; the general public, often seen as a collective entity.",
+      "DEF_ZH":"一个国家或州的公民或居民；通常指作为集体实体的大众或人民。",
+      "SENT_EN":"The will of the people must be respected by the government.",
+      "SENT_ZH":"人民的意愿必须得到政府的尊重。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "citizenry",
+            "populace",
+            "nation",
+            "public"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a people / peoples",
+      "POS":"n count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "cultural"
+      ],
+      "DEF_EN":"A body of persons united by a common culture, tradition, language, or sense of kinship; an ethnic group or nation.",
+      "DEF_ZH":"因共同文化、传统、语言或血缘关系而团结在一起的一群人；一个民族或国家。",
+      "SENT_EN":"The indigenous peoples of North America have diverse cultures.",
+      "SENT_ZH":"北美原住民拥有多元的文化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ethnic group",
+            "tribe",
+            "nation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"people [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To inhabit or reside in; to provide with inhabitants or populate an area.",
+      "DEF_ZH":"居住于；为……提供居民，使（某地）有人居住。",
+      "SENT_EN":"The island was first peopled by courageous explorers centuries ago.",
+      "SENT_ZH":"这个岛屿几个世纪前首次由勇敢的探险家们居住。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "populate",
+            "inhabit",
+            "settle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,126 @@
+{
+  "WORD":"what",
+  "IPA":"/wʌt/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English hwæt, from Proto-Germanic *hwat, from Proto-Indo-European *kʷod- (the neuter form of the interrogative pronoun *kʷos 'who').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"what [noun/verb phrase]?",
+      "POS":"pronoun, determiner",
+      "POS_TIP":"A pronoun replaces a noun. A determiner introduces a noun and provides information about it.",
+      "TAGS":[
+        "core word",
+        "very common",
+        "interrogative"
+      ],
+      "DEF_EN":"Used to ask for information about something, typically specifying an item, object, or category.",
+      "DEF_ZH":"用于询问关于某事的信息，通常指事物、物体或类别。",
+      "SENT_EN":"What is your name?",
+      "SENT_ZH":"你叫什么名字？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "who",
+            "which",
+            "when",
+            "where",
+            "why",
+            "how"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"what [clause]",
+      "POS":"pronoun",
+      "POS_TIP":"A pronoun replaces a noun.",
+      "TAGS":[
+        "core word",
+        "very common",
+        "relative"
+      ],
+      "DEF_EN":"Used to refer to the thing or things that have been specified or implied; 'the thing that' or 'all that'.",
+      "DEF_ZH":"指代已经明确或暗示的事物；“所……的”或“一切……的”。",
+      "SENT_EN":"Tell me what you want.",
+      "SENT_ZH":"告诉我你想要什么。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "that which"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"What a [noun]!",
+      "POS":"determiner, pronoun",
+      "POS_TIP":"A determiner introduces a noun. A pronoun replaces a noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "exclamatory"
+      ],
+      "DEF_EN":"Used to express strong feeling, often surprise or admiration, especially in exclamations.",
+      "DEF_ZH":"用于表达强烈的情感，常用于感叹句中，表示惊讶或赞叹。",
+      "SENT_EN":"What a beautiful day!",
+      "SENT_ZH":"多么美好的一天啊！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "how"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"What?",
+      "POS":"interjection",
+      "POS_TIP":"An interjection is a word or phrase that expresses a sudden strong feeling or emotion.",
+      "TAGS":[
+        "informal",
+        "very common"
+      ],
+      "DEF_EN":"Used informally to express that one has not heard or understood something and wants it repeated or clarified.",
+      "DEF_ZH":"非正式地用于表示没有听到或不理解某事，并希望对方重复或澄清。",
+      "SENT_EN":"What? I didn't catch that last part.",
+      "SENT_ZH":"什么？我没听清最后那部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pardon?",
+            "excuse me?"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"what with [sth]",
+      "POS":"adverb",
+      "POS_TIP":"An adverb modifies a verb, an adjective, or another adverb, indicating manner, place, time, or degree.",
+      "TAGS":[
+        "less common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to introduce a reason or cause for a particular situation, often implying multiple contributing factors.",
+      "DEF_ZH":"用于引入造成某种情况的原因或理由，常暗示有多个促成因素。",
+      "SENT_EN":"What with all the extra work, I'm exhausted.",
+      "SENT_ZH":"由于所有这些额外的工作，我筋疲力尽。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "given",
+            "considering",
+            "due to"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English, suitable for all contexts from informal to formal, depending on the specific usage."
+}

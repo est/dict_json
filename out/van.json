@@ -1,0 +1,96 @@
+{
+  "WORD":"van",
+  "IPA":"/væn/",
+  "CONJUGATES":"vans",
+  "ETYMOLOGY":"Meaning 1 (Vehicle): Shortening of 'caravan' (originally meaning a covered wagon or enclosed vehicle), dating from the early 19th century. | Meaning 2 (Vanguard): Shortening of 'vanguard', ultimately from Old French avant-garde.",
+  "SINCE":"19th Century (Vehicle); 15th Century (Vanguard)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] van",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "transport"
+      ],
+      "DEF_EN":"A medium-sized motor vehicle, typically larger than a car but smaller than a full-sized truck, used for transporting goods or small groups of people; often enclosed and box-shaped.",
+      "DEF_ZH":"厢式货车；中小型客货两用车；面包车。",
+      "SENT_EN":"The delivery service uses a fleet of small vans for city routes.",
+      "SENT_ZH":"这家送货服务公司使用一队小型厢式货车进行城市路线配送。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "truck",
+            "minivan",
+            "wagon"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "campervan",
+            "caravan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the van (of [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "military",
+        "figurative",
+        "formal",
+        "shortening"
+      ],
+      "DEF_EN":"The forefront, leading part, or vanguard of an army, fleet, or any movement or development.",
+      "DEF_ZH":"先锋；前驱；（军队、舰队或运动的）前部或最前线。",
+      "SENT_EN":"The small research team was in the van of quantum computing breakthroughs.",
+      "SENT_ZH":"这个小型研究团队处于量子计算突破的前沿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vanguard",
+            "forefront",
+            "leading edge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rear",
+            "rearguard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] van",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "British English",
+        "rail",
+        "historical"
+      ],
+      "DEF_EN":"(British) A railway carriage or wagon used for transporting luggage, mail, or goods; sometimes specifically a guard's van.",
+      "DEF_ZH":"（英）铁路货车；行李车厢；（火车上的）守车。",
+      "SENT_EN":"They loaded the theatrical props into the goods van before the journey.",
+      "SENT_ZH":"他们在旅程开始前把戏剧道具装进了铁路货车。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "boxcar",
+            "freight car"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

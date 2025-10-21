@@ -1,0 +1,110 @@
+{
+  "WORD":"default",
+  "IPA":"/dɪˈfɔːlt/",
+  "CONJUGATES":"defaults | defaulting | defaulted",
+  "ETYMOLOGY":"Late Middle English, from Old French defaute (failure, lack), from de- (expressing reversal) + faillir (to fail).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"default [on sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "law"
+      ],
+      "DEF_EN":"Failure to fulfill an obligation, especially the repayment of a loan or the meeting of a legal requirement.",
+      "DEF_ZH":"未履行义务，特指未能偿还贷款或履行法律要求。",
+      "SENT_EN":"The nation risks falling into default on its foreign debt.",
+      "SENT_ZH":"该国面临外债违约的风险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "non-payment",
+            "delinquency",
+            "breach"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "compliance",
+            "fulfillment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"by default",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"A preselected option, setting, or value that is used unless an alternative is specified by the user.",
+      "DEF_ZH":"预设选项、设置或值，除非用户指定其他选项，否则系统会使用此值。",
+      "SENT_EN":"The program automatically saves your work every five minutes by default.",
+      "SENT_ZH":"该程序默认情况下每五分钟自动保存一次您的工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preset",
+            "standard",
+            "baseline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"default [on sth]",
+      "POS":"v. intr.",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "common",
+        "finance"
+      ],
+      "DEF_EN":"To fail to meet a financial obligation, such as making a scheduled payment.",
+      "DEF_ZH":"未能履行财务义务，例如未能按时付款。",
+      "SENT_EN":"If the borrower defaults on the mortgage, the bank will repossess the property.",
+      "SENT_ZH":"如果借款人拖欠抵押贷款，银行将收回房产。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "renege",
+            "fail to pay",
+            "transgress"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"default [setting/option]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"Automatically selected or standard when no choice is made.",
+      "DEF_ZH":"未做选择时自动采用或标准的。",
+      "SENT_EN":"Do you want to change the default browser settings?",
+      "SENT_ZH":"您想更改默认的浏览器设置吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "standard",
+            "automatic",
+            "initial"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Finance, Computing, Law, General Usage"
+}

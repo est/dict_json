@@ -1,0 +1,91 @@
+{
+  "WORD":"argument",
+  "IPA":"/ˈɑːrɡjʊmənt/",
+  "CONJUGATES":"arguments",
+  "ETYMOLOGY":"From Middle English, from Old French *arguement*, from Latin *argumentum* ('proof', 'evidence', 'subject'), from *arguō* ('I argue, prove, accuse').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"argument (about/over sth) | argument (with sb)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "core word",
+        "interpersonal"
+      ],
+      "DEF_EN":"An exchange of diverging or opposite views, typically a heated or angry one; a dispute or quarrel.",
+      "DEF_ZH":"争论；争吵；口角；分歧激烈的讨论",
+      "SENT_EN":"They got into a terrible argument over money last night.",
+      "SENT_ZH":"昨晚他们因为钱的问题大吵了一架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dispute",
+            "quarrel",
+            "row",
+            "altercation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "agreement",
+            "harmony",
+            "consensus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"argument (for/against sth)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "academic",
+        "rhetoric"
+      ],
+      "DEF_EN":"A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.",
+      "DEF_ZH":"论点；论据；理由；说服他人的依据或推理过程",
+      "SENT_EN":"The economist presented a strong argument against the proposed tax increase.",
+      "SENT_ZH":"这位经济学家提出了反对拟议增税的有力论据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thesis",
+            "premise",
+            "case",
+            "rationale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"argument [math/computing]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "specialized"
+      ],
+      "DEF_EN":"An independent variable associated with a function or operation, whose value determines the output.",
+      "DEF_ZH":"(数学/计算机) 自变量；参数；在函数或操作中，确定输出的输入值",
+      "SENT_EN":"The function requires three arguments: the width, the height, and the depth.",
+      "SENT_ZH":"该函数需要三个参数：宽度、高度和深度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "variable",
+            "parameter",
+            "function"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Informal (depending on context)"
+}

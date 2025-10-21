@@ -1,0 +1,148 @@
+{
+  "WORD":"flash",
+  "IPA":"/flæʃ/",
+  "CONJUGATES":"flash | flashes | flashing | flashed",
+  "ETYMOLOGY":"Of uncertain origin, possibly imitative (echoic) of sudden noise or movement, or perhaps related to the earlier Middle English 'flassen' (to splash). The sense relating to a burst of light appeared in the mid-16th century.",
+  "SINCE":"c. 1540",
+  "MEANINGS":[
+    {
+      "PATTERN":"flash",
+      "POS":"vitr",
+      "POS_TIP":"verb (intransitive or transitive)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To shine or emit a sudden, brief, and intense burst of light.",
+      "DEF_ZH":"（使）闪光；（使）突然发亮。",
+      "SENT_EN":"The camera flashed as the celebrity walked past.",
+      "SENT_ZH":"当那位名人走过时，照相机闪了一下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gleam",
+            "glint",
+            "sparkle",
+            "blaze"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a flash [of light/color]",
+      "POS":"n_c",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A sudden, brief occurrence or appearance of light, color, or fire.",
+      "DEF_ZH":"闪光；闪烁；（颜色等的）一瞬间的显示。",
+      "SENT_EN":"A sudden flash of lightning illuminated the entire room.",
+      "SENT_ZH":"一道突然的闪电照亮了整个房间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "burst",
+            "flare",
+            "streak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"flash [sth] at [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To display something very quickly or prominently, often to prove identity or attract attention.",
+      "DEF_ZH":"快速地出示；突然亮出（证件、身体部位等）。",
+      "SENT_EN":"The detective flashed his badge and asked to see the file.",
+      "SENT_ZH":"侦探迅速亮出徽章，要求查看文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exhibit",
+            "show",
+            "present"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"flash [by/past/across]",
+      "POS":"vitr",
+      "POS_TIP":"verb (intransitive)",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To move, pass, or appear suddenly or very quickly.",
+      "DEF_ZH":"疾驰；飞快地掠过；（想法）突然闪现。",
+      "SENT_EN":"The car flashed past us on the motorway, going over the speed limit.",
+      "SENT_ZH":"那辆车在高速公路上飞驰而过，超速了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dart",
+            "zoom",
+            "whiz"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a flash of [sth]",
+      "POS":"n_c",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A sudden, brief instance of feeling, thought, or realization.",
+      "DEF_ZH":"一瞬间；突如其来的感觉或想法。",
+      "SENT_EN":"He had a flash of inspiration just before the deadline.",
+      "SENT_ZH":"在截止日期前，他突然灵光一现。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moment",
+            "instant",
+            "glimpse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"flash memory | flash drive",
+      "POS":"n_u | adj",
+      "POS_TIP":"uncountable noun or adjective",
+      "TAGS":[
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"A type of non-volatile electronic computer memory that can be quickly erased and reprogrammed.",
+      "DEF_ZH":"闪存；闪存技术（例如用于USB驱动器）。",
+      "SENT_EN":"Do you prefer an external hard drive or a large capacity flash drive?",
+      "SENT_ZH":"你更喜欢外部硬盘还是大容量闪存盘？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "USB",
+            "SSD",
+            "storage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical"
+}

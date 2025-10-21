@@ -1,0 +1,112 @@
+{
+  "WORD":"affect",
+  "IPA":"/əˈfɛkt/",
+  "CONJUGATES":"affects | affected | affecting",
+  "ETYMOLOGY":"From Middle English, derived from Latin afficere (ad- 'to' + facere 'to do, make'), meaning 'to do something to, act on, influence'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"affect [sb] | affect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To have an influence on or impact something or someone, causing a change or response.",
+      "DEF_ZH":"影响；对...起作用；感染",
+      "SENT_EN":"The economic downturn profoundly affected the housing market.",
+      "SENT_ZH":"经济衰退深刻地影响了房地产市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "influence",
+            "impact",
+            "act upon",
+            "sway"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "spare",
+            "leave alone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"affect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To adopt a false or unnatural appearance, manner, or attitude, often to impress others; to feign.",
+      "DEF_ZH":"假装；装出；故作",
+      "SENT_EN":"She affected a sophisticated French accent when speaking to journalists.",
+      "SENT_ZH":"她在与记者交谈时，故作一种老练的法国口音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "feign",
+            "assume",
+            "simulate",
+            "pretend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"affect",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "psychology",
+        "medical"
+      ],
+      "DEF_EN":"(Psychology) The observable, external expression of emotion; the outward manifestation of feeling, often assessed clinically.",
+      "DEF_ZH":"(心理学) 情感；情绪（指外在表现，与内在情绪 mood 不同）",
+      "SENT_EN":"The therapist noted that the patient displayed a blunted affect throughout the session.",
+      "SENT_ZH":"治疗师注意到病人在整个疗程中表现出迟钝的情感表现。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "emotion",
+            "mood",
+            "feeling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"affect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "old word",
+        "literary"
+      ],
+      "DEF_EN":"To have a special liking or preference for.",
+      "DEF_ZH":"喜爱；倾向于；选择 (旧式用法)",
+      "SENT_EN":"He affects old Italian paintings and spends his leisure visiting galleries.",
+      "SENT_ZH":"他喜爱古老的意大利绘画，并花时间参观画廊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prefer",
+            "fancy",
+            "like"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard (Verb 1); Formal/Technical (Verb 2, Noun)"
+}

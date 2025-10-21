@@ -1,0 +1,65 @@
+{
+  "WORD":"convict",
+  "IPA":"verb: /kənˈvɪkt/ | noun: /ˈkɒnvɪkt/",
+  "CONJUGATES":"verb: convicts | convicted | convicting | noun: convicts",
+  "ETYMOLOGY":"From Latin *convictus*, past participle of *convincere* ('to overcome, refute, prove guilty'), from *con-* (intensive prefix) + *vincere* ('to conquer').",
+  "SINCE":"Late Middle English (14th-15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"convict [sb] of [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more direct objects.",
+      "TAGS":[
+        "core word",
+        "legal term",
+        "common"
+      ],
+      "DEF_EN":"To declare someone guilty of a criminal offense by the verdict of a jury or the decision of a judge.",
+      "DEF_ZH":"经法庭裁决或法官判决，宣告某人犯有刑事罪。",
+      "SENT_EN":"The jury took only two hours to convict him of murder.",
+      "SENT_ZH":"陪审团只用了两小时就裁定他犯有谋杀罪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "find guilty",
+            "condemn"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "acquit",
+            "exonerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] convict",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "legal term",
+        "common"
+      ],
+      "DEF_EN":"A person found guilty of a criminal offense and serving a sentence of imprisonment.",
+      "DEF_ZH":"被判有罪并正在服刑的犯人。",
+      "SENT_EN":"He spent ten years as a convict in a maximum-security prison.",
+      "SENT_ZH":"他作为一名囚犯在戒备森严的监狱里度过了十年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prisoner",
+            "inmate",
+            "felon",
+            "culprit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal in legal contexts (verb), common in general usage (noun)."
+}

@@ -1,0 +1,104 @@
+{
+  "WORD":"virtual",
+  "IPA":"/ˈvɜːrtʃuəl/",
+  "CONJUGATES":"virtually (adv) | virtuality (n) | virtualize (v)",
+  "ETYMOLOGY":"From Medieval Latin *virtualis*, derived from Latin *virtus* ('strength, power, excellence, virtue'). Originally meaning 'possessing certain operative virtues or powers' (c. 1400), later evolving to 'being in effect, though not formally recognized' (17th century), and finally to the computing sense (20th century).",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"a virtual [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "general usage"
+      ],
+      "DEF_EN":"Being nearly or almost the thing specified; existing in effect or essence, though not strictly in fact or name.",
+      "DEF_ZH":"实际上的；差不多就是的；等同于的",
+      "SENT_EN":"After years of lobbying, the small neighborhood achieved virtual autonomy.",
+      "SENT_ZH":"经过多年的游说，这个小社区获得了实质上的自治权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "effective",
+            "practical",
+            "tantamount",
+            "near"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "actual",
+            "real"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"virtual [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"Created, simulated, or carried on by means of a computer, especially over a network; not physically existing but appearing to do so.",
+      "DEF_ZH":"虚拟的；仿真的；通过计算机技术生成的",
+      "SENT_EN":"The company decided to hold a virtual conference this year instead of an in-person meeting.",
+      "SENT_ZH":"该公司决定今年举办一次虚拟会议，而不是面对面会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "simulated",
+            "digital",
+            "cyber"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "physical",
+            "tangible",
+            "actual"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "VR",
+            "metaverse",
+            "holographic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"virtual [sth] (image/particle)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "specialized",
+        "physics",
+        "optics"
+      ],
+      "DEF_EN":"(In optics) Describing an image formed by the apparent intersection of light rays that cannot be projected onto a screen; (In physics) describing particles that exist only temporarily as mediators of a force.",
+      "DEF_ZH":"虚的；假想的（指光学中的虚像或物理学中的虚粒子）",
+      "SENT_EN":"A plane mirror always produces an upright virtual image of the same size as the object.",
+      "SENT_ZH":"平面镜总是产生与物体大小相同的直立虚像。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "real"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (especially Information Technology)"
+}

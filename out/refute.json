@@ -1,0 +1,68 @@
+{
+  "WORD":"refute",
+  "IPA":"/rɪˈfjuːt/",
+  "CONJUGATES":"refutes | refuting | refuted",
+  "ETYMOLOGY":"From Late Latin *refūtāre* 'to repel, suppress, disprove', formed from *re-* (back, against) + *futāre* (to beat, strike).",
+  "SINCE":"Late 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"refute [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Formal",
+        "Academic"
+      ],
+      "DEF_EN":"To prove that a statement, claim, theory, or argument is wrong or false.",
+      "DEF_ZH":"驳斥；用证据证明（某个言论、理论或指控）是错误的。",
+      "SENT_EN":"The new archaeological evidence successfully refuted the long-held hypothesis.",
+      "SENT_ZH":"新的考古证据成功地驳斥了那个长期存在的假设。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disprove",
+            "rebut",
+            "invalidate",
+            "negate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "confirm",
+            "substantiate",
+            "verify",
+            "uphold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"refute [sth] (often a claim or accusation)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Common",
+        "Journalistic",
+        "Often misused"
+      ],
+      "DEF_EN":"To deny the truth or validity of an accusation or claim (although technically, 'refute' implies presenting counter-evidence, while 'deny' does not).",
+      "DEF_ZH":"否认（指控或传言），尤其指通过反驳来否认其真实性。",
+      "SENT_EN":"The CEO issued a statement immediately to refute the rumors of financial misconduct.",
+      "SENT_ZH":"首席执行官立即发表声明，否认有关财务不当行为的传言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deny",
+            "reject",
+            "gainsay"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used primarily in formal and journalistic contexts when challenging a statement's veracity."
+}

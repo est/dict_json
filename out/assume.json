@@ -1,0 +1,88 @@
+{
+  "WORD":"assume",
+  "IPA":"/əˈsuːm/",
+  "CONJUGATES":"assuming | assumed | assumes",
+  "ETYMOLOGY":"From Middle English assumen, from Old French assumer, from Latin assumere (ad- 'to' + sumere 'take up, seize'). Originally meant 'to take up' or 'to claim'.",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"assume (that) [clause] | assume [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To suppose or accept that something is true without proof or certainty.",
+      "DEF_ZH":"假定；假设；认为（没有确凿证据）",
+      "SENT_EN":"I assumed he was coming, so I didn't call him to confirm.",
+      "SENT_ZH":"我以为他会来，所以就没有打电话向他确认。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "presume",
+            "suppose",
+            "guess",
+            "conjecture"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "verify",
+            "prove"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assume [sth] (role/responsibility)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"To take or begin to have power, responsibility, or a role.",
+      "DEF_ZH":"承担；担任；接管（权力、职责或角色）",
+      "SENT_EN":"The new manager will assume full responsibility for the department next month.",
+      "SENT_ZH":"新任经理将于下个月承担该部门的全部责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "undertake",
+            "take up",
+            "shoulder",
+            "accede"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assume [sth] (appearance/quality)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To take on a particular appearance, quality, or form.",
+      "DEF_ZH":"呈现；采取；显现（某一形态、特征或姿势）",
+      "SENT_EN":"The chemical assumes a toxic state when mixed with water.",
+      "SENT_ZH":"这种化学物质与水混合后会呈现出有毒状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adopt",
+            "acquire",
+            "take on"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and formal usage, depending on context."
+}

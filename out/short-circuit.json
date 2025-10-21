@@ -1,0 +1,79 @@
+{
+  "WORD":"short-circuit",
+  "IPA":"/ˈʃɔːrtˌsɜːrkɪt/",
+  "CONJUGATES":"noun: short-circuits | verb: short-circuits | short-circuiting | short-circuited",
+  "ETYMOLOGY":"Compound of 'short' and 'circuit', referring to an electrical path that is shorter than intended, thereby having less resistance.",
+  "SINCE":"Late 19th century (noun), early 20th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a short-circuit",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "electrical engineering"
+      ],
+      "DEF_EN":"An accidental low-resistance connection formed between two points in an electrical circuit, especially one that causes damage, overheating, or a power outage.",
+      "DEF_ZH":"电路中两点之间形成的意外低电阻连接，尤其指导致损坏、过热或停电的连接。",
+      "SENT_EN":"The flickering lights were caused by a short-circuit in the wiring.",
+      "SENT_ZH":"灯光闪烁是由于线路中的短路引起的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "electrical fault",
+            "overload"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"short-circuit [sth]",
+      "POS":"verb",
+      "POS_TIP":"A word that describes an action, state, or occurrence, and forming the main part of the predicate of a sentence.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "electrical engineering"
+      ],
+      "DEF_EN":"To create or undergo a short-circuit; to cause an electrical current to follow an unintended, low-resistance path.",
+      "DEF_ZH":"使（电路）短路；发生短路；使电流通过非预期的低电阻路径。",
+      "SENT_EN":"He accidentally short-circuited the main power supply.",
+      "SENT_ZH":"他意外地使主电源短路了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"short-circuit [sth]",
+      "POS":"verb",
+      "POS_TIP":"A word that describes an action, state, or occurrence, and forming the main part of the predicate of a sentence.",
+      "TAGS":[
+        "common",
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To bypass or avoid a normal or lengthy procedure or process, often with an undesirable or incomplete outcome.",
+      "DEF_ZH":"跳过或避免正常的或冗长的程序或过程，通常会导致不理想或不完整的结果。",
+      "SENT_EN":"The new manager tried to short-circuit the usual decision-making process, causing some discontent.",
+      "SENT_ZH":"新经理试图跳过常规的决策过程，引起了一些不满。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bypass",
+            "circumvent",
+            "cut corners"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "follow procedure",
+            "go through channels"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Mainly technical in its literal electrical sense, but also widely used figuratively in general conversation and writing."
+}

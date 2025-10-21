@@ -1,0 +1,87 @@
+{
+  "WORD":"clang",
+  "IPA":"/klæŋ/",
+  "CONJUGATES":"clangs | clanging | clanged",
+  "ETYMOLOGY":"Mid 16th century: imitative. Compare Dutch klinken, German klingen 'to sound, clink'.",
+  "SINCE":"mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] clangs",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb (a verb that does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "onomatopoeic"
+      ],
+      "DEF_EN":"To make a loud, resonant metallic sound.",
+      "DEF_ZH":"发出响亮的金属碰撞声；铿锵作响",
+      "SENT_EN":"The old factory bell clanged loudly.",
+      "SENT_ZH":"旧工厂的钟发出响亮的铿锵声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ring",
+            "chime",
+            "peal",
+            "resound",
+            "jangle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clang [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (a verb that takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "onomatopoeic"
+      ],
+      "DEF_EN":"To cause something to make a loud, resonant metallic sound.",
+      "DEF_ZH":"使（某物）发出响亮的金属碰撞声",
+      "SENT_EN":"The guard clanged the prison gate shut.",
+      "SENT_ZH":"警卫将监狱大门咣当一声关上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bang",
+            "slam",
+            "crash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a clang",
+      "POS":"n",
+      "POS_TIP":"noun (a word that names a person, place, thing, or idea)",
+      "TAGS":[
+        "core word",
+        "common",
+        "onomatopoeic"
+      ],
+      "DEF_EN":"A loud, resonant metallic sound.",
+      "DEF_ZH":"响亮的金属碰撞声；铿锵声",
+      "SENT_EN":"We heard the clang of the hammer against the anvil.",
+      "SENT_ZH":"我们听到锤子敲击铁砧的铿锵声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ring",
+            "chime",
+            "peal",
+            "rattle",
+            "din",
+            "jangle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

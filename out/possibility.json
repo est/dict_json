@@ -1,0 +1,74 @@
+{
+  "WORD":"possibility",
+  "IPA":"/ˌpɑːsəˈbɪlɪti/",
+  "CONJUGATES":"possibilities (plural)",
+  "ETYMOLOGY":"From Old French *possibilite* (13th century), derived from Latin *possibilitās*, meaning 'capability of being possible,' from *possibilis* ('possible').",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"possibility",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"The state or fact of being able to happen, exist, or be done; potential.",
+      "DEF_ZH":"可能发生、存在或被完成的状态；潜在性；可行性。",
+      "SENT_EN":"There is always the possibility of human error in complex systems.",
+      "SENT_ZH":"在复杂的系统中，人为错误的可能性始终存在。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "potential",
+            "prospect",
+            "likelihood",
+            "probability"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "impossibility",
+            "certainty",
+            "inevitability"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a possibility | possibilities",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "concrete"
+      ],
+      "DEF_EN":"A thing that may be chosen or done; a choice or alternative.",
+      "DEF_ZH":"可能发生或选择的一件事物；一种选择或方案。",
+      "SENT_EN":"We need to explore all the possibilities before making a final decision.",
+      "SENT_ZH":"在做出最终决定之前，我们需要探索所有的可能性（方案）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "option",
+            "alternative",
+            "choice",
+            "scenario"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fixed point",
+            "necessity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in academic and formal discussions."
+}

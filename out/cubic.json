@@ -1,0 +1,109 @@
+{
+  "WORD":"cubic",
+  "IPA":"/ˈkjuːbɪk/",
+  "CONJUGATES":"cubically (adv) | cubicity (n)",
+  "ETYMOLOGY":"From Latin cubus 'cube' + -ic (adjective forming suffix), derived ultimately from Greek kúbos.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"cubic",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "geometry"
+      ],
+      "DEF_EN":"Having the shape of a cube; relating to a cube.",
+      "DEF_ZH":"立方体的；正方体的；呈六面体形状的。",
+      "SENT_EN":"The artist designed a series of cubic sculptures.",
+      "SENT_ZH":"这位艺术家设计了一系列立方体雕塑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cubical",
+            "block-shaped",
+            "square"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cube",
+            "hexahedral"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cubic [unit]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "measurement",
+        "mathematics"
+      ],
+      "DEF_EN":"Used in the measurement of volume, calculated by raising a linear unit to the third power (length × width × height).",
+      "DEF_ZH":"(用于体积单位) 立方的；三维的。",
+      "SENT_EN":"The reservoir has a capacity of 5,000 cubic meters.",
+      "SENT_ZH":"这个水库的容量为5000立方米。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "volume",
+            "square",
+            "linear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cubic [equation/function]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "algebra"
+      ],
+      "DEF_EN":"Relating to a quantity raised to the power of three, or an algebraic term of the third degree (e.g., x³).",
+      "DEF_ZH":"(代数) 三次的；含有或涉及三次方变量的。",
+      "SENT_EN":"We need to analyze the roots of the cubic function.",
+      "SENT_ZH":"我们需要分析这个三次函数的根。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "quadratic",
+            "polynomial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cubic [system/crystal]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "crystallography",
+        "chemistry"
+      ],
+      "DEF_EN":"Denoting a crystal system (isomeric system) in which the three axes are of equal length and intersect at right angles.",
+      "DEF_ZH":"(晶体学) 立方晶系的。",
+      "SENT_EN":"Iron often solidifies into a body-centered cubic structure.",
+      "SENT_ZH":"铁通常会凝固成体心立方结构。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "crystal lattice",
+            "tetragonal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Mathematics, Science)"
+}

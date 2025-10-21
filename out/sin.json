@@ -1,0 +1,122 @@
+{
+  "WORD":"sin",
+  "IPA":"/sɪn/",
+  "CONJUGATES":"sins | sinned | sinning",
+  "ETYMOLOGY":"From Old English 'synn', from Proto-Germanic '*sunjō' (offence, sin), from Proto-Indo-European '*s-nt-' (being, truth).",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] sin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "religious",
+        "common"
+      ],
+      "DEF_EN":"A transgression against divine or moral law; an immoral act.",
+      "DEF_ZH":"违反神圣或道德律法的行为；不道德的行为。",
+      "SENT_EN":"He confessed his sins to the priest and sought forgiveness.",
+      "SENT_ZH":"他向牧师忏悔了自己的罪过并寻求宽恕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transgression",
+            "offence",
+            "wrongdoing",
+            "misdeed",
+            "trespass"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "virtue",
+            "righteousness",
+            "goodness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] sin",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "religious",
+        "common"
+      ],
+      "DEF_EN":"To commit an act that is a transgression against divine or moral law.",
+      "DEF_ZH":"犯下违反神圣或道德律法的行为。",
+      "SENT_EN":"To err is human, to forgive divine; we all sin sometimes.",
+      "SENT_ZH":"犯错乃人之常情，宽恕则属神性；我们都会有犯错的时候。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transgress",
+            "offend",
+            "err"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "abide",
+            "obey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "common"
+      ],
+      "DEF_EN":"A regrettable or shameful act; a great pity or shame.",
+      "DEF_ZH":"一个令人遗憾或羞耻的行为；莫大的遗憾或耻辱。",
+      "SENT_EN":"It would be a sin to waste such a beautiful day indoors.",
+      "SENT_ZH":"在室内虚度如此美好的一天将是一种罪过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shame",
+            "pity",
+            "disgrace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sin [angle]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "abbreviation"
+      ],
+      "DEF_EN":"In mathematics, the abbreviation for the sine function, which in a right triangle is the ratio of the length of the side opposite the angle to the length of the hypotenuse.",
+      "DEF_ZH":"在数学中，正弦函数的缩写，直角三角形中指一个角的对边与斜边长度之比。",
+      "SENT_EN":"The value of sin 30 degrees is 0.5.",
+      "SENT_ZH":"sin 30度的值为0.5。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sine",
+            "cosine",
+            "tangent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The primary meanings are common in religious and general contexts. The mathematical meaning is specific to technical/academic usage."
+}

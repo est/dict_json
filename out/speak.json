@@ -1,0 +1,136 @@
+{
+  "WORD":"speak",
+  "IPA":"/spiːk/",
+  "CONJUGATES":"speaks | speaking | spoke | spoken",
+  "ETYMOLOGY":"From Old English `sprecan`, `specan` (Mercian `specan`, West Saxon `sprecan`) 'to utter words, to talk, to converse, to say, tell, declare'. From Proto-Germanic `*sprekanan`.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] speaks | [sb] speaks to [sb] | [sb] speaks with [sb] | [sb] speaks about [sth]",
+      "POS":"verb (intransitive)",
+      "POS_TIP":"An intransitive verb does not take a direct object; it often expresses an action or state of being that affects the subject.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To utter words; to use one's voice to produce sounds that express thoughts, feelings, or information.",
+      "DEF_ZH":"发出词语；说话；用声音表达思想、感情或信息。",
+      "SENT_EN":"He didn't speak much during the meeting, preferring to listen.",
+      "SENT_ZH":"他在会议期间没怎么说话，更喜欢倾听。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "talk",
+            "converse",
+            "articulate",
+            "utter"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "be silent",
+            "keep quiet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] speaks [language]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A transitive verb takes a direct object; the action of the verb is performed on something or someone.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To be able to use a particular language to communicate.",
+      "DEF_ZH":"能用某种语言进行交流。",
+      "SENT_EN":"Do you speak French, or should I find an interpreter?",
+      "SENT_ZH":"你会说法语吗，还是我需要找个翻译？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bilingual",
+            "multilingual",
+            "linguist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] speaks at [event] | [sb] speaks on [topic]",
+      "POS":"verb (intransitive)",
+      "POS_TIP":"An intransitive verb does not take a direct object; it often expresses an action or state of being that affects the subject.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To deliver a formal address or lecture, typically to an audience.",
+      "DEF_ZH":"发表正式讲话或演说，通常是对听众。",
+      "SENT_EN":"The CEO is scheduled to speak at the annual conference.",
+      "SENT_ZH":"首席执行官定于在年度会议上发表演讲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lecture",
+            "address",
+            "orate",
+            "present"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] speaks volumes | [actions] speak louder than words",
+      "POS":"verb (intransitive, figurative)",
+      "POS_TIP":"An intransitive verb does not take a direct object. 'Figurative' means used in a non-literal sense to create an image or convey a meaning beyond the literal words.",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To convey information or express something indirectly through actions, appearance, or circumstances, often more powerfully than words.",
+      "DEF_ZH":"通过行动、外表或情境间接传达信息或表达某事，往往比言语更有力。",
+      "SENT_EN":"Her consistent hard work speaks volumes about her dedication.",
+      "SENT_ZH":"她一贯的努力工作充分说明了她的奉献精神。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggest",
+            "indicate",
+            "express",
+            "convey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] speaks to [sb]",
+      "POS":"verb (intransitive, figurative)",
+      "POS_TIP":"An intransitive verb does not take a direct object. 'Figurative' means used in a non-literal sense to create an image or convey a meaning beyond the literal words.",
+      "TAGS":[
+        "figurative",
+        "less common"
+      ],
+      "DEF_EN":"To appeal to or resonate with someone on an emotional or intellectual level; to be highly relevant or meaningful to someone.",
+      "DEF_ZH":"在情感或智力层面引起某人的共鸣；对某人来说高度相关或有意义。",
+      "SENT_EN":"The artist's latest work really speaks to my soul.",
+      "SENT_ZH":"这位艺术家最新的作品真的触动了我的灵魂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resonate",
+            "appeal",
+            "connect",
+            "relate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

@@ -1,0 +1,113 @@
+{
+  "WORD":"clamp",
+  "IPA":"/klæmp/",
+  "CONJUGATES":"clamps | clamping | clamped",
+  "ETYMOLOGY":"Middle English *clampa*, possibly from Low German or Dutch *klampe* (a clamp or cleat), related to Old High German *klamma* (fetter, trap) and the verb *klemmen* (to pinch or grip).",
+  "SINCE":"15th century (as a noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"clamp",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "tool",
+        "hardware"
+      ],
+      "DEF_EN":"A device, typically of wood or metal, used to hold things tightly together or to fasten them to a work surface.",
+      "DEF_ZH":"夹具；钳子；（用于将物体紧紧固定在一起或固定在工作台上的）夹钳。",
+      "SENT_EN":"The carpenter used several clamps to secure the frame while the glue set.",
+      "SENT_ZH":"木匠使用了好几个夹钳来固定框架，直到胶水凝固。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vice",
+            "clip",
+            "fastener",
+            "brace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clamp [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To fasten or hold something firmly using a clamp or by applying strong pressure.",
+      "DEF_ZH":"用夹钳夹紧；紧紧地夹住或固定住。",
+      "SENT_EN":"He clamped the pipe in the vice before filing it down.",
+      "SENT_ZH":"他先将管子夹紧在虎钳里，然后才开始打磨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fasten",
+            "secure",
+            "grip",
+            "clench"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "release",
+            "unfasten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clamp down (on [sth])",
+      "POS":"v. + adv. (phrasal verb)",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "idiomatic",
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To enforce stricter laws or rules, or to take firm action to prevent unwelcome activity.",
+      "DEF_ZH":"采取严厉措施；严加限制或镇压（尤指违法或不良行为）。",
+      "SENT_EN":"The authorities decided to clamp down on illegal street trading.",
+      "SENT_ZH":"当局决定严厉打击非法街头贸易。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crack down",
+            "impose controls",
+            "put a stop to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clamp",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "law enforcement",
+        "slang"
+      ],
+      "DEF_EN":"A wheel clamp, a device attached to a vehicle's wheel to prevent movement, typically used by police or parking enforcement to punish illegal parking.",
+      "DEF_ZH":"（阻止违章车辆移动的）车轮锁；轮胎锁。",
+      "SENT_EN":"If you park in a forbidden zone, you risk getting a clamp on your car.",
+      "SENT_ZH":"如果你把车停在禁区，你的车可能会被锁上轮胎锁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wheel lock",
+            "boot"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (mechanics, carpentry), and informal (when used idiomatically)."
+}

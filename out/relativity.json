@@ -1,0 +1,71 @@
+{
+  "WORD":"relativity",
+  "IPA":"/ˌrɛləˈtɪvəti/",
+  "CONJUGATES":"relativities (plural)",
+  "ETYMOLOGY":"From English 'relative' + suffix '-ity'. 'Relative' from Old French 'relatif', from Late Latin 'relativus' ('having reference to'), from Latin 'relatus', past participle of 'referre' ('bring back, refer').",
+  "SINCE":"Late 17th century (general sense), early 20th century (physics sense).",
+  "MEANINGS":[
+    {
+      "PATTERN":"relativity of [sth] | relativity [between sth and sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "abstract",
+        "formal"
+      ],
+      "DEF_EN":"The state or fact of being relative or dependent on something else; the interdependence of elements.",
+      "DEF_ZH":"相对性；相关性；依赖性。指事物之间相互关联、相互依赖的性质或状态。",
+      "SENT_EN":"The relativity of beauty means that what one person finds appealing, another may not.",
+      "SENT_ZH":"美的相对性意味着一个人觉得有吸引力的东西，另一个人可能不觉得。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dependence",
+            "interdependence",
+            "correlation",
+            "contingency"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "absolutism",
+            "independence",
+            "objectivity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"theory of relativity | principle of relativity",
+      "POS":"n.",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "scientific",
+        "physics",
+        "core concept"
+      ],
+      "DEF_EN":"The theories developed by Albert Einstein, comprising the special theory of relativity (1905) and the general theory of relativity (1915), which radically altered our understanding of space, time, gravity, and the universe.",
+      "DEF_ZH":"相对论。由阿尔伯特·爱因斯坦提出的关于时空、引力以及宇宙结构的一系列物理理论，包括狭义相对论和广义相对论。",
+      "SENT_EN":"Einstein's theory of relativity revolutionized physics in the 20th century by demonstrating the equivalence of mass and energy.",
+      "SENT_ZH":"爱因斯坦的相对论通过证明质量和能量的等价性，在20世纪彻底改变了物理学。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Einstein",
+            "special relativity",
+            "general relativity",
+            "quantum mechanics",
+            "space-time",
+            "gravity",
+            "mass-energy equivalence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, academic, scientific."
+}

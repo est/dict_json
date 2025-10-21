@@ -1,0 +1,78 @@
+{
+  "WORD":"specify",
+  "IPA":"/ˈspɛsɪfaɪ/",
+  "CONJUGATES":"specifies | specifying | specified",
+  "ETYMOLOGY":"From Old French 'specifier', from Late Latin 'specificare' ('to specify', from Latin 'species' 'kind, sort' + 'facere' 'to make').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"specify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To state or describe something clearly and exactly.",
+      "DEF_ZH":"清楚而准确地说明或描述某事。",
+      "SENT_EN":"Please specify the exact dimensions you require for the custom order.",
+      "SENT_ZH":"请您详细说明定制订单所需的具体尺寸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "state",
+            "stipulate",
+            "define",
+            "detail",
+            "designate",
+            "name",
+            "identify",
+            "particularize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "generalize",
+            "omit",
+            "hint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"specify [sth] | specify that...",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To include something as a condition or requirement in a contract, agreement, or instruction.",
+      "DEF_ZH":"在合同、协议或指示中作为条件或要求列明或规定。",
+      "SENT_EN":"The contract specifies that the work must be completed by the end of the month.",
+      "SENT_ZH":"合同规定工作必须在本月底前完成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stipulate",
+            "prescribe",
+            "mandate",
+            "require",
+            "dictate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "specification",
+            "specific"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Formal"
+}

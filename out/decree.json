@@ -1,0 +1,99 @@
+{
+  "WORD":"decree",
+  "IPA":"/dɪˈkriː/",
+  "CONJUGATES":"decrees | decreed | decreeing",
+  "ETYMOLOGY":"From Old French décret ('order, decree'), from Latin decretum ('decision, judgment'), neuter past participle of decernere ('to decide, determine'), from de- ('down, completely') + cernere ('to sift, separate, decide').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] decree [by sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"An official order or command issued by a legal authority.",
+      "DEF_ZH":"由法律权威发布的正式命令或指令。",
+      "SENT_EN":"The government issued a decree banning the import of certain goods.",
+      "SENT_ZH":"政府颁布了一项法令，禁止进口某些商品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "edict",
+            "order",
+            "command",
+            "mandate",
+            "fiat"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "law",
+            "statute",
+            "ruling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"decree [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To order something officially and authoritatively.",
+      "DEF_ZH":"正式且权威地命令某事。",
+      "SENT_EN":"The king decreed that all subjects must pay the new tax.",
+      "SENT_ZH":"国王下令所有臣民必须缴纳新税。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ordain",
+            "command",
+            "order",
+            "enact",
+            "proclaim"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "repeal",
+            "rescind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"decree [that clause]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To determine or establish by authoritative order; to destine.",
+      "DEF_ZH":"通过权威命令决定或确立；注定。",
+      "SENT_EN":"Fate decreed that they should never meet again.",
+      "SENT_ZH":"命运注定了他们再也不会相见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "destine",
+            "predetermine",
+            "ordain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or legal contexts, often related to government, religion, or historical events."
+}

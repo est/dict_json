@@ -1,0 +1,76 @@
+{
+  "WORD":"antenna",
+  "IPA":"/ænˈtɛnə/",
+  "CONJUGATES":"antennae | antennas",
+  "ETYMOLOGY":"From Latin *antenna* 'sail yard' (a spar extending from a mast), plural *antennae*. Later adopted in 17th century for insect feelers and then in 19th century for radio devices due to structural resemblance.",
+  "SINCE":"Late 17th century (biological sense); late 19th century (radio sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"an antenna",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "biology",
+        "core word",
+        "animal anatomy",
+        "scientific"
+      ],
+      "DEF_EN":"A pair of long, thin sensory appendages on the heads of insects, myriapods, and crustaceans, used for touch, smell, and sometimes hearing.",
+      "DEF_ZH":"昆虫、多足类动物和甲壳类动物头部的一对细长感觉器官，用于触觉、嗅觉，有时也用于听觉，俗称触角。",
+      "SENT_EN":"The moth waved its feathery antennae to detect the pheromones of a potential mate.",
+      "SENT_ZH":"飞蛾挥舞着它羽毛状的触角，以探测潜在配偶的信息素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "feeler",
+            "palp"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "arthropod",
+            "insect",
+            "crustacean"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an antenna",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "technology",
+        "electronics",
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"A metallic device for transmitting or receiving radio waves, used for broadcasting or communication.",
+      "DEF_ZH":"用于发送或接收无线电波的金属装置，用于广播或通信，俗称天线。",
+      "SENT_EN":"The car radio needs a new antenna to improve signal reception.",
+      "SENT_ZH":"汽车收音机需要一个新天线来改善信号接收。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aerial",
+            "receiver",
+            "transmitter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "radio",
+            "signal",
+            "broadcast",
+            "wavelength"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical and scientific contexts for each meaning."
+}

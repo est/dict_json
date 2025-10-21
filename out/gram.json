@@ -1,0 +1,68 @@
+{
+  "WORD":"gram",
+  "IPA":"/ɡræm/",
+  "CONJUGATES":"gram | grams",
+  "ETYMOLOGY":"From French gramme, from Late Latin gramma 'a small weight, a scruple', from Ancient Greek grámma (γράμμα) 'small weight', literally 'that which is written, a letter', from gráphein (γράφειν) 'to write'. The modern metric unit sense was adopted in France in 1795.",
+  "SINCE":"Late 18th century (for the metric unit)",
+  "MEANINGS":[
+    {
+      "PATTERN":"gram | [number] gram(s)",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "unit of measurement",
+        "scientific"
+      ],
+      "DEF_EN":"A metric unit of mass, equal to one thousandth of a kilogram (approximately 0.035 ounces).",
+      "DEF_ZH":"克，公克 (国际单位制中质量单位，等于千分之一千克，约合0.035盎司)",
+      "SENT_EN":"The recipe calls for 200 grams of flour.",
+      "SENT_ZH":"这个食谱需要200克面粉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "g"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "kilogram",
+            "milligram",
+            "mass",
+            "weight",
+            "ounce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a gram [of cannabis]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "informal",
+        "slang",
+        "drug culture"
+      ],
+      "DEF_EN":"An informal term for a gram of cannabis, especially when sold.",
+      "DEF_ZH":"（俚语）一克大麻（尤指售卖时）",
+      "SENT_EN":"He paid $20 for a gram of weed.",
+      "SENT_ZH":"他花20美元买了一克大麻。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cannabis",
+            "weed",
+            "pot",
+            "herb"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to Technical (for unit of mass); Informal (for cannabis slang)"
+}

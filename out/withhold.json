@@ -1,0 +1,65 @@
+{
+  "WORD":"withhold",
+  "IPA":"/wɪðˈhoʊld/",
+  "CONJUGATES":"withholds | withholding | withheld",
+  "ETYMOLOGY":"From Old English wiþhaldan (wiþ- 'against, back' + haldan 'to hold'), meaning literally 'to hold against' or 'keep back'.",
+  "SINCE":"c. 10th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"withhold [sth] [from sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To refuse to give or allow (something that is due, desired, or necessary), especially information, approval, or consent.",
+      "DEF_ZH":"拒绝给予；保留；不授予（尤指信息、同意或批准）。",
+      "SENT_EN":"The company chose to withhold the specific financial details from the public report.",
+      "SENT_ZH":"该公司选择在公开报告中保留具体的财务细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "keep back",
+            "suppress",
+            "reserve",
+            "refuse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "provide",
+            "grant",
+            "release",
+            "reveal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"withhold [sth] (e.g., tax)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "finance",
+        "technical"
+      ],
+      "DEF_EN":"To deduct money, especially income tax, from a payment such as a salary, before paying the remainder to the recipient.",
+      "DEF_ZH":"代扣（尤指所得税），即在付给收款人之前从薪金或其他款项中预先扣除。",
+      "SENT_EN":"Federal taxes are automatically withheld from your weekly paycheck.",
+      "SENT_ZH":"联邦税会自动从你的每周薪水中扣除。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deduct",
+            "retain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

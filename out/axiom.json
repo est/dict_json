@@ -1,0 +1,67 @@
+{
+  "WORD":"axiom",
+  "IPA":"/ˈæksiəm/",
+  "CONJUGATES":"axioms",
+  "ETYMOLOGY":"From Latin axioma, from Ancient Greek ἀξίωμα (axíōma, 'that which is thought worthy, a self-evident principle'), from ἄξιος (áxios, 'worthy').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"an axiom",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "logic",
+        "mathematics"
+      ],
+      "DEF_EN":"A statement or proposition that is regarded as being established, accepted, or self-evidently true.",
+      "DEF_ZH":"被视为不言自明或普遍接受的真理或命题；公理。",
+      "SENT_EN":"In Euclidean geometry, the statement 'a straight line may be drawn between any two points' is an axiom.",
+      "SENT_ZH":"在欧几里得几何中，“任意两点间可画一条直线”是一个公理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "postulate",
+            "premise",
+            "principle",
+            "tenet"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "theorem",
+            "hypothesis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an axiom",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "general",
+        "formal"
+      ],
+      "DEF_EN":"A universally accepted principle or rule of conduct.",
+      "DEF_ZH":"普遍接受的原则或行为准则。",
+      "SENT_EN":"The belief that 'honesty is the best policy' is a widely held axiom.",
+      "SENT_ZH":"“诚实是最好的策略”这种信念是一个广为接受的准则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maxim",
+            "adage",
+            "proverb",
+            "aphorism"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, academic, general"
+}

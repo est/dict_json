@@ -1,0 +1,85 @@
+{
+  "WORD":"inhibit",
+  "IPA":"/ɪnˈhɪbɪt/",
+  "CONJUGATES":"inhibits | inhibited | inhibiting",
+  "ETYMOLOGY":"From Latin inhibēre 'hold in, restrain', from in- 'in' + habēre 'hold'.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"inhibit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal",
+        "scientific"
+      ],
+      "DEF_EN":"To hinder, restrain, or prevent a process or action from happening or developing.",
+      "DEF_ZH":"抑制；阻止；妨碍（某过程或行动）",
+      "SENT_EN":"The chemical inhibits the growth of weeds.",
+      "SENT_ZH":"这种化学物质抑制杂草生长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hinder",
+            "impede",
+            "obstruct",
+            "hamper",
+            "restrict",
+            "curb",
+            "block"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "facilitate",
+            "encourage",
+            "promote",
+            "stimulate",
+            "aid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inhibit [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "psychological"
+      ],
+      "DEF_EN":"To make someone feel self-conscious, embarrassed, or uncomfortable, causing them to act less naturally or freely.",
+      "DEF_ZH":"使（某人）拘谨；使（某人）有顾虑；使（某人）感到不自在",
+      "SENT_EN":"His shyness inhibited him from expressing his true feelings.",
+      "SENT_ZH":"他的害羞使他无法表达真实的感受。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrain",
+            "repress",
+            "hold back",
+            "discourage",
+            "deter",
+            "embarrass"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "liberate",
+            "embolden",
+            "encourage",
+            "free"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, academic, and scientific contexts are common, but also used in general discourse regarding psychological states."
+}

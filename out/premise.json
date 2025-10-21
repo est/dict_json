@@ -1,0 +1,92 @@
+{
+  "WORD":"premise",
+  "IPA":"/ˈprɛmɪs/",
+  "CONJUGATES":"premises (plural Noun) | premises (3rd person singular present V) | premising (V) | premised (V)",
+  "ETYMOLOGY":"From Middle French prémisse, from Medieval Latin praemissa (propositio) 'proposition placed before', feminine of Latin praemissus, past participle of praemittere 'to send before'.",
+  "SINCE":"Late Middle English (c. 1400s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"premise",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "logic"
+      ],
+      "DEF_EN":"A statement or idea that is assumed to be true and on which an argument, theory, or conclusion is based.",
+      "DEF_ZH":"前提；假設；論據的基礎。",
+      "SENT_EN":"The conclusion of the argument relies entirely upon the validity of its central premise.",
+      "SENT_ZH":"該論點的結論完全依賴於其核心前提的有效性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hypothesis",
+            "assumption",
+            "supposition",
+            "postulate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conclusion",
+            "implication"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"premises",
+      "POS":"n (plural)",
+      "POS_TIP":"Noun (used in plural form, usually referring to a single location or property)",
+      "TAGS":[
+        "common",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"A house, building, or land, often including associated structures, especially one occupied by a business or considered in an official context.",
+      "DEF_ZH":"房屋及地產；場所；營業處所（通常用於複數）。",
+      "SENT_EN":"Security guards monitor all activity entering and exiting the school premises.",
+      "SENT_ZH":"保安人員監控所有進出學校場所的活動。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "property",
+            "site",
+            "location",
+            "establishment",
+            "facility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"premise [sth] on/upon [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "formal",
+        "academic"
+      ],
+      "DEF_EN":"To base an argument, theory, or action on a particular idea or assumption.",
+      "DEF_ZH":"以（某事）為前提；基於；作為開端或基礎。",
+      "SENT_EN":"The entire novel is premised upon the idea of time travel being irreversible.",
+      "SENT_ZH":"整部小說都是以時間旅行不可逆轉這一理念為前提的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "predicate",
+            "base",
+            "ground",
+            "establish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Technical (especially in logic, philosophy, and legal contexts)."
+}

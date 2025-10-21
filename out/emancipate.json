@@ -1,0 +1,79 @@
+{
+  "WORD":"emancipate",
+  "IPA":"/ɪˈmænsɪˌpeɪt/",
+  "CONJUGATES":"emancipates | emancipating | emancipated",
+  "ETYMOLOGY":"From Latin *emancipare* 'set free from paternal authority', from *e-* (variant of *ex-*) 'out' + *mancipare* 'transfer ownership of', from *mancipium* 'ownership', from *manus* 'hand' + *capere* 'take'.",
+  "SINCE":"Late 16th century (approx. 1570s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"emancipate [sb] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" stands for transitive verb, which is a verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To free someone from political, legal, or social restrictions; to liberate.",
+      "DEF_ZH":"解放；使（某人）摆脱政治、法律或社会束缚。",
+      "SENT_EN":"The Civil Rights Act helped emancipate African Americans from segregation.",
+      "SENT_ZH":"《民权法案》帮助非裔美国人摆脱了种族隔离。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "liberate",
+            "free",
+            "release",
+            "unfetter",
+            "unchain",
+            "enfranchise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enslave",
+            "subjugate",
+            "oppress"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "emancipation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"emancipate [a minor]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" stands for transitive verb, which is a verb that takes a direct object.",
+      "TAGS":[
+        "legal",
+        "historical",
+        "specific"
+      ],
+      "DEF_EN":"(In legal contexts) To free a minor child from the control and authority of their parents or guardians.",
+      "DEF_ZH":"（法律上）使（未成年人）脱离父母或监护人的控制。",
+      "SENT_EN":"In some jurisdictions, a teenager can be legally emancipated if they prove they can support themselves.",
+      "SENT_ZH":"在某些司法管辖区，如果青少年能证明自己可以自食其力，他们可以合法地获得解放。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "(legal) release",
+            "grant independence to"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "emancipation of minors"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, often used in historical, legal, or political contexts."
+}

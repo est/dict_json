@@ -1,0 +1,84 @@
+{
+  "WORD":"weird",
+  "IPA":"/wɪərd/",
+  "CONJUGATES":"weirder | weirdest (adj) | weirds | weirding | weirded (v)",
+  "ETYMOLOGY":"From Old English 'wyrd' (fate, destiny, fortune). The meaning shifted in Middle English towards 'supernatural, uncanny', notably influenced by the 'Weird Sisters' in Shakespeare’s *Macbeth*.",
+  "SINCE":"Before 900 AD (as 'wyrd'); 15th century (as 'strange/uncanny')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is weird",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Suggesting something unnatural, strange, strikingly odd, or unsettlingly different from the norm.",
+      "DEF_ZH":"奇怪的；离奇的；反常的；令人不安的。",
+      "SENT_EN":"He had a weird feeling that someone was watching him.",
+      "SENT_ZH":"他有一种奇怪的感觉，觉得有人在监视他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strange",
+            "odd",
+            "peculiar",
+            "bizarre",
+            "uncanny"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "normal",
+            "ordinary",
+            "common",
+            "familiar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weird [sb] out",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb with adverb",
+      "TAGS":[
+        "informal",
+        "phrasal verb",
+        "modern usage"
+      ],
+      "DEF_EN":"To cause someone to feel uncomfortable, uneasy, or deeply strange; to freak out.",
+      "DEF_ZH":"使（某人）感到不安、困惑或奇怪；吓到（某人）。",
+      "SENT_EN":"The silence in the huge empty house started to weird me out.",
+      "SENT_ZH":"那栋空置的大房子里的寂静开始让我感到不安。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freak out",
+            "creep out",
+            "disconcert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the weird sisters",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "archaic",
+        "literary",
+        "historical"
+      ],
+      "DEF_EN":"Pertaining to or suggestive of fate or destiny (The original meaning, preserved mainly in literary context, e.g., the Weird Sisters in Macbeth).",
+      "DEF_ZH":"命运的；宿命的；与天命相关的（古语或文学用法）。",
+      "SENT_EN":"The ancient Greeks believed that the weird sisters controlled the thread of life.",
+      "SENT_ZH":"古希腊人相信命运姐妹控制着生命的线索。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common (Meaning 1 & 2); Informal (Meaning 3)"
+}

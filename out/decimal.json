@@ -1,0 +1,45 @@
+{
+  "WORD":"decimal",
+  "IPA":"/ˈdɛsɪməl/",
+  "CONJUGATES":"decimals (n. plural)",
+  "ETYMOLOGY":"From Late Latin decimalis 'of tithes', from decem 'ten'. The mathematical sense 'relating to the base 10 system' dates from the mid-17th century.",
+  "SINCE":"mid-17th century (mathematical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"decimal [system/number]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "mathematics"
+      ],
+      "DEF_EN":"Relating to or denoting a system of numbers or measurement in which the successive units are powers of ten.",
+      "DEF_ZH":"指十进制的；小数的",
+      "SENT_EN":"The decimal system is the most common way to represent numbers.",
+      "SENT_ZH":"十进制系统是表示数字最常见的方式。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a decimal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "mathematics"
+      ],
+      "DEF_EN":"A fraction whose denominator is a power of ten and whose numerator is expressed by figures placed to the right of a decimal point.",
+      "DEF_ZH":"小数；十进制数",
+      "SENT_EN":"Please round the answer to two decimal places.",
+      "SENT_ZH":"请将答案四舍五入到两位小数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decimal fraction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"technical, mathematical"
+}

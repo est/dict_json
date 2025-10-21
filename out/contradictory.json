@@ -1,0 +1,64 @@
+{
+  "WORD":"contradictory",
+  "IPA":"/ˌkɒntrəˈdɪktəri/",
+  "CONJUGATES":"contradictorily | more contradictory | most contradictory | contradiction | contradict",
+  "ETYMOLOGY":"From Late Latin contradictorius, from Latin contradicere (contra- 'against' + dicere 'to speak'), literally 'speaking against'.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] be contradictory",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "logic",
+        "formal"
+      ],
+      "DEF_EN":"Involving or expressing a logical contradiction; mutually opposing or inconsistent.",
+      "DEF_ZH":"相互矛盾的；不一致的；有抵触的。",
+      "SENT_EN":"The two reports contained contradictory information regarding the project budget.",
+      "SENT_ZH":"这两份报告包含关于项目预算的相互矛盾的信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inconsistent",
+            "conflicting",
+            "opposing",
+            "paradoxical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "consistent",
+            "coherent",
+            "compatible",
+            "concordant"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "contradiction",
+            "contradict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] be contradictory to [sth else]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective followed by a preposition",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"Of the nature of a proposition which cannot be true when another specified proposition is true, or vice versa.",
+      "DEF_ZH":"与（某事物）形成对立的；截然相反的。",
+      "SENT_EN":"His actions were completely contradictory to his stated principles.",
+      "SENT_ZH":"他的行为与他所声明的原则完全背道而驰。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Academic, General use"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"messenger",
+  "IPA":"/ˈmɛsɪndʒər/",
+  "CONJUGATES":"messengers (pl.)",
+  "ETYMOLOGY":"From Middle English messager, from Old French messagier, equivalent to message + -er.",
+  "SINCE":"c. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] as messenger",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person employed to deliver letters, packages, or specific verbal or written communications; a carrier or envoy.",
+      "DEF_ZH":"信使；送信人；执行差事者",
+      "SENT_EN":"The general sent a trusted messenger to deliver the urgent reports to the capital.",
+      "SENT_ZH":"将军派遣了一名值得信赖的信使向首都递送紧急报告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "courier",
+            "envoy",
+            "herald",
+            "runner"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "message",
+            "dispatch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] as messenger of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"An agent, phenomenon, or sign that indicates or foreshadows a future event or condition.",
+      "DEF_ZH":"预兆；先驱；征兆；（事物）信使",
+      "SENT_EN":"The sudden drop in temperature was the messenger of the coming snowstorm.",
+      "SENT_ZH":"气温的突然下降是即将到来的暴风雪的征兆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "forerunner",
+            "harbinger",
+            "precursor",
+            "omen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"instant messenger (IM)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "modern use"
+      ],
+      "DEF_EN":"A software application or service that allows users to exchange real-time text messages over the internet.",
+      "DEF_ZH":"即时通讯工具；消息应用（特指互联网聊天软件）",
+      "SENT_EN":"They decided to use a dedicated team messenger for all internal project communication.",
+      "SENT_ZH":"他们决定使用专用的团队即时通讯工具进行所有内部项目沟通。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "IM",
+            "chat",
+            "WhatsApp"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, also specific to historical roles and modern computing."
+}

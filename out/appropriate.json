@@ -1,0 +1,93 @@
+{
+  "WORD":"appropriate",
+  "IPA":"/əˈproʊpriət/ (adj.) /əˈproʊpriˌeɪt/ (v.)",
+  "CONJUGATES":"appropriately (adv) | appropriateness (n) | appropriates (v) | appropriated (v) | appropriating (v)",
+  "ETYMOLOGY":"Late Middle English, from Latin *appropriare* 'make one's own', from *ad-* 'to' + *proprius* 'own, proper'.",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"appropriate (for [sth] / to [sth])",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Suitable, fitting, or proper in a particular context or situation.",
+      "DEF_ZH":"合适的；恰当的；相称的；合宜的。",
+      "SENT_EN":"The manager decided that casual clothing was not appropriate for the business meeting.",
+      "SENT_ZH":"经理认为休闲装不适合这次商务会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suitable",
+            "fitting",
+            "proper",
+            "relevant",
+            "apt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inappropriate",
+            "unsuitable",
+            "improper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"appropriate [sth] (from [sb/sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal",
+        "derogatory"
+      ],
+      "DEF_EN":"To take something for one's own use, especially without permission or legal right.",
+      "DEF_ZH":"盗用；侵占；挪用；私吞。",
+      "SENT_EN":"He was accused of appropriating company funds for personal investment.",
+      "SENT_ZH":"他被指控挪用公司资金用于个人投资。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seize",
+            "usurp",
+            "confiscate",
+            "annex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"appropriate [sth] (for [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "financial",
+        "official"
+      ],
+      "DEF_EN":"To set aside, authorize, or designate money or assets for a specific use or purpose.",
+      "DEF_ZH":"拨出（款项）；划拨；指定用途（专款专用）。",
+      "SENT_EN":"The legislature voted to appropriate five million dollars for disaster relief efforts.",
+      "SENT_ZH":"立法机关投票决定拨出五百万美元用于救灾工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allocate",
+            "assign",
+            "earmark",
+            "budget"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

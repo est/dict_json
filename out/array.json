@@ -1,0 +1,80 @@
+{
+  "WORD":"array",
+  "IPA":"/əˈreɪ/",
+  "CONJUGATES":"arrays | arraying | arrayed",
+  "ETYMOLOGY":"From Middle English, via Old French aréer 'to put in order', ultimately from à 'to' + rai 'row, rank'.",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"an array of [sth]",
+      "POS":"noun",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"An impressive display or range of a particular type of thing.",
+      "DEF_ZH":"一系列；大量；琳琅满目的一批事物。",
+      "SENT_EN":"The boutique displayed a stunning array of designer clothes.",
+      "SENT_ZH":"这家精品店展示了令人惊叹的一系列名牌服装。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "collection",
+            "range",
+            "display",
+            "assortment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"data array",
+      "POS":"noun",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(In computing) An ordered series or structure of data elements, typically of the same type, stored consecutively in memory.",
+      "DEF_ZH":"(计算机科学) 数组；数列；按特定顺序排列的数据结构。",
+      "SENT_EN":"We need to initialize the integer array before loading the values.",
+      "SENT_ZH":"在加载数值之前，我们需要初始化这个整数数组。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "list",
+            "vector",
+            "matrix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"array [sth] | be arrayed",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To arrange or set in order, especially in a military or ceremonial manner.",
+      "DEF_ZH":"部署；排列；（尤指军队或仪式性地）整齐地排列或布置。",
+      "SENT_EN":"The troops were arrayed in battle formation on the plain.",
+      "SENT_ZH":"部队在平原上排成战斗队形。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrange",
+            "deploy",
+            "muster"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical"
+}

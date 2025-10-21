@@ -1,0 +1,80 @@
+{
+  "WORD":"timetable",
+  "IPA":"/ˈtaɪmˌteɪbəl/",
+  "CONJUGATES":"timetables | timetabled | timetabling",
+  "ETYMOLOGY":"Compound word, combining 'time' and 'table' (a systematic arrangement of facts, figures, or values in rows and columns).",
+  "SINCE":"Late 19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] 's timetable",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "organization"
+      ],
+      "DEF_EN":"A detailed schedule showing the planned times of events, especially for public transportation, school classes, or business operations.",
+      "DEF_ZH":"时间表；时刻表；课程表；活动计划表。",
+      "SENT_EN":"Please consult the train timetable to find the last service of the evening.",
+      "SENT_ZH":"请查阅火车时刻表以找到当晚的最后一班列车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schedule",
+            "roster",
+            "program",
+            "agenda"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"working to a strict timetable",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "project management"
+      ],
+      "DEF_EN":"The time frame or deadline within which a specific project or series of activities must be completed.",
+      "DEF_ZH":"计划完成期限；时间框架。",
+      "SENT_EN":"The project manager set a strict timetable for delivering the first prototype.",
+      "SENT_ZH":"项目经理为交付第一个原型设定了严格的完成期限。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "timeframe",
+            "deadline",
+            "schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"timetable [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "British English",
+        "formal"
+      ],
+      "DEF_EN":"To arrange or set the timing of events or activities according to a schedule.",
+      "DEF_ZH":"安排时间；将...列入时间表。",
+      "SENT_EN":"The board meeting was timetabled for 10:00 AM sharp.",
+      "SENT_ZH":"董事会会议被安排在上午十点整。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schedule",
+            "plan",
+            "fix"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in organizational, educational, and public transport contexts."
+}

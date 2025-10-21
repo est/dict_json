@@ -1,0 +1,89 @@
+{
+  "WORD":"barge",
+  "IPA":"/bɑːrdʒ/",
+  "CONJUGATES":"barge (n) | barges (n) | barge (v) | barging (v) | barged (v)",
+  "ETYMOLOGY":"From Middle English barge, from Old French barge ('boat'), from Vulgar Latin *barga.",
+  "SINCE":"Early 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] barge",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A long, flat-bottomed boat, typically used for carrying freight on canals or rivers.",
+      "DEF_ZH":"一种长而平底的船只，通常用于在运河或河流上运载货物。",
+      "SENT_EN":"The coal was transported by barge along the canal.",
+      "SENT_ZH":"煤炭通过驳船沿运河运输。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lighter",
+            "scow",
+            "freighter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"barge in/into/through [sth/sb]",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To move or push in a clumsy, awkward, or rude manner, often without permission.",
+      "DEF_ZH":"笨拙地、粗鲁地闯入或推挤，常指不经允许。",
+      "SENT_EN":"He barged into the meeting late and disrupted everyone.",
+      "SENT_ZH":"他迟到闯入会议，打扰了所有人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intrude",
+            "crash",
+            "butt in",
+            "force one's way"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "tiptoe",
+            "slip in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"barge [sth]",
+      "POS":"v tr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "specialized"
+      ],
+      "DEF_EN":"To transport something by means of a barge.",
+      "DEF_ZH":"用驳船运输（货物）。",
+      "SENT_EN":"The heavy machinery was barged down the river to the construction site.",
+      "SENT_ZH":"重型机械被驳船运到河下游的建筑工地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transport",
+            "ferry",
+            "ship"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General for noun, informal for verb sense of moving clumsily."
+}

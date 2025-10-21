@@ -1,0 +1,134 @@
+{
+  "WORD":"angle",
+  "IPA":"/ˈæŋɡl/",
+  "CONJUGATES":"angles (n, pl) | angles (v, 3rd sg pres) | angling (v, pres p) | angled (v, past/past p)",
+  "ETYMOLOGY":"From Middle English, derived from Old French angle, from Latin angulus ('corner, angle'). Related to ankle.",
+  "SINCE":"c. 1300 (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (substantive)",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "geometry"
+      ],
+      "DEF_EN":"The space (usually measured in degrees or radians) formed by the intersection of two straight lines, rays, or planes that diverge from a common point.",
+      "DEF_ZH":"由两条直线、射线或平面相交而形成的（通常以度数或弧度测量的）空间或图形。",
+      "SENT_EN":"A square corner forms a 90-degree angle.",
+      "SENT_ZH":"直角形成90度的角。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "corner",
+            "intersection"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "arc",
+            "apex",
+            "degree"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (substantive)",
+      "TAGS":[
+        "common",
+        "metaphorical"
+      ],
+      "DEF_EN":"A specific viewpoint or perspective, especially one taken on a subject or situation; an approach.",
+      "DEF_ZH":"特定的观点、视角或处理某一问题的方法。",
+      "SENT_EN":"The journalist approached the story from a political angle.",
+      "SENT_ZH":"这位记者从政治角度切入报道这个故事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "viewpoint",
+            "perspective",
+            "slant",
+            "approach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"angle [sth] (towards/away from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (verb requiring a direct object)",
+      "TAGS":[
+        "common",
+        "positional"
+      ],
+      "DEF_EN":"To position or direct something at a slant or in a specific direction that is not parallel or perpendicular.",
+      "DEF_ZH":"使某物倾斜或以特定角度定位或指向。",
+      "SENT_EN":"She angled the mirror so she could see the door clearly.",
+      "SENT_ZH":"她将镜子倾斜，以便能清楚地看到门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tilt",
+            "slant",
+            "incline",
+            "orient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"angle for [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"Intransitive Verb followed by a required preposition",
+      "TAGS":[
+        "idiomatic",
+        "metaphorical"
+      ],
+      "DEF_EN":"To try to obtain or elicit something (like a compliment, information, or favor) by indirect, subtle, or cunning means.",
+      "DEF_ZH":"试图通过间接、微妙或狡猾的方式获得或引出某物（如赞美、信息或好处）。",
+      "SENT_EN":"He kept angling for a promotion during the meeting, without explicitly asking.",
+      "SENT_ZH":"在会议期间，他不断地暗示想要升职，但没有明确提出要求。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hint",
+            "maneuver",
+            "fish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] angle",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb (verb not requiring a direct object)",
+      "TAGS":[
+        "specialized",
+        "archaic"
+      ],
+      "DEF_EN":"To fish with a rod and line.",
+      "DEF_ZH":"用钓竿和鱼线钓鱼。",
+      "SENT_EN":"The old man went out to angle by the river every morning.",
+      "SENT_ZH":"那位老人每天早上都出去到河边钓鱼。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "angler",
+            "fish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

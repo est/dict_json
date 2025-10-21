@@ -1,0 +1,89 @@
+{
+  "WORD":"massage",
+  "IPA":"/məˈsɑːʒ/",
+  "CONJUGATES":"massages | massaged | massaging",
+  "ETYMOLOGY":"From French masser ('to knead, to massage'), likely from Arabic massa ('to touch, to handle').",
+  "SINCE":"c. 1870s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] massage",
+      "POS":"noun",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The rubbing and kneading of muscles and joints of the body with the hands, especially to relieve tension or pain.",
+      "DEF_ZH":"通过用手揉捏和摩擦身体的肌肉和关节，尤其用于缓解紧张或疼痛的行为或疗法。",
+      "SENT_EN":"After a long hike, a full body massage felt incredible.",
+      "SENT_ZH":"长途徒步之后，一次全身按摩让人感觉棒极了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rubdown",
+            "manipulation",
+            "therapy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reflexology",
+            "shiatsu",
+            "physiotherapy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"massage [sb] / massage [sth] (body part)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To rub and knead (a person or part of the body) to relieve tension or pain.",
+      "DEF_ZH":"对（某人或身体部位）进行揉捏和摩擦，以缓解紧张或疼痛。",
+      "SENT_EN":"She massaged the tension out of his shoulders.",
+      "SENT_ZH":"她通过按摩消除了他肩膀上的紧张感。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rub",
+            "knead",
+            "manipulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"massage [data/figures/report]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "figurative",
+        "informal",
+        "business"
+      ],
+      "DEF_EN":"To manipulate data or facts, often deceptively, in order to make them appear more favorable or acceptable.",
+      "DEF_ZH":"（常带有欺骗性地）篡改或修饰数据或事实，使其看起来更有利或更容易被接受。",
+      "SENT_EN":"The politician was accused of massaging the unemployment figures before the election.",
+      "SENT_ZH":"这位政客被指控在选举前粉饰失业数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manipulate",
+            "falsify",
+            "doctor",
+            "cook"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with the figurative meaning common in business and political contexts."
+}

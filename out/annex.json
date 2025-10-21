@@ -1,0 +1,103 @@
+{
+  "WORD":"annex",
+  "IPA":"/əˈnɛks/",
+  "CONJUGATES":"annexes | annexed | annexing",
+  "ETYMOLOGY":"From Old French 'annexer', from Latin 'annectere' (ad- 'to' + nectere 'to bind, tie').",
+  "SINCE":"Late 14th century (verb); mid-17th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"annex [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "politics"
+      ],
+      "DEF_EN":"To take control of a territory or country and add it to one's own, often without permission or by force.",
+      "DEF_ZH":"（未经许可或武力）吞并，兼并（领土、国家等）",
+      "SENT_EN":"The country decided to annex the neighboring province.",
+      "SENT_ZH":"该国决定吞并邻近的省份。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appropriate",
+            "seize",
+            "conquer",
+            "take over",
+            "incorporate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cede",
+            "relinquish",
+            "restore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"annex [sth] to [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To add an extra part or document to a main one; to attach.",
+      "DEF_ZH":"附加，增补（文件、条款等）；附上",
+      "SENT_EN":"The report had several graphs annexed to it.",
+      "SENT_ZH":"报告附有几张图表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attach",
+            "append",
+            "add",
+            "subjoin"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "detach",
+            "remove",
+            "separate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an annex",
+      "POS":"nc",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "common",
+        "architecture",
+        "documents"
+      ],
+      "DEF_EN":"A building added to a larger one; an additional part or section added to a main document or book.",
+      "DEF_ZH":"附属建筑物；（文件或书的）增补部分，附件",
+      "SENT_EN":"The library built a new annex to house its growing collection.",
+      "SENT_ZH":"图书馆修建了一座新附楼以容纳其日益增长的藏书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extension",
+            "addition",
+            "wing",
+            "appendix",
+            "supplement",
+            "outbuilding"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, often used in political, legal, or architectural contexts."
+}

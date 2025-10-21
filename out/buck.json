@@ -1,0 +1,122 @@
+{
+  "WORD":"buck",
+  "IPA":"/bʌk/",
+  "CONJUGATES":"bucks | bucking | bucked",
+  "ETYMOLOGY":"From Old English bucca 'male goat', of Germanic origin. The sense of 'male deer' developed around the 14th century. The verb sense (to rear up) derives from the animal's behavior. The slang sense for 'dollar' is thought to be an abbreviation of buckskin (used historically for trade) or an earlier use of buck meaning 'a monetary stake' (mid-19th century, US).",
+  "SINCE":"c. 800s (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] buck",
+      "POS":"n",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A male deer, especially a fallow deer, or a male of various other animals like hares, rabbits, or goats.",
+      "DEF_ZH":"雄鹿，尤指雄性的麅鹿；也指雄兔、雄山羊等。",
+      "SENT_EN":"The wildlife photographer captured a picture of a magnificent buck shedding its antlers.",
+      "SENT_ZH":"这位野生动物摄影师拍下了一张雄伟的雄鹿脱落鹿角的照片。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "doe",
+            "stag",
+            "ram"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[amount] bucks",
+      "POS":"n",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "core word",
+        "slang",
+        "US English"
+      ],
+      "DEF_EN":"A slang term for a dollar or unit of currency.",
+      "DEF_ZH":"（俚语）美元；钱。",
+      "SENT_EN":"I only have twenty bucks left until payday.",
+      "SENT_ZH":"发薪日之前我只剩下二十块钱了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dollar",
+            "quid (UK)"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"buck [vi]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (不及物动词)",
+      "TAGS":[
+        "common",
+        "equestrian"
+      ],
+      "DEF_EN":"(Of a horse or similar animal) to jump into the air with the back arched and head lowered, usually in an attempt to throw off a rider.",
+      "DEF_ZH":"（指马或类似动物）弓背跳跃，试图将骑手摔下。",
+      "SENT_EN":"The young bronco started to buck as soon as the cowboy mounted.",
+      "SENT_ZH":"牛仔一骑上去，那匹年轻的野马就开始弓背跳跃。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"buck [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (及物动词)",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To resist or oppose (a system, authority, or trend) vigorously.",
+      "DEF_ZH":"激烈地抵抗；反对（制度、权威或潮流）。",
+      "SENT_EN":"Many companies are struggling to buck the rising interest rate trend.",
+      "SENT_ZH":"许多公司都在努力抵抗利率上升的趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defy",
+            "resist",
+            "oppose"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "comply",
+            "follow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pass the buck",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression (习语)",
+      "TAGS":[
+        "common",
+        "idiom"
+      ],
+      "DEF_EN":"To shift responsibility or blame to someone else.",
+      "DEF_ZH":"推卸责任；转嫁责任。（此处的buck指历史上的牌局中的标记，象征责任。）",
+      "SENT_EN":"The CEO warned his managers not to pass the buck when problems arose.",
+      "SENT_ZH":"首席执行官警告他的经理们，出现问题时不要互相推诿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shift blame",
+            "evade responsibility"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Informal (for money and resistance senses)"
+}

@@ -1,0 +1,180 @@
+{
+  "WORD":"key",
+  "IPA":"/kiː/",
+  "CONJUGATES":"keys (n. plural) | keys (v. 3rd person singular) | keyed (v. past tense/past participle) | keying (v. present participle)",
+  "ETYMOLOGY":"From Old English cǣġ ('key, bolt, bar, ~of a lock'), of Germanic origin; related to Old Frisian kei and Middle Dutch keie. The ultimate origin is uncertain.",
+  "SINCE":"Old English (before 1100)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a key [to sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A specially shaped piece of metal used to open or lock a door, start a car, operate a mechanism, etc.",
+      "DEF_ZH":"一种特殊形状的金属片，用于打开或锁上门、启动汽车、操作机械等。",
+      "SENT_EN":"I can't find my house key anywhere.",
+      "SENT_ZH":"我到处都找不到我的房门钥匙。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lock",
+            "keyhole",
+            "keychain",
+            "master key"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the key [to sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"A thing that is of crucial importance to achieving or understanding something.",
+      "DEF_ZH":"对实现或理解某事至关重要的事物；关键。",
+      "SENT_EN":"Hard work is often the key to success.",
+      "SENT_ZH":"勤奋常常是成功的关键。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secret",
+            "crux",
+            "essence",
+            "determinant",
+            "solution",
+            "answer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a key",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "technical (music, computing)"
+      ],
+      "DEF_EN":"A button or lever on a keyboard, piano, or other musical instrument that you press to make it work.",
+      "DEF_ZH":"键盘、钢琴或其他乐器上的按钮或杠杆，按下它使其工作。",
+      "SENT_EN":"She typed the message carefully, pressing each key with precision.",
+      "SENT_ZH":"她小心翼翼地打着信息，精确地按下每个键。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "keyboard",
+            "piano",
+            "typewriter",
+            "button"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"key [sth] (in/into)",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb with preposition",
+      "TAGS":[
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"To input (data or a message) into a computer or other device using a keyboard.",
+      "DEF_ZH":"使用键盘将（数据或信息）输入到计算机或其他设备中。",
+      "SENT_EN":"Please key in your username and password.",
+      "SENT_ZH":"请输入您的用户名和密码。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "type",
+            "enter",
+            "input"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"key [noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Of crucial importance.",
+      "DEF_ZH":"至关重要的；关键的。",
+      "SENT_EN":"Education is a key factor in economic development.",
+      "SENT_ZH":"教育是经济发展的关键因素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "essential",
+            "crucial",
+            "vital",
+            "important",
+            "main",
+            "principal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a key [to a map/diagram]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A list of symbols, abbreviations, or colors with their meanings, used in a map, diagram, or book.",
+      "DEF_ZH":"地图、图表或书本中使用的符号、缩写或颜色的含义列表；图例。",
+      "SENT_EN":"Consult the map key to understand the various geographical features.",
+      "SENT_ZH":"查阅地图图例以理解各种地理特征。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "legend",
+            "glossary",
+            "index"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"key [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "slang",
+        "common"
+      ],
+      "DEF_EN":"To scratch (a car or other surface) with a key, typically as an act of vandalism.",
+      "DEF_ZH":"用钥匙刮伤（汽车或其他表面），通常是故意破坏的行为。",
+      "SENT_EN":"Someone keyed my car while it was parked.",
+      "SENT_ZH":"我的车停着的时候，有人用钥匙刮花了它。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scratch",
+            "deface",
+            "vandalize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific meanings being technical (music, computing) or informal (vandalism)."
+}

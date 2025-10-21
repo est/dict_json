@@ -1,0 +1,91 @@
+{
+  "WORD":"belong",
+  "IPA":"/bɪˈlɔːŋ/",
+  "CONJUGATES":"belongs | belonging | belonged",
+  "ETYMOLOGY":"From Middle English *bilongen*, from Old English *belangian* (to appertain, concern), formed from *be-* (expressing totality or being) and *langian* (to long, yearn, or concern).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] belong to [sb/sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition (in this case, 'to').",
+      "TAGS":[
+        "core word",
+        "common",
+        "stative verb"
+      ],
+      "DEF_EN":"To be the property of someone or something; to be owned by.",
+      "DEF_ZH":"属于某人或某物；为...所有。",
+      "SENT_EN":"This laptop belongs to the company, not to the employee personally.",
+      "SENT_ZH":"这台笔记本电脑属于公司，而非员工个人所有。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be owned by",
+            "appertain to",
+            "be in the possession of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] belong (here/there/in/with)",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb. Often followed by an adverbial phrase of place or preposition.",
+      "TAGS":[
+        "core word",
+        "common",
+        "social"
+      ],
+      "DEF_EN":"To be in the proper or appropriate place; or, for a person, to feel secure or accepted as a member of a group or environment.",
+      "DEF_ZH":"处于恰当的位置；感觉被接纳或有归属感；理应在某处。",
+      "SENT_EN":"Those dirty dishes definitely do not belong on the living room coffee table.",
+      "SENT_ZH":"那些脏盘子绝对不应该放在客厅的咖啡桌上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fit in",
+            "be accepted",
+            "be a part of",
+            "be situated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "be alienated",
+            "be out of place",
+            "be misplaced"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] belong to [class/category]",
+      "POS":"vintr + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition.",
+      "TAGS":[
+        "common",
+        "academic",
+        "classification"
+      ],
+      "DEF_EN":"To be properly classified, listed, or associated with a particular group, set, or category.",
+      "DEF_ZH":"属于（类别、科目）；归类于。",
+      "SENT_EN":"Pine trees belong to the genus *Pinus* and the family Pinaceae.",
+      "SENT_ZH":"松树属于松属和松科。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be classified under",
+            "be grouped with",
+            "form a part of"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

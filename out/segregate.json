@@ -1,0 +1,80 @@
+{
+  "WORD":"segregate",
+  "IPA":"/'sɛɡrɪɡeɪt/",
+  "CONJUGATES":"segregates | segregated | segregating | segregation (n) | segregative (adj)",
+  "ETYMOLOGY":"From Latin segregatus, past participle of segregare 'to set apart', from se- 'apart' + grex (stem greg-) 'flock, herd'.",
+  "SINCE":"Mid-16th century (circa 1540s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"segregate [sth/sb] (from [sth/sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To isolate or set apart something or someone from others; to divide into distinct groups.",
+      "DEF_ZH":"将某物或某人分离或隔离；划分成不同的群体。",
+      "SENT_EN":"The facility segregates hazardous waste from regular household garbage.",
+      "SENT_ZH":"该设施将危险废物与普通生活垃圾分开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "isolate",
+            "partition",
+            "divide"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "integrate",
+            "combine",
+            "mix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"segregate [groups] | segregate [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "historical",
+        "social",
+        "sensitive",
+        "negative connotation"
+      ],
+      "DEF_EN":"To enforce the separation of people based on race, religion, gender, or other characteristics, often implying discrimination and unequal treatment.",
+      "DEF_ZH":"（尤指基于种族、宗教、性别等）实行隔离或种族隔离，通常涉及歧视和不平等对待。",
+      "SENT_EN":"For decades, laws were in place to segregate public amenities, such as buses and restaurants.",
+      "SENT_ZH":"几十年来，法律规定公共设施（例如公共汽车和餐馆）必须实行种族隔离。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discriminate against",
+            "exclude"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "desegregate",
+            "integrate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "apartheid",
+            "Jim Crow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Historical"
+}

@@ -1,0 +1,78 @@
+{
+  "WORD":"faulty",
+  "IPA":"/ˈfɔːlti/",
+  "CONJUGATES":"faultier | faultiest",
+  "ETYMOLOGY":"From Middle English *faut* ('fault, lack, defect') + the suffix -y. Ultimately from Old French *faute*, from Latin *fallita* (a failing).",
+  "SINCE":"Late 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is faulty",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"Containing a defect or imperfection; not functioning correctly or adequately.",
+      "DEF_ZH":"有缺陷的；有毛病的；不能正常运转的（常指机器、设备）。",
+      "SENT_EN":"The car manufacturer recalled the vehicles due to a faulty brake system.",
+      "SENT_ZH":"这家汽车制造商因为刹车系统有缺陷而召回了这些车辆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defective",
+            "flawed",
+            "broken",
+            "malfunctioning",
+            "imperfect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "functional",
+            "perfect",
+            "flawless",
+            "operative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"faulty [logic/reasoning/judgment]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "formal"
+      ],
+      "DEF_EN":"Characterized by error or mistake; unsound or incorrect (referring to arguments, logic, or decisions).",
+      "DEF_ZH":"错误的；不健全的；不正确的（指逻辑、判断或推理）。",
+      "SENT_EN":"The entire legal argument was dismissed because it was based on faulty reasoning.",
+      "SENT_ZH":"整个法律论点被驳回了，因为它建立在错误的推理之上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unsound",
+            "erroneous",
+            "inaccurate",
+            "mistaken"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sound",
+            "correct",
+            "valid",
+            "logical"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

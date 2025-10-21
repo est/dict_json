@@ -1,0 +1,108 @@
+{
+  "WORD":"spawn",
+  "IPA":"/spɔːn/",
+  "CONJUGATES":"spawns | spawned | spawning",
+  "ETYMOLOGY":"From Middle English 'spaun', derived from Old French 'espandre' (to spread, shed, or pour out), ultimately from Latin 'expandere'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[vi] | [vtr]",
+      "POS":"v",
+      "POS_TIP":"intransitive or transitive verb",
+      "TAGS":[
+        "core word",
+        "biology"
+      ],
+      "DEF_EN":"(Of fish, frogs, or other aquatic animals) to release eggs or sperm into the water; to generate offspring.",
+      "DEF_ZH":"(鱼、蛙、软体动物等)产卵; 产子。",
+      "SENT_EN":"Salmon travel upstream to spawn during the autumn months.",
+      "SENT_ZH":"鲑鱼会在秋季逆流而上产卵。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reproduce",
+            "breed"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "lay eggs",
+            "fecundate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spawn [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "metaphorical",
+        "negative connotation"
+      ],
+      "DEF_EN":"To produce or generate a large number of things or people, often implying something undesirable or negative is being created.",
+      "DEF_ZH":"大量产生; 滋生; 导致 (常指不好的事物)。",
+      "SENT_EN":"The economic crisis spawned a new wave of political activism.",
+      "SENT_ZH":"这场经济危机催生了新一轮的政治活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "generate",
+            "give rise to",
+            "beget",
+            "create"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[uncountable]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "biology"
+      ],
+      "DEF_EN":"The eggs, particularly of fish, mollusks, frogs, or other aquatic animals.",
+      "DEF_ZH":"(鱼、蛙等的)卵; 鱼子; 菌丝体。",
+      "SENT_EN":"The riverbed was covered in frog spawn after the spring rains.",
+      "SENT_ZH":"春雨过后，河床上铺满了蛙卵。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "roe",
+            "ova",
+            "offspring"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[vtr] | the spawn [n]",
+      "POS":"v | n",
+      "POS_TIP":"transitive verb or noun",
+      "TAGS":[
+        "gaming",
+        "technical"
+      ],
+      "DEF_EN":"(Video Games) (V) To cause a character, item, or enemy to appear in a specific location within the game world. (N) The point or location where a player or entity initially appears.",
+      "DEF_ZH":"(电子游戏) (V)生成, 刷新 (角色或物品); (N)出生点; 初始位置。",
+      "SENT_EN":"We need to set up a defensive perimeter near the enemy spawn point.",
+      "SENT_ZH":"我们需要在敌人出生点附近设置防御工事。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "respawn",
+            "instance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; Biology; Metaphorical usage often formal or journalistic; Gaming usage is slang/technical."
+}

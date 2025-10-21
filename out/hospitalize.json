@@ -1,0 +1,40 @@
+{
+  "WORD":"hospitalize",
+  "IPA":"/ˈhɒspɪtəlaɪz/",
+  "CONJUGATES":"hospitalizes | hospitalized | hospitalizing",
+  "ETYMOLOGY":"From 'hospital' (via Old French from Latin hospitale 'guest-house', neuter of hospitalis 'of a guest') + the verb-forming suffix '-ize'.",
+  "SINCE":"Late 19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"hospitalize [sb]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"To admit someone to a hospital for medical treatment or care.",
+      "DEF_ZH":"将（某人）送入医院进行医疗或护理。",
+      "SENT_EN":"She was hospitalized for observation after her fall.",
+      "SENT_ZH":"她跌倒后被送往医院观察。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admit to hospital",
+            "institutionalize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "discharge",
+            "release from hospital"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, medical"
+}

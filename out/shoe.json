@@ -1,0 +1,97 @@
+{
+  "WORD":"shoe",
+  "IPA":"/ʃuː/",
+  "CONJUGATES":"plural: shoes | verb: shoe (present) | verb: shoes (3rd person singular present) | verb: shoeing (present participle) | verb: shod (past tense/past participle)",
+  "ETYMOLOGY":"From Old English scōh, from Proto-Germanic *skōhaz (compare Old Norse skór, Old High German scuoh), probably from Proto-Indo-European *skewH- 'to cover'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] shoe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An outer covering for the human foot, typically made of leather or synthetic material, with a firm sole and not reaching above the ankle, worn for protection and comfort.",
+      "DEF_ZH":"一种覆盖人脚的外部物品，通常由皮革或合成材料制成，有坚固的鞋底，且不高于脚踝，用于保护和舒适。",
+      "SENT_EN":"He polished his leather shoes until they shone.",
+      "SENT_ZH":"他把他的皮鞋擦得锃亮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "footwear",
+            "sneaker",
+            "boot",
+            "slipper",
+            "sandal"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shoelace",
+            "shoebox",
+            "shoemaker",
+            "high-heels",
+            "running shoes"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shoe [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "often used for animals"
+      ],
+      "DEF_EN":"To provide or fit with a shoe or shoes, especially a horse with a horseshoe.",
+      "DEF_ZH":"给（某人或某物）穿鞋或钉蹄铁，尤指给马钉马掌。",
+      "SENT_EN":"The farrier will shoe the horses tomorrow.",
+      "SENT_ZH":"蹄铁匠明天会给马钉蹄铁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fit",
+            "equip"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "horseshoe",
+            "farrier"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] brake shoe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical"
+      ],
+      "DEF_EN":"A block or pad, typically made of friction material, that presses against a rotating surface (such as a wheel or disk) to create friction and slow or stop movement, especially in a vehicle's braking system.",
+      "DEF_ZH":"一种通常由摩擦材料制成的块状或垫状物，它压在旋转表面（如车轮或制动盘）上，产生摩擦以减慢或停止运动，尤其用于车辆的制动系统。",
+      "SENT_EN":"The mechanic had to replace the worn brake shoes on the old truck.",
+      "SENT_ZH":"机械师不得不更换旧卡车上磨损的刹车蹄片。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "brake",
+            "pad",
+            "caliper",
+            "friction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

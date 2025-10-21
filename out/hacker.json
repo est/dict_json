@@ -1,0 +1,109 @@
+{
+  "WORD":"hacker",
+  "IPA":"/ˈhækər/",
+  "CONJUGATES":"hackers",
+  "ETYMOLOGY":"From the verb 'hack' (to cut roughly; to manage) + suffix '-er'. The computer-related meaning evolved from 'hack' meaning to accomplish something cleverly or playfully.",
+  "SINCE":"Late 1950s (for computer-related meanings)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] as a hacker",
+      "POS":"n.",
+      "POS_TIP":"\"n.\" stands for \"noun\", a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "computing",
+        "positive connotation",
+        "informal"
+      ],
+      "DEF_EN":"A person who uses their skill in computer programming to explore the details of programmable systems and how to stretch their capabilities. This meaning is often used positively within the computing community.",
+      "DEF_ZH":"指一个对计算机编程技术有极高热情和技能的人，他们深入探索可编程系统的细节并拓展其能力。在计算机社区内常带有褒义。",
+      "SENT_EN":"The best software often comes from creative hackers who push boundaries and innovate.",
+      "SENT_ZH":"最好的软件往往来自于那些突破界限并勇于创新的黑客。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "programmer",
+            "coder",
+            "developer",
+            "engineer"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "guru",
+            "architect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] as a hacker",
+      "POS":"n.",
+      "POS_TIP":"\"n.\" stands for \"noun\", a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "computing",
+        "negative connotation",
+        "common"
+      ],
+      "DEF_EN":"A person who uses computers to gain unauthorized access to data in a system or network, often with malicious intent.",
+      "DEF_ZH":"指未经授权擅自进入他人计算机系统或网络，以窃取、篡改或破坏数据的人，常带有恶意。",
+      "SENT_EN":"The company's database was compromised by a sophisticated hacker.",
+      "SENT_ZH":"这家公司的数据库被一个高明的黑客攻破了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cracker",
+            "cybercriminal",
+            "intruder"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cybersecurity expert",
+            "defender"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] as a hacker (of sth)",
+      "POS":"n.",
+      "POS_TIP":"\"n.\" stands for \"noun\", a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "less common",
+        "general",
+        "informal",
+        "sometimes derogatory"
+      ],
+      "DEF_EN":"A person who cuts or chops something roughly; also, someone who performs a task with little skill or professionalism, often referring to a writer, artist, or sports player.",
+      "DEF_ZH":"指粗略砍削某物的人；也可指在某项工作（如写作、艺术或体育）中技艺不精或缺乏专业精神的人。",
+      "SENT_EN":"He's more of a hacker than a true craftsman when it comes to carpentry.",
+      "SENT_ZH":"在木工方面，他更像个蹩脚的工匠，而非真正的手艺人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chopper",
+            "duffer",
+            "amateur",
+            "botcher"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "master",
+            "professional",
+            "expert"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Informal to neutral, depending on context and meaning."
+}

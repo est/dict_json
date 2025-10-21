@@ -1,0 +1,105 @@
+{
+  "WORD":"grave",
+  "IPA":"/ɡreɪv/",
+  "CONJUGATES":"graves (n) | graver, gravest (adj)",
+  "ETYMOLOGY":"From Old English græf 'hole in the ground, cave, grave' (for the noun meaning); From Old French grave 'heavy, serious', from Latin gravis 'heavy, weighty, serious' (for the adjective meaning).",
+  "SINCE":"Before 12th century (noun); 14th century (adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is grave",
+      "POS":"adj",
+      "POS_TIP":"adjective: describes a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having a very serious and solemn character or appearance; giving cause for alarm or concern.",
+      "DEF_ZH":"严肃的；庄重的；（形势、后果等）严重的，危急的",
+      "SENT_EN":"The doctor's grave expression told us the news was not good.",
+      "SENT_ZH":"医生严肃的表情告诉我们消息不好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "serious",
+            "solemn",
+            "somber",
+            "critical",
+            "severe",
+            "urgent",
+            "important"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "trivial",
+            "light",
+            "frivolous",
+            "minor",
+            "unimportant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a grave",
+      "POS":"n",
+      "POS_TIP":"noun: a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A place of burial for a dead body, typically a hole dug in the ground and covered.",
+      "DEF_ZH":"坟墓；墓穴；埋葬处",
+      "SENT_EN":"He visited his grandmother's grave every Sunday.",
+      "SENT_ZH":"他每周日都去探望他祖母的坟墓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tomb",
+            "burial site",
+            "sepulcher",
+            "vault"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "graveyard",
+            "cemetery",
+            "epitaph",
+            "mortal coil"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grave [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "rare",
+        "old-fashioned",
+        "literary"
+      ],
+      "DEF_EN":"To carve or engrave (an inscription or image) on a surface.",
+      "DEF_ZH":"雕刻；镌刻",
+      "SENT_EN":"The sculptor graved the intricate patterns into the stone.",
+      "SENT_ZH":"雕塑家将复杂的图案雕刻在石头上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "engrave",
+            "carve",
+            "inscribe",
+            "etch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal (adj); general (n); archaic/literary (v)"
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"announce",
+  "IPA":"/əˈnaʊns/",
+  "CONJUGATES":"announces | announcing | announced",
+  "ETYMOLOGY":"From Old French anoncier (modern annoncer), from Latin annuntiare (ad- 'to' + nuntiare 'to report', from nuntius 'messenger').",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"announce [sth] (to [sb]) | announce that [clause]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "communication",
+        "formal"
+      ],
+      "DEF_EN":"To make a public or formal statement about (a fact, occurrence, or intention).",
+      "DEF_ZH":"公布；宣布；宣告（事实、事件或意图）。",
+      "SENT_EN":"The CEO announced the company's new quarterly earnings to the press.",
+      "SENT_ZH":"首席执行官向媒体宣布了公司新的季度收益。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "declare",
+            "proclaim",
+            "publish",
+            "state"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "announcement",
+            "announcer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"announce [sb] | announce [sb's] arrival",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "social",
+        "protocol"
+      ],
+      "DEF_EN":"To make the arrival or presence of someone known, especially formally or officially.",
+      "DEF_ZH":"正式通报（某人）的到来；介绍（来宾）。",
+      "SENT_EN":"The usher announced the arrival of the foreign dignitary.",
+      "SENT_ZH":"引座员通报了外国政要的到来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "introduce",
+            "herald"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] announces [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "literary",
+        "descriptive"
+      ],
+      "DEF_EN":"To serve as a sign or indication of something that is coming or about to happen.",
+      "DEF_ZH":"预示；宣告（某事的临近）。",
+      "SENT_EN":"The scent of blooming jasmine announced the beginning of spring.",
+      "SENT_ZH":"茉莉花盛开的香味宣告着春天的开始。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "signal",
+            "presage",
+            "foreshadow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; often used in official, media, or formal settings."
+}

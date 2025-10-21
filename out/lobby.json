@@ -1,0 +1,84 @@
+{
+  "WORD":"lobby",
+  "IPA":"/ˈlɒbi/",
+  "CONJUGATES":"lobbies | lobbied | lobbying",
+  "ETYMOLOGY":"From Medieval Latin *lobium* 'gallery', probably via Anglo-Norman French. The political sense emerged from the practice of petitioners waiting in the lobbies of legislative bodies to speak to members.",
+  "SINCE":"Late 16th century (architectural sense), early 19th century (political sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] lobby (of a building)",
+      "POS":"noun",
+      "POS_TIP":"a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "architecture"
+      ],
+      "DEF_EN":"A large open area inside the entrance of a public building, hotel, or theater where people can meet or wait.",
+      "DEF_ZH":"公共建筑、酒店或剧院入口处的宽敞大厅或接待区，人们可以在此会面或等候。",
+      "SENT_EN":"We'll meet in the hotel lobby at 7 o'clock before dinner.",
+      "SENT_ZH":"我们将在晚餐前七点在酒店大堂见面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "foyer",
+            "vestibule",
+            "entrance hall",
+            "reception area"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a lobby",
+      "POS":"noun",
+      "POS_TIP":"a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "political"
+      ],
+      "DEF_EN":"A group of people seeking to influence politicians or public officials on a particular issue.",
+      "DEF_ZH":"试图就某个特定问题影响政客或公职人员的利益团体。",
+      "SENT_EN":"The gun lobby has a powerful influence on political decisions in the country.",
+      "SENT_ZH":"枪支游说团体对该国的政治决策有强大影响力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pressure group",
+            "interest group",
+            "faction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lobby [for/against sth] | lobby [sb/sth]",
+      "POS":"verb",
+      "POS_TIP":"a word or phrase that describes an action, condition, or experience.",
+      "TAGS":[
+        "core word",
+        "common",
+        "political"
+      ],
+      "DEF_EN":"To try to persuade (a politician, government, or organization) to do something, often by private communication.",
+      "DEF_ZH":"（通过私下沟通）试图说服（政客、政府或组织）做某事。",
+      "SENT_EN":"Environmental groups are lobbying for stronger pollution controls.",
+      "SENT_ZH":"环保组织正在游说政府加强污染控制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "campaign",
+            "advocate",
+            "persuade",
+            "exert influence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific usage in political contexts for the latter two meanings."
+}

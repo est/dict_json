@@ -1,0 +1,211 @@
+{
+  "WORD":"short",
+  "IPA":"/ʃɔːrt/",
+  "CONJUGATES":"shorter | shortest (adjective) | shorts | shorted | shorting (verb)",
+  "ETYMOLOGY":"From Old English sceort 'short, not long', from Proto-Germanic *skurtaz. Related to Old Norse skortr 'shortness, lack', Old High German skurz 'short'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] be short",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Measuring a small amount from end to end; not long in space or duration.",
+      "DEF_ZH":"长度或时间不长的；短的。",
+      "SENT_EN":"She has short hair. | The meeting was surprisingly short.",
+      "SENT_ZH":"她留着短发。 | 会议出人意料地短。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brief",
+            "compact",
+            "concise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "long",
+            "extended"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] be short",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having little height.",
+      "DEF_ZH":"个子矮的；不高的。",
+      "SENT_EN":"He is quite short for his age. | The wall was too short to climb easily.",
+      "SENT_ZH":"他这个年纪算矮的。 | 这堵墙太矮了，不容易爬过去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "small",
+            "petite",
+            "low"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "tall",
+            "high"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be short of [sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"adjective (describes a noun) + preposition (links noun/pronoun to other words)",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Not having enough of something; lacking.",
+      "DEF_ZH":"不足的；缺乏的。",
+      "SENT_EN":"We are short of staff right now. | The team is short two players.",
+      "SENT_ZH":"我们现在人手不足。 | 队里缺两名队员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deficient",
+            "scarce",
+            "lacking"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "abundant",
+            "plentiful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a short [temper/fuse]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "common",
+        "idiomatic",
+        "descriptive"
+      ],
+      "DEF_EN":"Quickly and easily annoyed or angered.",
+      "DEF_ZH":"易怒的；性急的。",
+      "SENT_EN":"He has a very short temper. | She's known for her short fuse.",
+      "SENT_ZH":"他脾气很暴躁。 | 她以脾气暴躁而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "irritable",
+            "impatient",
+            "fiery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stop short | cut short",
+      "POS":"adv",
+      "POS_TIP":"adverb (modifies a verb, adjective, or other adverb)",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Suddenly and unexpectedly; abruptly.",
+      "DEF_ZH":"突然地；意外地。",
+      "SENT_EN":"The car stopped short just before the intersection. | The journey was cut short due to bad weather.",
+      "SENT_ZH":"汽车在十字路口前突然停了下来。 | 由于恶劣天气，旅程突然中断。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abruptly",
+            "suddenly",
+            "sharply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a short",
+      "POS":"n",
+      "POS_TIP":"noun (a person, place, thing, or idea)",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"A short film or story; a brief piece of writing or broadcasting.",
+      "DEF_ZH":"短片；短篇故事；短篇作品。",
+      "SENT_EN":"They showed a short before the main feature. | We read a short by a famous author.",
+      "SENT_ZH":"他们在正片前放映了一部短片。 | 我们读了一位著名作家的短篇作品。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "short film",
+            "short story"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a short",
+      "POS":"n",
+      "POS_TIP":"noun (a person, place, thing, or idea)",
+      "TAGS":[
+        "technical",
+        "informal"
+      ],
+      "DEF_EN":"An electrical short circuit.",
+      "DEF_ZH":"（电器的）短路。",
+      "SENT_EN":"There must be a short in the wiring. | The lights went out because of a short.",
+      "SENT_ZH":"电线肯定短路了。 | 灯灭了是因为短路。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "short circuit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] short [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "technical",
+        "informal"
+      ],
+      "DEF_EN":"To cause a short circuit in (something).",
+      "DEF_ZH":"使（某物）短路。",
+      "SENT_EN":"Don't let the wires touch, or you'll short the system. | He accidentally shorted the fuse.",
+      "SENT_ZH":"不要让电线接触，否则会使系统短路。 | 他不小心弄短路了保险丝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "short-circuit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday language, with specific technical and idiomatic uses."
+}

@@ -1,0 +1,100 @@
+{
+  "WORD":"dealer",
+  "IPA":"/ˈdiːlər/",
+  "CONJUGATES":"dealer | dealers",
+  "ETYMOLOGY":"From Middle English `delere`, equivalent to `deal` (from Old English `dǣlan` 'to divide, distribute') + `-er` (agent suffix).",
+  "SINCE":"Late 14th century (general sense); 1750 (seller of goods); 1928 (seller of illicit drugs).",
+  "MEANINGS":[
+    {
+      "PATTERN":"a dealer (in something)",
+      "POS":"noun",
+      "POS_TIP":"noun: A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"A person or company that buys and sells goods, especially in a particular type of goods.",
+      "DEF_ZH":"销售特定商品（尤指大量）的个人或公司；商人，贩子。",
+      "SENT_EN":"He's a reputable antique dealer with a shop in the city center.",
+      "SENT_ZH":"他是一位在市中心开店的知名古董商人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trader",
+            "merchant",
+            "vendor",
+            "retailer",
+            "wholesaler"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dealership",
+            "broker",
+            "stockbroker"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drug dealer | a dealer",
+      "POS":"noun",
+      "POS_TIP":"noun: A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "informal",
+        "slang",
+        "negative connotation"
+      ],
+      "DEF_EN":"A person who sells illegal drugs.",
+      "DEF_ZH":"毒品贩子。",
+      "SENT_EN":"The police arrested a suspected drug dealer last night.",
+      "SENT_ZH":"警方昨晚逮捕了一名涉嫌贩毒的毒贩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pusher",
+            "trafficker",
+            "drug lord"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "drugs",
+            "narcotics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dealer",
+      "POS":"noun",
+      "POS_TIP":"noun: A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "specific context",
+        "common",
+        "games"
+      ],
+      "DEF_EN":"In card games, the player whose turn it is to distribute the cards.",
+      "DEF_ZH":"（纸牌游戏中）发牌者。",
+      "SENT_EN":"It's your turn to be the dealer in this round of blackjack.",
+      "SENT_ZH":"这轮二十一点该你发牌了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "deck",
+            "hand",
+            "card game",
+            "player"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"heater",
+  "IPA":"/ˈhiːtər/",
+  "CONJUGATES":"heaters",
+  "ETYMOLOGY":"From the verb 'heat' (Old English hǣtan, from Proto-Germanic *haitijan) combined with the agent noun suffix '-er', denoting a device or agent.",
+  "SINCE":"c. 1880",
+  "MEANINGS":[
+    {
+      "PATTERN":"heater [device]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An apparatus, machine, or device used to generate heat, especially for raising the temperature of a room, vehicle, or water.",
+      "DEF_ZH":"一种用于产生热量的仪器、机器或装置，特别是用于提高房间、车辆或水的温度。",
+      "SENT_EN":"The portable electric heater was essential for keeping the small office warm during the winter.",
+      "SENT_ZH":"便携式电暖器对于确保小型办公室在冬季保持温暖至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "furnace",
+            "radiator",
+            "boiler",
+            "stove"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "thermostat",
+            "HVAC"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heater [slang for weapon]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "US informal",
+        "dated"
+      ],
+      "DEF_EN":"(Slang) A firearm, especially a pistol or handgun.",
+      "DEF_ZH":"（俚语）火器，尤指手枪。",
+      "SENT_EN":"He kept his heater tucked away in the glove compartment.",
+      "SENT_ZH":"他把他的枪藏在储物格里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gun",
+            "pistol",
+            "firearm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heater [baseball slang]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports slang",
+        "baseball"
+      ],
+      "DEF_EN":"(Baseball slang) A very fast pitch; a fastball.",
+      "DEF_ZH":"（棒球俚语）非常快的投球；快速球。",
+      "SENT_EN":"The reliever threw a 100-mile-per-hour heater right down the middle of the plate.",
+      "SENT_ZH":"这名替补投手投出了一个时速100英里的快速球，正好落在本垒板中央。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fastball",
+            "bullet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, technical, and informal (for slang meanings)"
+}

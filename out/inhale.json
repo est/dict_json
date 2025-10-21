@@ -1,0 +1,78 @@
+{
+  "WORD":"inhale",
+  "IPA":"/ɪnˈheɪl/",
+  "CONJUGATES":"inhaled | inhaling | inhales",
+  "ETYMOLOGY":"From Latin inhalare, from in- ('into') + halare ('to breathe').",
+  "SINCE":"Mid-16th century (circa 1540s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"inhale [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "biological"
+      ],
+      "DEF_EN":"To draw air, smoke, or other substances into the lungs.",
+      "DEF_ZH":"将空气、烟雾或其他物质吸入肺部。",
+      "SENT_EN":"She paused to inhale the fresh mountain air.",
+      "SENT_ZH":"她停下来深吸了一口新鲜的山区空气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breathe in",
+            "draw in",
+            "inspire"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exhale",
+            "breathe out"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "inhalation",
+            "respiration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inhale [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"To consume food or drink very quickly and ravenously.",
+      "DEF_ZH":"（非正式）快速而贪婪地吞食或饮用（食物或饮料）。",
+      "SENT_EN":"He was so hungry he practically inhaled the entire pizza.",
+      "SENT_ZH":"他太饿了，几乎是瞬间吞下了整张披萨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "devour",
+            "gulp down",
+            "wolf down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "savor",
+            "nibble"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, common in medical and everyday contexts."
+}

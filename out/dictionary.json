@@ -1,0 +1,62 @@
+{
+  "WORD":"dictionary",
+  "IPA":"/ˈdɪkʃəˌnɛri/",
+  "CONJUGATES":"dictionaries",
+  "ETYMOLOGY":"From Medieval Latin *dictionarium* (collection of words), derived from Latin *dictio* (word, expression), related to *dicere* (to say).",
+  "SINCE":"c. 1520s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] dictionary (of [a language] | of [a subject])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "reference"
+      ],
+      "DEF_EN":"A book, electronic resource, or database that lists the words of a language (or a specific subject) and gives their meaning, usage, pronunciation, and etymology.",
+      "DEF_ZH":"一本图书、电子资源或数据库，列出某种语言（或特定学科）的词汇，并提供它们的含义、用法、发音和词源。",
+      "SENT_EN":"Always keep a good English dictionary nearby when you are reading technical documents.",
+      "SENT_ZH":"阅读技术文档时，手边应常备一本好的英文字典。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lexicon",
+            "glossary",
+            "wordbook",
+            "thesaurus"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lexicography"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] dictionary (computing)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In programming or data science, a mutable data structure that stores a collection of distinct key-value pairs, often implemented as a hash map or associative array.",
+      "DEF_ZH":"在编程或数据科学中，一种可变的数据结构，用于存储一组独特的键值对，通常实现为哈希映射或关联数组。",
+      "SENT_EN":"We used a Python dictionary to map the configuration settings to their appropriate values.",
+      "SENT_ZH":"我们使用 Python 字典来将配置设置映射到它们的相应值。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hash map",
+            "associative array"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard/Formal"
+}

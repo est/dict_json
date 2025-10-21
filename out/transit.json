@@ -1,0 +1,99 @@
+{
+  "WORD":"transit",
+  "IPA":"/ˈtrænzɪt/",
+  "CONJUGATES":"transits | transiting | transited",
+  "ETYMOLOGY":"From Latin transitus (past participle of transire 'to go across, pass over'), from trans- ('across') + ire ('to go').",
+  "SINCE":"Late 15th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"transit [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"The act of passing, conveying, or shipping people or things from one place to another.",
+      "DEF_ZH":"运输；运送；通过；通行。",
+      "SENT_EN":"The package was lost in transit and never reached its destination.",
+      "SENT_ZH":"包裹在运输途中丢失，从未到达目的地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "passage",
+            "transportation",
+            "movement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shipping",
+            "freight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"public transit | mass transit",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "common",
+        "US usage"
+      ],
+      "DEF_EN":"A system of public transportation, such as buses, trains, and subways, especially within a city or metropolitan area.",
+      "DEF_ZH":"公共交通系统（尤指城市内的公交、地铁等）。",
+      "SENT_EN":"We rely heavily on reliable public transit to commute downtown.",
+      "SENT_ZH":"我们严重依赖可靠的公共交通系统到市中心通勤。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "subway",
+            "metro",
+            "bus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transit [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive verb (verb requiring a direct object).",
+      "TAGS":[
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"To pass or travel across or through (an area or object).",
+      "DEF_ZH":"横越；通过；（使）经过。",
+      "SENT_EN":"All commercial vehicles must transit the inspection point before entering the zone.",
+      "SENT_ZH":"所有商用车辆在进入该区域之前都必须经过检查点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "traverse",
+            "cross"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transit of [celestial body]",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "technical",
+        "astronomy"
+      ],
+      "DEF_EN":"The passage of a smaller celestial body across the disk of a larger one, such as a planet crossing the face of the Sun.",
+      "DEF_ZH":"（天体）凌日；中天。",
+      "SENT_EN":"The rare transit of Venus was observed by scientists around the world.",
+      "SENT_ZH":"世界各地的科学家观测到了罕见的金星凌日。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Technical, Business, Travel"
+}

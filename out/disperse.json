@@ -1,0 +1,85 @@
+{
+  "WORD":"disperse",
+  "IPA":"/dɪˈspɜːrs/",
+  "CONJUGATES":"disperses | dispersing | dispersed",
+  "ETYMOLOGY":"From Middle English dispersen, from Latin dispergere (dis- 'apart' + spargere 'to scatter, strew').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"disperse [sth] | disperse",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To spread over a wide area, or to cause people or things to move away and scatter in different directions.",
+      "DEF_ZH":"（使）散开；（使）分散；驱散。",
+      "SENT_EN":"The police used tear gas to disperse the rioters.",
+      "SENT_ZH":"警方使用催泪瓦斯驱散了暴徒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scatter",
+            "spread",
+            "break up",
+            "separate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "gather",
+            "assemble",
+            "concentrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disperse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"To separate (light or radiation) into constituents of different wavelengths.",
+      "DEF_ZH":"（使）色散（将光线或辐射分离为不同波长的组成部分）。",
+      "SENT_EN":"A prism is used to disperse white light into a spectrum of colors.",
+      "SENT_ZH":"棱镜用于将白光色散成一系列光谱颜色。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dispersion",
+            "refract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disperse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To distribute or disseminate widely.",
+      "DEF_ZH":"广泛分发；传播（信息或资源）。",
+      "SENT_EN":"The organization works to disperse critical aid to remote villages.",
+      "SENT_ZH":"该组织致力于向偏远村庄分发关键援助物资。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distribute",
+            "disseminate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in formal and scientific contexts."
+}

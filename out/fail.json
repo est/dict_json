@@ -1,0 +1,189 @@
+{
+  "WORD":"fail",
+  "IPA":"/feɪl/",
+  "CONJUGATES":"fails | failed | failing",
+  "ETYMOLOGY":"From Old French faillir ('to fail, to miss, to err'), from Latin fallere ('to deceive, to disappoint, to fail').",
+  "SINCE":"Late 13th century (as a verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"fail",
+      "POS":"vi",
+      "POS_TIP":"vi means 'intransitive verb', a verb that does not require a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To not succeed in achieving something or in doing something; to be unsuccessful.",
+      "DEF_ZH":"未能成功做某事或达到某目标；未成功。",
+      "SENT_EN":"He studied hard but still failed the exam.",
+      "SENT_ZH":"他努力学习了，但考试还是没通过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flunk",
+            "falter",
+            "miscarry",
+            "bomb",
+            "founder"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "succeed",
+            "pass",
+            "win",
+            "achieve",
+            "prosper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fail [sth]",
+      "POS":"vt",
+      "POS_TIP":"vt means 'transitive verb', a verb that requires a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To not pass a test, course, or examination.",
+      "DEF_ZH":"未通过（考试、课程等）。",
+      "SENT_EN":"I failed my driving test again.",
+      "SENT_ZH":"我驾驶考试又没通过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flunk",
+            "bomb"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "pass",
+            "ace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fail [sb]",
+      "POS":"vt",
+      "POS_TIP":"vt means 'transitive verb', a verb that requires a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To disappoint someone by not doing what they expect or need; to let someone down.",
+      "DEF_ZH":"令某人失望，未能达到其期望或需求；辜负某人。",
+      "SENT_EN":"I promised to help, and I won't fail you.",
+      "SENT_ZH":"我答应帮忙了，我不会让你失望的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disappoint",
+            "let down",
+            "betray",
+            "desert"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "satisfy",
+            "support",
+            "fulfill",
+            "uphold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fail",
+      "POS":"vi",
+      "POS_TIP":"vi means 'intransitive verb', a verb that does not require a direct object.",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To stop working correctly or completely; to become weak or insufficient.",
+      "DEF_ZH":"停止正常运作或完全失效；变弱或不足。",
+      "SENT_EN":"The car's brakes failed, causing an accident.",
+      "SENT_ZH":"汽车刹车失灵，导致了一起事故。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "break down",
+            "malfunction",
+            "deteriorate",
+            "give out",
+            "collapse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fail to [do sth]",
+      "POS":"vi",
+      "POS_TIP":"vi means 'intransitive verb', a verb that does not require a direct object.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To neglect or omit to do something; to be unable to do something.",
+      "DEF_ZH":"未能做到某事；疏忽或遗漏做某事。",
+      "SENT_EN":"She failed to report the incident to the police.",
+      "SENT_ZH":"她未能向警方报告这起事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "neglect",
+            "omit",
+            "miss",
+            "forget",
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fail",
+      "POS":"n",
+      "POS_TIP":"n means 'noun', a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"An instance of failing, especially in an examination or assessment.",
+      "DEF_ZH":"一次失败，尤指考试或评估的失败。",
+      "SENT_EN":"Getting a fail on that project was a real disappointment.",
+      "SENT_ZH":"那个项目得了不及格真是令人失望。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "failure",
+            "fiasco",
+            "disaster",
+            "flop",
+            "debacle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "success",
+            "pass",
+            "achievement",
+            "triumph"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

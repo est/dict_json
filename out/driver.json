@@ -1,0 +1,117 @@
+{
+  "WORD":"driver",
+  "IPA":"/ˈdraɪvər/",
+  "CONJUGATES":"drivers (plural)",
+  "ETYMOLOGY":"From Old English drīfan 'to drive, force, compel' + -er (agent suffix), meaning 'one who drives'.",
+  "SINCE":"Late 14th century (for a person operating a vehicle)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] as a driver",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who drives or operates a vehicle.",
+      "DEF_ZH":"驾驶或操作车辆的人。",
+      "SENT_EN":"The bus driver skillfully navigated the busy streets.",
+      "SENT_ZH":"巴士司机熟练地穿梭于繁忙的街道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chauffeur",
+            "motorist",
+            "operator"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "driving",
+            "vehicle",
+            "passenger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a driver [for sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"A program that controls a peripheral device or connects a software application to hardware.",
+      "DEF_ZH":"一种控制外围设备或连接软件应用程序与硬件的程序。",
+      "SENT_EN":"I need to install the printer driver before I can print anything.",
+      "SENT_ZH":"我需要安装打印机驱动程序才能打印任何东西。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "software",
+            "hardware",
+            "firmware",
+            "plugin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a driver [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"A factor that causes or influences a particular process or development.",
+      "DEF_ZH":"导致或影响特定过程或发展的因素。",
+      "SENT_EN":"Innovation is a key driver of economic growth.",
+      "SENT_ZH":"创新是经济增长的关键驱动力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "catalyst",
+            "impetus",
+            "force",
+            "factor",
+            "initiator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a driver",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "sport",
+        "golf",
+        "specific"
+      ],
+      "DEF_EN":"A large-headed golf club, typically with a wooden or composite head, used for hitting the ball a long distance from the tee.",
+      "DEF_ZH":"一种大头高尔夫球杆，通常由木材或复合材料制成，用于在发球台将球击出很远的距离。",
+      "SENT_EN":"He used his driver to hit the ball over 300 yards.",
+      "SENT_ZH":"他用一号木杆将球击出了300多码。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "golf",
+            "club",
+            "iron",
+            "putter",
+            "fairway wood"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across various contexts, with specific technical uses in computing and sports."
+}

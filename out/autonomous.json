@@ -1,0 +1,112 @@
+{
+  "WORD":"autonomous",
+  "IPA":"/ɔːˈtɒnəməs/",
+  "CONJUGATES":"autonomously (adv) | autonomy (n)",
+  "ETYMOLOGY":"From Greek autonomos 'having its own laws', from auto- 'self' + nomos 'law'.",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] autonomous",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"(Of a country or region) having the freedom to govern itself or control its own affairs.",
+      "DEF_ZH":"(国家或地区)自治的；有自治权的",
+      "SENT_EN":"The region was granted autonomous status within the federation.",
+      "SENT_ZH":"该地区在联邦内获得了自治地位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "self-governing",
+            "independent",
+            "self-ruling",
+            "sovereign"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dependent",
+            "subordinate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "autonomy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] autonomous",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"(Of a person or organization) having the freedom to act independently.",
+      "DEF_ZH":"(人或组织)独立的；自主的；不受控制的",
+      "SENT_EN":"They want to make autonomous decisions without constant supervision.",
+      "SENT_ZH":"他们希望在没有持续监督的情况下做出自主决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "independent",
+            "self-directed",
+            "self-sufficient",
+            "freethinking"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "controlled",
+            "dependent",
+            "supervised"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] autonomous",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technical",
+        "modern"
+      ],
+      "DEF_EN":"(Of a vehicle, robot, or device) able to function independently without human control.",
+      "DEF_ZH":"(车辆、机器人或设备)自动的；无人驾驶的；自主运行的",
+      "SENT_EN":"The company is developing autonomous driving technology.",
+      "SENT_ZH":"这家公司正在开发自动驾驶技术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "self-driving",
+            "self-operating",
+            "robotic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "robotics",
+            "AI",
+            "automation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and technical contexts, also general use."
+}

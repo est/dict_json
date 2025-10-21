@@ -1,0 +1,91 @@
+{
+  "WORD":"modify",
+  "IPA":"/ˈmɑːdəfaɪ/",
+  "CONJUGATES":"modifies | modified | modifying",
+  "ETYMOLOGY":"From Old French modifier, from Latin modificāre 'to limit, measure, regulate', from modus 'measure' + facere 'to make'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"modify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make partial or minor changes to something, typically in order to improve it or make it less extreme.",
+      "DEF_ZH":"对某事物进行部分或细微的改变，通常是为了改进它或使其不那么极端。",
+      "SENT_EN":"The committee decided to modify the proposal based on feedback.",
+      "SENT_ZH":"委员会决定根据反馈修改提案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alter",
+            "adjust",
+            "adapt",
+            "amend",
+            "revise",
+            "change"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "keep",
+            "retain",
+            "preserve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"modify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"(Grammar) To describe or restrict the meaning of a word or phrase.",
+      "DEF_ZH":"（语法）修饰或限制一个词语的意义。",
+      "SENT_EN":"In the phrase 'bright red car', 'bright' modifies 'red', and 'red' modifies 'car'.",
+      "SENT_ZH":"在短语“bright red car”中，“bright”修饰“red”，“red”修饰“car”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "describe",
+            "qualify",
+            "limit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"modify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "technical",
+        "biology",
+        "genetics"
+      ],
+      "DEF_EN":"To change the genetic makeup of an organism, often through genetic engineering.",
+      "DEF_ZH":"改变一个生物体的基因构成，通常通过基因工程。",
+      "SENT_EN":"Scientists are working to modify crops to resist drought.",
+      "SENT_ZH":"科学家正在努力改良作物以抵抗干旱。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "genetically modify",
+            "GMO",
+            "bioengineer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

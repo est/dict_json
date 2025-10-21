@@ -1,0 +1,68 @@
+{
+  "WORD":"excited",
+  "IPA":"/ɪkˈsaɪtɪd/",
+  "CONJUGATES":"excite | excites | exciting | excited",
+  "ETYMOLOGY":"From the verb 'excite', derived from Middle French exciter, and directly from Latin excitāre (ex- 'out, thoroughly' + citāre 'to rouse, summon').",
+  "SINCE":"Early 17th century (as a verb form/adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"excited [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "emotion"
+      ],
+      "DEF_EN":"Feeling or showing great enthusiasm and eagerness; stimulated to a heightened state of emotion.",
+      "DEF_ZH":"感到或表现出极大的热情、兴奋或渴望的；被刺激到高度情绪状态的。",
+      "SENT_EN":"She was so excited that she couldn't sleep the night before the concert.",
+      "SENT_ZH":"她太兴奋了，以至于音乐会前一晚都没睡着。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thrilled",
+            "elated",
+            "enthusiastic",
+            "eager",
+            "overjoyed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bored",
+            "indifferent",
+            "uninterested",
+            "subdued"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"excited [vpp]",
+      "POS":"vpp",
+      "POS_TIP":"verb past participle",
+      "TAGS":[
+        "technical",
+        "physics",
+        "chemistry"
+      ],
+      "DEF_EN":"(Of an atom, molecule, or electron) Having absorbed energy and moved to a higher energy state.",
+      "DEF_ZH":"（指原子、分子或电子）吸收了能量并跃迁到更高能级的；被激发的。",
+      "SENT_EN":"An excited electron quickly decays back to its ground state, releasing a photon.",
+      "SENT_ZH":"一个被激发的电子会迅速衰减回基态，释放出光子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stimulated",
+            "activated",
+            "energized"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

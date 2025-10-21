@@ -1,0 +1,81 @@
+{
+  "WORD":"periodic",
+  "IPA":"/ˌpɪəriˈɒdɪk/",
+  "CONJUGATES":"Adjective: periodic | Adverb: periodically | Noun: periodicity",
+  "ETYMOLOGY":"From French périodique, or directly from Late Latin periodicus, from Greek periodikos 'recurrent', from periodos 'circuit, period'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is periodic | periodic [sth]",
+      "POS":"adj.",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Occurring or appearing at regular intervals.",
+      "DEF_ZH":"定期发生的；周期的；周期性的。",
+      "SENT_EN":"The periodic inspection of safety equipment is crucial.",
+      "SENT_ZH":"对安全设备进行定期检查至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regular",
+            "cyclical",
+            "intermittent",
+            "recurrent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"periodic [table/element]",
+      "POS":"adj.",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"Relating to the periodic table of elements, which arranges chemical elements by atomic number and recurring chemical properties.",
+      "DEF_ZH":"与元素周期表相关的；周期的 (化学)。",
+      "SENT_EN":"Mendeleev developed the periodic classification of elements.",
+      "SENT_ZH":"门捷列夫发展了元素的周期性分类。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "periodic table",
+            "element",
+            "periodicity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"periodic [function/motion]",
+      "POS":"adj.",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "physics"
+      ],
+      "DEF_EN":"(Of a function or phenomenon) repeating its values or course at regular intervals.",
+      "DEF_ZH":"(函数或现象) 周期的；周期性的。",
+      "SENT_EN":"A pendulum's swing exhibits periodic motion.",
+      "SENT_ZH":"摆的摆动表现出周期性运动。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "period",
+            "frequency",
+            "oscillation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

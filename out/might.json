@@ -1,0 +1,99 @@
+{
+  "WORD":"might",
+  "IPA":"/maɪt/",
+  "CONJUGATES":"modal verb: might | noun: might (singular) | mights (plural, rare)",
+  "ETYMOLOGY":"From Old English 'miht' (noun) and 'mihte' (past tense of 'magan' 'to be able'), from Proto-Germanic *mahti- (noun) and *maganan (verb), ultimately from Proto-Indo-European *magh- 'to be able, have power'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] might [do sth]",
+      "POS":"modal verb",
+      "POS_TIP":"A verb that expresses possibility or uncertainty.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to express possibility or probability, often indicating a less certain outcome than 'may'.",
+      "DEF_ZH":"用于表示可能性或不确定性，通常比“may”表示的确定性更低。",
+      "SENT_EN":"It might rain later, so take an umbrella.",
+      "SENT_ZH":"待会儿可能会下雨，所以带把伞吧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "may",
+            "could"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] might have [done sth]",
+      "POS":"modal verb phrase",
+      "POS_TIP":"A modal verb combined with a perfect infinitive to express a past possibility.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Used to express a past possibility that did not happen, or to speculate about a past event.",
+      "DEF_ZH":"用于表示过去可能发生但未实现的情况，或推测过去的事件。",
+      "SENT_EN":"She might have forgotten about our appointment.",
+      "SENT_ZH":"她可能把我们的约会忘了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "could have"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] might [do sth]",
+      "POS":"modal verb",
+      "POS_TIP":"A verb that expresses necessity or possibility.",
+      "TAGS":[
+        "common",
+        "polite"
+      ],
+      "DEF_EN":"Used to make a polite suggestion or a tentative recommendation.",
+      "DEF_ZH":"用于提出礼貌的建议或试探性的推荐。",
+      "SENT_EN":"You might want to check your email before you leave.",
+      "SENT_ZH":"你走之前或许可以查一下邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "could",
+            "should"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] might | with [all one's] might",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"Great power, strength, or influence.",
+      "DEF_ZH":"巨大的力量、实力或影响力。",
+      "SENT_EN":"He fought with all his might against the invaders.",
+      "SENT_ZH":"他用尽全力抵抗入侵者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strength",
+            "power",
+            "force",
+            "potency"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Everyday language, with the noun form being more formal or literary."
+}

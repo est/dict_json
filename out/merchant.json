@@ -1,0 +1,95 @@
+{
+  "WORD":"merchant",
+  "IPA":"/'mɜːrtʃənt/",
+  "CONJUGATES":"merchants (plural)",
+  "ETYMOLOGY":"From Middle English marchant, from Old French marchant (present participle of marchander 'to trade'), ultimately from Vulgar Latin mercatans, derived from Latin mercari 'to trade'.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] merchant [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "commerce"
+      ],
+      "DEF_EN":"A person or company that buys and sells commodities, especially on a large scale, often internationally or wholesale.",
+      "DEF_ZH":"从事商品买卖（尤指大规模的、批发或国际贸易）的人或公司；商人；批发商。",
+      "SENT_EN":"The powerful grain merchant controlled prices across the entire region.",
+      "SENT_ZH":"那位强大的粮食商人控制着整个地区的物价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trader",
+            "dealer",
+            "wholesaler",
+            "broker"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "commerce",
+            "merchandise",
+            "market"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] [type of goods] merchant",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "specific"
+      ],
+      "DEF_EN":"A person who operates a retail business or specializes in selling a specific type of goods (often used in compound nouns like 'wine merchant').",
+      "DEF_ZH":"经营零售业务或专营某一类商品（如：酒、鱼）的零售商或店主。",
+      "SENT_EN":"She inherited her family's long-established tea merchant business.",
+      "SENT_ZH":"她继承了她家族长期经营的茶叶零售业务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retailer",
+            "shopkeeper",
+            "vendor",
+            "purveyor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"merchant [ship/bank/marine]",
+      "POS":"adjective",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "naval"
+      ],
+      "DEF_EN":"Relating to commerce, trade, or merchandise; used to describe ships or services involved in commercial transport.",
+      "DEF_ZH":"商业的；贸易的；（尤指）商船的；用于商业运输的。",
+      "SENT_EN":"He joined the merchant marine to see the world.",
+      "SENT_ZH":"他加入了商船队去周游世界。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commercial",
+            "trading"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "maritime",
+            "shipping"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

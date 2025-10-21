@@ -1,0 +1,66 @@
+{
+  "WORD":"proportional",
+  "IPA":"/prəˈpɔːrʃənəl/",
+  "CONJUGATES":"proportionally (adv)",
+  "ETYMOLOGY":"From Latin proportio (pro- 'for' + portio 'part') + -al (adjective suffix). Originally referred to having a proper relationship of parts to a whole.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] proportional to [sth else]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (a word that describes a noun or pronoun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Corresponding in size, degree, or amount to something else.",
+      "DEF_ZH":"在大小、程度或数量上与某物相符的；成比例的；相称的。",
+      "SENT_EN":"The punishment should be proportional to the crime committed.",
+      "SENT_ZH":"惩罚应该与所犯罪行相称。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commensurate",
+            "corresponding",
+            "equivalent",
+            "relative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disproportionate",
+            "unbalanced",
+            "unequal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (directly/inversely) proportional to [sth else]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (a word that describes a noun or pronoun)",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"(Mathematics) Having a constant ratio to another quantity; varying in accordance with another quantity.",
+      "DEF_ZH":"（数学）与另一数量具有固定比率的；随另一数量而变化的（常指成正比或反比）。",
+      "SENT_EN":"The force applied is directly proportional to the acceleration produced.",
+      "SENT_ZH":"施加的力与产生的加速度成正比。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ratio",
+            "proportion",
+            "direct proportion",
+            "inverse proportion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

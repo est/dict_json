@@ -1,0 +1,110 @@
+{
+  "WORD":"edit",
+  "IPA":"/ˈɛdɪt/",
+  "CONJUGATES":"edits | editing | edited",
+  "ETYMOLOGY":"From French éditer (to publish, to edit), derived from Latin ēditus, past participle of ēdere ('to put forth, publish'), from ex- ('out') + dare ('to give').",
+  "SINCE":"Mid 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"edit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "standard"
+      ],
+      "DEF_EN":"To prepare written material for publication by correcting, revising, or modifying it.",
+      "DEF_ZH":"通过修正、修改或删节来为出版准备书面材料。",
+      "SENT_EN":"Please edit the article for clarity before we print it.",
+      "SENT_ZH":"请在打印前编辑这篇文章以使其清晰明了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revise",
+            "proofread",
+            "amend",
+            "refine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "editor",
+            "editing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"edit [sth] (media)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To cut, arrange, or join sections of film, video, or audio recordings; to modify digital data.",
+      "DEF_ZH":"对电影、视频或音频记录的片段进行剪切、排列或接合；修改数字数据。",
+      "SENT_EN":"It took hours to edit the raw footage into a coherent film.",
+      "SENT_ZH":"花了数小时才将原始素材剪辑成一部连贯的电影。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "splice",
+            "cut",
+            "trim",
+            "assemble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"edit [sth] (publication)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "role",
+        "management"
+      ],
+      "DEF_EN":"To be the editor of a publication, managing its content and production.",
+      "DEF_ZH":"担任出版物的编辑，管理其内容和制作方向。",
+      "SENT_EN":"She was asked to edit the university’s literary magazine.",
+      "SENT_ZH":"她被邀请编辑这所大学的文学杂志。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "curate",
+            "publish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an edit",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "standard",
+        "result"
+      ],
+      "DEF_EN":"A change, correction, or modification made as a result of editing.",
+      "DEF_ZH":"编辑后所做出的更改、修正或修改。",
+      "SENT_EN":"The final version required only one small edit.",
+      "SENT_ZH":"最终版本只需要一个小小的修改。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "correction",
+            "revision",
+            "modification"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard usage, common in media, publishing, and computing contexts."
+}

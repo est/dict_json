@@ -1,0 +1,86 @@
+{
+  "WORD":"debate",
+  "IPA":"/dɪˈbeɪt/",
+  "CONJUGATES":"debates | debating | debated",
+  "ETYMOLOGY":"From Old French debatre (to fight, quarrel, discuss), from de- (thoroughly) + battre (to beat, fight).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] debate [on/over sth]",
+      "POS":"nc",
+      "POS_TIP":"noun countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A formal discussion on a particular topic in a public setting or legislative assembly, where opposing arguments are presented.",
+      "DEF_ZH":"（尤指在公开场合或立法机构中）关于某一特定主题的正式讨论或辩论，通常涉及对立的观点。",
+      "SENT_EN":"The current political debate centers on climate change policy.",
+      "SENT_ZH":"当前的政治辩论集中在气候变化政策上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discussion",
+            "argument",
+            "controversy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "forum",
+            "parley"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"debate [sth] | debate [on/over sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"verb transitive | verb intransitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To discuss opposing arguments about something; to argue about something formally.",
+      "DEF_ZH":"对某事展开讨论或争论，通常以正式的方式进行。",
+      "SENT_EN":"They debated the merits of the new software update for two hours.",
+      "SENT_ZH":"他们就新软件更新的优点辩论了两个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discuss",
+            "dispute",
+            "argue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"debate [with oneself] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "formal",
+        "internal"
+      ],
+      "DEF_EN":"To consider a matter or question carefully, especially internally, before reaching a decision.",
+      "DEF_ZH":"（尤指在做出决定前在内心）仔细考虑、斟酌某事或问题。",
+      "SENT_EN":"She debated whether to resign or ask for a transfer.",
+      "SENT_ZH":"她斟酌着是该辞职还是要求调职。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contemplate",
+            "ponder",
+            "weigh"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Common"
+}

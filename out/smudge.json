@@ -1,0 +1,86 @@
+{
+  "WORD":"smudge",
+  "IPA":"/smʌdʒ/",
+  "CONJUGATES":"smudges | smudging | smudged",
+  "ETYMOLOGY":"From earlier English 'smutch', likely related to Old English 'smyttan' (to stain, defile) or Low German 'smudden' (to make dirty).",
+  "SINCE":"c. 15th century (verb), c. 17th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"smudge [sth] | smudge [sth] [with sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"vtr: transitive verb (takes a direct object); vint: intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core",
+        "common"
+      ],
+      "DEF_EN":"To make a dirty or blurred mark, streak, or smear on something; to cause ink or paint to become unclear or spread.",
+      "DEF_ZH":"在某物上弄脏、弄模糊或留下污迹；使墨迹或颜料变得模糊不清或扩散。",
+      "SENT_EN":"Be careful not to smudge the ink on the drawing before it dries completely.",
+      "SENT_ZH":"在画作的墨水完全干透之前，要小心不要把它弄模糊了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smear",
+            "blur",
+            "stain",
+            "streak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a smudge [on sth]",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core",
+        "common"
+      ],
+      "DEF_EN":"A dirty or blurred mark, streak, or smear.",
+      "DEF_ZH":"污迹，脏斑；模糊的印记。",
+      "SENT_EN":"There was a small smudge of dirt on her cheek after playing in the garden.",
+      "SENT_ZH":"在花园里玩耍后，她脸颊上有一小块污迹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smear",
+            "stain",
+            "blot",
+            "mark"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"smudge [sth] | smudge [a fire]",
+      "POS":"vint | vtr",
+      "POS_TIP":"vint: intransitive verb (does not take a direct object); vtr: transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "specific_use"
+      ],
+      "DEF_EN":"To make a smoky fire, especially to drive away insects or to protect fruit trees from frost.",
+      "DEF_ZH":"燃起烟火（尤指驱赶昆虫或保护果树免受霜冻）。",
+      "SENT_EN":"Farmers sometimes smudge their orchards to prevent frost damage to young blossoms.",
+      "SENT_ZH":"农民有时会熏果园，以防止霜冻损害幼小的花朵。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a smudge",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "common",
+        "specific_use"
+      ],
+      "DEF_EN":"A smoky fire, particularly one used to deter insects or protect plants.",
+      "DEF_ZH":"烟火（尤指用于驱虫或保护植物）。",
+      "SENT_EN":"The smudge from the burning leaves kept the mosquitoes at bay.",
+      "SENT_ZH":"燃烧树叶产生的烟火将蚊子驱散了。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"The 'dirty mark' meanings are common and informal; the 'smoky fire' meanings are common in specific contexts like agriculture or outdoor activities."
+}

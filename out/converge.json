@@ -1,0 +1,96 @@
+{
+  "WORD":"converge",
+  "IPA":"/kənˈvɜːrdʒ/",
+  "CONJUGATES":"converges | converging | converged",
+  "ETYMOLOGY":"From Latin convergere, from con- ('together') + vergere ('to incline, tend toward').",
+  "SINCE":"Mid 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"converge [on/at] [sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "physical",
+        "common"
+      ],
+      "DEF_EN":"To move toward or meet at a common point or focus.",
+      "DEF_ZH":"（道路、线条、人群等）汇集；聚集于一点。",
+      "SENT_EN":"The two main railway lines converge just outside the capital city.",
+      "SENT_ZH":"两条主要的铁路线在首都郊外汇合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meet",
+            "join",
+            "assemble",
+            "merge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "diverge",
+            "separate",
+            "scatter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"converge [on/to] [sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "abstract",
+        "academic",
+        "business"
+      ],
+      "DEF_EN":"(Of ideas, systems, or goals) To become similar or to move toward agreement or a common state.",
+      "DEF_ZH":"（思想、观点、系统等）趋同；趋于一致。",
+      "SENT_EN":"Their research findings gradually converged, supporting the same conclusion.",
+      "SENT_ZH":"他们的研究发现逐渐趋同，支持相同的结论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coincide",
+            "harmonize",
+            "agree"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clash",
+            "differ"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"converge [to/towards] [a limit]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "formal"
+      ],
+      "DEF_EN":"(In mathematics, of a sequence or series) To approach a definite, finite limit as the number of terms or steps increases.",
+      "DEF_ZH":"（数学中，数列或级数）收敛；趋于一个有限的极限。",
+      "SENT_EN":"The infinite series is said to converge if the sum of its terms approaches a specific value.",
+      "SENT_ZH":"如果无限级数的各项之和趋近于一个特定值，则称该级数收敛。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "diverge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Academic Use"
+}

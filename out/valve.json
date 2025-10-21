@@ -1,0 +1,80 @@
+{
+  "WORD":"valve",
+  "IPA":"/vælv/",
+  "CONJUGATES":"valves | valved | valving",
+  "ETYMOLOGY":"From Latin valva (plural valvae), meaning 'the leaves of a folding door, door'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"valve",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "engineering"
+      ],
+      "DEF_EN":"A mechanical device that controls the flow of a fluid (liquid, gas, or slurry) by opening, closing, or partially obstructing a passageway.",
+      "DEF_ZH":"一种控制流体（液体、气体或浆状物）流动的机械装置，通过开启、关闭或部分阻塞通道来实现。",
+      "SENT_EN":"The plumber had to replace a leaking stop valve in the basement.",
+      "SENT_ZH":"水管工不得不更换地下室里一个漏水的截止阀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tap",
+            "faucet",
+            "regulator",
+            "stopcock"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "solenoid",
+            "actuator",
+            "diaphragm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"valve",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "biology",
+        "medical"
+      ],
+      "DEF_EN":"A membranous structure in a tube or passage (such as the heart or a vein) that prevents the backward flow of blood or other bodily fluids.",
+      "DEF_ZH":"（心脏或静脉等管道或通道中的）瓣膜结构，防止血液或其他体液倒流。",
+      "SENT_EN":"The doctor listened carefully for sounds indicating a problem with the mitral valve.",
+      "SENT_ZH":"医生仔细聆听，以确定是否有二尖瓣出现问题的迹象。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "leaflet",
+            "atrium",
+            "ventricle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"valve [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "rare"
+      ],
+      "DEF_EN":"To control the flow of a fluid using a valve.",
+      "DEF_ZH":"使用阀门来控制流体的流动。",
+      "SENT_EN":"The operators valved the water supply when the pipe burst.",
+      "SENT_ZH":"当管道爆裂时，操作员用阀门控制了供水。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Technical, Medical"
+}

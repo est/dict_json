@@ -1,0 +1,112 @@
+{
+  "WORD":"diagnosis",
+  "IPA":"/ˌdaɪəɡˈnoʊsɪs/",
+  "CONJUGATES":"diagnoses (plural)",
+  "ETYMOLOGY":"From Greek *diagnōsis* 'a discerning', from *diagignōskein* 'distinguish', from *dia-* 'through' + *gignōskein* 'know'.",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"diagnosis of [sth] (medical condition)",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical term"
+      ],
+      "DEF_EN":"The process of identifying the nature of an illness or other medical problem by examination of the symptoms.",
+      "DEF_ZH":"通过检查症状来识别疾病或其他医疗问题性质的过程。",
+      "SENT_EN":"The doctor's preliminary diagnosis pointed to a viral infection.",
+      "SENT_ZH":"医生初步诊断表明是病毒感染。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identification",
+            "determination",
+            "assessment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "prognosis",
+            "symptom",
+            "treatment",
+            "pathology"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misdiagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a diagnosis (result)",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The conclusion or finding reached after a diagnostic process.",
+      "DEF_ZH":"诊断过程后得出的结论或结果。",
+      "SENT_EN":"Her diagnosis of diabetes came as a shock to the family.",
+      "SENT_ZH":"她被诊断出患有糖尿病，这让家人感到震惊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "finding",
+            "conclusion",
+            "result"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "analysis",
+            "evaluation",
+            "report"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diagnosis of [sth] (problem/situation)",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"An analysis or identification of the cause or nature of a non-medical problem or situation.",
+      "DEF_ZH":"对非医学问题或情况的起因或性质进行分析或识别。",
+      "SENT_EN":"The committee's diagnosis of the company's financial troubles was accurate.",
+      "SENT_ZH":"委员会对公司财务困境的诊断是准确的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analysis",
+            "assessment",
+            "evaluation",
+            "identification"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "solution",
+            "problem",
+            "critique"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or technical, especially in medical and scientific contexts."
+}

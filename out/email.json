@@ -1,0 +1,80 @@
+{
+  "WORD":"email",
+  "IPA":"/ˈiːmeɪl/",
+  "CONJUGATES":"emails (n) | emails (v) | emailing | emailed",
+  "ETYMOLOGY":"Contraction of 'electronic mail'",
+  "SINCE":"c. 1979",
+  "MEANINGS":[
+    {
+      "PATTERN":"email",
+      "POS":"n (uncountable)",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "technology",
+        "communications"
+      ],
+      "DEF_EN":"The system or method for sending and receiving messages electronically over a computer network, especially the internet.",
+      "DEF_ZH":"通过计算机网络，特别是互联网，电子地发送和接收信息的系统或方法。",
+      "SENT_EN":"I prefer using email for professional communication over traditional letters.",
+      "SENT_ZH":"我倾向于使用电子邮件进行专业交流，而非传统信件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "internet",
+            "communication",
+            "webmail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an email | emails",
+      "POS":"n (countable)",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "message"
+      ],
+      "DEF_EN":"A single message or piece of correspondence sent or received using the electronic mail system.",
+      "DEF_ZH":"使用电子邮箱系统发送或接收的单个信息或信件。",
+      "SENT_EN":"Did you remember to send that important email to the headquarters?",
+      "SENT_ZH":"你记得把那封重要的电子邮件发送给总部了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "message",
+            "note",
+            "electronic letter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"email [sb] [sth] | email [sth] to [sb]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To send a message, document, or other data to someone using the electronic mail system.",
+      "DEF_ZH":"通过电子邮件系统向某人发送信息、文件或其他数据。",
+      "SENT_EN":"I will email the invoice details to you this afternoon.",
+      "SENT_ZH":"我将在今天下午通过电子邮件把发票详情发给你。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "send",
+            "forward",
+            "transmit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in daily life, professional settings, and technology contexts."
+}

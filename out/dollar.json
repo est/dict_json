@@ -1,0 +1,61 @@
+{
+  "WORD":"dollar",
+  "IPA":"/ˈdɑːlər/",
+  "CONJUGATES":"dollars (plural)",
+  "ETYMOLOGY":"Shortened form of 'Joachimsthaler' (referring to silver coins minted in Joachimstal, Bohemia, 1518), which became 'thaler' in German. English adopted 'dollar' from 'thaler' via Dutch or Low German usage.",
+  "SINCE":"Late 16th century (in English, referring to various European coins); 1792 (officially adopted by the United States)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[number] dollar(s)",
+      "POS":"n",
+      "POS_TIP":"Noun (a word or phrase that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "common",
+        "currency unit"
+      ],
+      "DEF_EN":"The basic monetary unit of the United States, Canada, Australia, and many other countries, equal to 100 cents.",
+      "DEF_ZH":"美国、加拿大、澳大利亚等许多国家的货币基本单位，等于100分（cent）。",
+      "SENT_EN":"She paid fifty dollars for the concert ticket.",
+      "SENT_ZH":"她花了五十美元买了音乐会门票。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cent",
+            "euro",
+            "yen",
+            "pound",
+            "peso"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dollar",
+      "POS":"n",
+      "POS_TIP":"Noun (a word or phrase that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "uncountable",
+        "finance",
+        "figurative"
+      ],
+      "DEF_EN":"Money or wealth in general, often used when discussing economic power or the state of the US currency.",
+      "DEF_ZH":"泛指金钱或财富；特指美元在全球经济中的价值或地位。",
+      "SENT_EN":"Investors are closely watching the strength of the dollar against other major currencies.",
+      "SENT_ZH":"投资者正密切关注美元兑其他主要货币的强势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cash",
+            "money",
+            "currency",
+            "funds"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use; specific context in finance and economics."
+}

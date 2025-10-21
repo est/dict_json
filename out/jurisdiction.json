@@ -1,0 +1,66 @@
+{
+  "WORD":"jurisdiction",
+  "IPA":"/ˌdʒʊərɪsˈdɪkʃən/",
+  "CONJUGATES":"jurisdictions",
+  "ETYMOLOGY":"From Old French juridicion, from Latin iūrisdictiōnem (nominative iūrisdictiō), from iūs ('law, right') + dictiō ('a saying, speaking'), thus literally 'speaking the law.'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] | [C]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "official"
+      ],
+      "DEF_EN":"The official power to make legal decisions and judgments.",
+      "DEF_ZH":"管辖权；司法权；审判权。",
+      "SENT_EN":"The court ruled that it did not have jurisdiction over the matter.",
+      "SENT_ZH":"法院裁定对此案不具备管辖权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "authority",
+            "dominion",
+            "power",
+            "control"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "adjudication",
+            "sovereignty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[C]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "legal",
+        "geographical"
+      ],
+      "DEF_EN":"A territory or sphere of activity over which the legal authority of a court or government extends.",
+      "DEF_ZH":"管辖范围；辖区；权限范围。",
+      "SENT_EN":"Crimes committed within the city limits fall under the jurisdiction of the municipal police.",
+      "SENT_ZH":"在城市范围内犯下的罪行属于市政警察的管辖范围。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "territory",
+            "district",
+            "sphere"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal; used primarily in legal, governmental, and academic contexts."
+}

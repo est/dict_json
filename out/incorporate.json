@@ -1,0 +1,66 @@
+{
+  "WORD":"incorporate",
+  "IPA":"/ɪnˈkɔːrpəreɪt/",
+  "CONJUGATES":"incorporates | incorporated | incorporating | incorporation (n) | incorporator (n)",
+  "ETYMOLOGY":"From Late Latin incorporare, from in- ('into') + corpus (body). Meaning 'to form into a body or corporation'.",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"incorporate [sth] into [sth else]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb requiring an object, followed by a preposition",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To include or absorb something as part of a larger whole; to blend or combine.",
+      "DEF_ZH":"包含；吸收；把...并入（整体）；纳入。",
+      "SENT_EN":"The artist decided to incorporate recycled materials into his sculpture.",
+      "SENT_ZH":"这位艺术家决定将回收材料纳入他的雕塑中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "include",
+            "integrate",
+            "merge",
+            "embed",
+            "blend"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exclude",
+            "separate",
+            "extract"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"incorporate [sth] (often passive: be incorporated)",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive or transitive verb",
+      "TAGS":[
+        "business",
+        "legal"
+      ],
+      "DEF_EN":"To form a company or organization into a legal corporation; to establish it as a legal entity.",
+      "DEF_ZH":"组成公司；注册成立（法人实体）。",
+      "SENT_EN":"They plan to incorporate the business next month to limit personal liability.",
+      "SENT_ZH":"他们计划下个月将公司注册成立，以限制个人责任。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "corporation",
+            "charter",
+            "limited"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Business/Legal Contexts"
+}

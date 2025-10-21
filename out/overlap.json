@@ -1,0 +1,87 @@
+{
+  "WORD":"overlap",
+  "IPA":"/ˈoʊvərlæp/",
+  "CONJUGATES":"overlaps | overlapping | overlapped",
+  "ETYMOLOGY":"Compound of 'over-' and 'lap' (meaning 'fold' or 'fold over', from Middle English). Verb first recorded c. 1680s.",
+  "SINCE":"1680s (V), mid-19th century (N)",
+  "MEANINGS":[
+    {
+      "PATTERN":"overlap [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"Transitive or Intransitive Verb",
+      "TAGS":[
+        "Core Word",
+        "Physical"
+      ],
+      "DEF_EN":"To extend over so as to cover a part of something; to lie partly on top of something else.",
+      "DEF_ZH":"部分地覆盖或伸出到另一事物之上；重叠；搭接。",
+      "SENT_EN":"The shingles on the roof must overlap correctly to ensure waterproofing.",
+      "SENT_ZH":"屋顶上的木瓦必须正确地重叠以确保防水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "superimpose",
+            "shingle",
+            "cover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] overlap (with [sth/sb])",
+      "POS":"vi",
+      "POS_TIP":"Intransitive Verb",
+      "TAGS":[
+        "Common",
+        "Figurative",
+        "Abstract"
+      ],
+      "DEF_EN":"To share characteristics, time, or areas of responsibility, such that part of one corresponds to part of the other.",
+      "DEF_ZH":"（在时间、范围、责任或特征上）有共同的要素或部分一致。",
+      "SENT_EN":"The two departments' functions frequently overlap, leading to duplication of effort.",
+      "SENT_ZH":"这两个部门的职能经常重叠，导致工作重复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coincide",
+            "intersect",
+            "share"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "diverge",
+            "separate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an overlap",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Abstract"
+      ],
+      "DEF_EN":"The amount or area by which two things overlap; the common area or time period.",
+      "DEF_ZH":"重叠的部分、数量、范围或时间段；交集。",
+      "SENT_EN":"The overlap in their schedules made it hard to organize a joint meeting.",
+      "SENT_ZH":"他们日程的重叠使得组织联合会议变得困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intersection",
+            "coincidence",
+            "commonality"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

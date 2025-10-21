@@ -1,0 +1,85 @@
+{
+  "WORD":"rewind",
+  "IPA":"/ˌriːˈwaɪnd/",
+  "CONJUGATES":"rewinds | rewound | rewinding",
+  "ETYMOLOGY":"From re- (prefix meaning 'back, again') + wind (verb, 'to coil, wrap'). Used specifically for reversing film or tape motion from the early 20th century.",
+  "SINCE":"c. 1910s",
+  "MEANINGS":[
+    {
+      "PATTERN":"rewind [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb that takes an object)",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"To turn a tape, film, or similar recording medium backward to return it to an earlier point, especially the beginning.",
+      "DEF_ZH":"将磁带、胶卷或其他记录介质倒回，回到较早的位置或起点。",
+      "SENT_EN":"Don't forget to rewind the movie before returning it to the rental store.",
+      "SENT_ZH":"别忘了在将电影还给租赁店之前倒带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reverse",
+            "spool back"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fast-forward",
+            "play"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rewind [to sth]",
+      "POS":"vi | vtr",
+      "POS_TIP":"intransitive or transitive verb (verb that may or may not take an object)",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"To mentally or figuratively go back in time, revert to a previous state, or recall an earlier moment or event.",
+      "DEF_ZH":"（比喻或思维上）回溯时间；回到较早的状态或时刻。",
+      "SENT_EN":"If only we could rewind and fix that crucial mistake.",
+      "SENT_ZH":"要是我们能倒回时间，修正那个关键的错误就好了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revert",
+            "flashback",
+            "recall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the rewind",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "devices"
+      ],
+      "DEF_EN":"The mechanism or function on a device used to move the recording medium backward.",
+      "DEF_ZH":"（设备上的）倒带功能或操作。",
+      "SENT_EN":"Press the rewind button once you are finished watching.",
+      "SENT_ZH":"看完后请按下倒带按钮。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fast-forward",
+            "play"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in contexts relating to media, technology, and figurative language."
+}

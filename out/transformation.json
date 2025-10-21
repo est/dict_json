@@ -1,0 +1,88 @@
+{
+  "WORD":"transformation",
+  "IPA":"/ˌtrænsfərˈmeɪʃən/",
+  "CONJUGATES":"transformations",
+  "ETYMOLOGY":"From Old French transformacion or Medieval Latin trānsfōrmātiōnem, from trānsfōrmāre 'to transform', from trans- 'across, beyond' + fōrmāre 'to form'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a transformation [of sth] [into sth]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A dramatic change in form, appearance, character, or nature.",
+      "DEF_ZH":"形式、外貌、性质或特点上的显著改变。",
+      "SENT_EN":"The city has undergone a remarkable transformation in recent years.",
+      "SENT_ZH":"这座城市近年来发生了显著的转变。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "change",
+            "alteration",
+            "conversion",
+            "metamorphosis"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stagnation",
+            "preservation",
+            "maintenance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transformation [in biology]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "technical",
+        "biology"
+      ],
+      "DEF_EN":"The genetic alteration of a cell resulting from the direct uptake and incorporation of exogenous genetic material (DNA or RNA) from its surroundings through the cell membrane.",
+      "DEF_ZH":"生物学中，指细胞通过直接吸收并整合周围环境中的外源遗传物质（DNA或RNA）而发生的遗传改变。",
+      "SENT_EN":"Bacterial transformation is a common method used in molecular biology.",
+      "SENT_ZH":"细菌转化是分子生物学中常用的方法。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "transfection",
+            "transduction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transformation [in mathematics]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"A function that maps a set to another set (or to itself), especially one that maps a geometric figure onto a new figure.",
+      "DEF_ZH":"数学中，指将一个集合映射到另一个集合（或其自身）的函数，特指将一个几何图形映射到新图形的操作。",
+      "SENT_EN":"A rotation is a type of geometric transformation.",
+      "SENT_ZH":"旋转是一种几何变换。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "translation",
+            "rotation",
+            "reflection",
+            "dilation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to everyday, depending on context."
+}

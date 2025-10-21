@@ -1,0 +1,79 @@
+{
+  "WORD":"in the name of",
+  "IPA":"/ɪn ðə neɪm əv/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"A calque from Latin 'in nomine,' which appears in religious and legal texts (e.g., the Trinitarian formula). It signifies acting under the delegated authority or identity of the person or entity named.",
+  "SINCE":"Pre-14th century (well-established in Middle English, especially in legal and religious contexts)",
+  "MEANINGS":[
+    {
+      "PATTERN":"in the name of [sb] / [sth]",
+      "POS":"prepositional phrase",
+      "POS_TIP":"Functions adverbially, indicating authorization or representation.",
+      "TAGS":[
+        "core phrase",
+        "formal",
+        "legal",
+        "religious"
+      ],
+      "DEF_EN":"By the authority or power of; acting as the official representative of.",
+      "DEF_ZH":"奉（某人/某机构）的命令；代表（某人/某机构）的权威或名义。",
+      "SENT_EN":"The summons was issued in the name of the court.",
+      "SENT_ZH":"传票是以法院的名义发出的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "by the authority of",
+            "on behalf of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the name of [sth abstract]",
+      "POS":"prepositional phrase",
+      "POS_TIP":"Functions adverbially, indicating motivation or purpose.",
+      "TAGS":[
+        "common",
+        "rhetorical"
+      ],
+      "DEF_EN":"For the purpose of achieving or upholding (an ideal, value, or goal); motivated by.",
+      "DEF_ZH":"为了（某种抽象的目标、理想或价值观）；以…为名义（常含贬义）。",
+      "SENT_EN":"The politician claimed his actions were done in the name of national security.",
+      "SENT_ZH":"这位政客声称他的行为是以国家安全的名义进行的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "for the sake of",
+            "to achieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"What / Who / Why in the name of [God/Heaven/etc.]",
+      "POS":"idiomatic phrase",
+      "POS_TIP":"Used as an intensifier in exclamatory or rhetorical questions.",
+      "TAGS":[
+        "colloquial",
+        "emphatic",
+        "exclamatory"
+      ],
+      "DEF_EN":"Used to express intense surprise, confusion, anger, or frustration; meaning 'What on earth?' or 'What possibly?'.",
+      "DEF_ZH":"究竟；到底（用于表示强烈惊讶、困惑或愤怒的疑问句中）。",
+      "SENT_EN":"What in the name of sanity possesses you to do such a dangerous thing?",
+      "SENT_ZH":"你到底发了什么神经去做这么危险的事情？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "what on earth",
+            "what the heck"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies from formal (legal/religious) to informal (exclamatory use)."
+}

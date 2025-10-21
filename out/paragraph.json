@@ -1,0 +1,89 @@
+{
+  "WORD":"paragraph",
+  "IPA":"/ˈpærəˌɡræf/",
+  "CONJUGATES":"paragraphs | paragraphing | paragraphed",
+  "ETYMOLOGY":"From Late Middle English, via Old French 'paragraphe', from Latin 'paragraphus', ultimately from Greek 'paragraphos' (a line drawn beside a passage, or a marginal note), derived from 'para-' (beside) + 'graphein' (to write).",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] paragraph [in sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "writing",
+        "grammar"
+      ],
+      "DEF_EN":"A distinct section of a piece of writing, usually dealing with a single theme or idea, typically starting on a new line and consisting of one or more sentences.",
+      "DEF_ZH":"文章中的一个独立部分，通常处理一个单一的主题或想法，通常从新行开始，由一个或多个句子组成。",
+      "SENT_EN":"The introduction should be a clear and concise paragraph outlining the scope of the essay.",
+      "SENT_ZH":"引言应该是一个清晰简洁的段落，概述文章的范围。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "section",
+            "passage",
+            "block of text"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "essay",
+            "sentence",
+            "chapter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"paragraph [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "technical",
+        "writing",
+        "less common"
+      ],
+      "DEF_EN":"To divide (a continuous piece of writing) into paragraphs.",
+      "DEF_ZH":"将（一篇连续的文字）分成段落。",
+      "SENT_EN":"He needs to paragraph the manuscript better to improve its overall readability.",
+      "SENT_ZH":"他需要更好地将手稿分段，以提高其整体可读性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "section",
+            "divide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] paragraph [sign]",
+      "POS":"noun (historical)",
+      "POS_TIP":"Countable noun, historical or specialized usage",
+      "TAGS":[
+        "historical",
+        "typography",
+        "obsolete"
+      ],
+      "DEF_EN":"The symbol ¶ (called the pilcrow), historically used in printing and manuscript to indicate the start of a new section or paragraph.",
+      "DEF_ZH":"符号 ¶（称为段落符号或反S符号），历史上用于印刷和手稿中，以指示新部分或段落的开始。",
+      "SENT_EN":"The archaic paragraph mark helps scholars trace the original structure of early printed texts.",
+      "SENT_ZH":"这个古老的段落符号有助于学者追溯早期印刷文本的原始结构。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pilcrow",
+            "typography"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

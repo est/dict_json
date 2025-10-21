@@ -1,0 +1,90 @@
+{
+  "WORD":"compress",
+  "IPA":"/kəmˈprɛs/",
+  "CONJUGATES":"compresses | compressing | compressed",
+  "ETYMOLOGY":"From Latin *compressare* (to press together), frequentative of *comprimere* (com- 'together' + premere 'to press').",
+  "SINCE":"c. 1450 AD (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"compress [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"To reduce the size, volume, or duration of something, especially data or a file, using specific methods or algorithms.",
+      "DEF_ZH":"减小某物（尤其是数据或文件）的大小、体积或时长，通常通过特定方法或算法。",
+      "SENT_EN":"It takes time to compress a high-definition video file.",
+      "SENT_ZH":"压缩一个高清视频文件需要时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "condense",
+            "shrink",
+            "compact"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expand",
+            "decompress",
+            "unzip",
+            "inflate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compress [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "physical",
+        "general"
+      ],
+      "DEF_EN":"To press or squeeze something together, forcing it into a smaller or denser space.",
+      "DEF_ZH":"将某物挤压在一起，使其被压入一个更小或更密集的空间。",
+      "SENT_EN":"The hydraulic press was used to compress the bales of cotton.",
+      "SENT_ZH":"使用液压机来压缩棉花包。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crush",
+            "squeeze",
+            "densify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a compress (IPA: /ˈkɒmprɛs/)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "medical",
+        "core word"
+      ],
+      "DEF_EN":"A pad of material, often gauze or cloth, applied firmly to a part of the body (often soaked in hot or cold liquid) to relieve pain or inflammation.",
+      "DEF_ZH":"用于敷在身体某部位的垫子或布块（通常浸泡在热水或冷水中），以减轻疼痛或炎症。",
+      "SENT_EN":"The doctor advised her to apply a cold compress to the sprain.",
+      "SENT_ZH":"医生建议她用冷敷布敷在扭伤处。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "poultice",
+            "bandage",
+            "dressing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical Computing, Medical"
+}

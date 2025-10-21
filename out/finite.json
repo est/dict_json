@@ -1,0 +1,83 @@
+{
+  "WORD":"finite",
+  "IPA":"/ˈfaɪnaɪt/",
+  "CONJUGATES":"finitely (adv) | finitude (n)",
+  "ETYMOLOGY":"From Latin *finitus*, past participle of *finire* ('to finish, set bounds'), ultimately from *finis* ('end, boundary').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"finite [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun.",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"Having limits or bounds; capable of being measured or counted.",
+      "DEF_ZH":"有限制的；有界限的；能够被测量或计数。",
+      "SENT_EN":"We must remember that Earth's resources are finite.",
+      "SENT_ZH":"我们必须记住地球的资源是有限的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limited",
+            "bounded",
+            "restricted"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "infinite",
+            "unlimited",
+            "limitless"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"finite [set/number]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun.",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"(Of a set or number) Not infinite; capable of being listed or counted exactly.",
+      "DEF_ZH":"（数学，指集合或数字）非无穷的；具有有限且可数的元素的。",
+      "SENT_EN":"The set of natural numbers less than a hundred is a finite set.",
+      "SENT_ZH":"小于一百的自然数集是一个有限集。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "infinite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"finite [verb/form]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun.",
+      "TAGS":[
+        "technical",
+        "grammar"
+      ],
+      "DEF_EN":"(Of a verb) Limited by person, number, and tense, and forming the main verb of a clause.",
+      "DEF_ZH":"（语法，指动词）限定的；受人称、数和时态限制，并构成子句主要动词的。",
+      "SENT_EN":"A finite verb must agree with its subject.",
+      "SENT_ZH":"限定动词必须与其主语保持一致。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "non-finite"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic"
+}

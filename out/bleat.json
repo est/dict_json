@@ -1,0 +1,109 @@
+{
+  "WORD":"bleat",
+  "IPA":"/bliːt/",
+  "CONJUGATES":"bleats | bleating | bleated",
+  "ETYMOLOGY":"From Middle English bleten, from Old English blǣtan, likely imitative of the sound of a sheep. Cognate with Dutch blaten and German blöken.",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"bleat (v)",
+      "POS":"vit",
+      "POS_TIP":"verb, intransitive",
+      "TAGS":[
+        "core word",
+        "animal sound",
+        "common"
+      ],
+      "DEF_EN":"(Of a sheep, goat, or calf) to make a characteristic wavering cry.",
+      "DEF_ZH":"(指羊、山羊或小牛) 发出咩咩叫声。",
+      "SENT_EN":"The frightened lamb continued to bleat until its mother returned.",
+      "SENT_ZH":"受惊的小羊一直咩咩叫，直到它的母亲回来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "baa",
+            "cry"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "baa"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bleat [about sth] (v)",
+      "POS":"vit + prep",
+      "POS_TIP":"verb, intransitive + preposition",
+      "TAGS":[
+        "informal",
+        "derogatory",
+        "figurative"
+      ],
+      "DEF_EN":"To speak or complain in a whining, foolish, or weak tone.",
+      "DEF_ZH":"以抱怨、愚蠢或软弱的语气说话或抱怨。",
+      "SENT_EN":"He always bleats about how little vacation time he gets.",
+      "SENT_ZH":"他总是抱怨他得到的假期太少。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whine",
+            "grumble",
+            "complain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bleat (n)",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "animal sound",
+        "common"
+      ],
+      "DEF_EN":"The characteristic cry of a sheep, goat, or calf.",
+      "DEF_ZH":"羊、山羊或小牛发出的特有叫声（咩咩声）。",
+      "SENT_EN":"We heard the faint bleat coming from the hills.",
+      "SENT_ZH":"我们听到了山丘上传来的微弱的咩咩声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cry",
+            "baa"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bleat (n)",
+      "POS":"nc",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"A weak or foolish complaint.",
+      "DEF_ZH":"软弱或愚蠢的抱怨。",
+      "SENT_EN":"His entire report was a bleat about the inadequate funding.",
+      "SENT_ZH":"他的整份报告都是关于资金不足的抱怨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moan",
+            "whine",
+            "complaint"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, sometimes informal/derogatory in figurative use."
+}

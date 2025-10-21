@@ -1,0 +1,103 @@
+{
+  "WORD":"accent",
+  "IPA":"/ˈæksɛnt/",
+  "CONJUGATES":"accents | accented | accenting",
+  "ETYMOLOGY":"From Middle English, via Old French accent, from Latin accentus (ad- 'to' + cantus 'song'), meaning 'tone, signal, or stress of the voice'.",
+  "SINCE":"c. 14th century (for the mark); c. 16th century (for pronunciation)",
+  "MEANINGS":[
+    {
+      "PATTERN":"accent (of [sb]/[sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "linguistics",
+        "common"
+      ],
+      "DEF_EN":"A distinctive way of pronouncing a language, especially one associated with a particular country, locality, or social class.",
+      "DEF_ZH":"（某人或某地特有的）口音，腔调，发音特征。",
+      "SENT_EN":"She tried to hide her strong regional accent when she moved to the city.",
+      "SENT_ZH":"搬到城市后，她努力隐藏自己浓重的地方口音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brogue",
+            "dialect",
+            "twang"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accent (on [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "prosody",
+        "emphasis"
+      ],
+      "DEF_EN":"Emphasis given to a particular syllable or word in speech; stress.",
+      "DEF_ZH":"重音；着重音节。",
+      "SENT_EN":"In the word 'present' (verb), the accent is placed on the second syllable.",
+      "SENT_ZH":"在 'present' (动词) 这个词中，重音落在第二个音节上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stress",
+            "emphasis",
+            "inflection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accent",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "typography",
+        "linguistics"
+      ],
+      "DEF_EN":"A mark placed over a letter to indicate stress, pitch, or quality of a vowel (e.g., acute, grave, or circumflex).",
+      "DEF_ZH":"（字母上的）重音符号，变音符号（如尖音符、重音符、长音符等）。",
+      "SENT_EN":"The French word 'café' has an acute accent over the 'e'.",
+      "SENT_ZH":"法语单词 'café' 在 'e' 上有一个尖音符号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "diacritic",
+            "tilde",
+            "umlaut"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accent [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "formal",
+        "action"
+      ],
+      "DEF_EN":"To emphasize a particular feature or element; to stress (a syllable or word).",
+      "DEF_ZH":"强调；着重突出；使更明显。",
+      "SENT_EN":"The vibrant scarf helped to accent the color of her eyes.",
+      "SENT_ZH":"这条鲜艳的围巾有助于突出她眼睛的颜色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "highlight",
+            "underscore",
+            "stress"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in everyday conversation and linguistic studies."
+}

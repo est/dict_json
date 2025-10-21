@@ -1,0 +1,70 @@
+{
+  "WORD":"negligence",
+  "IPA":"/ˈnɛɡlɪdʒəns/",
+  "CONJUGATES":"negligences (plural)",
+  "ETYMOLOGY":"From Middle English negligence, from Old French negligence, from Latin neglegentia ('neglect, carelessness'), from neglegens, present participle of neglegere ('to neglect').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] [of sth/doing sth]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The failure to exercise the degree of care that a reasonable person would exercise under the same circumstances; lack of proper attention and concern.",
+      "DEF_ZH":"疏忽；失职；缺乏应有的注意和关心。",
+      "SENT_EN":"The accident was caused by pure negligence on the part of the driver.",
+      "SENT_ZH":"这起事故是由于司机纯粹的疏忽造成的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "carelessness",
+            "inattention",
+            "neglect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "diligence",
+            "carefulness",
+            "vigilance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "negligent",
+            "negligently"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "legal",
+        "specific"
+      ],
+      "DEF_EN":"Failure to use reasonable care, resulting in damage or injury to another party; a tort consisting of a duty owed, a breach of that duty, and an injury proximately caused by the breach.",
+      "DEF_ZH":"（法律）过失；失职罪；指未能尽到合理注意义务，从而对他人造成损害或伤害的行为。",
+      "SENT_EN":"The company was sued for professional negligence after its advice cost the client millions.",
+      "SENT_ZH":"该公司因其建议给客户造成数百万损失而被控专业过失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "malpractice",
+            "dereliction of duty"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal or legal contexts"
+}

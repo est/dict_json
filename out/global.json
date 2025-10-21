@@ -1,0 +1,85 @@
+{
+  "WORD":"global",
+  "IPA":"/ˈɡloʊbəl/",
+  "CONJUGATES":"globally (adv) | globality (n)",
+  "ETYMOLOGY":"From Latin globus ('sphere, ball') + -al (suffix indicating 'of or relating to'). First recorded as relating to the entire world in the 16th century.",
+  "SINCE":"c. 1590",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to the whole world; worldwide.",
+      "DEF_ZH":"与整个世界有关的；全球性的；世界范围的。",
+      "SENT_EN":"Climate change is a global issue that requires international cooperation.",
+      "SENT_ZH":"气候变化是一个需要国际合作的全球性问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "worldwide",
+            "international",
+            "universal",
+            "planetary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "local",
+            "regional",
+            "domestic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(In computing) Relating to or available throughout a whole program or system; not restricted to a specific part.",
+      "DEF_ZH":"（计算机）全局的；适用于整个程序或系统的；非局部的。",
+      "SENT_EN":"The variable was defined as global, so it could be accessed from any function.",
+      "SENT_ZH":"该变量被定义为全局变量，因此可以从任何函数中访问。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "local"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"Comprehensive; relating to or involving the entire body or scope of something.",
+      "DEF_ZH":"全面的；总体的；涉及某事物全部范围的。",
+      "SENT_EN":"The manager provided a global overview of the company's financial status.",
+      "SENT_ZH":"经理提供了公司财务状况的总体概览。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overall",
+            "total",
+            "comprehensive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

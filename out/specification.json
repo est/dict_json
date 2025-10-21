@@ -1,0 +1,66 @@
+{
+  "WORD":"specification",
+  "IPA":"/ˌspɛsɪfɪˈkeɪʃən/",
+  "CONJUGATES":"specifications (plural)",
+  "ETYMOLOGY":"From Medieval Latin *specificatio*, derived from *specificare* 'to specify', ultimately from Latin *species* 'kind, sort' and *facere* 'to make'.",
+  "SINCE":"mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"specification [for sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "formal",
+        "engineering"
+      ],
+      "DEF_EN":"A detailed statement of the requirements, design, materials, or scope for a product, project, or service; often a formal document.",
+      "DEF_ZH":"对产品、项目或服务的要求、设计、材料或范围的详细说明；通常是正式文档或清单。",
+      "SENT_EN":"Please check the technical specifications to ensure the components are compatible.",
+      "SENT_ZH":"请检查技术规格书，确保这些组件是兼容的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "requirement",
+            "standard",
+            "detail",
+            "blueprint",
+            "criteria"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "spec"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"specification [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Uncountable noun",
+      "TAGS":[
+        "formal",
+        "action"
+      ],
+      "DEF_EN":"The process or act of specifying or determining something precisely and in detail.",
+      "DEF_ZH":"准确和详细地指定或确定某事物的过程或行为。",
+      "SENT_EN":"The precise specification of system architecture is crucial for cybersecurity.",
+      "SENT_ZH":"系统架构的精确界定对于网络安全至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "definition",
+            "designation",
+            "delineation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical, Business, Formal"
+}

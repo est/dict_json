@@ -1,0 +1,81 @@
+{
+  "WORD":"France",
+  "IPA":"/fræns/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old French France (land of the Franks), ultimately from the name of the Germanic tribal confederation, the Franks (Latin Franci).",
+  "SINCE":"c. 843 AD (as West Francia); fully established usage by 13th century.",
+  "MEANINGS":[
+    {
+      "PATTERN":"France",
+      "POS":"Proper Noun",
+      "POS_TIP":"Name of a specific person, place, or organization.",
+      "TAGS":[
+        "core word",
+        "geography",
+        "country"
+      ],
+      "DEF_EN":"A sovereign country in Western Europe, officially the French Republic, known for its extensive culture, history, and agricultural output.",
+      "DEF_ZH":"西欧的一个主权国家，正式名称为法兰西共和国，以其丰富的文化、历史和农业产出而闻名。",
+      "SENT_EN":"Paris is the capital city of France.",
+      "SENT_ZH":"巴黎是法国的首都。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "French",
+            "Paris",
+            "Europe",
+            "Gaul"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"France",
+      "POS":"Proper Noun (Metonymy)",
+      "POS_TIP":"Name of a specific person, place, or organization, used to represent its institutions or teams.",
+      "TAGS":[
+        "metonymy",
+        "politics",
+        "sports"
+      ],
+      "DEF_EN":"The government, national representatives, or a national sports team of France.",
+      "DEF_ZH":"法国的政府、国家代表或国家运动队。",
+      "SENT_EN":"France announced a new trade agreement with Germany.",
+      "SENT_ZH":"法国宣布与德国达成一项新的贸易协定。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "French Republic",
+            "Élysée Palace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"France",
+      "POS":"Proper Noun (Historical)",
+      "POS_TIP":"Name of a specific person, place, or organization, referring to past states.",
+      "TAGS":[
+        "historical",
+        "formal"
+      ],
+      "DEF_EN":"The historical region, including various political entities such as the Kingdom of France (Ancien Régime) or the French Empire.",
+      "DEF_ZH":"该历史区域，包括各种政治实体，如法兰西王国（旧制度）或法兰西帝国。",
+      "SENT_EN":"The history of France includes numerous revolutions and regime changes.",
+      "SENT_ZH":"法国的历史包括无数次革命和政权更迭。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Francia",
+            "Kingdom of France",
+            "Napoleonic Empire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

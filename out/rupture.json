@@ -1,0 +1,111 @@
+{
+  "WORD":"rupture",
+  "IPA":"/ˈrʌptʃər/",
+  "CONJUGATES":"ruptures | ruptured | rupturing",
+  "ETYMOLOGY":"From Middle French rupture, and directly from Latin ruptura 'a breaking, fracture', from rumpere 'to break'.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (physical object)",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"An instance of breaking or bursting suddenly and completely, especially involving bodily tissue (like a ligament or blood vessel).",
+      "DEF_ZH":"破裂；斷裂；撕裂（特指身體組織的突然爆裂或折斷）。",
+      "SENT_EN":"The doctor diagnosed a complete rupture of the Achilles tendon.",
+      "SENT_ZH":"醫生診斷出跟腱完全撕裂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "break",
+            "tear",
+            "fracture",
+            "burst"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (relationship/peace)",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "abstract",
+        "formal"
+      ],
+      "DEF_EN":"A serious break or interruption in friendly or peaceful relations, negotiations, or stability.",
+      "DEF_ZH":"（關係、和平或談判的）破裂；中斷；絕交。",
+      "SENT_EN":"The political scandal caused a definitive rupture in the coalition.",
+      "SENT_ZH":"這場政治醜聞導致了聯盟的決定性破裂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breach",
+            "split",
+            "severance",
+            "disruption"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reconciliation",
+            "accord",
+            "mending"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (organ/tissue)",
+      "POS":"vtr/vi",
+      "POS_TIP":"Transitive verb or Intransitive verb.",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To break or burst suddenly and completely, or cause something to do so.",
+      "DEF_ZH":"（使）破裂；（使）爆裂；（使）中斷。",
+      "SENT_EN":"Excessive pressure may rupture the pipe.",
+      "SENT_ZH":"壓力過大可能會使管道破裂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shatter",
+            "burst",
+            "cleave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (anatomical part)",
+      "POS":"n.",
+      "POS_TIP":"Noun.",
+      "TAGS":[
+        "medical",
+        "technical"
+      ],
+      "DEF_EN":"A medical term for a hernia.",
+      "DEF_ZH":"疝氣（組織或器官突出體腔壁）。",
+      "SENT_EN":"He had surgery to repair an inguinal rupture.",
+      "SENT_ZH":"他做了手術來修復腹股溝疝氣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hernia"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Medical, General"
+}

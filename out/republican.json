@@ -1,0 +1,87 @@
+{
+  "WORD":"republican",
+  "IPA":"/rɪˈpʌblɪkən/",
+  "CONJUGATES":"republicans (n. pl.)",
+  "ETYMOLOGY":"From Middle French républicain, from république (republic) + -ain (adjectival suffix).",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] republican",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "politics",
+        "common"
+      ],
+      "DEF_EN":"Relating to, characteristic of, or advocating a republic (a state where supreme power is held by the people and their elected representatives, not a monarch).",
+      "DEF_ZH":"共和制的；共和政体的；拥护共和政体的",
+      "SENT_EN":"The nation transitioned from a monarchy to a republican system.",
+      "SENT_ZH":"该国家从君主制过渡到了共和制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "non-monarchical",
+            "representative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "monarchical",
+            "royalist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] republican (US Politics)",
+      "POS":"n",
+      "POS_TIP":"Noun, often capitalized as 'Republican' when referring to the US political party.",
+      "TAGS":[
+        "US politics",
+        "very common",
+        "proper noun usage"
+      ],
+      "DEF_EN":"A member or supporter of the Republican Party of the United States (often nicknamed the GOP), typically associated with conservative ideology.",
+      "DEF_ZH":"（美国）共和党人；共和党支持者",
+      "SENT_EN":"The current governor is a strong republican and former businessman.",
+      "SENT_ZH":"现任州长是一位坚定的共和党人，也是一名前商人。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Democrat",
+            "GOP",
+            "conservative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] republican",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "general"
+      ],
+      "DEF_EN":"A person who advocates or favors a republican form of government over other systems, such as monarchy.",
+      "DEF_ZH":"共和主义者；共和政体拥护者",
+      "SENT_EN":"Historically, republicans often clashed with royalists over the structure of the state.",
+      "SENT_ZH":"在历史上，共和主义者经常在国家结构问题上与保皇党发生冲突。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "monarchist",
+            "royalist"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Political, formal, or journalistic communication."
+}

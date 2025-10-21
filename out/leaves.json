@@ -1,0 +1,153 @@
+{
+  "WORD":"LEAVE",
+  "IPA":"/liːv/",
+  "CONJUGATES":"leaves (3rd sing. present) | leaving (present participle) | left (past tense & past participle)",
+  "ETYMOLOGY":"From Old English lǣfan ('to allow to remain, bequeath'), related to līfan ('to permit'). Merged with Old Norse leifa ('to leave behind').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"leave [place]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"To go away from a person, place, or situation; to depart.",
+      "DEF_ZH":"离开；离去；退出。",
+      "SENT_EN":"We need to leave early to catch the flight.",
+      "SENT_ZH":"我们需要早点离开去赶飞机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depart",
+            "exit",
+            "quit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "arrive",
+            "stay",
+            "remain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leave [sth] [behind]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To allow something or someone to remain in a place, often unintentionally or permanently.",
+      "DEF_ZH":"遗留；留下；忘记携带。",
+      "SENT_EN":"I accidentally left my phone at the restaurant.",
+      "SENT_ZH":"我不小心把手机忘在餐馆了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deposit",
+            "abandon",
+            "forget"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leave [sb] [adj]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "resultative"
+      ],
+      "DEF_EN":"To cause someone or something to be in a particular state or condition.",
+      "DEF_ZH":"使处于（某种状态）；使保持（某种状态）。",
+      "SENT_EN":"The news left us completely speechless.",
+      "SENT_ZH":"这个消息使我们完全说不出话来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "render",
+            "make"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leave [sth] to [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb with preposition",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To bequeath or pass on property, money, or responsibility after death.",
+      "DEF_ZH":"遗赠；将（遗产）留给（某人）。",
+      "SENT_EN":"She left her house to her grandson in her will.",
+      "SENT_ZH":"她在遗嘱中将房子留给了她的孙子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bequeath",
+            "will"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] leaf",
+      "POS":"n (base form: LEAF, plural: LEAVES)",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "botany",
+        "core word"
+      ],
+      "DEF_EN":"A usually flat, green part of a plant attached to a stem or branch, which carries out photosynthesis.",
+      "DEF_ZH":"叶子；（植物的）叶片。",
+      "SENT_EN":"The oak leaves turn brown in the late autumn.",
+      "SENT_ZH":"橡树叶在深秋时会变成褐色。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "foliage",
+            "petal",
+            "blade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"leaf [of paper]",
+      "POS":"n (base form: LEAF, plural: LEAVES)",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "document"
+      ],
+      "DEF_EN":"A single piece of paper in a book or stack, often referred to when counting sheets rather than sides (pages).",
+      "DEF_ZH":"（书本或纸张的）一张；一页。",
+      "SENT_EN":"The manuscript was missing several important leaves.",
+      "SENT_ZH":"这份手稿缺少了几张重要的纸页。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sheet",
+            "folio",
+            "page"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General",
+  "NOTE":"The input 'leaves' is the 3rd person singular present tense of the verb LEAVE, and the plural of the noun LEAF."
+}

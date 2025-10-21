@@ -1,0 +1,67 @@
+{
+  "WORD":"priest",
+  "IPA":"/priːst/",
+  "CONJUGATES":"priests (plural) | priestly (adjective) | priesthood (noun)",
+  "ETYMOLOGY":"From Old English *prēost*, probably ultimately derived via Vulgar Latin *presbyter* from Ancient Greek *presbýteros* (πρεσβύτερος, 'elder'), comparative of *présbys* ('old').",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] priest | a priest",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "religious",
+        "Christianity"
+      ],
+      "DEF_EN":"An ordained minister, especially in the Catholic, Orthodox, or Anglican Churches, authorized to perform religious rites and administer sacraments.",
+      "DEF_ZH":"（尤其指天主教、东正教或圣公会中）被授以圣职的牧师或神父，被授权执行宗教仪式和施行圣礼。",
+      "SENT_EN":"The priest offered communion to the congregation.",
+      "SENT_ZH":"这位神父为教区民众主持了圣餐仪式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minister",
+            "clergyman",
+            "father",
+            "reverend",
+            "pastor"
+          ]
+        },
+        {
+          "T":"hyponyms",
+          "V":[
+            "deacon",
+            "bishop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"priest [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "religious",
+        "general"
+      ],
+      "DEF_EN":"A religious official in a non-Christian religion or ancient pagan culture, typically responsible for performing sacrifice and interpreting omens.",
+      "DEF_ZH":"（非基督教宗教或古代异教文化中的）祭司或神职人员，通常负责执行献祭和解释预兆。",
+      "SENT_EN":"The Maya priest consulted the astronomical calendar before declaring the planting season.",
+      "SENT_ZH":"玛雅祭司在宣布播种季节之前查阅了天文日历。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hierophant",
+            "shaman",
+            "brahmin",
+            "pontiff"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Religious"
+}

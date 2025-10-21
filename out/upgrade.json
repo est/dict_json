@@ -1,0 +1,89 @@
+{
+  "WORD":"upgrade",
+  "IPA":"/ˈʌpˌɡreɪd/",
+  "CONJUGATES":"upgrades | upgrading | upgraded",
+  "ETYMOLOGY":"Compound word formed from the prefix up- (to a higher position or level) and the noun/verb grade (a step or degree in a scale). Modeled after 'downgrade'.",
+  "SINCE":"c. 1950s",
+  "MEANINGS":[
+    {
+      "PATTERN":"upgrade [sth] (to [sth] better)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"To replace something with a newer, better, or more powerful version; to improve the standard or capability of equipment, software, or systems.",
+      "DEF_ZH":"升级；将（设备、软件等）替换为更新、更好或更强大的版本；提升其标准或性能。",
+      "SENT_EN":"I decided to upgrade the memory in my laptop to increase performance.",
+      "SENT_ZH":"我决定升级我笔记本电脑的内存以提高性能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "improve",
+            "enhance",
+            "modernize",
+            "update"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "downgrade",
+            "degrade"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an upgrade",
+      "POS":"n, countable",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An improved version of something, or the act of performing an improvement.",
+      "DEF_ZH":"升级版；改进；提升的行为或结果。",
+      "SENT_EN":"The new operating system is a major upgrade from the previous version.",
+      "SENT_ZH":"新的操作系统是旧版本的一次重大升级。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "improvement",
+            "enhancement",
+            "update",
+            "refinement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"upgrade [sb/sth] (to [a higher status])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "business",
+        "service industry"
+      ],
+      "DEF_EN":"To move someone or something to a higher standard of service, class, or rank, often at no extra charge (in the context of services).",
+      "DEF_ZH":"提升（服务、舱位、级别）；晋升。",
+      "SENT_EN":"The hotel upgraded us to a suite because our initial room wasn't ready.",
+      "SENT_ZH":"由于我们最初的房间尚未准备好，酒店将我们免费升级到了套房。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "promote",
+            "advance",
+            "elevate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technology, Business"
+}

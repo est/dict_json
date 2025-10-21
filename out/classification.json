@@ -1,0 +1,59 @@
+{
+  "WORD":"classification",
+  "IPA":"/ˌklæsɪfɪˈkeɪʃən/",
+  "CONJUGATES":"classifications (plural)",
+  "ETYMOLOGY":"From Late Latin classificatio (noun of action), from classificare (to classify), formed from Latin classis (class, division) + -ficare (to make, do).",
+  "SINCE":"Mid 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"classification [of sth]",
+      "POS":"noun",
+      "POS_TIP":"uncountable, countable",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Process"
+      ],
+      "DEF_EN":"The action or process of arranging things, concepts, or information into categories or groups based on shared characteristics or systematic principles.",
+      "DEF_ZH":"根据共同特征或系统原则将事物、概念或信息安排成类别或群组的行为或过程。",
+      "SENT_EN":"The library uses a decimal system for the classification of books.",
+      "SENT_ZH":"图书馆使用十进制系统对书籍进行分类。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "categorization",
+            "sorting",
+            "grouping",
+            "arrangement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a classification",
+      "POS":"noun",
+      "POS_TIP":"countable",
+      "TAGS":[
+        "Technical",
+        "Result"
+      ],
+      "DEF_EN":"A category, grade, or rating assigned to something as the result of the process of classifying.",
+      "DEF_ZH":"分类过程产生的类别、等级或评定。",
+      "SENT_EN":"Due to its sensitive nature, the document received a high-security classification.",
+      "SENT_ZH":"由于其敏感性，该文件被赋予了高级别的安全分类。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "category",
+            "grade",
+            "ranking",
+            "taxonomy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Technical (especially in biology, information science, and security)"
+}

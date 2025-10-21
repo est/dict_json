@@ -1,0 +1,75 @@
+{
+  "WORD":"lease",
+  "IPA":"/liːs/",
+  "CONJUGATES":"lease | leases | leased | leasing",
+  "ETYMOLOGY":"From Old French *laisse*, *lesse* (act of leaving), from *laisser* 'to leave', from Latin *laxare* 'to loosen, relax'. The sense of 'demise of property for a term of years' dates from late 14th century.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a lease",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"A contract by which one party grants to another the use and possession of property (such as land, buildings, or equipment) for a specified period, in return for payment.",
+      "DEF_ZH":"一方授予另一方在特定期限内使用和占有财产（如土地、建筑物或设备）的合同，以换取租金。",
+      "SENT_EN":"We signed a five-year lease on the apartment.",
+      "SENT_ZH":"我们签订了那套公寓的五年租约。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rental agreement",
+            "tenancy agreement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rent",
+            "landlord",
+            "tenant",
+            "lessee",
+            "lessor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] lease [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"To grant or take a property or service under a lease agreement.",
+      "DEF_ZH":"根据租赁协议出租或租用财产或服务。",
+      "SENT_EN":"The company decided to lease a new fleet of cars.",
+      "SENT_ZH":"公司决定租用一批新车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rent",
+            "hire"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "buy",
+            "sell"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in legal, business, and everyday contexts when referring to property or equipment rental."
+}

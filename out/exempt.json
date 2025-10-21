@@ -1,0 +1,92 @@
+{
+  "WORD":"exempt",
+  "IPA":"/ɪɡˈzɛmpt/",
+  "CONJUGATES":"exempts | exempted | exempting",
+  "ETYMOLOGY":"From Latin eximere ('to take out, remove, free'), via past participle exemptus. Entered English through Old French exempter.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"exempt [from sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal",
+        "official"
+      ],
+      "DEF_EN":"Free from an obligation, duty, or liability to which others are subject.",
+      "DEF_ZH":"被免除的；豁免的；不受约束的。",
+      "SENT_EN":"Since she works for a charity, her income is exempt from federal tax.",
+      "SENT_ZH":"由于她在一家慈善机构工作，她的收入免征联邦税。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "immune",
+            "absolved",
+            "excused",
+            "not liable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "liable",
+            "subject",
+            "responsible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exempt [sb] [sth] [from sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "official",
+        "formal"
+      ],
+      "DEF_EN":"To free or release someone or something from a duty, payment, or obligation imposed on others.",
+      "DEF_ZH":"免除；豁免（某人/某事物）承担某项责任或义务。",
+      "SENT_EN":"The doctor's note exempted him from physical education classes.",
+      "SENT_ZH":"医生的证明使他得以免修体育课。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "release",
+            "excuse",
+            "acquit",
+            "spare"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "impose",
+            "require",
+            "bind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an exempt",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "technical",
+        "tax law"
+      ],
+      "DEF_EN":"A person or organization that is exempted from a rule, tax, or obligation.",
+      "DEF_ZH":"被豁免者；免税实体（尤指在税务上）。",
+      "SENT_EN":"The IRS guidelines detail which non-profit organizations qualify as exempts.",
+      "SENT_ZH":"美国国税局的指南详细说明了哪些非营利组织符合被豁免实体的资格。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal, legal, and bureaucratic contexts."
+}

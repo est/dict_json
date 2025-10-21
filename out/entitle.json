@@ -1,0 +1,85 @@
+{
+  "WORD":"entitle",
+  "IPA":"/ɪnˈtaɪ.təl/",
+  "CONJUGATES":"entitles | entitling | entitled",
+  "ETYMOLOGY":"From Old French entiteler, from Latin intitulare (in- 'in, on' + titulus 'title, inscription'). The sense of giving a right developed in Middle English.",
+  "SINCE":"Late Middle English (14th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"entitle [sb] to [sth] / [do sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "Core Word",
+        "Formal",
+        "Legal"
+      ],
+      "DEF_EN":"To give someone the right or authorization to have or do something.",
+      "DEF_ZH":"赋予某人做某事或拥有某物的权利、资格或索取权。",
+      "SENT_EN":"Membership in the club entitles you to a 10% discount on all purchases.",
+      "SENT_ZH":"俱乐部会员资格使你有权在所有购买中获得九折优惠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "authorize",
+            "qualify",
+            "permit",
+            "grant"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "entitlement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"entitle [sth] [title]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Common",
+        "Literary"
+      ],
+      "DEF_EN":"To give a specific title or designation to a book, movie, piece of music, or other work.",
+      "DEF_ZH":"为书籍、电影或文章等命名。",
+      "SENT_EN":"She entitled her memoir 'A Life Unfolding'.",
+      "SENT_ZH":"她将她的回忆录命名为“展开的生活”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "name",
+            "designate",
+            "caption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be entitled (to [sth])",
+      "POS":"vpass / adj",
+      "POS_TIP":"used in passive voice or as an adjective describing a state (often implies a negative connotation)",
+      "TAGS":[
+        "Figurative",
+        "Often negative"
+      ],
+      "DEF_EN":"To act or feel as though one inherently deserves privileges or special treatment, often without justification.",
+      "DEF_ZH":"（常含贬义）认为自己理所应当地拥有特权或特殊待遇。",
+      "SENT_EN":"The young executive acts like he is entitled to the best parking spot, even though he's often late.",
+      "SENT_ZH":"这位年轻的高管表现得好像他理应拥有最好的停车位，尽管他经常迟到。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sense of entitlement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and everyday usage, depending on the meaning."
+}

@@ -1,0 +1,126 @@
+{
+  "WORD":"chair",
+  "IPA":"/tʃɛər/",
+  "CONJUGATES":"chairs (plural noun) | chaired (past tense verb) | chairing (present participle verb)",
+  "ETYMOLOGY":"From Old French chaiere (modern French chaire), from Latin cathedra 'seat, chair', especially a teacher's or bishop's chair, from Greek kathedra 'seat, bench, chair', from kata- 'down' + hedra 'seat'.",
+  "SINCE":"Mid-13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a chair | many chairs",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A piece of furniture with a raised surface supported by legs, and a back, designed for one person to sit on.",
+      "DEF_ZH":"一种带有支腿、靠背，供一人坐的家具。",
+      "SENT_EN":"Please take a seat in that empty chair.",
+      "SENT_ZH":"请坐到那把空椅子上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seat",
+            "stool",
+            "armchair"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sofa",
+            "couch",
+            "bench"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the chair | take the chair | be in the chair",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The position of a chairperson, or the person who presides over a meeting or committee.",
+      "DEF_ZH":"主席或主持会议者的职位，或指担任该职位的人。",
+      "SENT_EN":"The director took the chair for the annual general meeting.",
+      "SENT_ZH":"董事在年度股东大会上担任了主席。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chairperson",
+            "president",
+            "head",
+            "convenor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "committee",
+            "meeting",
+            "board"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chair [sth]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes a direct object.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To act as chairperson of (a meeting, committee, or organization).",
+      "DEF_ZH":"担任（会议、委员会或组织）的主席；主持。",
+      "SENT_EN":"She will chair the next session on climate change.",
+      "SENT_ZH":"她将主持下一次关于气候变化的会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "preside over",
+            "lead",
+            "conduct",
+            "moderate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "participate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a chair of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "specific",
+        "academic"
+      ],
+      "DEF_EN":"A professorship; the permanent position of a professor at a university, often with a specific title.",
+      "DEF_ZH":"（大学的）教授职位，通常是享有特定头衔的终身教授职位。",
+      "SENT_EN":"He holds the Chair of Philosophy at Oxford University.",
+      "SENT_ZH":"他在牛津大学担任哲学教授职位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "professorship",
+            "endowed chair",
+            "academic post"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with some formal contexts for the verb and presiding officer meanings."
+}

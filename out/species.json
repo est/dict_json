@@ -1,0 +1,71 @@
+{
+  "WORD":"species",
+  "IPA":"/ˈspiːʃiːz/",
+  "CONJUGATES":"singular: species | plural: species",
+  "ETYMOLOGY":"From Latin species 'appearance, form, kind', from specere 'to look, see'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] species [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "biology",
+        "scientific",
+        "formal"
+      ],
+      "DEF_EN":"A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding, and forming the basic unit of biological classification.",
+      "DEF_ZH":"生物分类学的基本单位，指一群能够相互交配并产生可育后代的相似个体。",
+      "SENT_EN":"There are millions of different species of insects in the world.",
+      "SENT_ZH":"世界上有数百万种不同的昆虫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "type",
+            "kind",
+            "breed"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "genus",
+            "family",
+            "order",
+            "class",
+            "phylum",
+            "kingdom",
+            "domain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a species of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "general",
+        "formal",
+        "somewhat archaic"
+      ],
+      "DEF_EN":"A kind or sort of something.",
+      "DEF_ZH":"一种，一类（事物）。",
+      "SENT_EN":"His behavior was a strange species of politeness.",
+      "SENT_ZH":"他的行为是一种奇怪的礼貌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kind",
+            "type",
+            "sort"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, formal, general."
+}

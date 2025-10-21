@@ -1,0 +1,125 @@
+{
+  "WORD":"read",
+  "IPA":"/riːd/",
+  "CONJUGATES":"read | reading | reads | read (/red/, simple past/past participle)",
+  "ETYMOLOGY":"From Old English rǣdan (to advise, interpret, read), from Proto-Germanic *rēdaną.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"read [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To look at written or printed symbols and interpret their meaning.",
+      "DEF_ZH":"阅读；查看文字或符号并理解其含义。",
+      "SENT_EN":"I spent all morning reading the newspaper.",
+      "SENT_ZH":"我花了一上午的时间阅读报纸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peruse",
+            "study",
+            "decipher"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "literacy",
+            "text"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"read [sth] aloud",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To speak written or printed words out loud.",
+      "DEF_ZH":"朗读；出声地念出文字。",
+      "SENT_EN":"The narrator will read the last chapter of the book.",
+      "SENT_ZH":"叙述者将朗读这本书的最后一章。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recite",
+            "declaim"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"read [sb] | read [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative"
+      ],
+      "DEF_EN":"To understand or interpret the meaning, intent, or mood of someone or something, often based on non-verbal cues.",
+      "DEF_ZH":"解读；看懂；理解（某人或某物）的意图或情绪。",
+      "SENT_EN":"It was difficult to read his intentions during the negotiation.",
+      "SENT_ZH":"在谈判中很难看懂他的意图。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interpret",
+            "gauge",
+            "discern"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[device] reads [value]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "technical"
+      ],
+      "DEF_EN":"To indicate or show a specific measurement or data value (used for gauges or instruments).",
+      "DEF_ZH":"（指仪器）显示或记录（数值）。",
+      "SENT_EN":"The thermostat currently reads 22 degrees.",
+      "SENT_ZH":"恒温器目前显示22度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "register",
+            "indicate",
+            "display"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a good read",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal"
+      ],
+      "DEF_EN":"A book, article, or piece of writing that is enjoyable or worthwhile to read.",
+      "DEF_ZH":"可读物；值得一读的东西。",
+      "SENT_EN":"This travel memoir is an exceptionally good read.",
+      "SENT_ZH":"这本旅行回忆录非常值得一读。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "book",
+            "literature"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

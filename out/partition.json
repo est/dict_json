@@ -1,0 +1,111 @@
+{
+  "WORD":"partition",
+  "IPA":"/pɑːˈtɪʃən/",
+  "CONJUGATES":"partitions (n. pl.) | partitions (v. 3rd sing.) | partitioning (v. pres. part.) | partitioned (v. past)",
+  "ETYMOLOGY":"Late Middle English, from Old French partition, from Latin partitio, from partiri 'to divide, share', from pars, partis 'part'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] partition (between [sth] and [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "architecture"
+      ],
+      "DEF_EN":"A structure, such as a wall, screen, or panel, that separates areas within an enclosure or divides one room from another.",
+      "DEF_ZH":"隔墙；隔板；分隔物（如墙壁或屏风），用于分隔空间。",
+      "SENT_EN":"They installed a temporary glass partition to create a private meeting area in the open-plan office.",
+      "SENT_ZH":"他们在开放式办公室里安装了一个临时的玻璃隔板，以创造一个私密的会议区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divider",
+            "screen",
+            "separator",
+            "bulkhead"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"partition of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Formal",
+        "political",
+        "historical"
+      ],
+      "DEF_EN":"The action or process of dividing or being divided into parts, especially the division of a country or territory.",
+      "DEF_ZH":"分割；划分；分裂（尤指对国家或领土的划分）。",
+      "SENT_EN":"The 1947 partition of the Indian subcontinent resulted in widespread violence and migration.",
+      "SENT_ZH":"1947年印度次大陆的分裂导致了广泛的暴力和移民。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "division",
+            "separation",
+            "fragmentation",
+            "split"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unification",
+            "consolidation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"partition [sth] (into [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core word"
+      ],
+      "DEF_EN":"To divide into parts or areas; to separate with a structural divider.",
+      "DEF_ZH":"将某物划分成部分或区域；用隔板分隔。",
+      "SENT_EN":"The software allowed the user to partition the hard drive into several distinct volumes.",
+      "SENT_ZH":"该软件允许用户将硬盘划分成几个独立的卷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divide",
+            "split",
+            "section",
+            "segment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disk partition",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Computing",
+        "technical"
+      ],
+      "DEF_EN":"A segment of memory or storage space on a computer hard disk or other storage medium.",
+      "DEF_ZH":"(计算机) 磁盘分区；硬盘上的存储区域。",
+      "SENT_EN":"Before installing the new operating system, you must select the desired disk partition.",
+      "SENT_ZH":"在安装新操作系统之前，您必须选择所需的磁盘分区。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "volume",
+            "boot sector"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical (Computing)"
+}

@@ -1,0 +1,60 @@
+{
+  "WORD":"catalog",
+  "IPA":"/ˈkætəlɔːɡ/",
+  "CONJUGATES":"catalogs (plural n.) | catalogs (3rd pers. sing. v.) | cataloged (past tense/participle v.) | cataloging (pres. participle v.)",
+  "ETYMOLOGY":"From Old French catalogue, from Late Latin catalogus, from Greek katalogos 'list, register', from kata- 'down, fully' + legein 'to say, to list'.",
+  "SINCE":"Late 15th century (as noun), early 17th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a catalog of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A complete list of items, typically one in alphabetical or other systematic order, often published as a book or pamphlet.",
+      "DEF_ZH":"一份系统的物品清单，通常按字母或其他顺序排列，常以书本或小册子形式出版。",
+      "SENT_EN":"The university publishes a catalog detailing all its courses and programs.",
+      "SENT_ZH":"大学出版了一本详细介绍所有课程和项目的目录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "list",
+            "index",
+            "register",
+            "inventory",
+            "directory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"catalog [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a systematic list of (items of the same type); to classify or enter in a catalog.",
+      "DEF_ZH":"对（同类物品）进行系统性地列出；编入目录或分类。",
+      "SENT_EN":"Museums meticulously catalog their artifacts to ensure proper record-keeping.",
+      "SENT_ZH":"博物馆一丝不苟地对文物进行编目，以确保记录的准确性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "list",
+            "index",
+            "classify",
+            "categorize",
+            "inventory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

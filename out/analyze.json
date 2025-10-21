@@ -1,0 +1,90 @@
+{
+  "WORD":"analyze",
+  "IPA":"/ˈænəlaɪz/",
+  "CONJUGATES":"analyzes | analyzing | analyzed",
+  "ETYMOLOGY":"From Ancient Greek ἀνάλυσις (análysis, 'a loosening, breaking up'), combining ἀνά (aná, 'up, throughout') + λύσις (lýsis, 'a loosening'). Passed through Middle French analyser.",
+  "SINCE":"Early 17th century (c. 1620s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"analyze [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "academic",
+        "common"
+      ],
+      "DEF_EN":"To examine something methodically and in detail, typically in order to explain and interpret it.",
+      "DEF_ZH":"系统地、详细地检查某事物，以解释和理解其性质或结构。",
+      "SENT_EN":"We need to analyze the current market trends before launching the product.",
+      "SENT_ZH":"在推出产品之前，我们需要分析当前的市场趋势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examine",
+            "study",
+            "scrutinize",
+            "investigate",
+            "dissect",
+            "break down"
+          ]
+        },
+        {
+          "T":"derivative",
+          "V":[
+            "analysis",
+            "analyst"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"analyze [sth] (chemically/materially)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"To determine the elements or constituent parts of a substance or sample.",
+      "DEF_ZH":"测定物质或样本的元素或组成部分；化验。",
+      "SENT_EN":"The laboratory analyzed the soil sample to check its nutrient composition.",
+      "SENT_ZH":"实验室分析了土壤样本，以检查其养分构成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "test",
+            "assay",
+            "evaluate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"analyze [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "psychology",
+        "specialized"
+      ],
+      "DEF_EN":"To subject a person to psychoanalysis; to treat them using psychoanalytic methods.",
+      "DEF_ZH":"对某人进行精神分析；使用精神分析方法进行治疗。",
+      "SENT_EN":"She decided to analyze her patient's recurring dream.",
+      "SENT_ZH":"她决定分析她的病人重复出现的梦。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "psychoanalyze",
+            "psychology",
+            "therapy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Business, Technical"
+}

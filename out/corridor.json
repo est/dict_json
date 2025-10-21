@@ -1,0 +1,59 @@
+{
+  "WORD":"corridor",
+  "IPA":"/ˈkɒrɪdɔːr/",
+  "CONJUGATES":"corridors",
+  "ETYMOLOGY":"From French 'corridor', derived from Italian 'corridoio' (a running place, gallery), from 'correre' (to run), ultimately from Latin 'currere'.",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"corridor",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "architecture"
+      ],
+      "DEF_EN":"A long passage in a building or train, typically with doors leading off it to rooms or compartments.",
+      "DEF_ZH":"建筑物或火车内一条狭长的通道或走廊，通常两侧有通往房间或车厢的门。",
+      "SENT_EN":"We waited for the elevator at the end of the long, empty corridor.",
+      "SENT_ZH":"我们在那条空旷的长走廊尽头等待电梯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hallway",
+            "passage",
+            "gallery",
+            "aisle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[geographical/strategic] corridor",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geography",
+        "politics",
+        "specialized"
+      ],
+      "DEF_EN":"A strip of land or airspace connecting two larger areas, especially one strategically important for transportation or military access.",
+      "DEF_ZH":"连接两个较大区域的狭长地带或空域，尤指在运输或军事通行方面具有战略重要性的通道。",
+      "SENT_EN":"The agreement guaranteed the maintenance of a vital shipping corridor through the strait.",
+      "SENT_ZH":"该协议保障了通过海峡的重要航运走廊的维护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "route",
+            "channel",
+            "belt",
+            "pathway"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

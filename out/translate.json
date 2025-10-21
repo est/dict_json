@@ -1,0 +1,88 @@
+{
+  "WORD":"translate",
+  "IPA":"/trænzˈleɪt/",
+  "CONJUGATES":"translate | translates | translating | translated",
+  "ETYMOLOGY":"From Latin translatus, past participle of transferre ('to carry across, transfer'), from trans- ('across') + ferre ('to carry'). Originally in English, it meant 'to convey, move from one place to another', later developing the sense 'to render into another language'.",
+  "SINCE":"Early 14th century (for moving/transferring); late 14th century (for converting between languages)",
+  "MEANINGS":[
+    {
+      "PATTERN":"translate [sth] (from [language] into [language])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To express the sense of (words or text) in another language.",
+      "DEF_ZH":"将（文字或文本）从一种语言转换成另一种语言来表达其含义。",
+      "SENT_EN":"The novel was translated from Japanese into over fifty languages.",
+      "SENT_ZH":"这部小说被从日语翻译成五十多种语言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interpret",
+            "render",
+            "convert"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "translator",
+            "translation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"translate [sth] into [sth else]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive or intransitive verb: a verb that may or may not take an object",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To express or interpret in another medium, form, or style; to change from one form, state, or appearance to another.",
+      "DEF_ZH":"以另一种媒介、形式或风格来表达或诠释；从一种形式、状态或外观转变为另一种。",
+      "SENT_EN":"His theoretical concepts don't always translate well into practical applications.",
+      "SENT_ZH":"他的理论概念并不总能很好地转化为实际应用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "convert",
+            "transform",
+            "adapt",
+            "transmute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"translate [sb]/[sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "rare",
+        "obsolete",
+        "formal"
+      ],
+      "DEF_EN":"To move or carry from one place, position, or condition to another; especially (of a bishop) to move from one see to another, or (of a saint's body/relics) to move to a new shrine.",
+      "DEF_ZH":"将（某人/某物）从一个地方、位置或状态转移到另一个地方；尤指（主教）从一个教区调任到另一个教区，或（圣徒遗骸/圣物）迁至新的圣地。",
+      "SENT_EN":"The relics of the saint were translated to the new cathedral.",
+      "SENT_ZH":"圣徒的遗骸被移至新的大教堂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "relocate",
+            "move"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

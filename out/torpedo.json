@@ -1,0 +1,117 @@
+{
+  "WORD":"torpedo",
+  "IPA":"/tɔːrˈpiːdoʊ/",
+  "CONJUGATES":"torpedoes | torpedoed | torpedoing",
+  "ETYMOLOGY":"From Latin torpedo ('electric ray', literally 'numbness, sluggishness'), via French torpille.",
+  "SINCE":"Late 16th century (for the fish/mine); Mid 19th century (for the self-propelled weapon)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (weapon)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "naval"
+      ],
+      "DEF_EN":"A self-propelled, typically cigar-shaped, underwater missile designed to be fired from a submarine or surface vessel and explode on impact with a target.",
+      "DEF_ZH":"一种自推式的、通常为雪茄形的、用于从潜艇或水面舰艇发射的水下导弹，设计用于撞击目标时爆炸。",
+      "SENT_EN":"The submarine launched a torpedo aimed at the enemy destroyer.",
+      "SENT_ZH":"潜艇发射了一枚鱼雷，瞄准敌方驱逐舰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "missile",
+            "unguided torpedo"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mine",
+            "depth charge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"torpedo [sth]",
+      "POS":"vt",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To destroy, defeat, or ruin suddenly and completely; to undermine a plan or effort.",
+      "DEF_ZH":"突然彻底地摧毁、击败或破坏；挫败计划或努力。",
+      "SENT_EN":"His sudden resignation effectively torpedoed the merger negotiations.",
+      "SENT_ZH":"他突然辞职有效地破坏了合并谈判。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ruin",
+            "wreck",
+            "destroy",
+            "undermine"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "assist",
+            "support",
+            "further"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"torpedo [sth] (vessel)",
+      "POS":"vt",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "military",
+        "literal"
+      ],
+      "DEF_EN":"To attack or sink a ship using a torpedo.",
+      "DEF_ZH":"使用鱼雷攻击或击沉船只。",
+      "SENT_EN":"The U-boat managed to torpedo three merchant vessels in the convoy.",
+      "SENT_ZH":"这艘U型潜艇成功地用鱼雷击沉了护航队中的三艘商船。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sink",
+            "blast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (fish)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "zoology",
+        "old word"
+      ],
+      "DEF_EN":"Any of several rays (family Torpedinidae) that have electric organs capable of stunning prey or deterring predators; an electric ray.",
+      "DEF_ZH":"任何几种具有能够电晕猎物或威慑捕食者的电器官的鳐鱼（电鳐科）；电鳐。",
+      "SENT_EN":"The torpedo fish was known to ancient Greeks for its ability to deliver an electric shock.",
+      "SENT_ZH":"电鳐因其能发出电击的能力而为古希腊人所知。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "electric ray"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in military and figurative contexts."
+}

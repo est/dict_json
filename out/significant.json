@@ -1,0 +1,91 @@
+{
+  "WORD":"SIGNIFICANT",
+  "IPA":"/sɪɡˈnɪfɪkənt/",
+  "CONJUGATES":"significantly (adv.) | significance (n.) | more significant (comp.) | most significant (sup.)",
+  "ETYMOLOGY":"From Latin significantem (nominative significans), present participle of significare ('to signify, mean'), from signum ('mark, sign') + facere ('to make').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"significant [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"Sufficiently great, serious, or important to be worthy of attention; noteworthy and consequential.",
+      "DEF_ZH":"足够大、严重或重要，值得关注的；重大的；有深远影响的。",
+      "SENT_EN":"The policy change had a significant impact on the company's annual revenue.",
+      "SENT_ZH":"这项政策变化对公司年收入产生了重大影响。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "important",
+            "major",
+            "substantial",
+            "notable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "trivial",
+            "negligible",
+            "minor",
+            "unimportant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"significant [look/gesture/silence]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Descriptive",
+        "Formal"
+      ],
+      "DEF_EN":"Expressing a meaning or intention, especially something that is not openly stated; meaningful or suggestive.",
+      "DEF_ZH":"表达某种含义或意图，尤指没有公开说明的；意味深长的；暗示性的。",
+      "SENT_EN":"She paused, giving him a significant look across the table.",
+      "SENT_ZH":"她停顿了一下，在桌子对面给了他一个意味深长的眼神。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meaningful",
+            "expressive",
+            "telling",
+            "suggestive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"statistically significant",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Technical",
+        "Academic",
+        "Statistics"
+      ],
+      "DEF_EN":"(In statistics) relating to a result that is unlikely to have occurred by random chance; meeting a predefined standard of certainty.",
+      "DEF_ZH":"（统计学中）指结果不太可能是偶然发生的；达到预定确定性标准的。",
+      "SENT_EN":"The clinical trial showed a statistically significant improvement in patient outcomes.",
+      "SENT_ZH":"临床试验显示患者结果有统计学上的显著改善。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "p-value",
+            "hypothesis testing",
+            "correlation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general conversation, business, academic, and formal writing."
+}

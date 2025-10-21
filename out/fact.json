@@ -1,0 +1,91 @@
+{
+  "WORD":"fact",
+  "IPA":"/fækt/",
+  "CONJUGATES":"facts",
+  "ETYMOLOGY":"From Latin factum (a deed, act, accomplished thing), neuter past participle of facere (to do, make). Entered English via Old French fait.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] fact [that...]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thing that is known or proved to be true, especially pertaining to reality and not opinion or speculation.",
+      "DEF_ZH":"经证实或已知为真实的事情；事实；真相。",
+      "SENT_EN":"It is a fact that water boils at 100 degrees Celsius under standard atmospheric pressure.",
+      "SENT_ZH":"在标准大气压下，水在100摄氏度沸腾是一个事实。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reality",
+            "truth",
+            "certainty",
+            "actuality"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fiction",
+            "lie",
+            "falsehood",
+            "speculation",
+            "opinion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] facts of [the case]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"An actual event or occurrence; an act or deed that has taken place.",
+      "DEF_ZH":"实际发生的事件或行为；事件的经过。",
+      "SENT_EN":"The jury must consider only the facts presented in court, not external rumors.",
+      "SENT_ZH":"陪审团必须只考虑法庭上提出的事实，而不是外部谣言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "event",
+            "occurrence",
+            "incident",
+            "circumstance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in fact | as a matter of fact",
+      "POS":"phrase",
+      "POS_TIP":"idiomatic phrase",
+      "TAGS":[
+        "idiom",
+        "adverbial"
+      ],
+      "DEF_EN":"Used to emphasize the truth of something or to introduce a piece of clarifying or surprising information.",
+      "DEF_ZH":"事实上；确切地说（用于强调真实性或引入澄清信息）。",
+      "SENT_EN":"I didn't fail the test; in fact, I got the highest score in the class.",
+      "SENT_ZH":"我没有考试不及格；事实上，我得了全班最高分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "actually",
+            "indeed",
+            "truly"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

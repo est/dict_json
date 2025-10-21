@@ -1,0 +1,148 @@
+{
+  "WORD":"public",
+  "IPA":"/ˈpʌblɪk/",
+  "CONJUGATES":"publics (plural noun) | publicly (adverb) | publicness (noun) | publicize (verb)",
+  "ETYMOLOGY":"From Old French public (adj.), from Latin publicus ('of the people, relating to the state, open to all'), from populus ('people').",
+  "SINCE":"Late 14th century (as adjective), early 15th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"public [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective, a word that describes or modifies a noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "general"
+      ],
+      "DEF_EN":"Relating to or concerning the people as a whole, rather than an individual or a private group.",
+      "DEF_ZH":"关于或属于全体人民的，而非个人或私人团体的。",
+      "SENT_EN":"The public transport system in this city is very efficient.",
+      "SENT_ZH":"这个城市的公共交通系统非常高效。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "communal",
+            "social",
+            "collective",
+            "general"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "private",
+            "individual",
+            "personal",
+            "secret"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"public [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective, a word that describes or modifies a noun",
+      "TAGS":[
+        "common",
+        "accessible"
+      ],
+      "DEF_EN":"Open to or shared by all members of the community; accessible to everyone.",
+      "DEF_ZH":"对社区所有成员开放或共享的；人人可及的。",
+      "SENT_EN":"The library is a public space for everyone to read and learn.",
+      "SENT_ZH":"图书馆是供大家阅读和学习的公共场所。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "open",
+            "accessible",
+            "available",
+            "shared"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "restricted",
+            "exclusive",
+            "private"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the public",
+      "POS":"n",
+      "POS_TIP":"noun, a word that refers to a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "common",
+        "collective"
+      ],
+      "DEF_EN":"The community or people as a whole; a general body of people.",
+      "DEF_ZH":"作为一个整体的社区或人民；一般民众。",
+      "SENT_EN":"The company issued a statement to reassure the public.",
+      "SENT_ZH":"公司发表了一份声明以安抚公众。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "populace",
+            "community",
+            "citizens",
+            "people"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in public",
+      "POS":"idiom",
+      "POS_TIP":"an idiom is a group of words established by usage as having a meaning not deducible from those of the individual words",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"In a place where people can see or hear you; not privately.",
+      "DEF_ZH":"在人们可以看到或听到的地方；公开地，不私下地。",
+      "SENT_EN":"He rarely shows emotion in public.",
+      "SENT_ZH":"他很少在公共场合表露情感。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "in private",
+            "privately"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"go public",
+      "POS":"idiom",
+      "POS_TIP":"an idiom is a group of words established by usage as having a meaning not deducible from those of the individual words",
+      "TAGS":[
+        "business",
+        "common"
+      ],
+      "DEF_EN":"To offer shares in a company for sale to the general public for the first time.",
+      "DEF_ZH":"首次向公众发行公司股票（上市）。",
+      "SENT_EN":"The tech startup plans to go public next year.",
+      "SENT_ZH":"这家科技初创公司计划明年上市。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "IPO",
+            "stock market"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in both formal and informal contexts across all domains."
+}

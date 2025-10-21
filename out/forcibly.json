@@ -1,0 +1,113 @@
+{
+  "WORD":"force",
+  "IPA":"/fɔːrs/",
+  "CONJUGATES":"noun: force | forces | verb: force | forces | forcing | forced",
+  "ETYMOLOGY":"From Old French force (strength, power, violence), from Latin fortia, neuter plural of fortis 'strong, brave'. The adverb 'forcibly' is formed by adding the suffix '-ly' to 'force'.",
+  "SINCE":"Noun: mid-13th century; Verb: late 13th century; Adverb 'forcibly': early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Strength or energy as an attribute of physical action or movement.",
+      "DEF_ZH":"物理行动或运动所具有的力量或能量。",
+      "SENT_EN":"He pushed the door with all his force.",
+      "SENT_ZH":"他用尽全身力气推门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strength",
+            "power",
+            "might",
+            "energy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"force [sb/sth] [to do sth]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A transitive verb is a verb that requires a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone do something against their will; to compel.",
+      "DEF_ZH":"违背某人意愿，强迫其做某事。",
+      "SENT_EN":"The circumstances forced him to leave the country.",
+      "SENT_ZH":"情势迫使他离开这个国家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compel",
+            "coerce",
+            "oblige"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "persuade",
+            "convince",
+            "allow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"force [sth] [open/apart/into etc.]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A transitive verb is a verb that requires a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To use physical strength to move, open, or break something.",
+      "DEF_ZH":"用体力移动、打开或弄坏某物。",
+      "SENT_EN":"They had to force the lock to get inside.",
+      "SENT_ZH":"他们不得不撬开锁才能进去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "break open",
+            "pry open",
+            "jimmy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"forcibly [do sth]",
+      "POS":"adverb",
+      "POS_TIP":"An adverb modifies a verb, adjective, or other adverb, indicating manner, place, time, or degree.",
+      "TAGS":[
+        "core word",
+        "common",
+        "derived form"
+      ],
+      "DEF_EN":"By means of physical strength or violence; against someone's will.",
+      "DEF_ZH":"以体力或暴力的方式；违背意愿地。",
+      "SENT_EN":"The protestors were forcibly removed from the building by security.",
+      "SENT_ZH":"抗议者被安保人员强行从大楼里带走。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "by force",
+            "coercively",
+            "violently",
+            "compulsorily"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

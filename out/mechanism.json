@@ -1,0 +1,87 @@
+{
+  "WORD":"mechanism",
+  "IPA":"/ˈmɛkənɪzəm/",
+  "CONJUGATES":"mechanisms",
+  "ETYMOLOGY":"From French 'mécanisme', from Late Latin 'mechanismus', from Ancient Greek 'mēkhanē' (machine, contrivance) + '-ismos' (suffix forming nouns of action or result).",
+  "SINCE":"Early 17th century (circa 1610s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s mechanism",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A part of a machine, or a set of parts, that performs a particular function.",
+      "DEF_ZH":"机器中执行特定功能的部件或一套部件。",
+      "SENT_EN":"The watch's intricate mechanism ensures precise timekeeping.",
+      "SENT_ZH":"手表复杂的机械装置确保了走时精准。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "apparatus",
+            "device",
+            "gear",
+            "machinery",
+            "works",
+            "system"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mechanism for [doing sth] | mechanism of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A natural or established process by which something takes place or is brought about.",
+      "DEF_ZH":"某种事物发生或实现的自然或既定过程。",
+      "SENT_EN":"The body has its own natural healing mechanisms.",
+      "SENT_ZH":"人体拥有其自身的自然愈合机制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "process",
+            "method",
+            "procedure",
+            "system",
+            "technique",
+            "means"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mechanism (philosophy)",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "rare",
+        "philosophical",
+        "specialized"
+      ],
+      "DEF_EN":"The philosophical theory that all natural phenomena can be explained in terms of physical causes and laws, without reference to purpose or design.",
+      "DEF_ZH":"哲学理论，认为所有自然现象都可以用物理原因和规律来解释，而无需提及目的或设计。",
+      "SENT_EN":"The philosophical school of mechanism rejects vitalistic explanations of life.",
+      "SENT_ZH":"机械论的哲学流派拒绝用生机论来解释生命。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "vitalism",
+            "teleology"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to neutral. Commonly used in scientific, technical, and general contexts."
+}

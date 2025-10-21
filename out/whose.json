@@ -1,0 +1,55 @@
+{
+  "WORD":"whose",
+  "IPA":"/huːz/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English *whos*, from Old English *hwæs*, genitive singular masculine and neuter of *hwā* (who), influenced by Old English *hwæt* (what).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"the person [whose] car",
+      "POS":"relative determiner/pronoun",
+      "POS_TIP":"A word used to introduce a relative clause, indicating possession or association.",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"Used to show that the following noun belongs to or is associated with the person or thing previously mentioned.",
+      "DEF_ZH":"其…的；那位/那个…的 (引导定语从句，表示所属关系)",
+      "SENT_EN":"They introduced the author whose novel has been translated into twenty languages.",
+      "SENT_ZH":"他们介绍了那位小说已被翻译成二十种语言的作者。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "who",
+            "whom",
+            "which"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[Whose] is this? / [Whose] book is this?",
+      "POS":"interrogative determiner/pronoun",
+      "POS_TIP":"A word used in questions to ask about possession.",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"Asking to whom something belongs or with whom someone is associated.",
+      "DEF_ZH":"谁的 (用于疑问句，询问所属)",
+      "SENT_EN":"Whose signature is required on this legal document?",
+      "SENT_ZH":"这份法律文件需要谁的签名？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "who",
+            "what"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (Formal and Informal)"
+}

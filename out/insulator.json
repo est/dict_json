@@ -1,0 +1,70 @@
+{
+  "WORD":"insulator",
+  "IPA":"/ˈɪnsjəˌleɪtər/",
+  "CONJUGATES":"insulators (plural)",
+  "ETYMOLOGY":"Derived from the verb 'insulate', from Latin insula ('island'), via insulatus ('made into an island'). The suffix -tor indicates an agent or device. Meaning is 'that which separates or protects'.",
+  "SINCE":"c. 1850s",
+  "MEANINGS":[
+    {
+      "PATTERN":"insulator [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"A substance or device that resists the flow of heat, electricity, or sound, used to confine or restrict their passage.",
+      "DEF_ZH":"不容易传导热、电或声音的物质或装置（绝缘体、隔热体、隔音体）。",
+      "SENT_EN":"Rubber and ceramic materials are excellent electrical insulators.",
+      "SENT_ZH":"橡胶和陶瓷材料是优良的电绝缘体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nonconductor",
+            "dielectric"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conductor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "insulate",
+            "insulation",
+            "thermostat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"insulator [sb] [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"A person or thing that serves as a protective barrier or means of separation from external influences, worries, or hardships.",
+      "DEF_ZH":"作为保护屏障或隔离外部影响、忧虑或困难的人或事物。",
+      "SENT_EN":"His quiet demeanor served as an insulator against office gossip.",
+      "SENT_ZH":"他安静的举止充当了隔绝办公室八卦的屏障。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "buffer",
+            "shield",
+            "safeguard"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Science | Engineering"
+}

@@ -1,0 +1,53 @@
+{
+  "WORD":"celsius",
+  "IPA":"/ˈsɛlsiəs/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Named after Anders Celsius (1701–1744), Swedish astronomer who first proposed the scale in 1742.",
+  "SINCE":"mid-18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"Celsius",
+      "POS":"proper noun",
+      "POS_TIP":"A noun that names a specific person, place, or thing.",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "measurement"
+      ],
+      "DEF_EN":"A temperature scale on which 0 degrees represents the freezing point of water and 100 degrees represents the boiling point of water at standard atmospheric pressure.",
+      "DEF_ZH":"一种温标，在此温标上，水的冰点为0度，沸点为100度（在标准大气压下）。",
+      "SENT_EN":"The temperature is expected to reach 30 degrees Celsius today.",
+      "SENT_ZH":"今天气温预计将达到30摄氏度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "centigrade"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Fahrenheit",
+            "Kelvin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Celsius [temperature/degree]",
+      "POS":"adjective",
+      "POS_TIP":"A word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "scientific",
+        "measurement"
+      ],
+      "DEF_EN":"Relating to or measured using the Celsius temperature scale.",
+      "DEF_ZH":"摄氏温标的；用摄氏温标测量的。",
+      "SENT_EN":"We need a Celsius thermometer for the experiment.",
+      "SENT_ZH":"我们需要一个摄氏温度计来做实验。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Commonly used in scientific, technical, and general contexts worldwide, especially outside the United States."
+}

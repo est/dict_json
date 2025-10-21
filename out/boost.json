@@ -1,0 +1,101 @@
+{
+  "WORD":"boost",
+  "IPA":"/buːst/",
+  "CONJUGATES":"boosts | boosting | boosted",
+  "ETYMOLOGY":"Early 19th century (originally US): of unknown origin.",
+  "SINCE":"c. 1825",
+  "MEANINGS":[
+    {
+      "PATTERN":"boost [sth] | boost [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To help improve something or increase the amount, value, or strength of something.",
+      "DEF_ZH":"帮助改善某物或增加某物的数量、价值或强度。",
+      "SENT_EN":"The new advertising campaign helped to boost sales.",
+      "SENT_ZH":"新的广告宣传活动有助于促进销售额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "increase",
+            "improve",
+            "promote",
+            "enhance",
+            "raise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "decrease",
+            "reduce",
+            "hinder",
+            "lower"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a boost (for [sth] / [sb])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act of helping to improve or increase something; an act of encouragement.",
+      "DEF_ZH":"帮助提高或增加某物或给予鼓励的行为。",
+      "SENT_EN":"The announcement gave a real boost to the team's morale.",
+      "SENT_ZH":"这个声明极大地提振了团队的士气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "increase",
+            "improvement",
+            "encouragement",
+            "lift",
+            "fillip"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hindrance",
+            "reduction",
+            "discouragement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"boost [sb] / [sth] (up)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "common",
+        "literal"
+      ],
+      "DEF_EN":"To lift someone or something by pushing from below.",
+      "DEF_ZH":"从下面托起某人或某物。",
+      "SENT_EN":"He boosted her over the wall.",
+      "SENT_ZH":"他把她托举着翻过了墙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lift",
+            "hoist",
+            "raise",
+            "help up"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

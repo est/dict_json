@@ -1,0 +1,89 @@
+{
+  "WORD":"entity",
+  "IPA":"/'ɛntɪti/",
+  "CONJUGATES":"entities",
+  "ETYMOLOGY":"From Late Latin entitas (state of being), derived from Latin ens (being, existing thing), present participle of esse (to be).",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"entity",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Formal",
+        "General"
+      ],
+      "DEF_EN":"A thing with distinct and independent existence; something that exists as itself.",
+      "DEF_ZH":"实体；独立存在的物或事；具有自身明确存在的客体。",
+      "SENT_EN":"The non-profit organization is treated as a separate legal entity.",
+      "SENT_ZH":"这家非营利组织被视为一个独立的法律实体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "being",
+            "organization",
+            "object",
+            "existence"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "substance",
+            "corporeal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"entity",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Computing",
+        "Database"
+      ],
+      "DEF_EN":"In computing and database design, a specific person, place, thing, or concept about which data can be stored.",
+      "DEF_ZH":"(计算机或数据库中) 实体；可被存储或建模数据的对象或概念。",
+      "SENT_EN":"We need to define the relationships between the 'Customer' entity and the 'Order' entity.",
+      "SENT_ZH":"我们需要界定“客户”实体和“订单”实体之间的关系。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "attribute",
+            "relation",
+            "data"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"entity",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Philosophical",
+        "Academic"
+      ],
+      "DEF_EN":"The quality or state of being; essence or reality.",
+      "DEF_ZH":"存在性；本体；事物的本质。",
+      "SENT_EN":"The philosopher debated the nature of pure entity, distinct from human perception.",
+      "SENT_ZH":"那位哲学家辩论了与人类感知截然不同的纯粹实体的本质。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "essence",
+            "quiddity",
+            "reality"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Academic contexts, widely used in Business and Technology."
+}

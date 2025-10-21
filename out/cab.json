@@ -1,0 +1,82 @@
+{
+  "WORD":"cab",
+  "IPA":"/kæb/",
+  "CONJUGATES":"cabs | cabbing | cabbed",
+  "ETYMOLOGY":"Short for 'cabriolet', a type of light, two-wheeled, horse-drawn carriage with a hood, from French 'cabriolet' (diminutive of 'cabriole' 'goat's leap', referring to the bouncy motion of the carriage). The term was later applied to motorized taxis.",
+  "SINCE":"mid-19th century (as short for cabriolet); late 19th century (for motorized taxis)",
+  "MEANINGS":[
+    {
+      "PATTERN":"cab",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"a car, usually a taxi, that can be hired with a driver",
+      "DEF_ZH":"出租车，的士",
+      "SENT_EN":"Let's take a cab to the station; we're running late.",
+      "SENT_ZH":"我们打辆的士去车站吧，我们快迟到了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "taxi",
+            "hack"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cab driver",
+            "cabstand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cab",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"the enclosed compartment in a truck, crane, or train where the driver or operator sits",
+      "DEF_ZH":"（卡车、火车或起重机等的）驾驶室",
+      "SENT_EN":"The engineer climbed into the cab of the locomotive.",
+      "SENT_ZH":"工程师爬进了机车的驾驶室。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cockpit",
+            "cabin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] cabs [to a place]",
+      "POS":"verb (intransitive)",
+      "POS_TIP":"verb: a word that describes an action, state, or occurrence | intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "less common",
+        "informal"
+      ],
+      "DEF_EN":"to travel in a taxi",
+      "DEF_ZH":"乘出租车；打的",
+      "SENT_EN":"We cabbed home after the concert.",
+      "SENT_ZH":"音乐会结束后我们打车回家了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "taxi"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

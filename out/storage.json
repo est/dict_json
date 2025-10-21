@@ -1,0 +1,100 @@
+{
+  "WORD":"storage",
+  "IPA":"/ˈstɔːrɪdʒ/",
+  "CONJUGATES":"storages (plural)",
+  "ETYMOLOGY":"From Middle English *storage*, from Old French estorage ('a storing'), from estorer ('to store, build'), ultimately from Latin instaurare ('to renew, restore'). Formed from 'store' + '-age'.",
+  "SINCE":"Late 14th century (in the sense of 'cost of storing'), 15th century (in the sense of 'place for storing')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] storage | storage of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea. Often used uncountably in this sense.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action or method of keeping something for future use; the process of storing data or goods.",
+      "DEF_ZH":"储存；保管；贮藏（物品或信息）的行为或方法。",
+      "SENT_EN":"The company offers secure storage of your personal belongings.",
+      "SENT_ZH":"该公司提供您个人物品的安全储存服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "keeping",
+            "retention",
+            "warehousing",
+            "stockpiling"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disposal",
+            "consumption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"storage [area/space/room]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea. Can be countable or uncountable in this sense.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A space or place where things are stored; a room, building, or area set aside for keeping goods.",
+      "DEF_ZH":"储藏空间；储藏室；仓库。",
+      "SENT_EN":"We need more storage in the attic for old furniture.",
+      "SENT_ZH":"阁楼上我们需要更多的储物空间来存放旧家具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depository",
+            "warehouse",
+            "storeroom",
+            "repository"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"data storage | computer storage",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea. Often used uncountably in this technical sense.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"The capacity of a computer or other electronic device to store data; the part of a computer in which data is kept.",
+      "DEF_ZH":"（计算机）存储容量；存储器。",
+      "SENT_EN":"My laptop has plenty of cloud storage for all my documents.",
+      "SENT_ZH":"我的笔记本电脑有足够的云存储空间来存放我的所有文档。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "memory",
+            "disk space",
+            "hard drive",
+            "flash memory"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "RAM",
+            "ROM",
+            "SSD",
+            "HDD",
+            "cloud storage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

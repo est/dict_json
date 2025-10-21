@@ -1,0 +1,106 @@
+{
+  "WORD":"expand",
+  "IPA":"/ɪkˈspænd/",
+  "CONJUGATES":"expand | expands | expanding | expanded",
+  "ETYMOLOGY":"From Latin expandere 'spread out, extend' (ex- 'out' + pandere 'to spread, stretch').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"expand",
+      "POS":"vi",
+      "POS_TIP":"An intransitive verb is a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To become larger in size, volume, or extent.",
+      "DEF_ZH":"变大；扩大；膨胀",
+      "SENT_EN":"Gases expand when heated.",
+      "SENT_ZH":"气体受热时会膨胀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enlarge",
+            "grow",
+            "swell",
+            "increase",
+            "dilate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contract",
+            "shrink",
+            "decrease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expand [sth] | expand",
+      "POS":"vt | vi",
+      "POS_TIP":"A transitive verb takes a direct object; an intransitive verb does not.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something larger or more extensive, or to increase in scope, range, or influence.",
+      "DEF_ZH":"拓展；扩张；发展",
+      "SENT_EN":"The company plans to expand its operations into new markets.",
+      "SENT_ZH":"公司计划将其业务扩展到新市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extend",
+            "broaden",
+            "develop",
+            "amplify",
+            "magnify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "limit",
+            "restrict",
+            "narrow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expand on/upon [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"An intransitive verb is a verb that does not take a direct object. A preposition is a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To give a fuller or more detailed account of something.",
+      "DEF_ZH":"详述；阐述",
+      "SENT_EN":"Could you expand on that point a little more?",
+      "SENT_ZH":"您能就这一点再详细说明一下吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "elaborate",
+            "explicate",
+            "detail"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "summarize",
+            "condense"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"neutral"
+}

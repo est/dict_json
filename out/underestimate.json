@@ -1,0 +1,70 @@
+{
+  "WORD":"underestimate",
+  "IPA":"/ˌʌndərˈɛstɪmeɪt/",
+  "CONJUGATES":"underestimates | underestimated | underestimating",
+  "ETYMOLOGY":"Formed from the prefix 'under-' (meaning 'below' or 'less than usual') and 'estimate' (from Latin *aestimare*, 'to value, appraise'). Meaning 'to estimate below the true value'.",
+  "SINCE":"c. 1820s",
+  "MEANINGS":[
+    {
+      "PATTERN":"underestimate [sb] | underestimate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To judge someone or something as having less ability, power, or importance than they actually possess.",
+      "DEF_ZH":"低估；看轻；对...估计不足（能力、重要性等）。",
+      "SENT_EN":"Never underestimate the determination of a true competitor.",
+      "SENT_ZH":"永远不要低估一个真正的竞争者的决心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "misjudge",
+            "underrate",
+            "undervalue"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "overestimate",
+            "overrate",
+            "magnify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"underestimate [sth] (quantity/cost)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "business",
+        "technical"
+      ],
+      "DEF_EN":"To make an estimate that is too low; to calculate a quantity, cost, or size below the actual figure.",
+      "DEF_ZH":"低估（数量、成本、规模）；估算不足。",
+      "SENT_EN":"The project manager admitted they had severely underestimated the time required for testing.",
+      "SENT_ZH":"项目经理承认他们严重低估了测试所需的时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "understate",
+            "short-change"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "overestimate",
+            "inflate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

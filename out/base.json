@@ -1,0 +1,161 @@
+{
+  "WORD":"base",
+  "IPA":"/beɪs/",
+  "CONJUGATES":"bases (n.) | basing, based (v.)",
+  "ETYMOLOGY":"As a Noun (foundation): From Latin basis, via Old French. As an Adjective (low, morally vile): From Middle English bas, from Old French bas (low, shallow), possibly from Late Latin bassus (thick, low).",
+  "SINCE":"c. 1300 (adj); c. 1400 (n)",
+  "MEANINGS":[
+    {
+      "PATTERN":"base (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical structure"
+      ],
+      "DEF_EN":"The bottom part of an object, upon which it rests or is supported; a foundation.",
+      "DEF_ZH":"底部；基础；基座。",
+      "SENT_EN":"The statue stood on a marble base.",
+      "SENT_ZH":"雕像立在一个大理石基座上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "foundation",
+            "foot",
+            "bottom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"base (for [sb/sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "military",
+        "logistics"
+      ],
+      "DEF_EN":"A center of operations, supply, or concentration; especially a military headquarters.",
+      "DEF_ZH":"基地；大本营；总部。",
+      "SENT_EN":"The aid workers operated from a temporary base in the mountains.",
+      "SENT_ZH":"救援人员在山中的一个临时基地开展工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "headquarters",
+            "depot",
+            "station"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"base [sth] on [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a prepositional phrase",
+      "TAGS":[
+        "common",
+        "abstract usage"
+      ],
+      "DEF_EN":"To use something as the foundation or starting point for an argument, theory, or idea.",
+      "DEF_ZH":"基于；以...为根据。",
+      "SENT_EN":"We based our decision on the latest market data.",
+      "SENT_ZH":"我们是根据最新的市场数据做出决定的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "found",
+            "establish",
+            "derive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"base [sb/sth] in [location]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a prepositional phrase",
+      "TAGS":[
+        "common",
+        "business",
+        "location"
+      ],
+      "DEF_EN":"To locate or establish a person or organization's principal place of work or residence.",
+      "DEF_ZH":"将...设总部/基地于某地。",
+      "SENT_EN":"She is based in London but travels frequently for work.",
+      "SENT_ZH":"她常驻伦敦，但经常出差工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "situate",
+            "locate",
+            "station"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"base",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "moral judgment",
+        "derogatory"
+      ],
+      "DEF_EN":"Lacking moral principles; contemptible or ignoble.",
+      "DEF_ZH":"卑鄙的；可耻的；不道德的。",
+      "SENT_EN":"He was driven by the most base motives.",
+      "SENT_ZH":"他是被最卑鄙的动机所驱使的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vile",
+            "ignoble",
+            "despicable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "noble",
+            "honorable",
+            "lofty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"base (chemistry/math)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "chemistry",
+        "mathematics"
+      ],
+      "DEF_EN":"(Chemistry) A substance that reacts with acids and accepts protons, typically having a pH greater than 7. (Math) The number used as the foundation of a number system (e.g., 10 in the decimal system).",
+      "DEF_ZH":"（化学）碱；（数学）基数；底数。",
+      "SENT_EN":"The pH scale determines if a solution is acid, neutral, or base.",
+      "SENT_ZH":"pH值标尺决定溶液是酸性、中性还是碱性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "acid",
+            "alkali",
+            "exponent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely across general conversation, technical fields (chemistry, math), and military contexts."
+}

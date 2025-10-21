@@ -1,0 +1,96 @@
+{
+  "WORD":"magnetic",
+  "IPA":"/mæɡˈnɛtɪk/",
+  "CONJUGATES":"magnetically (adv) | magnetism (n)",
+  "ETYMOLOGY":"Late 16th Century. From French magnétique or Medieval Latin magnēticus, ultimately from Greek magnētis (lithos) meaning 'stone of Magnesia,' referring to the region where lodestones (natural magnets) were found.",
+  "SINCE":"c. 1590",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] magnetic",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "physical property"
+      ],
+      "DEF_EN":"Relating to or exhibiting the properties of a magnet; having the power to attract iron or steel.",
+      "DEF_ZH":"与磁铁有关的或具有磁铁特性的；有能力吸引铁或钢的。",
+      "SENT_EN":"The compass needle aligns itself with the Earth's magnetic north pole.",
+      "SENT_ZH":"指南针与地球的磁北极对齐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attractive",
+            "ferrous"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "magnet",
+            "polarity",
+            "electromagnetic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] magnetic",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative",
+        "descriptive"
+      ],
+      "DEF_EN":"Having great charm, appeal, or power to attract and hold attention.",
+      "DEF_ZH":"极具魅力、吸引力或有能力吸引并保持注意力的；迷人的。",
+      "SENT_EN":"The speaker had a truly magnetic presence that held the audience spellbound.",
+      "SENT_ZH":"这位演讲者有一种真正吸引人的存在感，让观众着迷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charismatic",
+            "captivating",
+            "enchanting"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "repulsive",
+            "boring",
+            "dull"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"magnetic [recording/storage]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"Relating to the storage of information on surfaces coated with magnetic particles (e.g., hard drives or tape).",
+      "DEF_ZH":"涉及在涂有磁性颗粒的表面上存储信息（例如硬盘或磁带）的。",
+      "SENT_EN":"He still had some valuable data stored on old magnetic media.",
+      "SENT_ZH":"他仍然有一些存储在旧磁性介质上的有价值数据。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "disk",
+            "tape",
+            "recording"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Scientific, Descriptive"
+}

@@ -1,0 +1,105 @@
+{
+  "WORD":"commune",
+  "IPA":"noun: /ˈkɒm.juːn/, verb: /kəˈmjuːn/",
+  "CONJUGATES":"noun: commune | communes ; verb: commune | communes | communing | communed",
+  "ETYMOLOGY":"From Old French *commune*, from Latin *commūnia* (plural of *commūne* 'things held in common'), neuter of *commūnis* 'common'. The verb sense developed from the noun.",
+  "SINCE":"Noun: late Middle English (14th century); Verb: mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"commune with [sb/sth]",
+      "POS":"verb",
+      "POS_TIP":"A verb is a word that describes an action, state, or occurrence. 'with' is a preposition.",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To share one's intimate thoughts or feelings with someone or something, often on a spiritual or emotional level.",
+      "DEF_ZH":"与某人或某事物进行亲密的思想或感情交流，通常指精神或情感层面。",
+      "SENT_EN":"She liked to go to the mountains to commune with nature and find peace.",
+      "SENT_ZH":"她喜欢去山里与大自然交流，寻找内心的平静。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "converse",
+            "confide",
+            "meditate",
+            "interact"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "alienate",
+            "disconnect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] commune",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that names something, such as a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A group of people living together and sharing possessions and responsibilities, often with a focus on simple living or shared ideology.",
+      "DEF_ZH":"一群人共同生活，分享财产和责任的集体，通常注重简单生活或共同的意识形态。",
+      "SENT_EN":"The young artists formed a commune where they could live cheaply and work creatively.",
+      "SENT_ZH":"年轻的艺术家们组建了一个公社，在那里他们可以廉价生活并进行创作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "community",
+            "collective",
+            "settlement",
+            "kibbutz"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "utopia",
+            "cooperative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] commune (administrative division)",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that names something, such as a person, place, thing, or idea.",
+      "TAGS":[
+        "specific context",
+        "formal",
+        "geographical"
+      ],
+      "DEF_EN":"The smallest administrative division in France and some other countries, governed by a mayor and municipal council.",
+      "DEF_ZH":"法国及其他一些国家的最小行政区划，由市长和市政委员会管理。",
+      "SENT_EN":"Each commune in France holds local elections every six years.",
+      "SENT_ZH":"法国的每个市镇每六年举行一次地方选举。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "municipality",
+            "district",
+            "township",
+            "parish"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "arrondissement",
+            "department"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General for verb and community noun; formal or specific geographical context for administrative noun."
+}

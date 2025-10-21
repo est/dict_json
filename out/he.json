@@ -1,0 +1,80 @@
+{
+  "WORD":"he",
+  "IPA":"/hiː/",
+  "CONJUGATES":"him | his",
+  "ETYMOLOGY":"From Middle English he, from Old English hē (masculine nominative singular personal pronoun), from Proto-Germanic *hiz, related to the demonstrative stem *hi-.",
+  "SINCE":"Before 900 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"pronoun",
+      "POS_TIP":"Personal Pronoun (Nominative)",
+      "TAGS":[
+        "core word",
+        "very common"
+      ],
+      "DEF_EN":"The personal pronoun used as the subject of a verb to refer to a male person or boy previously mentioned or easily identified.",
+      "DEF_ZH":"第三人称单数主格代词，用于指代前面已提及或易于识别的男性个体（人或雄性动物）。",
+      "SENT_EN":"My brother just called; he will be arriving soon.",
+      "SENT_ZH":"我哥哥刚打了电话；他很快就会到。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "him",
+            "his",
+            "she",
+            "it",
+            "they"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"pronoun",
+      "POS_TIP":"Generic Pronoun (Dated)",
+      "TAGS":[
+        "historical",
+        "dated",
+        "formal"
+      ],
+      "DEF_EN":"Used historically to refer to a person of unknown or unspecified gender, often in formal or general statements (now typically replaced by 'they' or 'he or she').",
+      "DEF_ZH":"历史上用于泛指某人，性别不明或不特指时使用（现在通常被'they'或'he or she'取代）。",
+      "SENT_EN":"If a user forgets his password, he should contact technical support.",
+      "SENT_ZH":"如果用户忘记密码，他应该联系技术支持。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "one",
+            "they"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the he",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "rare",
+        "informal"
+      ],
+      "DEF_EN":"A male person or creature (often used in plural or comparative contexts).",
+      "DEF_ZH":"指代男性个体或雄性动物。",
+      "SENT_EN":"The questionnaire asked how many hes and shes were in the department.",
+      "SENT_ZH":"调查问卷询问了部门里有多少男性和女性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "male",
+            "man"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard, universally used."
+}

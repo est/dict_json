@@ -1,0 +1,100 @@
+{
+  "WORD":"coordinate",
+  "IPA":"/koʊˈɔːrdɪneɪt/",
+  "CONJUGATES":"coordinates | coordinating | coordinated",
+  "ETYMOLOGY":"From Latin co- 'together' + ordinare 'to arrange'.",
+  "SINCE":"Late 16th century (verb), mid 17th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"coordinate [sth] | coordinate with [sb/sth]",
+      "POS":"v.",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To organize the different parts of something so that they work together effectively and efficiently.",
+      "DEF_ZH":"协调（某事）；使（各部分）协同工作。",
+      "SENT_EN":"The team worked to coordinate their efforts for the successful launch.",
+      "SENT_ZH":"团队努力协调他们的工作，以确保发布成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "organize",
+            "harmonize",
+            "synchronize",
+            "arrange",
+            "manage"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disorganize",
+            "disrupt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"coordinates",
+      "POS":"n.pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "mathematics",
+        "geography"
+      ],
+      "DEF_EN":"A set of numbers or values that show the exact position of a point on a map or graph.",
+      "DEF_ZH":"（地图或图表上的）坐标；座标。",
+      "SENT_EN":"Please provide the exact coordinates of your current location.",
+      "SENT_ZH":"请提供您当前位置的精确坐标。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "latitude",
+            "longitude",
+            "grid",
+            "axis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"coordinate",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "formal",
+        "technical",
+        "grammar"
+      ],
+      "DEF_EN":"Of the same order, rank, or importance.",
+      "DEF_ZH":"同等的；平级的；并列的。",
+      "SENT_EN":"They decided to form a coordinate system with equal authority.",
+      "SENT_ZH":"他们决定建立一个具有同等权限的协调系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equal",
+            "equivalent",
+            "parallel"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "coordinating conjunction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

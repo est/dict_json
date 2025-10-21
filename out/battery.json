@@ -1,0 +1,135 @@
+{
+  "WORD":"battery",
+  "IPA":"/ˈbætəri/",
+  "CONJUGATES":"batteries (plural)",
+  "ETYMOLOGY":"From Old French baterie 'beating, striking', from batre 'to beat' (from Latin battuere). The electrical sense comes from Benjamin Franklin's use of the term for a set of Leyden jars, likened to an artillery battery.",
+  "SINCE":"Late Middle English (14th century for 'beating, assault'); mid-18th century (for 'electrical device').",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] battery",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "electricity"
+      ],
+      "DEF_EN":"A container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.",
+      "DEF_ZH":"由一个或多个电池单元组成的容器，其中化学能转化为电能，用作电源。",
+      "SENT_EN":"My phone's battery is low; I need to charge it.",
+      "SENT_ZH":"我的手机电量低了，需要充电。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accumulator",
+            "cell",
+            "power pack"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "charger",
+            "electricity",
+            "power"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"battery [on sb]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "legal term",
+        "military term"
+      ],
+      "DEF_EN":"(Law) The crime or tort of intentionally and recklessly making a harmful or offensive contact with another person. (Military) A unit of artillery guns or weapons of similar type.",
+      "DEF_ZH":"(法律) 故意或鲁莽地对他人造成有害或冒犯性接触的罪行或侵权行为。(军事) 一组火炮或类似武器单位。",
+      "SENT_EN":"He was charged with assault and battery.",
+      "SENT_ZH":"他被控人身攻击和殴打。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assault",
+            "beating",
+            "canister"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "artillery",
+            "cannons",
+            "offense"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a battery of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"A large number of similar things or people that are all used together or that all arrive at the same time.",
+      "DEF_ZH":"大量相似的事物或人，它们被一起使用或同时出现。",
+      "SENT_EN":"The students faced a battery of questions in their final exam.",
+      "SENT_ZH":"学生们在期末考试中遇到了一系列问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "series",
+            "array",
+            "suite",
+            "set"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "collection",
+            "group"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drum battery / percussion battery",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "music term",
+        "specific use"
+      ],
+      "DEF_EN":"A set of drums and other percussion instruments.",
+      "DEF_ZH":"一套鼓和其他打击乐器。",
+      "SENT_EN":"The jazz band featured a powerful drum battery.",
+      "SENT_ZH":"这支爵士乐队拥有一套强劲的架子鼓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drum kit",
+            "percussion set"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "drums",
+            "percussion",
+            "orchestra"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; technical (electricity); legal; military; musical."
+}

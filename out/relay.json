@@ -1,0 +1,107 @@
+{
+  "WORD":"relay",
+  "IPA":"/ˈriːleɪ/",
+  "CONJUGATES":"relays | relaying | relayed",
+  "ETYMOLOGY":"From Old French *relais* (a change of hounds), related to *relaisser* (to leave behind, relax). Sense developed from replacing tired hunting animals to passing on messages or controlling circuits.",
+  "SINCE":"c. 1650s (general noun sense); c. 1830s (verb sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"relay [sth] [to sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core",
+        "Common"
+      ],
+      "DEF_EN":"To receive and pass on information, a message, or a signal to another person or station.",
+      "DEF_ZH":"传递；转播；转发（信息、信号）",
+      "SENT_EN":"Please relay this message to the commanding officer immediately.",
+      "SENT_ZH":"请立即将此消息转达给指挥官。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transmit",
+            "pass on",
+            "communicate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "broadcast",
+            "channel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] relay (race)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Sports"
+      ],
+      "DEF_EN":"A race between teams in which each team member covers a specified segment of the total distance.",
+      "DEF_ZH":"接力赛（指体育运动中，队伍成员分段完成全程的比赛）",
+      "SENT_EN":"The final event of the day was the 4x100-meter relay.",
+      "SENT_ZH":"当天的最后一个项目是4x100米接力赛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "baton",
+            "marathon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"electrical relay",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Engineering"
+      ],
+      "DEF_EN":"An electrical device that uses a small electrical current to control the opening or closing of a circuit that handles a much larger current.",
+      "DEF_ZH":"继电器（利用小电流控制大电流电路开关的电气装置）",
+      "SENT_EN":"A malfunctioning relay caused the entire system to shut down.",
+      "SENT_ZH":"一个故障的继电器导致整个系统关闭。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "switch",
+            "solenoid",
+            "transistor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a relay of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Formal",
+        "Historical"
+      ],
+      "DEF_EN":"A fresh set or supply of people, animals (especially horses), or equipment used to take the place of those that are tired or worn out.",
+      "DEF_ZH":"替换人员；接替班次；（尤指历史上的）替役马或猎犬",
+      "SENT_EN":"They utilized a constant relay of messengers to keep communication flowing across the empire.",
+      "SENT_ZH":"他们使用持续不断的信使轮替，以确保整个帝国的信息流通。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shift",
+            "replacement",
+            "rotation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, and Sports usage."
+}

@@ -1,0 +1,68 @@
+{
+  "WORD":"commonplace",
+  "IPA":"/ˈkɒmənˌpleɪs/",
+  "CONJUGATES":"commonplaces (noun plural)",
+  "ETYMOLOGY":"From Middle English 'common place', a literal translation of the Latin *locus communis* (common topic), referring initially to a general theme in rhetoric. The meaning shifted to 'ordinary' or 'trite' by the late 16th century.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is commonplace",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Ordinary, usual, or unremarkable; frequently encountered and therefore lacking special interest.",
+      "DEF_ZH":"普通的；司空见惯的；不稀奇的。",
+      "SENT_EN":"Self-driving cars were once science fiction, but they are becoming commonplace now.",
+      "SENT_ZH":"自动驾驶汽车曾是科幻小说，但现在它们正变得司空见惯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ordinary",
+            "mundane",
+            "routine",
+            "trite",
+            "banal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unique",
+            "extraordinary",
+            "remarkable",
+            "unusual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a commonplace",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common",
+        "literary"
+      ],
+      "DEF_EN":"A remark or topic that is frequently used or unoriginal; a cliché or platitude.",
+      "DEF_ZH":"老生常谈；陈词滥调；平凡的事物。",
+      "SENT_EN":"His acceptance speech was full of tired commonplaces about teamwork and dedication.",
+      "SENT_ZH":"他的获奖感言充斥着关于团队合作和奉献精神的乏味的陈词滥调。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cliché",
+            "platitude",
+            "truism",
+            "banality"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

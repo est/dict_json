@@ -1,0 +1,76 @@
+{
+  "WORD":"cask",
+  "IPA":"/kæsk/",
+  "CONJUGATES":"casks (pl.) | casked | casking",
+  "ETYMOLOGY":"Early 16th century, probably from French casque (helmet), possibly influenced by Spanish casco (skull, helmet, hull, cask), referring to the protective, rounded shape.",
+  "SINCE":"c. 1520s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "container"
+      ],
+      "DEF_EN":"A large, strong barrel, typically made of wood, used for holding and storing alcoholic liquids like wine, whiskey, or beer.",
+      "DEF_ZH":"大桶；木桶 (特指用于储存酒类的大型圆柱形容器)。",
+      "SENT_EN":"The scotch whiskey had been aged in an oak cask for fifteen years.",
+      "SENT_ZH":"苏格兰威士忌已在一个橡木桶中陈酿了十五年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barrel",
+            "butt",
+            "tun",
+            "hogshead"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "keg",
+            "firkin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a cask of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "metonymy"
+      ],
+      "DEF_EN":"The contents or capacity of a cask; the quantity of liquid held in a cask.",
+      "DEF_ZH":"一桶 (的量，指桶中装载的液体量)。",
+      "SENT_EN":"They brought a cask of ale out for the feast.",
+      "SENT_ZH":"他们为盛宴拿出了一整桶啤酒。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"cask [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "brewing"
+      ],
+      "DEF_EN":"To put liquid (especially alcoholic beverages) into a cask for maturation, storage, or transportation.",
+      "DEF_ZH":"将 (酒类) 装入木桶中储存或陈酿。",
+      "SENT_EN":"The brewery will cask the stout next week.",
+      "SENT_ZH":"这家酿酒厂将于下周将烈性黑啤酒装桶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barrel",
+            "vat"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used primarily in contexts related to brewing, distilling, and historical storage methods."
+}

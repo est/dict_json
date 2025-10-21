@@ -1,0 +1,87 @@
+{
+  "WORD":"generalize",
+  "IPA":"/'dʒɛnərəˌlaɪz/",
+  "CONJUGATES":"generalizes | generalized | generalizing (Note: British spelling is 'generalise')",
+  "ETYMOLOGY":"From Latin generalis (general) + -ize (verb-forming suffix), meaning 'to make general'.",
+  "SINCE":"Late 18th century (c. 1780s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"generalize [sth] (from [sth])",
+      "POS":"vtr/vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "academic",
+        "common"
+      ],
+      "DEF_EN":"To infer a general law or principle from particular facts or instances (inductive reasoning).",
+      "DEF_ZH":"从特定的事实或事例中推导出一般的规律或原则；概括；归纳。",
+      "SENT_EN":"It is difficult to generalize the findings of this small survey to the entire population.",
+      "SENT_ZH":"很难将这项小型调查的结果概括到全体人群。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abstract",
+            "deduce",
+            "extrapolate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "specify",
+            "particularize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"generalize (about [sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "often critical"
+      ],
+      "DEF_EN":"To make broad, sweeping statements without considering specific exceptions or supporting details, often resulting in oversimplification or stereotyping.",
+      "DEF_ZH":"作出笼统的、一概而论的陈述，通常带有过于简化或刻板印象的含义。",
+      "SENT_EN":"She tended to generalize about politicians, assuming they were all corrupt.",
+      "SENT_ZH":"她倾向于对政客们一概而论，认为他们都腐败。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oversimplify",
+            "broaden",
+            "stereotype"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"generalize [sth]",
+      "POS":"vtr/vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"To make something applicable or operative over a wide area or range; to spread.",
+      "DEF_ZH":"使某事物适用范围扩大；推广；普及。",
+      "SENT_EN":"The software update allowed the system to generalize its functions across all connected devices.",
+      "SENT_ZH":"软件更新使得系统能够将其功能推广到所有连接的设备上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "diffuse",
+            "universalize",
+            "expand"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

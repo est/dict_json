@@ -1,0 +1,90 @@
+{
+  "WORD":"parish",
+  "IPA":"/ˈpærɪʃ/",
+  "CONJUGATES":"parishes",
+  "ETYMOLOGY":"From Old French 'paroisse', from Late Latin 'parochia' (diocese), from Greek 'paroikiā' (dwelling beside, neighborhood, community).",
+  "SINCE":"Late 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] parish",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "religious",
+        "administrative"
+      ],
+      "DEF_EN":"A small administrative district typically having its own church and a priest or pastor.",
+      "DEF_ZH":"教区；堂区（通常有自己的教堂和牧师的小型行政区域）",
+      "SENT_EN":"The local parish council meets once a month to discuss community matters.",
+      "SENT_ZH":"当地教区委员会每月开会讨论社区事务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "diocese",
+            "chapelry",
+            "congregation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "parishioner",
+            "vicar",
+            "rector",
+            "church"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] parish",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "administrative",
+        "UK specific"
+      ],
+      "DEF_EN":"(Especially in the UK) A subdivision of a county for purposes of local government, originally based on an ecclesiastical parish.",
+      "DEF_ZH":"（尤指英国）行政区（郡的行政区划，最初基于教会教区）",
+      "SENT_EN":"The village falls within the jurisdiction of the civil parish.",
+      "SENT_ZH":"这个村庄属于民政教区管辖。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "county",
+            "borough",
+            "municipality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] parish",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "administrative",
+        "US specific"
+      ],
+      "DEF_EN":"(In Louisiana, USA) An administrative division corresponding to a county in other US states.",
+      "DEF_ZH":"（美国路易斯安那州的）县，行政区（相当于美国其他州的县）",
+      "SENT_EN":"Orleans Parish is home to the city of New Orleans.",
+      "SENT_ZH":"奥尔良教区是新奥尔良市的所在地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "county",
+            "borough"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

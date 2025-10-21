@@ -1,0 +1,96 @@
+{
+  "WORD":"trivial",
+  "IPA":"/ˈtrɪviəl/",
+  "CONJUGATES":"trivially (adv) | triviality (n) | trivialness (n)",
+  "ETYMOLOGY":"From Latin triviālis ('belonging to the crossroads, commonplace'), from trivium ('place where three roads meet'), referring to the basic and elementary subjects taught at the lowest level of medieval universities (grammar, rhetoric, and logic).",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is trivial",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Of little importance or value; insignificant.",
+      "DEF_ZH":"不重要的；微不足道的；琐碎的。",
+      "SENT_EN":"The error was trivial, affecting only the formatting, not the data.",
+      "SENT_ZH":"这个错误微不足道，只影响了格式，而没有影响数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insignificant",
+            "minor",
+            "petty",
+            "trifling",
+            "negligible"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "important",
+            "crucial",
+            "essential",
+            "significant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is trivial",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "mathematics",
+        "computing"
+      ],
+      "DEF_EN":"(Mathematics, Computing) Relating to or being a solution, case, or object that is of minimal interest or complexity (e.g., the solution zero to an equation).",
+      "DEF_ZH":"(数学、计算机) 极简单的；不言自明的；（解）为零或结构最简的。",
+      "SENT_EN":"Finding the trivial solution (x=0) was easy, but the non-trivial ones required complex calculations.",
+      "SENT_ZH":"找到平凡解（x=0）很简单，但非平凡解需要复杂的计算。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obvious",
+            "elementary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "non-trivial",
+            "complex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is trivial",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "rare",
+        "old-fashioned"
+      ],
+      "DEF_EN":"(Obsolete) Commonplace; ordinary.",
+      "DEF_ZH":"(过时) 平凡的；普通的。",
+      "SENT_EN":"They spoke of trivial matters like the weather and the latest gossip.",
+      "SENT_ZH":"他们谈论天气和最新八卦等寻常琐事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mundane",
+            "ordinary",
+            "commonplace"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/general vocabulary"
+}

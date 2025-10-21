@@ -1,0 +1,66 @@
+{
+  "WORD":"tumor",
+  "IPA":"/ˈtuːmər/",
+  "CONJUGATES":"tumors",
+  "ETYMOLOGY":"From Middle English, via Old French *tumur*, from Latin *tumor* ('swelling'), related to *tumēre* ('to swell').",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "pathology"
+      ],
+      "DEF_EN":"An abnormal mass of tissue that results from excessive cell division, which may be either benign (non-cancerous) or malignant (cancerous).",
+      "DEF_ZH":"由细胞不受控制的分裂而产生的异常组织块，可能是良性的（非癌性）或恶性的（癌性）。",
+      "SENT_EN":"The doctor ordered an MRI to determine the exact size and location of the brain tumor.",
+      "SENT_ZH":"医生要求进行核磁共振成像（MRI）以确定脑肿瘤的确切大小和位置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "neoplasm",
+            "growth",
+            "lump"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cancer",
+            "carcinoma",
+            "biopsy",
+            "malignancy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "rare"
+      ],
+      "DEF_EN":"A general or localized swelling, especially one caused by inflammation or fluid accumulation.",
+      "DEF_ZH":"（罕用或历史用法）指由炎症或液体积聚引起的局部或整体肿胀。",
+      "SENT_EN":"The ancient physician noted the redness and tumor associated with the wound.",
+      "SENT_ZH":"这位古代医生注意到了伤口相关的发红和肿块。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swelling",
+            "edema",
+            "protuberance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Medical Contexts (Note: 'tumour' is the standard spelling in British English)"
+}

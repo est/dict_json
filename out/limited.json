@@ -1,0 +1,97 @@
+{
+  "WORD":"limited",
+  "IPA":"/ˈlɪmɪtɪd/",
+  "CONJUGATES":"limit (v.) | limiting (v.pres.p.) | limited (v.past.p.)",
+  "ETYMOLOGY":"From Old French limite (boundary), from Latin līmitāre ('to bound, limit'), from līmes ('boundary, frontier'). The adjective 'limited' is the past participle of the verb 'limit'.",
+  "SINCE":"Late 14th century (verb 'limit'), early 17th century (adjective 'limited')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is limited",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Restricted in size, amount, or extent; not large or great.",
+      "DEF_ZH":"规模、数量或范围受限的；不大的。",
+      "SENT_EN":"Our resources are limited, so we must prioritize carefully.",
+      "SENT_ZH":"我们的资源有限，所以必须仔细优先排序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restricted",
+            "confined",
+            "finite",
+            "scarce"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unlimited",
+            "extensive",
+            "boundless",
+            "infinite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a limited company",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "business",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"(Of a company or partnership) having the liability of its owners restricted to the amount of capital invested or shares subscribed.",
+      "DEF_ZH":"（指公司或合伙企业）所有者的责任仅限于其投资或认购的股份。",
+      "SENT_EN":"He is a director of a private limited company.",
+      "SENT_ZH":"他是一家私人有限公司的董事。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Ltd.",
+            "PLC",
+            "Inc."
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "incorporated",
+            "restricted-liability"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] has limited [sth] | [sth] is limited by [sth]",
+      "POS":"v.past.p.",
+      "POS_TIP":"past participle of a verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The past participle form of the verb 'limit', meaning to restrict or set boundaries for something.",
+      "DEF_ZH":"动词“limit”的过去分词形式，意为限制或为某物设定界限。",
+      "SENT_EN":"Access to the facility has been limited for security reasons.",
+      "SENT_ZH":"出于安全原因，进入该设施的权限已受限制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restricted",
+            "confined",
+            "curtailed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

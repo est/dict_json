@@ -1,0 +1,76 @@
+{
+  "WORD":"impair",
+  "IPA":"/ɪmˈpɛər/",
+  "CONJUGATES":"impairs | impairing | impaired",
+  "ETYMOLOGY":"From Middle English, derived from Old French empeirier (to make worse), ultimately from Vulgar Latin *impejorare, based on Latin pejor (worse).",
+  "SINCE":"c. 1400s (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"impair [sth/sb's ability]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "medical"
+      ],
+      "DEF_EN":"To diminish the strength, quality, or function of something, especially a physical or mental ability.",
+      "DEF_ZH":"削弱；损害（能力、功能或健康等），使之变差。",
+      "SENT_EN":"Smoking can seriously impair lung function and overall health.",
+      "SENT_ZH":"吸烟会严重损害肺功能和整体健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "damage",
+            "weaken",
+            "hinder",
+            "compromise",
+            "diminish"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "strengthen",
+            "enhance",
+            "restore",
+            "improve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"impair [value/asset]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "finance",
+        "legal",
+        "technical"
+      ],
+      "DEF_EN":"To cause a measurable decline in the value of an asset or right, usually below its book value.",
+      "DEF_ZH":"（法律或金融）使资产或权利的价值受损或贬值。",
+      "SENT_EN":"The economic downturn is expected to impair the value of the firm's real estate holdings.",
+      "SENT_ZH":"预计经济衰退将损害该公司房地产资产的价值。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "devalue",
+            "depreciate",
+            "write down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "appreciate",
+            "inflate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard to Formal"
+}

@@ -1,0 +1,89 @@
+{
+  "WORD":"propagate",
+  "IPA":"/ˈprɒpəɡeɪt/",
+  "CONJUGATES":"propagates | propagated | propagating",
+  "ETYMOLOGY":"From Latin propagare (to set forward, extend, spread), derived from pro- (forward, forth) and possibly pangere (to drive in, fix, fasten).",
+  "SINCE":"Early 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"propagate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Common",
+        "Social",
+        "Rhetoric"
+      ],
+      "DEF_EN":"To spread and promote (an idea, doctrine, rumor, or belief) widely among people.",
+      "DEF_ZH":"传播；宣传；散布（思想、学说、谣言等）。",
+      "SENT_EN":"The political party attempted to propagate its message through various media channels.",
+      "SENT_ZH":"该政党试图通过各种媒体渠道传播其信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disseminate",
+            "spread",
+            "circulate",
+            "promulgate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "suppress",
+            "conceal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"propagate [sth] | [sth] propagates",
+      "POS":"vtr / vintr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "Biology",
+        "Technical",
+        "Core word"
+      ],
+      "DEF_EN":"To reproduce or multiply (a plant, animal, or microorganism) from the parent stock.",
+      "DEF_ZH":"繁殖；培植；使增殖（动植物）。",
+      "SENT_EN":"It is easier to propagate succulents from cuttings than from seeds.",
+      "SENT_ZH":"用插枝繁殖多肉植物比用种子繁殖更容易。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reproduce",
+            "breed",
+            "multiply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] propagates (through [medium])",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "Physics",
+        "Technical"
+      ],
+      "DEF_EN":"(Of a wave, light, sound, or disturbance) to travel or be transmitted through a medium or space.",
+      "DEF_ZH":"（指波、光、声等）传播；传导；行进。",
+      "SENT_EN":"Electromagnetic waves propagate at the speed of light in a vacuum.",
+      "SENT_ZH":"电磁波在真空中以光速传播。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transmit",
+            "conduct",
+            "travel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or Technical (used extensively in science, horticulture, and journalism)"
+}

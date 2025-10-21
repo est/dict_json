@@ -1,0 +1,70 @@
+{
+  "WORD":"online",
+  "IPA":"/ˈɒnˌlaɪn/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound of 'on' + 'line'. Originally referred to being connected via telegraph or telephone lines. Adopted in computing in the 1970s to mean connected to a network.",
+  "SINCE":"c. 1970s (in computing context)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth] online",
+      "POS":"adj | adv",
+      "POS_TIP":"adjective | adverb",
+      "TAGS":[
+        "core word",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"Connected to or available via a computer network, especially the Internet; performed over the Internet.",
+      "DEF_ZH":"连接到计算机网络（尤其是互联网）的；通过互联网进行的或可获得的。",
+      "SENT_EN":"She spends most of her free time looking for recipes online.",
+      "SENT_ZH":"她把大部分空闲时间都花在网上寻找菜谱。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "offline"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "internet",
+            "digital",
+            "virtual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] online",
+      "POS":"adj | adv",
+      "POS_TIP":"adjective | adverb",
+      "TAGS":[
+        "technical",
+        "system"
+      ],
+      "DEF_EN":"(Of equipment or a system) directly connected to and controlled by a central computer or system; operational.",
+      "DEF_ZH":"（指设备或系统）直接连接到中央计算机或系统，并受其控制的；处于运行状态的。",
+      "SENT_EN":"The power plant went online after routine maintenance.",
+      "SENT_ZH":"例行维护后，该发电厂已恢复线上运行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "active",
+            "operational",
+            "in-service"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "offline",
+            "standby"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Computing, Telecommunications"
+}

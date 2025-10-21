@@ -1,0 +1,94 @@
+{
+  "WORD":"discount",
+  "IPA":"/dɪsˈkaʊnt/",
+  "CONJUGATES":"discounts | discounting | discounted",
+  "ETYMOLOGY":"From Old French desconte (noun) and desconter (verb), from des- 'apart' + conter 'count'.",
+  "SINCE":"Late 15th century (as noun); early 16th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a [number]% discount on [sth] | buy [sth] at a discount",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "commerce"
+      ],
+      "DEF_EN":"A deduction from the usual cost of something.",
+      "DEF_ZH":"从商品的正常价格中扣除的金额；折扣。",
+      "SENT_EN":"Members receive a 15% discount on all online purchases.",
+      "SENT_ZH":"会员在所有在线购物中可享受八五折优惠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduction",
+            "allowance",
+            "rebate",
+            "markdown",
+            "cut"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discount [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "commerce"
+      ],
+      "DEF_EN":"To deduct an amount from the usual price of something.",
+      "DEF_ZH":"从商品的正常价格中减去一部分；打折。",
+      "SENT_EN":"The store often discounts items that are out of season.",
+      "SENT_ZH":"这家商店经常对过季商品进行打折。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "mark down",
+            "cut the price of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discount [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To regard (something) as being unworthy of consideration because it is exaggerated or unreliable.",
+      "DEF_ZH":"不相信；不予理会；认为不重要或不可靠。",
+      "SENT_EN":"We shouldn't discount the possibility that he might be telling the truth.",
+      "SENT_ZH":"我们不应该排除他说的是实话的可能性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disregard",
+            "dismiss",
+            "ignore",
+            "underestimate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "consider",
+            "credit",
+            "take seriously",
+            "emphasize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday language, business, and commerce contexts."
+}

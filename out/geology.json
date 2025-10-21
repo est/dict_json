@@ -1,0 +1,58 @@
+{
+  "WORD":"geology",
+  "IPA":"/dʒiˈɒlədʒi/",
+  "CONJUGATES":"geologies",
+  "ETYMOLOGY":"From Ancient Greek γῆ (gê, 'earth') and -λογία (-logía, 'study of, discourse').",
+  "SINCE":"1681",
+  "MEANINGS":[
+    {
+      "PATTERN":"geology",
+      "POS":"n",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "academic",
+        "science"
+      ],
+      "DEF_EN":"The scientific study of the Earth's physical structure, substance, history, and the processes that act upon it.",
+      "DEF_ZH":"研究地球的物理结构、物质组成、历史演变以及作用于其上的各种过程的科学。",
+      "SENT_EN":"She decided to major in geology because of her fascination with rocks and minerals.",
+      "SENT_ZH":"她决定主修地质学，因为她对岩石和矿物着迷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "earth science",
+            "geophysics",
+            "mineralogy",
+            "paleontology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the geology of [a place]",
+      "POS":"n",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"The geological features of a particular region, including the types of rocks and soil found there.",
+      "DEF_ZH":"某个特定区域的地质特征，包括该地发现的岩石和土壤类型。",
+      "SENT_EN":"The geology of the Grand Canyon is a spectacular record of Earth's history.",
+      "SENT_ZH":"大峡谷的地质是地球历史的壮观记录。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "terrain",
+            "landscape",
+            "topography"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, scientific, general"
+}

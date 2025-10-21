@@ -1,0 +1,96 @@
+{
+  "WORD":"doom",
+  "IPA":"/duːm/",
+  "CONJUGATES":"dooms | dooming | doomed",
+  "ETYMOLOGY":"From Old English dōm ('judgment, statute, destiny, glory, power'), cognate with Old Norse dómr. The meaning shifted from 'judgment' to 'unhappy fate' or 'ruin' in the Middle English period, influenced by the religious concept of the Day of Judgment.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] doom [of sth/sb]",
+      "POS":"n. mass/count",
+      "POS_TIP":"Noun, used both generally (mass) and referring to specific instances (count)",
+      "TAGS":[
+        "core word",
+        "intense",
+        "literary"
+      ],
+      "DEF_EN":"Death, destruction, or ruin; a terrible and unavoidable fate.",
+      "DEF_ZH":"厄运；毁灭；注定的悲惨结局。",
+      "SENT_EN":"The economic collapse spelled the doom of the failing company.",
+      "SENT_ZH":"经济崩溃预示着这家失败的公司注定走向毁灭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ruin",
+            "destruction",
+            "catastrophe",
+            "fate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "apocalypse",
+            "destiny"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"doom [sb/sth] [to sth]",
+      "POS":"vtr",
+      "POS_TIP":"Verb, transitive (requires a direct object)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To condemn someone or something to a tragic, inescapable, or undesirable fate.",
+      "DEF_ZH":"注定；使遭受厄运；判决（某人某事）走向失败或悲剧。",
+      "SENT_EN":"The poor planning doomed the project to failure before it even started.",
+      "SENT_ZH":"糟糕的计划注定该项目在开始前就会失败。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condemn",
+            "destine",
+            "preordain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "save",
+            "redeem"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] doom",
+      "POS":"n. mass",
+      "POS_TIP":"Noun, mass/uncountable",
+      "TAGS":[
+        "archaic",
+        "historical",
+        "religious"
+      ],
+      "DEF_EN":"A formal judgment, verdict, or sentence (especially in historical or religious context).",
+      "DEF_ZH":"（古/宗）判决；裁定；末日审判（如 Day of Doom）。",
+      "SENT_EN":"The righteous awaited the final doom with faith.",
+      "SENT_ZH":"正义之人怀着信念等待着最终的裁决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "judgment",
+            "verdict",
+            "sentence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Dramatic"
+}

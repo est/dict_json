@@ -1,0 +1,106 @@
+{
+  "WORD":"map",
+  "IPA":"/mæp/",
+  "CONJUGATES":"maps | mapped | mapping",
+  "ETYMOLOGY":"From Middle French mappe, short for Late Latin mappa mundī ('map of the world'), from Latin mappa ('napkin, cloth').",
+  "SINCE":"c. 1520s (as geographical representation)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] map of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A flat drawing or diagram representing an area of land or sea, showing physical features, cities, or roads.",
+      "DEF_ZH":"表示一块陆地或海洋区域的平面图或图表，显示地理特征、城市或道路。",
+      "SENT_EN":"We studied the old map to find the hidden trail.",
+      "SENT_ZH":"我们研究了那张旧地图以找到隐藏的小路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chart",
+            "diagram",
+            "plan",
+            "atlas"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] map of [sth abstract]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A scheme or graphical representation showing the distribution or relationships of elements.",
+      "DEF_ZH":"显示元素分布或关系的图谱或图解表示。",
+      "SENT_EN":"The human genome map provides crucial information about inherited traits.",
+      "SENT_ZH":"人类基因组图谱提供了有关遗传性状的关键信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schema",
+            "blueprint",
+            "matrix"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"map [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To make a map of (an area) or determine the characteristics and boundaries of a region.",
+      "DEF_ZH":"制作（某个区域）的地图；确定一个地区的特征和边界。",
+      "SENT_EN":"Geologists are currently mapping the seismic activity along the fault line.",
+      "SENT_ZH":"地质学家目前正在测绘断层线沿线的地震活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chart",
+            "survey",
+            "plot",
+            "delineate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"map [sth] to [sth else]",
+      "POS":"vtr + prep",
+      "POS_TIP":"verb, transitive + preposition",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To establish a functional relationship or correspondence between two sets of items, data, or concepts.",
+      "DEF_ZH":"在两组项目、数据或概念之间建立功能关系或对应关系（映射）。",
+      "SENT_EN":"The keyboard shortcuts are mapped to specific functions in the software.",
+      "SENT_ZH":"键盘快捷键被映射到软件中的特定功能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "correspond",
+            "link",
+            "associate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

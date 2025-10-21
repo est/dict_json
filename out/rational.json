@@ -1,0 +1,112 @@
+{
+  "WORD":"rational",
+  "IPA":"/ræʃənəl/",
+  "CONJUGATES":"rationally (adv) | rationality (n) | rationals (n pl)",
+  "ETYMOLOGY":"From Old French racionel or Medieval Latin rationalis, ultimately from Latin ratio (reason, calculation, account).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is rational | [sb] is rational",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Descriptive"
+      ],
+      "DEF_EN":"Based on or in accordance with reason or logic; sensible and coherent.",
+      "DEF_ZH":"基于或符合理性或逻辑的；明智的、连贯的。",
+      "SENT_EN":"We must make a rational decision, not one based on panic or emotion.",
+      "SENT_ZH":"我们必须做出理性的决定，而不是基于恐慌或情感的决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "logical",
+            "reasonable",
+            "sensible",
+            "sound"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "irrational",
+            "illogical",
+            "absurd"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is rational",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Descriptive",
+        "Human attribute",
+        "Formal"
+      ],
+      "DEF_EN":"Possessing the ability to reason or think logically.",
+      "DEF_ZH":"具有推理或逻辑思考能力的。",
+      "SENT_EN":"Humans are defined as rational beings capable of complex thought.",
+      "SENT_ZH":"人类被定义为能够进行复杂思考的理性生物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reasoning",
+            "thinking",
+            "cognitive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is rational (Math)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Technical",
+        "Mathematics"
+      ],
+      "DEF_EN":"(Of a number, quantity, or expression) capable of being expressed as a ratio of two integers.",
+      "DEF_ZH":"（指数字、量或表达式）可表示为两个整数之比的；有理的。",
+      "SENT_EN":"The number 0.5 is a rational number because it can be written as 1/2.",
+      "SENT_ZH":"数字0.5是一个有理数，因为它可以用1/2来表示。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "irrational"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rational (agent)",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Rare",
+        "Formal",
+        "Philosophy",
+        "Economics"
+      ],
+      "DEF_EN":"A person or agent who acts based purely on logical considerations; a rational being.",
+      "DEF_ZH":"（在经济或哲学模型中）完全基于逻辑考量行事的人或理性主体。",
+      "SENT_EN":"The theory assumes every actor in the market is a rational maximizing their self-interest.",
+      "SENT_ZH":"该理论假设市场中的每个参与者都是一个理性者，以最大化自身利益。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rationality",
+            "Homo Economicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, except for the mathematical and philosophical noun usages."
+}

@@ -1,0 +1,121 @@
+{
+  "WORD":"normal",
+  "IPA":"/ˈnɔːrməl/",
+  "CONJUGATES":"more normal | most normal | normally | normals",
+  "ETYMOLOGY":"From Latin normalis ('made according to a carpenter's square'), from norma ('a carpenter's square, rule'). The sense 'standard, regular' developed from this.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] be normal | a normal [noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Conforming to a standard; usual, typical, or expected.",
+      "DEF_ZH":"符合标准；通常的、典型的或预期的。",
+      "SENT_EN":"It's normal to feel nervous before a big presentation.",
+      "SENT_ZH":"在大型演讲前感到紧张是正常的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "usual",
+            "standard",
+            "typical",
+            "regular"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "abnormal",
+            "unusual",
+            "strange",
+            "peculiar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] be normal",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"Of sound mind; not suffering from any mental disorder; healthy.",
+      "DEF_ZH":"心智健全；没有遭受任何精神障碍；健康的。",
+      "SENT_EN":"After the treatment, she's back to her normal self.",
+      "SENT_ZH":"治疗后，她恢复了正常状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sane",
+            "healthy",
+            "balanced",
+            "well"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insane",
+            "mad",
+            "unhinged",
+            "disturbed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the normal | return to normal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The usual, average, or typical state or condition.",
+      "DEF_ZH":"通常的、平均的或典型的状态或情况。",
+      "SENT_EN":"After the storm, life slowly returned to normal.",
+      "SENT_ZH":"暴风雨过后，生活逐渐恢复正常。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "standard",
+            "average",
+            "status quo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a normal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "statistics"
+      ],
+      "DEF_EN":"Mathematics: A line or vector perpendicular to a surface or curve at a given point. Statistics: A normal distribution curve.",
+      "DEF_ZH":"数学：垂直于给定点处的表面或曲线的直线或向量。统计学：指正态分布。",
+      "SENT_EN":"In calculus, we often calculate the normal to a curve.",
+      "SENT_ZH":"在微积分中，我们经常计算曲线的法线。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "perpendicular",
+            "Gaussian distribution"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

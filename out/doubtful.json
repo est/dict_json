@@ -1,0 +1,75 @@
+{
+  "WORD":"doubtful",
+  "IPA":"/ˈdaʊtfəl/",
+  "CONJUGATES":"more doubtful | most doubtful | doubtfully (adv) | doubtfulness (n)",
+  "ETYMOLOGY":"From Middle English, combining the noun 'doubt' (from Old French doute) and the suffix '-ful'.",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is doubtful about [sth/doing sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describing a state or quality)",
+      "TAGS":[
+        "Core",
+        "Common",
+        "Internal State"
+      ],
+      "DEF_EN":"Feeling or showing uncertainty about something; lacking conviction or belief.",
+      "DEF_ZH":"感到或表现出不确定性；心存疑虑的；不相信的。",
+      "SENT_EN":"The investors remained doubtful about the new CEO's strategy.",
+      "SENT_ZH":"投资者们对这位新首席执行官的策略仍然心存疑虑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uncertain",
+            "skeptical",
+            "hesitant",
+            "unconvinced"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "certain",
+            "confident",
+            "convinced"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is doubtful",
+      "POS":"adj",
+      "POS_TIP":"Adjective (describing a state or quality)",
+      "TAGS":[
+        "Common",
+        "Probability"
+      ],
+      "DEF_EN":"Unlikely to be true, to happen, or to be successful; highly improbable.",
+      "DEF_ZH":"不太可能真实、发生或成功；没有把握的。",
+      "SENT_EN":"His chances of recovery are extremely doubtful after such a severe injury.",
+      "SENT_ZH":"在遭受如此严重的伤害后，他康复的机会非常渺茫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unlikely",
+            "improbable",
+            "questionable",
+            "dubious"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "probable",
+            "likely",
+            "certain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

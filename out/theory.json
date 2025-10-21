@@ -1,0 +1,106 @@
+{
+  "WORD":"theory",
+  "IPA":"/ˈθɪəri/",
+  "CONJUGATES":"theory | theories",
+  "ETYMOLOGY":"From Late Latin theoria, from Ancient Greek theōría (θεωρία, 'contemplation, speculation, a looking at, things looked at'), from theōreō 'look at, view, contemplate'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] theory | the theory of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic",
+        "scientific"
+      ],
+      "DEF_EN":"A well-substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment. Or, a set of principles on which the practice of an activity is based.",
+      "DEF_ZH":"对自然界某一方面的一种经过充分验证的解释，基于通过观察和实验反复证实的一系列事实。或指某项活动实践所依据的一套原则。",
+      "SENT_EN":"The theory of evolution is widely accepted in the scientific community.",
+      "SENT_ZH":"进化论在科学界被广泛接受。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hypothesis",
+            "thesis",
+            "doctrine",
+            "principle",
+            "framework"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "practice",
+            "application"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a theory about [sth/sb]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "common",
+        "informal",
+        "speculative"
+      ],
+      "DEF_EN":"A supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained. Often implying a less rigorous or unproven idea.",
+      "DEF_ZH":"一种假设或一套旨在解释某事的想法体系，特别是基于独立于所解释事物的一般原则。常暗示一种不那么严谨或未经证实的想法。",
+      "SENT_EN":"I have a theory about why the internet is so slow today.",
+      "SENT_ZH":"关于为什么今天的网络这么慢，我有个理论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conjecture",
+            "speculation",
+            "guess",
+            "hunch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "conspiracy theory"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in theory | the theory of [sth] vs practice",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "common",
+        "academic",
+        "contrastive"
+      ],
+      "DEF_EN":"The abstract knowledge, principles, or methods of a subject rather than the practical application of them.",
+      "DEF_ZH":"某个学科的抽象知识、原则或方法，而非其实际应用。",
+      "SENT_EN":"In theory, the plan sounds perfect, but I wonder how it will work in practice.",
+      "SENT_ZH":"理论上，这个计划听起来很完美，但我不知道实践中会如何。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "practice",
+            "application",
+            "experience"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "theoretical",
+            "practitioner"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and academic in its primary scientific sense, but also common in everyday speech for hypotheses or speculation."
+}

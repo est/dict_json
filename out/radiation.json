@@ -1,0 +1,112 @@
+{
+  "WORD":"radiation",
+  "IPA":"/ˌreɪdiˈeɪʃən/",
+  "CONJUGATES":"radiations (plural, for different types/instances)",
+  "ETYMOLOGY":"From Latin *radiatio* 'a beaming, a radiance,' from *radiare* 'to emit rays, shine,' from *radius* 'ray, spoke of a wheel.'",
+  "SINCE":"mid-17th century (physical sense), late 19th century (atomic sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"radiation",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "physics",
+        "science"
+      ],
+      "DEF_EN":"The emission or transmission of energy in the form of waves or particles.",
+      "DEF_ZH":"能量以波或粒子形式发射或传输的过程。",
+      "SENT_EN":"The sun's radiation provides Earth with light and heat.",
+      "SENT_ZH":"太阳的辐射为地球提供了光和热。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "electromagnetic radiation",
+            "thermal radiation",
+            "cosmic radiation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"radiation",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable, or countable for specific types)",
+      "TAGS":[
+        "technical",
+        "physics",
+        "danger"
+      ],
+      "DEF_EN":"Specific types of energy emitted as waves or particles, especially high-energy forms that can cause ionization or damage to living tissue.",
+      "DEF_ZH":"特指以波或粒子形式发射的能量类型，尤其是可引起电离或对活体组织造成损害的高能形式。",
+      "SENT_EN":"Exposure to high levels of radiation can be harmful to human health.",
+      "SENT_ZH":"暴露于高水平的辐射对人体健康有害。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ionizing radiation",
+            "alpha radiation",
+            "beta radiation",
+            "gamma radiation",
+            "X-ray"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"radiation",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "medicine",
+        "biology"
+      ],
+      "DEF_EN":"The use of radiation as a medical treatment, especially for cancer; also known as radiotherapy.",
+      "DEF_ZH":"作为医疗手段使用辐射，尤其是用于治疗癌症；亦称放射治疗。",
+      "SENT_EN":"She is undergoing radiation treatment for her tumor.",
+      "SENT_ZH":"她正在接受肿瘤的放射治疗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "radiotherapy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chemotherapy",
+            "oncology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"radiation",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "biology",
+        "evolution",
+        "specialized"
+      ],
+      "DEF_EN":"(In biology, often 'adaptive radiation') The diversification of a group of organisms into forms filling different ecological niches.",
+      "DEF_ZH":"（生物学中，常指“适应辐射”）一个生物群向适应不同生态位形式多样化发展的过程。",
+      "SENT_EN":"The adaptive radiation of finches in the Galápagos Islands is a classic example of evolution.",
+      "SENT_ZH":"加拉帕戈斯群岛上雀类的适应辐射是进化的经典例子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "adaptive radiation",
+            "evolution",
+            "speciation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general, scientific, medical"
+}

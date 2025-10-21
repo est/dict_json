@@ -1,0 +1,96 @@
+{
+  "WORD":"damp",
+  "IPA":"/dæmp/",
+  "CONJUGATES":"damper | dampest | damps | damping | damped",
+  "ETYMOLOGY":"From Middle Low German damp or Middle Dutch damp (meaning 'vapor, steam, smoke'), possibly related to Old Norse dampi (dust, smoke).",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is damp",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Slightly wet or moist, often with the implication of being cold, clammy, or unpleasant.",
+      "DEF_ZH":"微湿的；潮湿的（常带有凉意、黏湿或不适感）。",
+      "SENT_EN":"The towels were still damp after hanging them outside all night.",
+      "SENT_ZH":"毛巾在外面挂了一整夜，但仍然是湿的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "moist",
+            "humid",
+            "clammy",
+            "soggy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dry",
+            "arid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"damp [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative",
+        "technical"
+      ],
+      "DEF_EN":"To check, restrain, or lessen the force, intensity, or enthusiasm of something.",
+      "DEF_ZH":"抑制；减弱；使低沉（如热情、声音或振动）。",
+      "SENT_EN":"News of the budget cuts helped damp enthusiasm for the project.",
+      "SENT_ZH":"预算削减的消息抑制了人们对该项目的热情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inhibit",
+            "lessen",
+            "mute",
+            "dampen"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "damper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the damp",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "common",
+        "construction",
+        "mining"
+      ],
+      "DEF_EN":"Moisture diffused through the air or on a surface; especially noxious or explosive gases found in mines.",
+      "DEF_ZH":"潮湿；湿气；（尤指矿井中的）有害气体或瓦斯。",
+      "SENT_EN":"We discovered rising damp in the lower walls of the house.",
+      "SENT_ZH":"我们在房子的下部墙体中发现了上升的湿气。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dampness",
+            "firedamp",
+            "chokedamp"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

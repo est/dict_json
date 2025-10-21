@@ -1,0 +1,104 @@
+{
+  "WORD":"flank",
+  "IPA":"/flæŋk/",
+  "CONJUGATES":"flank | flanks | flanking | flanked",
+  "ETYMOLOGY":"From Old French flanc 'side', from Frankish hlanca 'hip, loin', from Proto-Germanic *hlankaz 'flexible, slender', related to Old High German hlanche 'hip'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s / [sth]'s flank",
+      "POS":"noun",
+      "POS_TIP":"a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "anatomy",
+        "animal husbandry"
+      ],
+      "DEF_EN":"The side of an animal or person's body between the ribs and the hip.",
+      "DEF_ZH":"动物或人身体上肋骨和臀部之间的侧面；腰窝。",
+      "SENT_EN":"The rider spurred the horse in its flank to make it go faster.",
+      "SENT_ZH":"骑手踢了一下马的侧腹，让它跑得更快。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "side",
+            "haunch",
+            "loin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the flank of [sth]",
+      "POS":"noun",
+      "POS_TIP":"a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "military",
+        "architecture",
+        "strategy"
+      ],
+      "DEF_EN":"The side or either side of a military formation, building, or area.",
+      "DEF_ZH":"军事阵型、建筑物或区域的侧翼。",
+      "SENT_EN":"The general ordered troops to attack the enemy's left flank.",
+      "SENT_ZH":"将军命令部队攻击敌人的左翼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "side",
+            "wing",
+            "periphery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] flanks [sth] | [sth] is flanked by [sth]",
+      "POS":"vtr",
+      "POS_TIP":"a transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To be situated on each side of or on one side of (someone or something).",
+      "DEF_ZH":"位于……的两侧或一侧。",
+      "SENT_EN":"The main entrance was flanked by two large statues.",
+      "SENT_ZH":"主入口两侧各有一尊大型雕像。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "border",
+            "line",
+            "stand by",
+            "accompany"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"flank [sb]/[sth]",
+      "POS":"vtr",
+      "POS_TIP":"a transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "military",
+        "strategy"
+      ],
+      "DEF_EN":"To attack or move around the side of (an enemy formation).",
+      "DEF_ZH":"（从侧翼）包抄，侧击（敌人）。",
+      "SENT_EN":"The infantry attempted to flank the enemy position under the cover of darkness.",
+      "SENT_ZH":"步兵试图在夜幕掩护下侧面包抄敌军阵地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outflank",
+            "encircle",
+            "envelop"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific uses in military or formal contexts for some meanings."
+}

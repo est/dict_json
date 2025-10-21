@@ -1,0 +1,136 @@
+{
+  "WORD":"ferment",
+  "IPA":"/fərˈmɛnt/",
+  "CONJUGATES":"ferments (v) | fermenting (v) | fermented (v) | ferments (n)",
+  "ETYMOLOGY":"From Latin *fermentum* (leaven, yeast, effervescence) and *fermentāre* (to leaven, to cause to ferment), related to *fervere* (to boil, to be hot).",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] ferments",
+      "POS":"vi",
+      "POS_TIP":"vi: intransitive verb",
+      "TAGS":[
+        "core word",
+        "biology",
+        "chemistry"
+      ],
+      "DEF_EN":"To undergo a chemical change by which yeast, bacteria, or other microorganisms convert sugars into alcohol, acids, or gases.",
+      "DEF_ZH":"通过酵母、细菌或其他微生物将糖转化为酒精、酸或气体，发生化学变化。",
+      "SENT_EN":"The grape juice ferments into wine after several weeks.",
+      "SENT_ZH":"葡萄汁几周后会发酵成葡萄酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brew",
+            "culture",
+            "sour"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fermentation",
+            "yeast",
+            "bacteria",
+            "enzyme"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ferment [sth]",
+      "POS":"vt",
+      "POS_TIP":"vt: transitive verb",
+      "TAGS":[
+        "core word",
+        "biology",
+        "chemistry"
+      ],
+      "DEF_EN":"To cause (a substance) to undergo the process of fermentation.",
+      "DEF_ZH":"使（某种物质）发生发酵过程。",
+      "SENT_EN":"Brewers ferment the malted barley to produce beer.",
+      "SENT_ZH":"酿酒师通过发酵麦芽大麦来生产啤酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brew",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ferment [sth] | [sth] ferments",
+      "POS":"vt | vi",
+      "POS_TIP":"vt: transitive verb | vi: intransitive verb",
+      "TAGS":[
+        "core word",
+        "figurative",
+        "social"
+      ],
+      "DEF_EN":"To stir up or incite (trouble or disorder); to cause or undergo a state of agitation, excitement, or unrest.",
+      "DEF_ZH":"煽动或激起（麻烦或骚乱）；引起或经历骚动、兴奋或不安的状态。",
+      "SENT_EN":"The new policies could ferment discontent among the populace.",
+      "SENT_ZH":"新政策可能在民众中激起不满。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incite",
+            "provoke",
+            "agitate",
+            "brew",
+            "instigate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "calm",
+            "quell",
+            "pacify",
+            "suppress"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a ferment of [sth] | in a ferment",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "figurative",
+        "social"
+      ],
+      "DEF_EN":"A state of agitation, excitement, or intellectual unrest; or a substance that causes fermentation (such as yeast or an enzyme).",
+      "DEF_ZH":"骚动、兴奋或思想上的不安状态；或引起发酵的物质（如酵母或酶）。",
+      "SENT_EN":"The city was in a ferment of political change after the revolution.",
+      "SENT_ZH":"革命后，这座城市处于政治变革的动荡之中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "turmoil",
+            "agitation",
+            "unrest",
+            "uproar",
+            "catalyst",
+            "leaven"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fermentation",
+            "enzyme",
+            "yeast"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

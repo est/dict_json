@@ -1,0 +1,214 @@
+{
+  "WORD":"live",
+  "IPA":"/lɪv/ (verb) | /laɪv/ (adjective, adverb)",
+  "CONJUGATES":"live | lives | living | lived",
+  "ETYMOLOGY":"From Old English libban 'to be, to exist, to continue in a particular condition; to experience', from Proto-Germanic *libhjanan. Related to Old English lifigende 'living'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] live",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb: a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To be alive; to exist or continue to be alive.",
+      "DEF_ZH":"活着；生存；存在。",
+      "SENT_EN":"All humans need to eat to live.",
+      "SENT_ZH":"所有人类都需要进食才能生存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exist",
+            "breathe",
+            "survive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "die",
+            "perish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] live [somewhere]",
+      "POS":"vintr + adv/prep",
+      "POS_TIP":"Intransitive verb followed by an adverb or preposition.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To reside or dwell in a particular place.",
+      "DEF_ZH":"居住；生活在（某地）。",
+      "SENT_EN":"She lives in a small apartment downtown.",
+      "SENT_ZH":"她住在市中心的一间小公寓里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reside",
+            "dwell",
+            "inhabit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] live [a life/in a way]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To experience or spend one's life in a specified manner.",
+      "DEF_ZH":"过（某种）生活；经历。",
+      "SENT_EN":"He wants to live a full and exciting life.",
+      "SENT_ZH":"他想过一种充实而激动人心的生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "experience",
+            "undergo",
+            "lead"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] live [off/on sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To gain a livelihood; to subsist on something.",
+      "DEF_ZH":"谋生；赖以为生。",
+      "SENT_EN":"Many artists live on very little money.",
+      "SENT_ZH":"许多艺术家靠很少的钱生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subsist",
+            "sustain oneself"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[live broadcast/performance]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun. (Pronounced /laɪv/)",
+      "TAGS":[
+        "common",
+        "media"
+      ],
+      "DEF_EN":"Broadcast, recorded, or performed at the time of presentation, not from a recording.",
+      "DEF_ZH":"现场直播的；实况的。",
+      "SENT_EN":"The concert was broadcast live on television.",
+      "SENT_ZH":"这场音乐会在电视上进行了现场直播。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "recorded",
+            "taped"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "live stream",
+            "podcast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a live audience/performance]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun. (Pronounced /laɪv/)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Full of life, energy, or activity; active.",
+      "DEF_ZH":"充满活力的；生动的；活跃的。",
+      "SENT_EN":"The band gave a truly live performance.",
+      "SENT_ZH":"乐队奉献了一场真正充满活力的表演。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "energetic",
+            "vibrant",
+            "lively"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dull",
+            "inactive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a live wire/circuit]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun. (Pronounced /laɪv/)",
+      "TAGS":[
+        "technical"
+      ],
+      "DEF_EN":"Electrically charged; connected to a source of electricity.",
+      "DEF_ZH":"带电的；通电的。",
+      "SENT_EN":"Be careful, that wire is live.",
+      "SENT_ZH":"小心，那根电线是带电的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charged",
+            "active"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dead",
+            "inactive",
+            "disconnected"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[play live]",
+      "POS":"adv",
+      "POS_TIP":"Adverb: a word or phrase that modifies an adjective, verb, or other adverb. (Pronounced /laɪv/)",
+      "TAGS":[
+        "common",
+        "music"
+      ],
+      "DEF_EN":"In person; not from a recording.",
+      "DEF_ZH":"现场地；实况地。",
+      "SENT_EN":"The band will play live tonight.",
+      "SENT_ZH":"乐队今晚将进行现场演出。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "on record",
+            "recorded"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

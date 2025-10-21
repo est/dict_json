@@ -1,0 +1,85 @@
+{
+  "WORD":"predicate",
+  "IPA":"/ˈprɛdɪkeɪt/",
+  "CONJUGATES":"predicates | predicating | predicated",
+  "ETYMOLOGY":"From Latin praedicatus, past participle of praedicare (to proclaim, declare publicly), from prae- ('before') + dicare ('to proclaim, assert').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "grammar",
+        "linguistics"
+      ],
+      "DEF_EN":"The part of a sentence or clause, containing a verb and stating something about the subject (e.g., in 'The cat slept', 'slept' is the predicate).",
+      "DEF_ZH":"谓语；述语。句子或从句中包含动词并说明主语的成分。",
+      "SENT_EN":"Identifying the subject and predicate is the first step in basic sentence analysis.",
+      "SENT_ZH":"识别主语和谓语是基本句子分析的第一步。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "subject"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "comment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"predicate [sth] on [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To state, affirm, or assert something as belonging to or necessarily involved with another thing; or, more commonly, to base something on a specific principle or premise.",
+      "DEF_ZH":"断言；宣告；把…建立在…的基础上；以…为依据。",
+      "SENT_EN":"The success of the mission was entirely predicated on accurate weather forecasts.",
+      "SENT_ZH":"这次任务的成功完全取决于准确的天气预报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "base",
+            "found",
+            "depend",
+            "establish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "logic",
+        "philosophy"
+      ],
+      "DEF_EN":"(Logic) A term that expresses a property or relation in a statement of proposition.",
+      "DEF_ZH":"谓词；属性；断言。",
+      "SENT_EN":"In the statement 'Socrates is a man', 'is a man' functions as the predicate.",
+      "SENT_ZH":"在“苏格拉底是人”这一命题中，“是人”充当谓词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "proposition",
+            "argument"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Technical (Linguistics, Logic)"
+}

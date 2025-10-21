@@ -1,0 +1,64 @@
+{
+  "WORD":"greenhouse",
+  "IPA":"/ˈɡriːnhaʊs/",
+  "CONJUGATES":"greenhouses",
+  "ETYMOLOGY":"From English 'green' (referring to plants) and 'house'. First used to describe a structure for protecting plants in the 17th century.",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a greenhouse",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common",
+        "horticultural"
+      ],
+      "DEF_EN":"A glass building, or one made of transparent plastic, used for growing plants that need protection from cold weather.",
+      "DEF_ZH":"一种玻璃或透明塑料制成的建筑物，用于种植需要防寒保护的植物。",
+      "SENT_EN":"We started growing our own vegetables in the greenhouse this spring.",
+      "SENT_ZH":"今年春天我们开始在温室里种植自己的蔬菜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conservatory",
+            "hothouse"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cold frame",
+            "nursery"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"greenhouse effect | greenhouse gas",
+      "POS":"adjective",
+      "POS_TIP":"An adjective is a word naming an attribute of a noun.",
+      "TAGS":[
+        "common",
+        "scientific",
+        "environmental"
+      ],
+      "DEF_EN":"Relating to the warming of the Earth's atmosphere caused by the trapping of heat by certain gases, or to the gases themselves.",
+      "DEF_ZH":"指地球大气层因某些气体捕获热量而变暖的现象，或指这些气体本身。",
+      "SENT_EN":"The increase in greenhouse gases is a major cause of climate change.",
+      "SENT_ZH":"温室气体的增加是气候变化的一个主要原因。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "global warming",
+            "climate change",
+            "carbon dioxide"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general | horticultural | scientific"
+}

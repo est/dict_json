@@ -1,0 +1,112 @@
+{
+  "WORD":"feel",
+  "IPA":"/fiːl/",
+  "CONJUGATES":"feels | feeling | felt",
+  "ETYMOLOGY":"From Old English fēlan, meaning 'to touch, perceive, experience,' related to Old Saxon fōlean and Old High German fuolen.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"feel [adj] | feel [like] [sth/doing sth]",
+      "POS":"vlink | vintr",
+      "POS_TIP":"linking verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "sensation",
+        "emotion"
+      ],
+      "DEF_EN":"To experience a physical or emotional state.",
+      "DEF_ZH":"经历某种身体上或情绪上的状态。",
+      "SENT_EN":"She felt tired after the long journey, but now she feels better.",
+      "SENT_ZH":"长途旅行后她感到很疲倦，但现在感觉好多了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "experience",
+            "sense",
+            "undergo"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "emotion",
+            "sensation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feel [sth] | feel [for] [sth]",
+      "POS":"vtr | vintr + prep",
+      "POS_TIP":"transitive verb | intransitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "sense",
+        "touch"
+      ],
+      "DEF_EN":"To perceive or examine something using the sense of touch.",
+      "DEF_ZH":"通过触摸的感觉来感知或检查某物。",
+      "SENT_EN":"The doctor felt my pulse to check my heart rate.",
+      "SENT_ZH":"医生摸了我的脉搏来检查我的心率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "touch",
+            "handle",
+            "palpate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"feel [that] [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "opinion",
+        "belief"
+      ],
+      "DEF_EN":"To believe, think, or be convinced of something.",
+      "DEF_ZH":"相信、认为或确信某事。",
+      "SENT_EN":"I feel that this policy is unfair to the workers.",
+      "SENT_ZH":"我认为这项政策对工人不公平。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "believe",
+            "opine",
+            "consider"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the feel of [sth] | a good feel",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "texture"
+      ],
+      "DEF_EN":"The nature of something as perceived by touch; the texture or general atmosphere of a place or situation.",
+      "DEF_ZH":"通过触摸感知的某物的性质；质地，或某地/某情况的整体氛围或印象。",
+      "SENT_EN":"The carpet has a wonderfully soft feel.",
+      "SENT_ZH":"这地毯摸起来手感极佳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "texture",
+            "touch",
+            "atmosphere",
+            "vibe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage across all contexts."
+}

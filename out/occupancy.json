@@ -1,0 +1,82 @@
+{
+  "WORD":"occupancy",
+  "IPA":"/ˈɒkjʊpənsi/",
+  "CONJUGATES":"occupancies (plural)",
+  "ETYMOLOGY":"From Latin 'occupare' (to seize, take possession of), via Old French 'occupance' or English 'occupant' + '-cy' suffix.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"occupancy",
+      "POS":"noun (uncountable)",
+      "POS_TIP":"A word that names a person, place, thing, or idea, which cannot be counted.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state or condition of being in a place, building, or position; the act of occupying.",
+      "DEF_ZH":"占用、居住或使用某地或某职位的状态；占有。",
+      "SENT_EN":"The hotel strives for 100% occupancy during the peak tourist season.",
+      "SENT_ZH":"这家酒店在旅游旺季力求达到百分之百的入住率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "possession",
+            "occupation",
+            "residence",
+            "tenancy",
+            "habitation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"occupancy",
+      "POS":"noun (countable/uncountable)",
+      "POS_TIP":"A word that names a person, place, thing, or idea, which can be counted or not counted depending on context.",
+      "TAGS":[
+        "common",
+        "technical",
+        "capacity"
+      ],
+      "DEF_EN":"The number of people or things occupying a space; the capacity of a place.",
+      "DEF_ZH":"占用某个空间的人或物的数量；某个地方的容纳量。",
+      "SENT_EN":"The maximum occupancy of the lecture hall is 200 people.",
+      "SENT_ZH":"这个演讲厅的最大容纳量是200人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "capacity",
+            "headcount",
+            "resident count"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"occupancy",
+      "POS":"noun (countable)",
+      "POS_TIP":"A word that names a person, place, thing, or idea, which can be counted.",
+      "TAGS":[
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"The period during which a place is occupied.",
+      "DEF_ZH":"占用或居住的时期。",
+      "SENT_EN":"The lease agreement specifies the terms of occupancy.",
+      "SENT_ZH":"租赁协议规定了占用期限的条款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "term",
+            "duration",
+            "period of use"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, business, legal contexts."
+}

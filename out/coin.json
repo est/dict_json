@@ -1,0 +1,103 @@
+{
+  "WORD":"coin",
+  "IPA":"/kɔɪn/",
+  "CONJUGATES":"coins (n.pl.) | coins (v.3rd.sg.pres) | coining (v.pres.part) | coined (v.past.pt)",
+  "ETYMOLOGY":"From Old French 'coigne' (wedge, die, corner), from Latin 'cuneus' (wedge). Originally referred to the die used to stamp money, then the money itself.",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] coin | coins",
+      "POS":"noun",
+      "POS_TIP":"a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A flat, typically round piece of metal with an official stamp, used as money.",
+      "DEF_ZH":"一种扁平的、通常是圆形的金属片，上面有官方印章，用作货币。",
+      "SENT_EN":"He found a shiny old coin on the street.",
+      "SENT_ZH":"他在街上发现了一枚闪闪发光的旧硬币。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "currency",
+            "specie",
+            "token"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cash",
+            "money",
+            "banknote"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"coin [sth]",
+      "POS":"vtr",
+      "POS_TIP":"a transitive verb, which is a verb that requires a direct object.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To invent or devise (a new word or phrase).",
+      "DEF_ZH":"创造或构思（一个新词或短语）。",
+      "SENT_EN":"Shakespeare coined many words that are still in use today.",
+      "SENT_ZH":"莎士比亚创造了许多至今仍在使用的词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invent",
+            "create",
+            "mint",
+            "devise",
+            "formulate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "neologism",
+            "wordplay"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"coin [sth]",
+      "POS":"vtr",
+      "POS_TIP":"a transitive verb, which is a verb that requires a direct object.",
+      "TAGS":[
+        "less common",
+        "specific usage"
+      ],
+      "DEF_EN":"To make (coins) by stamping metal.",
+      "DEF_ZH":"通过冲压金属来制造（硬币）。",
+      "SENT_EN":"The government decided to coin new currency to replace the old one.",
+      "SENT_ZH":"政府决定铸造新货币以取代旧货币。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mint",
+            "strike",
+            "cast"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "coinage",
+            "minter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

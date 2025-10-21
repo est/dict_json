@@ -1,0 +1,119 @@
+{
+  "WORD":"glide",
+  "IPA":"/ɡlaɪd/",
+  "CONJUGATES":"glide | glides | gliding | glided",
+  "ETYMOLOGY":"From Middle English gliden, from Old English glīdan 'to glide, slide, slip, move gently and smoothly', from Proto-Germanic *glīdaną*.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] glide (along/across/over/through)",
+      "POS":"vintr",
+      "POS_TIP":"vintr stands for intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To move smoothly and continuously with no apparent effort or resistance.",
+      "DEF_ZH":"（某人/某物）平稳流畅地移动，不费力或不受阻碍地滑行。",
+      "SENT_EN":"The swan glided gracefully across the lake.",
+      "SENT_ZH":"天鹅优雅地划过湖面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slide",
+            "drift",
+            "sail",
+            "float",
+            "coast"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stumble",
+            "clump",
+            "jerk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] glide [sth] (into/onto/through)",
+      "POS":"vtr",
+      "POS_TIP":"vtr stands for transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cause something to move smoothly and effortlessly.",
+      "DEF_ZH":"使某物平稳、不费力地移动或滑行。",
+      "SENT_EN":"He glided the boat silently through the narrow channel.",
+      "SENT_ZH":"他让船悄无声息地滑过狭窄的水道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slide",
+            "maneuver",
+            "guide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a glide",
+      "POS":"n",
+      "POS_TIP":"n stands for noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A smooth, continuous movement.",
+      "DEF_ZH":"平稳流畅的移动或滑行。",
+      "SENT_EN":"She made a smooth glide across the ice rink.",
+      "SENT_ZH":"她在溜冰场上做了一个平稳的滑行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slide",
+            "drift",
+            "flow",
+            "sweep"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "jolt",
+            "bump"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a glide",
+      "POS":"n",
+      "POS_TIP":"n stands for noun",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"In phonetics, a sound produced by the gradual transition from one vowel or consonant sound to another, especially a semivowel (e.g., /w/, /j/).",
+      "DEF_ZH":"（语音学）从一个元音或辅音向另一个元音或辅音平稳过渡时发出的音，特别是半元音（如/w/，/j/）。",
+      "SENT_EN":"The 'y' sound in \"yes\" is an example of a glide.",
+      "SENT_ZH":"\"yes\" 中的 'y' 音就是一个滑音。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "semivowel",
+            "diphthong"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

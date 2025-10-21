@@ -1,0 +1,162 @@
+{
+  "WORD":"nurse",
+  "IPA":"/nɝːs/",
+  "CONJUGATES":"nurses (plural noun) | nurses (3rd person singular present verb) | nursing (present participle) | nursed (past simple, past participle)",
+  "ETYMOLOGY":"From Old French norrice, from Late Latin nutritia ('nurturer'), from Latin nutrire ('to nourish').",
+  "SINCE":"Late Middle English",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] nurse",
+      "POS":"n",
+      "POS_TIP":"noun, a word that names a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person trained to care for sick or injured people, especially in a hospital.",
+      "DEF_ZH":"经过培训，照料病人或受伤者的专业人员，尤指在医院工作。",
+      "SENT_EN":"The nurse checked the patient's temperature and administered medication.",
+      "SENT_ZH":"护士检查了病人的体温并给药。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "caregiver",
+            "attendant",
+            "healthcare professional"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "doctor",
+            "hospital",
+            "patient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"nurse [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, an action verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To care for a sick, injured, or weak person or animal and try to make them better.",
+      "DEF_ZH":"照料生病、受伤或虚弱的人或动物，并试图让他们康复。",
+      "SENT_EN":"She spent weeks nursing her sick cat back to health.",
+      "SENT_ZH":"她花了数周时间照料生病的猫，使其恢复健康。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "care for",
+            "tend to",
+            "look after"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "neglect",
+            "harm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"nurse [a baby] | nurse at [breast]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb, an action verb that takes a direct object | intransitive verb, an action verb that does not take a direct object",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To feed a baby with milk from a mother's breast; to suckle a baby.",
+      "DEF_ZH":"用乳房喂养婴儿；给婴儿哺乳。",
+      "SENT_EN":"The mother nursed her newborn twin babies.",
+      "SENT_ZH":"这位母亲给她刚出生的双胞胎婴儿喂奶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breastfeed",
+            "suckle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"nurse [an idea/feeling]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, an action verb that takes a direct object",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To foster, cherish, or encourage (a feeling, theory, or belief) over a period of time.",
+      "DEF_ZH":"在一段时间内培养、珍视或鼓励（一种感觉、理论或信念）。",
+      "SENT_EN":"He had been nursing a grudge against his former colleague for years.",
+      "SENT_ZH":"多年来他一直对他的前同事怀恨在心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cherish",
+            "foster",
+            "cultivate",
+            "harbor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"nurse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, an action verb that takes a direct object",
+      "TAGS":[
+        "less common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To hold or treat something carefully or gently, often for comfort or to avoid further damage.",
+      "DEF_ZH":"小心翼翼地或轻柔地拿着或对待某物，通常是为了舒适或避免进一步损坏。",
+      "SENT_EN":"He nursed his sprained ankle, trying not to put any weight on it.",
+      "SENT_ZH":"他小心翼翼地保护着他扭伤的脚踝，尽量不让它受力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cradle",
+            "hold gently",
+            "handle carefully"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] wet nurse",
+      "POS":"n",
+      "POS_TIP":"noun, a word that names a person, place, thing, or idea",
+      "TAGS":[
+        "historical",
+        "specific"
+      ],
+      "DEF_EN":"A woman who is employed to suckle and care for another's child.",
+      "DEF_ZH":"受雇哺乳和照料他人孩子的妇女（通常指过去）。",
+      "SENT_EN":"In aristocratic families of the past, it was common to hire a wet nurse.",
+      "SENT_ZH":"在过去的贵族家庭中，雇佣乳母是很常见的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "wet nurse",
+            "nanny",
+            "babysitter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

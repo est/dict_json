@@ -1,0 +1,100 @@
+{
+  "WORD":"triple",
+  "IPA":"/ˈtrɪpəl/",
+  "CONJUGATES":"triples | tripling | tripled",
+  "ETYMOLOGY":"From Old French 'triple', from Latin 'triplus' (threefold), derived from 'tres' (three) + '-plus' (fold).",
+  "SINCE":"Late Middle English (circa 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is triple",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Consisting of three parts or units; three times as much or as many.",
+      "DEF_ZH":"三倍的；三重的；由三部分组成的",
+      "SENT_EN":"The cost of shipping was triple the price of the item itself.",
+      "SENT_ZH":"运费是商品本身价格的三倍。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "double",
+            "quadruple"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"triple [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To increase or cause to increase by three times the amount or size.",
+      "DEF_ZH":"使成三倍；使增加两倍 (及物或不及物)",
+      "SENT_EN":"We need to triple the output if we want to meet the deadline.",
+      "SENT_ZH":"如果我们要赶上截止日期，我们需要将产量增加两倍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "treble",
+            "multiply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a triple of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "countable",
+        "formal"
+      ],
+      "DEF_EN":"A quantity or number three times larger than another; a group of three items or occurrences.",
+      "DEF_ZH":"三倍的量或数；三个一组；三冠王",
+      "SENT_EN":"The athlete completed the challenge, achieving a triple of consecutive victories.",
+      "SENT_ZH":"这位运动员完成了挑战，实现了三连胜。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trio",
+            "triplet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hit a triple",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "sports",
+        "jargon",
+        "baseball"
+      ],
+      "DEF_EN":"(In baseball) A hit that allows the batter to reach third base safely.",
+      "DEF_ZH":"（棒球）三垒安打",
+      "SENT_EN":"He narrowly beat the throw to get a triple, driving in two runs.",
+      "SENT_ZH":"他险胜传球，打出三垒安打，送回了两名跑者。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "single",
+            "double",
+            "home run"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

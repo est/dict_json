@@ -1,0 +1,81 @@
+{
+  "WORD":"trench",
+  "IPA":"/trɛntʃ/",
+  "CONJUGATES":"trenches | trenching | trenched",
+  "ETYMOLOGY":"From Middle English trenche, from Old French trenche (a cut, slice), derived from trenchier (to cut, carve). The meaning shifted from a cut to the resulting ditch/excavation.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] trench | a trench",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "construction"
+      ],
+      "DEF_EN":"A long, narrow ditch or excavation dug in the ground, often used historically for defensive military positions or currently for drainage and laying utilities.",
+      "DEF_ZH":"（尤指军事防御或排水用的）长而窄的壕沟；地沟。",
+      "SENT_EN":"The soldiers spent weeks living in cold, muddy trenches.",
+      "SENT_ZH":"士兵们在寒冷泥泞的壕沟里度过了数周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ditch",
+            "moat",
+            "fosse",
+            "excavation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[oceanic] trench",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "scientific",
+        "geology",
+        "oceanography"
+      ],
+      "DEF_EN":"A deep, steep-sided depression in the earth's ocean floor, usually marking a subduction zone.",
+      "DEF_ZH":"（海洋）海沟。",
+      "SENT_EN":"The Challenger Deep lies at the bottom of the Mariana Trench.",
+      "SENT_ZH":"挑战者深渊位于马里亚纳海沟的底部。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "subduction zone",
+            "abyss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trench [sth] | trench for [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "construction",
+        "agriculture"
+      ],
+      "DEF_EN":"To dig a long, narrow ditch in (land or ground).",
+      "DEF_ZH":"挖掘（土地）以形成壕沟；开凿。",
+      "SENT_EN":"The construction crew had to trench the street to access the main water line.",
+      "SENT_ZH":"施工队不得不开挖街道以接触主水管。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dig",
+            "excavate",
+            "furrow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (for oceanography)"
+}

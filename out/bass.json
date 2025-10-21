@@ -1,0 +1,121 @@
+{
+  "WORD":"bass",
+  "IPA":"/bæs/, /beɪs/",
+  "CONJUGATES":"bass (n., singular & plural for fish); basses (n., plural for instruments or species of fish); bass (adj.)",
+  "ETYMOLOGY":"For the fish (pronounced /bæs/): From Old English 'bærs', from Proto-Germanic *barsaz (a spiky fish). For the low sound/instrument (pronounced /beɪs/): From Old French 'bas' (low, short), from Latin 'bassus' (thick, fat, short, low).",
+  "SINCE":"Pre-12th century (fish); 14th century (music/sound)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] bass",
+      "POS":"noun",
+      "POS_TIP":"Noun (identifies a person, place, thing, or idea)",
+      "TAGS":[
+        "core word",
+        "common",
+        "zoology"
+      ],
+      "DEF_EN":"Any of various edible freshwater or marine spiny-finned fish (pronounced /bæs/).",
+      "DEF_ZH":"各种可食用的淡水或海水鲈形目鱼类（发音为 /bæs/）。",
+      "SENT_EN":"We caught several large bass in the lake this morning.",
+      "SENT_ZH":"今天早上我们在湖里钓到了几条大鲈鱼。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "perch",
+            "cod",
+            "trout"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sing bass | play bass",
+      "POS":"noun",
+      "POS_TIP":"Noun (identifies a person, place, thing, or idea)",
+      "TAGS":[
+        "core word",
+        "common",
+        "music"
+      ],
+      "DEF_EN":"The lowest male singing voice; also, the lowest part in musical harmony (pronounced /beɪs/).",
+      "DEF_ZH":"男性的最低音域；也指音乐和声中的最低声部（发音为 /beɪs/）。",
+      "SENT_EN":"He sings bass in the choir.",
+      "SENT_ZH":"他在唱诗班里唱男低音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "low pitch",
+            "baritone"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "soprano",
+            "treble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"play the bass | electric bass",
+      "POS":"noun",
+      "POS_TIP":"Noun (identifies a person, place, thing, or idea)",
+      "TAGS":[
+        "core word",
+        "common",
+        "music",
+        "instrument"
+      ],
+      "DEF_EN":"A musical instrument, such as a bass guitar or double bass, that produces low-frequency sounds (pronounced /beɪs/).",
+      "DEF_ZH":"一种能发出低频率声音的乐器，例如贝斯吉他或低音提琴（发音为 /beɪs/）。",
+      "SENT_EN":"She learned to play the electric bass in high school.",
+      "SENT_ZH":"她高中时学会了弹电贝斯。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bass guitar",
+            "double bass",
+            "cello",
+            "tuba"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bass sound / frequency",
+      "POS":"adjective",
+      "POS_TIP":"Adjective (describes a noun or pronoun)",
+      "TAGS":[
+        "core word",
+        "common",
+        "acoustics"
+      ],
+      "DEF_EN":"Having a low or deep sound; low in frequency (pronounced /beɪs/).",
+      "DEF_ZH":"具有低沉或深厚的声音；低频的（发音为 /beɪs/）。",
+      "SENT_EN":"The subwoofer produced a powerful bass rumble.",
+      "SENT_ZH":"低音炮发出了强劲的低音轰鸣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deep",
+            "low",
+            "resonant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "treble",
+            "high-pitched"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

@@ -1,0 +1,69 @@
+{
+  "WORD":"ferry",
+  "IPA":"/ˈfɛri/",
+  "CONJUGATES":"Noun: ferries | Verb: ferries | ferrying | ferried",
+  "ETYMOLOGY":"From Middle English *ferien*, deriving from Old English *ferian* ('to carry, convey'), related to *faran* ('to travel, go').",
+  "SINCE":"Old English era (pre-1000 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] ferry",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "transport"
+      ],
+      "DEF_EN":"A boat or ship that carries passengers, vehicles, or goods across a short stretch of water, often operating on a regular scheduled route.",
+      "DEF_ZH":"渡船；渡轮；用于在短距离水域（通常按固定班次）运送乘客、车辆或货物的船只。",
+      "SENT_EN":"We missed the last car ferry to the mainland.",
+      "SENT_ZH":"我们错过了最后一班前往大陆的汽车渡轮。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hovercraft",
+            "barge",
+            "liner"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ferry [sb] / [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To transport people or things, especially by boat or vehicle, often over a relatively short, fixed route.",
+      "DEF_ZH":"摆渡；渡运；运送；尤指通过船只或车辆在相对较短的固定路线上运输人员或物品。",
+      "SENT_EN":"The helicopter was used to ferry supplies to the remote camp.",
+      "SENT_ZH":"这架直升机被用来向偏远营地运送物资。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shuttle",
+            "transport",
+            "convey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ferry (to/from somewhere)",
+      "POS":"vin",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To travel by means of a ferry or similar transport.",
+      "DEF_ZH":"乘渡轮旅行或往返。",
+      "SENT_EN":"We ferried across the sound in less than an hour.",
+      "SENT_ZH":"我们在不到一个小时的时间内乘渡轮穿过了海峡。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

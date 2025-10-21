@@ -1,0 +1,87 @@
+{
+  "WORD":"fractional",
+  "IPA":"/'frækʃənəl/",
+  "CONJUGATES":"fractionally (adv)",
+  "ETYMOLOGY":"From the noun fraction, via Old French fraccion, from Latin frāctiō (a breaking), related to frangere (to break). The suffix -al indicates 'relating to'.",
+  "SINCE":"17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] [mathematical concept]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (修饰名词的词)",
+      "TAGS":[
+        "core word",
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"Relating to or expressed as a fraction; denoting a part of a whole number.",
+      "DEF_ZH":"分数的；包含分数的；与分数有关的。",
+      "SENT_EN":"The result involved a fractional exponent which complicated the calculation.",
+      "SENT_ZH":"结果涉及一个分数指数，这使计算复杂化了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "decimal",
+            "numerator",
+            "denominator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] fractional [amount/part]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (修饰名词的词)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Very small; constituting only a minor part or proportion of a whole.",
+      "DEF_ZH":"极小的；微不足道的；局部的。",
+      "SENT_EN":"There was only a fractional gain in the company's stock value this quarter.",
+      "SENT_ZH":"公司股票价值本季度只有微不足道的增长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minute",
+            "tiny",
+            "minimal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "whole",
+            "major",
+            "substantial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fractional [process]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (修饰名词的词)",
+      "TAGS":[
+        "technical",
+        "chemistry",
+        "physics"
+      ],
+      "DEF_EN":"Relating to a process of separation (such as distillation or crystallization) that divides mixtures into successive fractions based on slight differences in properties.",
+      "DEF_ZH":"分馏的；分级的；分步的（指化学分离过程）。",
+      "SENT_EN":"Fractional crystallization is a key technique in material purification.",
+      "SENT_ZH":"分级结晶是材料纯化中的一项关键技术。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "distillation",
+            "chromatography"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical, General"
+}

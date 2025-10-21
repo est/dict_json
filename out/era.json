@@ -1,0 +1,89 @@
+{
+  "WORD":"era",
+  "IPA":"/ˈɪərə/",
+  "CONJUGATES":"eras",
+  "ETYMOLOGY":"From Late Latin aera 'epoch, starting point, number,' perhaps originally referring to the system of reckoning used by the Visigoths in 38 B.C.E.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"an era (of something)",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "historical"
+      ],
+      "DEF_EN":"A long and distinct period of time in history or in a person's life, usually marked by a specific characteristic, event, or leader.",
+      "DEF_ZH":"历史上或个人生活中一个长而独特的时期，通常以特定的特征、事件或领导者为标志。",
+      "SENT_EN":"The invention of the internet ushered in a new era of global communication.",
+      "SENT_ZH":"互联网的发明开创了全球通信的新时代。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "age",
+            "period",
+            "epoch",
+            "time"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "milestone",
+            "generation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the [specific] era",
+      "POS":"n.",
+      "POS_TIP":"noun (countable, formal)",
+      "TAGS":[
+        "formal",
+        "chronology"
+      ],
+      "DEF_EN":"A system of chronological notation calculated from a fixed point in time, such as the Christian Era or Common Era (C.E.).",
+      "DEF_ZH":"从一个固定的时间点开始计算的年代记录系统（例如基督教纪年或公元纪年）。",
+      "SENT_EN":"Historians use C.E. (Common Era) to denote dates after the traditional starting point.",
+      "SENT_ZH":"历史学家使用C.E.（公元纪年）来表示传统起始点之后的日期。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "AD",
+            "BC",
+            "CE",
+            "BCE"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"geological era",
+      "POS":"n.",
+      "POS_TIP":"noun (countable, specialized)",
+      "TAGS":[
+        "specialized",
+        "geology"
+      ],
+      "DEF_EN":"A major division of geological time, composed of two or more periods, such as the Paleozoic Era or Mesozoic Era.",
+      "DEF_ZH":"地质时间的主要划分，由两个或多个“纪”组成，如古生代或中生代。",
+      "SENT_EN":"The extinction event occurred at the boundary between the Cretaceous period and the Cenozoic era.",
+      "SENT_ZH":"灭绝事件发生在白垩纪和新生代之间。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "eon",
+            "period",
+            "epoch"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across historical, scientific, and general contexts."
+}

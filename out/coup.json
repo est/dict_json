@@ -1,0 +1,75 @@
+{
+  "WORD":"coup",
+  "IPA":"/kuː/",
+  "CONJUGATES":"coups (plural)",
+  "ETYMOLOGY":"From French coup 'blow, stroke', from Old French colp, coup, from Late Latin colpus, from Latin colaphus 'a box on the ear, cuff', from Greek kolaphos 'a blow, buffet'. The political sense is a shortening of the French phrase coup d'état 'stroke of state'.",
+  "SINCE":"Late 18th century (for 'stroke/blow' in phrases); Late 19th century (for political sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a coup | coup d'état",
+      "POS":"noun",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "political",
+        "formal"
+      ],
+      "DEF_EN":"A sudden, illegal, and often violent seizure of power from a government.",
+      "DEF_ZH":"一场突然的、非法的且常伴有暴力的政府权力夺取。",
+      "SENT_EN":"The general led a military coup against the democratically elected government.",
+      "SENT_ZH":"将军领导了一场针对民选政府的军事政变。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "takeover",
+            "revolt",
+            "rebellion",
+            "revolution",
+            "insurrection"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "coup d'état"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a coup",
+      "POS":"noun",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "achievement",
+        "informal"
+      ],
+      "DEF_EN":"A notably successful stroke or move; an achievement or triumph.",
+      "DEF_ZH":"一次显著成功的举动或策略；一项成就或胜利。",
+      "SENT_EN":"Signing that star player was a real coup for the team.",
+      "SENT_ZH":"签下那位明星球员对球队来说真是一大成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "feat",
+            "accomplishment",
+            "triumph",
+            "masterstroke"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "coup de grâce",
+            "coup de main"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal (for political sense); Neutral (for achievement sense)"
+}

@@ -1,0 +1,62 @@
+{
+  "WORD":"workbook",
+  "IPA":"/ˈwɜːkˌbʊk/",
+  "CONJUGATES":"workbooks",
+  "ETYMOLOGY":"Compound of 'work' (from Old English 'weorc' meaning 'something done, action') and 'book' (from Old English 'bōc' meaning 'book, writing').",
+  "SINCE":"Early 20th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "education",
+        "common"
+      ],
+      "DEF_EN":"A book containing exercises, problems, or assignments for students to complete.",
+      "DEF_ZH":"一本包含练习、问题或作业供学生完成的书。",
+      "SENT_EN":"The students opened their English workbook to page 25.",
+      "SENT_ZH":"学生们翻开他们的英语练习册到第25页。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exercise book",
+            "practice book"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "textbook",
+            "notebook"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"(Computing) A file in a spreadsheet application, typically containing one or more worksheets.",
+      "DEF_ZH":"（计算机）电子表格应用程序中的一个文件，通常包含一个或多个工作表。",
+      "SENT_EN":"He organized all the financial data into a single Excel workbook.",
+      "SENT_ZH":"他将所有财务数据整理到一个Excel工作簿中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spreadsheet",
+            "worksheet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

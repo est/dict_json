@@ -1,0 +1,65 @@
+{
+  "WORD":"restrict",
+  "IPA":"/rɪˈstrɪkt/",
+  "CONJUGATES":"restricts | restricting | restricted",
+  "ETYMOLOGY":"From Latin restrictus, past participle of restringere ('to tie back, confine'), from re- ('back, again') + stringere ('to draw tight, bind').",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"restrict [sth] | restrict [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"To limit the amount, size, or extent of something; to keep something within certain bounds.",
+      "DEF_ZH":"限制某物的数量、范围或程度；将某物控制在特定界限内。",
+      "SENT_EN":"The government decided to restrict the flow of foreign currency.",
+      "SENT_ZH":"政府决定限制外汇的流动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "confine",
+            "curtail",
+            "constrain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "allow",
+            "release",
+            "expand",
+            "permit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"restrict [sth] to [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb followed by a preposition",
+      "TAGS":[
+        "Formal",
+        "Usage specific"
+      ],
+      "DEF_EN":"To limit the usage or access of something to a specific group, area, or activity.",
+      "DEF_ZH":"将某物的使用权或访问权限制于特定的群体、区域或活动。",
+      "SENT_EN":"Access to the server is strictly restricted to senior management.",
+      "SENT_ZH":"服务器的访问权限被严格限制在高级管理层。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reserve",
+            "designate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in legal, policy, or formal contexts."
+}

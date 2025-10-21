@@ -1,0 +1,86 @@
+{
+  "WORD":"temporary",
+  "IPA":"/ˈtɛmpəˌrɛri/",
+  "CONJUGATES":"temporarily | temporariness | temporaries",
+  "ETYMOLOGY":"From Latin temporarius ('of time, temporary'), derived from tempus (genitive temporis, 'time, season').",
+  "SINCE":"c. 1540s",
+  "MEANINGS":[
+    {
+      "PATTERN":"temporary [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lasting or existing for only a limited period of time; not permanent.",
+      "DEF_ZH":"持续有限时间；非永久性的；暂时的。",
+      "SENT_EN":"The bridge collapsed, so the engineers built a temporary walkway for pedestrians.",
+      "SENT_ZH":"大桥倒塌了，所以工程师们为行人搭建了一条临时人行道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transient",
+            "provisional",
+            "interim",
+            "short-term"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "permanent",
+            "lasting",
+            "enduring"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"temporary [worker/employment]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "business",
+        "labor"
+      ],
+      "DEF_EN":"Employed or contracted for a fixed, short duration, rather than permanently.",
+      "DEF_ZH":"以固定的、短期合同受雇或被委托的；临时性的（指员工或职位）。",
+      "SENT_EN":"They hired a temporary assistant to help with the holiday rush.",
+      "SENT_ZH":"他们雇佣了一名临时助理来应对节假日期间的繁忙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contract",
+            "freelance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a temporary",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "colloquial",
+        "labor"
+      ],
+      "DEF_EN":"A person, especially a worker, employed only for a limited period; often shortened to 'temp'.",
+      "DEF_ZH":"临时工；被短暂雇佣的人。",
+      "SENT_EN":"We need to train all the temporaries on the new software before the end of the week.",
+      "SENT_ZH":"我们需要在本周末之前对所有临时工进行新软件的培训。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "temp",
+            "contractor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, suitable for formal and informal contexts."
+}

@@ -1,0 +1,76 @@
+{
+  "WORD":"testify",
+  "IPA":"/ˈtɛstɪfaɪ/",
+  "CONJUGATES":"testifies | testifying | testified",
+  "ETYMOLOGY":"From Old French tester 'to make a will, testify,' from Latin testificari 'to bear witness,' from testis 'witness.'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"testify (against/for) [sb/sth] | testify that [clause]",
+      "POS":"vintr | vintr + prep",
+      "POS_TIP":"intransitive verb | preposition",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"To make a statement in a court of law or other legal proceeding after taking an oath to tell the truth, especially to provide evidence.",
+      "DEF_ZH":"（在法庭上或法律程序中）作证；提供证据。",
+      "SENT_EN":"The witness was reluctant to testify against the accused.",
+      "SENT_ZH":"证人不愿意作证指控被告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depose",
+            "attest",
+            "swear",
+            "vouch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "testimony",
+            "witness",
+            "perjury"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"testify to [sth] | testify that [clause]",
+      "POS":"vintr + prep | vintr",
+      "POS_TIP":"intransitive verb | preposition",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To serve as evidence or proof of something; to declare or state something as a fact.",
+      "DEF_ZH":"表明；证明；证实（某事）；声明；宣告。",
+      "SENT_EN":"The scars on his body testified to the severity of the accident.",
+      "SENT_ZH":"他身上的疤痕证明了事故的严重性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attest",
+            "certify",
+            "demonstrate",
+            "confirm",
+            "indicate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "evidence",
+            "proof",
+            "declaration"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"standard, formal"
+}

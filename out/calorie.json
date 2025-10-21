@@ -1,0 +1,63 @@
+{
+  "WORD":"calorie",
+  "IPA":"/ˈkæləri/",
+  "CONJUGATES":"calories",
+  "ETYMOLOGY":"From French *calorie*, coined by Nicolas Clément in 1824, from Latin *calor* ('heat').",
+  "SINCE":"1824",
+  "MEANINGS":[
+    {
+      "PATTERN":"a calorie",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "scientific",
+        "unit"
+      ],
+      "DEF_EN":"A unit of heat or energy, equal to the amount of energy required to raise the temperature of 1 gram of water by 1 degree Celsius (also known as a 'small calorie').",
+      "DEF_ZH":"热量或能量单位，等于使1克水的温度升高1摄氏度所需的能量（亦称“小卡”）。",
+      "SENT_EN":"In physics, a calorie is a very small unit of energy.",
+      "SENT_ZH":"在物理学中，卡路里是一个非常小的能量单位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "joule",
+            "BTU",
+            "thermodynamics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a calorie | calories",
+      "POS":"noun",
+      "POS_TIP":"A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "nutrition",
+        "dietetics"
+      ],
+      "DEF_EN":"A unit of energy used to express the energy value of food, equal to one kilocalorie (1000 calories). Often capitalized (Calorie) in scientific contexts but commonly lowercase when referring to food energy.",
+      "DEF_ZH":"营养学中的能量单位，通常指千卡（1000卡路里），用于衡量食物所含的能量值。在科学语境中常大写为“Calorie”，但在日常谈论食物能量时通常小写。",
+      "SENT_EN":"This energy drink contains 150 calories per serving.",
+      "SENT_ZH":"这种能量饮料每份含有150卡路里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kilocalorie"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "energy",
+            "metabolism",
+            "diet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in scientific contexts, nutrition, health, and everyday conversation."
+}

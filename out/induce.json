@@ -1,0 +1,109 @@
+{
+  "WORD":"induce",
+  "IPA":"/ɪnˈduːs/",
+  "CONJUGATES":"induces | induced | inducing",
+  "ETYMOLOGY":"From Latin inducere (in- 'into' + ducere 'to lead'), meaning 'to lead into, introduce, influence'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"induce [sb] to [do sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr: transitive verb; prep: preposition",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To succeed in persuading or influencing someone to do something.",
+      "DEF_ZH":"说服；劝导；诱使（某人做某事）",
+      "SENT_EN":"No amount of pressure could induce him to sign the contract.",
+      "SENT_ZH":"再多的压力也无法诱使他签署合同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "persuade",
+            "convince",
+            "prompt",
+            "influence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dissuade",
+            "discourage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"induce [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "core word",
+        "academic"
+      ],
+      "DEF_EN":"To cause an event or condition to happen, often intentionally or chemically.",
+      "DEF_ZH":"导致；引起；造成（某事件或状况）",
+      "SENT_EN":"The chemical reaction induced a sudden drop in temperature.",
+      "SENT_ZH":"化学反应导致了温度的突然下降。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cause",
+            "trigger",
+            "generate",
+            "bring about"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"induce [labor/delivery]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"To start the process of childbirth artificially, usually using medication.",
+      "DEF_ZH":"催生；引产",
+      "SENT_EN":"The doctor decided to induce labor two weeks early for the mother's safety.",
+      "SENT_ZH":"为了母亲的安全，医生决定提前两周引产。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "induction",
+            "epidural"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"induce [current/voltage]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"To produce an electrical current, voltage, or magnetic field by the process of electromagnetic induction.",
+      "DEF_ZH":"感应；感生（电或磁）",
+      "SENT_EN":"Moving a magnet near a coil of wire will induce a current.",
+      "SENT_ZH":"在导线线圈附近移动磁铁会产生感应电流。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "induction",
+            "electromagnetism"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Medical, Scientific"
+}

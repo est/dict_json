@@ -1,0 +1,87 @@
+{
+  "WORD":"waterfall",
+  "IPA":"/ˈwɔːtərfɔːl/",
+  "CONJUGATES":"waterfalls",
+  "ETYMOLOGY":"Compound of 'water' (from Old English wæter) and 'fall' (from Old English feallan).",
+  "SINCE":"c. 1580s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (Countable)",
+      "TAGS":[
+        "core word",
+        "nature",
+        "common"
+      ],
+      "DEF_EN":"A cascade of water falling from a height, formed when a river or stream flows over a precipice.",
+      "DEF_ZH":"河流或溪流流经陡峭悬崖时，水从高处落下的自然景观；瀑布。",
+      "SENT_EN":"The tourists stopped at the observation deck to admire the powerful waterfall.",
+      "SENT_ZH":"游客们在观景台停下来欣赏那气势磅礴的瀑布。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cascade",
+            "cataract"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rapids",
+            "dam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a waterfall of [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun (Figurative)",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A large, copious, or cascading descent, flow, or arrangement, typically used metaphorically for hair, fabric, or sound.",
+      "DEF_ZH":"形容大量、倾泻而下的物体（如长发、布料或声音）；流泻物。",
+      "SENT_EN":"A waterfall of dark curls framed her face.",
+      "SENT_ZH":"一头深色的卷发流泻下来，勾勒出她的脸庞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "torrent",
+            "deluge",
+            "flow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the Waterfall Model",
+      "POS":"noun",
+      "POS_TIP":"Noun (Technical or Jargon)",
+      "TAGS":[
+        "jargon",
+        "technical",
+        "management"
+      ],
+      "DEF_EN":"A sequential design process used in software development processes, in which progress flows steadily downwards through phases (conception, initiation, analysis, design, construction, testing, deployment, and maintenance).",
+      "DEF_ZH":"（软件工程中的）瀑布模型。一种循序渐进的项目管理方法，要求在一个阶段完成后才能进入下一个阶段。",
+      "SENT_EN":"Many companies are moving away from the Waterfall methodology toward Agile development.",
+      "SENT_ZH":"许多公司正从瀑布模型转向敏捷开发。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Agile",
+            "SCRUM",
+            "methodology"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in geographical or technical contexts."
+}

@@ -1,0 +1,80 @@
+{
+  "WORD":"growl",
+  "IPA":"/ɡraʊl/",
+  "CONJUGATES":"growls | growling | growled",
+  "ETYMOLOGY":"Probably of Germanic origin, ultimately imitative (onomatopoeic). Related to Middle Dutch grollen (to grumble, rumble).",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"growl [vi]",
+      "POS":"vi",
+      "POS_TIP":"vi: intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a low, guttural sound, typically associated with an animal (like a dog or bear) showing anger or menace.",
+      "DEF_ZH":"发出低沉的、喉音的声音，通常指动物（如狗或熊）表达愤怒或威胁。",
+      "SENT_EN":"The watch dog started to growl whenever anyone came near the fence.",
+      "SENT_ZH":"每当有人靠近围栏时，那只看门狗就开始低吼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snarl",
+            "grumble",
+            "rumble",
+            "menace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"growl [vi] | growl [vt] [sth]",
+      "POS":"vi | vtr",
+      "POS_TIP":"vi: intransitive verb | vtr: transitive verb",
+      "TAGS":[
+        "core word",
+        "human speech"
+      ],
+      "DEF_EN":"To utter something in a low, rough tone, often expressing annoyance, disapproval, or complaint.",
+      "DEF_ZH":"以低沉、粗犷的语调说出某事，通常表示烦躁、不满或抱怨。",
+      "SENT_EN":"\"I told you not to do that,\" he growled under his breath.",
+      "SENT_ZH":"“我告诉过你不要那样做，”他低声咕哝道。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mutter",
+            "grumble",
+            "complain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a growl [n]",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A low, guttural sound made by an animal or person.",
+      "DEF_ZH":"动物或人发出的低沉的喉音。",
+      "SENT_EN":"We heard a faint growl coming from the bushes.",
+      "SENT_ZH":"我们听到灌木丛中传来一阵微弱的低吼声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snarl",
+            "rumble",
+            "grumble"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

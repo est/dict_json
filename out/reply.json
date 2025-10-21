@@ -1,0 +1,63 @@
+{
+  "WORD":"reply",
+  "IPA":"/rɪˈplaɪ/",
+  "CONJUGATES":"replies | replied | replying",
+  "ETYMOLOGY":"From Old French replier 'to fold back, to reply', from Latin replicare 'to fold back, fold up, reply', from re- 'back' + plicare 'to fold'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"reply (to [sth]/[sb])",
+      "POS":"v.intr. | v.tr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To say or write something as an answer or response.",
+      "DEF_ZH":"回答；答复；回应",
+      "SENT_EN":"She didn't reply to my email immediately.",
+      "SENT_ZH":"她没有立即回复我的邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "answer",
+            "respond",
+            "retort"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignore",
+            "disregard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a reply (to [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An answer or response, either spoken or written.",
+      "DEF_ZH":"回答；答复；回应",
+      "SENT_EN":"I'm still waiting for a reply to my job application.",
+      "SENT_ZH":"我仍在等待我的工作申请的答复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "answer",
+            "response",
+            "comeback"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

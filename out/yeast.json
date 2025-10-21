@@ -1,0 +1,79 @@
+{
+  "WORD":"yeast",
+  "IPA":"/jiːst/",
+  "CONJUGATES":"yeasts",
+  "ETYMOLOGY":"From Old English gīest, from Proto-Germanic *jestiz (compare Dutch gist, German Gischt 'foam, yeast'), from Proto-Indo-European *yes- 'to boil, foam, bubble' (compare Greek zestos 'boiled, hot').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"yeast",
+      "POS":"n. mass | n. count",
+      "POS_TIP":"noun, usually treated as mass noun but can be countable when referring to types or quantities",
+      "TAGS":[
+        "core word",
+        "biology",
+        "cooking"
+      ],
+      "DEF_EN":"A microscopic fungus consisting of single oval cells that reproduce by budding, especially one of the species (Saccharomyces cerevisiae) used in brewing beer and making bread dough rise.",
+      "DEF_ZH":"一种由单个椭圆形细胞组成的微小真菌，通过出芽繁殖，尤指用于酿造啤酒和使面包面团膨胀的物种（酿酒酵母）。",
+      "SENT_EN":"Add a teaspoon of dry yeast to the warm water to activate it.",
+      "SENT_ZH":"将一茶匙干酵母加入温水中以激活它。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fungus",
+            "microorganism",
+            "sourdough"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"yeast [sth] | the yeast of [sth]",
+      "POS":"n. mass | n. abstract",
+      "POS_TIP":"noun, abstract or figurative usage",
+      "TAGS":[
+        "figurative",
+        "rare"
+      ],
+      "DEF_EN":"Something that causes growth, excitement, or change; a fermenting or stimulating element.",
+      "DEF_ZH":"导致成长、兴奋或变化的因素；一种发酵或刺激性的元素。",
+      "SENT_EN":"The new ideas acted as the yeast for significant social change.",
+      "SENT_ZH":"这些新思想是引发重大社会变革的酵母。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ferment",
+            "catalyst",
+            "stimulus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"yeast (infection)",
+      "POS":"n. mass",
+      "POS_TIP":"noun, medical context",
+      "TAGS":[
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A common name for a localized infection caused by a fungus of the genus Candida, typically Candida albicans.",
+      "DEF_ZH":"念珠菌属（通常是白色念珠菌）引起的局部感染的俗称。",
+      "SENT_EN":"She was prescribed medication to treat the yeast infection.",
+      "SENT_ZH":"她被开具了治疗酵母菌感染的药物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "candidiasis",
+            "thrush"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Biology, Culinary Arts"
+}

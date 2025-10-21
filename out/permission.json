@@ -1,0 +1,74 @@
+{
+  "WORD":"permission",
+  "IPA":"/pərˈmɪʃən/",
+  "CONJUGATES":"plural permissions",
+  "ETYMOLOGY":"From Old French permission, from Latin permissio, from permittere ('to allow, let go'), based on per- ('through') + mittere ('send').",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"give | grant | ask for | have permission [to do sth]",
+      "POS":"n [uncountable]",
+      "POS_TIP":"Noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"The official process, act, or state of allowing someone to do something; authorization or consent.",
+      "DEF_ZH":"允许；许可；批准（指行为或状态）",
+      "SENT_EN":"You must obtain written permission from the manager before using the equipment.",
+      "SENT_ZH":"在使用该设备之前，你必须获得经理的书面许可。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "authorization",
+            "consent",
+            "approval",
+            "leave"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "prohibition",
+            "denial",
+            "refusal"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "permit",
+            "license"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a permission | permissions",
+      "POS":"n [countable]",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "formal",
+        "specific grant",
+        "less common"
+      ],
+      "DEF_EN":"A specific grant or authorization, often formalized as a document or specific right (often used interchangeably with 'permit').",
+      "DEF_ZH":"许可文件；特别授权（可数形式，不如 permit 常用）",
+      "SENT_EN":"The project required several environmental permissions before construction could begin.",
+      "SENT_ZH":"该项目在开始施工前需要几项环境许可。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "permit",
+            "license",
+            "authorization"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, common in legal and administrative contexts."
+}

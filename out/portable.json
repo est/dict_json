@@ -1,0 +1,80 @@
+{
+  "WORD":"portable",
+  "IPA":"/ˈpɔːrtəbəl/",
+  "CONJUGATES":"portables",
+  "ETYMOLOGY":"From Old French portable, from Late Latin portabilis ('that can be carried'), from Latin portare ('to carry').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] portable",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Easily movable or transferable, especially by hand or by a single person.",
+      "DEF_ZH":"易于携带或搬运的，特别是用手或由一个人就能搬动的。",
+      "SENT_EN":"They bought a small portable radio for the camping trip.",
+      "SENT_ZH":"他们为野营旅行买了一个小的便携式收音机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handheld",
+            "movable",
+            "compact",
+            "lightweight",
+            "transportable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fixed",
+            "immobile",
+            "stationary",
+            "unportable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] portable",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"In computing, referring to software that can run on different operating systems or hardware platforms with minimal modification.",
+      "DEF_ZH":"（在计算机领域）指软件可以在不同的操作系统或硬件平台上运行，只需很少或无需修改。",
+      "SENT_EN":"The programming language was designed to be highly portable across various systems.",
+      "SENT_ZH":"该编程语言被设计成在各种系统上都具有高度的移植性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cross-platform",
+            "transferable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a portable [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "countable"
+      ],
+      "DEF_EN":"A portable object or device, especially a small computer or radio.",
+      "DEF_ZH":"便携式物品或设备，尤指小型计算机或收音机。",
+      "SENT_EN":"He took his portable into the garden to finish his work.",
+      "SENT_ZH":"他把他的便携式电脑带到花园里完成工作。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, common in technology and consumer goods."
+}

@@ -1,0 +1,63 @@
+{
+  "WORD":"sodium",
+  "IPA":"/ˈsoʊdiəm/",
+  "CONJUGATES":"sodiums",
+  "ETYMOLOGY":"Coined in 1807 by Humphry Davy from the word soda (referring to sodium carbonate compounds), which is ultimately derived from Medieval Latin sodanum and possibly Arabic suwwād (a type of saltwort).",
+  "SINCE":"1807",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "element"
+      ],
+      "DEF_EN":"A soft, silvery-white, highly reactive alkali metal, chemical element with atomic number 11 and symbol Na. It is never found free in nature but is abundant in compounds like sodium chloride (table salt).",
+      "DEF_ZH":"一种柔软、银白色、高活性的碱金属元素，化学符号为Na，原子序数为11。它在自然界中从不以游离态存在，但在氯化钠（食盐）等化合物中含量丰富。",
+      "SENT_EN":"Sodium must be stored under oil because it reacts violently with water.",
+      "SENT_ZH":"钠必须储存在油下，因为它与水剧烈反应。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Na",
+            "alkali metal",
+            "potassium"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"limit/reduce sodium",
+      "POS":"noun",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "common use",
+        "dietary",
+        "medical"
+      ],
+      "DEF_EN":"In a medical or dietary context, referring specifically to the intake or concentration of sodium ions (salts) in the body or food, crucial for regulating fluid balance and nerve function.",
+      "DEF_ZH":"在医疗或饮食语境中，特指体内或食物中钠离子（盐分）的摄入量或浓度，对调节体液平衡和神经功能至关重要。",
+      "SENT_EN":"The doctor advised him to cut back on sodium to lower his blood pressure.",
+      "SENT_ZH":"医生建议他减少钠摄入量以降低血压。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "salt"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hyponatremia",
+            "hypertension"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, Chemistry, Medicine"
+}

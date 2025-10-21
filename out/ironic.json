@@ -1,0 +1,71 @@
+{
+  "WORD":"ironic",
+  "IPA":"/aɪˈrɒnɪk/",
+  "CONJUGATES":"irony (noun) | ironically (adverb)",
+  "ETYMOLOGY":"From Late Latin ironicus, via Greek eirōnikos, ultimately derived from Greek eirōneia ('feigned ignorance'), which forms the basis for the English noun 'irony' (c. 1500s).",
+  "SINCE":"c. 1590s (adjective form)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is ironic",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Characterized by or constituting a situation in which the outcome is contrary to what was expected, often in an amusing or poignant way (situational irony).",
+      "DEF_ZH":"（指情況）具有諷刺意味的；出乎意料地適得其反的。",
+      "SENT_EN":"It was ironic that the swimming coach drowned in the shallow end of the pool.",
+      "SENT_ZH":"游泳教練竟然淹死在泳池的淺水區，這真具有諷刺意味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "paradoxical",
+            "contradictory",
+            "unexpected"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "situational irony",
+            "coincidence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[manner] is ironic | [tone] is ironic",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "rhetoric"
+      ],
+      "DEF_EN":"Using or characterized by the use of words to express something different from and often opposite to their literal meaning (verbal irony), usually intended to be humorous or sardonic.",
+      "DEF_ZH":"（指表達方式或語氣）使用反語的；挖苦的；諷刺的。",
+      "SENT_EN":"His ironic praise made it clear he actually hated the presentation.",
+      "SENT_ZH":"他那諷刺性的讚揚表明他其實討厭那個演示文稿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sarcastic",
+            "sardonic",
+            "mocking",
+            "dry"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "verbal irony",
+            "satirical"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, widely used in conversation and literature."
+}

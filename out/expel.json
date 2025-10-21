@@ -1,0 +1,76 @@
+{
+  "WORD":"expel",
+  "IPA":"/ɪkˈspɛl/",
+  "CONJUGATES":"expels | expelled | expelling",
+  "ETYMOLOGY":"From Middle English, from Old French expeller, from Latin expellere (ex- 'out' + pellere 'to drive, push').",
+  "SINCE":"c. 1400s (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"expel [sb] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; requires a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To officially force someone to leave a school, organization, country, or location, often as a punishment.",
+      "DEF_ZH":"正式地将某人从学校、组织、国家或地点驱逐出去，通常作为惩罚。",
+      "SENT_EN":"The diplomat was expelled from the country after being accused of espionage.",
+      "SENT_ZH":"该外交官因被指控从事间谍活动而被驱逐出境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "eject",
+            "exclude",
+            "banish",
+            "oust"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "admit",
+            "welcome",
+            "enrol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"expel [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; requires a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To force or push something out of a body, container, or location; to discharge or eject.",
+      "DEF_ZH":"将某物从身体、容器或某处强行推出或排出；排出。",
+      "SENT_EN":"The lungs expel carbon dioxide when we breathe out.",
+      "SENT_ZH":"当我们呼气时，肺部会排出二氧化碳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "eject",
+            "discharge",
+            "emit",
+            "evacuate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "retain",
+            "absorb",
+            "inhale"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and professional contexts (legal, institutional, scientific)."
+}

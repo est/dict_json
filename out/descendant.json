@@ -1,0 +1,67 @@
+{
+  "WORD":"descendant",
+  "IPA":"/dɪˈsɛndənt/",
+  "CONJUGATES":"descendants",
+  "ETYMOLOGY":"From Old French *descendre* (to descend), influenced by Latin *descendens*, present participle of *descendere* ('to climb down, descend'). The noun meaning 'one who descends from an ancestor' emerged in the early 17th century.",
+  "SINCE":"17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"descendant [of sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that names something (such as a person, place, thing, or idea).",
+      "TAGS":[
+        "core word",
+        "genealogy",
+        "biology"
+      ],
+      "DEF_EN":"A person, animal, or plant that is descended from a particular ancestor; offspring.",
+      "DEF_ZH":"子孙；后裔；后代。",
+      "SENT_EN":"She claims to be a direct descendant of the famous explorer.",
+      "SENT_ZH":"她自称是那位著名探险家的直系后裔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offspring",
+            "progeny",
+            "heir",
+            "posterity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ancestor",
+            "forerunner",
+            "predecessor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"descendant [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that names something (such as a person, place, thing, or idea).",
+      "TAGS":[
+        "technical",
+        "linguistics",
+        "computing"
+      ],
+      "DEF_EN":"Something, such as a language or technological system, that develops or derives from an earlier, similar form.",
+      "DEF_ZH":"派生形式；衍生物；（语言、技术等的）后继者。",
+      "SENT_EN":"Modern French is a descendant of Vulgar Latin spoken in Gaul.",
+      "SENT_ZH":"现代法语是高卢地区使用的通俗拉丁语的衍生物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "derivative",
+            "outgrowth",
+            "successor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal/General"
+}

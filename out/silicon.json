@@ -1,0 +1,58 @@
+{
+  "WORD":"silicon",
+  "IPA":"/ˈsɪlɪkən/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Coined in 1817 by Scottish chemist Thomas Thomson, combining Latin *silex* (genitive *silicis*, meaning 'flint' or 'pebble') with the non-metal element suffix -on (by analogy with boron and carbon).",
+  "SINCE":"1817",
+  "MEANINGS":[
+    {
+      "PATTERN":"silicon",
+      "POS":"n",
+      "POS_TIP":"noun (mass/uncountable)",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "technical"
+      ],
+      "DEF_EN":"A hard, brittle, nonmetallic chemical element, symbol Si, atomic number 14. It is the second most abundant element in the Earth's crust, found mainly in silicates and silica, and used extensively in electronics as a semiconductor.",
+      "DEF_ZH":"一种坚硬、易碎的非金属化学元素，符号为Si，原子序数14。它是地壳中第二丰富的元素，主要以硅酸盐和二氧化硅的形式存在，并广泛用于电子工业中作为半导体材料。",
+      "SENT_EN":"Modern microchips are fabricated on wafers made of highly purified silicon.",
+      "SENT_ZH":"现代微芯片是在用高纯度硅制成的晶圆上制造的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "semiconductor",
+            "silica",
+            "silicone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"silicon",
+      "POS":"n",
+      "POS_TIP":"noun (used attributively or as a synecdoche)",
+      "TAGS":[
+        "synecdoche",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"Used informally or attributively to refer to the high-technology industries, particularly those involving computers, microelectronics, and software, often referencing a geographical area like Silicon Valley.",
+      "DEF_ZH":"（非正式或作定语）指代高科技产业，特别是涉及计算机、微电子和软件的产业，常指代如硅谷等地理区域。",
+      "SENT_EN":"The startup scene is booming, with investors pouring capital into new silicon ventures.",
+      "SENT_ZH":"创业景象蓬勃发展，投资者正在向新的硅谷企业注入资金。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Silicon Valley",
+            "tech",
+            "IT"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, Technical, General usage in technology contexts."
+}

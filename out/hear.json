@@ -1,0 +1,85 @@
+{
+  "WORD":"hear",
+  "IPA":"/hɪr/",
+  "CONJUGATES":"hears | hearing | heard",
+  "ETYMOLOGY":"From Old English hīeran, from Proto-Germanic *hauzijaną (to hear, listen, obey).",
+  "SINCE":"Old English (c. 8th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"hear [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr: transitive verb (takes direct object) | vi: intransitive verb (does not take direct object)",
+      "TAGS":[
+        "core word",
+        "sense perception"
+      ],
+      "DEF_EN":"To perceive or become aware of sound through the ears.",
+      "DEF_ZH":"通过耳朵感知到声音。",
+      "SENT_EN":"I could clearly hear the sound of the ocean waves.",
+      "SENT_ZH":"我能清楚地听到海浪的声音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "listen to",
+            "perceive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sound",
+            "audible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hear (that) [clause] | hear [sth] from [sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes direct object)",
+      "TAGS":[
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To receive information, news, or a message; to be informed.",
+      "DEF_ZH":"获悉；听说；得到消息。",
+      "SENT_EN":"Have you heard that they are moving to London next year?",
+      "SENT_ZH":"你听说他们明年要搬到伦敦去了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "learn",
+            "discover",
+            "be told"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hear [sb] out | hear [case]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (takes direct object)",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To listen formally to evidence, arguments, or a plea, especially in a court of law; to try a case.",
+      "DEF_ZH":"（正式地，尤指法庭）听取（证据、辩论或请求）；审理（案件）。",
+      "SENT_EN":"The committee decided to hear arguments from both sides before making a decision.",
+      "SENT_ZH":"委员会决定在作出决定前听取双方的论据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjudicate",
+            "examine",
+            "listen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

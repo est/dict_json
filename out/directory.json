@@ -1,0 +1,71 @@
+{
+  "WORD":"directory",
+  "IPA":"/dɪˈrɛktəri/",
+  "CONJUGATES":"directories",
+  "ETYMOLOGY":"From Late Latin *directorius* (adjective, 'belonging to guidance'), derived from Latin *directus* (past participle of *dirigere* 'to direct, guide'). Used as a noun meaning 'book of directions or guidance' since the mid-17th century.",
+  "SINCE":"1640s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] directory",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Core word",
+        "Computing"
+      ],
+      "DEF_EN":"A file system cataloging structure which contains references to other computer files, and potentially other directories (folders).",
+      "DEF_ZH":"文件系统中用于组织和存储文件及其他目录的结构；文件夹。",
+      "SENT_EN":"Make sure you save the files in the correct subdirectory.",
+      "SENT_ZH":"确保你将文件保存在正确的子目录中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "folder",
+            "catalogue",
+            "path"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] directory",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Common",
+        "Guide"
+      ],
+      "DEF_EN":"A book or list containing the names, addresses, and phone numbers of people or organizations, often categorized by profession or location.",
+      "DEF_ZH":"名录；指南；（尤指）电话簿或地址簿。",
+      "SENT_EN":"We consulted the business directory to find a local printer.",
+      "SENT_ZH":"我们查阅了商业名录以找到一家本地印刷商。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "register",
+            "listing",
+            "index",
+            "roster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The Directory",
+      "POS":"pn",
+      "POS_TIP":"Proper Noun (usually capitalized)",
+      "TAGS":[
+        "Historical",
+        "Formal"
+      ],
+      "DEF_EN":"(Historical) The government ruling France between the end of the National Convention and the start of the Consulate (1795–1799).",
+      "DEF_ZH":"(历史) 督政府；指法国大革命时期在1795年至1799年间拥有行政权力的五人执政团。",
+      "SENT_EN":"Napoleon's coup d'état overthrew The Directory in 1799.",
+      "SENT_ZH":"拿破仑的政变于1799年推翻了督政府。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Technical (Computing)"
+}

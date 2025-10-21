@@ -1,0 +1,66 @@
+{
+  "WORD":"ensure",
+  "IPA":"/ɪnˈʃʊər/",
+  "CONJUGATES":"ensuring | ensured | ensures",
+  "ETYMOLOGY":"From Middle English *ensuren*, derived from Anglo-Norman *enseurer*, a variant of Old French *asseürer* (to assure), ultimately from Latin *sēcūrus* (secure, safe). Closely related to 'assure' and 'insure'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"ensure [sth] | ensure that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Core",
+        "Common",
+        "Formal"
+      ],
+      "DEF_EN":"To make certain that something will happen or be the case; to guarantee an outcome.",
+      "DEF_ZH":"确保；保证（某事发生或属实）；使某事确定无疑。",
+      "SENT_EN":"The manager took measures to ensure the project was completed on time.",
+      "SENT_ZH":"经理采取了措施以确保项目按时完成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guarantee",
+            "warrant",
+            "secure",
+            "certify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "assure",
+            "insure",
+            "certain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ensure [sb] [safety/success]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Formal",
+        "Resultative"
+      ],
+      "DEF_EN":"To secure or maintain safety, stability, or success for someone or something.",
+      "DEF_ZH":"为（某人或某事物）提供或维持安全、稳定或成功。",
+      "SENT_EN":"Good planning ensures the long-term viability of the business.",
+      "SENT_ZH":"良好的规划确保了企业长期的生存能力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provide",
+            "maintain",
+            "safeguard"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard and Formal English, frequent in business, legal, and technical writing."
+}

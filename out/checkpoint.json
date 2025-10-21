@@ -1,0 +1,77 @@
+{
+  "WORD":"checkpoint",
+  "IPA":"/ˈtʃɛkˌpɔɪnt/",
+  "CONJUGATES":"checkpoints",
+  "ETYMOLOGY":"Compound of 'check' and 'point'.",
+  "SINCE":"Early 20th century (first recorded in 1916 for military/border use).",
+  "MEANINGS":[
+    {
+      "PATTERN":"checkpoint",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "security",
+        "travel"
+      ],
+      "DEF_EN":"A barrier or controlled access point, especially on a road or at a border, where people or vehicles are stopped for inspection, identification, or security checks.",
+      "DEF_ZH":"（边境、安全等）检查站；关卡；盘查点。",
+      "SENT_EN":"We had to stop at several checkpoints along the border.",
+      "SENT_ZH":"我们在边境沿线必须在好几个检查站停下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barrier",
+            "control point",
+            "customs post",
+            "gate",
+            "tollgate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "border crossing",
+            "security check"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"checkpoint",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "computing",
+        "gaming",
+        "process"
+      ],
+      "DEF_EN":"A point in a process, game, or system where progress or status is saved, verified, or can be returned to, often to mark a significant stage or allow recovery from failure.",
+      "DEF_ZH":"（过程、游戏或系统中的）检查点，保存点；里程碑。",
+      "SENT_EN":"Don't forget to reach the next checkpoint to save your game progress.",
+      "SENT_ZH":"别忘了到达下一个检查点以保存你的游戏进度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "milestone",
+            "save point",
+            "waypoint"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "backup",
+            "recovery point"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,111 @@
+{
+  "WORD":"disconnect",
+  "IPA":"/ˌdɪskəˈnɛkt/",
+  "CONJUGATES":"disconnects | disconnected | disconnecting",
+  "ETYMOLOGY":"From Latin 'dis-' (prefix indicating negation or reversal) + 'connect' (from Latin 'conectere', from 'com-' 'together' + 'nectere' 'to bind, tie').",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"disconnect [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To break the connection of or between things; to detach or separate one thing from another.",
+      "DEF_ZH":"断开（某物）与（某物）的连接；分离；脱离。",
+      "SENT_EN":"Remember to disconnect the power cable before cleaning the computer.",
+      "SENT_ZH":"清洁电脑前，请记得断开电源线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "detach",
+            "uncouple",
+            "unplug",
+            "unhook",
+            "separate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "connect",
+            "attach",
+            "link",
+            "join"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disconnect (from [sth/sb])",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To become separated or isolated from something or someone, often emotionally or mentally.",
+      "DEF_ZH":"（情感上或精神上）脱离；疏远；失去联系。",
+      "SENT_EN":"He felt completely disconnected from reality after losing his job.",
+      "SENT_ZH":"失业后，他感到自己完全脱离了现实。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disengage",
+            "alienate",
+            "isolate",
+            "withdraw"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "engage",
+            "connect",
+            "relate",
+            "bond"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a disconnect (between [sth] and [sth])",
+      "POS":"n",
+      "POS_TIP":"noun (a person, place, thing, or idea)",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A lack of connection or communication; a gap or disparity, often between ideas, groups, or things.",
+      "DEF_ZH":"（思想、群体或事物之间的）脱节；缺乏联系；差异。",
+      "SENT_EN":"There's a significant disconnect between what the company promises and what it delivers.",
+      "SENT_ZH":"公司承诺的与实际交付的之间存在着巨大的脱节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gap",
+            "rift",
+            "chasm",
+            "discrepancy",
+            "disjunction"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "connection",
+            "link",
+            "cohesion",
+            "alignment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to slightly formal, especially the noun form."
+}

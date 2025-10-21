@@ -1,0 +1,109 @@
+{
+  "WORD":"general",
+  "IPA":"/ˈdʒɛnərəl/",
+  "CONJUGATES":"generals (n, pl) | generally (adv) | generality (n)",
+  "ETYMOLOGY":"From Old French general, from Latin generalis (of or pertaining to a genus, kind, or group), from genus (kind, origin).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"general [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Affecting or concerning all or most people, things, or cases; widespread or overall.",
+      "DEF_ZH":"普遍的；总体的；大多数情况下的。",
+      "SENT_EN":"The survey measured the general feeling of the population toward the new law.",
+      "SENT_ZH":"这项调查衡量了民众对新法律的普遍感受。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "universal",
+            "widespread",
+            "overall",
+            "common"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "specific",
+            "particular",
+            "exceptional"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"general [idea/description]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"Lacking specific detail; rough or vague.",
+      "DEF_ZH":"笼统的；不具体的；粗略的。",
+      "SENT_EN":"The architect gave us only a general idea of the cost, not a detailed quote.",
+      "SENT_ZH":"建筑师只给了我们一个笼统的费用概念，而不是详细的报价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vague",
+            "broad",
+            "approximate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "detailed",
+            "precise",
+            "specific"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"General [Name] | the General",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "military",
+        "rank"
+      ],
+      "DEF_EN":"A high-ranking officer in the army, air force, or marine corps.",
+      "DEF_ZH":"将军；上将（陆军、空军或海军陆战队的高级军官）。",
+      "SENT_EN":"The General ordered the troops to advance at dawn.",
+      "SENT_ZH":"将军命令部队在黎明时前进。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Colonel",
+            "Major",
+            "Captain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Director General | Attorney General",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "administration"
+      ],
+      "DEF_EN":"The chief official or head of a department or organization (often used in official titles).",
+      "DEF_ZH":"（机构或部门的）总负责人；首席官员（常用于官方头衔中）。",
+      "SENT_EN":"The Attorney General delivered a statement on the legal investigation.",
+      "SENT_ZH":"司法部长就法律调查发表了声明。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard"
+}

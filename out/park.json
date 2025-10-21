@@ -1,0 +1,113 @@
+{
+  "WORD":"park",
+  "IPA":"/pɑːrk/",
+  "CONJUGATES":"parks | parking | parked",
+  "ETYMOLOGY":"From Old French parc 'enclosed tract of land', of Germanic origin (compare Old English pearroc 'enclosure'). The verb sense 'to leave a vehicle' developed later.",
+  "SINCE":"c. 1300 (Noun); c. 1870 (Verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large public green area in a town or city, usually maintained for recreation and relaxation.",
+      "DEF_ZH":"城镇或城市中用于娱乐和休闲的大型公共绿地或区域。",
+      "SENT_EN":"We spent the afternoon having a picnic in the central park.",
+      "SENT_ZH":"我们下午在中央公园野餐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "green",
+            "garden",
+            "reserve"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "playground",
+            "national park"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"park [sth] | park",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "automotive"
+      ],
+      "DEF_EN":"To bring a vehicle to a stop and leave it temporarily in a designated or permitted place.",
+      "DEF_ZH":"将车辆开入一个允许或指定的空间并暂时停放。",
+      "SENT_EN":"I need to find a suitable place to park the car before the meeting.",
+      "SENT_ZH":"开会前，我需要找一个合适的地方停车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stop",
+            "leave"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "parking lot",
+            "valet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"park [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "automotive"
+      ],
+      "DEF_EN":"To put the automatic transmission of a vehicle into the 'Park' position (P), which locks the transmission and prevents movement.",
+      "DEF_ZH":"将车辆的自动变速箱置于‘驻车’档（P档），以锁定驱动轮。",
+      "SENT_EN":"Remember to park the transmission firmly when leaving the vehicle on a hill.",
+      "SENT_ZH":"在坡道上离开车辆时，记住要稳固地挂上P档。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "drive",
+            "reverse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific use"
+      ],
+      "DEF_EN":"An area of land set aside for a specific purpose, such as an industrial park or a theme park.",
+      "DEF_ZH":"为特定目的而划出的一片区域，例如工业园区或主题公园。",
+      "SENT_EN":"The tech startup is moving into an office space located in the business park.",
+      "SENT_ZH":"那家科技初创公司正搬到商业园区里的办公空间。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "zone",
+            "complex"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in conversational, administrative, and automotive contexts."
+}

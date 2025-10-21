@@ -1,0 +1,67 @@
+{
+  "WORD":"unskilled",
+  "IPA":"/ʌnˈskɪld/",
+  "CONJUGATES":"unskilledly | unskillfulness",
+  "ETYMOLOGY":"Formed from the prefix 'un-' (not) and 'skilled' (past participle of 'skill', derived from Old Norse skil 'distinction, discernment').",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] | [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lacking in or not having achieved adequate training, competence, or ability in a particular field or activity.",
+      "DEF_ZH":"缺乏必要训练、能力或熟练度的；不熟练的。",
+      "SENT_EN":"He was considered unskilled in welding and was assigned simpler tasks.",
+      "SENT_ZH":"他被认为不擅长焊接，因此被分配了更简单的任务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "untrained",
+            "inexperienced",
+            "incompetent",
+            "amateur",
+            "inept"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "skilled",
+            "proficient",
+            "expert",
+            "trained"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (labour/job)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "economic",
+        "sociological"
+      ],
+      "DEF_EN":"Relating to work or labor that does not require specialized knowledge, education, or high levels of technical training.",
+      "DEF_ZH":"（指劳动或工作）不需要专业知识或高度培训的；非技术性的。",
+      "SENT_EN":"The company relies heavily on unskilled labor for manufacturing assembly.",
+      "SENT_ZH":"该公司在制造组装方面严重依赖非技术性劳动力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nontechnical",
+            "manual",
+            "basic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, frequently used in economic and employment classification contexts."
+}

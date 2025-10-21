@@ -1,0 +1,117 @@
+{
+  "WORD":"diffuse",
+  "IPA":"/dɪˈfjuːs/",
+  "CONJUGATES":"diffuses | diffusing | diffused",
+  "ETYMOLOGY":"From Latin diffusus, past participle of diffundere 'to pour forth, spread out', from dis- 'apart' + fundere 'to pour'.",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"diffuse [sth]",
+      "POS":"vtr/vi",
+      "POS_TIP":"Transitive verb (takes a direct object) or Intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "physical"
+      ],
+      "DEF_EN":"To spread or scatter widely, especially (in physics) of a gas or liquid mixing, or light scattering.",
+      "DEF_ZH":"扩散；散播；渗透（指气体、液体或光线在空间中散开或混合）。",
+      "SENT_EN":"Heat diffuses slowly through solid materials.",
+      "SENT_ZH":"热量通过固体材料缓慢扩散。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spread",
+            "disperse",
+            "permeate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concentrate",
+            "gather"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diffuse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"To spread or circulate knowledge, ideas, or culture widely.",
+      "DEF_ZH":"传播；普及（思想、信息或文化）。",
+      "SENT_EN":"The organization's goal is to diffuse democratic ideals.",
+      "SENT_ZH":"该组织的目标是传播民主理念。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disseminate",
+            "circulate",
+            "propagate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Spread out over a wide area; not concentrated.",
+      "DEF_ZH":"分散的；不集中的；弥漫性的。",
+      "SENT_EN":"The light entering the studio was diffuse and soft.",
+      "SENT_ZH":"进入工作室的光线是弥散而柔和的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scattered",
+            "dispersed",
+            "unfocused"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"(Of writing or speech) lacking clarity or conciseness; wordy.",
+      "DEF_ZH":"冗长啰嗦的；不简洁的（指文章或言语）。",
+      "SENT_EN":"His lecture was interesting but often too diffuse.",
+      "SENT_ZH":"他的演讲很有趣，但常常过于冗长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "verbose",
+            "prolix",
+            "rambling"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concise",
+            "succinct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Scientific, Common"
+}

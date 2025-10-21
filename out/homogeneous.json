@@ -1,0 +1,85 @@
+{
+  "WORD":"homogeneous",
+  "IPA":"/ˌhoʊməˈdʒiːniəs/",
+  "CONJUGATES":"homogeneously (adv) | homogeneousness (n) | homogeneity (n)",
+  "ETYMOLOGY":"From Greek *homogenes* (of the same kind), from *homo-* (same) + *genos* (kind, sort, race).",
+  "SINCE":"Mid-17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is homogeneous",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Core Word",
+        "Science",
+        "Formal"
+      ],
+      "DEF_EN":"Consisting of parts or elements that are all of the same kind; uniform in structure or composition throughout.",
+      "DEF_ZH":"由相同性质的部分或元素组成；结构或构成在各处统一的；均匀的。",
+      "SENT_EN":"For the experiment to work, the solution must be completely homogeneous.",
+      "SENT_ZH":"为了使实验成功，溶液必须是完全均匀的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "uniform",
+            "consistent",
+            "unmixed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "heterogeneous",
+            "varied",
+            "mixed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a homogeneous [group/society]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Social Science",
+        "Formal"
+      ],
+      "DEF_EN":"Consisting of people or things that are all of the same kind.",
+      "DEF_ZH":"由性质或类型相同的人或事物组成的；同质的。",
+      "SENT_EN":"The small town was culturally homogeneous, with very few people from outside communities.",
+      "SENT_ZH":"这个小镇在文化上是同质的，很少有来自外部社区的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "monolithic",
+            "uniform"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "diverse",
+            "pluralistic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a homogeneous [function/equation]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Mathematics",
+        "Technical"
+      ],
+      "DEF_EN":"(Of a function or equation) having the property that when the variables are multiplied by a scalar, the result is the original function multiplied by some power of the scalar; or (of an algebraic equation) having all terms of the same degree.",
+      "DEF_ZH":"（数学）齐次的；指方程或函数中所有项具有相同的维度或次数。",
+      "SENT_EN":"Solving the homogeneous linear system is the first step in this calculation.",
+      "SENT_ZH":"解这个齐次线性系统是该计算的第一步。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Academic, Scientific, Formal"
+}

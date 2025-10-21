@@ -1,0 +1,87 @@
+{
+  "WORD":"petition",
+  "IPA":"/pəˈtɪʃən/",
+  "CONJUGATES":"petitions | petitioning | petitioned",
+  "ETYMOLOGY":"From Anglo-Norman peticiun, via Old French, ultimately from Latin petitiō ('request, solicitation'), derived from petere ('to seek, ask').",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"petition [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"A formal written request, often signed by many people, appealing to an authority concerning a particular cause.",
+      "DEF_ZH":"正式的书面请求，通常由多人签署，向权威机构提出，要求解决特定问题或争取某项权利。",
+      "SENT_EN":"The group started a petition calling for increased public funding for the local library.",
+      "SENT_ZH":"该团体发起了一项请愿书，要求增加对当地图书馆的公共资助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appeal",
+            "request",
+            "plea",
+            "supplication"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "referendum",
+            "lobbying"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"petition [sb/sth] [for sth]",
+      "POS":"vtr + vi",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To make a formal request to an official or legal authority.",
+      "DEF_ZH":"向官方或法律机构提出正式的请求或请愿。",
+      "SENT_EN":"They decided to petition the city council to halt the demolition of the historic building.",
+      "SENT_ZH":"他们决定向市议会请愿，要求停止拆除这座历史建筑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appeal to",
+            "apply to",
+            "beseech"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"petition [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "specialized"
+      ],
+      "DEF_EN":"(Law) A formal written application requesting a court order or other legal action, such as a petition for divorce or bankruptcy.",
+      "DEF_ZH":"（法律）正式的书面申请，请求法院颁布命令或采取其他法律行动，例如离婚申请或破产申请。",
+      "SENT_EN":"The lawyer filed a bankruptcy petition on behalf of the client.",
+      "SENT_ZH":"律师代表客户提交了破产申请。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suit",
+            "motion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and legal contexts, but also common in community activism."
+}

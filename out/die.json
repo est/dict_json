@@ -1,0 +1,174 @@
+{
+  "WORD":"die",
+  "IPA":"/daɪ/",
+  "CONJUGATES":"die | dies | dying | died",
+  "ETYMOLOGY":"Verb: From Old Norse deyja 'to die', of Germanic origin; related to Old English dīegan. \nNoun (for mould/tool/gaming cube): From Old French dé, from Latin datum 'given' (as in 'cast' or 'thrown'), past participle of dare 'to give'.",
+  "SINCE":"Verb: Before 900 AD (Old English/Old Norse influence). \nNoun: 14th century (gaming cube); 18th century (tool/mould).",
+  "MEANINGS":[
+    {
+      "PATTERN":"die [sb/sth]",
+      "POS":"v.intr.",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "fundamental"
+      ],
+      "DEF_EN":"To stop living; to cease to exist or function.",
+      "DEF_ZH":"停止生命；死亡；灭绝；停止运作。",
+      "SENT_EN":"Many plants die in the winter. The battery died after an hour.",
+      "SENT_ZH":"许多植物在冬天会死去。电池一小时后没电了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expire",
+            "perish",
+            "pass away",
+            "decease"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "live",
+            "be born"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "death",
+            "deceased",
+            "dying"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"die (of/from [sth])",
+      "POS":"v.intr.",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To suffer death as a result of a specific cause or condition.",
+      "DEF_ZH":"因某种特定原因或状况而死亡。",
+      "SENT_EN":"He died of a heart attack. Many soldiers died from their wounds.",
+      "SENT_ZH":"他死于心脏病发作。许多士兵因伤势过重而死亡。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cause of death",
+            "fatal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"die down | die out",
+      "POS":"v.phrasal",
+      "POS_TIP":"phrasal verb (a verb combined with an adverb or a preposition, or both, to give a new meaning)",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To gradually decrease, fade, or become extinct.",
+      "DEF_ZH":"逐渐减弱、消失或灭绝。",
+      "SENT_EN":"The applause eventually died down. Dinosaurs died out millions of years ago.",
+      "SENT_ZH":"掌声最终逐渐平息。恐龙在数百万年前灭绝了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fade",
+            "subside",
+            "vanish",
+            "disappear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be dying for [sth] | be dying to [do sth]",
+      "POS":"v.intr.",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "common",
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To want something very much; to be extremely eager or desirous.",
+      "DEF_ZH":"非常渴望某事；非常想做或拥有某物。",
+      "SENT_EN":"I'm dying for a cup of coffee. She's dying to meet him.",
+      "SENT_ZH":"我特别想喝杯咖啡。她非常想见他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crave",
+            "long for",
+            "yearn for",
+            "ache for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a die | dies (plural)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "specific",
+        "manufacturing"
+      ],
+      "DEF_EN":"A shaped block or mould used for stamping, cutting, or forming material.",
+      "DEF_ZH":"用于冲压、切割或成形材料的成形块或模具。",
+      "SENT_EN":"The car parts were produced using a metal die.",
+      "SENT_ZH":"汽车零件是用金属模具生产的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mould",
+            "stamp",
+            "template"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "die-casting",
+            "die-cut"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a die | dice (plural)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "gaming"
+      ],
+      "DEF_EN":"A small cube marked on each side with one to six spots, used in games of chance. (The plural 'dice' is more commonly used even when referring to a single cube).",
+      "DEF_ZH":"一个每面标有一到六个点的小立方体，用于机会游戏。（复数 'dice' 即使指单个立方体也更常用）。",
+      "SENT_EN":"He rolled a six on the die. We need two dice for this game.",
+      "SENT_ZH":"他掷了一个六点。这个游戏我们需要两颗骰子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dice",
+            "craps",
+            "board game"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The verb forms are standard in general English. The idiomatic expressions are common and often informal. The noun forms related to manufacturing are technical, while the gaming noun is common within that context."
+}

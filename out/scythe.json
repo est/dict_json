@@ -1,0 +1,87 @@
+{
+  "WORD":"scythe",
+  "IPA":"/saɪð/",
+  "CONJUGATES":"scythes | scything | scythed",
+  "ETYMOLOGY":"From Old English sīþe (related to Middle Dutch segense and Old High German segansa). The intrusive 'c' was added in the 15th–16th century, likely influenced by Latin scindere (to cut).",
+  "SINCE":"Before 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (tool)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "tool",
+        "agricultural",
+        "historical"
+      ],
+      "DEF_EN":"A long-handled tool with a long, curved blade used for manually mowing grass, grain, or other crops. It is often depicted as the instrument of the Grim Reaper.",
+      "DEF_ZH":"一种带有长柄和长而弯曲的刀片的农具，用于手动割草、谷物或其他农作物。通常被描绘成死神（Grim Reaper）的工具。",
+      "SENT_EN":"The farmer adjusted the handle of the scythe before beginning his work in the meadow.",
+      "SENT_ZH":"那位农民在开始草地上的工作之前调整了长柄镰刀的手柄。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mower"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sickle",
+            "reaper"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scythe [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "agricultural"
+      ],
+      "DEF_EN":"To cut or mow grass, grain, or other crops using a scythe.",
+      "DEF_ZH":"使用长柄镰刀割（草、谷物等）。",
+      "SENT_EN":"They scythed the whole field in two days.",
+      "SENT_ZH":"他们两天之内就割完了整块田地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mow",
+            "reap",
+            "cut down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scythe [sb] down | scythe [sth] down",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb + adverb",
+      "TAGS":[
+        "figurative",
+        "literary",
+        "violent"
+      ],
+      "DEF_EN":"To eliminate or destroy a large number of people or things in a quick and sweeping manner.",
+      "DEF_ZH":"比喻性地，以迅速、大范围的方式清除或摧毁大量的人或物。",
+      "SENT_EN":"The machine gun fire scythed down the advancing soldiers.",
+      "SENT_ZH":"机枪火力扫倒了冲锋的士兵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slaughter",
+            "decimate",
+            "wipe out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in historical or agricultural context."
+}

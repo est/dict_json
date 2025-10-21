@@ -1,0 +1,123 @@
+{
+  "WORD":"inform",
+  "IPA":"/ɪnˈfɔːrm/",
+  "CONJUGATES":"informs | informing | informed",
+  "ETYMOLOGY":"From Old French enformer (13th century), from Latin informare 'to give form to, to describe', later 'to instruct'. From in- 'into' + forma 'form, shape'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"inform [sb] (of/about [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To tell someone about a particular fact or situation; to give someone information.",
+      "DEF_ZH":"告知某人某事；通知",
+      "SENT_EN":"Please inform us of any changes to your travel plans.",
+      "SENT_ZH":"请将您的旅行计划变更告知我们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notify",
+            "apprise",
+            "acquaint",
+            "advise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "hide",
+            "withhold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inform [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To have a strong influence on the way something develops or is structured.",
+      "DEF_ZH":"影响；是……的基础/依据；构成……的指导原则",
+      "SENT_EN":"The philosophy of existentialism deeply informs his artistic works.",
+      "SENT_ZH":"存在主义哲学深刻地影响了他的艺术作品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "influence",
+            "shape",
+            "guide",
+            "inspire",
+            "constitute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inform (on [sb])",
+      "POS":"vitr",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "common",
+        "informal",
+        "negative connotation"
+      ],
+      "DEF_EN":"To give secret information about someone, especially to the police or other authorities.",
+      "DEF_ZH":"告发；检举；打小报告",
+      "SENT_EN":"He was suspected of informing on his colleagues to the management.",
+      "SENT_ZH":"他被怀疑向管理层告发他的同事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snitch",
+            "rat (on)",
+            "report (on)"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[be] informed",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun), often used as a predicate adjective",
+      "TAGS":[
+        "common",
+        "derived meaning",
+        "important"
+      ],
+      "DEF_EN":"Having a lot of knowledge about a particular subject or situation; based on knowledge.",
+      "DEF_ZH":"消息灵通的；见多识广的；基于信息的",
+      "SENT_EN":"It's important to make an informed decision.",
+      "SENT_ZH":"做出明智的决定很重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "knowledgeable",
+            "educated",
+            "aware",
+            "well-informed"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "uninformed",
+            "ignorant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to informal, depending on the meaning; the adjective form is widely used across registers."
+}

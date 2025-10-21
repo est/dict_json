@@ -1,0 +1,89 @@
+{
+  "WORD":"version",
+  "IPA":"/ˈvɜːrʒən/",
+  "CONJUGATES":"versions (plural) | versioned (past tense/past participle, less common) | versioning (present participle/gerund)",
+  "ETYMOLOGY":"From Old French version, from Latin versio ('a turning, turn, change'), derived from versus, past participle of vertere ('to turn'). The sense of a specific release (like software) dates to the late 19th century.",
+  "SINCE":"Mid 14th century (as translation/account)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] version [of sth]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A particular form of an account, story, or statement, especially one differing in some details from others.",
+      "DEF_ZH":"（对事件、故事或陈述的）特定形式、说法或描述，尤指与其他说法在细节上有所不同的。",
+      "SENT_EN":"Both witnesses gave different versions of the accident, making it hard to determine the truth.",
+      "SENT_ZH":"两位目击者对事故给出了不同的说法，这使得确定真相变得困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "account",
+            "report",
+            "interpretation",
+            "narrative"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "perspective",
+            "viewpoint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] version [of sth]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A specific iteration, release, or model of a product (such as software, hardware, or music) that differs in features or stage of development from previous or subsequent forms.",
+      "DEF_ZH":"某产品（如软件、硬件或音乐）的特定迭代、发行版或型号，在功能或开发阶段上与先前或后续版本有所不同。",
+      "SENT_EN":"The beta version of the software contained several bugs that need to be fixed before the official release.",
+      "SENT_ZH":"该软件的测试版本中包含几个漏洞，需要在正式发布前修复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "edition",
+            "release",
+            "model",
+            "iteration",
+            "variant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] version [of sth]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "literary",
+        "archaic"
+      ],
+      "DEF_EN":"A translation of a text or book, especially the Bible.",
+      "DEF_ZH":"文本或书籍，尤其是《圣经》的翻译本。",
+      "SENT_EN":"The King James Version of the Bible remains influential in English literature.",
+      "SENT_ZH":"《钦定版圣经》在英国文学中仍然具有影响力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "translation",
+            "rendition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard usage across technology, media, and everyday conversation."
+}

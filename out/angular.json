@@ -1,0 +1,102 @@
+{
+  "WORD":"angular",
+  "IPA":"/ˈæŋɡjələr/",
+  "CONJUGATES":"more angular | most angular",
+  "ETYMOLOGY":"From Latin *angularis* 'having corners', from *angulus* 'corner, angle'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] angular",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "descriptive",
+        "geometry"
+      ],
+      "DEF_EN":"Having sharp angles or corners.",
+      "DEF_ZH":"有角的；有棱有角的；形成角的。",
+      "SENT_EN":"The artist created a sculpture with very angular lines.",
+      "SENT_ZH":"艺术家创作了一个线条非常分明的雕塑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cornered",
+            "pointed",
+            "sharp-edged",
+            "jagged"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rounded",
+            "curved",
+            "smooth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] angular | [sth] angular (describing a body part)",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "descriptive",
+        "appearance",
+        "human body"
+      ],
+      "DEF_EN":"(Of a person or part of the body) thin and bony.",
+      "DEF_ZH":"（指人或身体部位）瘦骨嶙峋的；骨瘦如柴的。",
+      "SENT_EN":"Her angular face and prominent cheekbones gave her a distinctive look.",
+      "SENT_ZH":"她瘦削的脸和突出的颧骨让她看起来与众不同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gaunt",
+            "skeletal",
+            "bony",
+            "lean",
+            "thin"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plump",
+            "fleshy",
+            "rounded",
+            "chubby"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"angular [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "physics"
+      ],
+      "DEF_EN":"Measured by, or relating to, an angle or angles.",
+      "DEF_ZH":"角的；以角计算的。",
+      "SENT_EN":"In physics, angular velocity describes how fast an object rotates.",
+      "SENT_ZH":"在物理学中，角速度描述了物体旋转的速度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "angular velocity",
+            "angular momentum",
+            "angular displacement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, also used in academic and technical contexts (mathematics, physics)."
+}

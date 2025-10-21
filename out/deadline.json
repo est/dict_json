@@ -1,0 +1,82 @@
+{
+  "WORD":"deadline",
+  "IPA":"/ˈdɛdlaɪn/",
+  "CONJUGATES":"deadlines (n.) | deadlining (v.) | deadlined (v.)",
+  "ETYMOLOGY":"Coined during the U.S. Civil War (c. 1864) referring to a physical line drawn within Andersonville prison, crossing which would result in being shot. The modern figurative meaning of a time limit appeared in the early 20th century, particularly in newspaper publishing.",
+  "SINCE":"1864 (original usage); c. 1920 (modern usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"deadline",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or a particular one of these.",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Business",
+        "Journalism"
+      ],
+      "DEF_EN":"A specific time or date by which a task, project, or piece of work must be completed or submitted.",
+      "DEF_ZH":"完成某項任務、項目或工作必須遵守的限定時間或日期（截止日期）。",
+      "SENT_EN":"We are working overtime to meet the tight deadline for the new product launch.",
+      "SENT_ZH":"我們正在加班加點，以趕上新產品發布的緊張截止日期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "due date",
+            "time limit",
+            "cut-off point",
+            "closing date"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "schedule",
+            "milestone",
+            "pressure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deadline [sth]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"Transitive Verb: A verb that requires a direct object.",
+      "TAGS":[
+        "Less Common",
+        "Jargon",
+        "Informal"
+      ],
+      "DEF_EN":"To set or assign a completion time limit to a specific task or process.",
+      "DEF_ZH":"為特定的任務或流程設定或指定截止日期。",
+      "SENT_EN":"The editor decided to deadline the feature story for Friday, forcing quick turnaround.",
+      "SENT_ZH":"編輯決定將專題報導的截止日期定在週五，迫使人們快速完成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "set a limit",
+            "schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deadline (historical)",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or a particular one of these.",
+      "TAGS":[
+        "Historical",
+        "Obsolete",
+        "Military"
+      ],
+      "DEF_EN":"(Historical, US Civil War) A physical line or boundary established in a prison camp, beyond which prisoners were subject to immediate execution.",
+      "DEF_ZH":"（歷史，美國內戰）在戰俘營中設定的物理邊界線，越過此線的囚犯將會被立即處決。",
+      "SENT_EN":"The original meaning of deadline was a literal barrier of death in the prison grounds.",
+      "SENT_ZH":"“deadline”最初的意思是監獄場地內一個實實在在的死亡屏障。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Used in professional, academic, and journalistic contexts, and commonly in everyday speech."
+}

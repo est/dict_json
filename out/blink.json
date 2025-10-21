@@ -1,0 +1,102 @@
+{
+  "WORD":"blink",
+  "IPA":"/blɪŋk/",
+  "CONJUGATES":"blinks | blinking | blinked",
+  "ETYMOLOGY":"Middle English blinken, perhaps related to Middle Low German blinken (to gleam, wink), and Old English blican (to shine, glitter).",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"blink",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Core",
+        "Common",
+        "Action"
+      ],
+      "DEF_EN":"To shut and open the eyes quickly, usually involuntarily.",
+      "DEF_ZH":"快速地闭上并睁开眼睛，通常是无意识的；眨眼。",
+      "SENT_EN":"He didn't blink once during the scary movie.",
+      "SENT_ZH":"看那部恐怖电影时，他一次也没眨眼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wink",
+            "nictitate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blink",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Common",
+        "Light"
+      ],
+      "DEF_EN":"(Of a light or signal) to flash on and off intermittently.",
+      "DEF_ZH":"（指灯光或信号）间歇性地闪烁或忽明忽暗。",
+      "SENT_EN":"The warning light continued to blink red.",
+      "SENT_ZH":"那个警示灯持续闪烁着红光。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flicker",
+            "flash",
+            "pulse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a blink",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Common",
+        "State"
+      ],
+      "DEF_EN":"A quick closing and opening of the eye, often used idiomatically to describe a short duration (in the blink of an eye).",
+      "DEF_ZH":"眨眼的行为；一眨眼的时间（常用于短语 in the blink of an eye，指瞬间）。",
+      "SENT_EN":"In the blink of an eye, the car disappeared around the corner.",
+      "SENT_ZH":"一眨眼的功夫，汽车就消失在拐角处了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "moment",
+            "instant",
+            "wink"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blink at [sth]",
+      "POS":"v + prep",
+      "POS_TIP":"verb plus preposition",
+      "TAGS":[
+        "Idiomatic",
+        "Figurative"
+      ],
+      "DEF_EN":"To show surprise or objection (often used negatively to mean to accept or ignore something without reaction).",
+      "DEF_ZH":"对...表示吃惊或反对（常用于否定句，表示不予理会或习以为常）。",
+      "SENT_EN":"The police chief didn't even blink at the massive protest scheduled for Sunday.",
+      "SENT_ZH":"警长对计划在周日举行的大规模抗议活动甚至没有眨一下眼（毫不在意）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ignore",
+            "overlook",
+            "accept"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

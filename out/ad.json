@@ -1,0 +1,65 @@
+{
+  "WORD":"ad",
+  "IPA":"/æd/",
+  "CONJUGATES":"ads (plural)",
+  "ETYMOLOGY":"Clipping of 'advertisement', from the French 'avertissement' (notice, warning), derived from Latin 'advertere' (to turn toward).",
+  "SINCE":"1910s (as a widespread written abbreviation)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] ad [for sth/sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "clipping",
+        "media"
+      ],
+      "DEF_EN":"A short piece of public information, usually found in a newspaper, magazine, television broadcast, or website, intended to persuade people to buy a product, use a service, or attend an event.",
+      "DEF_ZH":"（尤指用于商业目的的）广告，宣传。",
+      "SENT_EN":"The streaming service runs an ad every ten minutes for new subscriptions.",
+      "SENT_ZH":"该流媒体服务每十分钟就会播放一条新订阅的广告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advertisement",
+            "commercial",
+            "promotion",
+            "publicity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "marketing",
+            "campaign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"put [an] ad [in the paper]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific usage",
+        "classified"
+      ],
+      "DEF_EN":"A small notice placed in the classified section of a newspaper or website, often used to seek or offer jobs, items for sale, or rentals.",
+      "DEF_ZH":"分类广告（如求职、租房或买卖物品的通知）。",
+      "SENT_EN":"We need to put an ad in the local paper to find a reliable tutor.",
+      "SENT_ZH":"我们需要在当地报纸上登一则分类广告来寻找一位可靠的家教。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "listing",
+            "notice"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Everyday language, Media, Business"
+}

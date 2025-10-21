@@ -1,0 +1,95 @@
+{
+  "WORD":"unlock",
+  "IPA":"/ʌnˈlɑːk/",
+  "CONJUGATES":"unlocks | unlocking | unlocked",
+  "ETYMOLOGY":"From Middle English unlokken, equivalent to un- (reversal prefix) + lock (v.)",
+  "SINCE":"Mid 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"unlock [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To open the lock of a door, container, or device, usually by using a key, combination, or password.",
+      "DEF_ZH":"打开（门、容器或设备）的锁，通常是通过使用钥匙、密码或组合码。",
+      "SENT_EN":"I forgot my key, so I couldn't unlock the front door.",
+      "SENT_ZH":"我忘了带钥匙，所以我无法打开前门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "open",
+            "unfasten",
+            "unbolt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lock",
+            "secure",
+            "fasten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unlock [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To reveal or make accessible something previously hidden, restricted, or potential.",
+      "DEF_ZH":"揭示或释放以前隐藏、受限或具有潜力的事物；提供存取。",
+      "SENT_EN":"Research is attempting to unlock the genetic potential of these plants.",
+      "SENT_ZH":"研究正试图释放这些植物的基因潜力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reveal",
+            "disclose",
+            "tap into",
+            "release"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "access",
+            "decipher"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"unlock [sth] [from sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"To remove a restriction or disabling feature from a computer file, account, or electronic device.",
+      "DEF_ZH":"解除对计算机文件、账户或电子设备的限制或禁用功能。",
+      "SENT_EN":"The provider agreed to unlock my phone from their network after I paid the contract fee.",
+      "SENT_ZH":"在我支付了合同费用后，供应商同意将我的手机从他们的网络中解锁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enable",
+            "authenticate",
+            "authorize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical, and metaphorical contexts."
+}

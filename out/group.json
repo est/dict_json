@@ -1,0 +1,95 @@
+{
+  "WORD":"group",
+  "IPA":"/ɡruːp/",
+  "CONJUGATES":"groups | grouped | grouping",
+  "ETYMOLOGY":"From Italian 'gruppo' (knot, bundle, company), probably of Germanic origin, related to 'crop' (a rounded protuberance). First used in English in the sense of 'an assemblage of figures or objects in a painting or sculpture'.",
+  "SINCE":"Early 17th century (noun: 1610s; verb: 1660s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a group of [sth/sb]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A number of people or things that are located, gathered, or classified together.",
+      "DEF_ZH":"一群人或事物；集合；类别。",
+      "SENT_EN":"A small group of students waited outside the classroom for the teacher.",
+      "SENT_ZH":"一小群学生在教室外面等候老师。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assembly",
+            "gathering",
+            "collection",
+            "cluster",
+            "band",
+            "flock",
+            "herd",
+            "set"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "team",
+            "organization",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"group [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which requires one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To arrange or classify into groups.",
+      "DEF_ZH":"将…分组；把…归类。",
+      "SENT_EN":"The teacher grouped the children by age for the activity.",
+      "SENT_ZH":"老师根据年龄将孩子们分组进行活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "classify",
+            "categorize",
+            "sort",
+            "arrange",
+            "organize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"group (together)",
+      "POS":"vint",
+      "POS_TIP":"An intransitive verb, which does not require an object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To come together to form a group.",
+      "DEF_ZH":"聚集；形成群组。",
+      "SENT_EN":"The protesters grouped together outside the building.",
+      "SENT_ZH":"抗议者在建筑物外聚集。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assemble",
+            "gather",
+            "congregate",
+            "cluster"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage, suitable for most contexts."
+}

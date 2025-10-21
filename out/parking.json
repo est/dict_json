@@ -1,0 +1,74 @@
+{
+  "WORD":"PARKING",
+  "IPA":"/ˈpɑːrkɪŋ/",
+  "CONJUGATES":"park (v) | parks (v. 3rd pers. sing.) | parked (v. past) | parkings (n. pl.)",
+  "ETYMOLOGY":"Derived from the verb 'park' (to set down a vehicle), which developed in the early 20th century from the earlier noun 'park' (enclosed piece of ground, ultimately from Old French parc).",
+  "SINCE":"c. 1915 (in the context of motor vehicles)",
+  "MEANINGS":[
+    {
+      "PATTERN":"parking",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act or process of bringing a vehicle to a stop and leaving it in a location for a period of time.",
+      "DEF_ZH":"停车；停放（车辆）的行为。",
+      "SENT_EN":"Street parking is difficult to find downtown during peak hours.",
+      "SENT_ZH":"在高峰时段，市中心很难找到路边停车位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stopping",
+            "setting down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "driving",
+            "moving"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"parking",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable or countable in specific context)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A designated space, area, or facility where vehicles can be left (often used attributively, e.g., parking lot).",
+      "DEF_ZH":"停车设施；（指代）停车场或停车区域。",
+      "SENT_EN":"Is there adequate parking available for guests at the hotel?",
+      "SENT_ZH":"酒店是否有为客人提供充足的停车设施？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "garage",
+            "car park",
+            "parking meter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is parking [sth]",
+      "POS":"v. pres. part. / gerund",
+      "POS_TIP":"verb present participle / gerund",
+      "TAGS":[
+        "linguistic"
+      ],
+      "DEF_EN":"The continuous form or verbal noun derived from the verb 'to park'.",
+      "DEF_ZH":"动词'to park'的现在分词或动名词形式。",
+      "SENT_EN":"The attendant is currently parking the large delivery truck.",
+      "SENT_ZH":"服务员正在停放那辆大型送货卡车。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general usage"
+}

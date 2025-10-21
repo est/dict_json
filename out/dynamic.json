@@ -1,0 +1,90 @@
+{
+  "WORD":"dynamic",
+  "IPA":"/daɪˈnæmɪk/",
+  "CONJUGATES":"dynamic | more dynamic | most dynamic",
+  "ETYMOLOGY":"From Greek dynamikos 'powerful,' from dynamis 'power, strength,' from dynasthai 'to be able.'",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"dynamic [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Characterized by constant change, activity, or progress; full of energy and new ideas.",
+      "DEF_ZH":"充满活力和变化的；不断发展进步的；精力充沛的。",
+      "SENT_EN":"She is a dynamic leader who always inspires her team.",
+      "SENT_ZH":"她是一位充满活力的领导者，总是能激励她的团队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "energetic",
+            "forceful",
+            "active",
+            "lively",
+            "vibrant",
+            "vigorous",
+            "evolving",
+            "changing"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "static",
+            "stagnant",
+            "inert",
+            "unchanging"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dynamic [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"Relating to forces that produce motion; relating to dynamics.",
+      "DEF_ZH":"(物理) 动力学的；与力或运动有关的。",
+      "SENT_EN":"The engineer studied the dynamic forces acting on the bridge.",
+      "SENT_ZH":"工程师研究了作用在桥梁上的动力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dynamics",
+            "kinetic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dynamic [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(Of a process or system) operating or able to change and adapt while in operation.",
+      "DEF_ZH":"(计算机) 动态的；指在运行时能改变或适应。",
+      "SENT_EN":"The website uses dynamic content that changes based on user preferences.",
+      "SENT_ZH":"该网站使用根据用户偏好而变化的动态内容。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "static"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

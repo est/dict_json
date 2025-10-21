@@ -1,0 +1,112 @@
+{
+  "WORD":"copy",
+  "IPA":"/ˈkɒpi/",
+  "CONJUGATES":"copies | copying | copied",
+  "ETYMOLOGY":"From Old French copie (quantity, abundance), from Medieval Latin copia (transcription, written record), ultimately from Classical Latin cōpia (abundance, plenty). The meaning shifted from 'abundance' to 'reproduction' around the 14th century.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"a copy of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An imitation, reproduction, or duplicate of an original item, document, or work.",
+      "DEF_ZH":"复制品；副本；摹本。",
+      "SENT_EN":"The museum holds a faithful copy of the ancient scroll.",
+      "SENT_ZH":"博物馆收藏着这份古代卷轴的一个忠实副本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "duplicate",
+            "reproduction",
+            "replica",
+            "facsimile"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "copyright",
+            "photocopy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"copy [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a duplicate or reproduction of something; to write down or type something that is already written or printed.",
+      "DEF_ZH":"复制；影印；抄写。",
+      "SENT_EN":"Did you remember to copy the files to the secure server?",
+      "SENT_ZH":"你记得把文件复制到安全服务器上了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "duplicate",
+            "replicate",
+            "transcribe",
+            "xerox"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"write copy | edit copy",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "journalism",
+        "advertising"
+      ],
+      "DEF_EN":"Written material intended for publication, especially promotional or journalistic text.",
+      "DEF_ZH":"(广告或出版物的)文案；稿件。",
+      "SENT_EN":"The advertising team needs creative copy for the new campaign.",
+      "SENT_ZH":"广告团队需要为新活动准备有创意的文案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "text",
+            "manuscript",
+            "article"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"copy [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common",
+        "behavior"
+      ],
+      "DEF_EN":"To mimic or imitate the actions, behavior, or style of another person.",
+      "DEF_ZH":"模仿；学样。",
+      "SENT_EN":"Children often copy the mannerisms of their parents.",
+      "SENT_ZH":"孩子们经常模仿他们父母的举止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mimic",
+            "emulate",
+            "imitate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific application in media and technology."
+}

@@ -1,0 +1,101 @@
+{
+  "WORD":"designate",
+  "IPA":"/ˈdɛzɪɡneɪt/ (verb), /ˈdɛzɪɡnət/ (adjective)",
+  "CONJUGATES":"designates | designating | designated",
+  "ETYMOLOGY":"Late 16th century: from Latin designat- 'pointed out', from the verb designare 'point out, contrive', from de- 'down' + signare 'to mark' (from signum 'a mark, sign').",
+  "SINCE":"c. 1580s",
+  "MEANINGS":[
+    {
+      "PATTERN":"designate [sb/sth] (as) [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; takes a direct object and often a complement to specify the role or status",
+      "TAGS":[
+        "core word",
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"To officially choose or name someone or something for a particular job, duty, purpose, or status.",
+      "DEF_ZH":"正式选定、任命或指定某人或某物担任特定职务、目的或地位。",
+      "SENT_EN":"The committee will designate a new chairperson next month.",
+      "SENT_ZH":"委员会下个月将指定一位新主席。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appoint",
+            "nominate",
+            "name",
+            "assign",
+            "select"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "authorize",
+            "delegate",
+            "entrust"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"designate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; takes a direct object to specify what is marked or indicated",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To mark or point out; to indicate or show the position, area, or identity of something.",
+      "DEF_ZH":"标明；指出；显示某物的位置、区域或身份。",
+      "SENT_EN":"The map uses different colors to designate different climate zones.",
+      "SENT_ZH":"这张地图用不同的颜色标示不同的气候区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indicate",
+            "mark",
+            "show",
+            "specify",
+            "denote"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "identify",
+            "label",
+            "signify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[position]-designate",
+      "POS":"adj",
+      "POS_TIP":"adjective; describes a noun, often used after the noun it modifies (e.g., President-designate)",
+      "TAGS":[
+        "formal",
+        "specific usage",
+        "post-nominal"
+      ],
+      "DEF_EN":"(Of a person) appointed to a position but not yet having formally taken office.",
+      "DEF_ZH":"（指某人）已被任命但尚未正式就职的。",
+      "SENT_EN":"The CEO-designate is currently undergoing an intensive training program.",
+      "SENT_ZH":"候任首席执行官目前正在接受一项密集的培训计划。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "incoming",
+            "elected",
+            "chosen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, administrative, official contexts."
+}

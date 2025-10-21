@@ -1,0 +1,89 @@
+{
+  "WORD":"concerning",
+  "IPA":"/kənˈsɜːrnɪŋ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Present participle of the verb 'concern', derived from Old French 'concerner', ultimately from Late Latin 'concernere' (to relate to, regard). The prepositional use evolved from the participial phrase meaning 'relating to'.",
+  "SINCE":"Mid-15th century (as participle), 17th century (as preposition)",
+  "MEANINGS":[
+    {
+      "PATTERN":"concerning [sth]",
+      "POS":"prep",
+      "POS_TIP":"Preposition",
+      "TAGS":[
+        "core word",
+        "formal",
+        "topic marker"
+      ],
+      "DEF_EN":"Regarding; relating to; about. Used to introduce the subject matter of a discussion or statement.",
+      "DEF_ZH":"关于；涉及到；有关。用于引出讨论或陈述的主题。",
+      "SENT_EN":"The committee reviewed all documents concerning the merger.",
+      "SENT_ZH":"委员会审查了所有关于这次合并的文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regarding",
+            "about",
+            "respecting",
+            "with regard to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a concerning [noun]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "descriptive",
+        "negative connotation"
+      ],
+      "DEF_EN":"Causing worry, anxiety, or unease; troubling.",
+      "DEF_ZH":"令人担忧的；烦恼的；使人不安的。",
+      "SENT_EN":"The patient's high fever is concerning.",
+      "SENT_ZH":"病人持续的高烧令人担忧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "worrisome",
+            "troubling",
+            "alarming",
+            "disturbing"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reassuring",
+            "comforting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"is concerning [sb/sth]",
+      "POS":"v part.",
+      "POS_TIP":"Present Participle (Verbal form)",
+      "TAGS":[
+        "grammatical",
+        "less common"
+      ],
+      "DEF_EN":"Having relation or reference to; involving (used in continuous tenses or participial phrases derived from the verb 'concern').",
+      "DEF_ZH":"与…有关联的；涉及到的。（动词 'concern' 的现在分词形式）",
+      "SENT_EN":"The latest news concerning the economy is quite complex.",
+      "SENT_ZH":"关于经济的最新消息相当复杂。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "concern",
+            "concerned"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard to Formal"
+}

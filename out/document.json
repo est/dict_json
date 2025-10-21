@@ -1,0 +1,91 @@
+{
+  "WORD":"document",
+  "IPA":"/ˈdɒkjʊmənt/",
+  "CONJUGATES":"documents | documented | documenting",
+  "ETYMOLOGY":"From Latin documentum ('lesson, example, proof'), derived from docēre ('to teach, show').",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (written/electronic)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "record"
+      ],
+      "DEF_EN":"A piece of written, printed, or electronic matter that provides information or evidence.",
+      "DEF_ZH":"一份书面的、打印的或电子的材料，提供信息或证据的文件、文献或证件。",
+      "SENT_EN":"The lawyer reviewed all the financial documents before the trial.",
+      "SENT_ZH":"律师在审判前审核了所有财务文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "file",
+            "record",
+            "paper",
+            "report"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "documentation",
+            "certificate",
+            "manuscript"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"document [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "record",
+        "evidence"
+      ],
+      "DEF_EN":"To record something, typically in a detailed written or photographic form, in order to provide evidence or factual information.",
+      "DEF_ZH":"记录或记载某事物，通常是以详细的书面或摄影形式，以提供证据或事实信息。",
+      "SENT_EN":"She thoroughly documented the entire process of building the machine.",
+      "SENT_ZH":"她彻底记录了制造这台机器的整个过程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "record",
+            "chronicle",
+            "archive",
+            "certify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"document [code/system]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computing, to prepare comprehensive explanatory notes, instructions, or tutorials for a piece of software, code, or a system.",
+      "DEF_ZH":"在计算机领域，为软件、代码或系统准备全面的解释性说明、操作指南或教程（编写文档）。",
+      "SENT_EN":"It is crucial to document API endpoints clearly so other developers can use them.",
+      "SENT_ZH":"清晰地记录API的端点至关重要，以便其他开发人员可以使用它们。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "documentation",
+            "readme",
+            "guide"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, often used formally in academic, legal, and business settings."
+}

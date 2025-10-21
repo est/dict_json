@@ -1,0 +1,66 @@
+{
+  "WORD":"cumulative",
+  "IPA":"/ˈkjuːmjʊlətɪv/",
+  "CONJUGATES":"cumulatively (adverb) | cumulativeness (noun)",
+  "ETYMOLOGY":"From Medieval Latin *cumulativus*, from Latin *cumulatus*, past participle of *cumulare* ('to heap up'), derived from *cumulus* ('a heap').",
+  "SINCE":"Mid 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is cumulative",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "general"
+      ],
+      "DEF_EN":"Increasing or increased in quantity, degree, or force by successive additions.",
+      "DEF_ZH":"累积的；渐增的；总和的。",
+      "SENT_EN":"The side effects of the medication are cumulative, getting worse the longer you take it.",
+      "SENT_ZH":"这种药物的副作用是累积的，服用时间越长就会越严重。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accruing",
+            "aggregate",
+            "incremental",
+            "additive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "isolated",
+            "separate",
+            "noncumulative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cumulative [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "finance",
+        "law"
+      ],
+      "DEF_EN":"(Of dividends or stock) requiring that unpaid dividends from previous periods must be paid out before common stockholders receive any payment.",
+      "DEF_ZH":"(指股息或股票) 累计的；享有优先清偿权的（即前期拖欠的股息必须优先付清）。",
+      "SENT_EN":"Investors often prefer cumulative preference shares because they guarantee missed dividends will eventually be paid.",
+      "SENT_ZH":"投资者通常更喜欢累计优先股，因为它们保证了拖欠的股息最终会得到支付。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dividend",
+            "preference share"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, business, and general discussion."
+}

@@ -1,0 +1,73 @@
+{
+  "WORD":"contradict",
+  "IPA":"/ˌkɒntrəˈdɪkt/",
+  "CONJUGATES":"contradicts | contradicting | contradicted",
+  "ETYMOLOGY":"From Latin *contrādicere*, composed of *contrā* ('against') + *dicere* ('to speak, say').",
+  "SINCE":"Mid-16th Century (c. 1540s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"contradict [sb] | contradict [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To assert the contrary of what has been said or stated; to deny the truth of a statement.",
+      "DEF_ZH":"反驳；否认（陈述、说法等）；与…说法相悖。",
+      "SENT_EN":"The witness flatly contradicted the defendant's testimony.",
+      "SENT_ZH":"证人断然反驳了被告的证词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deny",
+            "rebut",
+            "dispute",
+            "gainsay"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "confirm",
+            "affirm",
+            "corroborate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] contradict [sth else]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "formal",
+        "descriptive"
+      ],
+      "DEF_EN":"(Of facts, claims, or actions) To be in conflict or disagreement with each other; to imply the opposite or negation of.",
+      "DEF_ZH":"（事实、证据、行为等）相互矛盾；有抵触。",
+      "SENT_EN":"The evidence presented in court seemed to contradict itself.",
+      "SENT_ZH":"呈堂的证据似乎自相矛盾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clash",
+            "conflict",
+            "negate",
+            "oppose"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "contradiction",
+            "contradictory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in both formal and everyday contexts, especially when discussing facts, testimony, or logic."
+}

@@ -1,0 +1,95 @@
+{
+  "WORD":"or",
+  "IPA":"/ɔː/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English oþþe 'or', from Proto-Germanic *uþi.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] or [sth] | [clause], or [clause]",
+      "POS":"conj.",
+      "POS_TIP":"conjunction (connects words, phrases, clauses)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to connect two or more possibilities or alternatives.",
+      "DEF_ZH":"连接两个或多个可能性或选择。",
+      "SENT_EN":"Would you like tea or coffee?",
+      "SENT_ZH":"您想喝茶还是咖啡？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alternatively"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[imperative clause], or [consequence clause]",
+      "POS":"conj.",
+      "POS_TIP":"conjunction (connects words, phrases, clauses)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Used to introduce a consequence or alternative action if the first part of the sentence is not fulfilled.",
+      "DEF_ZH":"用于引出一个结果或替代行动，如果句子的第一部分未满足。",
+      "SENT_EN":"Hurry up, or you'll miss the bus.",
+      "SENT_ZH":"快点，不然你会错过公共汽车的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "otherwise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth], or [sth else]",
+      "POS":"conj.",
+      "POS_TIP":"conjunction (connects words, phrases, clauses)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Used to introduce a word or phrase that explains or rephrases the preceding one.",
+      "DEF_ZH":"用于引入一个词或短语来解释或改述前面一个词或短语。",
+      "SENT_EN":"He plays the oboe, or English horn.",
+      "SENT_ZH":"他演奏双簧管，或者说，英国管。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "in other words",
+            "that is to say"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb] or ever",
+      "POS":"adv.",
+      "POS_TIP":"adverb (modifies a verb, adjective, or another adverb)",
+      "TAGS":[
+        "rare",
+        "archaic",
+        "poetic"
+      ],
+      "DEF_EN":"Before; ere. (Often used in the phrase 'or ever'.)",
+      "DEF_ZH":"在…之前；（常用于短语 'or ever'。）",
+      "SENT_EN":"We departed or ever the sun rose.",
+      "SENT_ZH":"在太阳升起之前我们就离开了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "before",
+            "ere"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

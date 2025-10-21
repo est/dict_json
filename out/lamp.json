@@ -1,0 +1,114 @@
+{
+  "WORD":"lamp",
+  "IPA":"/læmp/",
+  "CONJUGATES":"lamps (n. pl.) | lamping (v. pres. part.) | lamped (v. past/past part.)",
+  "ETYMOLOGY":"From Middle English 'lampe', derived from Old French 'lampe', which itself comes from Latin 'lampas' and ultimately from Greek 'lampas' (torch, light). Related to the Greek verb 'lampein' (to shine).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "device"
+      ],
+      "DEF_EN":"A device that produces artificial light, typically by using electricity or burning fuel (such as oil or gas).",
+      "DEF_ZH":"一种产生人造光的装置，通常通过电力或燃烧燃料（如油或气体）来工作。",
+      "SENT_EN":"The antique lamp on the table provided a warm glow.",
+      "SENT_ZH":"桌上的古董灯散发出温暖的光芒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "light",
+            "lantern",
+            "luminaire",
+            "fixture"
+          ]
+        },
+        {
+          "T":"hyponyms",
+          "V":[
+            "flashlight",
+            "headlamp",
+            "desk lamp"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (light source)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "component"
+      ],
+      "DEF_EN":"The actual source of light within a fixture, such as a light bulb or fluorescent tube.",
+      "DEF_ZH":"灯具内部实际的发光元件，如灯泡或荧光灯管。",
+      "SENT_EN":"I need to buy a new halogen lamp for the projector.",
+      "SENT_ZH":"我需要为投影仪买一个新的卤素灯泡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bulb",
+            "light source",
+            "tube"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lamp [sb] | lamp [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "informal",
+        "British English"
+      ],
+      "DEF_EN":"To look at or stare intently at someone or something.",
+      "DEF_ZH":"(俚语，常用于英式英语) 注视；盯着看。",
+      "SENT_EN":"He was definitely lamping that new sports car in the parking lot.",
+      "SENT_ZH":"他当时绝对在盯着停车场里那辆新的跑车看。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gaze",
+            "stare",
+            "ogle",
+            "check out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"lamp [sb]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "dated",
+        "regional"
+      ],
+      "DEF_EN":"To strike or hit someone hard.",
+      "DEF_ZH":"(俚语/旧俚语) 重击；殴打。",
+      "SENT_EN":"If he tries that again, I'm going to lamp him.",
+      "SENT_ZH":"如果他再试一次，我就要揍他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "punch",
+            "strike",
+            "smack"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with informal/slang uses"
+}

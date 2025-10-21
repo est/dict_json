@@ -1,0 +1,77 @@
+{
+  "WORD":"brook",
+  "IPA":"/brʊk/",
+  "CONJUGATES":"n: brook | brooks | v: brook | brooks | brooking | brooked",
+  "ETYMOLOGY":"Noun: From Old English *brōc* 'a stream, torrent'. Verb: From Old English *brūcan* 'to use, enjoy, partake of', later 'to digest, tolerate'. The two words are etymologically distinct.",
+  "SINCE":"Old English (before 12th century for noun; 13th century for verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a brook",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "nature",
+        "common"
+      ],
+      "DEF_EN":"A small natural stream of fresh water.",
+      "DEF_ZH":"小溪；小河。指天然的、小的淡水流。",
+      "SENT_EN":"The children loved to play in the shallow brook that ran through the meadow.",
+      "SENT_ZH":"孩子们喜欢在穿过草地的那条浅浅的小溪里玩耍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stream",
+            "rivulet",
+            "creek",
+            "rill"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "river",
+            "burn (Scottish)"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brook [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "literary",
+        "somewhat rare",
+        "often negative"
+      ],
+      "DEF_EN":"To tolerate or allow something, especially dissent or opposition. This usage is often found in negative contexts.",
+      "DEF_ZH":"容忍；接受（尤指不同意见或反对）。此用法常用于否定句中。",
+      "SENT_EN":"The committee would brook no further delays in the project.",
+      "SENT_ZH":"委员会不容许该项目再有任何拖延。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tolerate",
+            "endure",
+            "suffer",
+            "allow",
+            "permit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forbid",
+            "prohibit",
+            "reject"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The noun form is common and widely understood. The verb form is formal, literary, and less common in everyday speech."
+}

@@ -1,0 +1,76 @@
+{
+  "WORD":"fabricate",
+  "IPA":"/'fæbrɪkeɪt/",
+  "CONJUGATES":"fabricates | fabricating | fabricated",
+  "ETYMOLOGY":"From Latin fabricatus, past participle of fabricare ('to fashion, construct'), related to fabrica ('workshop, art, structure').",
+  "SINCE":"16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"fabricate [sth] (a story/evidence)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "negative connotation"
+      ],
+      "DEF_EN":"To invent or make up (information, a lie, or evidence) in order to deceive.",
+      "DEF_ZH":"编造；捏造；虚构（谎言、证据等），意图欺骗。",
+      "SENT_EN":"The journalist was fired after it was discovered he fabricated several key sources.",
+      "SENT_ZH":"该记者在被发现捏造了几个关键消息来源后被解雇了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concoct",
+            "invent",
+            "falsify",
+            "devise"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lie",
+            "forgery",
+            "fiction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fabricate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "technical",
+        "industry use"
+      ],
+      "DEF_EN":"To construct or manufacture (an industrial product or structure) from prepared components or raw materials.",
+      "DEF_ZH":"制造；装配；建造（通常指工业产品或结构）。",
+      "SENT_EN":"The company specializes in fabricating custom steel beams for skyscrapers.",
+      "SENT_ZH":"这家公司专门为摩天大楼制造定制钢梁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "manufacture",
+            "construct",
+            "assemble",
+            "produce"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "machining",
+            "welding",
+            "casting"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, General"
+}

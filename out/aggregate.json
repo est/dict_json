@@ -1,0 +1,103 @@
+{
+  "WORD":"aggregate",
+  "IPA":"/ˈæɡrɪɡət/",
+  "CONJUGATES":"verb: aggregates | aggregated | aggregating (IPA for verb form: /ˈæɡrɪɡeɪt/)",
+  "ETYMOLOGY":"From Latin aggregare 'add to, collect', from ad- 'to' + grex, gregis 'flock, herd'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"aggregate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more direct objects",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To collect or combine into a single group, total, or mass.",
+      "DEF_ZH":"将事物收集或合并成一个单一的组、总数或整体。",
+      "SENT_EN":"The system can aggregate data from multiple sources.",
+      "SENT_ZH":"该系统能够汇总来自多个来源的数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combine",
+            "collect",
+            "accumulate",
+            "compile",
+            "gather"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "disperse",
+            "분리하다"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an aggregate of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that functions as the name of a specific object or set of objects, such as living creatures, places, actions, qualities, states of existence, or ideas",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A whole or total formed by combining several distinct elements.",
+      "DEF_ZH":"由几个独立元素组合而成的整体或总和。",
+      "SENT_EN":"The aggregate of their efforts led to the successful completion of the project.",
+      "SENT_ZH":"他们努力的总和促成了项目的成功完成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "total",
+            "sum",
+            "collection",
+            "compilation",
+            "mixture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "aggregate demand",
+            "aggregate supply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"aggregate [noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that modifies or describes a noun or pronoun",
+      "TAGS":[
+        "common",
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"Formed or calculated by the combination of many separate units or items; total.",
+      "DEF_ZH":"由许多独立单元或项目组合或计算而成的；总计的。",
+      "SENT_EN":"The aggregate score for the tournament was surprisingly high.",
+      "SENT_ZH":"本次锦标赛的总分出奇地高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "total",
+            "collective",
+            "combined",
+            "composite",
+            "overall"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Often used in formal, academic, or technical contexts, particularly in fields like statistics, economics, and construction."
+}

@@ -1,0 +1,70 @@
+{
+  "WORD":"acquaintance",
+  "IPA":"/əˈkweɪntəns/",
+  "CONJUGATES":"acquaintances",
+  "ETYMOLOGY":"From Old French acointance, from acointier ('to acquaint, to make known'), ultimately from Latin cognoscere ('to know').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "social"
+      ],
+      "DEF_EN":"A person one knows slightly, but who is not a close friend.",
+      "DEF_ZH":"熟人；相识者（非亲密朋友）",
+      "SENT_EN":"I ran into an old acquaintance from college at the grocery store.",
+      "SENT_ZH":"我在杂货店偶然遇到了一个大学时的老熟人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "associate",
+            "contact",
+            "connection"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "close friend",
+            "intimate",
+            "stranger"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"acquaintance [with sth/sb]",
+      "POS":"noun",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "formal",
+        "abstract"
+      ],
+      "DEF_EN":"Personal knowledge or familiarity with a subject, person, or place.",
+      "DEF_ZH":"（对某事或某人的）了解；认识；熟悉",
+      "SENT_EN":"The manager has a passing acquaintance with programming languages but cannot code himself.",
+      "SENT_ZH":"这位经理对编程语言只是粗略了解，但他自己不会编码。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "familiarity",
+            "awareness",
+            "knowledge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "acquaint"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly common in defining social relationships."
+}

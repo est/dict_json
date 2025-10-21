@@ -1,0 +1,80 @@
+{
+  "WORD":"discard",
+  "IPA":"/dɪˈskɑːrd/",
+  "CONJUGATES":"discards | discarded | discarding",
+  "ETYMOLOGY":"From Middle French descarter 'to discard (a card)', from des- 'away, off' + carte 'card'. Originally referred to removing cards from a hand in a game.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"discard [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To get rid of something that is no longer useful or desirable.",
+      "DEF_ZH":"丢弃；抛弃；遗弃",
+      "SENT_EN":"He decided to discard all the old newspapers and magazines.",
+      "SENT_ZH":"他决定扔掉所有旧报纸和杂志。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dispose of",
+            "throw away",
+            "get rid of",
+            "jettison"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "keep",
+            "retain",
+            "preserve",
+            "collect"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"discard [sth] (in cards)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "specific use",
+        "card games"
+      ],
+      "DEF_EN":"In card games, to remove a card from one's hand.",
+      "DEF_ZH":"（牌戏中）出牌，打出（不需要的牌）",
+      "SENT_EN":"She had to discard a low card to pick up a better one.",
+      "SENT_ZH":"她不得不丢弃一张小牌以换取一张更好的牌。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a discard | the discards",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "countable/uncountable"
+      ],
+      "DEF_EN":"Something that has been discarded, or the act of discarding.",
+      "DEF_ZH":"被丢弃物；丢弃（行为）",
+      "SENT_EN":"These old clothes are discards from my wardrobe; you can have them if you want.",
+      "SENT_ZH":"这些旧衣服是我衣橱里淘汰下来的；如果你想要，可以拿走。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reject",
+            "refuse",
+            "waste"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

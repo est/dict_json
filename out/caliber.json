@@ -1,0 +1,69 @@
+{
+  "WORD":"caliber",
+  "IPA":"/ˈkælɪbər/",
+  "CONJUGATES":"caliber | calibers",
+  "ETYMOLOGY":"From French 'calibre', from Italian 'calibro', probably from Arabic 'qālib' (mold, shoemaker's last), possibly via Greek 'kalapous'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth] of (a certain) caliber",
+      "POS":"n.",
+      "POS_TIP":"Noun. A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The quality of someone's ability or the standard of something, especially when considered in terms of comparison with other people or things.",
+      "DEF_ZH":"某人能力或某事物的水准或质量，尤其是在与他人或他物比较时。",
+      "SENT_EN":"The company only hires employees of the highest caliber.",
+      "SENT_ZH":"公司只招聘最高素质的员工。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quality",
+            "standard",
+            "merit",
+            "excellence",
+            "ability",
+            "competence",
+            "capacity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inferiority",
+            "mediocrity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"caliber (of a gun/bullet)",
+      "POS":"n.",
+      "POS_TIP":"Noun. A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "weaponry"
+      ],
+      "DEF_EN":"The internal diameter of a gun barrel or the diameter of a bullet or shell.",
+      "DEF_ZH":"枪管的内径或子弹、炮弹的直径。",
+      "SENT_EN":"This rifle fires ammunition of .308 caliber.",
+      "SENT_ZH":"这支步枪发射的是.308口径的弹药。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bore",
+            "gauge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The first meaning is generally formal or slightly elevated in tone. The second meaning is technical, specific to firearms and ammunition."
+}

@@ -1,0 +1,110 @@
+{
+  "WORD":"suppress",
+  "IPA":"/səˈprɛs/",
+  "CONJUGATES":"suppress | suppresses | suppressing | suppressed | suppressed",
+  "ETYMOLOGY":"From Latin suppressus, past participle of supprimere 'to press down', from sub- 'down' + premere 'to press'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"suppress [sth]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" is a transitive verb, which means it takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To forcibly put an end to; to prevent the development, action, or expression of something.",
+      "DEF_ZH":"镇压；制止；阻止（某事物的发展、行动或表达）。",
+      "SENT_EN":"The government moved quickly to suppress the rebellion.",
+      "SENT_ZH":"政府迅速采取行动镇压了叛乱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quash",
+            "crush",
+            "subdue",
+            "repress",
+            "stifle",
+            "contain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "encourage",
+            "promote",
+            "allow",
+            "release"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suppress [sth] (e.g., a feeling, a cough)",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" is a transitive verb, which means it takes a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To consciously or unconsciously inhibit or restrain an impulse, feeling, or reaction.",
+      "DEF_ZH":"压抑；克制（冲动、情感或反应）。",
+      "SENT_EN":"She struggled to suppress a giggle during the serious lecture.",
+      "SENT_ZH":"她在严肃的讲座中努力克制住咯咯的笑声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repress",
+            "restrain",
+            "hold back",
+            "curb",
+            "bottle up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "express",
+            "release",
+            "vent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suppress [sth] (e.g., evidence, news)",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" is a transitive verb, which means it takes a direct object.",
+      "TAGS":[
+        "common",
+        "legal",
+        "journalism"
+      ],
+      "DEF_EN":"To prevent the publication, disclosure, or circulation of information.",
+      "DEF_ZH":"隐瞒；封锁；禁止发表（信息或证据）。",
+      "SENT_EN":"The company tried to suppress the report detailing the environmental damage.",
+      "SENT_ZH":"该公司试图压制这份详细说明环境破坏的报告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conceal",
+            "hide",
+            "censor",
+            "cover up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reveal",
+            "disclose",
+            "publish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral"
+}

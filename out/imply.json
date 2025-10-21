@@ -1,0 +1,73 @@
+{
+  "WORD":"imply",
+  "IPA":"/ɪmˈplaɪ/",
+  "CONJUGATES":"implies | implying | implied",
+  "ETYMOLOGY":"From Middle English implien, from Old French implier, from Latin implicāre 'to involve, enfold, entwine,' from in- 'into, in' + plicāre 'to fold.' The meaning shifted from physical folding/involvement to logical connection or suggestion.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"imply [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To express or indicate something indirectly, without stating it explicitly; to hint or suggest.",
+      "DEF_ZH":"暗示；含蓄地表明；意指。",
+      "SENT_EN":"His stern look implied that we should stop arguing immediately.",
+      "SENT_ZH":"他严厉的眼神暗示我们应该立刻停止争吵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggest",
+            "hint",
+            "insinuate",
+            "intimate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "state",
+            "declare",
+            "assert",
+            "express"
+          ]
+        },
+        {
+          "T":"note",
+          "V":[
+            "The speaker implies; the listener infers."
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"imply [sth] (as a consequence)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "logical usage"
+      ],
+      "DEF_EN":"To necessarily involve or necessitate something as a logical consequence or condition; to entail.",
+      "DEF_ZH":"必然包含；意味着（作为必然结果或条件）。",
+      "SENT_EN":"Achieving the highest safety standards implies rigorous testing and strict adherence to protocol.",
+      "SENT_ZH":"实现最高的安全标准意味着严格的测试和对协议的严格遵守。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "necessitate",
+            "entail",
+            "involve",
+            "presuppose"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage (academic, professional, and daily conversation)."
+}

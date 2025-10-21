@@ -1,0 +1,74 @@
+{
+  "WORD":"indebted",
+  "IPA":"/ɪnˈdɛtɪd/",
+  "CONJUGATES":"more indebted | most indebted | indebtedness (n)",
+  "ETYMOLOGY":"From Middle English, combining in- ('in, into') and debt, modeled on the obsolete verb 'indebt'. Ultimately related to Latin dēbēre ('to owe').",
+  "SINCE":"c. 1600s",
+  "MEANINGS":[
+    {
+      "PATTERN":"indebted [to sb] [for sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal",
+        "figurative"
+      ],
+      "DEF_EN":"Owing gratitude or thanks for a favor, service, or kindness received.",
+      "DEF_ZH":"感恩的；感激的；因某人的帮助或恩惠而欠下人情的。",
+      "SENT_EN":"I am deeply indebted to you for helping me finish this difficult project.",
+      "SENT_ZH":"我非常感激您帮我完成了这个艰难的项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grateful",
+            "obligated",
+            "beholden",
+            "thankful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unobligated",
+            "ungrateful"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"indebted",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "finance",
+        "literal"
+      ],
+      "DEF_EN":"Owing money; in debt.",
+      "DEF_ZH":"负债的；欠债的；在经济上欠款的。",
+      "SENT_EN":"The small nation became heavily indebted to foreign banks.",
+      "SENT_ZH":"这个小国对外国银行负债累累。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "owing",
+            "liable",
+            "insolvent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "solvent",
+            "debt-free"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard to Formal"
+}

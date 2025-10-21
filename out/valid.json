@@ -1,0 +1,106 @@
+{
+  "WORD":"valid",
+  "IPA":"/ˈvælɪd/",
+  "CONJUGATES":"more valid | most valid | validly (adv) | validity (n)",
+  "ETYMOLOGY":"From Middle French valide, from Latin validus ('strong, effective, well'), derived from valēre ('to be strong, well, or able').",
+  "SINCE":"Mid 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is valid (argument/reason)",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Logically sound, relevant, or justifiable; based on sufficient evidence or sound principles.",
+      "DEF_ZH":"逻辑上合理的；有根据的；确凿的。",
+      "SENT_EN":"That's a completely valid point that needs to be addressed immediately.",
+      "SENT_ZH":"那是一个完全合理的观点，需要立即解决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "justified",
+            "sound",
+            "legitimate",
+            "well-founded"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "invalid",
+            "flawed",
+            "unjustified",
+            "specious"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is valid (document/license) (for [time/purpose])",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"Having legal force or authority; officially recognized or acceptable.",
+      "DEF_ZH":"有法律效力的；正式认可的；有效的（指文件、合同等）。",
+      "SENT_EN":"Ensure your visa is valid before attempting to board the plane.",
+      "SENT_ZH":"登机前请确保你的签证是有效的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "binding",
+            "effective",
+            "operative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expired",
+            "void",
+            "null",
+            "invalid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is valid (data/format)",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"Conforming to the correct structure, format, or standard requirements.",
+      "DEF_ZH":"符合标准的；格式正确的；合法的（指数据或代码）。",
+      "SENT_EN":"The system rejected the input because it was not a valid file path.",
+      "SENT_ZH":"系统拒绝了输入，因为它不是一个有效的文件路径。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compliant",
+            "permissible",
+            "acceptable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "invalid",
+            "malformed",
+            "corrupt"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

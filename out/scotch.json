@@ -1,0 +1,113 @@
+{
+  "WORD":"scotch",
+  "IPA":"/skɒtʃ/",
+  "CONJUGATES":"scotches | scotching | scotched",
+  "ETYMOLOGY":"For the noun 'scotch' (whisky) and the adjective 'scotch' (of Scotland), it derives from Middle English 'Scots' (referring to the people of Scotland) + '-ish'. For the verb 'scotch' (to put an end to) and the noun 'scotch' (a block), its origin is from Old French 'escochier' (to gash, cut) or 'escoche' (a notch, score), with the sense 'to put an end to' developing from the idea of 'stopping' or 'cutting short'.",
+  "SINCE":"Late 16th century (for adjective 'of Scotland'); early 19th century (for whisky and verb 'to put an end to')",
+  "MEANINGS":[
+    {
+      "PATTERN":"scotch",
+      "POS":"noun (uncountable)",
+      "POS_TIP":"A word that names a thing but cannot be counted, typically referring to a substance or concept.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A type of whisky distilled in Scotland.",
+      "DEF_ZH":"一种在苏格兰酿造的威士忌。",
+      "SENT_EN":"He enjoys a glass of single malt scotch after dinner.",
+      "SENT_ZH":"晚饭后他喜欢喝一杯单一麦芽苏格兰威士忌。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "whisky",
+            "bourbon",
+            "rye"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scotch [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, indicating an action that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To decisively put an end to; to thwart or frustrate.",
+      "DEF_ZH":"彻底结束；挫败或阻止。",
+      "SENT_EN":"The new evidence scotched rumors of a cover-up.",
+      "SENT_ZH":"新证据彻底粉碎了掩盖事实的谣言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thwart",
+            "foil",
+            "quash",
+            "squelch",
+            "nix"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "promote",
+            "encourage",
+            "foster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scotch",
+      "POS":"noun (countable)",
+      "POS_TIP":"A word that names a thing and can be counted (e.g., one 'scotch', two 'scotches').",
+      "TAGS":[
+        "technical",
+        "specific",
+        "less common"
+      ],
+      "DEF_EN":"A block or wedge, especially one used to prevent a wheel or barrel from rolling.",
+      "DEF_ZH":"垫块；楔子，尤指用于阻止车轮或桶滚动的。",
+      "SENT_EN":"He placed a scotch under the tire to prevent the car from rolling down the hill.",
+      "SENT_ZH":"他在轮胎下放了一个垫块，以防止汽车从山上滚下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wedge",
+            "chock",
+            "block"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scotch [sth]",
+      "POS":"adj",
+      "POS_TIP":"An adjective, describing a noun or pronoun.",
+      "TAGS":[
+        "old-fashioned",
+        "less common",
+        "regional"
+      ],
+      "DEF_EN":"Of or relating to Scotland or its people. (Now usually replaced by 'Scottish').",
+      "DEF_ZH":"苏格兰的；苏格兰人的。（现在通常被 'Scottish' 代替）。",
+      "SENT_EN":"The recipe calls for a traditional scotch broth.",
+      "SENT_ZH":"这个食谱需要传统的苏格兰肉汤。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Scottish",
+            "Scots"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral"
+}

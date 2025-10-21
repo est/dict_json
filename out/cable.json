@@ -1,0 +1,107 @@
+{
+  "WORD":"cable",
+  "IPA":"/ˈkeɪbəl/",
+  "CONJUGATES":"cables | cabled | cabling",
+  "ETYMOLOGY":"From Middle English, via Old North French cable, from Late Latin capulum ('lariat, rope'), ultimately related to Latin capere ('to take, seize').",
+  "SINCE":"Early 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] cable",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A thick, strong rope, or a bundle of insulated wires enclosed in a protective casing used for carrying electricity or data over a distance.",
+      "DEF_ZH":"粗大的绳索，或包有保护层、用于长距离输送电力或传输数据的电线束；电缆。",
+      "SENT_EN":"They lowered the equipment using a steel suspension cable.",
+      "SENT_ZH":"他们使用一根钢制悬索放下设备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wire",
+            "cord",
+            "hawser",
+            "line"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cable",
+      "POS":"noun",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "common",
+        "modern usage",
+        "abbreviation"
+      ],
+      "DEF_EN":"Short for cable television or cable internet service; a system for distributing television signals or internet data via coaxial or fiber optic cables.",
+      "DEF_ZH":"有线电视或有线互联网服务（的简称）；通过同轴电缆或光纤传输电视信号或互联网数据的系统。",
+      "SENT_EN":"We cancelled our satellite subscription and switched to cable.",
+      "SENT_ZH":"我们取消了卫星电视订阅，改用了有线电视。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "broadband",
+            "fiber",
+            "satellite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cable [sth] [to sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "less common",
+        "historical",
+        "communication"
+      ],
+      "DEF_EN":"To send a message (especially a telegram) over a long distance by electric cable, usually a submarine cable.",
+      "DEF_ZH":"（尤指通过海底电缆）向远方发送电报或消息。",
+      "SENT_EN":"The embassy cabled the news of the treaty signing back home.",
+      "SENT_ZH":"大使馆通过电报将签署条约的消息传回了国内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "telegraph",
+            "wire",
+            "transmit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] cable (knit)",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "specific usage",
+        "craft",
+        "knitting"
+      ],
+      "DEF_EN":"A style of knitting characterized by patterns of crossed stitches that resemble twisted ropes.",
+      "DEF_ZH":"（编织）麻花针法；一种类似绞绳的交叉线迹图案。",
+      "SENT_EN":"She chose a beautiful Aran cable pattern for the sweater.",
+      "SENT_ZH":"她为这件毛衣选择了一个漂亮的阿兰麻花图案。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "knit",
+            "stitch",
+            "pattern"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Telecommunications"
+}

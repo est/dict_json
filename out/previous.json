@@ -1,0 +1,57 @@
+{
+  "WORD":"previous",
+  "IPA":"/ˈpriːviəs/",
+  "CONJUGATES":"previously (adverb)",
+  "ETYMOLOGY":"Late 15th century, from Latin praevius ('going before, preceding'), from prae- ('before') + via ('way').",
+  "SINCE":"c. 1470s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[previous] [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "time"
+      ],
+      "DEF_EN":"Existing or occurring before in time or order; preceding.",
+      "DEF_ZH":"先前的；以前的；上一次的；在先的。",
+      "SENT_EN":"We need to analyze the data from the previous quarter before making a decision.",
+      "SENT_ZH":"在做出决定之前，我们需要分析前一个季度的数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prior",
+            "former",
+            "earlier",
+            "preceding"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "following",
+            "subsequent",
+            "next"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"without [previous] warning | [previous] experience",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "contextual",
+        "formal"
+      ],
+      "DEF_EN":"Happening or done without having been arranged, mentioned, or indicated before.",
+      "DEF_ZH":"未经事先安排、告知或指示的；预先没有的。",
+      "SENT_EN":"The changes were implemented without any previous consultation with the employees.",
+      "SENT_ZH":"这些变动是在没有事先与员工协商的情况下实施的。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"general use"
+}

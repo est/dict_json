@@ -1,0 +1,103 @@
+{
+  "WORD":"traverse",
+  "IPA":"/ˈtrævərs/",
+  "CONJUGATES":"traverses | traversed | traversing",
+  "ETYMOLOGY":"From Middle English traversen, derived from Old French traverser, meaning 'to cross,' ultimately from Latin trānsversus (turned across), combining trans- ('across') and vertere ('to turn').",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"traverse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "movement"
+      ],
+      "DEF_EN":"To travel or move across or through an area or large space.",
+      "DEF_ZH":"穿过；横越；跨越（尤指大片区域、距离或地形）。",
+      "SENT_EN":"The expedition team took six weeks to traverse the entire desert.",
+      "SENT_ZH":"探险队花了六周时间横越了整个沙漠。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cross",
+            "span",
+            "negotiate",
+            "pass through"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "journey",
+            "voyage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"traverse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To deny formally; to contradict or oppose a claim or indictment.",
+      "DEF_ZH":"正式否认；反驳或反对（指控或诉讼理由）。",
+      "SENT_EN":"The defense attorney attempted to traverse the key allegation made by the plaintiff.",
+      "SENT_ZH":"辩护律师试图反驳原告提出的关键指控。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deny",
+            "contradict",
+            "refute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a traverse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "military",
+        "architecture"
+      ],
+      "DEF_EN":"An obstacle, barrier, or screen designed to prevent flanking or enfilading fire (in military contexts), or a gallery or screen crossing a hall (in architecture).",
+      "DEF_ZH":"横向屏障；防侧射障碍物（军事或建筑中用作防护或分隔的结构）。",
+      "SENT_EN":"The trench included several earthen traverses to protect soldiers from shrapnel.",
+      "SENT_ZH":"战壕中包含数个土制横向屏障，以保护士兵免受弹片伤害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barrier",
+            "screen",
+            "obstacle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a traverse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "surveying"
+      ],
+      "DEF_EN":"A method or framework used in surveying that involves measuring the lengths and angles of a connected series of lines.",
+      "DEF_ZH":"导线测量；测量中用于确定点位的一系列相互连接的线段。",
+      "SENT_EN":"The surveyor used a closed traverse to measure the property boundary.",
+      "SENT_ZH":"测量员使用闭合导线测量了地产边界。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Formal (as a verb); Technical (as a noun in specific fields)."
+}

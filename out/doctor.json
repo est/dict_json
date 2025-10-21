@@ -1,0 +1,113 @@
+{
+  "WORD":"doctor",
+  "IPA":"/ˈdɒktər/",
+  "CONJUGATES":"doctor (noun singular) | doctors (noun plural) | doctor (verb present tense, 1st/2nd person singular/plural, 3rd person plural) | doctors (verb present tense, 3rd person singular) | doctored (verb past tense/past participle) | doctoring (verb present participle)",
+  "ETYMOLOGY":"From Old French doctour, from Latin doctor ('teacher'), from docere ('to teach'). Originally referred to a highly educated person.",
+  "SINCE":"Late 13th century (as 'teacher'); 14th century (as 'person skilled in medicine')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] doctor",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who is qualified to practice medicine; a physician.",
+      "DEF_ZH":"执业医师；医生",
+      "SENT_EN":"After years of study, she finally became a doctor.",
+      "SENT_ZH":"经过多年的学习，她终于成为一名医生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "physician",
+            "medic",
+            "GP"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "surgeon",
+            "pediatrician",
+            "veterinarian"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Doctor [sb]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"A person who has obtained a doctorate (the highest academic degree). Used as a title.",
+      "DEF_ZH":"博士 (学位或称谓)",
+      "SENT_EN":"Dr. Smith will deliver the keynote address at the conference.",
+      "SENT_ZH":"史密斯博士将在会议上发表主题演讲。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "PhD",
+            "professor",
+            "academic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"doctor [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To treat, mend, or repair something.",
+      "DEF_ZH":"治疗；修补；修理",
+      "SENT_EN":"He had to doctor his old bicycle to make it rideable again.",
+      "SENT_ZH":"他不得不修理他的旧自行车才能让它重新骑行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repair",
+            "mend",
+            "treat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"doctor [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "common",
+        "informal",
+        "negative connotation"
+      ],
+      "DEF_EN":"To tamper with something, especially to falsify or alter it deceptively.",
+      "DEF_ZH":"篡改；伪造 (尤指文件或数据)",
+      "SENT_EN":"The politician was accused of doctoring the evidence to suit his narrative.",
+      "SENT_ZH":"这位政客被指控篡改证据以迎合他的说辞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tamper",
+            "falsify",
+            "alter",
+            "manipulate",
+            "fabricate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (for medical and academic meanings), Informal (for verb meanings)"
+}

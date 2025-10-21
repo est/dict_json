@@ -1,0 +1,74 @@
+{
+  "WORD":"disembark",
+  "IPA":"/ˌdɪsɪmˈbɑːrk/",
+  "CONJUGATES":"disembarks | disembarking | disembarked",
+  "ETYMOLOGY":"From French 'désembarquer', from 'dés-' (expressing reversal) + 'embarquer' (to embark), from 'en-' (in) + 'barque' (boat).",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"disembark",
+      "POS":"vi",
+      "POS_TIP":"vi = intransitive verb (verb that does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "travel",
+        "transport"
+      ],
+      "DEF_EN":"To leave a ship, aircraft, or other vehicle after a journey.",
+      "DEF_ZH":"（乘客）下船、下飞机或下车。",
+      "SENT_EN":"Passengers were asked to disembark slowly and carefully.",
+      "SENT_ZH":"乘客们被要求缓慢而小心地走下飞机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "alight",
+            "get off",
+            "exit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "embark",
+            "board",
+            "get on"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disembark [sb] | disembark [sth]",
+      "POS":"vt",
+      "POS_TIP":"vt = transitive verb (verb that takes a direct object) | [sb] = somebody | [sth] = something",
+      "TAGS":[
+        "core word",
+        "common",
+        "travel",
+        "transport"
+      ],
+      "DEF_EN":"To remove passengers or goods from a ship, aircraft, or other vehicle.",
+      "DEF_ZH":"（从船、飞机或其他交通工具上）卸下（乘客或货物）。",
+      "SENT_EN":"The crew quickly disembarked the cargo.",
+      "SENT_ZH":"船员们迅速卸下了货物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unload",
+            "offload"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "load",
+            "embark"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral, commonly used in contexts related to travel and transportation."
+}

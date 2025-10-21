@@ -1,0 +1,128 @@
+{
+  "WORD":"file",
+  "IPA":"/faɪl/",
+  "CONJUGATES":"files | filing | filed",
+  "ETYMOLOGY":"For the meaning 'document/record': From Old French file 'thread, string, line', which evolved to mean a collection of documents threaded together. Related to Latin filum 'thread'.\r\nFor the meaning 'tool': From Old English fīl, related to Old Norse fíla 'file'.",
+  "SINCE":"14th century (document/row); 9th century (tool)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "technology",
+        "administration"
+      ],
+      "DEF_EN":"A collection of related data, documents, or records, especially one stored electronically or in a folder.",
+      "DEF_ZH":"（计算机）文件；档案；文件夹。",
+      "SENT_EN":"Please save the report as a PDF file before sending it.",
+      "SENT_ZH":"发送之前，请将报告保存为PDF文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "document",
+            "record",
+            "data",
+            "folder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"file [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "legal",
+        "administration"
+      ],
+      "DEF_EN":"To submit (a document, claim, or charge) officially for consideration or recording.",
+      "DEF_ZH":"正式提出；提交备案；归档。",
+      "SENT_EN":"Did you remember to file your tax return this year?",
+      "SENT_ZH":"你记得提交今年的纳税申报表了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "submit",
+            "register",
+            "lodge",
+            "enroll"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "tool",
+        "manual"
+      ],
+      "DEF_EN":"A steel tool with serrated surfaces, typically used for shaping, smoothing, or reducing hard materials like metal or wood.",
+      "DEF_ZH":"锉刀。",
+      "SENT_EN":"He grabbed a metal file from the workbench to smooth the rough edge.",
+      "SENT_ZH":"他从工作台上拿了一把金属锉刀来磨平粗糙的边缘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rasp",
+            "abrasive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"file [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "tool",
+        "manual"
+      ],
+      "DEF_EN":"To smooth, shape, or reduce (something) using a file (tool).",
+      "DEF_ZH":"用锉刀锉平；打磨。",
+      "SENT_EN":"The sculptor spent the morning filing the marble into the required shape.",
+      "SENT_ZH":"这位雕塑家花了一上午的时间，用锉刀将大理石打磨成所需的形状。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abrade",
+            "smooth",
+            "grind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[in single file]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "military",
+        "common/phrase"
+      ],
+      "DEF_EN":"A line of people or things, arranged one behind the other.",
+      "DEF_ZH":"纵队；一列纵行。",
+      "SENT_EN":"The students were asked to walk down the stairs in single file.",
+      "SENT_ZH":"学生们被要求排成单行下楼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "line",
+            "column",
+            "queue"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Technology, Administration, Manual trades."
+}

@@ -1,0 +1,99 @@
+{
+  "WORD":"integrate",
+  "IPA":"/ˈɪntɪɡreɪt/",
+  "CONJUGATES":"integrates | integrated | integrating",
+  "ETYMOLOGY":"From Latin *integrat-* (past participle stem of *integrāre* 'make whole'), from *integer* 'whole, complete'.",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"integrate [sth] (into/with [sth]) | integrate (into/with [sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Combine (one thing) with another so that they become a whole, or become a whole themselves.",
+      "DEF_ZH":"将（一事物）与另一事物结合起来，使其成为一个整体；或使（事物）自身成为一个整体。",
+      "SENT_EN":"It's important to integrate new features into the existing software.",
+      "SENT_ZH":"将新功能整合到现有软件中非常重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combine",
+            "merge",
+            "unite",
+            "incorporate",
+            "blend"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "disconnect",
+            "divide",
+            "fragment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"integrate [sb/sth] (into [sth]) | integrate (into [sth])",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "social context",
+        "common"
+      ],
+      "DEF_EN":"Bring people or groups with particular characteristics into equal participation in or membership of a social group or institution; or for people/groups to do so themselves.",
+      "DEF_ZH":"使具有特定特征的人或群体融入社会群体或机构，获得平等参与或成员资格；或指人/群体自身融入。",
+      "SENT_EN":"The program aims to help refugees integrate into the local community.",
+      "SENT_ZH":"该项目旨在帮助难民融入当地社区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assimilate",
+            "include",
+            "absorb",
+            "blend in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "segregate",
+            "exclude",
+            "isolate",
+            "discriminate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"integrate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"Find the integral of (a function or expression).",
+      "DEF_ZH":"求（函数或表达式）的积分。",
+      "SENT_EN":"To find the area, you need to integrate the function over the given interval.",
+      "SENT_ZH":"要找到面积，你需要对给定区间内的函数进行积分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "integral",
+            "differentiation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, General"
+}

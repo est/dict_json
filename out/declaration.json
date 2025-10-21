@@ -1,0 +1,98 @@
+{
+  "WORD":"declaration",
+  "IPA":"/ˌdɛkləˈreɪʃən/",
+  "CONJUGATES":"declarations",
+  "ETYMOLOGY":"From Old French *declaration*, from Latin *declaratio* 'a making clear', from *declarare* 'to make clear', from *de-* 'completely' + *clarare* 'to clarify' (from *clarus* 'clear').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a declaration (of something)",
+      "POS":"n",
+      "POS_TIP":"noun - A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"A formal or explicit statement or announcement, especially one made by a government or official body.",
+      "DEF_ZH":"正式或明确的声明或公告，尤指由政府或官方机构发布的。",
+      "SENT_EN":"The government issued a declaration of emergency.",
+      "SENT_ZH":"政府发布了紧急状态声明。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "announcement",
+            "statement",
+            "proclamation",
+            "pronouncement",
+            "manifesto"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Declaration of Independence",
+            "Universal Declaration of Human Rights"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the declaration of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun - A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The act or process of stating something formally or explicitly.",
+      "DEF_ZH":"正式或明确声明某事的过程或行为。",
+      "SENT_EN":"The declaration of war was a historic event.",
+      "SENT_ZH":"宣战是一个历史性事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proclamation",
+            "pronouncement",
+            "announcement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a declaration (form)",
+      "POS":"n",
+      "POS_TIP":"noun - A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "specialized",
+        "legal",
+        "financial"
+      ],
+      "DEF_EN":"A document that officially states information, especially concerning taxable goods or income, typically for customs or tax purposes.",
+      "DEF_ZH":"一份正式说明信息的文件，特别是关于应税商品或收入，通常用于海关或税务目的。",
+      "SENT_EN":"You must fill out a customs declaration form upon arrival.",
+      "SENT_ZH":"抵达时，您必须填写一份海关申报单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "report",
+            "form",
+            "statement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "customs form",
+            "tax return"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, legal, administrative, general"
+}

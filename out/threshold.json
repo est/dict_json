@@ -1,0 +1,82 @@
+{
+  "WORD":"threshold",
+  "IPA":"/ˈθreʃˌhoʊld/",
+  "CONJUGATES":"thresholds (plural)",
+  "ETYMOLOGY":"From Old English þrescwald, þresholde (literally 'door-sill'), probably from Old English þrescan 'to thresh, trample' + wald 'wood, forest' (related to Old Norse völlr 'field', Old High German wald 'forest'). The idea is of a piece of wood trodden upon.",
+  "SINCE":"Before 900 AD (Old English period)",
+  "MEANINGS":[
+    {
+      "PATTERN":"threshold",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A strip of wood or stone forming the bottom of a doorway and crossed in entering a house or room.",
+      "DEF_ZH":"门槛；门口的入口处，通常是木头或石头制成的。",
+      "SENT_EN":"He paused on the threshold before entering the house.",
+      "SENT_ZH":"他进屋前在门槛上停顿了一下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "doorstep",
+            "doorway",
+            "entrance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"threshold of [sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"The point of beginning; the point at which something starts to happen or have an effect.",
+      "DEF_ZH":"起点；开端；某一事物开始发生或产生影响的临界点。",
+      "SENT_EN":"They are on the threshold of a new era of scientific discovery.",
+      "SENT_ZH":"他们正处于科学发现新纪元的开端。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brink",
+            "verge",
+            "cusp",
+            "onset",
+            "beginning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"threshold",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"The magnitude or intensity that must be exceeded for a certain reaction, phenomenon, or effect to occur or be manifested.",
+      "DEF_ZH":"阈值；临界值；使特定反应、现象或效应发生或显现的强度或幅度。",
+      "SENT_EN":"The human ear can detect sounds above a certain amplitude threshold.",
+      "SENT_ZH":"人耳能探测到高于特定振幅阈值的声音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "level",
+            "point"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

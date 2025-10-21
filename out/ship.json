@@ -1,0 +1,110 @@
+{
+  "WORD":"ship",
+  "IPA":"/ʃɪp/",
+  "CONJUGATES":"ship (n.) | ships (n.pl.) | ship (v.) | ships (v.3rd sg. present) | shipping (v.pres.part/gerund) | shipped (v.past/past.part)",
+  "ETYMOLOGY":"From Old English 'scip' (vessel, boat), from Proto-Germanic '*skipan'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] ship",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large boat or vessel for transporting people or goods across water.",
+      "DEF_ZH":"在水上运载人员或货物的大型船只或船舶。",
+      "SENT_EN":"The cargo ship arrived at the port early this morning.",
+      "SENT_ZH":"货船今早很早就抵达港口了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vessel",
+            "boat",
+            "craft",
+            "liner",
+            "freighter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "captain",
+            "sailor",
+            "navy",
+            "sea"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ship [sth] [to somewhere]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To send or transport goods, especially by sea or other commercial carriers.",
+      "DEF_ZH":"运送或运输货物，尤指通过海运或其他商业承运人。",
+      "SENT_EN":"We need to ship these products to our customers by Friday.",
+      "SENT_ZH":"我们必须在周五之前将这些产品运送给我们的客户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "send",
+            "transport",
+            "deliver",
+            "dispatch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shipping",
+            "logistics",
+            "cargo",
+            "freight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ship [two characters/people]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "informal",
+        "slang",
+        "modern usage",
+        "fandom"
+      ],
+      "DEF_EN":"To support or wish for a particular romantic relationship between two fictional characters or real people.",
+      "DEF_ZH":"支持或期望两个虚构角色或真实人物之间发展出浪漫关系。",
+      "SENT_EN":"Many fans ship the two main characters in the TV series.",
+      "SENT_ZH":"许多粉丝都支持这部电视剧中的两位主角组成CP。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pair",
+            "matchmake"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fandom",
+            "fanfiction",
+            "OTP",
+            "pairing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in everyday conversation and business for its noun and transport verb meanings; the informal verb meaning is prevalent in fan culture and online communities."
+}

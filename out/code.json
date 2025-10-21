@@ -1,0 +1,148 @@
+{
+  "WORD":"code",
+  "IPA":"/koʊd/",
+  "CONJUGATES":"noun: codes | verb: codes | coding | coded",
+  "ETYMOLOGY":"From Old French 'code', from Latin 'codex' (plural 'codices') meaning 'trunk of a tree, wooden tablet, book'. Originally referred to a written law or collection of laws.",
+  "SINCE":"Late 13th century (for legal sense); early 20th century (for computer programming sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a code of [sth]",
+      "POS":"n.count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A system of laws, regulations, or principles governing a particular sphere of activity or conduct.",
+      "DEF_ZH":"管理特定活动或行为领域的一套法律、法规或原则。",
+      "SENT_EN":"The company operates under a strict code of ethics.",
+      "SENT_ZH":"该公司遵循严格的道德准则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protocol",
+            "guidelines",
+            "rules",
+            "laws",
+            "morals"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a code",
+      "POS":"n.count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A system of words, letters, figures, or symbols used to represent others, especially for the purposes of secrecy or communication.",
+      "DEF_ZH":"一种用词语、字母、数字或符号来表示其他事物的系统，尤指用于保密或交流。",
+      "SENT_EN":"They communicated using a secret code known only to them.",
+      "SENT_ZH":"他们使用只有他们才知道的秘密代码进行交流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cipher",
+            "cryptogram"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Morse code",
+            "QR code",
+            "bar code"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"code",
+      "POS":"n.uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"Instructions for a computer program written in a specific language.",
+      "DEF_ZH":"用特定语言编写的计算机程序指令。",
+      "SENT_EN":"He spent all night writing code for the new application.",
+      "SENT_ZH":"他熬夜为新应用程序编写代码。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "script",
+            "program",
+            "instructions"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "source code",
+            "binary code"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"code [sth] | code [for sth]",
+      "POS":"v.intr | v.tr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"To write computer programs.",
+      "DEF_ZH":"编写计算机程序。",
+      "SENT_EN":"She learned to code in Python during her university years.",
+      "SENT_ZH":"她在大学期间学会了用 Python 编程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "program",
+            "develop",
+            "script"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"code [sth]",
+      "POS":"v.tr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To convert a message or information into a coded form.",
+      "DEF_ZH":"将信息转换成代码形式。",
+      "SENT_EN":"The genetic information is coded within DNA molecules.",
+      "SENT_ZH":"遗传信息被编码在 DNA 分子中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "encode",
+            "encrypt"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "decode",
+            "decrypt"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

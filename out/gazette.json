@@ -1,0 +1,61 @@
+{
+  "WORD":"gazette",
+  "IPA":"/ɡəˈzɛt/",
+  "CONJUGATES":"gazettes | gazetting | gazetted",
+  "ETYMOLOGY":"From French gazette, from Italian gazzetta (a small Venetian coin), which was the price of the first newspaper in Venice in the 16th century. The newspaper itself became known by the coin's name.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a gazette",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "formal",
+        "official"
+      ],
+      "DEF_EN":"A newspaper or an official journal, often one published by a government or an organization, containing public notices or information.",
+      "DEF_ZH":"报纸；公报（尤指政府或组织的官方刊物，刊登公告或信息）",
+      "SENT_EN":"The official announcement was published in the government gazette.",
+      "SENT_ZH":"官方公告刊登在政府公报上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "journal",
+            "newspaper",
+            "bulletin",
+            "chronicle",
+            "register"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gazette [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb is a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "formal",
+        "official",
+        "specific usage"
+      ],
+      "DEF_EN":"To publish (an official announcement or appointment) in a gazette.",
+      "DEF_ZH":"将（官方公告或任命）刊登在公报上。",
+      "SENT_EN":"The new regulations were officially gazetted last week.",
+      "SENT_ZH":"新规定已于上周正式刊登在公报上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "publish",
+            "announce",
+            "promulgate",
+            "declare"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, typically used in official or governmental contexts."
+}

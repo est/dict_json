@@ -1,0 +1,65 @@
+{
+  "WORD":"encyclopedia",
+  "IPA":"/ɪnˌsaɪkləˈpiːdiə/",
+  "CONJUGATES":"encyclopedias",
+  "ETYMOLOGY":"From Neo-Latin *encyclopaedia*, which comes from Ancient Greek *enkýklios paideía* (ἐγκύκλιος παιδεία), literally 'general education' or 'circle of instruction,' from *enkýklios* (ἐγκύκλιος, 'circular, general') + *paideía* (παιδεία, 'education, upbringing').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] encyclopedia",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"A book or set of books giving information on many subjects or on many aspects of one subject, typically arranged alphabetically.",
+      "DEF_ZH":"一部或一套书籍，提供关于许多主题或一个主题的许多方面的信息，通常按字母顺序排列。",
+      "SENT_EN":"He consulted a medical encyclopedia to understand the symptoms.",
+      "SENT_ZH":"他查阅了一本医学百科全书以了解这些症状。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compendium",
+            "lexicon",
+            "dictionary",
+            "thesaurus"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Wikipedia",
+            "Britannica"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] encyclopedia [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"A person or thing that is an exhaustive source of information on a particular subject.",
+      "DEF_ZH":"指某人或某物在特定主题上是详尽的信息来源。",
+      "SENT_EN":"My grandfather is an encyclopedia of local history.",
+      "SENT_ZH":"我的祖父是本地历史的活百科全书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expert",
+            "authority",
+            "repository"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

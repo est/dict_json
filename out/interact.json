@@ -1,0 +1,89 @@
+{
+  "WORD":"interact",
+  "IPA":"/ˌɪntərˈækt/",
+  "CONJUGATES":"interacts | interacting | interacted",
+  "ETYMOLOGY":"Back-formation from 'interaction' (which dates to 1832), from Latin 'inter-' (between, among) + 'actio' (action), from 'agere' (to do, to act). The verb 'interact' appeared later.",
+  "SINCE":"circa 1890",
+  "MEANINGS":[
+    {
+      "PATTERN":"interact [with sb/sth]",
+      "POS":"v.intr.",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "social interaction",
+        "system dynamics"
+      ],
+      "DEF_EN":"To act together or towards others or with others; to communicate or be involved directly with someone or something.",
+      "DEF_ZH":"相互作用；相互影响；互动；交流；与（某人）沟通或接触。",
+      "SENT_EN":"It's crucial for team members to interact effectively to achieve their goals.",
+      "SENT_ZH":"团队成员之间有效互动对于实现目标至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "communicate",
+            "engage",
+            "socialize",
+            "collaborate",
+            "cooperate",
+            "connect",
+            "interface"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "avoid",
+            "ignore",
+            "disregard",
+            "isolate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interaction",
+            "interactivity",
+            "interactive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interact [sth] [with sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb: a verb that takes one or more direct objects",
+      "TAGS":[
+        "technical",
+        "chemistry",
+        "physics",
+        "biology"
+      ],
+      "DEF_EN":"To cause or allow two or more things to have an effect on one another.",
+      "DEF_ZH":"使（事物）相互作用；使（事物）相互影响。",
+      "SENT_EN":"Certain chemicals can interact dangerously when mixed without proper precautions.",
+      "SENT_ZH":"某些化学品在没有适当预防措施的情况下混合可能会危险地相互作用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combine",
+            "react",
+            "mix",
+            "blend"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reaction",
+            "compound"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across general, academic, and technical contexts."
+}

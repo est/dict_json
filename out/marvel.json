@@ -1,0 +1,95 @@
+{
+  "WORD":"marvel",
+  "IPA":"/ˈmɑːrvəl/",
+  "CONJUGATES":"marvels | marveling | marvelled (US: marveled)",
+  "ETYMOLOGY":"From Old French merveille ('a wonder, miracle'), from Vulgar Latin *mirabilia ('wonderful things'), neuter plural of Latin mirabilis ('wonderful'), from mirari ('to wonder at, admire').",
+  "SINCE":"circa 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"a marvel",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A wonderful or astonishing person or thing.",
+      "DEF_ZH":"令人惊奇的人或事；奇迹",
+      "SENT_EN":"The human brain is a marvel of evolution.",
+      "SENT_ZH":"人脑是进化的奇迹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wonder",
+            "miracle",
+            "phenomenon",
+            "prodigy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"marvel at [sth/sb]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To be filled with wonder or astonishment when observing something or someone.",
+      "DEF_ZH":"对…感到惊奇；惊叹",
+      "SENT_EN":"She marveled at his ability to speak so many languages.",
+      "SENT_ZH":"她惊叹于他能说多种语言的能力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wonder",
+            "gaze in amazement",
+            "be astonished",
+            "be awestruck"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"marvel [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "literary"
+      ],
+      "DEF_EN":"To wonder at something (used directly without a preposition).",
+      "DEF_ZH":"直接地对某事感到惊奇",
+      "SENT_EN":"I marvel the intricate beauty of the snowflake.",
+      "SENT_ZH":"我惊叹于雪花精巧的美丽。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"Marvel (as proper noun)",
+      "POS":"n",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "brand",
+        "popular culture"
+      ],
+      "DEF_EN":"A popular American comic book and multimedia entertainment company, famous for its superhero characters.",
+      "DEF_ZH":"一家著名的美国漫画和多媒体娱乐公司，以其超级英雄角色而闻名。",
+      "SENT_EN":"He collects figures from the Marvel Cinematic Universe.",
+      "SENT_ZH":"他收集漫威电影宇宙的人物模型。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "superhero",
+            "comic",
+            "DC Comics"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

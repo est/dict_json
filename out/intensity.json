@@ -1,0 +1,77 @@
+{
+  "WORD":"intensity",
+  "IPA":"/ɪnˈtɛnsɪti/",
+  "CONJUGATES":"intensities (plural)",
+  "ETYMOLOGY":"From French intensité or Medieval Latin intensitas, derived from Latin intensus (past participle of intendere 'to stretch out, strain').",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"intensity [of sth]",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "core word",
+        "common",
+        "science"
+      ],
+      "DEF_EN":"The measurable amount, degree, or magnitude of a physical force, such as energy, light, sound, or heat.",
+      "DEF_ZH":"（光、声、热、地震等的）强度；烈度；强劲程度。",
+      "SENT_EN":"The storm increased in intensity, worrying local residents.",
+      "SENT_ZH":"风暴的强度增加了，令当地居民感到担忧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "strength",
+            "magnitude",
+            "force",
+            "power",
+            "severity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "decibel",
+            "watt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intensity [of feeling/effort]",
+      "POS":"n, uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "common",
+        "emotion",
+        "abstract"
+      ],
+      "DEF_EN":"The quality of being very concentrated, deeply felt, or highly active; fervor or passion.",
+      "DEF_ZH":"强烈的程度；浓厚；专注度；热切。",
+      "SENT_EN":"She focused on her studies with an intensity rarely seen in undergraduates.",
+      "SENT_ZH":"她以本科生中罕见的专注度投入到学习中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fervor",
+            "passion",
+            "earnestness",
+            "vehemence",
+            "vigour"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "mildness",
+            "lethargy",
+            "indifference"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral, frequently used in both technical and general contexts."
+}

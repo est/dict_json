@@ -1,0 +1,64 @@
+{
+  "WORD":"thresh",
+  "IPA":"/θrɛʃ/",
+  "CONJUGATES":"thresh | threshes | threshing | threshed",
+  "ETYMOLOGY":"From Old English 'þerscan' or 'þrescan' meaning 'to thrash, tread, beat', related to Old Norse 'þreskja'. Ultimately from Proto-Germanic '*þreskaną'.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"thresh [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "agriculture",
+        "historical"
+      ],
+      "DEF_EN":"To beat the stems and husks of a cereal plant to separate the grain from them.",
+      "DEF_ZH":"通过敲打谷物秸秆和谷壳来使其谷粒分离。",
+      "SENT_EN":"Farmers used to thresh the wheat by hand after harvesting it.",
+      "SENT_ZH":"农民们过去在收割后用手脱粒小麦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flail",
+            "beat",
+            "winnow"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "threshing machine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thresh [about/around]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "rare",
+        "figurative",
+        "archaic"
+      ],
+      "DEF_EN":"To move or flail about violently; to toss and turn.",
+      "DEF_ZH":"剧烈地活动或挣扎；翻来覆去。",
+      "SENT_EN":"The wounded animal continued to thresh about in the tall grass.",
+      "SENT_ZH":"受伤的动物在长草中继续挣扎翻腾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flail",
+            "writhe",
+            "struggle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral, often used in historical or agricultural contexts."
+}

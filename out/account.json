@@ -1,0 +1,126 @@
+{
+  "WORD":"account",
+  "IPA":"/əˈkaʊnt/",
+  "CONJUGATES":"accounts | accounting | accounted",
+  "ETYMOLOGY":"From Old French *aconter* ('to count, render an account'), from *a-* (to) + *conter* ('to count, relate'). Ultimately related to Latin *computare*.",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] account [for sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"A record or statement of financial expenditure and receipts relating to a particular period or purpose.",
+      "DEF_ZH":"账目；财务记录；账户",
+      "SENT_EN":"We need to review the company’s accounts before the end of the fiscal year.",
+      "SENT_ZH":"我们需要在财政年度结束前审核公司的账目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ledger",
+            "statement",
+            "record"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] bank/social media/online account",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"An arrangement with a bank, company, or service provider to use their services, often requiring registration or login details.",
+      "DEF_ZH":"（银行、网络、服务等的）账户；账号",
+      "SENT_EN":"You must create a user account before you can download the software.",
+      "SENT_ZH":"在下载该软件之前，您必须创建一个用户账号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "profile",
+            "membership",
+            "subscription"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] account [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "narrative"
+      ],
+      "DEF_EN":"A report or description of an event or series of events.",
+      "DEF_ZH":"报告；叙述；描述",
+      "SENT_EN":"The witness gave a detailed account of the car accident.",
+      "SENT_ZH":"目击者详细描述了那起车祸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narrative",
+            "report",
+            "story"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"account for [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "common",
+        "phrasal verb"
+      ],
+      "DEF_EN":"To explain the reason for something or to justify an action; to make up a specific amount or proportion.",
+      "DEF_ZH":"解释；说明（原因、去向等）；占（比例）",
+      "SENT_EN":"The new taxes account for the government’s sudden rise in revenue.",
+      "SENT_ZH":"新税收是政府收入突然增加的原因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "explain",
+            "justify",
+            "constitute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"of [great/little/no] account",
+      "POS":"n.",
+      "POS_TIP":"noun (used idiomatically)",
+      "TAGS":[
+        "formal",
+        "idiomatic"
+      ],
+      "DEF_EN":"Importance or value (usually used in negative contexts, e.g., 'of no account').",
+      "DEF_ZH":"重要性；价值；考量",
+      "SENT_EN":"His personal feelings were of no account to the committee’s final decision.",
+      "SENT_ZH":"他的个人感受对委员会的最终决定没有任何意义。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "importance",
+            "significance",
+            "value"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Business"
+}

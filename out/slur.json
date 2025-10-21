@@ -1,0 +1,125 @@
+{
+  "WORD":"slur",
+  "IPA":"/slɜːr/",
+  "CONJUGATES":"slurs | slurred | slurring",
+  "ETYMOLOGY":"Mid-17th century (as a verb): perhaps from Dutch slerren 'to drag' or Low German sloren 'to trail, drag'. The noun sense of 'an insulting remark' dates from the late 18th century. The musical sense dates from the early 18th century.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a slur against sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "derogatory"
+      ],
+      "DEF_EN":"A derogatory or disparaging remark or insinuation.",
+      "DEF_ZH":"诽谤；污蔑；诋毁性的言论或暗指",
+      "SENT_EN":"He apologized for making a racial slur during the meeting.",
+      "SENT_ZH":"他为自己在会议期间发表的种族歧视言论道歉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insult",
+            "taunt",
+            "jibe",
+            "slander",
+            "aspersion"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb slur (their words)]",
+      "POS":"vintr | vtr",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To speak unclearly or indistinctly, often due to drunkenness, illness, or fatigue.",
+      "DEF_ZH":"口齿不清地说；含糊地说（常因醉酒、生病或疲劳）",
+      "SENT_EN":"After the accident, he started to slur his words.",
+      "SENT_ZH":"事故发生后，他开始口齿不清。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mumble",
+            "mutter",
+            "garble"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "articulate",
+            "enunciate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a slur (music)]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "music term"
+      ],
+      "DEF_EN":"A curved line in musical notation indicating that notes are to be played legato (smoothly and connected).",
+      "DEF_ZH":"连音符（音乐术语，表示音符应圆滑连贯地演奏）",
+      "SENT_EN":"The composer used a slur to connect the two melodic phrases.",
+      "SENT_ZH":"作曲家使用连音符来连接两个旋律乐句。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "legato mark"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        },
+        {
+          "T":"related",
+          "V":[
+            "legato",
+            "tie"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[slur notes]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "music term"
+      ],
+      "DEF_EN":"To play or sing (notes) smoothly and connectedly, as indicated by a slur.",
+      "DEF_ZH":"圆滑连贯地演奏或演唱（音符，如连音符所示）",
+      "SENT_EN":"You need to slur these notes to achieve the desired effect.",
+      "SENT_ZH":"你需要圆滑连贯地演奏这些音符以达到预期的效果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "play legato"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "staccato"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with specific technical use in music."
+}

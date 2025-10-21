@@ -1,0 +1,67 @@
+{
+  "WORD":"integral",
+  "IPA":"/ɪnˈtɛɡrəl/",
+  "CONJUGATES":"more integral | most integral | integrals",
+  "ETYMOLOGY":"From Latin integer ('whole', 'complete'), ultimately from in- ('not') + tangere ('to touch'), meaning 'untouched, whole'. The mathematical sense dates from the late 17th century.",
+  "SINCE":"Early 17th century (adjective); late 17th century (mathematical noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"integral (to [sth])",
+      "POS":"adj",
+      "POS_TIP":"Adjective: A word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Necessary to make a whole complete; essential or fundamental.",
+      "DEF_ZH":"构成整体所必需的；基本的，不可或缺的。",
+      "SENT_EN":"A good sense of humor is an integral part of his personality.",
+      "SENT_ZH":"良好的幽默感是他个性中不可或缺的一部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "essential",
+            "fundamental",
+            "vital",
+            "indispensable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "superfluous",
+            "unnecessary",
+            "peripheral"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an integral | the integral of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun: A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "academic",
+        "mathematics",
+        "common (in context)"
+      ],
+      "DEF_EN":"A function of which a given function is the derivative; an antiderivative. Or, the result of a mathematical operation that sums an infinite number of infinitesimal parts.",
+      "DEF_ZH":"（数学）积分；积分运算的结果。",
+      "SENT_EN":"He spent hours calculating the definite integral of the complex function.",
+      "SENT_ZH":"他花了数小时计算复杂函数的定积分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "calculus",
+            "derivative",
+            "summation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, academic"
+}

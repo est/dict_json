@@ -1,0 +1,117 @@
+{
+  "WORD":"prime",
+  "IPA":"/praɪm/",
+  "CONJUGATES":"primes | priming | primed | primer | primest (V/Adj inflections)",
+  "ETYMOLOGY":"From Middle English *prime*, from Old French *prime*, derived from Latin *prīmus* ('first, chief, principal, best').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"prime [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "quality"
+      ],
+      "DEF_EN":"First in importance, rank, or quality; excellent.",
+      "DEF_ZH":"首要的；最优秀的；最好的；一流的。",
+      "SENT_EN":"Location is always a prime consideration for real estate investors.",
+      "SENT_ZH":"地段对房地产投资者来说始终是首要的考量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chief",
+            "principal",
+            "main",
+            "top-quality",
+            "superior"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "secondary",
+            "inferior",
+            "subordinate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in [sb]'s prime",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "temporal"
+      ],
+      "DEF_EN":"The period of a person's life when they are strongest, most vigorous, or most successful; the peak or zenith.",
+      "DEF_ZH":"全盛时期；鼎盛阶段；精力充沛的时期。",
+      "SENT_EN":"She was an Olympic champion athlete in the prime of her career.",
+      "SENT_ZH":"在她职业生涯的鼎盛时期，她曾是一名奥运冠军运动员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peak",
+            "height",
+            "zenith",
+            "heyday"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prime [sth] [for sth] | prime [sb] [to do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action",
+        "preparation"
+      ],
+      "DEF_EN":"To prepare something for use or action; specifically, to apply a preliminary coating (like paint primer) or to provide someone with necessary information beforehand (coach/brief).",
+      "DEF_ZH":"准备；预先处理；给（表面）涂底漆；（给某人）提供所需信息或指导。",
+      "SENT_EN":"The witness was carefully primed before taking the stand.",
+      "SENT_ZH":"证人在出庭作证前被仔细地提供了信息（或做了准备）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prepare",
+            "set up",
+            "coach",
+            "brief",
+            "ready"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prime number | prime",
+      "POS":"adj | n",
+      "POS_TIP":"adjective or noun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "specific"
+      ],
+      "DEF_EN":"(Of an integer greater than 1) having no positive divisors other than 1 and itself.",
+      "DEF_ZH":"（大于1的整数）质数的，素数的；质数，素数。",
+      "SENT_EN":"The number 13 is a prime, as it cannot be divided evenly by any number except one and itself.",
+      "SENT_ZH":"数字13是一个质数，因为它不能被除了1和它自己以外的任何数整除。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "composite"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, or Technical (depending on context)"
+}

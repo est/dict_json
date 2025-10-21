@@ -1,0 +1,86 @@
+{
+  "WORD":"name",
+  "IPA":"/neɪm/",
+  "CONJUGATES":"names | naming | named",
+  "ETYMOLOGY":"From Old English nama, from Proto-Germanic *namō, ultimately from Proto-Indo-European *h₁nómn̥.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s name | [sth]'s name",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A word or term by which a person, animal, place, or thing is known, addressed, or referred to.",
+      "DEF_ZH":"用于称呼、指代或识别某人、动物、地点或事物的词语或术语。",
+      "SENT_EN":"What is your name? My name is Alex.",
+      "SENT_ZH":"你叫什么名字？我叫亚历克斯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "designation",
+            "appellation",
+            "cognomen"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "title",
+            "brand",
+            "identity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"name [sb] | name [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb (a verb that takes one or more objects)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To give a name to someone or something.",
+      "DEF_ZH":"给某人或某物取名或命名。",
+      "SENT_EN":"They decided to name their daughter Lily.",
+      "SENT_ZH":"他们决定给女儿起名叫莉莉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "call",
+            "designate",
+            "christen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"name [sth] | name [sb]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb (a verb that takes one or more objects)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To identify or specify something or someone by name.",
+      "DEF_ZH":"说出某事或某人的名字，从而识别或指定。",
+      "SENT_EN":"Can you name three countries in Africa?",
+      "SENT_ZH":"你能说出非洲的三个国家吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identify",
+            "list",
+            "mention"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

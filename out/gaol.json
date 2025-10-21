@@ -1,0 +1,71 @@
+{
+  "WORD":"jail",
+  "IPA":"/dʒeɪl/",
+  "CONJUGATES":"noun: jails | verb: jails | jailing | jailed",
+  "ETYMOLOGY":"From Old French gaiole, jaiole, from Vulgar Latin *caveola, diminutive of Latin cavea 'cage, enclosure'. The spelling 'gaol' is primarily British English and older, while 'jail' became dominant in American English and is now widely used globally.",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] jail",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A public building where people are legally held as a punishment for a crime they have committed or while awaiting trial.",
+      "DEF_ZH":"监狱；看守所；拘留所。一个公共建筑，人们因犯罪被判刑或等待审判而被合法关押的地方。",
+      "SENT_EN":"He spent five years in jail for robbery.",
+      "SENT_ZH":"他因抢劫罪在监狱里待了五年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prison",
+            "penitentiary",
+            "correctional facility"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "custody",
+            "cell",
+            "inmate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"jail [sb]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put someone in jail; to imprison.",
+      "DEF_ZH":"监禁；逮捕入狱。将某人关进监狱；囚禁。",
+      "SENT_EN":"The police jailed the suspect after questioning him.",
+      "SENT_ZH":"警方在审问嫌疑犯后将其监禁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imprison",
+            "incarcerate",
+            "confine"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "release",
+            "free"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (Note: 'gaol' is an alternative, primarily British, spelling)."
+}

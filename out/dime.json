@@ -1,0 +1,59 @@
+{
+  "WORD":"dime",
+  "IPA":"/daɪm/",
+  "CONJUGATES":"dimes (plural)",
+  "ETYMOLOGY":"From Old French disme, from Latin decima (pars) 'tenth (part)', feminine of decimus 'tenth', from decem 'ten'.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] dime",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "currency",
+        "USA"
+      ],
+      "DEF_EN":"A U.S. coin worth ten cents.",
+      "DEF_ZH":"美国的一种硬币，价值十美分。",
+      "SENT_EN":"He paid for the candy with a dime.",
+      "SENT_ZH":"他用一枚一角硬币买了糖果。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "penny",
+            "nickel",
+            "quarter",
+            "dollar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dime",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "old word",
+        "historical",
+        "religion",
+        "rare"
+      ],
+      "DEF_EN":"(Historical, obsolete) A tenth part; a tithe.",
+      "DEF_ZH":"（历史，废弃）十分之一；什一税。",
+      "SENT_EN":"In ancient times, people often paid a dime of their earnings to the church.",
+      "SENT_ZH":"在古代，人们经常将收入的十分之一献给教会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tithe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (for coin meaning); Formal/Historical (for tithe meaning)"
+}

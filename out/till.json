@@ -1,0 +1,100 @@
+{
+  "WORD":"till",
+  "IPA":"/tɪl/",
+  "CONJUGATES":"tills | tilled | tilling",
+  "ETYMOLOGY":"For the preposition/conjunction: From Old English *til*, from Old Norse *til* ('to', 'until'). For the verb: From Old English *tilian* ('to strive after, work at, cultivate'). For the noun (money drawer): From Old French *tirel* ('drawer, quiver'), related to *tirer* ('to draw').",
+  "SINCE":"Preposition/Conjunction & Verb: Before 12th century | Noun (money drawer): Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"till [time]",
+      "POS":"prep",
+      "POS_TIP":"Preposition: A word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Up to the time of; until.",
+      "DEF_ZH":"直到…为止；在…以前。",
+      "SENT_EN":"They waited till evening.",
+      "SENT_ZH":"他们一直等到晚上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "until",
+            "unto"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"till [clause]",
+      "POS":"conj",
+      "POS_TIP":"Conjunction: A word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Up to the time that; until.",
+      "DEF_ZH":"直到…为止；在…以前。",
+      "SENT_EN":"I'll wait till you're ready.",
+      "SENT_ZH":"我会等到你准备好为止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "until"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"till [land/soil]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: A verb that takes one or more objects.",
+      "TAGS":[
+        "common",
+        "agriculture"
+      ],
+      "DEF_EN":"To prepare and cultivate (land) for growing crops.",
+      "DEF_ZH":"耕作；耕种（土地）。",
+      "SENT_EN":"Farmers till the soil to plant their crops.",
+      "SENT_ZH":"农民耕种土地以种植庄稼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cultivate",
+            "plow",
+            "farm",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a till",
+      "POS":"n",
+      "POS_TIP":"Noun: A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "commerce"
+      ],
+      "DEF_EN":"A cash register or a drawer for money in a shop or bank.",
+      "DEF_ZH":"收款机；（商店或银行的）钱箱，抽屉。",
+      "SENT_EN":"She put the money into the till.",
+      "SENT_ZH":"她把钱放进了收款机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cash register",
+            "cash box",
+            "drawer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The preposition and conjunction forms are very common in everyday language. The verb form (to till land) is common in agricultural contexts. The noun (money till) is common in retail and banking contexts."
+}

@@ -1,0 +1,64 @@
+{
+  "WORD":"bale",
+  "IPA":"/beɪl/",
+  "CONJUGATES":"bales | baled | baling",
+  "ETYMOLOGY":"From Middle English, derived from Old French *balle* (bundle), likely of Germanic origin.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] bale [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "agriculture",
+        "commerce"
+      ],
+      "DEF_EN":"A large, tightly bound package of raw material, such as hay, cotton, or paper.",
+      "DEF_ZH":"捆；包；大包裹（尤指大宗待运的棉花、干草、废纸等）。",
+      "SENT_EN":"The farmer stacked the huge bales of hay in the storage shed.",
+      "SENT_ZH":"农民将一大捆一大捆的干草堆放在储藏棚里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bundle",
+            "package",
+            "truss"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "baler",
+            "baling wire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bale [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common",
+        "industrial"
+      ],
+      "DEF_EN":"To make material into a bale; to wrap and bind it tightly.",
+      "DEF_ZH":"将（某物）打成包；捆扎。",
+      "SENT_EN":"They used the hydraulic machine to bale the waste paper before shipping it to the recycling plant.",
+      "SENT_ZH":"他们使用液压机将废纸打包，然后运往回收站。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bundle",
+            "pack",
+            "compress"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Agricultural/Industrial"
+}

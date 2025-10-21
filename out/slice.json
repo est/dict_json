@@ -1,0 +1,107 @@
+{
+  "WORD":"slice",
+  "IPA":"/slaɪs/",
+  "CONJUGATES":"slices | sliced | slicing",
+  "ETYMOLOGY":"Middle English, from Old French esclice 'splinter, piece split off', derived from escliccer 'to split, break'.",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a slice [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "food",
+        "measurement"
+      ],
+      "DEF_EN":"A thin, broad piece cut from a larger whole, especially food like bread, cake, or meat.",
+      "DEF_ZH":"薄薄的一片；切片（尤指面包、蛋糕、肉类等食物）。",
+      "SENT_EN":"Could I have a slice of lemon in my tea?",
+      "SENT_ZH":"我的茶里可以放一片柠檬吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "piece",
+            "slab",
+            "portion",
+            "rasher"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slice [sth] (up)",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "cooking",
+        "action"
+      ],
+      "DEF_EN":"To cut something into thin, flat pieces.",
+      "DEF_ZH":"把某物切成薄片。",
+      "SENT_EN":"She carefully sliced the tomatoes for the sandwich.",
+      "SENT_ZH":"她小心地把西红柿切片放进三明治里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "carve",
+            "cut",
+            "chop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slice through [sth]",
+      "POS":"v. + prep.",
+      "POS_TIP":"Verb followed by a Preposition",
+      "TAGS":[
+        "descriptive",
+        "dynamic"
+      ],
+      "DEF_EN":"To move through or penetrate something quickly, cleanly, or effortlessly, often implying cutting through resistance.",
+      "DEF_ZH":"快速而平稳地穿过或划过；劈开。",
+      "SENT_EN":"The speedboat sliced through the waves.",
+      "SENT_ZH":"快艇劈波斩浪，快速穿过海浪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "penetrate",
+            "cleave",
+            "sail"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a slice (in sports)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "sports",
+        "jargon",
+        "golf",
+        "tennis"
+      ],
+      "DEF_EN":"(In golf or tennis) A shot that causes the ball to spin and curve sharply sideways, usually resulting in a poor trajectory (especially in golf).",
+      "DEF_ZH":"（高尔夫、网球等运动中的）切击；侧旋球；（高尔夫中指）右曲球（对右撇子而言）。",
+      "SENT_EN":"He completely missed the fairway because of a terrible slice.",
+      "SENT_ZH":"由于一个糟糕的右曲球，他完全错过了球道。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hook",
+            "draw",
+            "fade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

@@ -1,0 +1,103 @@
+{
+  "WORD":"partial",
+  "IPA":"/ˈpɑːrʃəl/",
+  "CONJUGATES":"partiality | partially | partialness",
+  "ETYMOLOGY":"From Late Middle English (via Old French partial) and Late Latin partialis, meaning 'of a part', derived from Latin pars, partis ('a part').",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"partial [adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: A word modifying a noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Existing only in part; incomplete or not whole.",
+      "DEF_ZH":"部分的；不完全的；非整体的。",
+      "SENT_EN":"We were only given a partial refund, not the full amount.",
+      "SENT_ZH":"我们只得到了部分退款，而不是全部金额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incomplete",
+            "fragmentary",
+            "limited"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "full",
+            "complete",
+            "total"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"partial [adj] (to/towards [sb] [sth])",
+      "POS":"adj",
+      "POS_TIP":"Adjective: A word modifying a noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "judgmental"
+      ],
+      "DEF_EN":"Showing an unfair bias towards one person or group and favoring one side over another.",
+      "DEF_ZH":"偏袒的；不公正的；偏向一方的。",
+      "SENT_EN":"The referee was accused of being partial towards the home team.",
+      "SENT_ZH":"这位裁判被指控偏袒主队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "biased",
+            "prejudiced",
+            "unjust"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "impartial",
+            "fair",
+            "unbiased"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"partial [adj] (to [sth])",
+      "POS":"adj + prep",
+      "POS_TIP":"Adjective followed by a specific preposition.",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"Having a strong liking or preference for something.",
+      "DEF_ZH":"偏爱的；特别喜欢的；对...有好感的。",
+      "SENT_EN":"I'm extremely partial to spicy food, especially Thai cuisine.",
+      "SENT_ZH":"我特别偏爱辛辣食物，尤其是泰国菜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fond of",
+            "keen on",
+            "favoring"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "affinity",
+            "preference"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

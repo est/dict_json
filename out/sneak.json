@@ -1,0 +1,99 @@
+{
+  "WORD":"sneak",
+  "IPA":"/sniːk/",
+  "CONJUGATES":"sneaks | sneaking | sneaked | snuck",
+  "ETYMOLOGY":"From Middle English sniken, related to Old English snīcan ('to creep, crawl')",
+  "SINCE":"Before 12th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"sneak [preposition/adverb] (e.g., out, in, away)",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To go or move in a quiet, secretive, or surreptitious way, usually to avoid being noticed.",
+      "DEF_ZH":"偷偷摸摸地移动或行走，通常是为了避免被发现。",
+      "SENT_EN":"The children tried to sneak out of the house after their parents fell asleep.",
+      "SENT_ZH":"孩子们试图在父母睡着后偷偷溜出家门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creep",
+            "prowl",
+            "slink",
+            "tiptoe"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "march",
+            "stride"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sneak [sth] [into/past/out of]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To take, bring, or put something secretly or without permission.",
+      "DEF_ZH":"偷偷地拿走、带来或放置某物（常指未经许可）。",
+      "SENT_EN":"She managed to sneak a camera into the restricted concert venue.",
+      "SENT_ZH":"她设法偷偷带了一台相机进入限制入内的音乐会场地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smuggle",
+            "finesse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sneak [a look/peek/kiss/etc.]",
+      "POS":"vtr + obj",
+      "POS_TIP":"transitive verb requiring an object",
+      "TAGS":[
+        "idiomatic"
+      ],
+      "DEF_EN":"To perform an action, such as looking or kissing, quickly and furtively.",
+      "DEF_ZH":"偷偷地、快速地进行一项动作，如看一眼或亲吻。",
+      "SENT_EN":"He couldn't resist sneaking a peek at the present before Christmas.",
+      "SENT_ZH":"在圣诞节前，他忍不住偷偷看了一眼礼物。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[a] sneak",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "derogatory",
+        "UK"
+      ],
+      "DEF_EN":"A contemptible person who acts in a mean, underhanded, or cowardly way; especially, someone who informs on others (a tattletale).",
+      "DEF_ZH":"行为卑鄙、鬼祟、懦弱的人；尤指告密者或打小报告的人。",
+      "SENT_EN":"The teacher told the student not to be a sneak and solve the problem himself.",
+      "SENT_ZH":"老师告诉那个学生不要当告密者，应该自己解决问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tattletale",
+            "informer",
+            "squealer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use (Verb); Informal/Derogatory (Noun)"
+}

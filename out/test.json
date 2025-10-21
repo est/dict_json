@@ -1,0 +1,144 @@
+{
+  "WORD":"test",
+  "IPA":"/tɛst/",
+  "CONJUGATES":"tests (n.) | tests (v.) | testing (v.) | tested (v.)",
+  "ETYMOLOGY":"From Old French *test* (cup, pot, crucible), from Latin *testa* (earthen pot, tile, shell). The sense of 'means of trying or proving' (originally in alchemy, referring to a crucible for trying metals) developed in English.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a test of [sth/sb] | take a test | do a test",
+      "POS":"n",
+      "POS_TIP":"Noun: a word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A procedure intended to establish the quality, performance, or reliability of something; an examination of the knowledge or ability of someone.",
+      "DEF_ZH":"检验；试验；测验；考察（质量、性能、可靠性或知识、能力）",
+      "SENT_EN":"The students are preparing for their final biology test.",
+      "SENT_ZH":"学生们正在为他们的期末生物考试做准备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examination",
+            "assessment",
+            "quiz",
+            "evaluation",
+            "trial"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "approval",
+            "acceptance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"test [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To subject (someone or something) to a procedure that ascertains its quality, performance, reliability, or capability.",
+      "DEF_ZH":"检验；试验；测验；考察（某人或某物的质量、性能、可靠性或能力）",
+      "SENT_EN":"They need to test the new software thoroughly before its official release.",
+      "SENT_ZH":"他们需要在正式发布前彻底测试这款新软件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examine",
+            "try out",
+            "evaluate",
+            "assess",
+            "check"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "approve",
+            "accept"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a test for [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun: a word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "medical",
+        "scientific"
+      ],
+      "DEF_EN":"A medical or scientific procedure used to detect the presence or absence of a disease, condition, or substance.",
+      "DEF_ZH":"（医学或科学）检测；化验；试验（用于发现疾病、状况或物质）",
+      "SENT_EN":"The doctor ordered a blood test for cholesterol.",
+      "SENT_ZH":"医生要求进行胆固醇血液检测。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "screening",
+            "analysis",
+            "assay"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"test [sb] for [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "medical",
+        "scientific"
+      ],
+      "DEF_EN":"To carry out a medical or biological examination on (a person or an animal) to determine the presence or absence of a disease, condition, or substance.",
+      "DEF_ZH":"（对某人或某动物）进行（疾病或物质的）检测；化验",
+      "SENT_EN":"She got tested for allergies after experiencing a severe reaction.",
+      "SENT_ZH":"在经历了一次严重反应后，她接受了过敏测试。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "screen",
+            "diagnose",
+            "analyze"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a Test | Test match",
+      "POS":"n",
+      "POS_TIP":"Noun: a word referring to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "sport",
+        "cricket",
+        "informal"
+      ],
+      "DEF_EN":"A match played between two international teams, typically lasting several days, in cricket.",
+      "DEF_ZH":"（板球运动中）板球对抗赛（两国国家队之间通常持续数天的比赛）",
+      "SENT_EN":"England and Australia will compete in the first Test of the series next week.",
+      "SENT_ZH":"英格兰和澳大利亚下周将进行系列赛的第一场板球对抗赛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cricket",
+            "ODI",
+            "T20"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally formal to informal, depending on the context of 'test' used. 'Test match' is specific to cricket."
+}

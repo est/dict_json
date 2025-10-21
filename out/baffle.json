@@ -1,0 +1,90 @@
+{
+  "WORD":"baffle",
+  "IPA":"/ˈbæfəl/",
+  "CONJUGATES":"baffles | baffling | baffled",
+  "ETYMOLOGY":"Of obscure origin, possibly from Scottish dialect 'baffle' (to beat repeatedly, to thump) or Old French 'béfler' (to mock, to trick). First recorded use primarily in the sense of 'to frustrate'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"baffle [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To totally bewilder or perplex; to confuse completely.",
+      "DEF_ZH":"使困惑；使迷惑；使感到困窘。",
+      "SENT_EN":"The sudden turn of events baffled everyone present.",
+      "SENT_ZH":"事件的突然发展让在场的每个人都感到困惑不已。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perplex",
+            "puzzle",
+            "bewilder",
+            "confuse",
+            "flummox"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clarify",
+            "enlighten",
+            "explain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"baffle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To restrain or regulate the flow of a fluid, sound, light, or air by means of a barrier.",
+      "DEF_ZH":"阻碍（液体、声音、光线或空气等的）流动；隔音；挡光。",
+      "SENT_EN":"The engineers used special panels to baffle the noise from the machinery.",
+      "SENT_ZH":"工程师们使用特殊的面板来阻隔机器的噪音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obstruct",
+            "impede",
+            "deflect",
+            "regulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a baffle | baffles",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A device, such as a plate or screen, used to deflect or check the flow of a fluid, sound, or light.",
+      "DEF_ZH":"隔板；挡板；消音板（用于阻碍流体、声音或光线等的流动）。",
+      "SENT_EN":"The exhaust system includes a series of baffles to reduce the sound level.",
+      "SENT_ZH":"排气系统包含一系列消音板以降低音量。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "baffle plate",
+            "sound baffle",
+            "deflector"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; technical in the context of flow regulation."
+}

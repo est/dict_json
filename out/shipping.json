@@ -1,0 +1,92 @@
+{
+  "WORD":"shipping",
+  "IPA":"/ˈʃɪpɪŋ/",
+  "CONJUGATES":"shippings (noun plural)",
+  "ETYMOLOGY":"From Middle English 'shippinge', formed from the verb 'shippen' (to convey by ship), which itself comes from Old English 'scipian' (to furnish with a ship, embark), ultimately from Old English 'scip' (ship).",
+  "SINCE":"Late 14th century (for the act of transporting); early 18th century (for the collective ships or industry).",
+  "MEANINGS":[
+    {
+      "PATTERN":"shipping [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"The act or process of transporting goods, especially by ship, but also by other means like air or road.",
+      "DEF_ZH":"运输（尤指海运）货物或商品的活动或过程，也可指通过空运或陆运。",
+      "SENT_EN":"The company offers free shipping on all orders over $50.",
+      "SENT_ZH":"公司对所有超过50美元的订单提供免费送货。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delivery",
+            "transport",
+            "freight",
+            "conveyance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "logistics",
+            "courier",
+            "postage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the shipping industry",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "business",
+        "industry specific"
+      ],
+      "DEF_EN":"The business or industry concerned with the transport of goods by ship; the maritime industry.",
+      "DEF_ZH":"从事船只运输货物业务的行业；海运业。",
+      "SENT_EN":"The global shipping industry plays a vital role in international trade.",
+      "SENT_ZH":"全球航运业在国际贸易中扮演着至关重要的角色。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "maritime",
+            "cargo",
+            "port",
+            "logistics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enemy shipping | coastal shipping",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "collective noun",
+        "maritime"
+      ],
+      "DEF_EN":"Ships collectively, especially those belonging to a particular country or engaged in a particular trade or area.",
+      "DEF_ZH":"船只的总称，尤指属于特定国家或从事特定贸易或航线的船只。",
+      "SENT_EN":"The navy was tasked with protecting vital shipping lanes.",
+      "SENT_ZH":"海军的任务是保护重要的航运线路。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fleet",
+            "vessels",
+            "tonnage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, business, maritime"
+}

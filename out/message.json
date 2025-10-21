@@ -1,0 +1,85 @@
+{
+  "WORD":"message",
+  "IPA":"/ˈmɛsɪdʒ/",
+  "CONJUGATES":"messages (n plural) | messages (v 3rd person singular present) | messaging (v present participle) | messaged (v past simple, past participle)",
+  "ETYMOLOGY":"From Old French message (mid-13c.), from Vulgar Latin *missāticum, from Latin missum, past participle of mittere 'to send'.",
+  "SINCE":"Mid-13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a message]",
+      "POS":"n",
+      "POS_TIP":"noun, a word that refers to a person, place, thing, state, or quality.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A communication containing information, news, advice, or a request, sent by one person or group to another.",
+      "DEF_ZH":"由一人或团体发送给另一人或团体的，包含信息、新闻、建议或请求的通讯内容。",
+      "SENT_EN":"She left a message for me to call her back.",
+      "SENT_ZH":"她给我留了一条消息，让我回电话给她。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "communication",
+            "note",
+            "dispatch",
+            "memo",
+            "report"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the message of sth]",
+      "POS":"n",
+      "POS_TIP":"noun, a word that refers to a person, place, thing, state, or quality.",
+      "TAGS":[
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The underlying theme, point, or meaning of a speech, book, film, or work of art.",
+      "DEF_ZH":"演讲、书籍、电影或艺术作品的潜在主题、要点或含义。",
+      "SENT_EN":"The film conveys a powerful message about environmental protection.",
+      "SENT_ZH":"这部电影传达了关于环境保护的有力信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "theme",
+            "point",
+            "meaning",
+            "moral",
+            "lesson"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[message sb] | [message sth to sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "common",
+        "modern usage",
+        "informal"
+      ],
+      "DEF_EN":"To send a message, especially an electronic one, to someone.",
+      "DEF_ZH":"向某人发送消息，尤指电子消息。",
+      "SENT_EN":"I'll message you the details later this evening.",
+      "SENT_ZH":"我今晚晚些时候会把详细信息发消息给你。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "text",
+            "email",
+            "send a note",
+            "contact"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, everyday language; widely used in both formal and informal contexts."
+}

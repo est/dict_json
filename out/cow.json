@@ -1,0 +1,86 @@
+{
+  "WORD":"cow",
+  "IPA":"/kaʊ/",
+  "CONJUGATES":"cows (plural) | cowed (past tense, past participle) | cowing (present participle)",
+  "ETYMOLOGY":"From Old English cū, from Proto-Germanic *kūz, from Proto-Indo-European *gʷṓus.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (animal)",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A fully grown female bovine animal, kept for its milk or meat.",
+      "DEF_ZH":"一种成年雌性牛科动物，饲养用于产奶或提供肉。",
+      "SENT_EN":"The farmer milked the cow early in the morning.",
+      "SENT_ZH":"农民一大早在给奶牛挤奶。",
+      "RELATED":[
+        {
+          "T":"hyponyms",
+          "V":[
+            "heifer",
+            "calf",
+            "bullock"
+          ]
+        },
+        {
+          "T":"hypernyms",
+          "V":[
+            "bovine",
+            "livestock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cow [sb]",
+      "POS":"verb",
+      "POS_TIP":"A word that describes an action, state, or occurrence. Transitive verb followed by a direct object.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To cause someone to become intimidated and lose courage.",
+      "DEF_ZH":"使某人感到害怕，失去勇气或自信。",
+      "SENT_EN":"The oppressive regime tried to cow the population into submission.",
+      "SENT_ZH":"压迫性政权试图恐吓民众使其屈服。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intimidate",
+            "daunt",
+            "browbeat",
+            "subdue"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "encourage",
+            "embolden",
+            "inspire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (animal)",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "extended use"
+      ],
+      "DEF_EN":"The female of certain other large mammals, such as elephants, whales, or seals.",
+      "DEF_ZH":"某些其他大型哺乳动物（如大象、鲸鱼或海豹）的雌性。",
+      "SENT_EN":"A female elephant is referred to as a cow.",
+      "SENT_ZH":"雌象被称为“cow”。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage"
+}

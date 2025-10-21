@@ -1,0 +1,94 @@
+{
+  "WORD":"module",
+  "IPA":"/ˈmɒdʒ.uːl/",
+  "CONJUGATES":"modules",
+  "ETYMOLOGY":"From Latin *modulus* 'a small measure', diminutive of *modus* 'measure'. The modern sense of a self-contained unit developed in the mid-20th century.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] module",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "computing",
+        "engineering"
+      ],
+      "DEF_EN":"A self-contained component or unit, especially one that can be combined with others to form a more complex structure, system, or course of study.",
+      "DEF_ZH":"模块；组件；单元（尤指可与其他部分结合构成更复杂结构、系统或课程的独立部分）",
+      "SENT_EN":"The new operating system allows developers to add functionalities through independent modules.",
+      "SENT_ZH":"新的操作系统允许开发者通过独立的模块添加功能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "component",
+            "unit",
+            "section",
+            "part"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "subsystem",
+            "plugin",
+            "library"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] module",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "academic",
+        "education"
+      ],
+      "DEF_EN":"A distinct unit of a course of study, often with its own learning objectives and assessment.",
+      "DEF_ZH":"单元；科目（课程的独立部分，常有自己的学习目标和评估）",
+      "SENT_EN":"Students must complete six core modules and two optional modules to graduate.",
+      "SENT_ZH":"学生必须完成六个核心单元和两个选修单元才能毕业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "course",
+            "section",
+            "subject"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] module",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "technical",
+        "architecture",
+        "design"
+      ],
+      "DEF_EN":"A standard unit of measurement, especially in architecture or design, used as a basis for proportion and scale.",
+      "DEF_ZH":"标准单位；模数（尤指建筑或设计中作为比例和尺度的基础）",
+      "SENT_EN":"The entire building was designed based on a consistent geometric module.",
+      "SENT_ZH":"整座建筑是基于一个一致的几何模数设计的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unit",
+            "standard",
+            "measure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used across various fields including computing, engineering, education, and architecture; generally common and often technical."
+}

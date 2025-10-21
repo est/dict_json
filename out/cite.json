@@ -1,0 +1,89 @@
+{
+  "WORD":"cite",
+  "IPA":"/saɪt/",
+  "CONJUGATES":"cites | citing | cited",
+  "ETYMOLOGY":"From Middle French citer, from Latin citare ('to summon, urge, put in motion'), frequentative of ciere ('to move, rouse, call').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"cite [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Core word",
+        "Academic",
+        "Formal"
+      ],
+      "DEF_EN":"To refer to a source, passage, or author formally, especially in scholarly work, to support a point or provide evidence.",
+      "DEF_ZH":"引用（某段文字、著作或作者）作为证据、参考或论据。",
+      "SENT_EN":"The economist cited three recent studies to support her claim about inflation.",
+      "SENT_ZH":"这位经济学家引用了三项最近的研究来支持她关于通货膨胀的论点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "quote",
+            "reference",
+            "mention",
+            "adduce"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "citation",
+            "source",
+            "bibliography"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cite [sb] [for sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Official",
+        "Military",
+        "Police"
+      ],
+      "DEF_EN":"To officially commend or mention someone in a report, usually for bravery, meritorious service, or outstanding performance.",
+      "DEF_ZH":"正式表扬或嘉奖（某人），通常用于英勇行为或杰出服务。",
+      "SENT_EN":"The firefighter was cited for his heroic actions during the apartment blaze.",
+      "SENT_ZH":"这位消防员因在公寓大火中的英勇行为而受到嘉奖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "commend",
+            "praise",
+            "honor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cite [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Legal",
+        "Formal"
+      ],
+      "DEF_EN":"To summon a person to appear in a court of law or before a judicial authority.",
+      "DEF_ZH":"传唤（某人）出庭或到司法机构报到；传讯。",
+      "SENT_EN":"He was cited by the court for contempt of jurisdiction.",
+      "SENT_ZH":"他因藐视司法管辖权而被法庭传讯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summon",
+            "subpoena"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Legal"
+}

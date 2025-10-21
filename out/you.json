@@ -1,0 +1,61 @@
+{
+  "WORD":"you",
+  "IPA":"/juː/, /jə/",
+  "CONJUGATES":"your | yours | yourself | yourselves",
+  "ETYMOLOGY":"From Old English ēow, dative and accusative plural of þū ('thou'); from Proto-Germanic *īwiz, dative plural of *þū ('thou').",
+  "SINCE":"Old English (pre-12th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[you]",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that can substitute for a noun or noun phrase",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The second person singular or plural pronoun, used as the subject of a verb.",
+      "DEF_ZH":"第二人称单数或复数代词，用作动词的主语。",
+      "SENT_EN":"You are invited to the party tonight.",
+      "SENT_ZH":"你被邀请参加今晚的派对。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[verb] [you]",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that can substitute for a noun or noun phrase",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The second person singular or plural pronoun, used as the object of a verb or preposition.",
+      "DEF_ZH":"第二人称单数或复数代词，用作动词或介词的宾语。",
+      "SENT_EN":"I saw you at the park yesterday.",
+      "SENT_ZH":"我昨天在公园看到你了。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[you] (impersonal)",
+      "POS":"pron",
+      "POS_TIP":"pronoun: a word that can substitute for a noun or noun phrase",
+      "TAGS":[
+        "core word",
+        "common",
+        "impersonal"
+      ],
+      "DEF_EN":"Used to refer to people in general, or to an unspecified person.",
+      "DEF_ZH":"用于泛指人们，或指某个不特定的人。",
+      "SENT_EN":"You never know what tomorrow might bring.",
+      "SENT_ZH":"你永远不知道明天会带来什么。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "one",
+            "people"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

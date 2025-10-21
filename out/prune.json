@@ -1,0 +1,94 @@
+{
+  "WORD":"prune",
+  "IPA":"/pruːn/",
+  "CONJUGATES":"prunes | pruning | pruned",
+  "ETYMOLOGY":"From Middle English prunen, from Old French proignier (to trim vines), possibly related to Latin propāgāre (to propagate).",
+  "SINCE":"Late 14th century (as a verb); 15th century (as a noun for the fruit).",
+  "MEANINGS":[
+    {
+      "PATTERN":"prune [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core",
+        "Horticulture"
+      ],
+      "DEF_EN":"To cut away dead or overgrown branches or stems from a plant or tree, especially to encourage growth or fruitfulness.",
+      "DEF_ZH":"修剪（树木、灌木等），剪去多余、枯死或生长过密的枝条，以促进生长或结果。",
+      "SENT_EN":"It is essential to prune the apple trees every spring.",
+      "SENT_ZH":"每年春天修剪苹果树是必不可少的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trim",
+            "clip",
+            "lop"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shear",
+            "graft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prune [sth] (away)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Figurative",
+        "Formal"
+      ],
+      "DEF_EN":"To reduce the size or extent of something by removing unwanted or superfluous parts.",
+      "DEF_ZH":"削减；精简；删去（不必要或多余的部分）。",
+      "SENT_EN":"The editor needed to prune the manuscript to meet the word limit.",
+      "SENT_ZH":"编辑需要精简手稿以满足字数限制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "cut back",
+            "eliminate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expand",
+            "increase",
+            "add"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(a) prune / prunes",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Food",
+        "Common"
+      ],
+      "DEF_EN":"A dried plum, known for its sweet flavor and use as a laxative.",
+      "DEF_ZH":"西梅干；梅干（一种干制的李子，常用于烹饪或作通便剂）。",
+      "SENT_EN":"She soaked the prunes overnight before baking the cake.",
+      "SENT_ZH":"她将西梅干浸泡了一夜才烤蛋糕。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "plum",
+            "dried fruit",
+            "fig"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,95 @@
+{
+  "WORD":"bribe",
+  "IPA":"/braɪb/",
+  "CONJUGATES":"bribes | bribing | bribed",
+  "ETYMOLOGY":"From Middle English, derived from Old French 'bribe' meaning 'a piece of bread, a scrap of food given to a beggar.' The meaning evolved in English to refer to money given for corruption or undue influence.",
+  "SINCE":"Late 14th century (verb); Mid-15th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] bribe [to do sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Legal/Political"
+      ],
+      "DEF_EN":"A payment, gift, or favor given to someone to illegally or unethically influence their judgment or actions, especially an official or person in a position of trust.",
+      "DEF_ZH":"为非法或不道德地影响某人（通常是公职人员或处于信任地位的人）的判断或行为而给予的钱财、礼物或好处；贿赂物。",
+      "SENT_EN":"The journalist uncovered evidence that the minister had accepted a large bribe.",
+      "SENT_ZH":"记者发现证据表明那位部长收受了一大笔贿赂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kickback",
+            "payoff",
+            "inducement",
+            "graft"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "corruption",
+            "extortion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bribe [sb] [with sth] [to do sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Action"
+      ],
+      "DEF_EN":"To persuade someone to act in one's favor, often illegally or unethically, by offering them a payment or valuable gift.",
+      "DEF_ZH":"通过提供金钱或贵重物品，（通常是非法地或不道德地）劝说某人按照自己的意愿行事；行贿。",
+      "SENT_EN":"They attempted to bribe the customs officer to let the illegal goods pass.",
+      "SENT_ZH":"他们试图贿赂海关官员，让这些非法货物通过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "corrupt",
+            "suborn",
+            "grease the palm of"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deter",
+            "discourage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bribe [sb, often child] [with sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "Informal",
+        "Figurative"
+      ],
+      "DEF_EN":"To use a small incentive, such as candy or a toy, to persuade a child or reluctant person to cooperate.",
+      "DEF_ZH":"（非正式）用小恩小惠（如糖果或玩具）哄骗或劝诱某人（尤指小孩）合作。",
+      "SENT_EN":"I had to bribe the dog with a treat to get him into the bath.",
+      "SENT_ZH":"我不得不给狗一个零食来哄它洗澡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coax",
+            "cajole"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal in legal context (noun/verb, meaning 1 & 2); Common in general conversation (verb, meaning 3)."
+}

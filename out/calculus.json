@@ -1,0 +1,95 @@
+{
+  "WORD":"calculus",
+  "IPA":"/ˈkælkjələs/",
+  "CONJUGATES":"plural: calculi | calculuses",
+  "ETYMOLOGY":"From Latin calculus 'small stone (used for reckoning), pebble', diminutive of calx 'limestone'",
+  "SINCE":"Mid-17th century (for the mathematical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"calculus",
+      "POS":"noun, uncountable",
+      "POS_TIP":"noun, uncountable: A word that refers to a person, place, thing, quality, or idea, and cannot typically be counted or made plural in this usage.",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "academic"
+      ],
+      "DEF_EN":"A branch of mathematics concerned with limits, derivatives, integrals, and infinite series.",
+      "DEF_ZH":"数学的一个分支，主要研究极限、导数、积分和无穷级数。",
+      "SENT_EN":"She decided to major in mathematics because she enjoyed calculus.",
+      "SENT_ZH":"她决定主修数学，因为她喜欢微积分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "differential calculus",
+            "integral calculus",
+            "limit",
+            "derivative",
+            "integral",
+            "mathematics",
+            "algebra",
+            "geometry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a calculus | calculi",
+      "POS":"noun, countable",
+      "POS_TIP":"noun, countable: A word that refers to a person, place, thing, quality, or idea, and can be counted and made plural.",
+      "TAGS":[
+        "medical",
+        "technical"
+      ],
+      "DEF_EN":"A hard, solid mass that forms in a hollow organ or duct in the body, such as the kidney or gallbladder.",
+      "DEF_ZH":"在身体的空腔器官或导管中形成的坚硬结石，例如肾脏或胆囊中的结石。",
+      "SENT_EN":"The patient was diagnosed with a renal calculus and required surgery.",
+      "SENT_ZH":"病人被诊断出有肾结石，需要进行手术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stone",
+            "concretion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "kidney stone",
+            "gallstone",
+            "tartar",
+            "urolithiasis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a calculus | calculi",
+      "POS":"noun, countable",
+      "POS_TIP":"noun, countable: A word that refers to a person, place, thing, quality, or idea, and can be counted and made plural.",
+      "TAGS":[
+        "rare",
+        "historical",
+        "academic"
+      ],
+      "DEF_EN":"A particular method or system of calculation or reasoning; originally, a small stone used for calculation.",
+      "DEF_ZH":"一种特定的计算或推理方法或系统；最初指用于计算的小石子。",
+      "SENT_EN":"Boolean algebra provides a calculus for logical operations.",
+      "SENT_ZH":"布尔代数提供了一种进行逻辑运算的演算方法。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "logic",
+            "arithmetic",
+            "computation",
+            "algorithm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Technical, Formal"
+}

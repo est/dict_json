@@ -1,0 +1,150 @@
+{
+  "WORD":"script",
+  "IPA":"/skrɪpt/",
+  "CONJUGATES":"scripts | scripting | scripted",
+  "ETYMOLOGY":"From Latin scriptum 'a writing', neuter past participle of scribere 'to write'.",
+  "SINCE":"Late Middle English",
+  "MEANINGS":[
+    {
+      "PATTERN":"a script for [sth]",
+      "POS":"n.count",
+      "POS_TIP":"countable noun: a word referring to an individual, countable item (e.g., 'a cat', 'two cats')",
+      "TAGS":[
+        "core word",
+        "common",
+        "arts"
+      ],
+      "DEF_EN":"The written text of a play, film, broadcast, or speech.",
+      "DEF_ZH":"戏剧、电影、广播或演讲的文字稿。",
+      "SENT_EN":"The actor forgot his lines during the performance because he hadn't memorized the script properly.",
+      "SENT_ZH":"演员在表演中忘记了台词，因为他没有好好记住剧本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "screenplay",
+            "libretto",
+            "manuscript"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dialogue",
+            "storyboard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]'s script",
+      "POS":"n.uncount",
+      "POS_TIP":"uncountable noun: a word referring to a general concept or substance that cannot be counted (e.g., 'water', 'information')",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Handwriting, especially as distinct from print; a particular style of writing.",
+      "DEF_ZH":"笔迹，尤指与印刷体不同的书写方式；一种特定的书写风格。",
+      "SENT_EN":"Her elegant script was difficult to decipher for those unfamiliar with it.",
+      "SENT_ZH":"她那优美的笔迹对不熟悉的人来说很难辨认。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handwriting",
+            "penmanship",
+            "calligraphy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a type of] script",
+      "POS":"n.count",
+      "POS_TIP":"countable noun: a word referring to an individual, countable item (e.g., 'a cat', 'two cats')",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"A system of writing used for a particular language or group of languages.",
+      "DEF_ZH":"用于特定语言或语系的书写系统。",
+      "SENT_EN":"The Cyrillic script is used for several Slavic languages, including Russian and Bulgarian.",
+      "SENT_ZH":"西里尔字母系统用于包括俄语和保加利亚语在内的几种斯拉夫语言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "writing system",
+            "alphabet",
+            "character set"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hieroglyphics",
+            "cuneiform"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"script [sth]",
+      "POS":"v.transitive",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects (e.g., 'she *reads* *a book*')",
+      "TAGS":[
+        "core word",
+        "common",
+        "arts"
+      ],
+      "DEF_EN":"To write a script for a play, film, or broadcast.",
+      "DEF_ZH":"为戏剧、电影或广播撰写剧本。",
+      "SENT_EN":"He spent years scripting the epic historical drama before it went into production.",
+      "SENT_ZH":"他花了数年时间编写这部史诗历史剧的剧本，然后才投入制作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "write",
+            "author",
+            "compose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a programing language] script",
+      "POS":"n.count",
+      "POS_TIP":"countable noun: a word referring to an individual, countable item (e.g., 'a cat', 'two cats')",
+      "TAGS":[
+        "technical",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"A sequence of instructions that is executed by an interpreter rather than being compiled.",
+      "DEF_ZH":"由解释器而不是编译器执行的一系列指令。",
+      "SENT_EN":"The system administrator wrote a shell script to automate the backup process.",
+      "SENT_ZH":"系统管理员编写了一个 shell 脚本来自动化备份过程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "code",
+            "program",
+            "routine",
+            "macro"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interpreter",
+            "compiler",
+            "automation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The word 'script' is widely used across various registers, from formal academic contexts (linguistics, film studies) to informal daily conversations and technical discussions (computing)."
+}

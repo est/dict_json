@@ -1,0 +1,101 @@
+{
+  "WORD":"dam",
+  "IPA":"/dæm/",
+  "CONJUGATES":"dam (singular noun) | dams (plural noun) | dam (base verb) | dams (3rd person singular present) | damming (present participle) | dammed (past tense, past participle)",
+  "ETYMOLOGY":"Noun (barrier): From Middle English damme, from Old French dam, from Proto-Germanic *dammaz. | Noun (animal mother): From Middle English dame ('mother', 'lady'), from Old French dame. | Verb: From the noun (barrier).",
+  "SINCE":"Noun (barrier): Late 13th century | Noun (animal mother): 13th century | Verb: Early 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a dam]",
+      "POS":"n.",
+      "POS_TIP":"Noun. A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A barrier constructed to hold back water and raise its level, forming a reservoir used to generate electricity or as a water supply.",
+      "DEF_ZH":"为阻挡水流、抬高水位而建造的屏障，形成水库以供发电或供水之用。",
+      "SENT_EN":"The hydroelectric plant relies on a massive dam to generate power.",
+      "SENT_ZH":"这座水力发电厂依靠一个巨大的水坝来发电。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weir",
+            "barrage",
+            "embankment",
+            "barrier"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reservoir",
+            "spillway",
+            "hydroelectric"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[dam sth] | [dam up sth]",
+      "POS":"vtr.",
+      "POS_TIP":"Transitive verb. A verb that takes one or more objects.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To build a dam across (a river or stream); to hold back or obstruct water with a dam.",
+      "DEF_ZH":"在（河流或溪流）上筑坝；用坝截住或阻碍水流。",
+      "SENT_EN":"The engineers are planning to dam the gorge to prevent flooding.",
+      "SENT_ZH":"工程师们计划筑坝堵塞峡谷以防止洪水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "block",
+            "obstruct",
+            "hold back",
+            "restrict"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "release",
+            "unblock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the dam of an animal]",
+      "POS":"n.",
+      "POS_TIP":"Noun. A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "animal husbandry"
+      ],
+      "DEF_EN":"The female parent of an animal, especially a quadruped, and typically a domesticated one.",
+      "DEF_ZH":"动物（尤指四足动物，通常是家畜）的雌性亲本。",
+      "SENT_EN":"The champion racehorse's dam was also a famous winner.",
+      "SENT_ZH":"这匹赛马冠军的母亲也曾是一位著名的赢家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mother",
+            "matron",
+            "broodmare"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The 'barrier' meaning (noun and verb) is common in general and technical contexts. The 'animal mother' meaning is common in animal breeding and husbandry discussions."
+}

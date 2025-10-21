@@ -1,0 +1,64 @@
+{
+  "WORD":"narcotic",
+  "IPA":"/nɑːrˈkɑːtɪk/",
+  "CONJUGATES":"narcotics (plural)",
+  "ETYMOLOGY":"From Late Latin narcoticus, ultimately from Ancient Greek narkōtikós ('making numb or sleepy'), derived from narkoun ('to benumb') and related to narkē ('numbness, stupor').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] narcotic",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "legal"
+      ],
+      "DEF_EN":"A drug, especially an opioid, that relieves pain and induces drowsiness, stupor, or sleep, and is often highly addictive and subject to governmental control.",
+      "DEF_ZH":"麻醉药；镇痛药（尤指鸦片类药物或合成阿片类药物，具有镇痛和催眠作用，通常高度成瘾且受政府管制）。",
+      "SENT_EN":"Possession of unregistered narcotics is a serious criminal offense.",
+      "SENT_ZH":"非法持有未注册的麻醉品是一种严重的刑事犯罪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "opiate",
+            "opioid",
+            "analgesic",
+            "painkiller"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sedative",
+            "hypnotic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"narcotic effect/properties",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "medical"
+      ],
+      "DEF_EN":"Relating to or causing narcosis (stupor, numbness, or sleep).",
+      "DEF_ZH":"具有麻醉作用的；引起麻醉、麻木或昏睡的。",
+      "SENT_EN":"The doctor chose a drug with minimal narcotic effect so the patient could remain alert.",
+      "SENT_ZH":"医生选择了一种麻醉作用最小的药物，以便患者保持清醒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "soporific",
+            "stupefying"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in medical and legal contexts."
+}

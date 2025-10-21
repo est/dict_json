@@ -1,0 +1,78 @@
+{
+  "WORD":"rumour",
+  "IPA":"/ˈruːmə(r)/",
+  "CONJUGATES":"rumours (n.pl.) | rumours (v. 3rd sg. pres.) | rumoured (v. past simple, past participle) | rumouring (v. present participle)",
+  "ETYMOLOGY":"From Old French rumor (modern French rumeur), from Latin rūmor ('noise, outcry, common talk, hearsay').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a rumour (that...) | a rumour of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A currently circulating story or report of uncertain or doubtful truth; gossip.",
+      "DEF_ZH":"未经证实而在人群中流传的故事或消息；谣言。",
+      "SENT_EN":"There's a rumour that they are planning to move to another city.",
+      "SENT_ZH":"有谣言说他们计划搬到另一个城市。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gossip",
+            "hearsay",
+            "whisper",
+            "speculation",
+            "report"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fact",
+            "truth",
+            "certainty",
+            "evidence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"it is rumoured that... | rumour [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb (takes a direct object) | intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "common",
+        "formal",
+        "often passive"
+      ],
+      "DEF_EN":"To spread a rumour or tell a story that may not be true; to be circulated as a rumour.",
+      "DEF_ZH":"散布谣言；传闻；（消息）被传开。",
+      "SENT_EN":"He was rumoured to have resigned after the scandal.",
+      "SENT_ZH":"据传闻，他在丑闻发生后辞职了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gossip",
+            "speculate",
+            "allege",
+            "report"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "confirm",
+            "verify",
+            "prove",
+            "disprove"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English (British spelling)"
+}

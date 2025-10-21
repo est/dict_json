@@ -1,0 +1,95 @@
+{
+  "WORD":"diverge",
+  "IPA":"/daɪˈvɜːrdʒ/",
+  "CONJUGATES":"diverges | diverging | diverged",
+  "ETYMOLOGY":"From Late Latin divergere ('to incline in different directions'), from dis- ('apart') + vergere ('to bend, incline')",
+  "SINCE":"mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"diverge (from [sth])",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To separate and go in different directions from a common point; to fork or branch off.",
+      "DEF_ZH":"（道路、线条等）分叉，岔开；偏离（原来的方向）。",
+      "SENT_EN":"The path diverges here, one leading to the lake and the other to the forest.",
+      "SENT_ZH":"这条小路在此分叉，一条通向湖边，另一条通向森林。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "branch off",
+            "fork",
+            "deviate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "converge",
+            "meet",
+            "join"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diverge (from [sth]) (on [sth])",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To differ in opinion, character, or development from something else.",
+      "DEF_ZH":"（观点、意见、发展等）相异，分歧；偏离（标准、规范等）。",
+      "SENT_EN":"Their political views began to diverge after college.",
+      "SENT_ZH":"大学毕业后，他们的政治观点开始出现分歧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "differ",
+            "disagree",
+            "deviate",
+            "vary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "agree",
+            "converge",
+            "conform"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diverge",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "specialized",
+        "mathematics"
+      ],
+      "DEF_EN":"(Mathematics, of a sequence or series) To fail to approach a finite limit; to tend to infinity or oscillate without limit.",
+      "DEF_ZH":"（数学，指数列或级数）发散；不趋于有限极限。",
+      "SENT_EN":"The mathematical series was shown to diverge as 'n' approached infinity.",
+      "SENT_ZH":"该数学级数被证明当'n'趋于无穷大时发散。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "converge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, with a specialized meaning in mathematics and science."
+}

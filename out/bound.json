@@ -1,0 +1,156 @@
+{
+  "WORD":"bound",
+  "IPA":"/baʊnd/",
+  "CONJUGATES":"bounds (V. Leap) | bounding (V. Leap) | bounded (V. Leap) | bound (V. Past of Bind)",
+  "ETYMOLOGY":"Multiple origins: 1. As the past tense/participle of 'bind', from Old English bindan. 2. As a verb/noun meaning 'to leap' or 'a limit', from Old French bonde (limit) and bondir (to leap). 3. As an adjective meaning 'headed for', related to Old Norse búinn (prepared, ready).",
+  "SINCE":"Old English (as past participle); 14th Century (as limit/leap)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] bound [sb/sth]",
+      "POS":"v. irregular past/pp",
+      "POS_TIP":"irregular past simple and past participle of 'bind'",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"The past simple and past participle of the verb 'bind': to tie or fasten tightly; to place under an obligation.",
+      "DEF_ZH":"动词 bind 的过去式和过去分词：捆绑，系紧；使负有义务或责任。",
+      "SENT_EN":"The captured outlaw was quickly bound with strong chains.",
+      "SENT_ZH":"那个被捕的亡命之徒很快就被结实的链条捆住了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tied",
+            "fastened",
+            "obligated"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is bound to [do sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "certainty"
+      ],
+      "DEF_EN":"Certain or highly likely to happen; under a moral or legal obligation.",
+      "DEF_ZH":"必然会发生的；负有道德或法律义务的。",
+      "SENT_EN":"If you keep practicing, you are bound to improve your skills.",
+      "SENT_ZH":"如果你继续练习，你的技能必然会提高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "certain",
+            "destined",
+            "obliged"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unlikely",
+            "free"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth/sb] bound for [place]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "directional"
+      ],
+      "DEF_EN":"Going or intending to go to a specified place; destined for.",
+      "DEF_ZH":"正前往或开往某地的。",
+      "SENT_EN":"The train standing on Platform 9 is bound for London.",
+      "SENT_ZH":"停在九号站台的火车是开往伦敦的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "headed",
+            "going",
+            "en route"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] bounds (adv./prep.)",
+      "POS":"v. intr.",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "descriptive",
+        "active"
+      ],
+      "DEF_EN":"To move by leaping or springing; to bounce or rebound.",
+      "DEF_ZH":"跳跃，蹦跳；弹回。",
+      "SENT_EN":"The happy dog bounded out the door and into the garden.",
+      "SENT_ZH":"那只快乐的狗跳出大门，跑进了花园。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "leap",
+            "spring",
+            "jump"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bound",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "literary",
+        "movement"
+      ],
+      "DEF_EN":"A spring or leap, especially a large one.",
+      "DEF_ZH":"跳跃；一跃。",
+      "SENT_EN":"With a single bound, the cat reached the top of the shelf.",
+      "SENT_ZH":"猫一跃就够到了架子的顶部。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jump",
+            "spring",
+            "vault"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"within/out of bounds",
+      "POS":"n.",
+      "POS_TIP":"noun (often used in plural 'bounds')",
+      "TAGS":[
+        "formal",
+        "boundary"
+      ],
+      "DEF_EN":"A boundary, limit, or confinement; the limit of permissible action or area.",
+      "DEF_ZH":"界限；范围；限制（常用于复数形式）。",
+      "SENT_EN":"You must operate within the bounds of the law.",
+      "SENT_ZH":"你必须在法律的范围内行事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "boundary",
+            "confine",
+            "perimeter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across general, formal, and literary contexts."
+}

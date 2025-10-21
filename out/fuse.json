@@ -1,0 +1,102 @@
+{
+  "WORD":"fuse",
+  "IPA":"/fjuːz/",
+  "CONJUGATES":"fuses | fusing | fused",
+  "ETYMOLOGY":"From Latin `fundere` 'to pour, melt' (for the verb sense of combining/melting) and from Italian `fuso` 'spindle, fuze' (for the noun sense of an igniting cord or electrical safety device), which itself is related to Latin `fusus` 'spindle'.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"fuse [sth] (with [sth]) | [sth] fuses",
+      "POS":"vtr | vitr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To join or blend to form a single entity, often by melting; to cause to combine.",
+      "DEF_ZH":"使熔合；使结合；使混合；融为一体",
+      "SENT_EN":"The two companies decided to fuse their operations to enhance market share.",
+      "SENT_ZH":"两家公司决定合并运营以提高市场份额。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "merge",
+            "blend",
+            "combine",
+            "unite",
+            "amalgamate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "divide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] has a fuse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "electrical"
+      ],
+      "DEF_EN":"A safety device consisting of a strip of wire that melts and breaks an electric circuit if the current exceeds a safe level.",
+      "DEF_ZH":"（电器的）保险丝",
+      "SENT_EN":"The circuit blew a fuse when too many appliances were plugged in.",
+      "SENT_ZH":"插入过多电器导致电路保险丝烧断了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "circuit breaker"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"light a fuse | a fuse ignites",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "explosives"
+      ],
+      "DEF_EN":"A cord or tube filled with combustible material, used for igniting an explosive charge.",
+      "DEF_ZH":"（炸弹、爆破物等的）引信，导火索",
+      "SENT_EN":"The demolition expert carefully lit the fuse before running to safety.",
+      "SENT_ZH":"爆破专家小心翼翼地点燃引信后跑向安全区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "detonator",
+            "igniter",
+            "blasting cap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fuse [sth] | [sth] fuses",
+      "POS":"vtr | vitr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "technical",
+        "common",
+        "electrical"
+      ],
+      "DEF_EN":"(Of an electrical circuit or appliance) to stop working because a fuse has melted; or, to install a fuse in an electrical circuit or appliance.",
+      "DEF_ZH":"（电路或电器）烧断保险丝而停止工作；给（电路或电器）安装保险丝",
+      "SENT_EN":"The old television fused, and now it won't turn on.",
+      "SENT_ZH":"那台旧电视烧断了保险丝，现在打不开了。"
+    }
+  ],
+  "REGISTER":"General"
+}

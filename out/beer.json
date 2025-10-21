@@ -1,0 +1,76 @@
+{
+  "WORD":"beer",
+  "IPA":"/bɪər/",
+  "CONJUGATES":"beers",
+  "ETYMOLOGY":"From Old English bēor, of West Germanic origin; related to Dutch bier and German Bier.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"beer",
+      "POS":"uncountable noun",
+      "POS_TIP":"A noun that refers to something that cannot be counted, such as a substance or quality. It does not typically have a plural form when referring to the substance itself.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An alcoholic drink made from yeast-fermented malt, flavored with hops.",
+      "DEF_ZH":"一种由麦芽发酵、加入啤酒花调味的酒精饮料。",
+      "SENT_EN":"He enjoys a cold beer after a long day.",
+      "SENT_ZH":"他喜欢在漫长的一天后喝一杯冰镇啤酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brew",
+            "ale",
+            "lager",
+            "stout",
+            "porter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "alcohol",
+            "hops",
+            "malt",
+            "yeast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a beer | beers",
+      "POS":"countable noun",
+      "POS_TIP":"A noun that refers to something that can be counted and has both singular and plural forms.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A glass, bottle, or can of beer; or a particular type or brand of beer.",
+      "DEF_ZH":"一杯、一瓶或一罐啤酒；或指某种特定类型或品牌的啤酒。",
+      "SENT_EN":"Could I have two beers, please? | This pub offers a wide range of craft beers.",
+      "SENT_ZH":"请给我两杯啤酒好吗？ | 这家酒吧提供各种精酿啤酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pint",
+            "bottle",
+            "can",
+            "draft"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "craft beer",
+            "light beer",
+            "dark beer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

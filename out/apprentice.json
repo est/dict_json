@@ -1,0 +1,65 @@
+{
+  "WORD":"apprentice",
+  "IPA":"/əˈprɛntɪs/",
+  "CONJUGATES":"apprentices | apprenticed | apprenticing",
+  "ETYMOLOGY":"From Middle English apprentice, via Old French aprentiz (learner), from aprendre (to learn), ultimately from Latin apprehendere (to grasp, seize, learn).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession"
+      ],
+      "DEF_EN":"A person who is learning a trade or craft, especially one who is bound by legal agreement to work for a qualified employer for a fixed period.",
+      "DEF_ZH":"学徒；徒弟；与熟练工匠或雇主签订合同，在固定期限内学习某项手艺或技能的人。",
+      "SENT_EN":"She worked for three years as an apprentice electrician before becoming fully qualified.",
+      "SENT_ZH":"她在成为正式合格的电工之前，做了三年的学徒电工。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trainee",
+            "novice",
+            "learner",
+            "mentee"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "master",
+            "expert",
+            "guru",
+            "journeyman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"apprentice [sb] to [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal"
+      ],
+      "DEF_EN":"To employ someone as an apprentice or to bind someone to work as an apprentice to a specific person or company.",
+      "DEF_ZH":"使（某人）当学徒；安排（某人）成为学徒（常与介词 to 连用）。",
+      "SENT_EN":"In the 18th century, families often apprenticed their children to tradesmen.",
+      "SENT_ZH":"在18世纪，家庭经常把他们的孩子送给商人当学徒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bind",
+            "indenture",
+            "enroll"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in professional training, historical, and educational contexts."
+}

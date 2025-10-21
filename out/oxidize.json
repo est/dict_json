@@ -1,0 +1,81 @@
+{
+  "WORD":"oxidize",
+  "IPA":"/ˈɒksɪdaɪz/ | /ˈɑːksɪdaɪz/",
+  "CONJUGATES":"oxidizes | oxidized | oxidizing",
+  "ETYMOLOGY":"From French oxyder (1787), from oxygène (oxygen) + -er (verb suffix), coined by Antoine Lavoisier. English 'oxidize' first appeared around 1800.",
+  "SINCE":"c. 1800",
+  "MEANINGS":[
+    {
+      "PATTERN":"oxidize [sth] | [sth] oxidizes",
+      "POS":"vtr | vit",
+      "POS_TIP":"\"vtr\" means transitive verb (takes a direct object); \"vit\" means intransitive verb (does not take a direct object).",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "common"
+      ],
+      "DEF_EN":"To combine or cause something to combine with oxygen, often leading to changes like rust or degradation.",
+      "DEF_ZH":"（使）与氧结合；（使）氧化（如生锈、燃烧等现象）。",
+      "SENT_EN":"Iron will oxidize quickly if exposed to air and moisture, forming rust.",
+      "SENT_ZH":"铁暴露在空气和湿气中会迅速氧化，形成铁锈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rust",
+            "corrode",
+            "tarnish",
+            "degrade"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reduce",
+            "deoxidize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "oxidation",
+            "oxygen",
+            "oxidant",
+            "rusting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"oxidize [sth] | [sth] oxidizes",
+      "POS":"vtr | vit",
+      "POS_TIP":"\"vtr\" means transitive verb (takes a direct object); \"vit\" means intransitive verb (does not take a direct object).",
+      "TAGS":[
+        "technical",
+        "chemistry",
+        "biology"
+      ],
+      "DEF_EN":"In chemistry, to cause an atom, ion, or molecule to lose electrons, or to undergo such a loss, resulting in an increase in its oxidation state.",
+      "DEF_ZH":"在化学中，（使）原子、离子或分子失去电子，或使氧化态增加。",
+      "SENT_EN":"During respiration, cells oxidize glucose to produce ATP, releasing energy.",
+      "SENT_ZH":"在呼吸作用中，细胞氧化葡萄糖以产生ATP，释放能量。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "reduce"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reduction",
+            "redox",
+            "electron"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Primarily scientific and technical, but also common in general use when referring to everyday phenomena like rusting."
+}

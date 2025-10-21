@@ -1,0 +1,88 @@
+{
+  "WORD":"clinical",
+  "IPA":"/ˈklɪnɪkəl/",
+  "CONJUGATES":"clinically (adv) | more clinical | most clinical",
+  "ETYMOLOGY":"From Late Latin clīnicus (physician who visits patients in bed), derived from Ancient Greek klinikós (of or pertaining to a bed), ultimately from klínē (bed, couch). Applied to 'medical instruction by the bedside' in the 17th century.",
+  "SINCE":"Mid-17th century (c. 1640s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"clinical [medicine/trial/practice]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "medical"
+      ],
+      "DEF_EN":"Relating to the observation and treatment of patients, especially in a hospital or medical setting, rather than theoretical study.",
+      "DEF_ZH":"临床的；与病患诊疗相关的。",
+      "SENT_EN":"The new surgical procedure must undergo rigorous clinical testing before widespread use.",
+      "SENT_ZH":"这种新的外科手术必须经过严格的临床试验才能广泛使用。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "medicinal",
+            "therapeutic",
+            "hospital"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clinical [manner/analysis/approach]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative",
+        "objective"
+      ],
+      "DEF_EN":"Impersonal, detached, and objective; relating to or characterized by unemotional, analytical observation.",
+      "DEF_ZH":"冷静客观的；不带感情色彩的；纯粹分析性的。",
+      "SENT_EN":"The detective described the crime scene with clinical precision, omitting any emotional reaction.",
+      "SENT_ZH":"侦探以冷静精确的方式描述了犯罪现场，省略了任何情感反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "detached",
+            "impersonal",
+            "objective",
+            "analytical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "emotional",
+            "biased",
+            "warm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clinical [appearance/decor]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive"
+      ],
+      "DEF_EN":"Extremely plain, bare, and sterile in appearance, often uncomfortably so, reminiscent of a medical facility.",
+      "DEF_ZH":"（环境）简朴而无菌的；极度整洁的；过于冷清的。",
+      "SENT_EN":"The minimalist office space felt clinical with its harsh lighting and white, empty walls.",
+      "SENT_ZH":"这个极简主义的办公空间，由于刺眼的灯光和白色的空墙，让人感觉非常冷清。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sterile",
+            "austere",
+            "sparse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly frequent in medical, psychological, and scientific contexts."
+}

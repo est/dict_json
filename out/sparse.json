@@ -1,0 +1,94 @@
+{
+  "WORD":"sparse",
+  "IPA":"/spɑːrs/",
+  "CONJUGATES":"sparser | sparsest | sparsely | sparsity",
+  "ETYMOLOGY":"From Latin sparsus, past participle of spargere ('to scatter, strew'). Adopted into English via French (sparse, sparcir).",
+  "SINCE":"Late 16th century (originally meaning 'scattered', later 'thinly distributed')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is sparse",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Thinly dispersed or scattered; occurring only in small numbers or amounts over a wide area.",
+      "DEF_ZH":"稀疏的；稀少的；分散的。",
+      "SENT_EN":"The population in the desert region is very sparse.",
+      "SENT_ZH":"沙漠地区的居民人口非常稀少。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thin",
+            "scattered",
+            "meager",
+            "scanty"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dense",
+            "thick",
+            "numerous",
+            "abundant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sparse [information | details]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Lacking detail or comprehensive information; minimal.",
+      "DEF_ZH":"缺乏细节的；不充实的；简洁的。",
+      "SENT_EN":"The police report provided only sparse details about the incident.",
+      "SENT_ZH":"警方的报告只提供了关于该事件的稀疏的细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minimal",
+            "insufficient",
+            "sketchy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sparse (mathematics | computing)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "computing"
+      ],
+      "DEF_EN":"(Of a matrix or data set) containing mostly zero values or irrelevant entries.",
+      "DEF_ZH":"(数学、计算机科学中指矩阵或数据集) 稀疏的；大部分元素为零的。",
+      "SENT_EN":"We used specialized algorithms to handle the large sparse matrix efficiently.",
+      "SENT_ZH":"我们使用专用算法来高效处理大型稀疏矩阵。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sparse matrix"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dense"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in descriptive writing or technical contexts."
+}

@@ -1,0 +1,66 @@
+{
+  "WORD":"taxi",
+  "IPA":"/ˈtæksi/",
+  "CONJUGATES":"noun: taxi | taxis; verb: taxi | taxies | taxiing | taxied",
+  "ETYMOLOGY":"Shortened from 'taxicab', which is a blend of 'taximeter' and 'cab'. 'Taximeter' comes from French 'taximètre' (taxe 'charge, tax' + mètre 'meter'). 'Cab' is a shortening of 'cabriolet' (a type of horse-drawn carriage).",
+  "SINCE":"c. 1907",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] taxi",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A car available for hire, often distinguished by a taximeter, and driven by a professional driver.",
+      "DEF_ZH":"一种供雇佣的汽车，通常配备计价器，由专业司机驾驶。",
+      "SENT_EN":"We took a taxi from the airport to the hotel.",
+      "SENT_ZH":"我们从机场打的到酒店。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cab",
+            "hack"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Uber",
+            "Lyft"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"taxi [to/from somewhere]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To travel in a taxi.",
+      "DEF_ZH":"乘坐出租车。",
+      "SENT_EN":"We decided to taxi back to the hotel after the concert.",
+      "SENT_ZH":"音乐会结束后，我们决定打车回酒店。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[an aircraft] taxi",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "technical",
+        "aviation"
+      ],
+      "DEF_EN":"(Of an aircraft) to move slowly on the ground or on the water under its own power, especially before taking off or after landing.",
+      "DEF_ZH":"(指飞机) 在地面或水面上缓慢滑行，尤其是在起飞前或降落后。",
+      "SENT_EN":"The plane taxied down the runway before taking off.",
+      "SENT_ZH":"飞机在跑道上滑行了一段距离后起飞。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

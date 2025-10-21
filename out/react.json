@@ -1,0 +1,96 @@
+{
+  "WORD":"react",
+  "IPA":"/riˈækt/",
+  "CONJUGATES":"reacts | reacting | reacted",
+  "ETYMOLOGY":"From Latin re- 'back' + agere 'act, do'. Mid-17th century (in the sense 'act in opposition'); mid-19th century (in the chemical sense).",
+  "SINCE":"mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"react (to [sth/sb]) | react (by doing [sth])",
+      "POS":"verb",
+      "POS_TIP":"An action verb that does not take a direct object (intransitive). Often followed by a prepositional phrase like 'to something' or 'by doing something'.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To act or behave in a particular way in response to something; to show a response or feeling.",
+      "DEF_ZH":"对某事或某人做出特定的行为或反应；表现出回应或情感。",
+      "SENT_EN":"He reacted angrily to her comments.",
+      "SENT_ZH":"他对她的评论做出了愤怒的反应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "respond",
+            "answer",
+            "reply",
+            "act",
+            "behave"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ignore",
+            "disregard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] react (with [sth else]) (to form [sth])",
+      "POS":"verb",
+      "POS_TIP":"An action verb that does not take a direct object (intransitive). Describes a chemical process.",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"(Of a substance) to undergo a chemical change when coming into contact with another substance.",
+      "DEF_ZH":"（指物质）与另一种物质接触时发生化学变化。",
+      "SENT_EN":"Acids react with metals to produce hydrogen gas.",
+      "SENT_ZH":"酸与金属反应会产生氢气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combine",
+            "interact",
+            "mix"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reaction",
+            "reagent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] react (against [sth])",
+      "POS":"verb",
+      "POS_TIP":"An action verb that does not take a direct object (intransitive). Used in physics or to describe a counter-movement.",
+      "TAGS":[
+        "technical",
+        "physics",
+        "less common"
+      ],
+      "DEF_EN":"To exert an equal and opposite force or influence.",
+      "DEF_ZH":"施加相等且相反的力或影响。",
+      "SENT_EN":"The rocket's thrust reacts against the exhaust gases, propelling it forward.",
+      "SENT_ZH":"火箭的推力与废气产生反作用，从而推动它前进。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "counteract",
+            "oppose",
+            "resist"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in general conversation, scientific contexts (chemistry, physics), and psychology/behavioral discussions."
+}

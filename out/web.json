@@ -1,0 +1,104 @@
+{
+  "WORD":"web",
+  "IPA":"/wɛb/",
+  "CONJUGATES":"webs | webbing | webbed",
+  "ETYMOLOGY":"From Old English webb, meaning 'woven fabric, tapestry, texture,' related to the verb wefan 'to weave.' The sense of a spider's structure appeared in Old English. The meaning 'World Wide Web' is a coinage from the 1990s.",
+  "SINCE":"Before 1150 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the Web]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"Short for the World Wide Web, the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide.",
+      "DEF_ZH":"（特指 World Wide Web）万维网；全球互联网系统。",
+      "SENT_EN":"He spent the whole afternoon browsing the Web for vacation ideas.",
+      "SENT_ZH":"他花了一整个下午在网上搜索度假的主意。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Internet",
+            "browser",
+            "server",
+            "URL"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a web] of [threads/silk]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "nature"
+      ],
+      "DEF_EN":"A network of fine threads constructed by a spider to catch its prey.",
+      "DEF_ZH":"蜘蛛网；网状物。",
+      "SENT_EN":"The small fly struggled desperately in the sticky web.",
+      "SENT_ZH":"那只小苍蝇在粘稠的网中拼命挣扎。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "net",
+            "mesh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a web] of [lies/intrigue/connections]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A complex, interconnected, and often confusing or deceptive structure or system.",
+      "DEF_ZH":"错综复杂的关系网；圈套；迷宫。",
+      "SENT_EN":"The political scandal revealed a deep web of corruption.",
+      "SENT_ZH":"这场政治丑闻揭露了一个腐败的深层网络。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tangle",
+            "maze",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] webs [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (takes a direct object)",
+      "TAGS":[
+        "less common",
+        "literary"
+      ],
+      "DEF_EN":"To cover or connect with a web or network.",
+      "DEF_ZH":"使（某物）被网覆盖；用网连接。",
+      "SENT_EN":"Ivy had completely webbed the ancient stone wall.",
+      "SENT_ZH":"常春藤完全覆盖住了那面古老的石墙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interweave",
+            "entangle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in computing and technology contexts."
+}

@@ -1,0 +1,112 @@
+{
+  "WORD":"terminal",
+  "IPA":"/ˈtɜːrmɪnəl/",
+  "CONJUGATES":"terminals (n. plural)",
+  "ETYMOLOGY":"From Latin terminalis ('belonging to a boundary or end'), from terminus ('boundary, limit, end').",
+  "SINCE":"Mid-15th century (adjective); late 17th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] terminal",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that describes a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Of or relating to an end, boundary, or extremity.",
+      "DEF_ZH":"属于末端、边界或极点的；末端的。",
+      "SENT_EN":"The terminal phase of the project is often the most challenging.",
+      "SENT_ZH":"项目的最后阶段往往是最具挑战性的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "final",
+            "concluding",
+            "last"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "initial",
+            "beginning",
+            "starting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] terminal",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that describes a noun or pronoun.",
+      "TAGS":[
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"(Of a disease) incurable and leading to death.",
+      "DEF_ZH":"（指疾病）无法治愈并导致死亡的；晚期的。",
+      "SENT_EN":"He was diagnosed with terminal cancer and given six months to live.",
+      "SENT_ZH":"他被诊断出患有晚期癌症，并被告知只剩下六个月的生命。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fatal",
+            "deadly",
+            "mortal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] terminal",
+      "POS":"n",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A station or center where passengers or goods arrive and depart.",
+      "DEF_ZH":"旅客或货物到达和离开的车站或中心；终点站，航站楼。",
+      "SENT_EN":"Our flight departs from Terminal 3.",
+      "SENT_ZH":"我们的航班从3号航站楼出发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "station",
+            "depot",
+            "port"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] terminal",
+      "POS":"n",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "computing",
+        "electrical",
+        "common"
+      ],
+      "DEF_EN":"A device by which a user communicates with a computer; also, an electrical connection point.",
+      "DEF_ZH":"用户与计算机通信的设备（如显示器和键盘）；也指电连接点或接线柱。",
+      "SENT_EN":"She typed the command into the terminal to access the server. | Ensure the battery terminals are clean.",
+      "SENT_ZH":"她在终端中输入命令以访问服务器。 | 确保电池接线柱干净。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "console",
+            "interface",
+            "port",
+            "connector"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, technical, and general usage."
+}

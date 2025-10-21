@@ -1,0 +1,134 @@
+{
+  "WORD":"talk",
+  "IPA":"/tɔːk/",
+  "CONJUGATES":"talks | talked | talking",
+  "ETYMOLOGY":"From Middle English talken, perhaps from Old English talu ('tale, narration, discourse'), or from an unattested Old English *talian ('to talk').",
+  "SINCE":"circa 1200 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"talk",
+      "POS":"v.intr.",
+      "POS_TIP":"An intransitive verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To speak in order to communicate information, ideas, or feelings; to have a conversation.",
+      "DEF_ZH":"说话；交谈；聊天",
+      "SENT_EN":"They talked for hours about their trip.",
+      "SENT_ZH":"他们聊了好几个小时关于旅行的事情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speak",
+            "converse",
+            "chat",
+            "discuss"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "be silent",
+            "listen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"talk [sth] | talk [language]",
+      "POS":"v.tr.",
+      "POS_TIP":"A transitive verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To discuss a particular subject; to be able to speak a specific language.",
+      "DEF_ZH":"谈论（某事）；说（某种语言）",
+      "SENT_EN":"We need to talk about your future. | She can talk three languages fluently.",
+      "SENT_ZH":"我们需要谈谈你的未来。| 她能流利地说三种语言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discuss",
+            "speak",
+            "articulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a talk | talks",
+      "POS":"n.",
+      "POS_TIP":"A noun, referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A conversation or discussion; a lecture or address.",
+      "DEF_ZH":"谈话；讨论；演讲；讲座",
+      "SENT_EN":"We had a long talk about our plans. | The professor gave an interesting talk on cosmology.",
+      "SENT_ZH":"我们对计划进行了长时间的讨论。| 教授做了一个关于宇宙学的有趣讲座。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conversation",
+            "discussion",
+            "lecture",
+            "speech",
+            "discourse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"talk back (to [sb])",
+      "POS":"v.intr. + adv.",
+      "POS_TIP":"An intransitive verb followed by an adverb, forming a phrasal verb.",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To respond impolitely or defiantly, especially to someone in authority.",
+      "DEF_ZH":"顶嘴；回嘴",
+      "SENT_EN":"Don't talk back to your parents!",
+      "SENT_ZH":"不要顶撞你的父母！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retort",
+            "answer back"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"talk [sb] into [sth/doing sth] | talk [sb] out of [sth/doing sth]",
+      "POS":"v.tr. + prep.",
+      "POS_TIP":"A transitive verb followed by a preposition, forming a phrasal verb with a direct object.",
+      "TAGS":[
+        "phrasal verb",
+        "common"
+      ],
+      "DEF_EN":"To persuade someone to do something or to persuade someone not to do something.",
+      "DEF_ZH":"说服（某人）做某事 | 说服（某人）不做某事",
+      "SENT_EN":"He talked me into buying a new car. | She tried to talk him out of quitting his job.",
+      "SENT_ZH":"他说服我买了一辆新车。| 她试图说服他不要辞职。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "persuade",
+            "convince",
+            "dissuade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

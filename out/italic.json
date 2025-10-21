@@ -1,0 +1,94 @@
+{
+  "WORD":"italic",
+  "IPA":"/ɪˈtælɪk/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Italian 'italico', ultimately from 'Italia' (Italy). The typeface was introduced by Aldus Manutius in Venice in the early 16th century, based on the handwriting style of humanist scribes in Italy.",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] italic [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "typography",
+        "common"
+      ],
+      "DEF_EN":"(Of a typeface or font) slanting upwards to the right, typically used for emphasis, distinction, or for foreign words.",
+      "DEF_ZH":"（指字体或字形）向右倾斜的，通常用于强调、区分或表示外来词。",
+      "SENT_EN":"The title of the book was printed in italic type.",
+      "SENT_ZH":"这本书的书名是用斜体字印刷的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slanted",
+            "canted"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "roman",
+            "upright"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[noun] an italic | use italics",
+      "POS":"noun",
+      "POS_TIP":"noun (a person, place, thing, or idea)",
+      "TAGS":[
+        "core word",
+        "typography",
+        "common"
+      ],
+      "DEF_EN":"An italic typeface or letter; often used in the plural 'italics' to refer to this style of print.",
+      "DEF_ZH":"斜体字；斜体。常用于复数形式“italics”指这种字体风格。",
+      "SENT_EN":"Please put all the foreign terms in italics.",
+      "SENT_ZH":"请把所有的外来词都用斜体表示。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slanted type",
+            "cursive type"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "roman type"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] Italic [language/people]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "rare",
+        "historical",
+        "linguistics",
+        "usually capitalized"
+      ],
+      "DEF_EN":"(Historical, chiefly capitalized Italic) Of or relating to ancient Italy, its peoples, or its languages.",
+      "DEF_ZH":"（历史，主要大写Italic）与古意大利、其民族或语言相关的。",
+      "SENT_EN":"The Oscan language is an example of an Italic language.",
+      "SENT_ZH":"奥斯坎语是意大利语族的一个例子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Latin",
+            "Oscan",
+            "Umbrian"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, technical (typography), general"
+}

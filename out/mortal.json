@@ -1,0 +1,136 @@
+{
+  "WORD":"mortal",
+  "IPA":"/ˈmɔːr.tl/",
+  "CONJUGATES":"mortals (plural noun)",
+  "ETYMOLOGY":"From Old French mortel, from Latin mortalis 'subject to death', from mors, mort- 'death'.",
+  "SINCE":"Late Middle English",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] mortal | mortal [creature]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Subject to death; unable to live forever.",
+      "DEF_ZH":"会死的；不能永生的。",
+      "SENT_EN":"All human beings are mortal.",
+      "SENT_ZH":"所有人类都会死亡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perishable",
+            "transient",
+            "ephemeral"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "immortal",
+            "eternal",
+            "undying"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mortal [wound/blow/enemy]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "common",
+        "serious"
+      ],
+      "DEF_EN":"Causing or able to cause death; fatal.",
+      "DEF_ZH":"致命的；能导致死亡的。",
+      "SENT_EN":"He suffered a mortal wound in the battle.",
+      "SENT_ZH":"他在战斗中受了致命伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fatal",
+            "deadly",
+            "lethal",
+            "terminal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "harmless",
+            "minor",
+            "benign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mortal [fear/hatred/enemy]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"(Of a feeling, struggle, or enemy) intense, extreme, or irreconcilable.",
+      "DEF_ZH":"（指感情、斗争或敌人）强烈的，极度的，不共戴天的。",
+      "SENT_EN":"She was in mortal fear of losing her job.",
+      "SENT_ZH":"她非常害怕失去工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intense",
+            "extreme",
+            "profound",
+            "dire"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "slight",
+            "mild",
+            "trivial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mortal | mortals",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun)",
+      "TAGS":[
+        "core word",
+        "literary"
+      ],
+      "DEF_EN":"A human being, as distinguished from a god or immortal being.",
+      "DEF_ZH":"凡人；人类（区别于神或不朽者）。",
+      "SENT_EN":"Even mortals can achieve great things.",
+      "SENT_ZH":"即使是凡人也能成就伟大的事业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "human",
+            "person",
+            "individual"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "god",
+            "deity",
+            "immortal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

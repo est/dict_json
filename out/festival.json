@@ -1,0 +1,68 @@
+{
+  "WORD":"festival",
+  "IPA":"/ˈfɛstɪvəl/",
+  "CONJUGATES":"festivals",
+  "ETYMOLOGY":"From Middle English, derived from Old French festival (adjective), ultimately from Medieval Latin festivālis, from Latin festum ('feast', 'holiday').",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"festival",
+      "POS":"noun",
+      "POS_TIP":"noun, common",
+      "TAGS":[
+        "core word",
+        "common",
+        "event",
+        "culture"
+      ],
+      "DEF_EN":"A recurring public event or series of events, usually held annually, focusing on a specific theme such as music, film, art, or food.",
+      "DEF_ZH":"定期（通常是每年）举行的大型公共活动或一系列活动，重点关注某一特定主题，如音乐、电影、艺术或美食。",
+      "SENT_EN":"The city hosts a major jazz festival every summer that attracts international performers.",
+      "SENT_ZH":"这座城市每年夏天都会举办一个主要的爵士音乐节，吸引国际表演者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gala",
+            "carnival",
+            "fete",
+            "extravaganza"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "concert",
+            "fair",
+            "exhibition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"festival [of sth]",
+      "POS":"noun",
+      "POS_TIP":"noun, tradition",
+      "TAGS":[
+        "religion",
+        "tradition",
+        "holiday"
+      ],
+      "DEF_EN":"A day or period of time set aside for religious or cultural celebration, often involving traditional observances, rituals, or feasting.",
+      "DEF_ZH":"为宗教或文化庆典而设定的日子或时期，通常涉及传统的习俗、仪式或宴会。",
+      "SENT_EN":"Diwali is widely known as the Festival of Lights.",
+      "SENT_ZH":"排灯节被广泛地称为光明节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "holiday",
+            "feast",
+            "holy day"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

@@ -1,0 +1,132 @@
+{
+  "WORD":"dead",
+  "IPA":"/dɛd/",
+  "CONJUGATES":"deadness (n) | deadly (adv/adj)",
+  "ETYMOLOGY":"From Middle English deed, from Old English dēad, from Proto-Germanic *daudaz (related to Old Norse dauðr), ultimately meaning 'fallen, perished'.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth] (organism)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"No longer alive; deceased.",
+      "DEF_ZH":"不再活着的；已故的；死的。",
+      "SENT_EN":"The doctor confirmed that the patient was dead on arrival.",
+      "SENT_ZH":"医生确认病人送来时已经死亡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deceased",
+            "lifeless",
+            "perished"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "alive",
+            "living",
+            "animate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (object/system)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"Having ceased to function or operate; depleted of energy (especially batteries).",
+      "DEF_ZH":"不再起作用的；无电的；停止运转的（尤指机器或电池）。",
+      "SENT_EN":"The flashlight is useless because the batteries are dead.",
+      "SENT_ZH":"手电筒没用，因为电池没电了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inoperative",
+            "exhausted",
+            "spent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (place/time)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Lacking movement, atmosphere, or excitement; dull or quiet.",
+      "DEF_ZH":"沉寂的；荒凉的；缺乏生气的。",
+      "SENT_EN":"The nightclub was completely dead on a Tuesday evening.",
+      "SENT_ZH":"这家夜总会在周二晚上完全一片死寂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "silent",
+            "dull",
+            "motionless"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drop/stop/hit dead",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "idiomatic",
+        "intensifier"
+      ],
+      "DEF_EN":"Completely, absolutely, or directly; used to emphasize sudden cessation or exact location.",
+      "DEF_ZH":"完全地；突然地；精确地（用于强调停止或位置）。",
+      "SENT_EN":"The train stopped dead just outside the station.",
+      "SENT_ZH":"火车在车站外突然完全停了下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abruptly",
+            "precisely",
+            "utterly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dead",
+      "POS":"n (pl)",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "collective",
+        "formal"
+      ],
+      "DEF_EN":"People who have died (used collectively).",
+      "DEF_ZH":"死者；已故的人们（集合名词）。",
+      "SENT_EN":"The ceremony was held to honor the memory of the dead.",
+      "SENT_ZH":"举行了仪式来缅怀死者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "the deceased",
+            "the departed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard usage in general conversation, literature, and technical contexts."
+}

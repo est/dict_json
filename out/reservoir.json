@@ -1,0 +1,89 @@
+{
+  "WORD":"reservoir",
+  "IPA":"/'rɛzəvwɑːr/",
+  "CONJUGATES":"reservoirs",
+  "ETYMOLOGY":"From French *réservoir*, derived from *réserver* (to reserve), ultimately from Latin *reservare* (to keep back, save).",
+  "SINCE":"Mid-18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"reservoir",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "engineering"
+      ],
+      "DEF_EN":"A large natural or artificial lake used as a source of water supply, usually constructed by building a dam across a river.",
+      "DEF_ZH":"用于蓄水的人工或天然湖泊，通常通过修建水坝截流河流而形成的水库。",
+      "SENT_EN":"The city's water supply depends entirely on the nearby reservoir.",
+      "SENT_ZH":"该城市的供水完全依赖附近的那个水库。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "water source",
+            "cistern",
+            "tank"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dam",
+            "aquaduct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reservoir [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun, often followed by 'of'",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A large or reserve stock or supply of something, especially knowledge, resources, or energy.",
+      "DEF_ZH":"巨大的储备、资源或供给源，尤指知识、力量或潜在的资源。",
+      "SENT_EN":"The professor proved to be a vast reservoir of historical knowledge.",
+      "SENT_ZH":"这位教授被证明是历史知识的巨大宝库。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "storehouse",
+            "stockpile",
+            "source",
+            "pool"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reservoir",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "geology",
+        "petroleum industry"
+      ],
+      "DEF_EN":"A porous and permeable underground rock formation that contains or confines fluids, such as oil, natural gas, or groundwater.",
+      "DEF_ZH":"含有或限制流体（如石油、天然气或地下水）的多孔且渗透性的地下岩层或储集层。",
+      "SENT_EN":"Drilling focused on locating the deeper hydrocarbon reservoir.",
+      "SENT_ZH":"钻探集中在定位更深层的碳氢化合物储层。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aquifer",
+            "deposit",
+            "stratum"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Technical language, commonly used in engineering, environmental science, and geology."
+}

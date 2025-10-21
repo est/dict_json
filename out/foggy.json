@@ -1,0 +1,95 @@
+{
+  "WORD":"foggy",
+  "IPA":"/ˈfɒɡi/",
+  "CONJUGATES":"foggier | foggiest | fogginess",
+  "ETYMOLOGY":"From the noun 'fog' (of uncertain origin, possibly Scandinavian or related to Middle English 'fogge' meaning moss) + the suffix '-y'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[place] is foggy",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "meteorology"
+      ],
+      "DEF_EN":"Full of, covered in, or characterized by fog.",
+      "DEF_ZH":"多雾的；被雾笼罩的。",
+      "SENT_EN":"The pilot had to delay the flight because the airport was too foggy.",
+      "SENT_ZH":"飞行员不得不推迟航班，因为机场雾太大了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "misty",
+            "hazy",
+            "murky",
+            "smoggy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clear",
+            "bright"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] feels foggy",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Confused, mentally vague, or unclear in thought.",
+      "DEF_ZH":"（头脑）模糊不清的；糊涂的。",
+      "SENT_EN":"After waking up from the nap, I still felt a little foggy and disoriented.",
+      "SENT_ZH":"午睡醒来后，我仍然感到有点迷糊和不知所措。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "muddled",
+            "groggy",
+            "dazed",
+            "befuddled"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clear",
+            "sharp",
+            "lucid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] looks foggy",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive"
+      ],
+      "DEF_EN":"Vague or indistinct in appearance or sound.",
+      "DEF_ZH":"模糊的；不清晰的（指图像、声音或记忆）。",
+      "SENT_EN":"My recollection of the event is quite foggy; I can barely remember the details.",
+      "SENT_ZH":"我对这件事的记忆非常模糊；我几乎记不起细节了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blurry",
+            "dim",
+            "indistinct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

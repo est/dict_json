@@ -1,0 +1,94 @@
+{
+  "WORD":"federation",
+  "IPA":"/ˌfɛd.əˈreɪ.ʃən/",
+  "CONJUGATES":"federations",
+  "ETYMOLOGY":"From Late Latin *foederatio* (stem *foederat-*), meaning 'league, covenant', from *foederare* 'to league together', from *foedus* 'league, treaty'.",
+  "SINCE":"Mid 17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] federation [of states/provinces]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "political science",
+        "formal"
+      ],
+      "DEF_EN":"A group of states or provinces with a central government but maintaining substantial self-government in internal affairs.",
+      "DEF_ZH":"由若干州、省或独立政权组成的联盟，拥有一个中央政府，但在内部事务中保留相当大的自治权（联邦）。",
+      "SENT_EN":"The Russian Federation is the largest country in the world by land area.",
+      "SENT_ZH":"俄罗斯联邦是世界上陆地面积最大的国家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "union",
+            "commonwealth",
+            "federal state"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "federalism",
+            "confederation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] federation [of clubs/groups]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "organizational"
+      ],
+      "DEF_EN":"An organized league or association of clubs, groups, or societies, often national or international.",
+      "DEF_ZH":"由俱乐部、团体或协会组成的有组织的联盟或联合会。",
+      "SENT_EN":"She was elected president of the International Olympic Federation.",
+      "SENT_ZH":"她被选为国际奥林匹克联合会的主席。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "association",
+            "league",
+            "alliance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the federation [of X and Y]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "process"
+      ],
+      "DEF_EN":"The process or act of uniting or joining together into a single federal entity.",
+      "DEF_ZH":"联合或结合成单一联邦实体的过程或行为；合并。",
+      "SENT_EN":"The federation of the six colonies occurred in 1901.",
+      "SENT_ZH":"六个殖民地的合并发生在1901年。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unification",
+            "merger",
+            "amalgamation"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dissolution",
+            "secession"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Political, Organizational Contexts."
+}

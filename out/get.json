@@ -1,0 +1,128 @@
+{
+  "WORD":"get",
+  "IPA":"/ɡɛt/",
+  "CONJUGATES":"get | gets | getting | got | got (or gotten)",
+  "ETYMOLOGY":"From Old English `getan` (to grasp, reach, obtain), from Proto-Germanic `*getaną`, originally with the sense of 'to seize, take'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"get [sth] | get [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To obtain, receive, acquire, or fetch something or someone.",
+      "DEF_ZH":"获得，得到，收到；去取来。",
+      "SENT_EN":"I need to get a new book from the library.",
+      "SENT_ZH":"我需要去图书馆借一本新书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obtain",
+            "acquire",
+            "receive",
+            "fetch",
+            "procure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get [adj/past participle]",
+      "POS":"vlink",
+      "POS_TIP":"linking verb (connects the subject to a complement, describing a state of being or becoming)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To reach a particular state or condition; to become.",
+      "DEF_ZH":"变得，成为（某种状态或情况）。",
+      "SENT_EN":"It's getting late, we should go home.",
+      "SENT_ZH":"天色已晚，我们该回家了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "become",
+            "grow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get [to place] | get [direction]",
+      "POS":"vintr (+ prep)",
+      "POS_TIP":"intransitive verb (does not require a direct object), often followed by a preposition or adverb of direction",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To arrive at or reach a particular place or position; to move to a specified place.",
+      "DEF_ZH":"到达，抵达（某地）；移动到某处。",
+      "SENT_EN":"How do I get to the train station from here?",
+      "SENT_ZH":"我怎么从这里到火车站？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrive",
+            "reach",
+            "go"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get [sth] | get [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To understand or comprehend something or someone.",
+      "DEF_ZH":"理解，明白（某事或某人）。",
+      "SENT_EN":"I don't get the joke; can you explain it?",
+      "SENT_ZH":"我不懂这个笑话，你能解释一下吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "understand",
+            "comprehend",
+            "grasp"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get [sb] to do [sth] | get [sth] done",
+      "POS":"vtr + obj + inf / vtr + obj + pp",
+      "POS_TIP":"transitive verb followed by an object and an infinitive (to do) or a past participle (done)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cause someone to do something; to arrange for something to be done.",
+      "DEF_ZH":"使某人做某事；安排某事被完成。",
+      "SENT_EN":"Can you get the kids to clean their rooms?",
+      "SENT_ZH":"你能让孩子们打扫他们的房间吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "persuade",
+            "convince",
+            "cause",
+            "arrange"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in everyday conversation, across all registers."
+}

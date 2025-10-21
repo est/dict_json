@@ -1,0 +1,80 @@
+{
+  "WORD":"unknown",
+  "IPA":"/ʌnˈnoʊn/",
+  "CONJUGATES":"unknowns | more unknown | most unknown",
+  "ETYMOLOGY":"From Middle English unknouen, from un- (not) + past participle of know (known).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is unknown",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not identified, established, recognized, or generally known.",
+      "DEF_ZH":"不为人知的；陌生的；未确定的。",
+      "SENT_EN":"The cause of the sudden power outage remains unknown.",
+      "SENT_ZH":"突然停电的原因仍然未知。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unidentified",
+            "unfamiliar",
+            "mysterious",
+            "obscure"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "known",
+            "familiar",
+            "recognized",
+            "certain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an unknown [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"Referring to a quantity or variable whose numerical value has yet to be determined.",
+      "DEF_ZH":"（变量、数值）未知的；待确定的。",
+      "SENT_EN":"We need to solve the system of equations for the three unknown variables.",
+      "SENT_ZH":"我们需要解出包含三个未知变量的方程组。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"the unknown | an unknown",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"An unidentified person, place, or abstract concept; the state or sphere of what is not known.",
+      "DEF_ZH":"未知数；未知事物；未知领域。",
+      "SENT_EN":"They bravely ventured into the unknown territory.",
+      "SENT_ZH":"他们勇敢地冒险进入了未知领域。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mystery",
+            "enigma",
+            "uncertainty"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"G"
+}

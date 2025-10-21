@@ -1,0 +1,90 @@
+{
+  "WORD":"auxiliary",
+  "IPA":"/ɔːɡˈzɪliəri/",
+  "CONJUGATES":"auxiliaries (plural noun)",
+  "ETYMOLOGY":"From Latin auxiliaris 'helping', from auxilium 'help, aid', from augere 'to increase'",
+  "SINCE":"Late 15th century (as adjective), mid-17th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"auxiliary [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective: describes a noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"providing supplementary or additional help and support.",
+      "DEF_ZH":"辅助的；补充的；备用的。",
+      "SENT_EN":"The ship has an auxiliary engine for emergencies.",
+      "SENT_ZH":"这艘船有一个备用发动机以备不时之需。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supplementary",
+            "additional",
+            "backup",
+            "reserve",
+            "ancillary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "primary",
+            "main",
+            "principal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an auxiliary",
+      "POS":"n",
+      "POS_TIP":"noun: a person, place, thing, or idea",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"a person or thing providing supplementary help and support; often used for troops or forces that support a main body.",
+      "DEF_ZH":"辅助人员；辅助部队；辅助设备。",
+      "SENT_EN":"The main army was supported by several auxiliaries.",
+      "SENT_ZH":"主力部队得到了几支辅助部队的支援。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "helper",
+            "assistant",
+            "support",
+            "reinforcement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an auxiliary verb",
+      "POS":"n",
+      "POS_TIP":"noun: a person, place, thing, or idea",
+      "TAGS":[
+        "technical",
+        "grammar"
+      ],
+      "DEF_EN":"(Grammar) a verb (such as be, have, or do) that is used in forming the tenses, moods, and voices of other verbs.",
+      "DEF_ZH":"(语法) 助动词 (如 be, have, do)，用于构成其他动词的时态、语态和语气。",
+      "SENT_EN":"In the sentence 'She is singing,' 'is' is an auxiliary verb.",
+      "SENT_ZH":"在句子“She is singing”中，“is”是一个助动词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "modal verb",
+            "main verb"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or technical, particularly in grammar contexts."
+}

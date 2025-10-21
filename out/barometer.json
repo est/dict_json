@@ -1,0 +1,60 @@
+{
+  "WORD":"barometer",
+  "IPA":"/bəˈrɒmɪtər/",
+  "CONJUGATES":"barometers",
+  "ETYMOLOGY":"From French 'baromètre', coined in 1665 from Ancient Greek 'βάρος' (baros, 'weight') + 'μέτρον' (metron, 'measure').",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"barometer",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "common"
+      ],
+      "DEF_EN":"An instrument measuring atmospheric pressure, used especially in forecasting the weather and determining altitude.",
+      "DEF_ZH":"一种测量大气压力的仪器，主要用于天气预报和测定海拔高度。",
+      "SENT_EN":"The ship's barometer showed a rapid drop in pressure, indicating a storm was approaching.",
+      "SENT_ZH":"船上的气压计显示气压迅速下降，预示着暴风雨即将来临。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "altimeter",
+            "weather station",
+            "aneroid barometer",
+            "mercury barometer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"barometer [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Something that reflects changes or trends, often serving as an indicator or gauge of an overall situation.",
+      "DEF_ZH":"反映变化或趋势的事物，常被用作衡量整体情况的指标或晴雨表。",
+      "SENT_EN":"Consumer confidence is often seen as a reliable barometer of economic health.",
+      "SENT_ZH":"消费者信心常被视为经济健康状况的可靠晴雨表。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indicator",
+            "gauge",
+            "index",
+            "measure",
+            "bellwether"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral; used in both scientific and general contexts."
+}

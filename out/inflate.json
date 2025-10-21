@@ -1,0 +1,85 @@
+{
+  "WORD":"inflate",
+  "IPA":"/ɪnˈfleɪt/",
+  "CONJUGATES":"inflates | inflating | inflated",
+  "ETYMOLOGY":"From Latin *inflare* (in- 'into' + *flare* 'to blow'), meaning 'to blow into'.",
+  "SINCE":"Late Middle English (circa 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"inflate [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To fill or expand something with air or gas.",
+      "DEF_ZH":"给（轮胎、气球等）充气；使膨胀。",
+      "SENT_EN":"Remember to inflate the basketball before the game.",
+      "SENT_ZH":"记得在比赛前给篮球充气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expand",
+            "swell",
+            "pump up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deflate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inflate [prices] | inflate [currency]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "economics",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To increase the general level of prices or the amount of currency in circulation excessively, leading to inflation.",
+      "DEF_ZH":"（使）物价飞涨；（使）通货膨胀。",
+      "SENT_EN":"Excessive demand can inflate housing prices in the city.",
+      "SENT_ZH":"需求过高可能会使该城市的房价飞涨。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inflation",
+            "hyperinflate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inflate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "figurative",
+        "descriptive"
+      ],
+      "DEF_EN":"To exaggerate or overstate the importance, value, or size of something.",
+      "DEF_ZH":"夸大；虚报；使（自尊心）膨胀。",
+      "SENT_EN":"The reporter seemed to inflate the actual number of attendees.",
+      "SENT_ZH":"记者似乎夸大了实际的出席人数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exaggerate",
+            "magnify",
+            "overstate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general use, technical (economics)"
+}

@@ -1,0 +1,79 @@
+{
+  "WORD":"happen",
+  "IPA":"/ˈhæpən/",
+  "CONJUGATES":"happens | happened | happening",
+  "ETYMOLOGY":"From Middle English *happenen*, from *hap* (noun, 'chance, luck') + *-nen* (verbal suffix). *Hap* is from Old Norse *happ* 'good luck, chance'.",
+  "SINCE":"circa 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"happen",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"(of an event or circumstance) take place; occur.",
+      "DEF_ZH":"（指事件或情况）发生，出现。",
+      "SENT_EN":"A strange thing happened yesterday.",
+      "SENT_ZH":"昨天发生了一件奇怪的事情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occur",
+            "take place",
+            "come about",
+            "arise",
+            "transpire"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cease",
+            "stop",
+            "prevent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"happen to [do sth]",
+      "POS":"vintr + infinitive",
+      "POS_TIP":"intransitive verb followed by an infinitive verb (base form with 'to')",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To do or find oneself doing something by chance; to be in a certain state or situation by chance.",
+      "DEF_ZH":"碰巧做某事；偶然发现自己正在做某事；碰巧处于某种状态或情况。",
+      "SENT_EN":"I happened to be in the area when it started raining.",
+      "SENT_ZH":"我当时碰巧在那一带，然后就开始下雨了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chance",
+            "stumble upon",
+            "encounter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"it happens that [clause]",
+      "POS":"vintr (impersonal)",
+      "POS_TIP":"intransitive verb used impersonally, often with 'it' as a subject",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to introduce a fact that is true, often by chance or surprisingly.",
+      "DEF_ZH":"发生…情况；碰巧…（常用于指某事是真实的，通常是偶然或令人惊讶的）。",
+      "SENT_EN":"It just so happens that I have some spare time this afternoon.",
+      "SENT_ZH":"碰巧今天下午我有些空闲时间。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

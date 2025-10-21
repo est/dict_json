@@ -1,0 +1,87 @@
+{
+  "WORD":"tomb",
+  "IPA":"/tuːm/",
+  "CONJUGATES":"tombs | tombed | tombing",
+  "ETYMOLOGY":"From Middle English tombe, from Old French tombe, from Late Latin tumba, from Ancient Greek túmbos (τύμβος, 'burial mound, barrow').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] tomb (of [sb])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "architecture"
+      ],
+      "DEF_EN":"A large vault, chamber, or monument constructed for the burial of the dead.",
+      "DEF_ZH":"坟墓；陵墓；墓穴（通常指大型的或地面上的纪念性建筑）。",
+      "SENT_EN":"They visited the tomb of the unknown soldier.",
+      "SENT_ZH":"他们参观了无名战士的陵墓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grave",
+            "sepulcher",
+            "crypt",
+            "mausoleum"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "entomb",
+            "tombstone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (a/the) tomb of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "metaphorical",
+        "poetic"
+      ],
+      "DEF_EN":"A place or situation that suggests profound decay, finality, or silence, often representing the end of something.",
+      "DEF_ZH":"象征死亡、衰败、终结或沉寂的场所或状态。",
+      "SENT_EN":"After the disaster, the abandoned city became a silent tomb.",
+      "SENT_ZH":"灾难发生后，这座被遗弃的城市变成了一座寂静的坟墓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oblivion",
+            "ruin",
+            "silence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tomb [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "literary"
+      ],
+      "DEF_EN":"To place or bury in a tomb; to entomb.",
+      "DEF_ZH":"将（某人或某物）埋入墓穴；安葬。",
+      "SENT_EN":"The ancient priests tombed the artifacts deep within the mountain.",
+      "SENT_ZH":"古代的祭司们将这些文物深深地埋藏在山中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bury",
+            "inter",
+            "entomb"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

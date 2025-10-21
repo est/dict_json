@@ -1,0 +1,75 @@
+{
+  "WORD":"a",
+  "IPA":"/ə/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Reduced form of Old English ān (one), which evolved into the modern forms 'a' and 'an'.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"a [singular countable noun]",
+      "POS":"art.",
+      "POS_TIP":"article, indefinite",
+      "TAGS":[
+        "core word",
+        "grammar",
+        "most common"
+      ],
+      "DEF_EN":"Used before a singular countable noun when the reference is to any non-specific member of a group or class, or when the noun is mentioned for the first time.",
+      "DEF_ZH":"用在一个单数可数名词前，指代某一类事物中的任何一个非特定成员，或首次提及的事物。",
+      "SENT_EN":"I saw a strange dog in the park.",
+      "SENT_ZH":"我在公园里看到一只陌生的狗。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "the"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [noun]",
+      "POS":"art.",
+      "POS_TIP":"article, expressing number",
+      "TAGS":[
+        "grammar",
+        "quantity"
+      ],
+      "DEF_EN":"Expressing the quantity of one; used as an equivalent to 'one'.",
+      "DEF_ZH":"表示数量“一”，等同于“one”。",
+      "SENT_EN":"Wait just a minute, please.",
+      "SENT_ZH":"请稍等一分钟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "one"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[rate] a [unit of time/measure]",
+      "POS":"art.",
+      "POS_TIP":"article, used idiomatically as a preposition",
+      "TAGS":[
+        "idiomatic",
+        "frequency"
+      ],
+      "DEF_EN":"Used to denote frequency or rate, meaning 'per' or 'each'.",
+      "DEF_ZH":"用于表示频率或比率，意为“每”或“每一”。",
+      "SENT_EN":"The train travels fifty miles an hour.",
+      "SENT_ZH":"这列火车每小时行驶五十英里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "per",
+            "each"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Ubiquitous, used in all forms of English."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"orient",
+  "IPA":"/ˈɔːr.i.ənt/",
+  "CONJUGATES":"orients | orienting | oriented",
+  "ETYMOLOGY":"From Old French orient, from Latin oriēns, present participle of orīrī ('to rise'), referring to the direction of the rising sun (East).",
+  "SINCE":"c. 1380s (as noun); c. 1620s (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"orient [sb] / orient [oneself] (to/with sth)",
+      "POS":"vtr | v refl",
+      "POS_TIP":"transitive verb | reflexive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To direct or train someone toward a particular goal or subject; or to adjust or adapt oneself to new circumstances or environment.",
+      "DEF_ZH":"使适应；使熟悉环境、情况或目标。",
+      "SENT_EN":"During the induction week, staff helped to orient the new students to campus life.",
+      "SENT_ZH":"在入职培训周期间，工作人员帮助新员工熟悉校园生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acclimate",
+            "familiarize",
+            "adjust"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disorient",
+            "confuse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"orient [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"To determine the position of something relative to the points of the compass or other fixed directions; to face or position something in a specific direction.",
+      "DEF_ZH":"定位；确定（某物）的朝向或方位（尤其指朝东）。",
+      "SENT_EN":"The architect carefully oriented the building to maximize solar gain.",
+      "SENT_ZH":"建筑师仔细地将建筑定位，以最大限度地利用太阳能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "position",
+            "align",
+            "locate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The Orient",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geographical",
+        "historical",
+        "dated",
+        "sensitive"
+      ],
+      "DEF_EN":"The countries of Asia, especially East Asia and the Middle East (literally, the East). This term is often avoided now due to associations with colonialism and simplified views of complex regions.",
+      "DEF_ZH":"东方；亚洲国家（尤其指东亚和中东）。该词汇现已过时且常被认为带有殖民主义色彩。",
+      "SENT_EN":"In the 19th century, European powers sought greater access to trade routes connecting to the Orient.",
+      "SENT_ZH":"在19世纪，欧洲列强寻求更多连接东方的贸易路线。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Occident",
+            "East",
+            "Asia"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and General English; the noun form 'The Orient' is considered dated."
+}

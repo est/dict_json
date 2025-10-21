@@ -1,0 +1,86 @@
+{
+  "WORD":"poll",
+  "IPA":"/poʊl/",
+  "CONJUGATES":"polls | polled | polling",
+  "ETYMOLOGY":"From Middle English 'pol' (head), likely from Low German or Dutch. The sense of 'counting heads' evolved into 'counting votes' and then to 'collecting opinions'.",
+  "SINCE":"mid-13th century (as 'head'), late 17th century (as 'voting/survey')",
+  "MEANINGS":[
+    {
+      "PATTERN":"a poll on [sth] | to poll [sb/sth]",
+      "POS":"n | v",
+      "POS_TIP":"n: noun (a word referring to a person, place, thing, or idea); v: verb (a word describing an action, state, or occurrence)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A survey of public opinion conducted by questioning a sample of people; the process of gathering and counting votes. | To question people to record their opinion or to register votes.",
+      "DEF_ZH":"民意调查，民意测验（通过询问样本人群来收集民意）；投票或计票过程。| 对（某人）进行民意调查，投票给（某人）。",
+      "SENT_EN":"The latest poll shows a significant increase in public support for the new policy. | The organization decided to poll residents on their views regarding local infrastructure projects.",
+      "SENT_ZH":"最新民意调查显示，公众对新政策的支持率显著上升。| 该组织决定就当地基础设施项目征询居民意见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "survey",
+            "canvass",
+            "referendum",
+            "ballot"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exit poll",
+            "opinion poll"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"go to the polls | to poll [votes/support]",
+      "POS":"n | v",
+      "POS_TIP":"n: noun; v: verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "political"
+      ],
+      "DEF_EN":"The act of voting in an election, or the place where voting takes place (often plural, 'the polls'). | To receive or cast votes in an election.",
+      "DEF_ZH":"（选举中的）投票，投票站（常作复数'the polls'）；（选举中的）得票数。| （在选举中）获得（票数）；投票。",
+      "SENT_EN":"Voters went to the polls early on election day to cast their ballots. | The candidate polled over 70% of the votes in her district.",
+      "SENT_ZH":"选举日当天，选民们一大早就去投票站投票了。| 该候选人在她的选区获得了超过70%的选票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "election",
+            "vote",
+            "ballot"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "polling station",
+            "polling booth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] poll of [sth/sb]",
+      "POS":"n",
+      "POS_TIP":"n: noun",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"The head, especially the top of the head or an animal's head.",
+      "DEF_ZH":"（人或动物的）头部，头顶。",
+      "SENT_EN":"The farmer struck the animal on the poll to calm it.",
+      "SENT_ZH":"农民轻拍那只动物的头部以使其平静下来。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General; often used in political or sociological contexts."
+}

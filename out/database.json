@@ -1,0 +1,43 @@
+{
+  "WORD":"database",
+  "IPA":"/ˈdeɪtəˌbeɪs/",
+  "CONJUGATES":"databases (pl.)",
+  "ETYMOLOGY":"Compound of 'data' (from Latin datum 'something given') and 'base' (meaning 'foundation' or 'storehouse'). The technical computing usage was coined in the early 1960s.",
+  "SINCE":"1960s",
+  "MEANINGS":[
+    {
+      "PATTERN":"database [noun]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"A structured set of data held in a computer, especially one that is accessible, manageable, and updated in various ways.",
+      "DEF_ZH":"储存在计算机系统中的、结构化的记录或数据的集合，通常便于访问、管理和更新。",
+      "SENT_EN":"We need to query the central database to retrieve the customer’s contact information.",
+      "SENT_ZH":"我们需要查询中央数据库来检索客户的联系信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data store",
+            "data repository",
+            "data bank"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "SQL",
+            "server",
+            "schema",
+            "table"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical, Business, Computing"
+}

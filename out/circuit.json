@@ -1,0 +1,144 @@
+{
+  "WORD":"circuit",
+  "IPA":"/ˈsɜːrkɪt/",
+  "CONJUGATES":"circuit (n) | circuits (n pl) | circuit (v) | circuits (v) | circuiting (v) | circuited (v)",
+  "ETYMOLOGY":"From Old French circuit (modern French circuit), from Latin circuitus 'a going around', from circuire 'to go around', from circum 'around' + ire 'to go'.",
+  "SINCE":"Late Middle English (late 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"an electrical circuit | a closed circuit",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "electronics"
+      ],
+      "DEF_EN":"A closed path through which an electric current flows.",
+      "DEF_ZH":"电流通过的闭合路径。",
+      "SENT_EN":"The technician found a break in the circuit, preventing power from flowing.",
+      "SENT_ZH":"技术员发现电路中有一处断裂，阻止了电流的流动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "network",
+            "system",
+            "pathway"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "electricity",
+            "current",
+            "voltage",
+            "resistor",
+            "capacitor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a circuit of [sth] | do a circuit",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A usually circular route or journey that starts and ends at the same place, or that visits a series of places.",
+      "DEF_ZH":"环绕某个地方或区域的常规路线或旅程，起点和终点相同，或访问一系列地点。",
+      "SENT_EN":"We made a quick circuit of the lake before heading home.",
+      "SENT_ZH":"我们绕湖快速转了一圈才回家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "route",
+            "round",
+            "loop",
+            "tour",
+            "lap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the racing circuit | the comedy circuit",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "specific context"
+      ],
+      "DEF_EN":"A series of sporting events, performances, or locations regularly visited by competitors or performers.",
+      "DEF_ZH":"一系列由参赛者或表演者定期访问的体育赛事、表演或地点。",
+      "SENT_EN":"She's a well-known comedian on the club circuit.",
+      "SENT_ZH":"她是俱乐部巡演中一位著名的喜剧演员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "league",
+            "tour",
+            "series",
+            "arena"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a logic circuit | an integrated circuit",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "computing",
+        "electronics"
+      ],
+      "DEF_EN":"A combination of electronic components designed to perform a specific logical operation, such as in a computer or other digital device.",
+      "DEF_ZH":"旨在执行特定逻辑操作的电子元件组合，例如在计算机或其他数字设备中。",
+      "SENT_EN":"Modern computers rely heavily on complex integrated circuits.",
+      "SENT_ZH":"现代计算机严重依赖复杂的集成电路。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chip",
+            "processor",
+            "microchip",
+            "logic gate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"circuit [sth]",
+      "POS":"verb",
+      "POS_TIP":"A word that describes an action, state, or occurrence.",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To go around something in a circuit; to encircle.",
+      "DEF_ZH":"环绕某物；围绕。",
+      "SENT_EN":"The road circuits the old town, offering scenic views.",
+      "SENT_ZH":"这条路环绕着老城，景色优美。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "encircle",
+            "surround",
+            "go around",
+            "circumnavigate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

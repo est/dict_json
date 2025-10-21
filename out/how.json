@@ -1,0 +1,106 @@
+{
+  "WORD":"how",
+  "IPA":"/haʊ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English hū, from Proto-Germanic *hwō, from Proto-Indo-European *kʷoh₂ (ablative singular of *kʷos 'who, what'). Cognate with German wie and Dutch hoe.",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"how [auxiliary verb] [subject] [verb]",
+      "POS":"interrogative adverb",
+      "POS_TIP":"An adverb used to ask a question about manner or method.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"In what way or by what method; in what state or condition.",
+      "DEF_ZH":"以何种方式；用什么方法；状况如何。",
+      "SENT_EN":"How do you usually get to work?",
+      "SENT_ZH":"你通常怎么上班？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"how [adjective/adverb]",
+      "POS":"interrogative adverb",
+      "POS_TIP":"An adverb used to ask a question about extent or degree.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To what extent or degree.",
+      "DEF_ZH":"到什么程度；多么；多少。",
+      "SENT_EN":"How much does that cost?",
+      "SENT_ZH":"那个多少钱？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[verb] how [subject] [verb]",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences, introducing a clause that explains the manner or way.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The way or manner in which.",
+      "DEF_ZH":"...的方式；...的方法。",
+      "SENT_EN":"He explained how the machine works.",
+      "SENT_ZH":"他解释了这台机器是如何运作的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "the way"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"How!",
+      "POS":"interjection",
+      "POS_TIP":"A word or phrase expressing a sudden burst of emotion.",
+      "TAGS":[
+        "common",
+        "informal",
+        "exclamatory"
+      ],
+      "DEF_EN":"Used to express surprise, agreement, admiration, or to ask for repetition.",
+      "DEF_ZH":"（表示惊讶、赞同、赞美或要求重复）啊！",
+      "SENT_EN":"How absolutely beautiful!",
+      "SENT_ZH":"多么美丽啊！",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wow",
+            "oh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the how of [sth] | a how-to [noun]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, referring to the method or manner.",
+      "TAGS":[
+        "common",
+        "informal",
+        "compound noun"
+      ],
+      "DEF_EN":"The method or manner of doing something; often used in the compound 'how-to'.",
+      "DEF_ZH":"做法；方法。（常用于'how-to'中）",
+      "SENT_EN":"We need to understand the how and why of this problem. | He bought a how-to guide for coding.",
+      "SENT_ZH":"我们需要理解这个问题的起因和方法。| 他买了一本编程指导手册。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "method",
+            "procedure",
+            "technique"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

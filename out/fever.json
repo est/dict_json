@@ -1,0 +1,86 @@
+{
+  "WORD":"fever",
+  "IPA":"/ˈfiːvər/",
+  "CONJUGATES":"fevers",
+  "ETYMOLOGY":"From Middle English *fever*, from Old French *fievre*, from Latin *febris* ('fever', 'agitation').",
+  "SINCE":"c. 13th Century (modern spelling/form); Old English *fēfor* (before 1000 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] has a fever | a high fever",
+      "POS":"n",
+      "POS_TIP":"noun (countable or uncountable)",
+      "TAGS":[
+        "Core Word",
+        "Medical"
+      ],
+      "DEF_EN":"An abnormally high body temperature, typically one above 98.6°F (37°C), often accompanied by shivering, headache, and weakness, as a symptom of illness.",
+      "DEF_ZH":"异常升高的体温，通常高于37°C（98.6°F），作为疾病的症状，常伴有寒颤、头痛和虚弱。",
+      "SENT_EN":"The doctor prescribed medication to help bring down the patient's fever.",
+      "SENT_ZH":"医生开药帮助降低病人的体温。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pyrexia",
+            "temperature",
+            "hyperthermia"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "febrile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fever of [activity/excitement] | gripped by fever",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "Figurative",
+        "Common"
+      ],
+      "DEF_EN":"A state of intense nervous excitement, intense public enthusiasm, or restless activity about a particular event or subject.",
+      "DEF_ZH":"极度紧张、兴奋、焦躁或不安活动的状态，尤指对特定事件或主题的强烈公众热情。",
+      "SENT_EN":"The city was swept up in Olympic fever as the games approached.",
+      "SENT_ZH":"随着奥运会的临近，这座城市被奥运狂热席卷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "craze",
+            "mania",
+            "frenzy",
+            "excitement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[disease] fever",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "Medical",
+        "Specific"
+      ],
+      "DEF_EN":"A specific disease characterized by high temperature.",
+      "DEF_ZH":"特指以高烧为特征的某种疾病。",
+      "SENT_EN":"Typhoid fever is still a major public health concern in some regions.",
+      "SENT_ZH":"在某些地区，伤寒仍然是一个主要的公共卫生问题。",
+      "RELATED":[
+        {
+          "T":"examples",
+          "V":[
+            "scarlet fever",
+            "hay fever",
+            "yellow fever"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

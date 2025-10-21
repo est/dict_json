@@ -1,0 +1,80 @@
+{
+  "WORD":"consumer",
+  "IPA":"/kənˈsuːmər/",
+  "CONJUGATES":"consumers",
+  "ETYMOLOGY":"Formed in Middle English by adding the agent suffix '-er' to the verb 'consume', which derives from Latin consumere (con- 'together' + sumere 'to take'), meaning 'to take entirely, use up'.",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] as consumer | the consumer",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "economics",
+        "commerce"
+      ],
+      "DEF_EN":"A person who purchases goods and services for personal use or household consumption; the final user of products.",
+      "DEF_ZH":"购买商品或服务以供个人或家庭使用的最终用户；消费者。",
+      "SENT_EN":"We are facing increased demand from environmentally conscious consumers.",
+      "SENT_ZH":"我们正面临环保意识日益增强的消费者的需求增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "customer",
+            "purchaser",
+            "buyer",
+            "client"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "producer",
+            "manufacturer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] as consumer | primary/secondary/tertiary consumer",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "science",
+        "ecology",
+        "biology"
+      ],
+      "DEF_EN":"In ecology, an organism that obtains energy by feeding on other organisms (e.g., herbivores are primary consumers).",
+      "DEF_ZH":"在生态学中，通过捕食其他生物体来获取能量的生物（如食草动物是初级消费者）。",
+      "SENT_EN":"Lions are considered tertiary consumers in the African savannah food chain.",
+      "SENT_ZH":"在非洲大草原的食物链中，狮子被认为是三级消费者。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "producer",
+            "decomposer",
+            "omnivore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consumer of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "general usage",
+        "less common"
+      ],
+      "DEF_EN":"A person or thing that uses up, wastes, or consumes a particular resource, energy, or item.",
+      "DEF_ZH":"消耗、耗尽或使用某种资源、能源或物品的人或事物。",
+      "SENT_EN":"He was a prodigious consumer of time, often staying up late reading novels.",
+      "SENT_ZH":"他是一个巨大的时间消耗者，经常熬夜阅读小说。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Business, Ecology"
+}

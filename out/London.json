@@ -1,0 +1,71 @@
+{
+  "WORD":"London",
+  "IPA":"/ˈlʌndən/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Latin Londinium, likely derived from a Celtic word, possibly related to a personal name Lōndonōs or meaning 'place of the wild one'. The ultimate origin is debated.",
+  "SINCE":"A.D. 43 (Roman founding)",
+  "MEANINGS":[
+    {
+      "PATTERN":"London",
+      "POS":"pn",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "core word",
+        "geographical",
+        "political"
+      ],
+      "DEF_EN":"The capital and largest city of England and the United Kingdom, located in the southeast of the country on the River Thames.",
+      "DEF_ZH":"英格兰和英国的首都及最大城市，位于该国东南部泰晤士河畔。",
+      "SENT_EN":"We plan to spend a week visiting the museums in London.",
+      "SENT_ZH":"我们计划花一周时间参观伦敦的博物馆。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"London (metonymy)",
+      "POS":"pn",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "figurative",
+        "metonymy",
+        "political",
+        "financial"
+      ],
+      "DEF_EN":"Used to refer to the central UK government or the financial centers of the City of London.",
+      "DEF_ZH":"（转喻）代指英国中央政府、金融界或伦敦市的权威机构。",
+      "SENT_EN":"The new policy was announced by London this morning.",
+      "SENT_ZH":"新政策已于今早由伦敦（中央政府）宣布。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Westminster",
+            "The City"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"London (attributive)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "specialized",
+        "commercial"
+      ],
+      "DEF_EN":"Pertaining to or designating a specific style of dry gin (London Dry Gin), known for being traditionally distilled and having no added sweetening.",
+      "DEF_ZH":"（作定语）指一种特殊风格的干金酒（伦敦干金酒），以传统蒸馏且不含额外甜味剂为特征。",
+      "SENT_EN":"He ordered a G&T made with a good London Dry.",
+      "SENT_ZH":"他点了一杯用上好的伦敦干金酒调制的金汤力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Gin",
+            "Martini"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common Usage, Geography, Politics"
+}

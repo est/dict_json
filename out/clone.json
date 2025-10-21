@@ -1,0 +1,104 @@
+{
+  "WORD":"clone",
+  "IPA":"/kloʊn/",
+  "CONJUGATES":"clones | cloning | cloned",
+  "ETYMOLOGY":"From Ancient Greek κλών (klṓn, 'twig, shoot'), referring to the process of asexual reproduction. Coined in 1903 by American botanist Herbert J. Webber as 'clon' and later 'clone'.",
+  "SINCE":"Early 20th century (1903)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] clone [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"An organism or cell produced asexually from one ancestor or stock, to which it is genetically identical.",
+      "DEF_ZH":"通过无性繁殖从一个祖先或种群产生，并与其在基因上完全相同的有机体或细胞。",
+      "SENT_EN":"The scientists created a clone of the sheep, Dolly.",
+      "SENT_ZH":"科学家们创造了绵羊多莉的克隆体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "copy",
+            "duplicate",
+            "replica"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Dolly the sheep",
+            "genetic copy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clone [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"To make a genetic copy of an organism or cell.",
+      "DEF_ZH":"通过无性繁殖技术制造出一个基因上完全相同的生物体或细胞。",
+      "SENT_EN":"Researchers are attempting to clone extinct animals.",
+      "SENT_ZH":"研究人员正试图克隆已灭绝的动物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reproduce",
+            "duplicate",
+            "replicate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "originate",
+            "differentiate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] clone [of sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"An exact copy or replica of someone or something, often used informally to describe a person or object that is very similar to another.",
+      "DEF_ZH":"某人或某物的精确复制品或非常相似的个体，常用于非正式语境，指与某人或某物极其相似的人或物。",
+      "SENT_EN":"Her new restaurant is a clone of the popular spot downtown.",
+      "SENT_ZH":"她的新餐厅是市中心那家热门餐厅的翻版。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "carbon copy",
+            "doppelgänger",
+            "mimic",
+            "look-alike"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "original",
+            "prototype"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Scientific"
+}

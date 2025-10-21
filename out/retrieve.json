@@ -1,0 +1,96 @@
+{
+  "WORD":"retrieve",
+  "IPA":"/rɪˈtriːv/",
+  "CONJUGATES":"retrieve | retrieves | retrieving | retrieved",
+  "ETYMOLOGY":"From Old French 'retrouver' (re- 'back, again' + trouver 'to find').",
+  "SINCE":"Late Middle Ages (circa 15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"retrieve [sth] (from [somewhere])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To get or bring something back from somewhere.",
+      "DEF_ZH":"取回；找回；收回",
+      "SENT_EN":"He went to retrieve his keys from the car.",
+      "SENT_ZH":"他去车里取回他的钥匙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recover",
+            "regain",
+            "reclaim",
+            "fetch",
+            "get back"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lose",
+            "forfeit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"retrieve [data/information] (from [storage/database])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "common",
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"To access and get data or information from a computer's memory or storage system.",
+      "DEF_ZH":"检索（信息）；提取（数据）",
+      "SENT_EN":"The system can quickly retrieve archived documents.",
+      "SENT_ZH":"该系统能够快速检索存档文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "access",
+            "extract",
+            "query",
+            "fetch"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "data retrieval",
+            "information retrieval"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"retrieve [game]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "specialized",
+        "hunting"
+      ],
+      "DEF_EN":"To find and bring back game that has been shot, especially by a dog.",
+      "DEF_ZH":"寻回（猎物，尤指狗）",
+      "SENT_EN":"The trained retriever can locate and retrieve fallen birds.",
+      "SENT_ZH":"经过训练的寻回犬能找到并寻回坠落的鸟类。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "retriever",
+            "hunting dog"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/neutral"
+}

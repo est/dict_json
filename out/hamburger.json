@@ -1,0 +1,63 @@
+{
+  "WORD":"hamburger",
+  "IPA":"/ˈhæmˌbɜːrɡər/",
+  "CONJUGATES":"hamburgers (pl.)",
+  "ETYMOLOGY":"From German *Hamburger*, meaning 'from Hamburg', originally referring to a ground beef steak popularized by immigrants from the city of Hamburg, Germany, to the United States.",
+  "SINCE":"c. 1880s (in the culinary sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] hamburger",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "culinary",
+        "common"
+      ],
+      "DEF_EN":"A sandwich consisting of a cooked patty of ground meat (usually beef), typically served inside a sliced bread roll or bun, often accompanied by condiments, lettuce, tomato, or cheese.",
+      "DEF_ZH":"一种三明治，由一块烤制或煎制的碎肉饼（通常是牛肉）夹在切开的面包卷或小圆面包中，并配有调味品、生菜、西红柿或奶酪。",
+      "SENT_EN":"I prefer to eat my hamburger with mustard and pickles.",
+      "SENT_ZH":"我更喜欢吃加芥末和腌菜的汉堡包。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "burger"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cheeseburger",
+            "sandwich",
+            "slider"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hamburger [meat]",
+      "POS":"noun",
+      "POS_TIP":"Noun (uncountable)",
+      "TAGS":[
+        "culinary",
+        "informal"
+      ],
+      "DEF_EN":"Ground beef used to make the patty for a hamburger sandwich.",
+      "DEF_ZH":"用于制作汉堡包肉饼的碎牛肉或肉馅。",
+      "SENT_EN":"We need to thaw the hamburger before we can start grilling.",
+      "SENT_ZH":"在开始烧烤之前，我们需要把汉堡肉解冻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ground beef",
+            "minced meat",
+            "patty"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Culinary"
+}

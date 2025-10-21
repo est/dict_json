@@ -1,0 +1,74 @@
+{
+  "WORD":"pendulum",
+  "IPA":"/ˈpɛndʒələm/",
+  "CONJUGATES":"pendulums (plural)",
+  "ETYMOLOGY":"From Neo-Latin pendulum (neuter of pendulus 'hanging'), coined by Galileo Galilei in the early 17th century. Ultimately related to Latin pendere 'to hang'.",
+  "SINCE":"c. 1630s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] pendulum [swing]",
+      "POS":"n.",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "Science",
+        "Core Word",
+        "Mechanism"
+      ],
+      "DEF_EN":"A weight suspended from a pivot so that it can swing freely, often used to regulate the movement of a clock or other mechanism.",
+      "DEF_ZH":"悬挂于固定点可以自由摆动的重物，尤指用于控制时钟或其他机械装置运行的部件。",
+      "SENT_EN":"The clock was stopped because the pendulum had ceased to swing.",
+      "SENT_ZH":"时钟停了，因为它的摆锤停止了摆动。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "bob",
+            "oscillator",
+            "metronome"
+          ]
+        },
+        {
+          "T":"concept",
+          "V":[
+            "period",
+            "gravity",
+            "simple harmonic motion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the pendulum [of opinion/policy]",
+      "POS":"n.",
+      "POS_TIP":"noun, countable, figurative",
+      "TAGS":[
+        "Metaphorical",
+        "Abstract",
+        "Common"
+      ],
+      "DEF_EN":"A movement or process that swings back and forth between two opposing extremes or conditions.",
+      "DEF_ZH":"指在两个相反的极端之间来回摆动的趋势、意见或局面；钟摆效应。",
+      "SENT_EN":"The political pendulum often swings between conservative and liberal policies.",
+      "SENT_ZH":"政治的钟摆通常在保守派和自由派政策之间摇摆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swing",
+            "oscillation",
+            "fluctuation",
+            "cycle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ebb and flow",
+            "seesaw"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical in physics context."
+}

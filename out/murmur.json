@@ -1,0 +1,122 @@
+{
+  "WORD":"murmur",
+  "IPA":"/ˈmɜːrmər/",
+  "CONJUGATES":"murmurs | murmuring | murmured",
+  "ETYMOLOGY":"From Latin murmurāre (to murmur, roar, grumble), of imitative origin. Passed through Old French murmure (noun) and murmurer (verb) into Middle English.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"murmur (to [sb])",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To speak in a low, soft, or indistinct voice, often privately.",
+      "DEF_ZH":"低声说; 私语。",
+      "SENT_EN":"She leaned close and murmured sweet nothings in his ear.",
+      "SENT_ZH":"她靠近他，在他耳边低声说了些情话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whisper",
+            "mutter",
+            "mumble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"murmur (about [sth])",
+      "POS":"vintr/vtr",
+      "POS_TIP":"intransitive verb or transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To complain in a low, indistinct tone; to grumble softly.",
+      "DEF_ZH":"低声抱怨；嘀咕；私下表示不满。",
+      "SENT_EN":"The staff began to murmur about the unfair distribution of bonuses.",
+      "SENT_ZH":"员工们开始私下抱怨奖金分配不公。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grumble",
+            "complain",
+            "protest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"murmur",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "literary"
+      ],
+      "DEF_EN":"To make a low, continuous, and indistinct sound, typically non-human (like wind or water).",
+      "DEF_ZH":"发出持续的低沉声响（如流水、风声或树叶摩擦声）。",
+      "SENT_EN":"The stream murmured softly as it flowed over the smooth pebbles.",
+      "SENT_ZH":"溪流流过光滑的鹅卵石时，发出了柔和的潺潺声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "purl",
+            "rustle",
+            "drone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a murmur (of [sth])",
+      "POS":"ncount/nunc",
+      "POS_TIP":"countable noun or uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A low, continuous, and indistinct sound, especially of people talking quietly or a natural sound.",
+      "DEF_ZH":"低语声；沙沙声；持续的低沉声响。",
+      "SENT_EN":"A murmur of excitement swept through the hall before the announcement.",
+      "SENT_ZH":"在宣布之前，大厅里响起一阵激动的低语声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whisper",
+            "hum",
+            "drone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a heart murmur",
+      "POS":"ncount",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "specialized",
+        "medical"
+      ],
+      "DEF_EN":"An abnormal periodic sound heard in the auscultation of the heart or blood vessels, often indicating a valve problem.",
+      "DEF_ZH":"杂音（特指听诊心脏或血管时听到的异常声音，通常指心脏瓣膜问题）。",
+      "SENT_EN":"The pediatrician identified a benign heart murmur in the infant.",
+      "SENT_ZH":"儿科医生在这名婴儿身上发现了一个良性的心脏杂音。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "auscultation",
+            "arrhythmia"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Literary"
+}

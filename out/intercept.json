@@ -1,0 +1,121 @@
+{
+  "WORD":"intercept",
+  "IPA":"/ˌɪntərˈsɛpt/",
+  "CONJUGATES":"intercepts | intercepted | intercepting",
+  "ETYMOLOGY":"From Latin intercipere, from inter- 'between, among' + capere 'to take'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"intercept [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To stop or interrupt the progress of something or someone before they reach their intended destination.",
+      "DEF_ZH":"拦截；截住；截停；阻止…抵达",
+      "SENT_EN":"The police managed to intercept the drug shipment at the border.",
+      "SENT_ZH":"警方设法在边境截获了这批毒品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "block",
+            "stop",
+            "cut off",
+            "waylay"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interception",
+            "interceptor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intercept [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "common",
+        "sports"
+      ],
+      "DEF_EN":"(In sports) to gain possession of an opponent's pass or shot.",
+      "DEF_ZH":"（体育运动中）截球；断球；抢断（对手的传球或射门）",
+      "SENT_EN":"The defender intercepted the pass and ran for a touchdown.",
+      "SENT_ZH":"防守队员截断了传球，并跑了个达阵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut off",
+            "pick off"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interception"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intercept [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "geometry"
+      ],
+      "DEF_EN":"(In geometry) to mark or cut off a segment on a line, curve, or axis.",
+      "DEF_ZH":"（几何）截（线、弧等）；截取（坐标轴上的线段）",
+      "SENT_EN":"The line intercepts the x-axis at (3,0).",
+      "SENT_ZH":"这条线在(3,0)处截取X轴。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "x-intercept",
+            "y-intercept"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an intercept",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, state, or quality",
+      "TAGS":[
+        "common",
+        "sports",
+        "military"
+      ],
+      "DEF_EN":"An act or instance of intercepting, especially in sports or by military aircraft.",
+      "DEF_ZH":"拦截；截击（尤指体育运动中或军用飞机）",
+      "SENT_EN":"The quarterback threw a poor pass, resulting in an intercept by the opposing team.",
+      "SENT_ZH":"四分卫传球失误，导致被对方球队截获。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interception",
+            "takeaway"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interceptor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Sports, Technical"
+}

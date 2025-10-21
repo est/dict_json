@@ -1,0 +1,37 @@
+{
+  "WORD":"ammeter",
+  "IPA":"/ˈæmˌmiːtər/",
+  "CONJUGATES":"ammeters (plural)",
+  "ETYMOLOGY":"Coined from 'ampere' (named after French physicist André-Marie Ampère) + '-meter' (from Ancient Greek 'μέτρον' (métron), meaning 'measure').",
+  "SINCE":"~1880s",
+  "MEANINGS":[
+    {
+      "PATTERN":"ammeter",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "technical",
+        "science",
+        "measurement"
+      ],
+      "DEF_EN":"An instrument for measuring electric current in amperes.",
+      "DEF_ZH":"测量电流（单位为安培）的仪器。",
+      "SENT_EN":"The electrician used an ammeter to check the current flowing through the circuit.",
+      "SENT_ZH":"电工使用安培计来检查电路中的电流。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "voltmeter",
+            "ohmmeter",
+            "multimeter",
+            "ampere",
+            "current"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"technical, scientific, electrical engineering"
+}

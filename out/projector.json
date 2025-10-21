@@ -1,0 +1,65 @@
+{
+  "WORD":"projector",
+  "IPA":"/prəˈdʒektər/",
+  "CONJUGATES":"projectors",
+  "ETYMOLOGY":"From Latin proicere ('to throw forward'), via 'project' (verb) + the agent suffix '-or', meaning 'one that projects' or 'a device that projects'.",
+  "SINCE":"c. 1650s (meaning 'one who plans'); 1890s (meaning 'optical device')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technology",
+        "optics"
+      ],
+      "DEF_EN":"A device used to cast an image (still or moving) or video onto a screen or other surface.",
+      "DEF_ZH":"用于将图像（静止或活动）或视频投射到屏幕或其他表面上的设备，即投影仪。",
+      "SENT_EN":"We need to dim the lights so the image from the projector is clearer.",
+      "SENT_ZH":"我们需要调暗灯光，这样投影仪投射的图像会更清晰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beamer",
+            "projecting device"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "screen",
+            "overhead projector",
+            "slide projector"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "historical",
+        "agent noun"
+      ],
+      "DEF_EN":"A person who devises or proposes a scheme, especially one that is overly ambitious or speculative.",
+      "DEF_ZH":"计划或方案的设计者或提案人，尤指那些过于雄心勃勃或具有投机性质的计划。",
+      "SENT_EN":"He was the chief projector of the ill-fated railway scheme.",
+      "SENT_ZH":"他是那个命运多舛的铁路计划的主要策划者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "planner",
+            "schemer",
+            "proposer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technology"
+}

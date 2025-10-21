@@ -1,0 +1,86 @@
+{
+  "WORD":"weather",
+  "IPA":"/ˈwɛðər/",
+  "CONJUGATES":"weathers | weathered | weathering",
+  "ETYMOLOGY":"From Old English 'weder' (meaning 'air, sky, breeze, storm'), from Proto-Germanic *wedrą, related to Old Norse 'veðr' and Old High German 'wetar'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"weather",
+      "POS":"noun",
+      "POS_TIP":"Noun (uncountable): A word that represents a person, place, thing, or idea, which does not have a plural form or is not typically counted.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state of the atmosphere at a particular place and time, regarding temperature, wind, rain, etc.",
+      "DEF_ZH":"特定地点和时间的大气状况，包括温度、风、雨等。",
+      "SENT_EN":"The weather is expected to be sunny and warm all week.",
+      "SENT_ZH":"预计本周天气将持续晴朗温暖。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "climate",
+            "meteorology",
+            "forecast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weather [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: A verb that takes one or more objects.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To come safely through a storm, difficulty, or danger; to survive or endure something.",
+      "DEF_ZH":"成功地度过（暴风雨、困难或危险）；熬过，经受住。",
+      "SENT_EN":"The company managed to weather the economic downturn.",
+      "SENT_ZH":"公司设法度过了经济低迷时期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "endure",
+            "survive",
+            "withstand"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "succumb",
+            "yield"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"weather [sth/itself]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"Transitive/intransitive verb: A verb that can take an object (transitive) or not (intransitive).",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"To change in color, texture, or form as a result of exposure to the elements (wind, rain, sun, etc.); to be exposed to and affected by the weather.",
+      "DEF_ZH":"因暴露于风、雨、阳光等自然元素而改变颜色、质地或形状；受风化作用而改变。",
+      "SENT_EN":"The old wooden cabin had weathered to a beautiful silvery grey.",
+      "SENT_ZH":"那座旧木屋被风吹雨打，变成了美丽的银灰色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "erode",
+            "corrode",
+            "age"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

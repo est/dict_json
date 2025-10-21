@@ -1,0 +1,89 @@
+{
+  "WORD":"configuration",
+  "IPA":"/kənˌfɪɡəˈreɪʃən/",
+  "CONJUGATES":"configurations",
+  "ETYMOLOGY":"From Medieval Latin cōnfīgūrātiōnem (nominative cōnfīgūrātiō), from cōnfīgūrāre ('to fashion, mold').",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"configuration (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "structure",
+        "general"
+      ],
+      "DEF_EN":"An arrangement of elements, parts, or masses in a particular form, shape, or layout.",
+      "DEF_ZH":"结构；布局；排列方式。指组成部分以特定的形式、形状或排列进行组合。",
+      "SENT_EN":"The unique configuration of the stadium seats allowed for excellent views from every angle.",
+      "SENT_ZH":"体育场座位独特的布局使得从每个角度都能获得极佳的视野。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrangement",
+            "structure",
+            "layout",
+            "form"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] check/adjust the configuration",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "specialized"
+      ],
+      "DEF_EN":"The specific setup of hardware, software, or network components and their parameters that define how a system operates.",
+      "DEF_ZH":"配置；系统设置（尤指计算机、网络或软件的特定参数和组件设置）。",
+      "SENT_EN":"After installing the new operating system, we had to adjust the network configuration.",
+      "SENT_ZH":"安装新的操作系统后，我们必须调整网络配置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "setup",
+            "settings",
+            "parameters"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "firmware",
+            "BIOS"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"configuration",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "science",
+        "chemistry",
+        "astronomy"
+      ],
+      "DEF_EN":"The spatial arrangement of atoms within a molecule (stereochemistry) or the relative positions of celestial bodies.",
+      "DEF_ZH":"构型；空间排列（特指化学分子中原子的空间排布，或天体相对位置）。",
+      "SENT_EN":"The cis and trans configurations of the molecule result in different chemical properties.",
+      "SENT_ZH":"该分子的顺式和反式构型导致了不同的化学性质。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "conformation",
+            "isomer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Technical"
+}

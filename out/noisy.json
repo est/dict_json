@@ -1,0 +1,57 @@
+{
+  "WORD":"noisy",
+  "IPA":"/ˈnɔɪzi/",
+  "CONJUGATES":"noisier | noisiest | noisily | noisiness",
+  "ETYMOLOGY":"From Middle English noysy; equivalent to noise + -y. Old French noise ('quarrel, noise') is the root of the noun 'noise'.",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"noisy [person/thing/place]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"Making a lot of loud or unpleasant sounds.",
+      "DEF_ZH":"制造大量响亮或不悦耳的声音的；吵闹的；喧嚣的。",
+      "SENT_EN":"The children were too noisy to concentrate on my work.",
+      "SENT_ZH":"孩子们太吵了，我无法集中精力工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loud",
+            "boisterous",
+            "clamorous",
+            "uproarious"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "quiet",
+            "silent",
+            "peaceful",
+            "tranquil"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a noisy [signal/data]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Technical",
+        "Science"
+      ],
+      "DEF_EN":"Containing unwanted signals or data that obscure the desired information.",
+      "DEF_ZH":"（信号或数据）含有多余干扰的；充满噪声的。",
+      "SENT_EN":"We need better equipment to filter out the noisy background static from the radio transmission.",
+      "SENT_ZH":"我们需要更好的设备来滤除无线电传输中嘈杂的背景静电。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,65 @@
+{
+  "WORD":"velocity",
+  "IPA":"/vəˈlɑːsəti/",
+  "CONJUGATES":"velocities (plural)",
+  "ETYMOLOGY":"From Middle French *vélocité*, and directly from Latin *velocitas* ('swiftness, speed'), derived from *velox* ('swift, quick').",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"velocity [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "science",
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"The rate of change of the position of an object, specified by both speed and direction; a vector quantity.",
+      "DEF_ZH":"速度（物理学）；物体位置变化率，由速率和方向指定；矢量。",
+      "SENT_EN":"The initial velocity of the projectile was measured at 500 meters per second.",
+      "SENT_ZH":"该抛射物的初始速度被测定为每秒500米。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "speed",
+            "acceleration",
+            "momentum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"velocity [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"Rapidity of movement or action; swiftness or quickness.",
+      "DEF_ZH":"迅速；快速的运动或行动。",
+      "SENT_EN":"The velocity of the political changes surprised many analysts.",
+      "SENT_ZH":"政治变革的速度令许多分析师感到惊讶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rapidity",
+            "swiftness",
+            "pace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "slowness",
+            "sluggishness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Scientific"
+}

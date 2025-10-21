@@ -1,0 +1,88 @@
+{
+  "WORD":"shrine",
+  "IPA":"/ʃraɪn/",
+  "CONJUGATES":"shrines | shrining | shrined",
+  "ETYMOLOGY":"From Old English scrīn (case, chest, box, ark), from Latin scrīnium (case, box for papers or books). The meaning shifted in Middle English to refer specifically to a container or place holding relics.",
+  "SINCE":"pre-1000 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] shrine (to [sb/sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "religious",
+        "architecture"
+      ],
+      "DEF_EN":"A sacred place or building dedicated to a deity, saint, or ancestor, often containing relics or an image.",
+      "DEF_ZH":"供奉神灵、祖先或圣物的神圣场所或建筑物；神殿；圣地。",
+      "SENT_EN":"The villagers maintain a beautiful shrine dedicated to the harvest goddess.",
+      "SENT_ZH":"村民们维护着一座献给丰收女神的美丽神殿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "temple",
+            "sanctuary",
+            "holy place",
+            "altar"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reliquary",
+            "mausoleum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] shrine (to [sb/sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A place or object regarded as holy or important because of its connection with a particular person, event, or memory.",
+      "DEF_ZH":"因与某人、某事或某段记忆相关联而被视为神圣或重要的地方；纪念地；朝圣地。",
+      "SENT_EN":"His childhood home became a shrine for his dedicated followers.",
+      "SENT_ZH":"他的童年故居成了他忠实追随者的朝圣地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "memorial",
+            "monument",
+            "mecca"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shrine [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To place something, especially a relic, in a shrine; to hallow or treat as sacred.",
+      "DEF_ZH":"将（圣物）供奉在神殿中；将...视为神圣。",
+      "SENT_EN":"The church decided to shrine the remains of the local martyr.",
+      "SENT_ZH":"教会决定将这位本地烈士的遗骸供奉起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consecrate",
+            "hallow",
+            "dedicate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Religious"
+}

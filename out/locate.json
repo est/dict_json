@@ -1,0 +1,91 @@
+{
+  "WORD":"locate",
+  "IPA":"/loʊˈkeɪt/",
+  "CONJUGATES":"locating | located | locates",
+  "ETYMOLOGY":"From Latin locatus, past participle of locare ('to place'), derived from locus ('place, spot'). The modern meaning 'to find the position of' developed in the 19th century.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"locate [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "spatial"
+      ],
+      "DEF_EN":"To discover the exact place or position of someone or something, often using technology or systematic search.",
+      "DEF_ZH":"确定某人或某物的精确位置；定位；查出。",
+      "SENT_EN":"The rescue team managed to locate the lost plane wreckage after several days of searching.",
+      "SENT_ZH":"搜救队经过数日搜寻，终于找到了失踪的飞机残骸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "find",
+            "pinpoint",
+            "track down",
+            "discover"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lose",
+            "misplace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"locate [sth/sb] in/at [place] | [sth] be located in/at [place]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common",
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"To set up, establish, or situate a business, office, or residence in a specific place.",
+      "DEF_ZH":"将（某物或某人）设置、安置或建立在一个特定的地点；使（某物）处于某位置。",
+      "SENT_EN":"The pharmaceutical firm chose to locate its new research facility near the university.",
+      "SENT_ZH":"这家制药公司选择将其新的研究设施设在大学附近。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "situate",
+            "establish",
+            "position",
+            "place"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"locate [land]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "historical",
+        "specialized"
+      ],
+      "DEF_EN":"(Especially US, historical or legal) To define the site, boundaries, or claim of a specific piece of land.",
+      "DEF_ZH":"（尤其指美国，历史或法律）确定（土地）的地点、边界或所有权。",
+      "SENT_EN":"The original settlers had to locate their claim before building began.",
+      "SENT_ZH":"最初的定居者必须在开始建设之前确定他们的土地所有权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "survey",
+            "demarcate",
+            "map out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; formal contexts when discussing business siting."
+}

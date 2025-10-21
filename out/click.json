@@ -1,0 +1,129 @@
+{
+  "WORD":"click",
+  "IPA":"/klɪk/",
+  "CONJUGATES":"clicks | clicked | clicking",
+  "ETYMOLOGY":"Probably imitative, representing the sound itself; first attested in the 16th century, though its modern widespread use especially regarding computers is much more recent.",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] clicks",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a short, sharp sound, often metallic or mechanical.",
+      "DEF_ZH":"发出短促、尖锐的声音，通常是金属或机械碰撞声。",
+      "SENT_EN":"The door clicked shut behind her.",
+      "SENT_ZH":"门在她身后咔哒一声关上了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snap",
+            "clack",
+            "tick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] clicks [sth]",
+      "POS":"vt | vi + prep",
+      "POS_TIP":"transitive verb: a verb that takes a direct object | intransitive verb + preposition",
+      "TAGS":[
+        "core word",
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"To press a button on a computer mouse or similar device, often to select an item or activate a function.",
+      "DEF_ZH":"按下电脑鼠标或类似设备上的按钮，通常用于选择项目或激活功能。",
+      "SENT_EN":"Click the 'Submit' button to send your form.",
+      "SENT_ZH":"点击“提交”按钮发送您的表格。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "mouse",
+            "interface",
+            "tap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] clicks | [sth] clicks into place | [sb] clicks with [sb]",
+      "POS":"vi | vi + prep",
+      "POS_TIP":"intransitive verb | intransitive verb + preposition",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To suddenly become clear, understood, or properly connected; to feel a sudden sense of understanding or compatibility.",
+      "DEF_ZH":"突然变得清晰、被理解或正确地连接起来；突然领悟或产生共鸣。",
+      "SENT_EN":"It took a while for the plan to click, but then everyone understood.",
+      "SENT_ZH":"这个计划花了一段时间才被理解，但后来所有人都明白了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dawn",
+            "realize",
+            "grasp",
+            "resonate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a click | get clicks",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "informal",
+        "internet"
+      ],
+      "DEF_EN":"An instance of pressing a mouse button; also, a visit or engagement with online content (e.g., a page view or interaction).",
+      "DEF_ZH":"按下鼠标按钮的动作；也指对在线内容的访问或互动（例如页面浏览或互动）。",
+      "SENT_EN":"This ad campaign is getting a lot of clicks.",
+      "SENT_ZH":"这个广告活动获得了大量点击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hit",
+            "view",
+            "impression"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a click | many clicks",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "rare",
+        "informal",
+        "slang",
+        "military"
+      ],
+      "DEF_EN":"(Informal, military slang) A kilometer.",
+      "DEF_ZH":"（非正式，军事俚语）一公里。",
+      "SENT_EN":"We need to cover another five clicks before sunset.",
+      "SENT_ZH":"日落前我们还需要走五公里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kilometer",
+            "klick"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific meanings having informal or specialized usage."
+}

@@ -1,0 +1,126 @@
+{
+  "WORD":"reverse",
+  "IPA":"/rɪˈvɜːrs/",
+  "CONJUGATES":"reverses | reversed | reversing",
+  "ETYMOLOGY":"From Old French reverser, derived from Latin reversus, past participle of revertere ('to turn back'), from re- ('back') + vertere ('to turn').",
+  "SINCE":"Mid 14th Century (Verb/Adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"reverse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: takes a direct object",
+      "TAGS":[
+        "Core",
+        "Common"
+      ],
+      "DEF_EN":"To change something, such as a decision or policy, to its opposite, or to the contrary of what it was.",
+      "DEF_ZH":"颠倒；使反向；撤销（决定、政策等）",
+      "SENT_EN":"The court decided to reverse the previous ruling based on new evidence.",
+      "SENT_ZH":"法院决定根据新证据推翻先前的裁决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revoke",
+            "overturn",
+            "undo",
+            "annul"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "confirm",
+            "uphold",
+            "endorse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reverse [vi] | reverse [sth] [vtr]",
+      "POS":"vi + vtr",
+      "POS_TIP":"Intransitive or transitive verb",
+      "TAGS":[
+        "Core",
+        "Automotive"
+      ],
+      "DEF_EN":"To move backward, especially to drive a vehicle in the opposite direction.",
+      "DEF_ZH":"倒车；（使）反转运动",
+      "SENT_EN":"He carefully reversed the car into the tight parking space.",
+      "SENT_ZH":"他小心翼翼地把车倒进了狭窄的停车位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "back up",
+            "retreat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the reverse (of [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core",
+        "Common"
+      ],
+      "DEF_EN":"The opposite or contrary of a fact, statement, or condition; the back side of something, especially a coin or medal.",
+      "DEF_ZH":"相反的情况；反面；背面",
+      "SENT_EN":"Everything she said was the reverse of the truth.",
+      "SENT_ZH":"她所说的一切都与事实完全相反。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contrary",
+            "opposite",
+            "inverse",
+            "back"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "obverse",
+            "front",
+            "same"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reverse [adj] trend/action/gear",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun",
+      "TAGS":[
+        "Core",
+        "Descriptive"
+      ],
+      "DEF_EN":"Going in or arranged in the opposite direction or order; functioning in the opposite way.",
+      "DEF_ZH":"反向的；逆向的；倒退的",
+      "SENT_EN":"The new manager instituted a reverse hierarchy in the department.",
+      "SENT_ZH":"新经理在部门内建立了一种反向的层级结构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "backward",
+            "inverted",
+            "opposite"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forward",
+            "direct"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in general conversation, legal, and technical contexts."
+}

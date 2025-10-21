@@ -1,0 +1,94 @@
+{
+  "WORD":"eliminate",
+  "IPA":"/ɪˈlɪmɪneɪt/",
+  "CONJUGATES":"eliminates | eliminating | eliminated",
+  "ETYMOLOGY":"From Latin eliminatus, past participle of eliminare 'expel from the threshold', from e- (variant of ex-) 'out' + limen, limin- 'threshold'.",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"eliminate [sth] | eliminate [sb]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" means transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To completely remove, get rid of, or do away with something or someone.",
+      "DEF_ZH":"彻底清除；消除；淘汰。",
+      "SENT_EN":"The company aims to eliminate waste from its production process.",
+      "SENT_ZH":"该公司旨在消除生产过程中的浪费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remove",
+            "eradicate",
+            "get rid of",
+            "abolish",
+            "do away with",
+            "exclude"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "include",
+            "add",
+            "introduce",
+            "retain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"eliminate [sb]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" means transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "euphemistic",
+        "less common"
+      ],
+      "DEF_EN":"To kill a person or animal, often in a violent or clandestine manner.",
+      "DEF_ZH":"杀死；干掉（委婉说法）。",
+      "SENT_EN":"The spy was ordered to eliminate the target.",
+      "SENT_ZH":"间谍接到命令要干掉目标。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kill",
+            "assassinate",
+            "execute",
+            "neutralize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"eliminate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" means transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "medical",
+        "biological",
+        "specialized"
+      ],
+      "DEF_EN":"To expel (waste products) from the body.",
+      "DEF_ZH":"排泄；排出（体内废物）。",
+      "SENT_EN":"The kidneys eliminate waste products from the blood.",
+      "SENT_ZH":"肾脏从血液中排出废物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excrete",
+            "secrete",
+            "expel",
+            "void"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral in most contexts, can be euphemistic in others."
+}

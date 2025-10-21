@@ -1,0 +1,76 @@
+{
+  "WORD":"theoretical",
+  "IPA":"/ˌθiːəˈrɛtɪkəl/",
+  "CONJUGATES":"theoretical | more theoretical | most theoretical",
+  "ETYMOLOGY":"From Late Latin theoreticus, from Ancient Greek theōrētikos (θεωρητικός 'pertaining to contemplation'), from theōreō (θεωρέω 'I look at, view, consider').",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"theoretical [knowledge/framework/approach]",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"Concerned with or based on theory rather than practical application.",
+      "DEF_ZH":"关于理论的，基于理论的；纯理论的。",
+      "SENT_EN":"Her research focused on the theoretical aspects of quantum physics, not its practical applications.",
+      "SENT_ZH":"她的研究侧重于量子物理学的理论方面，而非其实际应用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abstract",
+            "conceptual",
+            "academic",
+            "speculative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "practical",
+            "applied",
+            "empirical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"theoretical [possibility/scenario]",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that modifies a noun or pronoun.",
+      "TAGS":[
+        "common",
+        "general"
+      ],
+      "DEF_EN":"Existing only in theory; not yet proven or tested in practice.",
+      "DEF_ZH":"假想的，理论上存在的；未经验证的。",
+      "SENT_EN":"In theory, it's a perfect plan, but we need to consider the theoretical possibility of failure.",
+      "SENT_ZH":"理论上这是一个完美的计划，但我们需要考虑理论上失败的可能性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hypothetical",
+            "speculative",
+            "unproven",
+            "conjectural"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "actual",
+            "real",
+            "proven",
+            "verified"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, formal, general"
+}

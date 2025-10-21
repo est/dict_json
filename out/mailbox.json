@@ -1,0 +1,54 @@
+{
+  "WORD":"mailbox",
+  "IPA":"/ˈmeɪlbɒks/",
+  "CONJUGATES":"mailboxes (plural)",
+  "ETYMOLOGY":"From 'mail' (meaning letters/parcels) + 'box'. 'Mail' ultimately from Old French 'male' (bag, wallet, trunk), and 'box' from Old English 'box' (a small container).",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a mailbox",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A public or private box into which letters and packages are placed to be collected for delivery or to be delivered.",
+      "DEF_ZH":"用于投寄信件和包裹，以便收集或投递的公共或私人箱子。",
+      "SENT_EN":"Please drop the letters in the mailbox on the corner.",
+      "SENT_ZH":"请把信件投到街角的邮筒里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "postbox",
+            "letterbox"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"your mailbox",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"An electronic folder on a computer system or network where incoming email messages are stored.",
+      "DEF_ZH":"计算机系统或网络上存储接收到的电子邮件的电子文件夹。",
+      "SENT_EN":"I check my email mailbox several times a day.",
+      "SENT_ZH":"我每天查看我的电子邮件收件箱好几次。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inbox",
+            "email account"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

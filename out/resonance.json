@@ -1,0 +1,89 @@
+{
+  "WORD":"resonance",
+  "IPA":"/ˈrɛzənəns/",
+  "CONJUGATES":"resonances (plural)",
+  "ETYMOLOGY":"From Latin resonantia (echo, resounding), from resonare (to resound, re-echo), from re- ('back, again') + sonare ('to sound').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"resonance [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"The phenomenon of a system or object being driven to oscillate with greater amplitude at a specific frequency (its natural frequency) than at others.",
+      "DEF_ZH":"共振；（物体在特定频率下产生的）振幅增大现象；（声音的）回响或洪亮。",
+      "SENT_EN":"The structural failure was caused by the matching of the vibration frequency with the building's natural resonance.",
+      "SENT_ZH":"结构性破坏是由振动频率与建筑物的自然共振频率匹配所引起的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vibration",
+            "oscillation",
+            "reverberation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "frequency",
+            "acoustics",
+            "echo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"resonance [with sb/sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"The power to evoke lasting images, memories, or emotions in a listener or reader; the quality of striking a chord or having deep significance.",
+      "DEF_ZH":"共鸣；深刻的意义或影响力；引起同情或联想的能力。",
+      "SENT_EN":"The story of the lost city had a deep emotional resonance for the archaeologist.",
+      "SENT_ZH":"这座失落之城的故事对这位考古学家来说有着深刻的情感共鸣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rapport",
+            "affinity",
+            "sympathy",
+            "significance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chemical resonance",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specialized",
+        "chemistry"
+      ],
+      "DEF_EN":"A description of the electron configuration of a molecule where the bonding cannot be accurately represented by a single structure but is rather a hybrid of two or more contributing structures.",
+      "DEF_ZH":"（化学）共振结构；共振论。",
+      "SENT_EN":"The stability of the carbonate ion is explained by its chemical resonance.",
+      "SENT_ZH":"碳酸根离子的稳定性可以通过其化学共振来解释。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "delocalization",
+            "hybridization",
+            "structure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Technical"
+}

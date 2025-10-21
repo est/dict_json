@@ -1,0 +1,66 @@
+{
+  "WORD":"indicative",
+  "IPA":"/ɪnˈdɪkətɪv/",
+  "CONJUGATES":"indicative | more indicative | most indicative",
+  "ETYMOLOGY":"From Late Latin 'indicativus', from 'indicare' ('to point out, indicate'), from 'in-' ('into') + 'dicere' ('to say, tell').",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is indicative of [sth]",
+      "POS":"adjective",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Serving as a sign or symptom of something; suggesting or pointing to the existence, presence, or truth of something.",
+      "DEF_ZH":"作为某事的标志或症状；暗示或指出某事物的存在、出现或真实性。",
+      "SENT_EN":"The recent drop in sales is indicative of a wider economic problem.",
+      "SENT_ZH":"最近销售额的下降预示着更广泛的经济问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggestive",
+            "symptomatic",
+            "demonstrative",
+            "revealing",
+            "telling"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unrevealing",
+            "misleading"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the indicative",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that refers to a person, place, thing, idea, or quality.",
+      "TAGS":[
+        "technical",
+        "grammar"
+      ],
+      "DEF_EN":"(Grammar) The mood of a verb used for factual statements or questions, as opposed to commands or wishes.",
+      "DEF_ZH":"（语法）动词的一种语气，用于陈述事实或提问，与命令或愿望相对。",
+      "SENT_EN":"Most verbs in English are used in the indicative mood.",
+      "SENT_ZH":"英语中大多数动词都采用陈述语气。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "subjunctive",
+            "imperative",
+            "conditional"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal for adjective usage, technical/linguistic for noun usage."
+}

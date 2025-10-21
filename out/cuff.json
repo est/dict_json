@@ -1,0 +1,101 @@
+{
+  "WORD":"cuff",
+  "IPA":"/kʌf/",
+  "CONJUGATES":"cuffs | cuffing | cuffed",
+  "ETYMOLOGY":"Probably from Middle English *cuffe (variant of *coffe, 'glove'), related to Middle Dutch kuffe ('mitten'). The verb meaning 'to strike' is from the noun.",
+  "SINCE":"Late 14th century (noun), mid-16th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"cuff",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "clothing"
+      ],
+      "DEF_EN":"The end part of a sleeve or trouser leg, often folded or strengthened.",
+      "DEF_ZH":"袖口；裤腿边",
+      "SENT_EN":"He rolled up his shirt cuffs before starting work.",
+      "SENT_ZH":"他开始工作前卷起了衬衫的袖口。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sleeve",
+            "hem",
+            "collar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cuffs",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "plural noun",
+        "informal"
+      ],
+      "DEF_EN":"A pair of handcuffs, used to restrain someone's wrists.",
+      "DEF_ZH":"手铐 (通常用作复数)",
+      "SENT_EN":"The police officer placed the suspect in cuffs.",
+      "SENT_ZH":"警官给嫌疑犯戴上了手铐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handcuffs",
+            "shackles"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cuff [sb/sth]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To strike someone or something with an open hand, especially on the head or ear.",
+      "DEF_ZH":"用手掌轻拍；掴",
+      "SENT_EN":"She playfully cuffed her brother on the arm.",
+      "SENT_ZH":"她开玩笑地拍了一下她弟弟的手臂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slap",
+            "smack",
+            "box"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cuff",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "less common",
+        "action"
+      ],
+      "DEF_EN":"A blow given with an open hand.",
+      "DEF_ZH":"一巴掌；一掴",
+      "SENT_EN":"He received a gentle cuff on the ear from his father.",
+      "SENT_ZH":"他爸爸轻轻地给了他耳朵一巴掌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "slap",
+            "smack"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

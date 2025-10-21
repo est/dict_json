@@ -1,0 +1,167 @@
+{
+  "WORD":"bracket",
+  "IPA":"/ˈbrækɪt/",
+  "CONJUGATES":"brackets | bracketed | bracketing",
+  "ETYMOLOGY":"From Old French 'braguette' (codpiece), diminutive of 'brague' (breeches). The sense developed from a projecting support resembling a codpiece to other meanings like punctuation marks and categories.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a bracket",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A projecting support for a shelf, lamp, or other structure, typically made of metal, wood, or stone.",
+      "DEF_ZH":"一种突出物，用于支撑搁板、灯具或其他结构，通常由金属、木材或石头制成。",
+      "SENT_EN":"He fixed the shelf to the wall with a sturdy wooden bracket.",
+      "SENT_ZH":"他用一个坚固的木支架把架子固定在墙上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "support",
+            "mount",
+            "prop"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shelf",
+            "corbel",
+            "cantilever"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bracket",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics",
+        "computing"
+      ],
+      "DEF_EN":"Either of a pair of marks used to enclose words or figures so as to separate them from the context, especially parentheses ( ), square brackets [ ], or curly brackets { }.",
+      "DEF_ZH":"用于将词语或数字与上下文分开的一对符号中的任何一个，特指圆括号 ( )、方括号 [ ] 或花括号 { }。",
+      "SENT_EN":"Please put the optional information in square brackets.",
+      "SENT_ZH":"请将可选信息放在方括号内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "parenthesis",
+            "parentheses",
+            "brace",
+            "braces"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "punctuation",
+            "symbol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bracket (of/for sth)",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A category or range of people or things, typically defined by age, income, or other characteristics.",
+      "DEF_ZH":"一群人或事物的类别或范围，通常由年龄、收入或其他特征定义。",
+      "SENT_EN":"The new tax changes will affect people in the higher income bracket.",
+      "SENT_ZH":"新的税收变化将影响高收入阶层的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "category",
+            "group",
+            "range",
+            "class",
+            "segment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "demographic",
+            "socioeconomic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bracket [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "writing"
+      ],
+      "DEF_EN":"To enclose (words or figures) in brackets.",
+      "DEF_ZH":"用括号将（词语或数字）括起来。",
+      "SENT_EN":"You should bracket any explanations you add to a quotation.",
+      "SENT_ZH":"你应该将你添加到引文中的任何解释用括号括起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enclose",
+            "parenthesize",
+            "brace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unbracket"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bracket [sb/sth] (together)",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, meaning it takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To group or classify (people or things) together.",
+      "DEF_ZH":"将（人或事物）归类或分在一起。",
+      "SENT_EN":"It's unfair to bracket all young people together as lazy.",
+      "SENT_ZH":"把所有年轻人一概归为懒惰是不公平的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "group",
+            "classify",
+            "categorize",
+            "lump together"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "distinguish"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in everyday language, academic, and technical contexts."
+}

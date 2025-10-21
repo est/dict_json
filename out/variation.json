@@ -1,0 +1,113 @@
+{
+  "WORD":"variation",
+  "IPA":"/ˌvɛəriˈeɪʃən/",
+  "CONJUGATES":"variations (plural)",
+  "ETYMOLOGY":"From Latin variatio (stem variationis) 'change, difference', from variare 'to vary, change'. First attested in English in the sense of 'change, alteration'.",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"variation [in sth]",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act, fact, or state of being different, irregular, or subject to change.",
+      "DEF_ZH":"变化；变动；差异的状态或程度。",
+      "SENT_EN":"The doctor noted the wide variation in the patient's blood pressure throughout the day.",
+      "SENT_ZH":"医生注意到病人一天中血压的巨大波动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fluctuation",
+            "diversity",
+            "difference",
+            "inconsistency"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "uniformity",
+            "stability",
+            "constancy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a variation [of sth]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "instance"
+      ],
+      "DEF_EN":"A thing that is slightly different from another of the same type; an alternative form or version.",
+      "DEF_ZH":"变体；变种；某一事物的一种修改或不同的形式。",
+      "SENT_EN":"This software update is merely a cosmetic variation of the previous version.",
+      "SENT_ZH":"这次软件更新仅仅是之前版本的一个外观上的变体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "version",
+            "modification",
+            "variant",
+            "take"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"variation",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun (technical)",
+      "TAGS":[
+        "technical",
+        "biology",
+        "genetics"
+      ],
+      "DEF_EN":"Differences in characteristics between individuals within a species or population, crucial for evolution.",
+      "DEF_ZH":"（生物学）变异；物种或群体内个体之间性状的差异。",
+      "SENT_EN":"Natural selection acts upon the genetic variation present in a population.",
+      "SENT_ZH":"自然选择作用于种群中存在的遗传变异。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "mutation",
+            "evolution",
+            "adaptation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"variation [on a theme]",
+      "POS":"noun",
+      "POS_TIP":"countable noun (music)",
+      "TAGS":[
+        "specialized",
+        "music"
+      ],
+      "DEF_EN":"A modified restatement of a musical theme, changing elements like rhythm, harmony, or key.",
+      "DEF_ZH":"（音乐）变奏曲；对主题旋律进行节奏、和声或调性改变的重复。",
+      "SENT_EN":"The piece concludes with a series of complex variations on a simple folk tune.",
+      "SENT_ZH":"该作品以一系列复杂的变奏曲作为对一个简单民歌的总结。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fugue",
+            "sonata",
+            "theme"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal/General"
+}

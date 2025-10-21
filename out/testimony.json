@@ -1,0 +1,67 @@
+{
+  "WORD":"testimony",
+  "IPA":"/ˈtɛstɪmoʊni/",
+  "CONJUGATES":"plural: testimonies",
+  "ETYMOLOGY":"From Old French testimoine, from Latin testimonium 'witness, evidence, proof', from testis 'witness'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"testimony [from sb] | testimony [against sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A formal written or spoken statement, especially one given in a court of law.",
+      "DEF_ZH":"（尤指法庭上的）证词，证言；口供。",
+      "SENT_EN":"The jury heard powerful testimony from the victim.",
+      "SENT_ZH":"陪审团听取了受害者的有力证词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "evidence",
+            "deposition",
+            "affidavit",
+            "statement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "witness",
+            "oath",
+            "court"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"testimony [to sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Something that serves as evidence or proof of something else.",
+      "DEF_ZH":"证明；证据；明证。",
+      "SENT_EN":"Her success is a testimony to her hard work and dedication.",
+      "SENT_ZH":"她的成功证明了她的勤奋和奉献。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "proof",
+            "demonstration",
+            "indication",
+            "attestation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal; often used in legal, religious, or formal contexts."
+}

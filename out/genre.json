@@ -1,0 +1,68 @@
+{
+  "WORD":"genre",
+  "IPA":"/ˈʒɑːnrə/",
+  "CONJUGATES":"genre (singular) | genres (plural)",
+  "ETYMOLOGY":"From French 'genre' ('kind, sort, style'), from Latin 'genus', 'gener-' ('stock, kind').",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is a genre | a genre of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A category of artistic composition, as in music, literature, or film, characterized by similarities in form, style, or subject matter.",
+      "DEF_ZH":"文艺作品（如音乐、文学或电影）的类型或风格，其特点是形式、风格或主题相似。",
+      "SENT_EN":"Science fiction is a very popular literary genre.",
+      "SENT_ZH":"科幻小说是一种非常受欢迎的文学体裁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "category",
+            "type",
+            "kind",
+            "sort",
+            "style",
+            "classification",
+            "form"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "motif",
+            "theme",
+            "trope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"genre painting | genre scene",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "art history"
+      ],
+      "DEF_EN":"A style of painting in which everyday scenes are realistically depicted.",
+      "DEF_ZH":"一种绘画风格，真实地描绘日常生活场景（尤指风俗画）。",
+      "SENT_EN":"Dutch painters excelled at genre scenes, showing domestic life and ordinary people.",
+      "SENT_ZH":"荷兰画家擅长风俗画，描绘家庭生活和普通民众。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "still life",
+            "portraiture",
+            "landscape painting"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

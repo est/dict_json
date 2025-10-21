@@ -1,0 +1,87 @@
+{
+  "WORD":"dual",
+  "IPA":"/duːəl/",
+  "CONJUGATES":"dually",
+  "ETYMOLOGY":"From Latin duālis, derived from duo ('two')",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"dual [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having two parts, elements, roles, or aspects; operating in two capacities.",
+      "DEF_ZH":"双重的；具有两部分、两要素或两方面的。",
+      "SENT_EN":"The monitor supports dual display outputs.",
+      "SENT_ZH":"该显示器支持双显示输出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "double",
+            "twofold",
+            "bifurcated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "single",
+            "singular",
+            "unitary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dual [concept]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "logic"
+      ],
+      "DEF_EN":"Relating to or derived from duality, especially in fields like mathematics where theorems or concepts correspond to another set of theorems or concepts.",
+      "DEF_ZH":"（数学、逻辑学）对偶的；与对偶性相关的。",
+      "SENT_EN":"The dual space of a vector space is the set of all linear forms on that space.",
+      "SENT_ZH":"向量空间的对偶空间是该空间上所有线性形式的集合。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "duality",
+            "conjugate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dual [number]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "linguistics",
+        "rare"
+      ],
+      "DEF_EN":"(Of a grammatical number) Referring to exactly two entities, as distinct from singular (one) or plural (more than two).",
+      "DEF_ZH":"（语法）双数的；表示正好两个实体。",
+      "SENT_EN":"The dual number survives in a few modern languages but was common in Ancient Greek and Sanskrit.",
+      "SENT_ZH":"双数形式在少数现代语言中得以保留，但在古希腊语和梵语中很常见。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "singular",
+            "plural",
+            "trial"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Technical"
+}

@@ -1,0 +1,90 @@
+{
+  "WORD":"tally",
+  "IPA":"/ˈtæli/",
+  "CONJUGATES":"tallies | tallied | tallying",
+  "ETYMOLOGY":"From Old French taille 'a cut, tax, tally', from tailler 'to cut'. Ultimately from Latin taliare 'to cut'. The term originally referred to a piece of wood on which notches were cut to keep a count or record.",
+  "SINCE":"Late 15th century (noun), late 16th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a tally of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A count of a number of items or amounts, especially a score or total.",
+      "DEF_ZH":"（尤指分数或数量的）总计，记录，计数。",
+      "SENT_EN":"The final tally of votes showed a clear majority for the incumbent.",
+      "SENT_ZH":"最终的投票总数显示现任者获得了明显的多数票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "count",
+            "total",
+            "score",
+            "record",
+            "sum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tally [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To count something, especially to add up a score or total.",
+      "DEF_ZH":"统计；计算总数；点数。",
+      "SENT_EN":"The election officials are still tallying the ballots.",
+      "SENT_ZH":"选举官员仍在统计选票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "count",
+            "calculate",
+            "enumerate",
+            "register"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tally with [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb with preposition: a verb that does not take a direct object and requires a preposition to connect to other words",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To agree or correspond with something else; to match.",
+      "DEF_ZH":"与...吻合；与...一致；相符。",
+      "SENT_EN":"His account of the incident doesn't quite tally with the witness statements.",
+      "SENT_ZH":"他对事件的描述与证人陈述不太吻合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "match",
+            "correspond",
+            "agree",
+            "accord"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disagree",
+            "clash",
+            "contradict"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

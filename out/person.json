@@ -1,0 +1,86 @@
+{
+  "WORD":"person",
+  "IPA":"/ˈpɜːrsən/",
+  "CONJUGATES":"person (singular) | persons (plural, formal/legal) | people (plural, general)",
+  "ETYMOLOGY":"From Old French persone, from Latin persōna ('actor's mask, character, person')",
+  "SINCE":"Late 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] person",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An individual human being.",
+      "DEF_ZH":"一个独立的、具有思考、感受和行为能力的人类个体。",
+      "SENT_EN":"She is a kind person.",
+      "SENT_ZH":"她是一个善良的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "individual",
+            "human being",
+            "soul",
+            "being"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "thing",
+            "animal (in some contexts)"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[grammatical] person",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "grammar"
+      ],
+      "DEF_EN":"A category used in grammar to classify pronouns, verbs, and other inflected words according to whether they refer to the speaker (first person), the addressee (second person), or a third party (third person).",
+      "DEF_ZH":"语法中用来区分代词、动词和其他屈折词的类别，根据它们是指说话者（第一人称）、听话者（第二人称）还是第三方（第三人称）。",
+      "SENT_EN":"In 'I am,' 'I' is in the first person.",
+      "SENT_ZH":"在“I am”中，“I”是第一人称。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "first person",
+            "second person",
+            "third person"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[legal] person",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A being or entity recognized by law as having rights and obligations, such as an individual or a corporation.",
+      "DEF_ZH":"法律上被认可拥有权利和义务的实体，例如个人或公司。",
+      "SENT_EN":"A corporation is considered a legal person.",
+      "SENT_ZH":"公司被视为一个法人。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "legal entity",
+            "corporation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general; formal (for specific meanings)"
+}

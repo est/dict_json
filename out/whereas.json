@@ -1,0 +1,63 @@
+{
+  "WORD":"whereas",
+  "IPA":"/ˌweərˈæs/",
+  "CONJUGATES":"N/A",
+  "ETYMOLOGY":"From Middle English where as, formed by combining where and as. Originally meant 'where... as it is', transitioning to a contrasting conjunction in the 15th century.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[clause 1], whereas [clause 2]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: A word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "TAGS":[
+        "core word",
+        "common",
+        "contrast"
+      ],
+      "DEF_EN":"Used to introduce a statement that contrasts with or balances a preceding statement; while on the contrary.",
+      "DEF_ZH":"然而；但是；与...相反。用于引出一个与前述语句形成对比或平衡的观点。",
+      "SENT_EN":"The old system was complicated, whereas the new one is much simpler.",
+      "SENT_ZH":"旧系统很复杂，然而新系统则简单得多。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "while",
+            "although",
+            "but"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "on the other hand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Whereas [fact statement], be it resolved that...",
+      "POS":"adv",
+      "POS_TIP":"adverb: A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "formal",
+        "legal",
+        "obsolete usage"
+      ],
+      "DEF_EN":"In view of the fact that; considering that. Used primarily to introduce the preamble of a formal document, resolution, or statute.",
+      "DEF_ZH":"鉴于；考虑到...的事实。主要用于正式文件、决议或法令的开场白。",
+      "SENT_EN":"Whereas the proposed project aligns with the community's goals, funding shall be approved.",
+      "SENT_ZH":"鉴于拟议项目符合社区目标，故应批准拨款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "in view of the fact that",
+            "seeing that"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, particularly common in written and formal contexts."
+}

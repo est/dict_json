@@ -1,0 +1,73 @@
+{
+  "WORD":"detect",
+  "IPA":"/dɪˈtɛkt/",
+  "CONJUGATES":"detects | detected | detecting",
+  "ETYMOLOGY":"From Latin dētegere (to uncover, expose), from dē- ('un-', 'away from') + tegere ('to cover').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"detect [sth] (often subtle or concealed)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To discover or notice the existence, presence, or fact of something, often something that is not easy to see, hear, or feel.",
+      "DEF_ZH":"发现；察觉；注意到（通常指不易察觉的事物或存在）。",
+      "SENT_EN":"She was quick to detect the flaws in the argument.",
+      "SENT_ZH":"她很快就察觉到了论点中的缺陷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perceive",
+            "sense",
+            "discern",
+            "recognize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "miss",
+            "overlook",
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"detect [sth] (by means of an instrument)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"To sense or measure the presence of something (like a signal, chemical, or object) using specialized equipment or scientific methods.",
+      "DEF_ZH":"检测；探测；侦测（使用仪器或科学方法）。",
+      "SENT_EN":"The radar detected an unidentified object approaching the coastline.",
+      "SENT_ZH":"雷达探测到一不明物体正在靠近海岸线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "monitor",
+            "scan",
+            "register",
+            "measure"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "detector",
+            "detection"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

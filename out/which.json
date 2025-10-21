@@ -1,0 +1,81 @@
+{
+  "WORD":"which",
+  "IPA":"/wɪtʃ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English hwilc, from Proto-Germanic *hwilīkaz ('of what kind'), related to hwā ('who').",
+  "SINCE":"before 1100",
+  "MEANINGS":[
+    {
+      "PATTERN":"which [sth]",
+      "POS":"det",
+      "POS_TIP":"Determiner: A word that introduces a noun phrase and expresses its reference, often specifying quantity or identity.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used as a determiner in questions to ask about the identity of one or more items out of a limited group, or in statements to specify an item(s) from a limited group.",
+      "DEF_ZH":"（作限定词）哪个的；哪些的 (用于在有限选项中提问或指明特定事物)",
+      "SENT_EN":"Which color do you prefer, red or blue?",
+      "SENT_ZH":"红色和蓝色，你喜欢哪种颜色？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"which",
+      "POS":"pron",
+      "POS_TIP":"Pronoun: A word that takes the place of a noun or noun phrase.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used as an interrogative pronoun in questions to ask about the identity of one or more items out of a limited group.",
+      "DEF_ZH":"（作代词）哪个；哪些 (用于在有限选项中提问或指明特定事物)",
+      "SENT_EN":"There are three cakes; which is yours?",
+      "SENT_ZH":"有三块蛋糕；哪一块是你的？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"..., which ...",
+      "POS":"rel pron",
+      "POS_TIP":"Relative Pronoun: A pronoun that introduces a relative clause, referring to a noun or noun phrase previously mentioned.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used as a relative pronoun to introduce a relative clause that provides additional information about a thing or animal previously mentioned.",
+      "DEF_ZH":"（作关系代词）这，那 (引导定语从句，指代前面提到的事物或动物)",
+      "SENT_EN":"This is the car which I bought last week.",
+      "SENT_ZH":"这是我上周买的那辆车。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "that"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"..., which ...",
+      "POS":"rel pron",
+      "POS_TIP":"Relative Pronoun: A pronoun that introduces a relative clause, referring to a preceding clause or situation.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used as a relative pronoun to introduce a relative clause that refers to a whole preceding clause or situation, providing further comment or information.",
+      "DEF_ZH":"（作关系代词）这，那 (指代前面一整个句子或情况)",
+      "SENT_EN":"He said he was feeling ill, which was a lie.",
+      "SENT_ZH":"他说他感觉不舒服，那是一个谎言。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "this",
+            "that"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

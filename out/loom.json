@@ -1,0 +1,73 @@
+{
+  "WORD":"loom",
+  "IPA":"/luːm/",
+  "CONJUGATES":"looms | looming | loomed",
+  "ETYMOLOGY":"Noun meaning 'weaving machine' is from Old English loma (utensil, tool). The verb meaning 'to appear indistinctly' is likely Scandinavian in origin, possibly related to Norwegian loma (to hang heavily).",
+  "SINCE":"C. 13th century (Noun); C. 15th century (Verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] loom [prep]",
+      "POS":"v. intr.",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "Common",
+        "Descriptive"
+      ],
+      "DEF_EN":"To appear as a large, often threatening, and indistinct shape; or (figuratively) to be imminent or about to happen, especially regarding negative events.",
+      "DEF_ZH":"隐约出现；赫然耸现；（危险、困难等）逼近，迫近。",
+      "SENT_EN":"A massive, dark shape loomed out of the fog above the harbor.",
+      "SENT_ZH":"一个巨大而黑暗的影子从港口上方的雾中隐约出现。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impend",
+            "menace",
+            "hover",
+            "materialize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "recede",
+            "vanish",
+            "diminish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] loom",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core word",
+        "Industrial",
+        "Technical"
+      ],
+      "DEF_EN":"An apparatus or machine for weaving fabric, used to interlace threads (warp and weft) at right angles.",
+      "DEF_ZH":"织布机；纺织机；织造框架。",
+      "SENT_EN":"The factory floor vibrated with the rhythmic clatter of dozens of heavy power looms.",
+      "SENT_ZH":"工厂车间里回荡着数十台重型动力织布机有节奏的咔嗒声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weaving machine",
+            "frame"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shuttle",
+            "tapestry",
+            "textile"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

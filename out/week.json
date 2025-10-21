@@ -1,0 +1,68 @@
+{
+  "WORD":"week",
+  "IPA":"/wiːk/",
+  "CONJUGATES":"weeks",
+  "ETYMOLOGY":"From Old English wice, wucu 'week,' from Proto-Germanic *wikō, possibly related to Proto-Indo-European *weik- 'to bend, turn, wind,' referring to a 'turning' or 'succession' of days.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a week | the week",
+      "POS":"noun",
+      "POS_TIP":"A word that identifies a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A period of seven successive days, usually taken as beginning on Sunday or Monday.",
+      "DEF_ZH":"连续七天的时间，通常以星期日或星期一开始计算。",
+      "SENT_EN":"I'm going on vacation next week.",
+      "SENT_ZH":"我下周要去度假。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seven-day period",
+            "seven days"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "month",
+            "year",
+            "day",
+            "weekend",
+            "weekday"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the week",
+      "POS":"noun",
+      "POS_TIP":"A word that identifies a person, place, thing, or idea.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The working week, generally the five days from Monday to Friday, as opposed to the weekend.",
+      "DEF_ZH":"工作周，通常指周一到周五的五天，与周末相对。",
+      "SENT_EN":"I usually go to the gym during the week.",
+      "SENT_ZH":"我通常在工作日去健身房。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "weekend"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "weekday"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

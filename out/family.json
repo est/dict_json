@@ -1,0 +1,113 @@
+{
+  "WORD":"family",
+  "IPA":"/ˈfæmɪli/",
+  "CONJUGATES":"family | families",
+  "ETYMOLOGY":"From Latin familia ('household, household slaves, family'), from famulus ('servant').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb's] family",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A group consisting of parents and children living together in a household, or all the descendants of a common ancestor.",
+      "DEF_ZH":"由父母和子女组成的共同居住的家庭单元，或指有共同祖先的所有后代。",
+      "SENT_EN":"She grew up in a large family with five siblings.",
+      "SENT_ZH":"她在一个有五个兄弟姐妹的大家庭中长大。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "household",
+            "kin",
+            "relatives",
+            "clan"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "parent",
+            "child",
+            "sibling",
+            "marriage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a family of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A group of people united by common convictions, a common lineage, or shared characteristics.",
+      "DEF_ZH":"指因共同的信仰、血统或共享特征而结合在一起的一群人。",
+      "SENT_EN":"The royal family has a long history. / The company treats its employees like family.",
+      "SENT_ZH":"那个王室家族历史悠久。 / 这家公司把员工视如家人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clan",
+            "dynasty",
+            "house",
+            "group"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the family of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "biology"
+      ],
+      "DEF_EN":"(Biology) A principal taxonomic category that ranks above genus and below order.",
+      "DEF_ZH":"（生物学）介于目和属之间的一个主要分类单位（科）。",
+      "SENT_EN":"Lions belong to the cat family.",
+      "SENT_ZH":"狮子属于猫科。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "genus",
+            "species",
+            "order",
+            "kingdom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"family [noun]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "attributive"
+      ],
+      "DEF_EN":"Designed for, suitable for, or relating to a family.",
+      "DEF_ZH":"为家庭设计、适合家庭使用或与家庭相关的。",
+      "SENT_EN":"We bought a new family car. / It's a great family restaurant.",
+      "SENT_ZH":"我们买了一辆新的家用轿车。 / 这是一家很棒的家庭餐厅。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "domestic",
+            "household"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

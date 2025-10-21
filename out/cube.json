@@ -1,0 +1,142 @@
+{
+  "WORD":"cube",
+  "IPA":"/kjuːb/",
+  "CONJUGATES":"cubes | cubed | cubing",
+  "ETYMOLOGY":"From Old French cube, from Latin cubus, from Ancient Greek κύβος (kýbos, 'a cube, a die').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a cube",
+      "POS":"n.",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "common",
+        "geometry"
+      ],
+      "DEF_EN":"A regular solid object having six identical square faces.",
+      "DEF_ZH":"一种由六个完全相同的正方形面组成的规则立体图形。",
+      "SENT_EN":"The child built a tower out of wooden cubes.",
+      "SENT_ZH":"孩子用木制方块搭了一座塔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hexahedron",
+            "block",
+            "dice"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "prism",
+            "sphere",
+            "pyramid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cube of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "common",
+        "food",
+        "measurement"
+      ],
+      "DEF_EN":"A small block of food or other substance, typically cube-shaped.",
+      "DEF_ZH":"一小块呈立方体形状的食物或其他物质。",
+      "SENT_EN":"Please add a cube of ice to my drink.",
+      "SENT_ZH":"请在我的饮料里加一块冰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "block",
+            "lump",
+            "chunk"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "slice",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the cube of [number]",
+      "POS":"n.",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"The result of multiplying a number by itself twice (x³).",
+      "DEF_ZH":"一个数自乘两次所得的结果（x³）。",
+      "SENT_EN":"The cube of three is twenty-seven.",
+      "SENT_ZH":"三的立方是二十七。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "square",
+            "power",
+            "root"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cube [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb (a verb that requires one or more objects)",
+      "TAGS":[
+        "common",
+        "cooking"
+      ],
+      "DEF_EN":"To cut (food or other material) into small cube-shaped pieces.",
+      "DEF_ZH":"将（食物或其他材料）切成小方块。",
+      "SENT_EN":"She carefully cubed the vegetables for the stew.",
+      "SENT_ZH":"她小心地将蔬菜切成小方块以备炖煮。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dice",
+            "chop",
+            "cut up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cube [number]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb (a verb that requires one or more objects)",
+      "TAGS":[
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"To raise a number to its third power.",
+      "DEF_ZH":"将一个数求三次方。",
+      "SENT_EN":"To find the volume of a cube, you need to cube the length of one side.",
+      "SENT_ZH":"要计算一个立方体的体积，你需要将一边长求立方。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "square",
+            "multiply",
+            "power"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common; general use."
+}

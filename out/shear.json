@@ -1,0 +1,149 @@
+{
+  "WORD":"shear",
+  "IPA":"/ʃɪər/",
+  "CONJUGATES":"shear | shears | shearing | sheared/shorn | sheared/shorn",
+  "ETYMOLOGY":"From Old English 'sceran' (to cut, shave), from Proto-Germanic '*skeran' (to cut). Related to Dutch 'scheren' and German 'scheren'.",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"shear [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "agriculture",
+        "textiles"
+      ],
+      "DEF_EN":"To cut the wool off a sheep or other animal. To cut hair or other material using shears.",
+      "DEF_ZH":"剪（羊毛、头发等）；修剪",
+      "SENT_EN":"The farmers gather once a year to shear the sheep.",
+      "SENT_ZH":"农民们每年聚集一次来剪羊毛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clip",
+            "trim",
+            "shave"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shears",
+            "sheep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] shear | [sth] shear off",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "technical",
+        "engineering",
+        "geology"
+      ],
+      "DEF_EN":"To break or cause to break off clean under pressure, especially due to a sliding or twisting force.",
+      "DEF_ZH":"（因受剪切力）断裂，折断；使断裂，使折断",
+      "SENT_EN":"The bolt sheared off under the immense strain.",
+      "SENT_ZH":"螺栓在巨大的应力下断裂了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "snap",
+            "break",
+            "fracture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "shear stress",
+            "shearing force"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a shear | the shear of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "countable",
+        "uncountable"
+      ],
+      "DEF_EN":"The act or process of shearing; the amount of wool sheared from a sheep.",
+      "DEF_ZH":"剪羊毛（的动作或过程）；剪下的羊毛量",
+      "SENT_EN":"The annual shear is a crucial event for the farm's income.",
+      "SENT_ZH":"年度剪羊毛是农场收入的关键事件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shearing",
+            "wool"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shear [uncountable]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "physics",
+        "engineering",
+        "uncountable"
+      ],
+      "DEF_EN":"A force or stress tending to produce a sliding deformation of a body, where layers of the material move parallel to each other.",
+      "DEF_ZH":"剪切力；剪应力；剪切变形",
+      "SENT_EN":"Engineers designed the beam to withstand significant shear.",
+      "SENT_ZH":"工程师们设计了横梁以承受显著的剪切力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shear stress",
+            "shearing force",
+            "shear modulus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pair of shears | the shears",
+      "POS":"npl",
+      "POS_TIP":"plural noun (always takes a plural verb, but refers to a single tool)",
+      "TAGS":[
+        "tool",
+        "countable"
+      ],
+      "DEF_EN":"A cutting implement resembling large scissors, used for gardening, cutting sheet metal, or other heavy-duty tasks.",
+      "DEF_ZH":"大剪刀；（尤指）修枝剪，金属剪",
+      "SENT_EN":"He used a pair of garden shears to trim the rose bushes.",
+      "SENT_ZH":"他用一把园艺剪修剪玫瑰丛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clippers",
+            "scissors"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hedge clippers",
+            "tin snips"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Agricultural"
+}

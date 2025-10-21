@@ -1,0 +1,72 @@
+{
+  "WORD":"exclude",
+  "IPA":"/ɪkˈskluːd/",
+  "CONJUGATES":"excludes | excluding | excluded",
+  "ETYMOLOGY":"From Latin exclūdere, from ex- ('out, away') + claudere ('to shut, close'). Literally, 'to shut out'.",
+  "SINCE":"c. 1430s (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"exclude [sb] / [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"To prevent someone or something from entering a place, participating in an activity, or being considered part of a group.",
+      "DEF_ZH":"排斥；不包括；阻止某人或某物进入、参与或成为某团体的一部分。",
+      "SENT_EN":"The policy will exclude applicants whose income exceeds a certain threshold.",
+      "SENT_ZH":"这项政策将把收入超过特定门槛的申请人排除在外。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shut out",
+            "bar",
+            "omit",
+            "ban"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "include",
+            "admit",
+            "welcome"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exclude [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "Formal",
+        "Technical"
+      ],
+      "DEF_EN":"To rule out or dismiss a possibility, hypothesis, or piece of evidence as being irrelevant or untrue.",
+      "DEF_ZH":"排除（可能性、假设或证据）；认为不可能或不相干。",
+      "SENT_EN":"The forensic test results appeared to exclude foul play in the athlete's death.",
+      "SENT_ZH":"法医测试结果似乎排除了运动员死亡事件中的谋杀嫌疑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rule out",
+            "eliminate",
+            "preclude"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exclusion",
+            "exclusive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

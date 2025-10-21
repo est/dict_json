@@ -1,0 +1,96 @@
+{
+  "WORD":"delinquent",
+  "IPA":"/dɪˈlɪŋkwənt/",
+  "CONJUGATES":"delinquents | more delinquent | most delinquent",
+  "ETYMOLOGY":"From Late Latin delinquentem, present participle of delinquere 'to fail, to be wanting, to offend', combining de- 'away from' + linquere 'to leave, abandon'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"delinquent [in payment/duty]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "formal",
+        "financial"
+      ],
+      "DEF_EN":"Failing in a duty or obligation, especially one that is monetary or statutory.",
+      "DEF_ZH":"未能履行职责或义务的，尤指拖欠款项或未按时履约的。",
+      "SENT_EN":"His tax payments have been delinquent for three months.",
+      "SENT_ZH":"他的纳税款项已拖欠了三个月。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overdue",
+            "defaulting",
+            "noncompliant",
+            "behindhand"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "current",
+            "paid up",
+            "compliant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"delinquent behavior/act",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "legal",
+        "social science"
+      ],
+      "DEF_EN":"Relating to minor crime or antisocial behavior, often specifically referring to actions committed by minors.",
+      "DEF_ZH":"与轻微犯罪或反社会行为有关的，尤指未成年人所犯的（行为）。",
+      "SENT_EN":"The program aims to redirect youths away from delinquent activities.",
+      "SENT_ZH":"该项目旨在引导青少年远离不良行为。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "misbehaving",
+            "lawless",
+            "wayward"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "juvenile delinquency"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a delinquent",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "person",
+        "law",
+        "common"
+      ],
+      "DEF_EN":"A person who commits an offense or fails to perform a duty, particularly a minor offender.",
+      "DEF_ZH":"失职者或犯罪者，尤指少年犯。",
+      "SENT_EN":"The social worker specialized in counseling young delinquents.",
+      "SENT_ZH":"这位社会工作者专门为少年犯提供咨询服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offender",
+            "miscreant",
+            "malefactor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Sociological"
+}

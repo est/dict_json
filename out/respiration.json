@@ -1,0 +1,68 @@
+{
+  "WORD":"respiration",
+  "IPA":"/ˌrɛspəˈreɪʃən/",
+  "CONJUGATES":"None",
+  "ETYMOLOGY":"From Latin *respirātiō* (nominative *respiratio*, genitive *respirationis*) 'a breathing, a breath', from *respirare* 'to breathe in and out' (re- 'again, back' + *spirare* 'to breathe').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"respiration",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "biology",
+        "medical"
+      ],
+      "DEF_EN":"The act or process of breathing; the process of taking air into and expelling it from the lungs.",
+      "DEF_ZH":"呼吸的动作或过程；将空气吸入肺部并呼出的过程。",
+      "SENT_EN":"Normal human respiration rate is between 12 and 20 breaths per minute.",
+      "SENT_ZH":"正常人的呼吸频率在每分钟12到20次之间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breathing",
+            "ventilation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "inhale",
+            "exhale",
+            "lung",
+            "trachea"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"respiration",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "scientific",
+        "biology",
+        "biochemistry"
+      ],
+      "DEF_EN":"(Biology) A process in living organisms involving the production of energy, typically with the intake of oxygen and the release of carbon dioxide from the oxidation of complex organic substances.",
+      "DEF_ZH":"（生物学）生物体内产生能量的过程，通常伴随着氧气的摄入和复杂有机物质氧化后二氧化碳的释放。",
+      "SENT_EN":"Cellular respiration is a fundamental metabolic process in all living organisms.",
+      "SENT_ZH":"细胞呼吸是所有生命体中基本的代谢过程。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "metabolism",
+            "photosynthesis",
+            "mitochondria",
+            "aerobic",
+            "anaerobic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in general, medical, and scientific contexts."
+}

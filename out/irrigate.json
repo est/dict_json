@@ -1,0 +1,65 @@
+{
+  "WORD":"irrigate",
+  "IPA":"/ˈɪr.ɪ.ɡeɪt/",
+  "CONJUGATES":"irrigates | irrigating | irrigated",
+  "ETYMOLOGY":"From Latin irrigatus, past participle of irrigare ('to lead water to, to wet'), from in- ('into, onto') + rigare ('to water, to moisten').",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"irrigate [land] [crops]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "agriculture",
+        "engineering"
+      ],
+      "DEF_EN":"To supply water to land or crops to help growth, typically by means of channels, pipes, or sprinklers.",
+      "DEF_ZH":"通过渠道、管道或喷洒等方式向土地或农作物供水，以帮助其生长。",
+      "SENT_EN":"Farmers must irrigate the dry fields regularly during the summer.",
+      "SENT_ZH":"在夏季，农民必须定期灌溉干燥的田地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "water",
+            "douse",
+            "wet"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "irrigation",
+            "aqueduct",
+            "sprinkler"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"irrigate [a wound] [a body part]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "medical",
+        "specialized"
+      ],
+      "DEF_EN":"To wash out a body cavity, wound, or part with a stream of water or other liquid, often for cleansing or therapeutic purposes.",
+      "DEF_ZH":"用一股水流或其他液体冲洗身体腔隙、伤口或部位，通常用于清洁或治疗。",
+      "SENT_EN":"The nurse will irrigate the deep wound to remove any debris.",
+      "SENT_ZH":"护士将冲洗深层伤口以清除任何碎屑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flush",
+            "cleanse",
+            "lavage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal/technical (agriculture, medicine)"
+}

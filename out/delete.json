@@ -1,0 +1,67 @@
+{
+  "WORD":"delete",
+  "IPA":"/dɪˈliːt/",
+  "CONJUGATES":"deletes | deleting | deleted",
+  "ETYMOLOGY":"From Latin dēlētus, past participle of dēlēre 'to blot out, efface, destroy', from dē- 'down, away' + lēre (not found independently, but related to linere 'to smear').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"delete [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"Remove or erase (data, text, or content) from a computer, document, or other record.",
+      "DEF_ZH":"从计算机、文件或其他记录中删除或抹去（数据、文本或内容）。",
+      "SENT_EN":"Please delete the old files to free up disk space.",
+      "SENT_ZH":"请删除旧文件以释放磁盘空间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remove",
+            "erase",
+            "expunge",
+            "obliterate",
+            "cancel"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "add",
+            "insert",
+            "restore",
+            "keep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"delete [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes a direct object",
+      "TAGS":[
+        "general"
+      ],
+      "DEF_EN":"To strike out or remove a word or passage of writing.",
+      "DEF_ZH":"划掉或删除书面文字或段落。",
+      "SENT_EN":"The editor asked me to delete the redundant paragraph.",
+      "SENT_ZH":"编辑让我删除多余的段落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cross out",
+            "strike out",
+            "cut"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

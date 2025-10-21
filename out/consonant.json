@@ -1,0 +1,67 @@
+{
+  "WORD":"consonant",
+  "IPA":"/ˈkɒnsənənt/",
+  "CONJUGATES":"consonants (plural)",
+  "ETYMOLOGY":"From Old French consonant, from Latin consonantem (nominative consonans), present participle of consonare 'to sound with, agree with', from com- 'together' + sonare 'to sound'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] consonant",
+      "POS":"n.",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "linguistics",
+        "common"
+      ],
+      "DEF_EN":"A speech sound produced by obstructing the flow of air from the lungs, which can be voiced or unvoiced. Examples include /p/, /t/, /s/, /m/, /l/.",
+      "DEF_ZH":"辅音；子音。一种通过阻碍肺部气流而产生的语音，可以是浊音或清音。例如 /p/、/t/、/s/、/m/、/l/。",
+      "SENT_EN":"The word 'rhythm' contains no vowels but several consonants.",
+      "SENT_ZH":"单词 'rhythm' 没有元音，但有几个辅音。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "vowel",
+            "phoneme",
+            "syllable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consonant with [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective (a word that describes a noun)",
+      "TAGS":[
+        "formal",
+        "archaic",
+        "less common"
+      ],
+      "DEF_EN":"In agreement or harmony with something; consistent.",
+      "DEF_ZH":"与某事物一致的；和谐的。",
+      "SENT_EN":"His actions were not consonant with his stated principles.",
+      "SENT_ZH":"他的行为与他声明的原则不符。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consistent",
+            "harmonious",
+            "agreeing",
+            "compatible"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inconsistent",
+            "dissonant",
+            "discordant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic (for linguistic meaning); Formal (for adjective meaning)"
+}

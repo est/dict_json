@@ -1,0 +1,111 @@
+{
+  "WORD":"pen",
+  "IPA":"/pɛn/",
+  "CONJUGATES":"pens | penned | penning",
+  "ETYMOLOGY":"From Old French penne, from Latin penna 'feather' (for writing instrument meaning). Separate origin from Old English penn 'enclosure' (for enclosure meaning).",
+  "SINCE":"Late 13th century (writing); Old English (enclosure)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a pen",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An instrument for writing or drawing with ink, typically having a ballpoint or a nib.",
+      "DEF_ZH":"一种用墨水书写或绘图的工具，通常带有圆珠笔尖或笔尖。",
+      "SENT_EN":"Could I borrow your pen to jot down this number?",
+      "SENT_ZH":"我能借用一下你的钢笔来记下这个号码吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "marker",
+            "writing implement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pencil",
+            "quill",
+            "fountain pen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a pen [for sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "animal husbandry"
+      ],
+      "DEF_EN":"A small area or enclosure where domestic animals, especially livestock like sheep, pigs, or poultry, are confined.",
+      "DEF_ZH":"圈养家畜（如绵羊、猪或家禽）的小型区域或围栏。",
+      "SENT_EN":"The shepherd gathered the flock into the holding pen for the night.",
+      "SENT_ZH":"牧羊人把羊群赶进围栏里过夜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "enclosure",
+            "corral",
+            "coop",
+            "fold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pen [sth] in",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "agriculture"
+      ],
+      "DEF_EN":"To confine or enclose something (usually animals) in a small space.",
+      "DEF_ZH":"把（某物，通常是动物）限制或圈养在一个小空间里。",
+      "SENT_EN":"They penned in the horses while the fence was being repaired.",
+      "SENT_ZH":"在修理围栏时，他们把马匹圈了起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cage",
+            "confine",
+            "imprison"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pen [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "literary",
+        "formal"
+      ],
+      "DEF_EN":"To write or compose something (especially a letter, poem, or story).",
+      "DEF_ZH":"写或创作（某物，尤指信件、诗歌或故事）。",
+      "SENT_EN":"The poet penned his masterpiece during a time of great hardship.",
+      "SENT_ZH":"这位诗人在一段艰难时期创作了他的杰作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "write",
+            "compose",
+            "draft"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often literary or formal when used as a verb meaning 'to write'."
+}

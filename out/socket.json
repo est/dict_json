@@ -1,0 +1,93 @@
+{
+  "WORD":"socket",
+  "IPA":"/ˈsɑːkɪt/",
+  "CONJUGATES":"sockets (plural)",
+  "ETYMOLOGY":"From Anglo-Norman French 'socquet', diminutive of 'soc' meaning 'ploughshare', which referred to the part of a plough fitting into the ploughbeam. The sense of 'a hollow into which something fits' developed from this.",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"socket [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A hollow part or opening into which something is designed to fit, especially an electrical connection.",
+      "DEF_ZH":"插座；插孔；（器物上的）承窝，套管",
+      "SENT_EN":"Make sure the plug is firmly in the wall socket.",
+      "SENT_ZH":"确保插头牢固地插入墙上的插座。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outlet",
+            "receptacle",
+            "jack"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "plug",
+            "adapter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] socket",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "anatomy"
+      ],
+      "DEF_EN":"A natural hollow in a bone or other part of the body into which another part fits or is contained.",
+      "DEF_ZH":"（身体部位的）窝，臼（如眼窝、髋臼）",
+      "SENT_EN":"The eye socket protects the eyeball.",
+      "SENT_ZH":"眼窝保护着眼球。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cavity",
+            "hollow",
+            "fossa"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "joint",
+            "bone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"socket [computing]",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(Computing) One endpoint of a two-way communication link between two programs running on a network.",
+      "DEF_ZH":"（计算机）套接字；网络通信的端点",
+      "SENT_EN":"The server listens for incoming connections on a specific socket.",
+      "SENT_ZH":"服务器在特定的套接字上监听传入的连接。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "port",
+            "protocol",
+            "connection"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (for computing contexts)"
+}

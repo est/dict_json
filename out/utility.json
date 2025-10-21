@@ -1,0 +1,110 @@
+{
+  "WORD":"utility",
+  "IPA":"/juːˈtɪlɪti/",
+  "CONJUGATES":"utilities",
+  "ETYMOLOGY":"From Middle French utilité, from Latin ūtilitās ('usefulness, profit'), derived from ūtilis ('useful'), ultimately related to ūtī ('to use').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "abstract concept"
+      ],
+      "DEF_EN":"The state of being useful, profitable, or beneficial; usefulness.",
+      "DEF_ZH":"效用；实用性；有用性或益处。",
+      "SENT_EN":"The utility of a smartphone for daily tasks is undeniable.",
+      "SENT_ZH":"智能手机在日常任务中的实用性是不可否认的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "usefulness",
+            "functionality",
+            "benefit",
+            "serviceability"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "uselessness",
+            "futility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable, often plural)",
+      "TAGS":[
+        "business",
+        "infrastructure",
+        "common"
+      ],
+      "DEF_EN":"A company or public service providing essential services such as electricity, water, gas, or sewage disposal.",
+      "DEF_ZH":"公共事业（如水电、煤气、电信）服务公司或设施。",
+      "SENT_EN":"We need to contact the local water utility about the leak.",
+      "SENT_ZH":"我们需要联系当地的供水公司来处理漏水问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "public service",
+            "amenity",
+            "infrastructure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable, economics)",
+      "TAGS":[
+        "technical",
+        "economics"
+      ],
+      "DEF_EN":"The measure of the satisfaction or benefit derived by a consumer from consuming a good or service.",
+      "DEF_ZH":"（经济学）效用；消费者从商品或服务中获得的满意度或价值。",
+      "SENT_EN":"According to theory, individuals seek to maximize their total utility.",
+      "SENT_ZH":"根据理论，个体寻求最大化他们的总效用。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "marginal utility",
+            "value"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A [sth] program",
+      "POS":"n.",
+      "POS_TIP":"noun (countable, computing)",
+      "TAGS":[
+        "computing",
+        "technical tool"
+      ],
+      "DEF_EN":"A small program or piece of software designed to perform a specific supporting task or maintenance function on a computer.",
+      "DEF_ZH":"实用程序；工具软件（指执行特定支持任务的程序）。",
+      "SENT_EN":"He ran a diagnostic utility to check the health of his hard drive.",
+      "SENT_ZH":"他运行了一个诊断实用程序来检查他的硬盘健康状况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tool",
+            "applet",
+            "software program"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, Technical"
+}

@@ -1,0 +1,85 @@
+{
+  "WORD":"width",
+  "IPA":"/wɪdθ/",
+  "CONJUGATES":"widths",
+  "ETYMOLOGY":"From Middle English 'widthe', combining Old English 'wīd' (wide) and the Germanic noun-forming suffix '-th' (as seen in 'length', 'depth', 'strength').",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core",
+        "Measurement"
+      ],
+      "DEF_EN":"The measurement or extent of something from side to side; the distance across.",
+      "DEF_ZH":"宽度；阔度；横量。",
+      "SENT_EN":"Please ensure the table width is less than 90 centimeters.",
+      "SENT_ZH":"请确保桌子的宽度小于90厘米。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breadth",
+            "span"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "length",
+            "height",
+            "depth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Figurative",
+        "Scope"
+      ],
+      "DEF_EN":"Extensiveness or scope; the large extent of something abstract.",
+      "DEF_ZH":"广度；宽泛的范围或程度。",
+      "SENT_EN":"The width of his historical knowledge was truly remarkable.",
+      "SENT_ZH":"他历史知识的广度确实非凡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "range",
+            "scope",
+            "extent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a width of [material]",
+      "POS":"n",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "Specific context",
+        "Textile"
+      ],
+      "DEF_EN":"A piece of fabric, paper, or similar material of a standard or measured size from side to side.",
+      "DEF_ZH":"（布料、纸张等的）一幅，一段。",
+      "SENT_EN":"She calculated that she needed three widths of curtain material for the window.",
+      "SENT_ZH":"她计算出窗户需要三幅窗帘材料。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "panel",
+            "strip"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

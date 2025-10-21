@@ -1,0 +1,75 @@
+{
+  "WORD":"exam",
+  "IPA":"/ɪɡˈzæm/",
+  "CONJUGATES":"exams (plural)",
+  "ETYMOLOGY":"An abbreviation of 'examination'. The word 'examination' dates from late Middle English, from Old French *examinacion*, from Latin *examinatio(n-)*, from *examinare* 'weigh, test'.",
+  "SINCE":"19th century (as an abbreviation)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] exam | exam [on sth] | exam [in sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "education"
+      ],
+      "DEF_EN":"A formal test that you take to show your knowledge or ability in a particular subject, or to obtain a qualification.",
+      "DEF_ZH":"考试；考查；测验；期末考试",
+      "SENT_EN":"I have a difficult maths exam tomorrow.",
+      "SENT_ZH":"我明天有一场很难的数学考试。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "test",
+            "assessment",
+            "quiz",
+            "examination"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "examine",
+            "examiner",
+            "examinee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a medical exam | an eye exam",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "medical",
+        "informal"
+      ],
+      "DEF_EN":"A thorough inspection or investigation, especially a medical one to determine a person's state of health.",
+      "DEF_ZH":"(身体)检查；体检；诊察",
+      "SENT_EN":"The doctor performed a thorough physical exam.",
+      "SENT_ZH":"医生进行了一次彻底的体检。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "check-up",
+            "medical examination",
+            "screening",
+            "inspection"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "examine",
+            "diagnosis"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Educational, Medical"
+}

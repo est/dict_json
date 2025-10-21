@@ -1,0 +1,118 @@
+{
+  "WORD":"trigger",
+  "IPA":"/'trɪɡər/",
+  "CONJUGATES":"triggers | triggered | triggering",
+  "ETYMOLOGY":"From Dutch trekker, literally 'puller' (from trekken 'to pull, draw'), introduced into English in the late 17th century, likely referring to the firing mechanism of a firearm.",
+  "SINCE":"Late 17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (on a firearm or device)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Mechanism"
+      ],
+      "DEF_EN":"A small lever on a mechanism, especially a gun, that is pulled or pressed to start the function.",
+      "DEF_ZH":"（枪械、装置上的）扳机；触发器。",
+      "SENT_EN":"He kept his finger off the trigger until he was ready to shoot.",
+      "SENT_ZH":"他一直将手指移开扳机，直到准备射击为止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lever",
+            "firing mechanism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trigger [sth] (event/reaction)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Causation"
+      ],
+      "DEF_EN":"To cause a particular action, process, or event to begin or occur, often suddenly or immediately.",
+      "DEF_ZH":"引起；触发；启动（事件或反应）。",
+      "SENT_EN":"The bad weather triggered a massive power outage across the region.",
+      "SENT_ZH":"恶劣的天气引发了该地区的大规模停电。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cause",
+            "initiate",
+            "spark",
+            "activate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "prevent",
+            "halt",
+            "stop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (psychological stimulus)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Psychology",
+        "Modern Use"
+      ],
+      "DEF_EN":"An event, stimulus, or memory that prompts a strong emotional reaction, especially one linked to past trauma.",
+      "DEF_ZH":"诱因；刺激物；（尤指引发创伤后反应的）触发因素。",
+      "SENT_EN":"The smell of burnt toast served as a trigger for her childhood memories of the fire.",
+      "SENT_ZH":"烤焦面包的气味成了她童年火灾记忆的诱因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stimulus",
+            "cue",
+            "catalyst"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "trauma",
+            "PTSD"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trigger [sth] (computing/electronics)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"To cause a defined operation or function to execute automatically, typically by a signal or specific condition.",
+      "DEF_ZH":"触发（程序或电子功能）；启动。",
+      "SENT_EN":"The database update automatically triggers an email notification to the administrator.",
+      "SENT_ZH":"数据库更新会自动向管理员触发一封电子邮件通知。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "activate",
+            "execute",
+            "fire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard; the psychological noun usage is very common in modern social and therapeutic contexts."
+}

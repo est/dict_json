@@ -1,0 +1,93 @@
+{
+  "WORD":"egg",
+  "IPA":"/ɛɡ/",
+  "CONJUGATES":"eggs (n. pl.) | eggs (v. 3rd sing. pres.) | egged (v. past tense/past part.) | egging (v. pres. part.)",
+  "ETYMOLOGY":"Noun: From Old Norse *egg* 'egg', akin to Old English *æg*. Verb (to incite): From Old Norse *eggja* 'to egg on, incite', related to *egg* (noun) meaning 'edge', referring to a sharp point or stimulus.",
+  "SINCE":"Noun: Pre-12th century (Old English) | Verb: Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "countable"
+      ],
+      "DEF_EN":"An oval or round reproductive body laid by female birds, reptiles, insects, and fish, typically enclosed in a hard shell, and from which young hatch. Also, used as food.",
+      "DEF_ZH":"鸟类、爬行动物、昆虫和鱼类等雌性产下的椭圆形或圆形生殖体，通常有硬壳，孵化后可出幼体。也指用作食物的蛋。",
+      "SENT_EN":"She cracked an egg into the frying pan to make breakfast.",
+      "SENT_ZH":"她打了一个鸡蛋到煎锅里做早餐。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "yolk",
+            "albumen",
+            "omelette",
+            "scramble",
+            "fry",
+            "chick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"egg [sb] on",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb with adverb (phrasal verb)",
+      "TAGS":[
+        "common",
+        "idiom"
+      ],
+      "DEF_EN":"To strongly encourage or incite someone to do something, especially something foolish, mischievous, or bad.",
+      "DEF_ZH":"强烈鼓励或怂恿某人做某事，尤指愚蠢、恶作剧或不好的事情。",
+      "SENT_EN":"The crowd egged him on to jump into the cold water, even though he was hesitant.",
+      "SENT_ZH":"尽管他有些犹豫，但人群还是怂恿他跳进了冰冷的水中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incite",
+            "provoke",
+            "urge",
+            "goad",
+            "encourage"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "discourage",
+            "dissuade",
+            "deter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"egg [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "literal"
+      ],
+      "DEF_EN":"To throw eggs at a person or object, usually as a form of protest, prank, or vandalism.",
+      "DEF_ZH":"向某人或某物扔鸡蛋，通常作为一种抗议、恶作剧或破坏行为。",
+      "SENT_EN":"The protestors decided to egg the politician's car as a sign of their displeasure.",
+      "SENT_ZH":"抗议者决定向政客的汽车扔鸡蛋，以表达他们的不满。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "protest",
+            "vandalism",
+            "prank"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

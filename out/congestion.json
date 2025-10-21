@@ -1,0 +1,89 @@
+{
+  "WORD":"congestion",
+  "IPA":"/kənˈdʒɛstʃən/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Latin 'congestiōnem' (nominative 'congestiō') meaning 'a heaping up, accumulation', from 'congerere' 'to heap together, amass', from 'con-' 'together' + 'gerere' 'to carry, bear'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[traffic] congestion | congestion of [traffic type]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The state of being overcrowded, especially with vehicles, leading to slow movement or delays.",
+      "DEF_ZH":"交通拥堵；交通阻塞。",
+      "SENT_EN":"The city is implementing new policies to reduce traffic congestion during peak hours.",
+      "SENT_ZH":"该市正在实施新政策以减少高峰时段的交通拥堵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gridlock",
+            "jam",
+            "snarl-up",
+            "bottleneck"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clearance",
+            "flow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[nasal/chest/lung] congestion | congestion of the [body part]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"An excessive accumulation of blood or other bodily fluid in a body part, or an obstruction of a passage, especially in the respiratory system.",
+      "DEF_ZH":"(医学) 充血；(鼻腔、胸部等) 阻塞，淤塞。",
+      "SENT_EN":"She used a nasal spray to relieve her severe congestion.",
+      "SENT_ZH":"她使用鼻喷雾来缓解她严重的鼻塞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stuffiness",
+            "blockage",
+            "obstruction",
+            "fluid buildup"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"congestion of [people/data/things]",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "common",
+        "general"
+      ],
+      "DEF_EN":"The state of being excessively full or blocked; an accumulation of too many things or people in one place.",
+      "DEF_ZH":"拥挤；堆积；积压 (通常指人、数据或物件过多)。",
+      "SENT_EN":"Poor infrastructure often leads to urban congestion and inefficient services.",
+      "SENT_ZH":"糟糕的基础设施常常导致城市拥挤和低效的服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overcrowding",
+            "overload",
+            "clutter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and medical contexts."
+}

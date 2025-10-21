@@ -1,0 +1,93 @@
+{
+  "WORD":"bleach",
+  "IPA":"/bliːtʃ/",
+  "CONJUGATES":"bleaches | bleached | bleaching",
+  "ETYMOLOGY":"From Old English blæcan 'to whiten', from Proto-Germanic *blaikan (source also of Old Norse bleikja 'to bleach', Old High German bleihhen 'to bleach'). Related to pale.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"bleach [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common",
+        "process"
+      ],
+      "DEF_EN":"To make something white or lighter in color, typically by chemical action or by exposure to sunlight.",
+      "DEF_ZH":"使某物变白或颜色变浅，通常通过化学作用或阳光照射。",
+      "SENT_EN":"The strong sunlight had bleached the old photographs.",
+      "SENT_ZH":"强烈的阳光使这些旧照片褪色变浅了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whiten",
+            "lighten",
+            "decolorize",
+            "fade"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "darken",
+            "dye",
+            "stain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bleach [sth] out (of [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common",
+        "cleaning"
+      ],
+      "DEF_EN":"To remove color or stains from something.",
+      "DEF_ZH":"从某物中去除颜色或污渍。",
+      "SENT_EN":"She tried to bleach the coffee stain out of her white shirt.",
+      "SENT_ZH":"她试图用漂白剂去除白衬衫上的咖啡渍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remove",
+            "cleanse",
+            "purify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(a) bleach | some bleach",
+      "POS":"n.",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "substance",
+        "chemical"
+      ],
+      "DEF_EN":"A chemical substance used for whitening or cleaning materials, or for killing germs.",
+      "DEF_ZH":"一种用于增白、清洁材料或杀灭细菌的化学物质。",
+      "SENT_EN":"Always dilute bleach with water before using it for cleaning.",
+      "SENT_ZH":"在使用漂白剂清洁前，务必先用水稀释。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chlorine",
+            "hypochlorite",
+            "peroxide",
+            "detergent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Everyday language, particularly in contexts of household chores, laundry, cleaning, and chemical processes."
+}

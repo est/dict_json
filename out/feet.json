@@ -1,0 +1,107 @@
+{
+  "WORD":"FOOT",
+  "IPA":"/fʊt/",
+  "CONJUGATES":"feet (plural) | footing (present participle/noun) | footed (past tense/adjective)",
+  "ETYMOLOGY":"From Old English fōt, from Proto-Germanic *fōts, ultimately from Proto-Indo-European *póds, meaning 'foot'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s foot",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "anatomy"
+      ],
+      "DEF_EN":"The lower extremity of the leg, below the ankle, on which a person or animal stands or moves.",
+      "DEF_ZH":"脚；足。位于腿部下端，踝关节以下，用于站立或行走。",
+      "SENT_EN":"My feet hurt after standing for twelve hours.",
+      "SENT_ZH":"我站了十二个小时后，我的脚很痛。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ankle",
+            "toe",
+            "sole"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "paw",
+            "hoof"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[number] foot | [number] feet",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "measurement",
+        "standard"
+      ],
+      "DEF_EN":"A unit of linear measure equal to 12 inches (0.3048 meters), used for expressing height, depth, or length.",
+      "DEF_ZH":"英尺 (计量单位，等于12英寸或0.3048米)。",
+      "SENT_EN":"The room is ten feet wide and fifteen feet long.",
+      "SENT_ZH":"这个房间有十英尺宽，十五英尺长。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inch",
+            "yard",
+            "meter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the foot of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (singular)",
+      "TAGS":[
+        "metaphor",
+        "common"
+      ],
+      "DEF_EN":"The lowest part or base of something, such as a mountain or a bed.",
+      "DEF_ZH":"底部；末端；（山或建筑物的）脚下。",
+      "SENT_EN":"We hiked to the foot of the waterfall.",
+      "SENT_ZH":"我们徒步走到了瀑布脚下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "base",
+            "bottom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"foot the bill",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To pay the cost of something, especially a large expense or a bill.",
+      "DEF_ZH":"承担费用；支付账单。",
+      "SENT_EN":"Since he invited everyone, he had to foot the entire bill.",
+      "SENT_ZH":"因为是他邀请了所有人，所以他不得不承担全部的账单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pay",
+            "cover"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general use"
+}

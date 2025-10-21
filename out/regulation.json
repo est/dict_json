@@ -1,0 +1,93 @@
+{
+  "WORD":"regulation",
+  "IPA":"/ˌrɛɡjəˈleɪʃən/",
+  "CONJUGATES":"regulations (plural) | regulate (verb base)",
+  "ETYMOLOGY":"From Latin regula ('rule, straight edge') via the verb regulare (to regulate), resulting in Medieval Latin regulatio.",
+  "SINCE":"Late 16th century (c. 1590s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"regulation [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "abstract"
+      ],
+      "DEF_EN":"The act or process of controlling something or someone by means of rules, laws, or authorized supervision.",
+      "DEF_ZH":"规范；管理；调控（指行为或过程）。",
+      "SENT_EN":"The current debate centers on whether stricter government regulation of tech companies is needed.",
+      "SENT_ZH":"目前的争论焦点在于是否需要对科技公司进行更严格的政府监管。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "control",
+            "governance",
+            "supervision",
+            "management"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deregulation",
+            "anarchy",
+            "laissez-faire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"regulation (plural: regulations)",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "legal",
+        "business"
+      ],
+      "DEF_EN":"A specific rule, directive, or order made and maintained by an authority (such as a government or corporation).",
+      "DEF_ZH":"规章；条例；制度；规定。",
+      "SENT_EN":"We need to update our internal security regulations to comply with the new law.",
+      "SENT_ZH":"我们需要更新内部安全规定，以遵守新法律。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rule",
+            "ordinance",
+            "statute",
+            "byelaw",
+            "protocol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"regulation [of a mechanism/system]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "technical",
+        "biology",
+        "engineering"
+      ],
+      "DEF_EN":"The adjustment or automatic maintenance of a mechanism, system, or organism to a desired standard or standard level.",
+      "DEF_ZH":"调整；校准；（生物学）调节作用；恒定。",
+      "SENT_EN":"Biological research often focuses on the genetic regulation of protein production.",
+      "SENT_ZH":"生物学研究通常侧重于蛋白质生产的基因调控。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "homeostasis",
+            "feedback",
+            "calibration"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, legal, business, technical"
+}

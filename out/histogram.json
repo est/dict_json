@@ -1,0 +1,41 @@
+{
+  "WORD":"histogram",
+  "IPA":"/ˈhɪstəɡræm/",
+  "CONJUGATES":"histograms (pl.)",
+  "ETYMOLOGY":"Coined by Karl Pearson in 1891. From Greek histos (column, mast, or web) + -gramma (something written, drawing, or record).",
+  "SINCE":"c. 1891",
+  "MEANINGS":[
+    {
+      "PATTERN":"histogram [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "statistics"
+      ],
+      "DEF_EN":"A graphical representation of the distribution of numerical data, using rectangular bars (bins) where the height of the bar corresponds to the frequency of data within that interval.",
+      "DEF_ZH":"一种用于显示数值数据分布的图表，使用矩形条（组距），条的高度对应于该数值范围内的频率或计数。",
+      "SENT_EN":"The data scientist used a histogram to quickly identify the skewness in the response times.",
+      "SENT_ZH":"数据科学家使用直方图来快速识别响应时间中的偏度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frequency distribution graph"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bar chart",
+            "frequency polygon",
+            "box plot",
+            "density plot"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Statistical, Technical"
+}

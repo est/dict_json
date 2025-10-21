@@ -1,0 +1,110 @@
+{
+  "WORD":"STRIKE",
+  "IPA":"/straɪk/",
+  "CONJUGATES":"strike | striking | struck | stricken",
+  "ETYMOLOGY":"From Old English strican ('to stroke, rub, move quickly'). The sense of 'to hit' developed later, likely influenced by Old Norse strikja.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"strike [sth] | strike [sb]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To hit someone or something forcefully or deliberately.",
+      "DEF_ZH":"（尤指用力地）击打；撞击；攻击。",
+      "SENT_EN":"The clock just struck noon.",
+      "SENT_ZH":"时钟刚刚敲响了正午十二点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hit",
+            "smash",
+            "punch",
+            "impact"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strike [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "literary",
+        "affliction"
+      ],
+      "DEF_EN":"To cause a person or place to suffer severely from the effects of a disease, disaster, or emotional distress. (Often used passively, e.g., 'stricken by grief').",
+      "DEF_ZH":"使遭受重创；使受折磨；使患病（常用于过去分词 'stricken'）。",
+      "SENT_EN":"The entire region was struck by famine.",
+      "SENT_ZH":"整个地区遭受了饥荒的侵袭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "afflict",
+            "smite",
+            "devastate",
+            "overwhelm"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "stricken"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strike [sb] (that...)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"To come into the mind of someone suddenly or unexpectedly; to occur to someone.",
+      "DEF_ZH":"突然想到；猛地意识到；给（某人）留下印象。",
+      "SENT_EN":"A terrible thought suddenly struck her: she had left her passport at home.",
+      "SENT_ZH":"一个可怕的念头突然击中了她：她把护照落在家里了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "occur",
+            "dawn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"strike (for/against [sth])",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "labor"
+      ],
+      "DEF_EN":"To refuse to work as a form of organized protest, typically to obtain better working conditions or pay.",
+      "DEF_ZH":"罢工；停工。",
+      "SENT_EN":"Union workers went on strike for three days demanding higher pay.",
+      "SENT_ZH":"工会工人罢工三天，要求提高工资。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "walk out",
+            "protest"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often formal when referring to affliction or realization."
+}

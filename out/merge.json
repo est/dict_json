@@ -1,0 +1,113 @@
+{
+  "WORD":"merge",
+  "IPA":"/mɜːrdʒ/",
+  "CONJUGATES":"merges | merging | merged",
+  "ETYMOLOGY":"From Latin mergere 'to dip, plunge, sink, immerse' (Late 16th century), evolving into the sense of 'cause to be swallowed up' and later 'to combine'",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"merge [A] and [B] | merge [A] with [B] | merge [into sth]",
+      "POS":"vtr | vitr",
+      "POS_TIP":"verb transitive | verb intransitive",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"To combine, unite, or blend two or more things into a single entity or whole.",
+      "DEF_ZH":"（使）合并；结合；融合；归并。",
+      "SENT_EN":"The two departments decided to merge their budgets for the next fiscal year.",
+      "SENT_ZH":"这两个部门决定合并下一财年的预算。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "combine",
+            "unite",
+            "consolidate",
+            "integrate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "divide",
+            "split",
+            "dissolve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"merge [onto sth] | merge [with sth]",
+      "POS":"vitr",
+      "POS_TIP":"verb intransitive",
+      "TAGS":[
+        "common",
+        "traffic"
+      ],
+      "DEF_EN":"(Of vehicles or lanes of traffic) to move together and join a larger, continuous stream of traffic.",
+      "DEF_ZH":"（车流、车道）汇合；汇入主车道。",
+      "SENT_EN":"Be careful when you merge onto the freeway during rush hour.",
+      "SENT_ZH":"在高峰时段汇入高速公路时要小心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "converge",
+            "join",
+            "flow together"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"merge [data/code/files]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To combine two or more electronic documents, sets of data, or code branches into a single file or version.",
+      "DEF_ZH":"（计算机）将（数据、文件或代码）合并；整合。",
+      "SENT_EN":"The programmer had trouble merging the new feature branch into the main code base.",
+      "SENT_ZH":"程序员在将新功能分支合并到主代码库时遇到了麻烦。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "commit",
+            "compile",
+            "sync"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"merge [sth] (into sth)",
+      "POS":"vtr | vitr",
+      "POS_TIP":"verb transitive | verb intransitive",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"To plunge, submerge, or cause to sink into a liquid or other element (the original meaning).",
+      "DEF_ZH":"使沉入；浸入；陷入（现多用 submerge 或 plunge）。",
+      "SENT_EN":"The ship seemed to merge into the fog and disappear.",
+      "SENT_ZH":"那艘船似乎沉入了雾中，消失不见了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "plunge",
+            "submerge",
+            "immerse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal | informal | technical"
+}

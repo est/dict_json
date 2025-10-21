@@ -1,0 +1,72 @@
+{
+  "WORD":"distill",
+  "IPA":"/dɪˈstɪl/",
+  "CONJUGATES":"distills | distilling | distilled",
+  "ETYMOLOGY":"From Middle English *distillen*, derived from Old French *destiller*, ultimately from Latin *destillare* (de- 'down' + *stillare* 'to drip, fall in drops').",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"distill [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (takes a direct object)",
+      "TAGS":[
+        "Science",
+        "Chemistry",
+        "Core"
+      ],
+      "DEF_EN":"To purify a liquid or separate its components by heating it to vaporization and then cooling and condensing the vapor.",
+      "DEF_ZH":"通过加热使液体蒸发，然后冷却并冷凝蒸气来提纯液体或分离其组分。",
+      "SENT_EN":"The process is used to distill alcohol and create high-proof spirits.",
+      "SENT_ZH":"该过程用于蒸馏酒精并制造高度烈酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "purify",
+            "refine",
+            "rectify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "distillation",
+            "still"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"distill [sth] into [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (takes a direct object)",
+      "TAGS":[
+        "Figurative",
+        "Common"
+      ],
+      "DEF_EN":"To extract the essential meaning or most important elements from a large amount of information or a complex concept.",
+      "DEF_ZH":"从大量信息或复杂概念中提取其最关键的含义或要素；提炼。",
+      "SENT_EN":"She tried to distill the meeting notes into a brief summary for the CEO.",
+      "SENT_ZH":"她试图将会议记录提炼成一份简短的摘要给首席执行官。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "summarize",
+            "condense",
+            "abstract",
+            "extract"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "elaborate",
+            "expand"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

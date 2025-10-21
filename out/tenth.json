@@ -1,0 +1,67 @@
+{
+  "WORD":"tenth",
+  "IPA":"/ˈtɛnθ/",
+  "CONJUGATES":"tenth (adj., n.) | one tenth (fraction) | tenthly (adv.) | ten (cardinal)",
+  "ETYMOLOGY":"From Middle English tenthe, from Old English tēotha (earlier tīenþa), equivalent to ten + -th (ordinal suffix).",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] tenth [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Coming after the ninth in order or rank; 10th.",
+      "DEF_ZH":"按顺序排列在第九个之后的；第十的。",
+      "SENT_EN":"It was the tenth time they had played that song.",
+      "SENT_ZH":"那是他们第十次演奏那首歌了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ordinal",
+            "numerical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the tenth [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"The person, thing, or position that is tenth in a sequence.",
+      "DEF_ZH":"序列中的第十个事物、人或位置。",
+      "SENT_EN":"She was the tenth to cross the finish line.",
+      "SENT_ZH":"她是第十个冲过终点线的人。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a tenth | one tenth [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"One of ten equal parts into which something is divided; the fraction 1/10.",
+      "DEF_ZH":"十分之一；某物被分成十等份中的一份。",
+      "SENT_EN":"They decided to donate a tenth of their annual income to charity.",
+      "SENT_ZH":"他们决定将年收入的十分之一捐给慈善机构。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fraction",
+            "percentage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

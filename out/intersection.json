@@ -1,0 +1,107 @@
+{
+  "WORD":"intersection",
+  "IPA":"/ˌɪntərˈsɛkʃən/",
+  "CONJUGATES":"intersections",
+  "ETYMOLOGY":"From Latin inter- ('between') + sectiō ('a cutting'), from secāre ('to cut'). Literally 'a cutting between'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] intersection [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun, a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common",
+        "geometry",
+        "mathematics"
+      ],
+      "DEF_EN":"A point, line, or area where two or more things (especially geometric figures, surfaces, or lines) meet or cross.",
+      "DEF_ZH":"两件或多件事物（尤其是几何图形、表面或线条）相遇或交叉的点、线或区域。",
+      "SENT_EN":"The intersection of the two planes forms a straight line.",
+      "SENT_ZH":"两个平面的交线形成一条直线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "junction",
+            "crossing",
+            "point of contact"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] intersection",
+      "POS":"noun",
+      "POS_TIP":"Noun, a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A place where two or more roads, streets, or paths meet or cross.",
+      "DEF_ZH":"两条或多条道路、街道或小径相遇或交叉的地方，通常指十字路口。",
+      "SENT_EN":"Turn right at the next intersection.",
+      "SENT_ZH":"在下一个十字路口右转。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crossroads",
+            "junction",
+            "crossing",
+            "T-junction",
+            "roundabout"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the intersection of [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun, a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The act or process of intersecting or of being intersected.",
+      "DEF_ZH":"相交或被相交的行为或过程。",
+      "SENT_EN":"The intersection of different cultures often leads to new ideas and perspectives.",
+      "SENT_ZH":"不同文化的交汇常常带来新的思想和视角。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crossing",
+            "meeting",
+            "convergence",
+            "overlap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the intersection of [set A] and [set B]",
+      "POS":"noun",
+      "POS_TIP":"Noun, a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "mathematics",
+        "set theory"
+      ],
+      "DEF_EN":"In set theory, the set of all elements that are common to two or more sets.",
+      "DEF_ZH":"在集合论中，两个或多个集合共有的所有元素组成的集合。",
+      "SENT_EN":"The intersection of set A and set B is denoted as A ∩ B.",
+      "SENT_ZH":"集合A和集合B的交集表示为A ∩ B。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "union",
+            "set theory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, and common in academic or technical contexts, especially mathematics and urban planning."
+}

@@ -1,0 +1,80 @@
+{
+  "WORD":"excursion",
+  "IPA":"/ɪkˈskɜːrʒən/",
+  "CONJUGATES":"excursions",
+  "ETYMOLOGY":"From Latin excursio 'a running out, a sally, an expedition', from excurrere 'to run out, go forth', from ex- 'out' + currere 'to run'.",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"excursion",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A short journey or trip, especially one taken as a leisure activity or for pleasure.",
+      "DEF_ZH":"短途旅行，尤指为休闲或娱乐而进行的旅行或游览。",
+      "SENT_EN":"They went on an excursion to the mountains for the weekend.",
+      "SENT_ZH":"他们周末去山区进行了一次短途旅行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trip",
+            "outing",
+            "jaunt",
+            "journey",
+            "expedition",
+            "tour"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "day trip",
+            "field trip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an excursion into [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"A deviation from a regular course, path, or topic; a digression.",
+      "DEF_ZH":"偏离常规路线、路径或主题；离题；插话。",
+      "SENT_EN":"His speech included a brief excursion into ancient philosophy.",
+      "SENT_ZH":"他的演讲中穿插了一段对古希腊哲学的简短论述。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "digression",
+            "deviation",
+            "detour"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"excursion",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "specialized"
+      ],
+      "DEF_EN":"A rapid and often uncontrolled increase in the power level of a nuclear reactor.",
+      "DEF_ZH":"（核反应堆）功率的快速、失控增加。",
+      "SENT_EN":"The reactor experienced a power excursion, leading to an emergency shutdown.",
+      "SENT_ZH":"反应堆发生了一次功率瞬变，导致紧急停机。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, with specialized uses in physics/engineering."
+}

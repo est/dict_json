@@ -1,0 +1,68 @@
+{
+  "WORD":"P.M.",
+  "IPA":"/ˌpiː ˈem/",
+  "CONJUGATES":"p.m. | PM | PMs",
+  "ETYMOLOGY":"Acronym for Latin *post meridiem* ('after noon') or English *Prime Minister*.",
+  "SINCE":"Circa 17th Century (for time notation); Circa Mid-20th Century (for political title).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[time] P.M.",
+      "POS":"abbr.",
+      "POS_TIP":"Abbreviation (used in lower or upper case)",
+      "TAGS":[
+        "core word",
+        "time reference",
+        "Latin origin"
+      ],
+      "DEF_EN":"Used after a time written in figures to indicate the period from 12 o'clock noon until 12 o'clock midnight (Post Meridiem).",
+      "DEF_ZH":"下午；用于表示从中午12:00到午夜12:00的时间段（拉丁语：午后）。",
+      "SENT_EN":"The concert begins promptly at 8:00 P.M.",
+      "SENT_ZH":"音乐会于晚上八点准时开始。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "A.M."
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "noon",
+            "midnight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the P.M. | P.M. [of country]",
+      "POS":"n.",
+      "POS_TIP":"Noun (abbreviation)",
+      "TAGS":[
+        "political",
+        "common"
+      ],
+      "DEF_EN":"The abbreviation for Prime Minister, the head of government in many countries with a parliamentary system.",
+      "DEF_ZH":"总理；首相；议会制国家中的政府首脑（Prime Minister的缩写）。",
+      "SENT_EN":"The P.M. called a press conference to announce the new legislation.",
+      "SENT_ZH":"总理召开了新闻发布会，宣布了新的立法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "Premier",
+            "Chancellor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "President",
+            "Cabinet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used formally in time notation and journalism/political contexts."
+}

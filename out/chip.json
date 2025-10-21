@@ -1,0 +1,172 @@
+{
+  "WORD":"chip",
+  "IPA":"/tʃɪp/",
+  "CONJUGATES":"chipping | chipped | chips",
+  "ETYMOLOGY":"From Middle English *chippe*, probably related to Old English *cipp* 'piece of wood', likely of imitative origin suggesting a sharp breaking sound.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] chip [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small piece of material that has broken off or been cut from a larger object, often resulting in a flaw or defect.",
+      "DEF_ZH":"（从较大物体上剥落或切下的）碎屑，碎片；缺口。",
+      "SENT_EN":"There is a visible chip in the corner of the wooden table.",
+      "SENT_ZH":"木桌的角上有一个明显的缺口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fragment",
+            "shard",
+            "splinter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] microchip / computer chip",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "technology",
+        "modern"
+      ],
+      "DEF_EN":"A tiny slice of semiconductor material (usually silicon) that contains an integrated circuit, used as the essential component of modern electronic devices.",
+      "DEF_ZH":"（电子）芯片，集成电路块。",
+      "SENT_EN":"The global economy is currently suffering from a severe chip shortage.",
+      "SENT_ZH":"全球经济目前正遭受着严重的芯片短缺危机。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "microchip",
+            "CPU",
+            "semiconductor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chip [sth] off | chip [sth] away",
+      "POS":"v. tr. / intr.",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To break a small piece off something, or to be broken off in this manner.",
+      "DEF_ZH":"削下，凿下；使形成缺口。",
+      "SENT_EN":"He accidentally chipped the marble statue while moving it.",
+      "SENT_ZH":"他搬运大理石雕像时，不小心碰掉了一块。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flake",
+            "fracture",
+            "nick"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] chip (US/Canada usage)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "food",
+        "American English",
+        "common"
+      ],
+      "DEF_EN":"A very thin slice of potato or other vegetable fried until crisp; often flavored and sold in bags (UK equivalent: crisp).",
+      "DEF_ZH":"（美）薯片（薄片状的油炸土豆或其他蔬菜，英式英语称 crisp）。",
+      "SENT_EN":"Do you prefer salt and vinegar chips or cheese and onion?",
+      "SENT_ZH":"你喜欢盐醋薯片还是奶酪洋葱薯片？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "crisps",
+            "snack",
+            "fries"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chips (UK/Commonwealth usage)",
+      "POS":"n. pl.",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "food",
+        "British English",
+        "common"
+      ],
+      "DEF_EN":"Long, thick pieces of potato fried in oil (US equivalent: french fries).",
+      "DEF_ZH":"（英）炸薯条（粗条状的油炸土豆，美式英语称 french fries）。",
+      "SENT_EN":"The best meal at the pub is still fish and chips.",
+      "SENT_ZH":"这家酒吧最好的餐点仍然是炸鱼和薯条。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "french fries",
+            "potato"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] chip (gaming)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific context",
+        "gaming"
+      ],
+      "DEF_EN":"A small counter used in casino games (such as poker) to represent money.",
+      "DEF_ZH":"筹码（在赌博中代表金钱的小圆片）。",
+      "SENT_EN":"The gambler pushed all his remaining chips forward, going all-in.",
+      "SENT_ZH":"那位赌徒把所有剩余的筹码都向前推去，全押了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "token",
+            "counter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chip in",
+      "POS":"v. intr.",
+      "POS_TIP":"phrasal verb (intransitive)",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To contribute money or help to a shared purpose; also, to interrupt a conversation to say something.",
+      "DEF_ZH":"凑钱，捐助；插嘴。",
+      "SENT_EN":"If we all chip in $20, we can buy her a nice gift.",
+      "SENT_ZH":"如果我们每人都凑20美元，我们就能给她买一份不错的礼物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contribute",
+            "interject",
+            "donate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Wide range (General, Technical, Regional)"
+}

@@ -1,0 +1,100 @@
+{
+  "WORD":"terminate",
+  "IPA":"/ˈtɜːrmɪneɪt/",
+  "CONJUGATES":"terminates | terminating | terminated",
+  "ETYMOLOGY":"From Latin terminātus, past participle of termināre 'to limit, end', from terminus 'end, boundary'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"terminate [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "general"
+      ],
+      "DEF_EN":"To bring something or someone to an end; to stop.",
+      "DEF_ZH":"使某事或某人结束；终止。",
+      "SENT_EN":"The company decided to terminate his contract due to poor performance.",
+      "SENT_ZH":"公司决定因其表现不佳而终止他的合同。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "end",
+            "stop",
+            "conclude",
+            "cease",
+            "finish",
+            "halt",
+            "discontinue"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "begin",
+            "start",
+            "initiate",
+            "commence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"terminate",
+      "POS":"vi",
+      "POS_TIP":"vi: intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "general"
+      ],
+      "DEF_EN":"(Of something) to come to an end.",
+      "DEF_ZH":"(某事物) 终结；到期。",
+      "SENT_EN":"The railway line terminates at the coast, connecting the city to the sea.",
+      "SENT_ZH":"这条铁路线在海岸处终止，将城市与大海连接起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "end",
+            "stop",
+            "conclude",
+            "finish",
+            "cease"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"terminate [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb (requires a direct object)",
+      "TAGS":[
+        "euphemistic",
+        "formal",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To kill a person or animal, often used euphemistically or in a technical context (e.g., pests, processes).",
+      "DEF_ZH":"杀死某人或某动物，常作委婉语或技术语使用 (例如，害虫、程序)。",
+      "SENT_EN":"The pest control team was deployed to terminate the insect infestation.",
+      "SENT_ZH":"病虫害防治小组被派去消灭虫害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kill",
+            "execute",
+            "eradicate",
+            "destroy",
+            "eliminate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Mainly formal, used in business, legal, technical, and official contexts."
+}

@@ -1,0 +1,82 @@
+{
+  "WORD":"legacy",
+  "IPA":"/ˈlɛɡəsi/",
+  "CONJUGATES":"legacies",
+  "ETYMOLOGY":"From Medieval Latin legatia (referring to the office of a legate, envoy), and Old French legacie, influenced by Latin legare ('to send as an envoy, bequeath'). The sense of 'bequest' developed in Middle English.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] [from sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Something transmitted by or received from a predecessor or from the past, often referring to an enduring impact, tradition, or reputation.",
+      "DEF_ZH":"遗产；遗留物；（历史）影响；声望",
+      "SENT_EN":"The current administration has tried to protect the environmental legacy of the previous president.",
+      "SENT_ZH":"本届政府试图保护前任总统遗留下来的环境遗产。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heritage",
+            "tradition",
+            "impact",
+            "footprint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [financial/legal]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "legal",
+        "financial"
+      ],
+      "DEF_EN":"A gift of money or property left to someone in a will; a bequest.",
+      "DEF_ZH":"遗赠；遗产（通过遗嘱留下的金钱或财产）",
+      "SENT_EN":"The museum received a generous legacy that will fund new exhibitions.",
+      "SENT_ZH":"博物馆收到了一笔慷慨的遗赠，将用于资助新的展览。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bequest",
+            "inheritance",
+            "endowment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [legacy system/software]",
+      "POS":"n. [used attributively]",
+      "POS_TIP":"noun (used as an adjective before another noun, describing the state of the following word)",
+      "TAGS":[
+        "technical",
+        "computing",
+        "business"
+      ],
+      "DEF_EN":"Relating to or designating old or outdated computer hardware or software that is still in use and may be difficult to maintain or integrate with modern systems.",
+      "DEF_ZH":"遗留的；过时的（指仍在运行的旧计算机系统或软件）",
+      "SENT_EN":"The company decided to replace the legacy accounting software with a cloud-based solution.",
+      "SENT_ZH":"该公司决定用基于云的解决方案替换掉遗留的会计软件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obsolete",
+            "outdated"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, ranging from formal/legal contexts to common figurative language and technical fields."
+}

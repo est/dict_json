@@ -1,0 +1,126 @@
+{
+  "WORD":"will",
+  "IPA":"/wɪl/",
+  "CONJUGATES":"wills | willed | willing | (past modal: would)",
+  "ETYMOLOGY":"From Old English willan (auxiliary verb, 'to wish, desire, intend') and will (noun, 'desire, power of choice'). Ultimately from Proto-Germanic *wiljanan.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] will [v] (future action)",
+      "POS":"modal aux. v.",
+      "POS_TIP":"modal auxiliary verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to express the future tense or future action; predicting an event that is certain or likely to happen.",
+      "DEF_ZH":"用于表示将来的时间或行动；预测必然或可能发生的事件。",
+      "SENT_EN":"The concert will start at eight o'clock.",
+      "SENT_ZH":"音乐会将在八点开始。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sb] will [v] (willingness)",
+      "POS":"modal aux. v.",
+      "POS_TIP":"modal auxiliary verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to express willingness, intention, consent, or a promise.",
+      "DEF_ZH":"用于表达意愿、打算、同意或承诺。",
+      "SENT_EN":"I will do everything I can to help you.",
+      "SENT_ZH":"我会尽我所能来帮助你。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "willing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] will [v] (habit)",
+      "POS":"modal aux. v.",
+      "POS_TIP":"modal auxiliary verb",
+      "TAGS":[
+        "common",
+        "characteristic"
+      ],
+      "DEF_EN":"Used to express persistent or characteristic behavior, often implying annoyance or predictability.",
+      "DEF_ZH":"用于表达持续的或习惯性的行为，通常带有不耐烦或可预测的意味。",
+      "SENT_EN":"He will sit there for hours and just stare out the window.",
+      "SENT_ZH":"他会坐在那里几个小时，只是盯着窗外看。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sth]'s will / free will",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "abstract"
+      ],
+      "DEF_EN":"The faculty by which a person decides on and initiates actions; determination, resolve, or power of choice.",
+      "DEF_ZH":"一个人决定和发起行动的能力；意志力、决心或选择的权利。",
+      "SENT_EN":"It took an immense act of will for her to finish the marathon.",
+      "SENT_ZH":"她需要极大的意志力才能完成这场马拉松。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "determination",
+            "resolve",
+            "volition",
+            "wish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make a will / contest a will",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "core word"
+      ],
+      "DEF_EN":"A legal declaration of a person's wishes regarding the distribution of their property after death; a testament.",
+      "DEF_ZH":"一个人关于其死后财产分配意愿的法律声明；遗嘱。",
+      "SENT_EN":"His lawyer advised him to make a will as soon as possible.",
+      "SENT_ZH":"他的律师建议他尽快立一份遗嘱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "testament"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"will [sth] to [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To intend, determine, or desire (often used formally or religiously); or, to officially bequeath (property) via a will.",
+      "DEF_ZH":"意愿、决定或期望（正式或宗教用法）；或通过遗嘱正式遗赠（财产）。",
+      "SENT_EN":"He willed his entire stamp collection to his nephew.",
+      "SENT_ZH":"他将他全部的邮票收藏遗赠给了他的侄子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bequeath",
+            "desire"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Formal (especially in grammatical, legal, and theological contexts)."
+}

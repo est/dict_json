@@ -1,0 +1,120 @@
+{
+  "WORD":"CUSTOM",
+  "IPA":"/ˈkʌstəm/",
+  "CONJUGATES":"custom (singular noun) | customs (plural noun) | customed (adjective, rare) | custom-made (adjective)",
+  "ETYMOLOGY":"From Old French costume, custume, from Vulgar Latin *consuetumen, derived from Latin consuētūdinem (accusative of consuētūdō 'habit, usage').",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] custom [of sth]",
+      "POS":"noun",
+      "POS_TIP":"countable noun, referring to habit or tradition",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A traditional and widely accepted way of behaving or doing something specific to a particular society, place, or time; a habit.",
+      "DEF_ZH":"习俗；惯例；风俗；习惯。",
+      "SENT_EN":"It is a long-standing custom in Japan to remove one's shoes before entering a home.",
+      "SENT_ZH":"在日本，进屋前脱鞋是一个由来已久的习俗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tradition",
+            "convention",
+            "practice",
+            "ritual"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "anomaly",
+            "deviation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"customs",
+      "POS":"noun",
+      "POS_TIP":"always plural, referring to government agency or procedure",
+      "TAGS":[
+        "common",
+        "government",
+        "trade"
+      ],
+      "DEF_EN":"The official department that administers and collects the duties, tariffs, and excise taxes imposed on imported and exported goods, and controls the flow of goods and people across borders.",
+      "DEF_ZH":"海关；关税机构。",
+      "SENT_EN":"We had to wait for an hour to clear customs at the airport.",
+      "SENT_ZH":"我们在机场不得不等了一个小时才通过海关。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "border control",
+            "port authority"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "duty",
+            "tariff",
+            "immigration",
+            "smuggling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"customs",
+      "POS":"noun",
+      "POS_TIP":"plural, referring to tax payment",
+      "TAGS":[
+        "finance",
+        "legal",
+        "specialized"
+      ],
+      "DEF_EN":"The duties or taxes levied by a government on imported or exported items (e.g., 'customs charges').",
+      "DEF_ZH":"关税；货物税。",
+      "SENT_EN":"The customs on luxury goods in the country are exceedingly high.",
+      "SENT_ZH":"该国对奢侈品的关税非常高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "duties",
+            "tariffs",
+            "excise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"custom [sth]",
+      "POS":"adjective",
+      "POS_TIP":"attributive adjective, placed before the noun",
+      "TAGS":[
+        "common",
+        "manufacturing"
+      ],
+      "DEF_EN":"Made or performed according to a specific, individual order; specially built or tailored.",
+      "DEF_ZH":"定做的；定制的。",
+      "SENT_EN":"He drives a custom sports car with unique interior specifications.",
+      "SENT_ZH":"他开着一辆内饰规格独特的定制跑车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bespoke",
+            "tailored",
+            "made-to-order"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies by meaning, from General Usage (tradition) to Trade/Government (customs agency)."
+}

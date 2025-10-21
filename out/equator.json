@@ -1,0 +1,50 @@
+{
+  "WORD":"equator",
+  "IPA":"/ɪˈkweɪtər/",
+  "CONJUGATES":"equators",
+  "ETYMOLOGY":"From Latin aequator ('equalizer'), derived from aequare ('to make equal'). Originally used in Medieval Latin as 'circulus aequator diei et noctis' (circle equalizing day and night).",
+  "SINCE":"Mid-16th Century (Geographical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[The ~]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Geography",
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"An imaginary great circle around the Earth, equally distant from both the North and South Poles, dividing the Earth into the Northern and Southern Hemispheres.",
+      "DEF_ZH":"地球上的假想大圆，与南北两极距离相等，将地球分为北半球和南半球。 (即赤道)",
+      "SENT_EN":"The country lies just south of the equator, experiencing a tropical climate year-round.",
+      "SENT_ZH":"该国位于赤道以南，全年气候为热带。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Tropic of Cancer",
+            "Tropic of Capricorn",
+            "Hemisphere",
+            "Latitude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[~ of a sphere/celestial body]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Astronomy",
+        "Geometry",
+        "Technical"
+      ],
+      "DEF_EN":"The great circle of any sphere or celestial body perpendicular to its axis of rotation.",
+      "DEF_ZH":"任何球体或天体上垂直于其自转轴的大圆。",
+      "SENT_EN":"The equatorial bulge is the difference between the equatorial and polar diameters of a planet.",
+      "SENT_ZH":"赤道隆起是行星赤道直径和极地直径之间的差异。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General Knowledge"
+}

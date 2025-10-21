@@ -1,0 +1,107 @@
+{
+  "WORD":"type",
+  "IPA":"/taɪp/",
+  "CONJUGATES":"n: types | v: types | typed | typing",
+  "ETYMOLOGY":"From Old French 'type' (c. 1300), from Latin 'typus' ('figure, image, form, kind, character'), from Greek 'typos' ('a blow, a mark or impression of a blow, stamp, die, figure, pattern, model, character, sort'), related to 'typtein' ('to strike, beat').",
+  "SINCE":"Late Middle English",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] type [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A category of people or things sharing common characteristics; a kind or sort.",
+      "DEF_ZH":"具有共同特征的人或事物的类别；一种，一类。",
+      "SENT_EN":"What type of music do you usually listen to?",
+      "SENT_ZH":"你通常听什么类型的音乐？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kind",
+            "sort",
+            "category",
+            "class",
+            "genre",
+            "form"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"type [sth] | type [on sth]",
+      "POS":"v",
+      "POS_TIP":"verb: a word that describes an action, state, or occurrence",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To write or produce (text) using a keyboard or typewriter.",
+      "DEF_ZH":"使用键盘或打字机书写或制作（文本）。",
+      "SENT_EN":"She typed the whole report in less than an hour.",
+      "SENT_ZH":"她不到一小时就打完了整个报告。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "keyboard",
+            "typist",
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] type [of sb/sth]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A person or thing that is a characteristic example or model of a particular group or class.",
+      "DEF_ZH":"作为特定群体或类别特征性范例或模型的人或事物；典型。",
+      "SENT_EN":"He's not the type to give up easily.",
+      "SENT_ZH":"他不是那种轻易放弃的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "model",
+            "prototype",
+            "archetype",
+            "exemplar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"type",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "technical",
+        "printing",
+        "historical"
+      ],
+      "DEF_EN":"A block or piece of metal with a raised character on its upper surface, used in letterpress printing.",
+      "DEF_ZH":"活字印刷中用于压印字符的带有凸起字符的金属块或金属片。",
+      "SENT_EN":"The printer carefully selected the lead type for the headline.",
+      "SENT_ZH":"印刷工小心地选择了标题用的铅字。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "typography",
+            "font",
+            "letterpress",
+            "typeface"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

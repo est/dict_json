@@ -1,0 +1,138 @@
+{
+  "WORD":"void",
+  "IPA":"/vɔɪd/",
+  "CONJUGATES":"voids (n. pl.) | voids (v. pres. 3rd sg.) | voiding (v. pres. part.) | voided (v. past)",
+  "ETYMOLOGY":"Middle English, from Anglo-Norman voide, from Latin vacīvus 'empty', related to vacuus.",
+  "SINCE":"c. 1250 (13th Century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] void",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"A completely empty space; a vacuum or absence of matter or life.",
+      "DEF_ZH":"完全空旷的空间；真空或缺乏物质、生命的空间。",
+      "SENT_EN":"The spacecraft drifted in the cold, dark void of outer space.",
+      "SENT_ZH":"宇宙飞船在外太空冰冷、黑暗的虚空中漂流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vacuum",
+            "chasm",
+            "emptiness",
+            "gap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"void [adj] | null and void",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Legal",
+        "Formal"
+      ],
+      "DEF_EN":"Having no legal force or effect; not valid.",
+      "DEF_ZH":"没有法律效力的；无效的（尤指合同或协议）。",
+      "SENT_EN":"The contract was declared null and void because of the undisclosed clause.",
+      "SENT_ZH":"由于未披露的条款，该合同被宣布无效。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invalid",
+            "unenforceable",
+            "null",
+            "inoperative"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "valid",
+            "binding",
+            "enforceable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"void [of sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Formal",
+        "Figurative"
+      ],
+      "DEF_EN":"Completely lacking in something; empty or destitute of.",
+      "DEF_ZH":"完全缺乏某物；没有的；空虚的。",
+      "SENT_EN":"The statement was void of any substance or truth.",
+      "SENT_ZH":"该声明缺乏任何实质内容或真实性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "devoid",
+            "lacking",
+            "without",
+            "empty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"void [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Business",
+        "Formal"
+      ],
+      "DEF_EN":"To make (a legal agreement, transaction, or payment) invalid or null.",
+      "DEF_ZH":"使（法律协议、交易或付款）失效或作废。",
+      "SENT_EN":"They had to void the check after realizing they had written the wrong amount.",
+      "SENT_ZH":"他们意识到金额写错后，不得不取消这张支票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "invalidate",
+            "nullify",
+            "cancel",
+            "annul"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] void [in sb's life]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Figurative",
+        "Emotional"
+      ],
+      "DEF_EN":"A profound feeling of loneliness, loss, or emotional emptiness.",
+      "DEF_ZH":"深刻的孤独感、失落感或情感上的空虚。",
+      "SENT_EN":"After his retirement, he felt a huge void in his daily routine.",
+      "SENT_ZH":"退休后，他在日常生活中感到巨大的空虚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emptiness",
+            "hollowness",
+            "loneliness",
+            "grief"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, though legal and business contexts often use the formal adjective and verb forms."
+}

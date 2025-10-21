@@ -1,0 +1,131 @@
+{
+  "WORD":"size",
+  "IPA":"/saɪz/",
+  "CONJUGATES":"sizes | sizing | sized",
+  "ETYMOLOGY":"From Old French *sise* (short for *assise*, meaning fixed sitting, court session, or regulation), referring to a fixed quantity or standard measurement. Separate, older origin for the 'glue/sizing' meaning (c. 1540), of uncertain source.",
+  "SINCE":"Late 13th century (for measurement)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s size",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The dimensions, magnitude, or extent of something; how large or small an object or area is.",
+      "DEF_ZH":"某物的大小、規模、體積或範圍；某物有多大或多小。",
+      "SENT_EN":"The size of the apartment was perfect for their small family.",
+      "SENT_ZH":"這間公寓的面積非常適合他們的小家庭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dimension",
+            "magnitude",
+            "extent",
+            "scale",
+            "bulk"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        }
+      ]
+    },
+    {
+      "PATTERN":"size [number/descriptor]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "commerce",
+        "clothing"
+      ],
+      "DEF_EN":"One of a range of standard dimensions in which clothing, shoes, or other manufactured goods are made.",
+      "DEF_ZH":"製作服裝、鞋子或其他製成品時使用的一系列標準尺寸規格之一。",
+      "SENT_EN":"Do you have this shirt in a size medium?",
+      "SENT_ZH":"這件襯衫你們有中號尺碼的嗎？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fitting",
+            "measurement",
+            "apparel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"size [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "measurement"
+      ],
+      "DEF_EN":"To measure or estimate the dimensions of something; to categorize by size.",
+      "DEF_ZH":"測量或估計某物的尺寸；按尺寸分類。",
+      "SENT_EN":"The production team needs to size the components before shipping.",
+      "SENT_ZH":"生產團隊需要在發貨前確定組件的尺寸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "measure",
+            "gauge",
+            "calibrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"size [sb/sth] up",
+      "POS":"vphr",
+      "POS_TIP":"phrasal verb",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To examine or assess someone or something carefully, especially to form a judgment or estimate their capabilities.",
+      "DEF_ZH":"仔細審視或評估某人或某事，特別是為了做出判斷或估計其能力。",
+      "SENT_EN":"She sized up the crowd quickly before giving her speech.",
+      "SENT_ZH":"她在發表演講前迅速地評估了人群。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assess",
+            "evaluate",
+            "appraise"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"apply size",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "art"
+      ],
+      "DEF_EN":"A weak glue, gelatin, or starchy preparation used to seal porous surfaces (like paper, cloth, or canvas) before painting or finishing.",
+      "DEF_ZH":"一種弱膠、明膠或澱粉製劑，用於在繪畫或整理之前密封多孔表面（如紙張、布料或畫布）。",
+      "SENT_EN":"The conservator applied a specialized size to stabilize the old manuscript.",
+      "SENT_ZH":"修復師塗了一層專門的膠料來穩定這份古老的手稿。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sizing",
+            "primer",
+            "sealant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

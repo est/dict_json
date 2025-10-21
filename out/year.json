@@ -1,0 +1,91 @@
+{
+  "WORD":"year",
+  "IPA":"/jɪər/",
+  "CONJUGATES":"years",
+  "ETYMOLOGY":"From Old English 'gēar' (plural 'gēar'), from Proto-Germanic *jēram, from Proto-Indo-European *yeh₁- 'year, season'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A period of 365 days (or 366 in a leap year), divided into 12 months, often reckoned from January 1st to December 31st.",
+      "DEF_ZH":"由365天（闰年为366天）构成的一段时间，分为12个月，通常从1月1日算到12月31日。",
+      "SENT_EN":"The new year brings fresh opportunities.",
+      "SENT_ZH":"新年带来新的机遇。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "annum",
+            "twelvemonth"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "leap year",
+            "calendar year"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "specific context"
+      ],
+      "DEF_EN":"A period of approximately 12 months, especially in connection with a professional, academic, or financial cycle.",
+      "DEF_ZH":"大约12个月的时间段，尤指与专业、学术或财务周期相关的时期。",
+      "SENT_EN":"The academic year usually starts in September.",
+      "SENT_ZH":"学年通常在九月开始。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "school year",
+            "fiscal year",
+            "financial year"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"(often in plural) Used to refer to a person's age or a stage of life.",
+      "DEF_ZH":"（常用复数）指一个人的年龄或人生的某个阶段。",
+      "SENT_EN":"He's getting on in years, but still very active.",
+      "SENT_ZH":"他年事渐高，但仍然非常活跃。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "age",
+            "period",
+            "era"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "golden years"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,97 @@
+{
+  "WORD":"emission",
+  "IPA":"/ɪˈmɪʃən/",
+  "CONJUGATES":"emissions (plural)",
+  "ETYMOLOGY":"From Latin emissio, from emittere 'send out, send forth' (e- 'out' + mittere 'to send').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"emission of [sth]",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The production and discharge of something, especially gas, radiation, or light.",
+      "DEF_ZH":"某种物质（尤指气体、辐射或光）的产生和排放。",
+      "SENT_EN":"The emission of greenhouse gases contributes to climate change.",
+      "SENT_ZH":"温室气体的排放导致气候变化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discharge",
+            "release",
+            "ejection",
+            "outflow"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "absorption",
+            "retention"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] emissions",
+      "POS":"noun (countable)",
+      "POS_TIP":"noun: a word that represents a person, place, thing, or idea. (countable: can be counted, has a plural form)",
+      "TAGS":[
+        "common",
+        "technical",
+        "environmental"
+      ],
+      "DEF_EN":"A substance or energy (such as gas, heat, or light) that is produced and discharged.",
+      "DEF_ZH":"被排放出的物质或能量，例如气体、热量或光线。",
+      "SENT_EN":"New regulations aim to reduce vehicle emissions.",
+      "SENT_ZH":"新规定旨在减少车辆排放物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pollutant",
+            "effluent",
+            "fumes",
+            "discharge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "carbon footprint",
+            "smog",
+            "air pollution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"emission",
+      "POS":"noun (uncountable)",
+      "POS_TIP":"noun: a word that represents a person, place, thing, or idea. (uncountable: cannot be counted, does not typically have a plural form)",
+      "TAGS":[
+        "technical",
+        "physics"
+      ],
+      "DEF_EN":"In physics, the process by which a substance emits particles or radiation.",
+      "DEF_ZH":"在物理学中，物质发射粒子或辐射的过程。",
+      "SENT_EN":"The study focused on the emission spectrum of the newly discovered element.",
+      "SENT_ZH":"这项研究集中于新发现元素的发射光谱。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spectrum",
+            "radiation",
+            "particle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in environmental science, physics, engineering, and general contexts when discussing release or discharge."
+}

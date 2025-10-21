@@ -1,0 +1,104 @@
+{
+  "WORD":"snapshot",
+  "IPA":"/ˈsnæpˌʃɑːt/",
+  "CONJUGATES":"snapshots | snapshotting | snapshotted",
+  "ETYMOLOGY":"Compound of 'snap' (referring to speed or suddenness) and 'shot' (referring to a photograph or an action of shooting). Originally used in photography.",
+  "SINCE":"c. 1890s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] snapshot [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "photography"
+      ],
+      "DEF_EN":"A photograph taken quickly and informally, often without professional equipment or careful attention to detail.",
+      "DEF_ZH":"快照；非正式拍摄的照片。",
+      "SENT_EN":"She took a quick snapshot of the mountains with her old camera.",
+      "SENT_ZH":"她用她的旧相机给山脉拍了一张快照。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "photo",
+            "picture",
+            "candid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] snapshot [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A brief, concise view or representation of a situation, condition, or information at a particular moment in time.",
+      "DEF_ZH":"概况；简要描述；某一时刻的状态。",
+      "SENT_EN":"The report provides a snapshot of the current state of the industry.",
+      "SENT_ZH":"这份报告提供了当前行业状况的简要概况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overview",
+            "summary",
+            "glimpse",
+            "profile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] system snapshot",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computing, a recording of the operational state of a system, virtual machine, or dataset at a particular point in time, allowing restoration to that state.",
+      "DEF_ZH":"（计算机）系统快照；状态存档；某一时间点的系统镜像。",
+      "SENT_EN":"It is essential to take a snapshot of the database before installing the new patch.",
+      "SENT_ZH":"在安装新补丁之前，对数据库进行一次快照是至关重要的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "backup",
+            "image",
+            "checkpoint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"snapshot [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "action"
+      ],
+      "DEF_EN":"To take a quick, informal photograph of something, or to record the current state of a computer system.",
+      "DEF_ZH":"拍摄快照；（计算机）记录当前状态。",
+      "SENT_EN":"The engineer snapshotted the log files before the crash occurred.",
+      "SENT_ZH":"在崩溃发生之前，工程师记录了日志文件的当前状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "photograph",
+            "capture",
+            "image"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Technical (Computing)"
+}

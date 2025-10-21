@@ -1,0 +1,139 @@
+{
+  "WORD":"clip",
+  "IPA":"/klɪp/",
+  "CONJUGATES":"clips | clipping | clipped",
+  "ETYMOLOGY":"The modern English word 'clip' is derived from two distinct Middle English verbs that merged. One root is from Old Norse 'klippa' (to cut, shear). The other root is from Old English 'clyppan' (to embrace, clasp, hold), which led to the meaning of fastening.",
+  "SINCE":"12th century (for 'embrace/fasten') and 13th century (for 'cut/shear')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "device"
+      ],
+      "DEF_EN":"A small device, typically made of metal or plastic, used for holding things together or attaching them.",
+      "DEF_ZH":"用于将物品固定或连接在一起的小型装置，通常由金属或塑料制成。",
+      "SENT_EN":"Could you hand me a paper clip to hold these documents?",
+      "SENT_ZH":"你能递给我一个曲别针把这些文件夹在一起吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fastener",
+            "clasp",
+            "pin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [video/audio] clip",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "media"
+      ],
+      "DEF_EN":"A short extract from a film, video broadcast, or piece of music.",
+      "DEF_ZH":"电影、视频广播或音乐作品中的一小段摘录。",
+      "SENT_EN":"The news segment showed a brief clip of the President's speech.",
+      "SENT_ZH":"新闻节目播放了总统演讲的一段简短片段。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "segment",
+            "excerpt",
+            "snippet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clip [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To cut or trim something using shears or scissors, especially hair, wool, or plants.",
+      "DEF_ZH":"用剪刀或修枝剪剪短或修剪某物，特指头发、羊毛或植物。",
+      "SENT_EN":"She decided to clip the roses back before winter arrived.",
+      "SENT_ZH":"她决定在冬天来临前修剪玫瑰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shear",
+            "trim",
+            "snip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clip [sth] to [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb plus preposition",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To attach or fasten something using a clip or similar device.",
+      "DEF_ZH":"使用夹子或类似装置固定或连接某物。",
+      "SENT_EN":"He clipped the microphone transmitter to his belt.",
+      "SENT_ZH":"他把麦克风发射器夹在了腰带上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fasten",
+            "secure",
+            "attach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at a good/fast clip",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "idiom"
+      ],
+      "DEF_EN":"A rapid speed or pace.",
+      "DEF_ZH":"快速的速度或步伐。",
+      "SENT_EN":"We need to move at a good clip if we want to catch the early train.",
+      "SENT_ZH":"如果我们想赶上早班火车，就得走得快一点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pace",
+            "speed",
+            "velocity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"clip [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "sports"
+      ],
+      "DEF_EN":"To hit something quickly and glancingly.",
+      "DEF_ZH":"快速地、擦过般地击中某物。",
+      "SENT_EN":"The baseball just clipped the corner of the plate.",
+      "SENT_ZH":"棒球只是擦过了本垒板的角落。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Used across general, informal, and technical contexts depending on the meaning."
+}

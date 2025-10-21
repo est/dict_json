@@ -1,0 +1,99 @@
+{
+  "WORD":"toxic",
+  "IPA":"/'tɑːksɪk/",
+  "CONJUGATES":"more toxic | most toxic | toxicity (n.) | toxically (adv.)",
+  "ETYMOLOGY":"From Late Latin *toxicus* ('poisonous'), derived from Latin *toxicum* ('poison'), itself from Ancient Greek *toxikón pharmakon* (τοξικόν φάρμακον, 'arrow poison'), from *toxon* (τόξον, 'bow, arrow').",
+  "SINCE":"c. 1670",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is toxic",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "science",
+        "medical"
+      ],
+      "DEF_EN":"Containing or relating to poison; capable of causing death or serious injury when ingested or absorbed.",
+      "DEF_ZH":"含有或与毒物有关的；摄入或吸收后能引起死亡或严重伤害的。",
+      "SENT_EN":"The snake's venom is highly toxic, requiring immediate medical intervention.",
+      "SENT_ZH":"这种蛇的毒液毒性极强，需要立即进行医疗干预。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "poisonous",
+            "venomous",
+            "lethal",
+            "virulent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "non-toxic",
+            "harmless",
+            "safe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a toxic [relationship/person/environment]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "figurative",
+        "contemporary usage"
+      ],
+      "DEF_EN":"Extremely unpleasant, harmful, or malicious, often describing behaviors, relationships, or environments that cause emotional or psychological damage.",
+      "DEF_ZH":"非常令人不快、有害或恶意的，常用于描述造成情感或心理伤害的行为、关系或环境。",
+      "SENT_EN":"She finally left the toxic workplace where passive aggression was the norm.",
+      "SENT_ZH":"她终于离开了那个被动攻击成为常态的有害工作环境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "harmful",
+            "detrimental",
+            "malicious",
+            "damaging"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "healthy",
+            "beneficial",
+            "nurturing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"toxic waste / toxic residue",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "environmental",
+        "specialized"
+      ],
+      "DEF_EN":"Pertaining to waste materials that pose a serious threat to the environment and public health.",
+      "DEF_ZH":"指对环境和公众健康构成严重威胁的废弃物。",
+      "SENT_EN":"The cost of cleaning up the toxic waste left by the abandoned mine was astronomical.",
+      "SENT_ZH":"清理被遗弃矿井留下的有毒废物的成本是天文数字。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hazard",
+            "pollution",
+            "radioactive"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in scientific, medical, and informal/social commentary contexts."
+}

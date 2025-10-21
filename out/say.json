@@ -1,0 +1,112 @@
+{
+  "WORD":"say",
+  "IPA":"/seɪ/",
+  "CONJUGATES":"says | said | said | saying",
+  "ETYMOLOGY":"From Old English secgan 'to utter, tell, relate', from Proto-Germanic *sagjanan* (akin to German sagen 'to say'), and ultimately from a Proto-Indo-European root *sekʷ- 'to say, tell'.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"say [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To pronounce words or sounds; to express in words.",
+      "DEF_ZH":"发出词语或声音；用语言表达。",
+      "SENT_EN":"She didn't say a word all evening.",
+      "SENT_ZH":"她一整个晚上都没说一句话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speak",
+            "utter",
+            "state",
+            "declare"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "be silent",
+            "keep quiet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"say (that...) | say [sth] about [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"Transitive verb (takes an object) or Intransitive verb (does not take an object).",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To express an opinion or belief; to state as a fact or an argument.",
+      "DEF_ZH":"表达观点或信念；陈述事实或论点。",
+      "SENT_EN":"What do you say about his proposal? Many people say that he is a genius.",
+      "SENT_ZH":"你对他的提议有什么看法？很多人都说他是个天才。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "believe",
+            "think",
+            "opine",
+            "maintain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"say [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To suggest or estimate something, often as an example or hypothesis.",
+      "DEF_ZH":"提出建议或进行估算，常作为例子或假设。",
+      "SENT_EN":"Let's say we meet at 7 PM. That'll be, say, five dollars.",
+      "SENT_ZH":"咱们就说晚上七点见面吧。那大概是，比如说，五美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suggest",
+            "estimate",
+            "suppose",
+            "assume"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(have) a say (in [sth])",
+      "POS":"n",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"The right or power to influence a decision or outcome.",
+      "DEF_ZH":"影响决策或结果的权利或权力。",
+      "SENT_EN":"Everyone should have a say in how the community is run.",
+      "SENT_ZH":"每个人都应该对社区的运作方式有发言权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "voice",
+            "opinion",
+            "input",
+            "influence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

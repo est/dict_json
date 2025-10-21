@@ -1,0 +1,86 @@
+{
+  "WORD":"lack",
+  "IPA":"/læk/",
+  "CONJUGATES":"lacks | lacking | lacked",
+  "ETYMOLOGY":"Middle English *lak*, probably from Middle Dutch or Middle Low German *lak* (deficiency, fault), or Old Norse *lakr* (deficient). Originally used as a noun meaning 'fault' or 'defect'.",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] / [sth] lack [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To be without or deficient in something necessary, desirable, or usual.",
+      "DEF_ZH":"缺少；缺乏；没有（某物）",
+      "SENT_EN":"The proposal lacks sufficient detail to be approved.",
+      "SENT_ZH":"这项提案缺乏足够的细节，无法获得批准。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "miss",
+            "need",
+            "require"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "possess",
+            "have",
+            "abundance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a lack of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable or singular countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The absence or insufficiency of something needed or desired.",
+      "DEF_ZH":"缺乏；不足；缺少",
+      "SENT_EN":"His failure was due to a lack of effort, not ability.",
+      "SENT_ZH":"他的失败是由于缺乏努力，而不是能力不足。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shortage",
+            "deficiency",
+            "want"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plenty",
+            "surplus",
+            "excess"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] lack for [sth]",
+      "POS":"vin",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "less common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To be without need of something; used primarily in negative constructions to mean 'to have everything one needs'.",
+      "DEF_ZH":"不缺乏（用于否定句中，意为所需一切都有）",
+      "SENT_EN":"They may be simple, but they certainly don't lack for comfort.",
+      "SENT_ZH":"他们或许简朴，但绝对不缺乏舒适。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General English, formal and informal."
+}

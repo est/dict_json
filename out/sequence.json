@@ -1,0 +1,116 @@
+{
+  "WORD":"sequence",
+  "IPA":"/ˈsiːkwəns/",
+  "CONJUGATES":"sequences | sequencing | sequenced",
+  "ETYMOLOGY":"From Old French sequence, from Latin sequentia 'a following, a succession', from present participle stem of sequi 'to follow'.",
+  "SINCE":"Late 14th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a sequence of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A particular order in which related events, movements, or things follow each other.",
+      "DEF_ZH":"事物、事件或动作按一定顺序相继发生或排列。",
+      "SENT_EN":"The events unfolded in a logical sequence.",
+      "SENT_ZH":"事件按逻辑顺序展开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "order",
+            "succession",
+            "progression",
+            "series",
+            "arrangement"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disorder",
+            "randomness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sequence in [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "specialized"
+      ],
+      "DEF_EN":"A part of a film, piece of music, or dance that forms a continuous episode or unit.",
+      "DEF_ZH":"电影、音乐或舞蹈中构成连续片段或单元的一部分。",
+      "SENT_EN":"The opening sequence of the film was visually stunning.",
+      "SENT_ZH":"影片的开场片段在视觉上令人惊叹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "segment",
+            "scene",
+            "passage",
+            "section"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a sequence of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"An ordered arrangement of elements, especially in biology (e.g., DNA), chemistry, or mathematics (e.g., a series of numbers).",
+      "DEF_ZH":"元素的一种有序排列，尤指生物学（如DNA）、化学或数学（如数列）领域。",
+      "SENT_EN":"Scientists are studying the DNA sequence of the virus.",
+      "SENT_ZH":"科学家正在研究这种病毒的DNA序列。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "DNA",
+            "RNA",
+            "protein",
+            "algorithm",
+            "series",
+            "progression"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sequence [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which takes a direct object.",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To arrange in a particular order; to determine the order of components, especially in a biological or chemical context.",
+      "DEF_ZH":"按特定顺序排列；确定（组成部分）的顺序，尤指在生物学或化学语境中。",
+      "SENT_EN":"The lab sequenced the patient's genome to identify mutations.",
+      "SENT_ZH":"实验室对患者的基因组进行了测序以识别突变。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "order",
+            "arrange",
+            "organize",
+            "classify"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

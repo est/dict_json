@@ -1,0 +1,117 @@
+{
+  "WORD":"exclusive",
+  "IPA":"/ɪkˈskluːsɪv/",
+  "CONJUGATES":"exclusively (adv) | exclusivity (n) | exclusiveness (n)",
+  "ETYMOLOGY":"From Late Latin exclusivus, from Latin exclus- (past participle stem of excludere 'to shut out, exclude').",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"exclusive [sth] (e.g., club, access)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Restricted to the person, group, or area concerned; intended only for a particular group of people.",
+      "DEF_ZH":"专有的；独占的；排他的（指权利、会员资格等）。",
+      "SENT_EN":"The resort offers an exclusive beach area for its guests.",
+      "SENT_ZH":"这家度假村为客人提供一片专属海滩区域。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "private",
+            "restricted",
+            "select"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "public",
+            "open",
+            "inclusive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exclusive [sth] (e.g., right, interview)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "business",
+        "media"
+      ],
+      "DEF_EN":"Sole; not shared with others; supplied or reported by only one source.",
+      "DEF_ZH":"唯一的；独家的（尤指新闻报道或产品）。",
+      "SENT_EN":"She managed to secure an exclusive interview with the retired politician.",
+      "SENT_ZH":"她成功获得了对这位退休政治家的独家采访。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sole",
+            "unique",
+            "single"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"exclusive [sth] (e.g., brand, store)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "lifestyle"
+      ],
+      "DEF_EN":"Catering or restricted to wealthy and fashionable people; high-class and expensive.",
+      "DEF_ZH":"高级的；奢华的；昂贵的（指商品、场所或服务）。",
+      "SENT_EN":"They shop only at the most exclusive boutiques on Fifth Avenue.",
+      "SENT_ZH":"他们只在第五大道上最奢华的精品店购物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "posh",
+            "upmarket",
+            "luxurious"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "cheap",
+            "ordinary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mutually exclusive [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"(Of two or more things) unable to be simultaneously true or applicable; incompatible.",
+      "DEF_ZH":"互斥的；不兼容的（指事件或概念）。",
+      "SENT_EN":"In probability, success and failure are mutually exclusive outcomes.",
+      "SENT_ZH":"在概率学中，成功和失败是互斥的结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incompatible",
+            "contradictory"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often used in business and lifestyle contexts."
+}

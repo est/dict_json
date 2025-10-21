@@ -1,0 +1,62 @@
+{
+  "WORD":"compile",
+  "IPA":"/kəmˈpaɪl/",
+  "CONJUGATES":"compiles | compiling | compiled",
+  "ETYMOLOGY":"From Latin compilare (com- 'together' + pilare 'to pile up'), originally meaning 'to plunder' or 'gather by pillaging', later evolving to 'collect' or 'put together'.",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"compile [sth] (from [sources])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"To collect information or material from various sources and put it together in a specific organized form, such as a book, list, or report.",
+      "DEF_ZH":"收集资料、信息或素材，然后汇集成特定的形式（如书籍、列表或报告）；编纂；汇集。",
+      "SENT_EN":"The librarian spent weeks compiling a bibliography of rare manuscripts.",
+      "SENT_ZH":"那位图书管理员花了数周时间编纂一份稀有手稿的参考书目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assemble",
+            "gather",
+            "collect",
+            "collate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "compilation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compile [code/program]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Technical",
+        "Computing"
+      ],
+      "DEF_EN":"(In computing) To translate source code written in a high-level programming language into executable machine code or another low-level language using a special program called a compiler.",
+      "DEF_ZH":"（计算机）编译；将用高级编程语言编写的源代码转换为可执行的机器代码或低级语言。",
+      "SENT_EN":"It takes several minutes to compile the entire software package on this older machine.",
+      "SENT_ZH":"在这台旧机器上编译整个软件包需要几分钟的时间。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "compiler",
+            "debug"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical"
+}

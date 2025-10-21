@@ -1,0 +1,127 @@
+{
+  "WORD":"mash",
+  "IPA":"/mæʃ/",
+  "CONJUGATES":"mash | mashes | mashing | mashed",
+  "ETYMOLOGY":"From Middle English 'masshen' or 'masken', derived from Old English 'māsc-' (in compounds like 'māsc-wyrt' meaning 'mash-wort' for brewing). Related to Old Norse 'maska' ('to mash'). The sense of 'to beat into a soft mass' (of potatoes, etc.) dates from the 18th century.",
+  "SINCE":"mid-13th century (verb, for brewing) | 18th century (verb, for food) | mid-13th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"mash [sth]",
+      "POS":"v.t.",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "cooking"
+      ],
+      "DEF_EN":"To crush a soft food, especially cooked potatoes or fruit, into a soft, pulpy mass, usually with a fork or a special tool.",
+      "DEF_ZH":"将（尤指煮熟的土豆、水果等软食）捣成糊状；压碎。",
+      "SENT_EN":"Can you help me mash the potatoes for dinner tonight?",
+      "SENT_ZH":"今晚晚餐你能帮我捣土豆泥吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "crush",
+            "pulp",
+            "purée",
+            "squash",
+            "pound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(a) mash (of sth)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "cooking"
+      ],
+      "DEF_EN":"A soft, pulpy mass of food, especially mashed potatoes, often served as a side dish.",
+      "DEF_ZH":"捣碎的食物（尤指土豆泥），常作为配菜。",
+      "SENT_EN":"The sausages were served with a generous side of mash.",
+      "SENT_ZH":"香肠配了一大份土豆泥。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "purée",
+            "pulp",
+            "paste"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mash [ingredients]",
+      "POS":"v.t. | v.i.",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "specific",
+        "brewing"
+      ],
+      "DEF_EN":"In brewing, to mix malt or crushed grains with hot water to convert starches into sugars, forming a 'mash'.",
+      "DEF_ZH":"（酿造时）将麦芽或碎谷物与热水混合，将淀粉转化为糖，形成麦芽浆。",
+      "SENT_EN":"The brewer began to mash the grains to extract the sugars for fermentation.",
+      "SENT_ZH":"酿酒师开始将谷物捣碎以提取糖分进行发酵。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "brew",
+            "steep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the mash",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "brewing"
+      ],
+      "DEF_EN":"In brewing, the mixture of malt or crushed grains and hot water from which wort is extracted.",
+      "DEF_ZH":"（酿造中）麦芽或碎谷物与热水的混合物，从中提取麦汁。",
+      "SENT_EN":"After an hour, the mash was ready to be sparged.",
+      "SENT_ZH":"一小时后，麦芽浆准备好进行淋糖。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "wort",
+            "brew"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mash [buttons/keys]",
+      "POS":"v.t. | v.i.",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "informal",
+        "slang",
+        "gaming"
+      ],
+      "DEF_EN":"To press keys or buttons on a controller or keyboard rapidly and repeatedly, especially in video games, often without precise control.",
+      "DEF_ZH":"（尤指在电子游戏中）快速且反复地猛按控制器或键盘上的按键，通常没有精确控制。",
+      "SENT_EN":"He just kept mashing the attack button, hoping for a combo.",
+      "SENT_ZH":"他只是不停地猛按攻击键，希望能打出连击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "button-mash",
+            "spam"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday language, cooking, and informally in gaming contexts. Also has specific usage in brewing."
+}

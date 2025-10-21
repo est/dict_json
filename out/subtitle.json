@@ -1,0 +1,79 @@
+{
+  "WORD":"subtitle",
+  "IPA":"/ˈsʌbˌtaɪtl/",
+  "CONJUGATES":"subtitles | subtitled | subtitling",
+  "ETYMOLOGY":"From Latin sub- ('under, below') and Middle English title (from Latin titulus 'inscription, title'). Literally 'under the title' or 'secondary title'.",
+  "SINCE":"Late 16th century (in the sense of a secondary title); early 20th century (in the sense of film text)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[plural] subtitles | a subtitle",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "media"
+      ],
+      "DEF_EN":"A line or lines of text displayed on a screen, usually at the bottom, translating dialogue or providing a transcription of speech and sometimes sound effects for the deaf or hard-of-hearing.",
+      "DEF_ZH":"显示在屏幕底部的一行或多行文本，用于翻译对话或提供对话文本（通常也包含为聋哑人士准备的音效描述）。",
+      "SENT_EN":"We watched the foreign film with English subtitles enabled.",
+      "SENT_ZH":"我们打开了英文字幕观看这部外国电影。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[]
+        },
+        {
+          "T":"related",
+          "V":[
+            "captions",
+            "CC",
+            "closed captioning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] has a subtitle",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A secondary or subordinate title of a literary work, book, or article, often used to clarify or elaborate on the main title.",
+      "DEF_ZH":"书籍、文章或章节的副标题，通常用于阐明或补充主标题。",
+      "SENT_EN":"The biography had a catchy main title and a long, descriptive subtitle.",
+      "SENT_ZH":"这部传记有一个吸引人的主标题和一个很长的、描述性的副标题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subheading",
+            "secondary title"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"subtitle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "production"
+      ],
+      "DEF_EN":"To provide a film, video, or program with subtitles.",
+      "DEF_ZH":"为电影、视频或节目提供字幕。",
+      "SENT_EN":"The studio is working quickly to subtitle the new series for the global market.",
+      "SENT_ZH":"工作室正迅速地为这部新剧集配上字幕，以投放全球市场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "caption"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Media production"
+}

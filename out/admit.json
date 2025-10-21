@@ -1,0 +1,88 @@
+{
+  "WORD":"admit",
+  "IPA":"/ədˈmɪt/",
+  "CONJUGATES":"admitting | admitted | admits",
+  "ETYMOLOGY":"From Latin admittere (ad- 'to' + mittere 'send, let go'). Originally meant 'to let in, allow entrance'. The meaning 'to confess' developed later.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"admit [sth] | admit (to) [doing sth] | admit that [clause]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "Core Vocabulary",
+        "Neutral"
+      ],
+      "DEF_EN":"To confess or acknowledge that something is true, often something one would prefer to keep secret or deny.",
+      "DEF_ZH":"承认（事实、错误或真相）；供认；坦白。",
+      "SENT_EN":"He admitted to cheating on the exam after the evidence was presented.",
+      "SENT_ZH":"在证据面前，他承认自己在考试中作弊了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confess",
+            "acknowledge",
+            "own up to",
+            "grant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deny",
+            "reject",
+            "conceal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"admit [sb/sth] (to/into [place/group])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Institutional"
+      ],
+      "DEF_EN":"To allow someone or something to enter a place, organization, or group; to grant entrance or membership.",
+      "DEF_ZH":"允许进入；接纳；授予入场权或入学资格。",
+      "SENT_EN":"Only ticket holders will be admitted to the concert venue.",
+      "SENT_ZH":"只有持票人才能被允许进入音乐会场地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allow entry",
+            "grant access",
+            "enroll",
+            "receive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exclude",
+            "bar",
+            "deny entry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be admitted (to [hospital/facility])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (often used in passive voice)",
+      "TAGS":[
+        "Medical",
+        "Formal"
+      ],
+      "DEF_EN":"To be accepted into a medical facility, such as a hospital, for treatment or observation.",
+      "DEF_ZH":"（被）收治入院；接受住院治疗。",
+      "SENT_EN":"The patient was admitted to the hospital with severe dehydration.",
+      "SENT_ZH":"这位病人因严重脱水被收治入院。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, used in both formal and everyday contexts."
+}

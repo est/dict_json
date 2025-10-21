@@ -1,0 +1,80 @@
+{
+  "WORD":"cylinder",
+  "IPA":"/ˈsɪlɪndər/",
+  "CONJUGATES":"cylinders",
+  "ETYMOLOGY":"From Latin cylindrus, from Ancient Greek κύλινδρος (kúlindros, 'a roller, cylinder'), related to κυλίνδειν (kulíndein, 'to roll').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "common"
+      ],
+      "DEF_EN":"A solid geometric figure with two parallel circular bases and a curved surface connecting them; also refers to a long, round object of this shape.",
+      "DEF_ZH":"具有两个平行圆底和弯曲侧面的几何体；圆柱体。",
+      "SENT_EN":"The architect designed the column as a perfect cylinder.",
+      "SENT_ZH":"建筑师将柱子设计成完美的圆柱体。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cone",
+            "sphere",
+            "prism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (in engine)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "engineering",
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A chamber in a reciprocating engine or pump in which a piston moves back and forth.",
+      "DEF_ZH":"往复式发动机或泵中活塞在其内部往复运动的腔室；汽缸。",
+      "SENT_EN":"The car has a powerful V6 engine, meaning it has six cylinders.",
+      "SENT_ZH":"这辆车有一个强大的V6发动机，这意味着它有六个汽缸。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "piston",
+            "bore",
+            "engine block"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (container)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "everyday"
+      ],
+      "DEF_EN":"A thick-walled metal container used for storing gas or liquids under pressure.",
+      "DEF_ZH":"用于储存压缩气体或液体的厚壁金属容器；气瓶，钢瓶。",
+      "SENT_EN":"The welder ordered a new cylinder of acetylene gas.",
+      "SENT_ZH":"焊工订购了一个新的乙炔气瓶。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tank",
+            "canister"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Science"
+}

@@ -1,0 +1,108 @@
+{
+  "WORD":"breathe",
+  "IPA":"/briːð/",
+  "CONJUGATES":"breathes | breathed | breathing",
+  "ETYMOLOGY":"Derived from the Old English noun *bræþ* ('breath, vapor, scent'). The verb form developed in Middle English, likely influenced by the distinction between the noun *breath* (ending in /θ/) and the verb *breathe* (ending in /ð/).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] breathe",
+      "POS":"v.intr.",
+      "POS_TIP":"intransitive verb: does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take air into the lungs and then expel it, the essential process of respiration.",
+      "DEF_ZH":"呼吸；吸气和呼气，维持生命的基本生理过程。",
+      "SENT_EN":"It was so dusty that he found it hard to breathe normally.",
+      "SENT_ZH":"灰尘太大，他呼吸都很困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "respire",
+            "inhale",
+            "exhale"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "breath",
+            "respiration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"breathe [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "idiomatic",
+        "figurative"
+      ],
+      "DEF_EN":"To utter or express something, often softly, secretly, or gently, especially a word or a secret.",
+      "DEF_ZH":"轻声说出；低语；泄露（通常指秘密或只言片语）。",
+      "SENT_EN":"Don't breathe a word of this conversation to anyone outside the room.",
+      "SENT_ZH":"不要向房间外的任何人透露这次谈话的一个字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whisper",
+            "murmur",
+            "utter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"breathe life/spirit into [sth]",
+      "POS":"v.tr. + prep.",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To infuse energy, vitality, or inspiration into something that was dull or inactive.",
+      "DEF_ZH":"注入活力或生命力；使沉闷或停滞的事物重新活跃起来。",
+      "SENT_EN":"The new manager breathed fresh life into the failing team.",
+      "SENT_ZH":"新经理为这支衰弱的队伍注入了新的活力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revitalize",
+            "animate",
+            "inspire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] breathe",
+      "POS":"v.intr.",
+      "POS_TIP":"intransitive verb: does not take a direct object",
+      "TAGS":[
+        "technical",
+        "figurative"
+      ],
+      "DEF_EN":"To allow air to pass through or around, often used when describing a process, material, or container (like wine).",
+      "DEF_ZH":"透气；（让酒）醒酒；（材料）通风。",
+      "SENT_EN":"The expensive cotton fabric allows the skin to breathe.",
+      "SENT_ZH":"这种昂贵的棉布面料能让皮肤透气。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "aerate",
+            "ventilate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

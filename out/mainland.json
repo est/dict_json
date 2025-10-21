@@ -1,0 +1,75 @@
+{
+  "WORD":"mainland",
+  "IPA":"/ˈmeɪnlænd/",
+  "CONJUGATES":"mainlands (plural)",
+  "ETYMOLOGY":"From Middle English, combining 'main' (chief, principal) and 'land'.",
+  "SINCE":"Late Middle Ages (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] mainland",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "geographical"
+      ],
+      "DEF_EN":"A large continuous area of land that is the principal part of a country or continent, as opposed to an island or peninsula.",
+      "DEF_ZH":"大陆；本土。指一个国家或大洲的主要、连续的陆地部分，不包括岛屿或半岛。",
+      "SENT_EN":"It is much more expensive to live on the island than on the mainland.",
+      "SENT_ZH":"在岛上生活比在大陆上生活昂贵得多。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "continent",
+            "terra firma"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "island",
+            "archipelago"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mainland [sth]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "descriptive"
+      ],
+      "DEF_EN":"Relating to or situated on the main, continuous body of land.",
+      "DEF_ZH":"大陆的；本土的。与大陆相关或位于大陆上的。",
+      "SENT_EN":"The ferry service connects the mainland port to several small outer islands.",
+      "SENT_ZH":"渡轮服务将大陆港口连接到几个外围小岛。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"Mainland (often capitalized)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "political",
+        "regional",
+        "specific usage"
+      ],
+      "DEF_EN":"(In specific political contexts, often capitalized) Used to refer to the territory governed by the People's Republic of China (PRC), excluding Hong Kong, Macau, and Taiwan.",
+      "DEF_ZH":"(特指，常大写) 中国大陆。指中华人民共和国直接管辖的领土，不包括香港、澳门和台湾。",
+      "SENT_EN":"The travel restrictions between Hong Kong and the Mainland were recently lifted.",
+      "SENT_ZH":"香港和中国大陆之间的旅行限制最近被取消了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "PRC",
+            "China"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Geography, Politics"
+}

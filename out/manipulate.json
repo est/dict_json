@@ -1,0 +1,92 @@
+{
+  "WORD":"manipulate",
+  "IPA":"/məˈnɪpjuleɪt/",
+  "CONJUGATES":"manipulates | manipulating | manipulated",
+  "ETYMOLOGY":"From Latin manipulus (handful, bundle), via French manipuler (to handle, to work). Extended sense of control (especially negative) emerged in the 19th century.",
+  "SINCE":"Early 19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"manipulate [sb] / manipulate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "negative connotation",
+        "psychology"
+      ],
+      "DEF_EN":"To influence or control (a person or situation) unscrupulously or skillfully, especially to one's own advantage.",
+      "DEF_ZH":"熟练、巧妙或不择手段地影响或控制（某人或某事），通常是为了自己的私利。",
+      "SENT_EN":"He tried to manipulate his friends into doing his chores.",
+      "SENT_ZH":"他试图操纵他的朋友们替他做家务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exploit",
+            "maneuver",
+            "coerce",
+            "control"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "manipulation",
+            "manipulative"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"manipulate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "physical",
+        "formal"
+      ],
+      "DEF_EN":"To handle or control (a tool, object, or mechanism) with skill.",
+      "DEF_ZH":"熟练地操作或控制（工具、物体或机械）。",
+      "SENT_EN":"The artist carefully manipulated the clay to form the sculpture.",
+      "SENT_ZH":"这位艺术家小心翼翼地捏塑粘土来制作雕塑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handle",
+            "operate",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"manipulate [data/market]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "business",
+        "finance",
+        "unethical"
+      ],
+      "DEF_EN":"To falsify, alter, or treat (information, figures, or accounts) dishonestly.",
+      "DEF_ZH":"不诚实地篡改、伪造或处理（信息、数字或账目）。",
+      "SENT_EN":"The company was fined for manipulating its sales figures.",
+      "SENT_ZH":"该公司因操纵销售数据而被罚款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "falsify",
+            "rig",
+            "doctor",
+            "cook the books"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

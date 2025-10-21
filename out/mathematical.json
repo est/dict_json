@@ -1,0 +1,74 @@
+{
+  "WORD":"mathematical",
+  "IPA":"/ˌmæθəˈmætɪkl/",
+  "CONJUGATES":"adverb: mathematically | noun: mathematics | noun: mathematician",
+  "ETYMOLOGY":"From Middle English 'mathematicalle', from Late Latin 'mathēmaticālis', from Ancient Greek 'mathēmatikós' (learning, pertaining to science), from 'máthēma' (science, knowledge, mathematical science).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"mathematical [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Relating to or involving the science of mathematics; characterized by calculations or mathematical principles.",
+      "DEF_ZH":"与数学相关或涉及数学的；以计算或数学原理为特征的。",
+      "SENT_EN":"The physicist presented a complex mathematical model to explain the phenomenon.",
+      "SENT_ZH":"这位物理学家提出了一个复杂的数学模型来解释这一现象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arithmetical",
+            "geometric",
+            "algebraic",
+            "numerical"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mathematics",
+            "mathematician"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mathematical [certainty/precision]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"Characterized by extreme precision, exactness, or certainty, as if derived from mathematics.",
+      "DEF_ZH":"具有极高的精确性、准确性或确定性，如同从数学中得出一样。",
+      "SENT_EN":"It's a mathematical certainty that the sun will rise tomorrow.",
+      "SENT_ZH":"太阳明天会升起是确定无疑的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precise",
+            "exact",
+            "certain",
+            "infallible",
+            "undeniable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "approximate",
+            "vague",
+            "uncertain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

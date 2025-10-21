@@ -1,0 +1,69 @@
+{
+  "WORD":"clause",
+  "IPA":"/klɔːz/",
+  "CONJUGATES":"clauses",
+  "ETYMOLOGY":"From Old French clause, from Latin clausa 'a close, a conclusion' (feminine past participle of claudere 'to shut, close').",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (in law/grammar)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal term",
+        "grammatical term"
+      ],
+      "DEF_EN":"A particular section, article, or stipulation in a contract, will, or other legal document.",
+      "DEF_ZH":"合同、遗嘱或其他法律文件中的特定部分、条款或规定。",
+      "SENT_EN":"The contract includes a clause stating that employees must not disclose confidential information.",
+      "SENT_ZH":"该合同包含一项条款，规定员工不得泄露机密信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provision",
+            "stipulation",
+            "article",
+            "section"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "contract",
+            "agreement",
+            "rider"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (in grammar)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "grammatical term",
+        "technical"
+      ],
+      "DEF_EN":"A group of words that contains a subject and a verb, forming a sentence or part of a sentence.",
+      "DEF_ZH":"包含主语和动词的词组，构成句子或句子的一部分。",
+      "SENT_EN":"The sentence 'I went home because it was late' contains a main clause ('I went home') and a subordinate clause ('because it was late').",
+      "SENT_ZH":"句子“我回家了因为太晚了”包含一个主句（'I went home'）和一个从句（'because it was late'）。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sentence",
+            "phrase",
+            "subject",
+            "predicate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal (legal, academic) and General usage."
+}

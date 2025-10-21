@@ -1,0 +1,97 @@
+{
+  "WORD":"acquire",
+  "IPA":"/əˈkwaɪər/",
+  "CONJUGATES":"acquires | acquiring | acquired | acquisition",
+  "ETYMOLOGY":"From Middle English aqueren, via Old French acquerre, from Latin acquirere (ad- 'to' + quaerere 'to seek, gain').",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"acquire [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To gain possession of or ownership of something; to obtain, often by purchase or effort.",
+      "DEF_ZH":"获得；取得；购得（财产或物品）。",
+      "SENT_EN":"The library managed to acquire the original manuscript through a private donation.",
+      "SENT_ZH":"图书馆通过私人捐赠设法获得了这份原始手稿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obtain",
+            "gain",
+            "secure",
+            "procure"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lose",
+            "forfeit",
+            "relinquish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"acquire [sth] (a skill/trait)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "development"
+      ],
+      "DEF_EN":"To develop or come to have a skill, habit, or characteristic over time.",
+      "DEF_ZH":"养成（习惯）；学到（技能）；获得（特质）。",
+      "SENT_EN":"It takes years of consistent practice to acquire fluency in sign language.",
+      "SENT_ZH":"需要多年持续不断的练习才能熟练掌握手语。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "learn",
+            "develop",
+            "master",
+            "pick up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"acquire [sth] (a company)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "business",
+        "economics",
+        "formal"
+      ],
+      "DEF_EN":"In business, to purchase or take control of another company or major asset.",
+      "DEF_ZH":"（商业）收购；兼并（一家公司或资产）。",
+      "SENT_EN":"Our firm is looking to acquire a smaller startup specializing in AI technology.",
+      "SENT_ZH":"我们公司正寻求收购一家专注于人工智能技术的小型初创企业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "take over",
+            "buy out",
+            "merge (with)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "M&A",
+            "acquisition"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard usage; often formal in business, legal, or institutional contexts."
+}

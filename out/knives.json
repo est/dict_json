@@ -1,0 +1,86 @@
+{
+  "WORD":"KNIFE",
+  "IPA":"/naɪf/",
+  "CONJUGATES":"knives (plural) | knifed (past tense, past participle) | knifing (present participle)",
+  "ETYMOLOGY":"From Old English cnīf, of Germanic origin; compare Old Norse knífr.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "tool"
+      ],
+      "DEF_EN":"A cutting instrument consisting of a blade with a sharp edge, usually fixed into a handle, used for cutting, slicing, or stabbing.",
+      "DEF_ZH":"一种带有锋利刀刃的切割工具，通常固定在手柄上，用于切割、切片或刺穿。",
+      "SENT_EN":"She grabbed a steak knife to cut the meat.",
+      "SENT_ZH":"她拿起一把牛排刀来切肉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blade",
+            "cutter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dagger",
+            "cleaver",
+            "machete"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knife [sb] | knife [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "violent"
+      ],
+      "DEF_EN":"To cut, stab, or wound someone or something using a knife.",
+      "DEF_ZH":"用刀刺伤、切割或伤害某人或某物。",
+      "SENT_EN":"The attacker tried to knife the victim during the robbery.",
+      "SENT_ZH":"袭击者在抢劫过程中试图用刀刺伤受害者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stab",
+            "slash",
+            "pierce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knife [sb]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To betray or seriously undermine someone, especially a colleague or associate.",
+      "DEF_ZH":"背叛或严重损害某人，尤指同事或伙伴。",
+      "SENT_EN":"The politician felt knifed by his own party when they withdrew their support.",
+      "SENT_ZH":"这位政客感到被自己的政党背叛了，因为他们撤回了支持。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "betray",
+            "undercut",
+            "sabotage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,91 @@
+{
+  "WORD":"transaction",
+  "IPA":"/trænˈzækʃən/",
+  "CONJUGATES":"transactions",
+  "ETYMOLOGY":"From Late Latin trānsāctiōnem (nominative trānsāctiō), past participle of trānsigere ('to carry through, accomplish'), from trans- ('across') + agere ('to do, perform').",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"transaction [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "business"
+      ],
+      "DEF_EN":"An instance of carrying out business, especially the buying or selling of something; a deal.",
+      "DEF_ZH":"交易；买卖；业务办理（尤指金钱相关的来往）。",
+      "SENT_EN":"All card transactions must be completed before 5 p.m. to be registered today.",
+      "SENT_ZH":"所有刷卡交易必须在下午五点前完成，才能在今日登记。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deal",
+            "business",
+            "exchange",
+            "sale",
+            "purchase"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "transact",
+            "contract",
+            "agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the transaction [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "process"
+      ],
+      "DEF_EN":"The process or action of performing or conducting business, affairs, or negotiations.",
+      "DEF_ZH":"办理；处理（事务或业务的过程）。",
+      "SENT_EN":"The company supervised the smooth transaction of all legal documents related to the merger.",
+      "SENT_ZH":"该公司监督了所有与合并相关的法律文件的顺利处理过程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "handling",
+            "management",
+            "execution",
+            "processing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transaction [in analysis]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "psychology",
+        "rare"
+      ],
+      "DEF_EN":"In transactional analysis, a basic unit of social communication or interaction, defined by a stimulus and a response.",
+      "DEF_ZH":"（交互分析中的）交流单位，指社会交往或互动中的基本单位。",
+      "SENT_EN":"The psychologist observed the entire conversation as a series of complex verbal transactions.",
+      "SENT_ZH":"心理学家将整个对话观察为一系列复杂的口头交流单位。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Transactional Analysis",
+            "ego state"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, Finance, Legal"
+}

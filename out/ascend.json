@@ -1,0 +1,87 @@
+{
+  "WORD":"ascend",
+  "IPA":"/əˈsɛnd/",
+  "CONJUGATES":"ascends | ascending | ascended",
+  "ETYMOLOGY":"From Middle English ascenden, derived from Latin ascendere, from ad- (to, toward) + scandere (to climb).",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"ascend ([sth] / to [sth])",
+      "POS":"v.",
+      "POS_TIP":"Verb (Intransitive or Transitive)",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"To move, climb, or go up to a higher position or level.",
+      "DEF_ZH":"（物理上）上升；攀登；升高。",
+      "SENT_EN":"The small plane rapidly ascended after takeoff.",
+      "SENT_ZH":"小飞机起飞后迅速爬升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rise",
+            "climb",
+            "mount",
+            "go up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "descend",
+            "drop",
+            "fall",
+            "sink"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ascend (to [sth])",
+      "POS":"v.",
+      "POS_TIP":"Verb (Intransitive)",
+      "TAGS":[
+        "formal",
+        "status"
+      ],
+      "DEF_EN":"To rise to an important position or a higher social status, especially to a throne or high office.",
+      "DEF_ZH":"（地位上）登位；晋升；继承王位。",
+      "SENT_EN":"He ascended to the chairmanship after the board meeting.",
+      "SENT_ZH":"在董事会会议后，他升任了主席职位。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accede",
+            "succeed",
+            "inherit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ascend",
+      "POS":"v.",
+      "POS_TIP":"Verb (Intransitive)",
+      "TAGS":[
+        "academic",
+        "technical"
+      ],
+      "DEF_EN":"To increase in order, size, or pitch.",
+      "DEF_ZH":"（在音高、序列上）递增；上升。",
+      "SENT_EN":"The notes in the melody gradually ascend.",
+      "SENT_ZH":"旋律中的音符逐渐上升。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "descend"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally formal or literary, particularly when referring to status or non-physical movement."
+}

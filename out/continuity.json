@@ -1,0 +1,85 @@
+{
+  "WORD":"continuity",
+  "IPA":"/ˌkɑːntɪˈnuːəti/",
+  "CONJUGATES":"continuous | continual | continuously | continually",
+  "ETYMOLOGY":"From Late Latin continuitas, derived from continuus ('continuous').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"continuity [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The unbroken and consistent existence, operation, or quality of something over a period of time; the state of being continuous.",
+      "DEF_ZH":"持续性；不间断性；连贯性。",
+      "SENT_EN":"The transition plan was designed to ensure continuity of service during the system upgrade.",
+      "SENT_ZH":"该过渡计划旨在确保系统升级期间服务的持续性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "persistence",
+            "cohesion",
+            "flow",
+            "stability"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disruption",
+            "break",
+            "inconsistency"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"continuity [in media]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "media",
+        "specific use"
+      ],
+      "DEF_EN":"Consistency maintained in the characteristics, plot, objects, and events within a series of fictional works, such as movies, television, or comic books.",
+      "DEF_ZH":"（影视或叙事中的）连贯性；情节一致性（指保持角色、地点和情节的细节在不同场景或作品中一致）。",
+      "SENT_EN":"Fans were quick to point out a major continuity error in the superhero movie where the protagonist’s shirt changed color mid-scene.",
+      "SENT_ZH":"粉丝们很快指出了这部超级英雄电影中的一个重大连贯性错误，主角的衬衫在场景中途变了颜色。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "canon",
+            "lore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"continuity [in mathematics]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"(Of a function) The property of having its value vary smoothly with its input, without sudden jumps or breaks (discontinuities).",
+      "DEF_ZH":"（数学）连续性（指函数或曲线平滑，没有突变）。",
+      "SENT_EN":"The concept of continuity is fundamental to calculus and real analysis.",
+      "SENT_ZH":"连续性的概念是微积分和实分析的基础。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "discontinuity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

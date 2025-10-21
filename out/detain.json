@@ -1,0 +1,76 @@
+{
+  "WORD":"detain",
+  "IPA":"/dɪˈteɪn/",
+  "CONJUGATES":"detains | detained | detaining",
+  "ETYMOLOGY":"From Old French detenir, from Latin detinere 'hold back, hold down', from de- 'down, away' + tenere 'to hold'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"detain [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; requires a direct object",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"To keep someone in official custody, especially for a short period, for questioning or while waiting for trial.",
+      "DEF_ZH":"拘留；扣押 (特指在审讯前或等待审判期间将其保留在官方监管之下)",
+      "SENT_EN":"Police detained the suspect for questioning.",
+      "SENT_ZH":"警方拘留了嫌疑人以进行审讯。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arrest",
+            "apprehend",
+            "hold",
+            "take into custody"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "release",
+            "free",
+            "liberate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"detain [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; requires a direct object",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To hold someone or something back; to delay the progress or departure of.",
+      "DEF_ZH":"耽搁；拖延；阻止 (某人或某事的进展或离开)",
+      "SENT_EN":"I'm sorry to have detained you for so long.",
+      "SENT_ZH":"很抱歉耽误了您这么长时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delay",
+            "hold up",
+            "hinder",
+            "impede",
+            "keep"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expedite",
+            "speed up",
+            "hasten"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, legal, or general usage."
+}

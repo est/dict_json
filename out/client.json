@@ -1,0 +1,97 @@
+{
+  "WORD":"client",
+  "IPA":"/ˈklaɪ.ənt/",
+  "CONJUGATES":"clients",
+  "ETYMOLOGY":"From Middle English client, from Old French client, ultimately from Latin cliēns (genitive clientis), meaning 'follower, dependant, retainer, vassal'.",
+  "SINCE":"14th C.",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] client (of [sb]/[sth])",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "business",
+        "legal"
+      ],
+      "DEF_EN":"A person or organization using the services of a professional person or company, such as a lawyer, accountant, or advertising agency.",
+      "DEF_ZH":"接受专业人士或公司（如律师、会计师或广告公司）服务的人或组织；客户，委托人。",
+      "SENT_EN":"The advertising firm is pitching a new campaign to their biggest client.",
+      "SENT_ZH":"这家广告公司正在向他们最大的客户推销一项新的活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "customer",
+            "patron",
+            "account",
+            "buyer"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lawyer",
+            "consultant",
+            "agency"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] client (computing)",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "technical",
+        "computing",
+        "IT"
+      ],
+      "DEF_EN":"A piece of computer hardware or software that accesses a service made available by a server.",
+      "DEF_ZH":"（计算机）客户端；访问服务器提供的服务的计算机硬件或软件。",
+      "SENT_EN":"We need to update the VPN client software on all remote machines.",
+      "SENT_ZH":"我们需要更新所有远程机器上的VPN客户端软件。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "server"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "network",
+            "protocol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] client (historical)",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "historical",
+        "specialized",
+        "obsolete"
+      ],
+      "DEF_EN":"(Historical, especially Ancient Rome) A dependent or follower who sought protection and aid from a patron.",
+      "DEF_ZH":"（历史，尤指古罗马）依附者；受庇护人；寻求庇护人保护和帮助的追随者。",
+      "SENT_EN":"The patron often provided food and legal assistance to his clients in exchange for political loyalty.",
+      "SENT_ZH":"庇护人经常向他的受庇护人提供食物和法律援助，以换取政治忠诚。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "patron",
+            "vassal",
+            "retainer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Business, Legal, Technical"
+}

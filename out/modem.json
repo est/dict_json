@@ -1,0 +1,43 @@
+{
+  "WORD":"modem",
+  "IPA":"/ˈmoʊdəm/",
+  "CONJUGATES":"modems",
+  "ETYMOLOGY":"A blend of the words modulator and demodulator.",
+  "SINCE":"c. 1958",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "computing",
+        "hardware"
+      ],
+      "DEF_EN":"A device or program that enables a computer to transmit data over communication lines (such as telephone lines or cable lines) by converting digital signals into analog signals (modulation) for transmission, and analog signals back into digital signals (demodulation) for reception.",
+      "DEF_ZH":"一种设备或程序，通过将数字信号转换为模拟信号（调制）用于传输，并将模拟信号转换回数字信号（解调）用于接收，从而使计算机能够通过通信线路（如电话线或电缆线）传输数据。",
+      "SENT_EN":"You need a modem to establish an internet connection in your home.",
+      "SENT_ZH":"你需要在家里安装一个调制解调器才能建立互联网连接。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data pump",
+            "cable modem",
+            "DSL modem"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "router",
+            "network card",
+            "ISDN"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical | Computing"
+}

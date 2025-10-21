@@ -1,0 +1,66 @@
+{
+  "WORD":"diagnose",
+  "IPA":"/ˌdaɪəɡˈnoʊz/",
+  "CONJUGATES":"diagnose | diagnoses | diagnosing | diagnosed",
+  "ETYMOLOGY":"From Greek *diagnōsis* 'discernment' (from *diagignōskein* 'distinguish, discern'), reinforced by French *diagnostiquer* and later back-formed in English from *diagnosis* (which itself came from Greek).",
+  "SINCE":"Mid-19th century (specifically the verb form)",
+  "MEANINGS":[
+    {
+      "PATTERN":"diagnose [sth] | diagnose [sb] with [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb, takes a direct object",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"To identify the nature of an illness or other problem by examination of the symptoms and other evidence.",
+      "DEF_ZH":"通过检查症状和其他证据，识别疾病或其他问题的性质。",
+      "SENT_EN":"The doctor diagnosed her illness as pneumonia after a thorough examination. | They diagnosed him with a rare genetic disorder.",
+      "SENT_ZH":"经过彻底检查，医生诊断她的病是肺炎。| 他们诊断他患有一种罕见的遗传性疾病。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identify",
+            "determine",
+            "detect",
+            "pinpoint",
+            "recognize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "diagnosis",
+            "diagnostic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diagnose [a problem/fault]",
+      "POS":"vtr",
+      "POS_TIP":"vtr: transitive verb, takes a direct object",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To find out exactly what is wrong with something (e.g., a machine or system) by careful examination.",
+      "DEF_ZH":"通过仔细检查，查明某物（例如机器或系统）到底出了什么问题。",
+      "SENT_EN":"It took the mechanic hours to diagnose the problem with the engine.",
+      "SENT_ZH":"机械师花了几个小时才诊断出发动机的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "troubleshoot",
+            "analyze",
+            "detect"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, medical, technical"
+}

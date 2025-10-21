@@ -1,0 +1,69 @@
+{
+  "WORD":"repeal",
+  "IPA":"/rɪˈpiːl/",
+  "CONJUGATES":"repeals | repealed | repealing",
+  "ETYMOLOGY":"Late Middle English, from Anglo-Norman repeler (Old French repeller), from re- 'back' + apeler 'to call, appeal'. Originally meant 'to recall (a judicial sentence)'",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"repeal [sth] (a law, act, statute)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "legal",
+        "political"
+      ],
+      "DEF_EN":"To officially revoke or annul a law, constitutional amendment, or formal act.",
+      "DEF_ZH":"正式废除、撤销（法律、法规、决议或宪法修正案）。",
+      "SENT_EN":"Congress is debating whether to repeal the outdated legislation.",
+      "SENT_ZH":"国会正在辩论是否要废除这项过时的立法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revoke",
+            "annul",
+            "abrogate",
+            "rescind",
+            "cancel"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enact",
+            "institute",
+            "ratify",
+            "pass"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a repeal (of [sth])",
+      "POS":"ncu",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "legal"
+      ],
+      "DEF_EN":"The act of officially revoking or annulling a law or measure.",
+      "DEF_ZH":"（法律或法规的）废除；撤销。",
+      "SENT_EN":"The group gathered signatures demanding the full repeal of the new policy.",
+      "SENT_ZH":"该团体征集签名，要求彻底废除新政策。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revocation",
+            "annulment",
+            "abrogation",
+            "cancellation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Political discourse"
+}

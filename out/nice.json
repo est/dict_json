@@ -1,0 +1,134 @@
+{
+  "WORD":"nice",
+  "IPA":"/naɪs/",
+  "CONJUGATES":"nicer | nicest",
+  "ETYMOLOGY":"From Old French nice ('stupid, foolish, simple'), from Latin nescius ('ignorant'), from ne- ('not') + scius ('knowing'), from scire ('to know'). The meaning evolved over centuries from 'ignorant' to 'fussy, particular', then 'delicate, precise', and finally to its modern sense of 'pleasant, agreeable'.",
+  "SINCE":"Late 13th century (original meaning); current meanings developed by 18th-19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is nice | a nice [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Pleasant, agreeable, or enjoyable.",
+      "DEF_ZH":"令人愉快的；美好的；令人满意的。",
+      "SENT_EN":"We had a really nice time at the party.",
+      "SENT_ZH":"我们在派对上玩得很开心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pleasant",
+            "enjoyable",
+            "agreeable",
+            "lovely",
+            "delightful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unpleasant",
+            "awful",
+            "terrible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is nice | be nice to [sb]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Kind, friendly, or polite in character or behavior.",
+      "DEF_ZH":"友好的；善良的；和蔼的。",
+      "SENT_EN":"She's a very nice person, always willing to help others.",
+      "SENT_ZH":"她是个非常好的人，总是乐于助人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "kind",
+            "friendly",
+            "polite",
+            "amiable",
+            "generous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unkind",
+            "mean",
+            "rude",
+            "hostile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a nice [distinction/point/detail]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"Requiring or showing accuracy, precision, or subtle discrimination; delicate.",
+      "DEF_ZH":"精确的；细致的；微妙的；精密的。",
+      "SENT_EN":"There's a nice distinction between 'imply' and 'infer'.",
+      "SENT_ZH":"“暗示”和“推断”之间有细微的区别。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precise",
+            "subtle",
+            "delicate",
+            "fine",
+            "accurate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "imprecise",
+            "crude",
+            "broad"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"That's nice. | nice [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (describes a noun)",
+      "TAGS":[
+        "informal",
+        "general approval"
+      ],
+      "DEF_EN":"Good or satisfactory; acceptable. Often used as a general, sometimes mild or understated, expression of approval.",
+      "DEF_ZH":"好的；不错的；令人满意的 (常作泛泛的、有时略显敷衍的赞许)。",
+      "SENT_EN":"'I got an A on my test.' 'Oh, that's nice.'",
+      "SENT_ZH":"“我考试得了A。”“哦，不错。”",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "good",
+            "satisfactory",
+            "adequate",
+            "fine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in general conversation across various contexts, from informal to semi-formal. The meaning related to 'precision' is often found in more formal or academic discourse."
+}

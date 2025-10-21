@@ -1,0 +1,135 @@
+{
+  "WORD":"mint",
+  "IPA":"/mɪnt/",
+  "CONJUGATES":"mints | minted | minting",
+  "ETYMOLOGY":"The plant sense is from Old English minte, via Latin menta. The coinage sense is from Old English mynet (coin, money), derived from Latin monēta, referring to the temple of Juno Moneta where early Roman coins were struck.",
+  "SINCE":"Before 1000 (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] mint",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "government"
+      ],
+      "DEF_EN":"A place or institution where the currency of a country is manufactured, usually under government authority.",
+      "DEF_ZH":"铸造国家货币的场所或机构（铸币厂）。",
+      "SENT_EN":"The US Mint is responsible for producing all circulating coins.",
+      "SENT_ZH":"美国铸币厂负责生产所有流通的硬币。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "treasury",
+            "exchequer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mint [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "manufacturing"
+      ],
+      "DEF_EN":"To manufacture or stamp coins or currency.",
+      "DEF_ZH":"铸造或冲压（硬币）；（尤指最近）创造。",
+      "SENT_EN":"The central bank decided to mint a new gold bullion coin.",
+      "SENT_ZH":"中央银行决定铸造一种新的金条硬币。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coin",
+            "strike",
+            "stamp"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mint",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "botany",
+        "food"
+      ],
+      "DEF_EN":"An aromatic herb (genus Mentha) used as a culinary flavouring or for its essential oils; also the flavour derived from it.",
+      "DEF_ZH":"薄荷（一种芳香植物，叶子用作香料或调味品）；薄荷味。",
+      "SENT_EN":"She ordered a scoop of chocolate chip mint ice cream.",
+      "SENT_ZH":"她点了一份巧克力薄荷碎冰淇淋。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "peppermint",
+            "spearmint",
+            "menthol"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mint condition",
+      "POS":"adj / idiom",
+      "POS_TIP":"adjective / idiom",
+      "TAGS":[
+        "idiomatic",
+        "commerce",
+        "descriptive"
+      ],
+      "DEF_EN":"In pristine, perfect, or brand-new condition, as if newly issued from a mint.",
+      "DEF_ZH":"（物品）崭新如初的；完好无损的（源自新铸硬币的概念）。",
+      "SENT_EN":"Despite being twenty years old, the action figure remained in mint condition.",
+      "SENT_ZH":"尽管已经有二十年历史，这个手办仍然保持着全新的状态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pristine",
+            "unblemished",
+            "as-new"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "used",
+            "worn",
+            "tattered"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a mint (of money)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "idiomatic"
+      ],
+      "DEF_EN":"A very large sum of money.",
+      "DEF_ZH":"一大笔钱；巨款。",
+      "SENT_EN":"That designer handbag must have cost a mint.",
+      "SENT_ZH":"那个名牌手袋肯定花了一大笔钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fortune",
+            "bundle",
+            "wad"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

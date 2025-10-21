@@ -1,0 +1,93 @@
+{
+  "WORD":"minimum",
+  "IPA":"/ˈmɪnɪməm/",
+  "CONJUGATES":"plural: minimums (common) | minima (technical)",
+  "ETYMOLOGY":"From Latin minimum, neuter singular of minimus ('smallest', superlative of parvus 'small').",
+  "SINCE":"Late 17th century (c. 1670s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] minimum (of sth)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"The least or smallest amount or quantity possible, attainable, or required.",
+      "DEF_ZH":"最小量；最低限度；最少量。",
+      "SENT_EN":"We need to meet the minimum requirement of 50 attendees to confirm the booking.",
+      "SENT_ZH":"我们需要满足至少50名参与者的最低要求才能确认预订。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "least",
+            "lowest point",
+            "floor"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "maximum",
+            "limit",
+            "ceiling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"minimum [sth]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Core Word",
+        "Attribute"
+      ],
+      "DEF_EN":"The lowest level or smallest amount permitted, reached, or possible.",
+      "DEF_ZH":"最低的；最小的；最低限度的。",
+      "SENT_EN":"The minimum wage was recently raised by 5%.",
+      "SENT_ZH":"最低工资最近提高了5%。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lowest",
+            "slightest",
+            "minimal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "maximum",
+            "highest",
+            "greatest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] minimum",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Technical",
+        "Math/Science"
+      ],
+      "DEF_EN":"In mathematics, the value of a function at a point that is less than or equal to the values at all neighboring points; a point on a curve or function where the value is the smallest.",
+      "DEF_ZH":"(数学) 最小值；极小值。",
+      "SENT_EN":"Calculus is often used to determine the exact minimum and maximum points of a graph.",
+      "SENT_ZH":"微积分常用于确定图形上的精确最小值和最大值点。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "maximum"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

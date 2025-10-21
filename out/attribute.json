@@ -1,0 +1,88 @@
+{
+  "WORD":"attribute",
+  "IPA":"/əˈtrɪbjuːt/ (v.), /ˈætrɪbjuːt/ (n.)",
+  "CONJUGATES":"attributes | attributed | attributing",
+  "ETYMOLOGY":"From Latin attribuere, from ad- (to) + tribuere (to assign, allot, grant). Stress shifted for the noun form in English.",
+  "SINCE":"Late 14th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"attribute [sth] to [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition (stress on the second syllable: a-TRIB-ute)",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To regard something as being caused by or resulting from; to consider as belonging to.",
+      "DEF_ZH":"将...归因于；认为（某事）是（某人/某物）的。",
+      "SENT_EN":"She attributed her success entirely to hard work and dedication.",
+      "SENT_ZH":"她将自己的成功完全归功于勤奋和奉献。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ascribe",
+            "impute",
+            "credit",
+            "assign"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dissociate",
+            "detach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] attribute",
+      "POS":"n",
+      "POS_TIP":"noun (stress on the first syllable: AT-tri-bute)",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A quality, characteristic, or feature inherent in or belonging to someone or something.",
+      "DEF_ZH":"属性；特质；特性。",
+      "SENT_EN":"Patience is a necessary attribute for a good leader.",
+      "SENT_ZH":"耐心是优秀领导者必备的一项特质。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trait",
+            "characteristic",
+            "property",
+            "feature"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"attribute [sth] to [sb]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "specialized",
+        "art history"
+      ],
+      "DEF_EN":"To consider a work of art or literature as having been created by a particular person.",
+      "DEF_ZH":"（艺术或文学）认为某作品出自某人之手；断定归属。",
+      "SENT_EN":"The newly discovered manuscript was tentatively attributed to Shakespeare.",
+      "SENT_ZH":"这份新发现的手稿被暂时认定为莎士比亚的作品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assign",
+            "accredit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal or technical usage, depending on context"
+}

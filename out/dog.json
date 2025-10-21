@@ -1,0 +1,113 @@
+{
+  "WORD":"dog",
+  "IPA":"/dɒɡ/",
+  "CONJUGATES":"dogs | dogged | dogging",
+  "ETYMOLOGY":"From Old English docga, of unknown origin but possibly related to Middle Dutch dogge 'large dog'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"dog",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A domesticated carnivorous mammal of the family Canidae, typically having a highly developed sense of smell and a barking or howling voice.",
+      "DEF_ZH":"一种家养的食肉哺乳动物，属于犬科，通常嗅觉发达，会吠叫或嚎叫。",
+      "SENT_EN":"My neighbor's dog barks every morning, waking me up.",
+      "SENT_ZH":"我邻居的狗每天早上都叫，把我吵醒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "canine",
+            "hound",
+            "cur"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "puppy",
+            "mutt",
+            "bitch",
+            "kennel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dog [sb/sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To follow (someone or something) closely and persistently, especially in a troubling or persistent way.",
+      "DEF_ZH":"紧密并持续地跟踪（某人或某物），尤指以一种困扰或不懈的方式。",
+      "SENT_EN":"Misfortune seemed to dog his footsteps throughout his career.",
+      "SENT_ZH":"厄运似乎在他的整个职业生涯中一直困扰着他。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hound",
+            "shadow",
+            "pursue",
+            "plague"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dog",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "derogatory",
+        "colloquial"
+      ],
+      "DEF_EN":"A contemptible or unattractive person or thing, or something of poor quality.",
+      "DEF_ZH":"一个卑鄙、没有吸引力的人或物，或质量低劣的东西。",
+      "SENT_EN":"That old car is a real dog; it breaks down every other week.",
+      "SENT_ZH":"那辆旧车真是一辆破烂货；它每隔一周就抛锚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wretch",
+            "dud",
+            "lemon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"go to the dogs",
+      "POS":"idiom",
+      "POS_TIP":"idiomatic expression",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To deteriorate completely; to become ruined or degenerate.",
+      "DEF_ZH":"彻底变坏；变得一团糟或堕落。",
+      "SENT_EN":"After he lost his job, his life really went to the dogs.",
+      "SENT_ZH":"他失业后，他的生活真的变得一团糟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fall apart",
+            "go downhill",
+            "deteriorate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

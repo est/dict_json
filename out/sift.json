@@ -1,0 +1,83 @@
+{
+  "WORD":"sift",
+  "IPA":"/sɪft/",
+  "CONJUGATES":"sifts | sifted | sifting",
+  "ETYMOLOGY":"From Middle English `siften`, from Old English `siftan` ('to sift'), related to `sife` ('sieve'). Ultimately from Proto-Germanic `*siftijan`.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"sift [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb, takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put a fine or loose substance through a sieve or strainer to separate out coarser particles or lumps.",
+      "DEF_ZH":"用筛子筛（细的或散的物质），以分离出较粗的颗粒或结块。",
+      "SENT_EN":"She carefully sifted the flour into the bowl to ensure a smooth batter.",
+      "SENT_ZH":"她仔细地把面粉筛入碗中，以确保面糊顺滑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sieve",
+            "strain",
+            "riddle",
+            "filter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sift through [sth]",
+      "POS":"v + prep",
+      "POS_TIP":"Verb followed by a preposition",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To examine something thoroughly and carefully in order to find something, especially information or clues.",
+      "DEF_ZH":"仔细而彻底地检查某物，以寻找（尤其是信息或线索）。",
+      "SENT_EN":"Detectives spent hours sifting through the crime scene evidence.",
+      "SENT_ZH":"侦探们花了几个小时仔细筛选犯罪现场的证据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "examine",
+            "scrutinize",
+            "investigate",
+            "analyse",
+            "sort through"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] sift(s)",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb, does not take a direct object",
+      "TAGS":[
+        "less common",
+        "poetic"
+      ],
+      "DEF_EN":"(Of a fine substance) to fall or be sprinkled as if from a sieve.",
+      "DEF_ZH":"（指细小的物质）像从筛子中落下或洒下。",
+      "SENT_EN":"Fine snow began to sift down through the branches of the trees.",
+      "SENT_ZH":"细雪开始从树枝间轻轻飘落。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drift",
+            "sprinkle",
+            "fall gently"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

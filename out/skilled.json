@@ -1,0 +1,71 @@
+{
+  "WORD":"skilled",
+  "IPA":"/skɪld/",
+  "CONJUGATES":"skill (noun/verb) | skills (noun/verb) | skilled (verb past tense/past participle/adjective) | skilling (verb present participle)",
+  "ETYMOLOGY":"From Middle English 'skil' (reason, discernment, knowledge), from Old Norse 'skil' (distinction, discernment, knowledge). The adjective 'skilled' is derived from the past participle of the verb 'to skill', meaning 'to have knowledge or expertise'.",
+  "SINCE":"Late 13th century (for 'skill'), late 15th century (for 'skilled')",
+  "MEANINGS":[
+    {
+      "PATTERN":"skilled",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having great ability, proficiency, or dexterity in a particular activity, craft, or profession, typically gained through training or experience.",
+      "DEF_ZH":"在特定活动、技艺或职业方面具有很强的能力、熟练度或技巧的，通常通过训练或经验获得。",
+      "SENT_EN":"She is a highly skilled surgeon who can perform complex operations with precision.",
+      "SENT_ZH":"她是一位技艺高超的外科医生，能够精确地进行复杂的手术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expert",
+            "proficient",
+            "accomplished",
+            "adept",
+            "masterful",
+            "competent",
+            "experienced",
+            "qualified"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unskilled",
+            "inexperienced",
+            "amateur",
+            "inept",
+            "clumsy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"skilled [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes a noun or pronoun",
+      "TAGS":[
+        "common",
+        "professional"
+      ],
+      "DEF_EN":"(Of work or a job) Requiring special training, experience, or ability to perform.",
+      "DEF_ZH":"（指工作或职业）需要特殊训练、经验或能力才能完成的。",
+      "SENT_EN":"The factory is facing a shortage of skilled labor, making it hard to meet production targets.",
+      "SENT_ZH":"这家工厂面临熟练劳动力短缺的问题，使其难以达到生产目标。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "skilled worker",
+            "skilled trade",
+            "unskilled labor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

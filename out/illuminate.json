@@ -1,0 +1,97 @@
+{
+  "WORD":"illuminate",
+  "IPA":"/ɪˈluːmɪneɪt/",
+  "CONJUGATES":"illuminates | illuminating | illuminated",
+  "ETYMOLOGY":"From Latin *illuminare*, past participle *illuminatus*, from *in-* 'into' + *lumen* (stem *lumin-*) 'light'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"illuminate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical"
+      ],
+      "DEF_EN":"To light up or brighten something; to supply with light.",
+      "DEF_ZH":"照亮，使明亮；用光线照射。",
+      "SENT_EN":"The fireworks briefly illuminated the night sky.",
+      "SENT_ZH":"烟花短暂地照亮了夜空。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "light",
+            "brighten",
+            "light up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "darken",
+            "obscure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"illuminate [sth] (for [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "abstract",
+        "formal"
+      ],
+      "DEF_EN":"To make something clearer or easier to understand; to explain or clarify.",
+      "DEF_ZH":"阐明，解释，启迪；使（问题或主题）更清楚。",
+      "SENT_EN":"His analysis helped to illuminate the complex economic situation.",
+      "SENT_ZH":"他的分析有助于阐明复杂的经济形势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clarify",
+            "explain",
+            "elucidate",
+            "shed light on"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "insight",
+            "understanding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"illuminate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "art",
+        "historical"
+      ],
+      "DEF_EN":"To decorate a manuscript with gold, silver, or colored designs and miniature pictures.",
+      "DEF_ZH":"（尤指在中世纪手稿上）饰以图案、插图（常使用金银色彩）。",
+      "SENT_EN":"The young scribe spent months illuminating the text of the Psalter.",
+      "SENT_ZH":"这位年轻的抄写员花了数月时间装饰《诗篇》的文本。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "illumination",
+            "manuscript",
+            "miniature"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard; Formal when used metaphorically (Meaning 2)."
+}

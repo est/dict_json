@@ -1,0 +1,106 @@
+{
+  "WORD":"friction",
+  "IPA":"/ˈfrɪkʃən/",
+  "CONJUGATES":"frictions",
+  "ETYMOLOGY":"From Latin frictio (stem friction-), from fricare 'to rub', plus the suffix -tion.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "physics",
+        "technical"
+      ],
+      "DEF_EN":"The resistance encountered when one surface or object moves over another.",
+      "DEF_ZH":"两个表面相互接触运动时产生的阻力；摩擦力。",
+      "SENT_EN":"Without adequate friction, the car would slide right off the icy road.",
+      "SENT_ZH":"如果没有足够的摩擦力，汽车会径直滑出结冰的路面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resistance",
+            "drag",
+            "rubbing"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lubrication",
+            "traction",
+            "coefficient"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "common",
+        "abstract",
+        "social"
+      ],
+      "DEF_EN":"Conflict, tension, or disagreement between people or groups due to differences in opinion or personality.",
+      "DEF_ZH":"因意见或个性差异而产生的冲突、不和或敌意；矛盾。",
+      "SENT_EN":"The constant friction between the two department heads is slowing down production.",
+      "SENT_ZH":"两个部门主管之间持续的矛盾正在拖慢生产进度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conflict",
+            "tension",
+            "strife",
+            "discord"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "harmony",
+            "accord",
+            "cooperation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U] (in a process)",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "business",
+        "modern usage",
+        "abstract"
+      ],
+      "DEF_EN":"Difficulty or effort required by a user or participant to complete a process or transaction.",
+      "DEF_ZH":"用户或参与者在特定流程或交易中所需的努力或遇到的困难；阻力。",
+      "SENT_EN":"The new website aims to reduce the friction customers experience during sign-up.",
+      "SENT_ZH":"新网站旨在减少顾客在注册过程中遇到的阻力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hinderance",
+            "difficulty",
+            "barrier"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "UX design",
+            "bottleneck"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

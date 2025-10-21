@@ -1,0 +1,96 @@
+{
+  "WORD":"magnitude",
+  "IPA":"/ˈmæɡnɪtjuːd/",
+  "CONJUGATES":"magnitudes",
+  "ETYMOLOGY":"From Latin *magnitūdō* 'greatness', from *magnus* 'great'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The great size or extent of something; importance or influence.",
+      "DEF_ZH":"（事物、问题等的）巨大，重大，重要性",
+      "SENT_EN":"The sheer magnitude of the disaster was difficult to comprehend.",
+      "SENT_ZH":"这场灾难的巨大程度令人难以理解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "size",
+            "extent",
+            "greatness",
+            "importance",
+            "significance",
+            "consequence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insignificance",
+            "triviality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "science",
+        "astronomy"
+      ],
+      "DEF_EN":"A measure of the brightness of a star or other celestial body, or the energy released by an earthquake.",
+      "DEF_ZH":"（天文学中恒星的）星等；（地震的）震级",
+      "SENT_EN":"The earthquake registered 7.0 on the Richter scale, a significant magnitude.",
+      "SENT_ZH":"这次地震里氏震级为7.0级，震级相当大。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Richter scale",
+            "stellar magnitude"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "science",
+        "physics",
+        "mathematics"
+      ],
+      "DEF_EN":"The size or extent of a quantity or vector, especially its absolute value, irrespective of its direction or other characteristics.",
+      "DEF_ZH":"（物理、数学中）量值，大小；绝对值",
+      "SENT_EN":"The velocity vector has both a magnitude and a direction.",
+      "SENT_ZH":"速度矢量既有大小也有方向。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "value",
+            "amount",
+            "quantity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "vector",
+            "scalar"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

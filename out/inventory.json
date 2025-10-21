@@ -1,0 +1,84 @@
+{
+  "WORD":"inventory",
+  "IPA":"/ˈɪnvəntɔːri/",
+  "CONJUGATES":"inventories (plural noun) | inventoried (past tense, past participle) | inventorying (present participle)",
+  "ETYMOLOGY":"From Medieval Latin inventōrium, from Latin inventus, past participle of invenire 'to find'. The noun sense developed from the meaning 'a list of things found'.",
+  "SINCE":"Late 15th century (noun), mid-17th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"inventory [of sth]",
+      "POS":"n. countable/uncountable",
+      "POS_TIP":"noun, countable or uncountable: a word referring to a person, place, thing, or idea",
+      "TAGS":[
+        "core word",
+        "business",
+        "common"
+      ],
+      "DEF_EN":"A complete list of items such as property, goods in stock, or the contents of a building.",
+      "DEF_ZH":"（某处或某人拥有的）物品清单；财产目录",
+      "SENT_EN":"The company conducted a thorough inventory of its assets before the merger.",
+      "SENT_ZH":"公司在合并前对所有资产进行了彻底的盘点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stocklist",
+            "catalogue",
+            "register",
+            "roll"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inventory",
+      "POS":"n. uncountable",
+      "POS_TIP":"noun, uncountable: a word referring to a person, place, thing, or idea, which does not have a plural form",
+      "TAGS":[
+        "core word",
+        "business",
+        "common"
+      ],
+      "DEF_EN":"The quantity of goods or materials kept in stock by a business.",
+      "DEF_ZH":"存货；库存品",
+      "SENT_EN":"We need to reduce our inventory levels to cut costs.",
+      "SENT_ZH":"我们需要降低库存水平以削减成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stock",
+            "goods",
+            "supplies",
+            "wares"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inventory [sth]",
+      "POS":"v. transitive",
+      "POS_TIP":"verb, transitive: a verb that takes a direct object",
+      "TAGS":[
+        "common",
+        "business"
+      ],
+      "DEF_EN":"To make a detailed list of all the items of something.",
+      "DEF_ZH":"列清单；盘点",
+      "SENT_EN":"The museum is inventorying its entire collection to prepare for the exhibition.",
+      "SENT_ZH":"博物馆正在清点其全部藏品，为展览做准备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "itemize",
+            "list",
+            "catalogue",
+            "stocktake"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Primarily business and general use."
+}

@@ -1,0 +1,86 @@
+{
+  "WORD":"help",
+  "IPA":"/hɛlp/",
+  "CONJUGATES":"helps | helping | helped",
+  "ETYMOLOGY":"From Middle English helpen, from Old English helpan (verb), from Proto-Germanic *helpaną. The noun derived from the verb or related to Old English helpe.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"help [sb] [do sth] | help [sb] with [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To assist or aid someone in accomplishing a task or relieving a difficulty.",
+      "DEF_ZH":"协助或支持某人完成任务或减轻困难。",
+      "SENT_EN":"Could you help me carry these groceries up the stairs?",
+      "SENT_ZH":"你能帮我把这些杂货搬上楼梯吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assist",
+            "aid",
+            "support"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hinder",
+            "impede",
+            "obstruct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"need help | ask for help",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action or resource provided when assisting someone; aid or support.",
+      "DEF_ZH":"所提供的协助、援助或支持。",
+      "SENT_EN":"We need immediate help to resolve this complex engineering problem.",
+      "SENT_ZH":"我们需要立即获得帮助来解决这个复杂的工程问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assistance",
+            "aid",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cannot help [doing sth]",
+      "POS":"vtr + idiomatic",
+      "POS_TIP":"transitive verb (used idiomatically)",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"To be unable to prevent or stop oneself from doing or feeling something.",
+      "DEF_ZH":"情不自禁；无法控制自己不去做某事。",
+      "SENT_EN":"Even though I tried to stay serious, I couldn't help smiling at his joke.",
+      "SENT_ZH":"尽管我努力保持严肃，但我还是忍不住被他的笑话逗笑了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "resist",
+            "avoid"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

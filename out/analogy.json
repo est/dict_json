@@ -1,0 +1,65 @@
+{
+  "WORD":"analogy",
+  "IPA":"/əˈnæl.ə.dʒi/",
+  "CONJUGATES":"analogies",
+  "ETYMOLOGY":"From Latin analogia, from Ancient Greek ἀναλογία (analogía, 'proportion'), from ἀνάλογος (análogos, 'proportionate'), from ἀνά (aná, 'up to, according to') + λόγος (lógos, 'word, speech, reason, ratio').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"an analogy (between X and Y) | an analogy (with X)",
+      "POS":"noun",
+      "POS_TIP":"A word (noun) that refers to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A comparison between two things that are otherwise dissimilar, typically for the purpose of explanation or clarification.",
+      "DEF_ZH":"两种在其他方面不同的事物之间的比较，通常用于解释或阐明。",
+      "SENT_EN":"She drew an analogy between the human heart and a pump.",
+      "SENT_ZH":"她将人心脏比作一个泵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "comparison",
+            "likeness",
+            "parallel",
+            "correspondence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contrast",
+            "dissimilarity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"by analogy (with X) | an analogy (for X)",
+      "POS":"noun",
+      "POS_TIP":"A word (noun) that refers to a person, place, thing, quality, or idea.",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A process of reasoning in which a parallel is drawn between two cases, or the inference that if two things agree in one respect, they will agree in others. Also, the formation of new words or forms on the model of existing ones.",
+      "DEF_ZH":"一种推理过程，其中在两种情况之间画出相似之处，或者推断如果两件事物在一个方面一致，它们在其他方面也会一致。也指根据现有词语或形式模仿生成新词或新形式的过程。",
+      "SENT_EN":"The argument was based on an analogy with historical events.",
+      "SENT_ZH":"这个论点是基于与历史事件的类比。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "analogous",
+            "reasoning",
+            "logic",
+            "metaphor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal or general"
+}

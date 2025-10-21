@@ -1,0 +1,90 @@
+{
+  "WORD":"transform",
+  "IPA":"/trænsˈfɔːrm/",
+  "CONJUGATES":"transforms | transforming | transformed | transformation (noun)",
+  "ETYMOLOGY":"From Latin trānsformāre, from trāns- (across, over) + formāre (to form).",
+  "SINCE":"c. 1380",
+  "MEANINGS":[
+    {
+      "PATTERN":"transform [sth] (into [sth else])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "dynamic"
+      ],
+      "DEF_EN":"To make a dramatic or complete change in the form, appearance, or nature of someone or something.",
+      "DEF_ZH":"彻底改变（某物）的形态、外观或性质。",
+      "SENT_EN":"The introduction of renewable energy has transformed the nation's power sector.",
+      "SENT_ZH":"可再生能源的引入彻底改变了国家的电力部门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "convert",
+            "revolutionize",
+            "restructure",
+            "metamorphose"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "maintain",
+            "preserve",
+            "conserve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transform",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "process"
+      ],
+      "DEF_EN":"To undergo a dramatic change in form or character.",
+      "DEF_ZH":"经历彻底的形态或性格改变；转变。",
+      "SENT_EN":"The small company transformed rapidly after securing new investment.",
+      "SENT_ZH":"这家小公司在获得新投资后迅速转型。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "change",
+            "evolve",
+            "develop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"transform [data/energy]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "science",
+        "computing"
+      ],
+      "DEF_EN":"To convert data, signals, or energy from one medium or format into another.",
+      "DEF_ZH":"将数据、信号或能量从一种介质或格式转换成另一种。",
+      "SENT_EN":"The software is used to transform raw data into usable statistical models.",
+      "SENT_ZH":"该软件用于将原始数据转化为可用的统计模型。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "conversion",
+            "processing",
+            "Fourier"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

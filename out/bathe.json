@@ -1,0 +1,85 @@
+{
+  "WORD":"bathe",
+  "IPA":"/beɪð/",
+  "CONJUGATES":"bathes | bathing | bathed",
+  "ETYMOLOGY":"From Middle English bathen, from Old English baþian (to wash, immerse), related to bæþ (bath).",
+  "SINCE":"Old English (before 1100 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] bathe(s) | bathe [sb/sth]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To wash oneself or someone else, especially by immersing the body in water (often British usage for washing oneself). To apply liquid to a part of the body, such as a wound.",
+      "DEF_ZH":"洗澡；沐浴；给（某人或伤口）冲洗。",
+      "SENT_EN":"She decided to bathe the baby before dinner.",
+      "SENT_ZH":"她决定在晚饭前给宝宝洗个澡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wash",
+            "cleanse",
+            "soak"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bath",
+            "shampoo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] be bathed in [light/liquid]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "literary",
+        "figurative"
+      ],
+      "DEF_EN":"To cover or surround something with a fluid, liquid, or soft, glowing light.",
+      "DEF_ZH":"笼罩；浸润；充满（光线、液体等）。",
+      "SENT_EN":"The entire valley was bathed in the warm morning sunlight.",
+      "SENT_ZH":"整个山谷沐浴在温暖的晨光中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flood",
+            "immerse",
+            "envelop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] bathe(s) in [water body]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "regional",
+        "british english"
+      ],
+      "DEF_EN":"To swim in the sea, a river, or a lake for pleasure.",
+      "DEF_ZH":"（在海、河、湖中）游泳；戏水。",
+      "SENT_EN":"We went down to the coast to bathe, though the water was cold.",
+      "SENT_ZH":"我们去海岸边游泳了，尽管水很冷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swim",
+            "dip"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

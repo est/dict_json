@@ -1,0 +1,102 @@
+{
+  "WORD":"minimize",
+  "IPA":"/ˈmɪnɪmaɪz/",
+  "CONJUGATES":"minimizes | minimized | minimizing",
+  "ETYMOLOGY":"Formed from minimum (from Latin minimus 'smallest') + the suffix -ize (indicating causation or action).",
+  "SINCE":"Mid-19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"minimize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To reduce something, especially something undesirable, to the smallest possible amount or degree.",
+      "DEF_ZH":"将某事物（尤指不受欢迎的事物）减少到最小数量或程度；使达到最小。",
+      "SENT_EN":"The company decided to minimize overhead costs by cutting non-essential services.",
+      "SENT_ZH":"公司决定通过削减非必要服务来最大限度地减少间接成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "decrease",
+            "lessen",
+            "curtail"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "maximize",
+            "increase",
+            "magnify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"minimize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "behavioral"
+      ],
+      "DEF_EN":"To treat or describe something as being less important, serious, or significant than it actually is; to belittle.",
+      "DEF_ZH":"轻描淡写，淡化，低估（重要性或严重性）。",
+      "SENT_EN":"The CEO tried to minimize the impact of the faulty product recall on the firm's reputation.",
+      "SENT_ZH":"首席执行官试图淡化有缺陷产品召回对公司声誉的影响。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "understate",
+            "downplay",
+            "play down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exaggerate",
+            "overstate",
+            "dramatize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"minimize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To reduce a computer window to an icon or smaller representation on the screen, often relocating it to the taskbar.",
+      "DEF_ZH":"（在计算机界面中）将窗口缩小到任务栏或停靠栏上的图标。",
+      "SENT_EN":"I minimized the browser window while I checked my email.",
+      "SENT_ZH":"我将浏览器窗口最小化，同时查看了我的电子邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "iconize",
+            "collapse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "restore",
+            "maximize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

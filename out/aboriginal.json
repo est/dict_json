@@ -1,0 +1,84 @@
+{
+  "WORD":"aboriginal",
+  "IPA":"/ˌæbəˈrɪdʒɪnəl/",
+  "CONJUGATES":"aboriginal (singular/adjective) | aboriginals (plural noun)",
+  "ETYMOLOGY":"From Latin ab origine 'from the beginning', formed from ab 'from' + origine 'origin'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"aboriginal [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Inhabiting or existing in a land from the earliest times or from before the arrival of colonists.",
+      "DEF_ZH":"本土的；土著的；原始的",
+      "SENT_EN":"The aboriginal flora and fauna of the island are unique.",
+      "SENT_ZH":"这个岛屿的本土动植物是独一无二的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indigenous",
+            "native"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "alien",
+            "foreign"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an Aboriginal | Aboriginals | Aboriginal people",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "sensitive usage",
+        "often capitalized for Australian context"
+      ],
+      "DEF_EN":"A member of the indigenous people of Australia. (Often capitalized 'Aboriginal' when referring to Australian Indigenous peoples).",
+      "DEF_ZH":"（常作大写）澳大利亚土著居民",
+      "SENT_EN":"Respect for Aboriginal culture is vital in Australia.",
+      "SENT_ZH":"在澳大利亚，尊重土著文化至关重要。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Indigenous Australian"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an aboriginal | aboriginals",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "general"
+      ],
+      "DEF_EN":"An indigenous inhabitant of any country (less commonly used as a noun than the capitalized Australian context).",
+      "DEF_ZH":"（某国的）土著居民，原住民",
+      "SENT_EN":"Many aboriginal tribes have preserved their ancient traditions.",
+      "SENT_ZH":"许多土著部落保留了他们古老的传统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indigenous person",
+            "native"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General / Formal"
+}

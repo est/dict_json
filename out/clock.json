@@ -1,0 +1,111 @@
+{
+  "WORD":"clock",
+  "IPA":"/klɒk/",
+  "CONJUGATES":"clocks | clocked | clocking",
+  "ETYMOLOGY":"From Middle English clok, from Old North French cloque ('bell'), from Medieval Latin clocca ('bell'), probably of Celtic origin. The sense 'timepiece' developed from the bells used to mark hours in monasteries.",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a clock",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An instrument for measuring and indicating time, typically with a face and hands or a digital display.",
+      "DEF_ZH":"一种测量和显示时间的仪器，通常有表盘和指针或数字显示。",
+      "SENT_EN":"The old grandfather clock chimed midnight.",
+      "SENT_ZH":"那座老式落地钟敲响了午夜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "timepiece",
+            "watch",
+            "chronometer"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "alarm clock",
+            "stopwatch",
+            "clockwork"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] clock [sth]",
+      "POS":"vt.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "measurement"
+      ],
+      "DEF_EN":"To measure the time taken to complete a distance or task, or the speed of something.",
+      "DEF_ZH":"测量完成某段距离或任务所需的时间，或某物的速度。",
+      "SENT_EN":"He clocked a record time in the 100-meter sprint.",
+      "SENT_ZH":"他在100米短跑中跑出了创纪录的成绩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "time",
+            "measure",
+            "record"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] clock [sb/sth]",
+      "POS":"vt.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "informal"
+      ],
+      "DEF_EN":"To hit someone or something, especially on the head.",
+      "DEF_ZH":"击打某人或某物，尤指头部。",
+      "SENT_EN":"He nearly clocked me with his elbow.",
+      "SENT_ZH":"他差点用肘部打到我。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hit",
+            "strike",
+            "punch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] clock [sth/sb]",
+      "POS":"vt.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "informal",
+        "British English"
+      ],
+      "DEF_EN":"To notice or observe something or someone.",
+      "DEF_ZH":"（俚语，英式）注意到或观察到某事或某人。",
+      "SENT_EN":"Did you clock that new car?",
+      "SENT_ZH":"你注意到那辆新车了吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "notice",
+            "observe",
+            "spot"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common for the timepiece and measurement meanings; informal or slang for the other verb meanings."
+}

@@ -1,0 +1,144 @@
+{
+  "WORD":"bail",
+  "IPA":"/beɪl/",
+  "CONJUGATES":"bail (noun singular) | bails (noun plural) | bail (verb base) | bails (verb 3rd person singular present) | bailing (verb present participle) | bailed (verb past tense/past participle)",
+  "ETYMOLOGY":"From Old French *baillier* ('to take charge of, deliver'), ultimately from Latin *baiulare* ('to carry a burden'), which led to the legal sense. The sense of removing water ('to bail out') emerged later, possibly from Old French *baillier* ('to ladle') or a nautical context. The cricket term's origin is uncertain but may relate to Old French *bail* ('barrier') or *bale* ('bundle').",
+  "SINCE":"~13th century (legal sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] bail",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"The temporary release of a prisoner in exchange for security (money or property) to guarantee their appearance in court.",
+      "DEF_ZH":"为确保被捕者出庭而支付的保释金或抵押品，使其获得暂时释放。",
+      "SENT_EN":"The judge set bail at $50,000 for the defendant.",
+      "SENT_ZH":"法官将被告的保释金定为5万美元。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bond",
+            "surety",
+            "pledge"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "probation",
+            "parole"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] bail [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"To secure the release of an arrested person by providing bail.",
+      "DEF_ZH":"通过提供保释金或抵押品，将被捕者从拘留中释放。",
+      "SENT_EN":"His parents had to bail him out of jail.",
+      "SENT_ZH":"他的父母不得不把他从监狱里保释出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "release",
+            "free",
+            "post bail for"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] bail [sth] out",
+      "POS":"v + adv",
+      "POS_TIP":"verb with adverbial particle: a verb followed by an adverb, forming a phrasal verb where the adverb modifies the verb.",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"To remove water from a boat or other container, typically using a bucket or scoop.",
+      "DEF_ZH":"（通常用桶或勺子）从船只或其他容器中舀水。",
+      "SENT_EN":"We had to quickly bail water out of the leaking boat.",
+      "SENT_ZH":"我们不得不迅速把漏水的船里的水舀出去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scoop out",
+            "drain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] bail out (of [sth])",
+      "POS":"vi + prep | vi",
+      "POS_TIP":"intransitive verb with preposition: a verb that does not take a direct object, followed by a preposition to complete its meaning. | intransitive verb: a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To abandon a difficult or dangerous situation, or to withdraw from a commitment or responsibility.",
+      "DEF_ZH":"放弃困难或危险的处境；退出一项承诺或责任。",
+      "SENT_EN":"He decided to bail out of the project before it failed.",
+      "SENT_ZH":"他决定在项目失败之前退出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "retreat",
+            "withdraw",
+            "quit",
+            "escape"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "commit",
+            "stay"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] bail",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "specific",
+        "cricket"
+      ],
+      "DEF_EN":"One of the two small pieces of wood that lie on top of the stumps in cricket.",
+      "DEF_ZH":"板球中放置在三柱门顶部的两块小木头之一。",
+      "SENT_EN":"The bowler hit the stumps and the bails flew off.",
+      "SENT_ZH":"投球手击中了三柱门，小木块飞了起来。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stump",
+            "wicket",
+            "cricket"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The legal and 'bail out' meanings are widely used. The cricket term is specific to the sport. The 'bail out' meaning for abandoning a situation is informal but common."
+}

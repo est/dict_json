@@ -1,0 +1,76 @@
+{
+  "WORD":"enclose",
+  "IPA":"/ɪnˈkloʊz/",
+  "CONJUGATES":"enclose | encloses | enclosed | enclosing",
+  "ETYMOLOGY":"From Old French enclore 'to shut in, include', from Latin includere (in- 'into' + claudere 'to shut').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"enclose [sth] (in/with [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To surround something completely with a wall, fence, or other barrier.",
+      "DEF_ZH":"用墙、篱笆或其他障碍物将某物完全围住。",
+      "SENT_EN":"A high fence encloses the garden, keeping out unwanted animals.",
+      "SENT_ZH":"高高的篱笆围住了花园，将不速之客挡在外面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surround",
+            "encircle",
+            "fence in",
+            "wall off",
+            "hem in",
+            "ring"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "open",
+            "release",
+            "expose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"enclose [sth] (in [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put something inside an envelope, package, or other container along with other items.",
+      "DEF_ZH":"将某物连同其他物品一起放入信封、包裹或其他容器中。",
+      "SENT_EN":"Please find enclosed a copy of my resume for your review.",
+      "SENT_ZH":"请查收随函附上的我的简历以供审阅。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "include",
+            "insert",
+            "put in",
+            "place inside"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "remove",
+            "extract",
+            "omit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

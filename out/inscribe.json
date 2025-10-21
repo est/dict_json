@@ -1,0 +1,83 @@
+{
+  "WORD":"inscribe",
+  "IPA":"/ɪnˈskraɪb/",
+  "CONJUGATES":"inscribes | inscribing | inscribed",
+  "ETYMOLOGY":"From Latin inscribere, combining in- ('into, upon') and scribere ('to write'), meaning literally 'to write upon'.",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"inscribe [sth] on [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To write, carve, or engrave words or symbols on a surface, especially one that is hard or durable, intended as a permanent record.",
+      "DEF_ZH":"刻写；雕刻；铭刻（文字或符号）在表面上，通常指刻在坚硬或耐用的材料上，用作永久记录。",
+      "SENT_EN":"The sculptor inscribed the dedication date on the base of the statue.",
+      "SENT_ZH":"雕塑家把献词日期刻在了雕像的底座上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "engrave",
+            "carve",
+            "etch",
+            "write"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "inscription",
+            "scribe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inscribe [a figure] in [another figure]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "specialized",
+        "geometry"
+      ],
+      "DEF_EN":"In geometry, to draw a figure within another so that the inner figure touches the boundary of the outer figure at as many points as possible (e.g., a circle within a polygon).",
+      "DEF_ZH":"（几何学）内切；内接。在一个图形内画另一个图形，使其边界相切。",
+      "SENT_EN":"It is possible to inscribe a circle within any regular polygon.",
+      "SENT_ZH":"在任何正多边形内都可以内接一个圆。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "circumscribe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inscribe [a book] with [a message]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To write a dedication or message on the inside page of a book or gift.",
+      "DEF_ZH":"题献；题赠（在书或其他礼物上写下献词或留言）。",
+      "SENT_EN":"She inscribed the first edition novel with a note to her daughter.",
+      "SENT_ZH":"她在小说第一版上题写了一张便条给她的女儿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dedicate",
+            "autograph"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or academic contexts (historical, artistic, geometric)."
+}

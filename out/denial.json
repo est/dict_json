@@ -1,0 +1,84 @@
+{
+  "WORD":"denial",
+  "IPA":"/dɪˈnaɪəl/",
+  "CONJUGATES":"denials",
+  "ETYMOLOGY":"From Middle English deniell, derived from the verb 'deny' (from Old French denier, ultimately from Latin denegare, 'to deny, refuse'). Formed by adding the noun-forming suffix -al.",
+  "SINCE":"c. 1500",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act of declaring that something is untrue, or the refusal to admit the truth or reality of something.",
+      "DEF_ZH":"否认; 拒绝承认某事或某事实的存在。",
+      "SENT_EN":"The politician issued a fierce denial regarding the corruption allegations.",
+      "SENT_ZH":"这位政客对腐败指控发出了强烈的否认。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disclaimer",
+            "repudiation",
+            "rebuttal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "admission",
+            "acknowledgement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in denial | state of denial",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "psychology",
+        "technical"
+      ],
+      "DEF_EN":"In psychology, a state where a person unconsciously refuses to acknowledge an intolerable truth or external reality as a defense mechanism.",
+      "DEF_ZH":"（心理学）否认；拒绝承认（令人痛苦的）现实的心理防御机制。",
+      "SENT_EN":"She is living in denial about the severity of her illness.",
+      "SENT_ZH":"她拒绝承认自己病情的严重性，活在否认中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "repression",
+            "defense mechanism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"denial of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"The refusal to grant someone access to or possession of something requested or desired.",
+      "DEF_ZH":"拒绝给予（某物）；剥夺；禁止。",
+      "SENT_EN":"The denial of their asylum application led to deportation.",
+      "SENT_ZH":"他们的庇护申请被拒导致了遣返。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "refusal",
+            "withholding"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often used in legal, political, or psychological contexts."
+}

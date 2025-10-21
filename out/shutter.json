@@ -1,0 +1,119 @@
+{
+  "WORD":"shutter",
+  "IPA":"/ˈʃʌtər/",
+  "CONJUGATES":"n: shutter | shutters | v: shutter | shutters | shuttering | shuttered",
+  "ETYMOLOGY":"From the verb 'shut' + the agent suffix '-er'. The verb 'shut' comes from Old English 'scyttan' (to close, to block up).",
+  "SINCE":"Late 17th century (for window cover); early 19th century (for camera mechanism)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] shutter",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A movable cover, usually hinged, for a window, designed to keep out light or provide privacy or security.",
+      "DEF_ZH":"窗户上可移动的盖板，通常带铰链，用于遮光、保护隐私或安全。",
+      "SENT_EN":"She closed the wooden shutters to block out the bright morning sun.",
+      "SENT_ZH":"她关上木制百叶窗，挡住了刺眼的晨光。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blind",
+            "louvre"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "window",
+            "curtain",
+            "jalousie"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a/the] camera shutter",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "photography"
+      ],
+      "DEF_EN":"A mechanical device in a camera that opens and closes to control the duration of light exposure on the film or digital sensor.",
+      "DEF_ZH":"照相机中的机械装置，通过开合控制胶片或数字传感器曝光于光线的时间。",
+      "SENT_EN":"The photographer adjusted the shutter speed to capture the fast-moving car without blur.",
+      "SENT_ZH":"摄影师调整了快门速度，以清晰地捕捉快速移动的汽车。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "aperture",
+            "lens",
+            "exposure",
+            "camera"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shutter [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To close or cover a window, door, or other opening with shutters.",
+      "DEF_ZH":"用百叶窗或其他遮盖物关闭或遮盖窗户、门或其他开口。",
+      "SENT_EN":"They shuttered the old house before leaving for the winter.",
+      "SENT_ZH":"他们冬季离开前把老房子都关上了百叶窗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "close",
+            "secure",
+            "board up"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "open",
+            "unshutter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shutter [sth/vi]",
+      "POS":"vt | vi",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "idiomatic",
+        "common"
+      ],
+      "DEF_EN":"(Of a business or establishment) to close down permanently, often due to financial difficulties.",
+      "DEF_ZH":"（指企业或机构）永久关闭，通常是由于财务困难。",
+      "SENT_EN":"Many small shops were forced to shutter during the economic downturn.",
+      "SENT_ZH":"在经济衰退期间，许多小商店被迫关闭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "close down",
+            "cease operations",
+            "go out of business",
+            "fold"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

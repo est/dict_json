@@ -1,0 +1,40 @@
+{
+  "WORD":"longitude",
+  "IPA":"/ˈlɒn(d)ʒɪtjuːd/",
+  "CONJUGATES":"longitudes",
+  "ETYMOLOGY":"From Latin longitūdō (length), derived from longus (long). Entered English via French.",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"longitude",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "navigation",
+        "astronomy"
+      ],
+      "DEF_EN":"The angular distance of a place on the Earth's surface, or a celestial body, east or west of the Prime Meridian (Greenwich), expressed in degrees and minutes.",
+      "DEF_ZH":"经度；地球表面（或天体）某地点与本初子午线（通常指格林威治）之间的东西向角距离，通常以度或分表示。",
+      "SENT_EN":"The current longitude reading showed the vessel was far out in the Atlantic.",
+      "SENT_ZH":"当前的经度读数显示该船只在遥远的北大西洋上。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "latitude"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "meridian",
+            "Prime Meridian"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal/Technical (used primarily in scientific and navigational contexts)."
+}

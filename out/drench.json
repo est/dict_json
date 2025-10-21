@@ -1,0 +1,78 @@
+{
+  "WORD":"drench",
+  "IPA":"/drɛntʃ/",
+  "CONJUGATES":"drenching | drenched | drenches",
+  "ETYMOLOGY":"From Old English drencan 'to give to drink, to make drunk, to drown,' related to drink.",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"drench [sb] / [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To wet thoroughly; soak or saturate completely.",
+      "DEF_ZH":"使浸透；使湿透；淋湿。",
+      "SENT_EN":"We were completely drenched by the sudden thunderstorm.",
+      "SENT_ZH":"我们被突如其来的雷暴雨彻底淋湿了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "soak",
+            "saturate",
+            "deluge",
+            "steep"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dry",
+            "desiccate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drench [sth] with [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb + preposition",
+      "TAGS":[
+        "figurative",
+        "applied use"
+      ],
+      "DEF_EN":"To cover something completely with a copious amount of liquid, often sauce or oil.",
+      "DEF_ZH":"大量淋上；用（液体）覆盖。",
+      "SENT_EN":"He likes to drench his fries in ketchup.",
+      "SENT_ZH":"他喜欢在薯条上淋大量的番茄酱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "smother",
+            "coat",
+            "flood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drench [an animal]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "veterinary"
+      ],
+      "DEF_EN":"To administer a dose of liquid medicine to an animal, usually by pouring it down its throat.",
+      "DEF_ZH":"（强行）给动物灌服药液。",
+      "SENT_EN":"The vet had to drench the sheep with worm medicine.",
+      "SENT_ZH":"兽医必须给那只羊灌服驱虫药。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

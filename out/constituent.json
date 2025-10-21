@@ -1,0 +1,86 @@
+{
+  "WORD":"constituent",
+  "IPA":"/kənˈstɪtʃuənt/",
+  "CONJUGATES":"constituents",
+  "ETYMOLOGY":"From Latin constituens, present participle of constituere 'to set up, establish', from com- 'together' + statuere 'to set'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"constituent [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that functions as the name of a specific object or set of objects, such as living creatures, places, actions, qualities, states of existence, or ideas.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A component part of something.",
+      "DEF_ZH":"组成部分；成分；要素。",
+      "SENT_EN":"Oxygen is a major constituent of the Earth's atmosphere.",
+      "SENT_ZH":"氧气是地球大气层的主要成分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "component",
+            "element",
+            "part",
+            "ingredient",
+            "factor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"constituent",
+      "POS":"noun",
+      "POS_TIP":"A word that functions as the name of a specific object or set of objects, such as living creatures, places, actions, qualities, states of existence, or ideas.",
+      "TAGS":[
+        "core word",
+        "common",
+        "political"
+      ],
+      "DEF_EN":"A person living in a constituency and thus represented by an elected official.",
+      "DEF_ZH":"（选举区内的）选民。",
+      "SENT_EN":"The senator held a town hall meeting to address the concerns of his constituents.",
+      "SENT_ZH":"这位参议员举行了一次市政厅会议，听取其选民的意见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "elector",
+            "voter",
+            "resident",
+            "citizen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"constituent [of sth]",
+      "POS":"adjective",
+      "POS_TIP":"A word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Forming a part of a whole; constituent parts.",
+      "DEF_ZH":"组成的；构成整体的。",
+      "SENT_EN":"The individual chapters are constituent parts of the entire book.",
+      "SENT_ZH":"每个单独的章节都是整本书的构成部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "composing",
+            "forming",
+            "integral",
+            "essential"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Political"
+}

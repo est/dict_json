@@ -1,0 +1,90 @@
+{
+  "WORD":"component",
+  "IPA":"/kəmˈpoʊnənt/",
+  "CONJUGATES":"components (plural)",
+  "ETYMOLOGY":"From Latin *componens*, present participle of *componere* ('to put together, compose'), related to *com-* ('together') and *ponere* ('to place').",
+  "SINCE":"Mid-17th century (as adjective), late 17th century (as noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[component] (of [sth])",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"A part or element of a larger whole, especially a part of a machine or system.",
+      "DEF_ZH":"组成部分；零件；要素",
+      "SENT_EN":"Trust is a vital component of any successful relationship.",
+      "SENT_ZH":"信任是任何成功关系中的一个重要组成部分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "part",
+            "element",
+            "constituent",
+            "ingredient",
+            "module"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "whole",
+            "aggregate",
+            "total"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[component]",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable, specialized)",
+      "TAGS":[
+        "technical",
+        "engineering",
+        "electronics"
+      ],
+      "DEF_EN":"An electronic device or part used in circuits, such as resistors, transistors, or integrated circuits.",
+      "DEF_ZH":"（电子或机械）元件；部件",
+      "SENT_EN":"The engineers discovered a faulty component causing the system failure.",
+      "SENT_ZH":"工程师们发现了一个有故障的元件导致系统故障。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "circuit",
+            "motherboard",
+            "resistor",
+            "transistor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[component] [noun]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "formal",
+        "attributive"
+      ],
+      "DEF_EN":"Serving as one of the parts that make up a whole; constituting a part.",
+      "DEF_ZH":"组成的；构成要素的",
+      "SENT_EN":"The factory manufactures component parts for various automotive brands.",
+      "SENT_ZH":"该工厂为各种汽车品牌制造组成部件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "constituent",
+            "integral"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly frequent in technical and academic contexts."
+}

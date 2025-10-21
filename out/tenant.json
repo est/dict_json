@@ -1,0 +1,75 @@
+{
+  "WORD":"tenant",
+  "IPA":"/ˈtɛnənt/",
+  "CONJUGATES":"tenant | tenants",
+  "ETYMOLOGY":"From Old French tenant, present participle of tenir ('to hold'), from Latin tenere ('to hold')",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A person who occupies land or property rented from a landlord.",
+      "DEF_ZH":"承租人；房客；佃户",
+      "SENT_EN":"The tenant complained to the landlord about the leaky faucet.",
+      "SENT_ZH":"房客向房东投诉水龙头漏水的问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "renter",
+            "lessee",
+            "occupant",
+            "lodger"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "landlord",
+            "owner"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tenancy",
+            "lease",
+            "rent",
+            "landlord"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "formal",
+        "legal",
+        "archaic"
+      ],
+      "DEF_EN":"A person who holds (a place, position, or principle); an occupant or inhabitant, especially in a historical or legal context.",
+      "DEF_ZH":"占有人；持有者（尤指持有某项权利或官职的人，较旧或正式用法）",
+      "SENT_EN":"He was a tenant of the royal lands, owing fealty to the king.",
+      "SENT_ZH":"他是王室土地的占有人，效忠于国王。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "holder",
+            "occupant",
+            "inhabitant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,76 @@
+{
+  "WORD":"alcoholic",
+  "IPA":"/ˌælkəˈhɒlɪk/",
+  "CONJUGATES":"alcohol | alcoholics (pl., n.) | alcoholically (adv.)",
+  "ETYMOLOGY":"From alcohol (n.) + -ic (suffix). Originally used to describe anything containing or related to alcohol, and later used substantively (as a noun) to describe a person addicted to alcohol.",
+  "SINCE":"c. 1850s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n (countable)",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A person suffering from alcoholism, characterized by compulsive and uncontrolled consumption of alcoholic beverages.",
+      "DEF_ZH":"患有酒精依赖症的人；酒鬼。",
+      "SENT_EN":"After years of denial, she finally admitted that she was an alcoholic and sought treatment.",
+      "SENT_ZH":"否认多年后，她终于承认自己是一名酒鬼并寻求治疗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heavy drinker",
+            "problem drinker"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "addict",
+            "boozer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Relating to or caused by alcohol, particularly excessive consumption.",
+      "DEF_ZH":"酒精的；（因酗酒）引起的。",
+      "SENT_EN":"The doctor diagnosed him with alcoholic liver disease.",
+      "SENT_ZH":"医生诊断他患有酒精性肝病。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Containing or consisting of alcohol (ethanol).",
+      "DEF_ZH":"含酒精的（尤指饮料）。",
+      "SENT_EN":"The shop is licensed to sell alcoholic beverages only after 10 AM.",
+      "SENT_ZH":"这家商店被许可在上午10点后才能销售含酒精的饮料。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "non-alcoholic",
+            "teetotal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, Medical, Legal"
+}

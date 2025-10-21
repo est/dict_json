@@ -1,0 +1,101 @@
+{
+  "WORD":"grill",
+  "IPA":"/ɡrɪl/",
+  "CONJUGATES":"grills | grilled | grilling",
+  "ETYMOLOGY":"From Old French greille (gridiron, grating), derived from Latin craticula (small grid).",
+  "SINCE":"c. 1425 (noun); c. 1690 (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"grill [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "cooking"
+      ],
+      "DEF_EN":"To cook food directly over high heat using a metal rack or gridiron, especially outdoors.",
+      "DEF_ZH":"用金属烤架在高温下直接烹饪食物，尤指户外烧烤。",
+      "SENT_EN":"We plan to grill steaks for dinner tonight.",
+      "SENT_ZH":"我们计划今晚烤牛排吃。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barbecue",
+            "broil",
+            "sear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a grill",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "apparatus"
+      ],
+      "DEF_EN":"An apparatus with a metal grid used for cooking food over heat; a barbecue.",
+      "DEF_ZH":"用于在热源上烹饪食物的带金属网格的器具；烤架；烧烤炉。",
+      "SENT_EN":"Make sure you clean the grill after we finish cooking.",
+      "SENT_ZH":"烤完后，务必清理烤架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gridiron",
+            "barbecue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grill [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "informal"
+      ],
+      "DEF_EN":"To question a person intensely and relentlessly (like applying heat) about a difficult issue or crime.",
+      "DEF_ZH":"严厉地、毫不留情地审问或盘问某人（比喻像烤一样施加压力）。",
+      "SENT_EN":"The lawyer spent an hour grilling the witness about his whereabouts.",
+      "SENT_ZH":"律师花了一个小时盘问证人的行踪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interrogate",
+            "cross-examine",
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a grill",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A metal grating or screen that covers an opening, such as a car radiator or a loudspeaker.",
+      "DEF_ZH":"覆盖开口的金属格栅或筛网，例如汽车散热器盖或扬声器保护罩。",
+      "SENT_EN":"The car's front grill was damaged in the minor accident.",
+      "SENT_ZH":"汽车的前格栅在小事故中受损了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grating",
+            "mesh",
+            "lattice"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

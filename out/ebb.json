@@ -1,0 +1,101 @@
+{
+  "WORD":"ebb",
+  "IPA":"/ɛb/",
+  "CONJUGATES":"noun: ebbs | verb: ebbs, ebbing, ebbed",
+  "ETYMOLOGY":"From Old English *ebba* (noun) and *ebbian* (verb), meaning 'to recede, flow back'. From Proto-Germanic *abjanan, related to similar words in Old Frisian, Old Saxon, and Old High German. Ultimately from the Proto-Indo-European root *apo- 'off, away'.",
+  "SINCE":"Before 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"the ebb",
+      "POS":"noun",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The movement of the tide out to sea.",
+      "DEF_ZH":"潮汐退去或流向大海的运动。",
+      "SENT_EN":"We waited for the ebb of the tide before venturing out.",
+      "SENT_ZH":"我们等待潮水退去后才出海。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "low tide",
+            "recession"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "flow",
+            "flood tide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] ebbs",
+      "POS":"intransitive verb",
+      "POS_TIP":"intransitive verb: a verb that does not require a direct object.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"(Of an emotion or quality) gradually lessen or reduce; decline.",
+      "DEF_ZH":"（指情感、品质等）逐渐减少或减弱；衰退。",
+      "SENT_EN":"His enthusiasm began to ebb as the project faced more difficulties.",
+      "SENT_ZH":"随着项目遇到更多困难，他的热情开始消退。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wane",
+            "decline",
+            "subside",
+            "recede"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "grow",
+            "surge",
+            "mount"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the tide ebbs",
+      "POS":"intransitive verb",
+      "POS_TIP":"intransitive verb: a verb that does not require a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"(Of the tide) move away from the land; recede.",
+      "DEF_ZH":"（指潮水）退离陆地；后退。",
+      "SENT_EN":"We watched the tide ebb out, revealing the sandy shore.",
+      "SENT_ZH":"我们看着潮水退去，露出了沙滩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "recede",
+            "retreat",
+            "go out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "flow",
+            "rise"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

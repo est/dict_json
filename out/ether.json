@@ -1,0 +1,111 @@
+{
+  "WORD":"ether",
+  "IPA":"/ˈiːθər/",
+  "CONJUGATES":"N/A",
+  "ETYMOLOGY":"From Latin aether, from Greek aithēr 'upper air', from aithein 'to burn, shine'.",
+  "SINCE":"Late Middle English (for 'upper air'); mid-18th century (for chemical compound)",
+  "MEANINGS":[
+    {
+      "PATTERN":"the ether",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "poetic",
+        "literary"
+      ],
+      "DEF_EN":"The upper regions of air beyond the clouds; the heavens.",
+      "DEF_ZH":"高空；上层大气；天堂；苍穹。",
+      "SENT_EN":"The stars twinkled brightly in the clear night ether.",
+      "SENT_ZH":"繁星在清澈的夜空中闪烁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sky",
+            "heavens",
+            "firmament"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "celestial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ether",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "medical"
+      ],
+      "DEF_EN":"A pleasant-smelling, colorless, volatile liquid (specifically diethyl ether) that is highly flammable, used as an anesthetic and as a solvent.",
+      "DEF_ZH":"乙醚；醚（一种无色易燃的液体，有愉快气味，用作麻醉剂和溶剂）。",
+      "SENT_EN":"The patient was put under using ether before the surgery.",
+      "SENT_ZH":"病人在手术前被麻醉剂乙醚麻醉。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "diethyl ether",
+            "anesthetic",
+            "solvent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the ether",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "physics",
+        "historical",
+        "scientific"
+      ],
+      "DEF_EN":"(Historical Physics) A hypothetical substance formerly thought to fill all space, through which electromagnetic waves were propagated.",
+      "DEF_ZH":"（旧物理学）以太；一种曾被认为充满整个空间、传播电磁波的假想物质。",
+      "SENT_EN":"The Michelson-Morley experiment aimed to detect the luminiferous ether.",
+      "SENT_ZH":"迈克尔逊-莫雷实验旨在检测光以太。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "luminiferous ether",
+            "spacetime"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the ether",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "informal",
+        "modern",
+        "computing"
+      ],
+      "DEF_EN":"(Informal) The invisible medium through which radio waves, internet data, etc., travel; the airwaves or cyberspace.",
+      "DEF_ZH":"（非正式）空中电波；网络空间；无线电波、互联网数据等传播的无形介质。",
+      "SENT_EN":"My email must have gotten lost somewhere in the ether.",
+      "SENT_ZH":"我的电子邮件肯定在某个地方迷失在网络空间里了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "airwaves",
+            "cyberspace",
+            "internet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Varies by meaning: poetic/literary, scientific/medical, or informal modern usage."
+}

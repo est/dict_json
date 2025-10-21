@@ -1,0 +1,76 @@
+{
+  "WORD":"deploy",
+  "IPA":"/dɪˈplɔɪ/",
+  "CONJUGATES":"deploys | deploying | deployed",
+  "ETYMOLOGY":"From French déployer 'unfold, unroll', from Old French desploier, from Latin displicare 'unfold', from dis- 'apart' + plicare 'to fold'. The military sense developed from the idea of 'unfolding' troops into battle formation.",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"deploy [troops/resources/assets]",
+      "POS":"v. trans.",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "core word",
+        "common",
+        "military",
+        "strategic"
+      ],
+      "DEF_EN":"To move (troops or equipment) into position for military action or effective use.",
+      "DEF_ZH":"将（部队或设备）部署到位以进行军事行动或有效使用；调动；配置。",
+      "SENT_EN":"The general decided to deploy additional forces to the front line.",
+      "SENT_ZH":"将军决定向前方阵地增派部队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "position",
+            "station",
+            "post",
+            "distribute",
+            "organize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deployment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deploy [software/system/product]",
+      "POS":"v. trans.",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"To bring into effective action; to put into use or operation, especially referring to software, systems, or products.",
+      "DEF_ZH":"使投入有效行动；投入使用或操作，尤指软件或系统。",
+      "SENT_EN":"The company plans to deploy the new software update next month.",
+      "SENT_ZH":"该公司计划下个月部署新的软件更新。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "implement",
+            "install",
+            "launch",
+            "release",
+            "roll out"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deployment"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

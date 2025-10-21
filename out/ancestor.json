@@ -1,0 +1,73 @@
+{
+  "WORD":"ancestor",
+  "IPA":"/ˈænsɛstər/",
+  "CONJUGATES":"ancestors | ancestral | ancestress",
+  "ETYMOLOGY":"From Middle English, derived from Old French 'ancestre', which comes from the Latin 'antecessor', meaning 'one who goes before' (from 'antecedere': 'ante-' meaning 'before' + 'cedere' meaning 'to go').",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s ancestor",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "genealogy",
+        "formal"
+      ],
+      "DEF_EN":"A person, typically one more remote than a grandparent, from whom one is descended.",
+      "DEF_ZH":"祖先；祖宗；先人 (指直系血统中比祖父母更早一代的亲属)。",
+      "SENT_EN":"Our family tree shows that our ancestors arrived in this country in the 18th century.",
+      "SENT_ZH":"我们的家谱显示我们的祖先在18世纪抵达这个国家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "forefather",
+            "progenitor",
+            "forebear"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "descendant",
+            "heir",
+            "offspring"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ancestor of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative",
+        "technology"
+      ],
+      "DEF_EN":"An early type of machine, vehicle, or idea that later developed into something else; a predecessor.",
+      "DEF_ZH":"原型；前身；先驱 (指某种机器、工具或概念的早期形式)。",
+      "SENT_EN":"The early steam engine is considered an ancestor of the modern train.",
+      "SENT_ZH":"早期的蒸汽机被认为是现代火车的原型。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "predecessor",
+            "prototype",
+            "forerunner"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "evolution",
+            "lineage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, frequently used in historical, biological, and genealogical contexts."
+}

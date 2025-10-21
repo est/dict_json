@@ -1,0 +1,98 @@
+{
+  "WORD":"invalid",
+  "IPA":"/ɪnˈvælɪd/",
+  "CONJUGATES":"invalidly | invalidity",
+  "ETYMOLOGY":"From Latin *invalidus* (not strong, weak, infirm), formed by the prefix *in-* (not) + *validus* (strong, vigorous, from *valere* 'to be strong'). The meaning 'not legally binding' emerged in English later.",
+  "SINCE":"c. 1560s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] invalid",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"Not based on truth, fact, or sound logic; not acceptable or appropriate.",
+      "DEF_ZH":"不基于事实、真相或合理的逻辑；不被接受或不适当的。",
+      "SENT_EN":"You have entered an invalid password. Please try again.",
+      "SENT_ZH":"您输入了无效的密码。请再试一次。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "false",
+            "unacceptable",
+            "incorrect",
+            "erroneous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "valid",
+            "correct",
+            "accurate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] invalid",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"Having no legal force, binding power, or efficacy; null and void.",
+      "DEF_ZH":"没有法律效力、约束力或作用的；无效的。",
+      "SENT_EN":"The judge declared the warrant invalid because it lacked proper authorization.",
+      "SENT_ZH":"法官宣布该授权令无效，因为它缺乏适当的授权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "void",
+            "null",
+            "unbinding",
+            "unlawful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "binding",
+            "legitimate",
+            "enforceable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] invalid",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "logic",
+        "philosophy"
+      ],
+      "DEF_EN":"(Of an argument or deduction) structured in a way that the conclusion does not logically follow from the premises.",
+      "DEF_ZH":"（指论证或推论）在结构上，结论不能从前提中逻辑推导出来。",
+      "SENT_EN":"Although the premises were true, the deductive argument was logically invalid.",
+      "SENT_ZH":"尽管前提是真的，但这个演绎论证在逻辑上是无效的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fallacious",
+            "unsound",
+            "non sequitur"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Legal"
+}

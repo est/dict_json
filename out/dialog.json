@@ -1,0 +1,84 @@
+{
+  "WORD":"dialogue",
+  "IPA":"/ˈdaɪəlɒɡ/",
+  "CONJUGATES":"singular: dialogue | plural: dialogues | alternate spelling: dialog (singular) | dialogs (plural)",
+  "ETYMOLOGY":"From Old French dialogue, from Latin dialogus, from Ancient Greek διάλογος (diálogos, 'conversation, discourse'), from διά (diá, 'through, between') + λόγος (lógos, 'speech, word, reason'). The spelling 'dialog' is primarily American English, especially in computing.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"dialogue [between sb/sth] | dialogue [with sb]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A conversation between two or more people or characters in a book, play, or film.",
+      "DEF_ZH":"两人或多人在书、戏剧或电影中的对话；谈话。",
+      "SENT_EN":"The script contained a natural and engaging dialogue.",
+      "SENT_ZH":"剧本包含了自然而引人入胜的对话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conversation",
+            "discussion",
+            "talk",
+            "chat",
+            "interchange"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dialogue [between groups/parties]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "formal",
+        "politics"
+      ],
+      "DEF_EN":"An exchange of views or opinions, especially a formal one between two groups or sides aiming to reach an understanding or resolve issues.",
+      "DEF_ZH":"(尤指团体或双方之间的) 意见交换；对话；会谈；旨在达成理解或解决问题的正式讨论。",
+      "SENT_EN":"The two nations have engaged in a constructive dialogue on climate change.",
+      "SENT_ZH":"两国就气候变化问题进行了建设性的对话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "negotiation",
+            "consultation",
+            "discussion",
+            "exchange of views"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dialogue | dialog box",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "computing",
+        "common (in context)"
+      ],
+      "DEF_EN":"In computing, a small window or message box that appears on screen to ask the user for input or to display information. In this context, often spelled 'dialog' without 'ue'.",
+      "DEF_ZH":"(计算机) 对话框；一个小的屏幕窗口，用于请求用户输入或显示信息。在此语境中，常拼写为 'dialog' 而非 'dialogue'。",
+      "SENT_EN":"When you click 'Save', a dialog box will appear asking for the file name.",
+      "SENT_ZH":"当你点击“保存”时，会出现一个对话框要求你输入文件名。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pop-up",
+            "interface element",
+            "modal window"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, formal (for diplomatic/political contexts), technical (for computing contexts)."
+}

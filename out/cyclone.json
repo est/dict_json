@@ -1,0 +1,66 @@
+{
+  "WORD":"cyclone",
+  "IPA":"/ˈsaɪkloʊn/",
+  "CONJUGATES":"cyclone | cyclones",
+  "ETYMOLOGY":"Coined in 1848 by Captain Henry Piddington, president of Marine Court in Calcutta, from Greek 'kykloma' (a wheel, a coiling snake, a moving circle), from 'kyklos' (circle) + '-oma' (suffix often used for natural phenomena with a circular motion).",
+  "SINCE":"1848",
+  "MEANINGS":[
+    {
+      "PATTERN":"cyclone",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "meteorology",
+        "technical"
+      ],
+      "DEF_EN":"A large-scale system of winds rotating inward towards a low-pressure center, typically associated with stormy weather in the Northern Hemisphere (counter-clockwise) or Southern Hemisphere (clockwise).",
+      "DEF_ZH":"一种大型风暴系统，风向内旋转至低压中心，通常伴随着恶劣天气，在北半球呈逆时针方向，在南半球呈顺时针方向。",
+      "SENT_EN":"Meteorologists track the movement of cyclones to predict weather patterns.",
+      "SENT_ZH":"气象学家追踪气旋的移动以预测天气模式。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "anticyclone",
+            "vortex",
+            "low-pressure system"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cyclone",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "geographical",
+        "meteorology"
+      ],
+      "DEF_EN":"A severe tropical storm with high winds and heavy rains, specifically one originating in the Indian Ocean or South Pacific. (Equivalent to a hurricane or typhoon in other regions).",
+      "DEF_ZH":"一种伴有强风和大雨的严重热带风暴，尤指源自印度洋或南太平洋的。（在其他地区与飓风或台风同义）。",
+      "SENT_EN":"A powerful cyclone devastated coastal areas of India and Bangladesh.",
+      "SENT_ZH":"一场强力气旋摧毁了印度和孟加拉国的沿海地区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hurricane",
+            "typhoon",
+            "tropical storm"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tornado",
+            "monsoon"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Scientific"
+}

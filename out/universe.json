@@ -1,0 +1,90 @@
+{
+  "WORD":"universe",
+  "IPA":"/ˈjuːnɪvɜːrs/",
+  "CONJUGATES":"universes",
+  "ETYMOLOGY":"From Old French univers, derived from Latin universum (neuter of universus 'all, entire, whole'), composed of unus ('one') + versus (past participle of vertere 'to turn'). Literally meaning 'turned into one, combined into one whole'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"the universe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "cosmology",
+        "science"
+      ],
+      "DEF_EN":"All of space and time and their contents, including planets, stars, galaxies, and all forms of matter and energy; the cosmos.",
+      "DEF_ZH":"所有空间、时间及其内容物的总和，包括行星、恒星、星系以及所有形式的物质和能量；宇宙。",
+      "SENT_EN":"Scientists are exploring whether the universe began with a single Big Bang event.",
+      "SENT_ZH":"科学家们正在探索宇宙是否始于一个单一的“大爆炸”事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cosmos",
+            "creation",
+            "macrocosm"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "multiverse",
+            "galaxy",
+            "spacetime"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a/the] universe of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A distinct and extensive field or sphere of thought, interest, or experience; the whole world of a particular person or group.",
+      "DEF_ZH":"一个独特的、广泛的思想、兴趣或经验的领域或范围；特定个人或群体的整个世界。",
+      "SENT_EN":"For the devoted chess player, the chessboard is their entire universe.",
+      "SENT_ZH":"对于投入的国际象棋玩家来说，棋盘就是他们的整个世界。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "world",
+            "realm",
+            "domain",
+            "sphere"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"universe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "statistics"
+      ],
+      "DEF_EN":"The total set of objects, items, or elements under consideration in a statistical survey or mathematical problem; the population.",
+      "DEF_ZH":"在统计调查或数学问题中考虑的对象、项目或元素的集合；总体。",
+      "SENT_EN":"The statistical universe for this study consists of all users over the age of 18.",
+      "SENT_ZH":"这项研究的统计总体包括所有18岁以上的用户。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "population",
+            "set",
+            "domain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic (Cosmology, Philosophy, Mathematics)"
+}

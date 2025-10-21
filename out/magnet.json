@@ -1,0 +1,88 @@
+{
+  "WORD":"magnet",
+  "IPA":"/'mæɡnət/",
+  "CONJUGATES":"magnets",
+  "ETYMOLOGY":"From Middle English *magnete*, from Old French *magnete*, from Latin *magnēs* (genitive *magnētis*), from Greek *Magnētis lithos* (Μαγνῆτις λίθος), meaning 'stone of Magnesia', referring to a region in ancient Thessaly where deposits of magnetite were found.",
+  "SINCE":"Mid-16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] magnet",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physics",
+        "common"
+      ],
+      "DEF_EN":"An object or device that produces a magnetic field and attracts ferromagnetic materials (like iron) and other magnets.",
+      "DEF_ZH":"产生磁场并能吸引铁磁性材料（如铁）及其他磁性物体的物体或装置。",
+      "SENT_EN":"The small refrigerator magnet was strong enough to hold up several layers of paper.",
+      "SENT_ZH":"那个小冰箱磁铁的强度足以吸住好几层纸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attractor",
+            "lodestone",
+            "electromagnet"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "magnetism",
+            "compass",
+            "pole"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] / [sth] magnet (for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A person, place, or thing that exerts a powerful attractive influence.",
+      "DEF_ZH":"具有强大吸引力的人、地方或事物；引人注目的焦点。",
+      "SENT_EN":"The star actress was a magnet for media attention wherever she went.",
+      "SENT_ZH":"这位明星演员无论走到哪里，都是媒体关注的焦点（磁石）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lure",
+            "draw",
+            "focal point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"magnet link",
+      "POS":"n",
+      "POS_TIP":"noun (usually used attributively or as slang)",
+      "TAGS":[
+        "internet",
+        "computing",
+        "specialized"
+      ],
+      "DEF_EN":"(Informal, computing) Short for 'magnet link,' a type of hyperlink that refers to resources via their content hash rather than their location, often used in peer-to-peer file sharing.",
+      "DEF_ZH":"（非正式，计算机）磁力链接的简称；一种通过资源的内容哈希值而非位置来引用资源的超链接类型，常用于点对点文件共享。",
+      "SENT_EN":"He posted the magnet link for the open-source software update on the forum.",
+      "SENT_ZH":"他在论坛上发布了开源软件更新的磁力链接。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "torrent",
+            "hash"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Physics)"
+}

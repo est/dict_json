@@ -1,0 +1,75 @@
+{
+  "WORD":"desk",
+  "IPA":"/dɛsk/",
+  "CONJUGATES":"desk | desks",
+  "ETYMOLOGY":"From Old French *desque*, from Medieval Latin *desca* 'table, writing table', probably from *discus* 'disc, plate'.",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A piece of furniture with a flat top and often drawers, used for working at, especially in an office, school, or home.",
+      "DEF_ZH":"一种带有平坦桌面且通常有抽屉的家具，主要用于在办公室、学校或家里工作。",
+      "SENT_EN":"She sat at her desk, typing on the computer.",
+      "SENT_ZH":"她坐在书桌前，在电脑上打字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "table",
+            "workstation",
+            "workbench"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chair",
+            "office",
+            "study"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the [sth] desk",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "common",
+        "metonymy",
+        "idiomatic"
+      ],
+      "DEF_EN":"A section or counter in an organization (such as a hotel or a news agency) that deals with a particular type of work or service.",
+      "DEF_ZH":"机构（如酒店或新闻机构）中负责特定类型工作或服务的部门或柜台。",
+      "SENT_EN":"Please report to the front desk for your room key.",
+      "SENT_ZH":"请到前台领取您的房间钥匙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "department",
+            "section",
+            "counter",
+            "station"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "reception",
+            "helpdesk",
+            "assignment desk",
+            "news desk"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

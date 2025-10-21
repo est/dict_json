@@ -1,0 +1,85 @@
+{
+  "WORD":"team",
+  "IPA":"/tiːm/",
+  "CONJUGATES":"teams (n.) | teams (v.) | teamed | teaming",
+  "ETYMOLOGY":"From Old English tēam ('progeny, lineage, group of draft animals'), later meaning 'set of animals harnessed together' (Middle English), evolving to 'group of people working together'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] team",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A group of people organized to work together or compete together, especially in a sport or business environment.",
+      "DEF_ZH":"为共同目标而组织起来的一群人，尤其指在体育运动或商业环境中。",
+      "SENT_EN":"The engineering team finished the project ahead of schedule.",
+      "SENT_ZH":"工程团队提前完成了项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "squad",
+            "crew",
+            "group",
+            "unit"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "collaboration",
+            "cooperation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"team [up] [with sb] [for sth]",
+      "POS":"v. intr. | v. tr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "common",
+        "phrasal verb"
+      ],
+      "DEF_EN":"To join together with another person or group in order to work together or achieve a specific goal.",
+      "DEF_ZH":"与他人或团体联合或合作，共同完成某项工作或目标；组队。",
+      "SENT_EN":"The two researchers decided to team up for the experiment.",
+      "SENT_ZH":"两位研究人员决定为这次实验合作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "collaborate",
+            "partner",
+            "cooperate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "split"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a team of [animals]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "historical"
+      ],
+      "DEF_EN":"Two or more draft animals (such as horses or oxen) harnessed together to pull a vehicle or plow.",
+      "DEF_ZH":"（尤指马或牛）套在一起，用于拉车或犁的一组役畜。",
+      "SENT_EN":"The farmer drove a team of horses across the field.",
+      "SENT_ZH":"农民赶着一群马穿过田野。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage (Business, Sports, Casual)"
+}

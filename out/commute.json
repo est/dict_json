@@ -1,0 +1,104 @@
+{
+  "WORD":"commute",
+  "IPA":"/kəˈmjuːt/",
+  "CONJUGATES":"commutes | commuting | commuted",
+  "ETYMOLOGY":"From Latin commutare, meaning 'to change totally, exchange' (com- 'together, thoroughly' + mutare 'to change'). The modern sense of traveling regularly developed in the early 20th century.",
+  "SINCE":"Circa 1450 (original exchange meaning); Circa 1900 (transport meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"commute (vi)",
+      "POS":"vi",
+      "POS_TIP":"vi: Intransitive verb (a verb that does not take a direct object).",
+      "TAGS":[
+        "core word",
+        "common",
+        "transport"
+      ],
+      "DEF_EN":"To travel a significant distance regularly between one's place of residence and one's place of work or study.",
+      "DEF_ZH":"定期在住所和工作地点或学习地点之间往返（通常指长距离）。",
+      "SENT_EN":"He commutes from the suburbs to the city center every day.",
+      "SENT_ZH":"他每天从郊区通勤到市中心。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "travel",
+            "journey",
+            "commuter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a commute (n)",
+      "POS":"n",
+      "POS_TIP":"n: Noun.",
+      "TAGS":[
+        "common",
+        "transport"
+      ],
+      "DEF_EN":"The regular trip made between one's home and workplace or school, or the time taken for this trip.",
+      "DEF_ZH":"通勤（往返路程或时间）。",
+      "SENT_EN":"My morning commute is usually forty-five minutes long.",
+      "SENT_ZH":"我早上的通勤通常需要四十五分钟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "journey",
+            "ride",
+            "trip"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"commute [a sentence/penalty] (vtr)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: Transitive verb (a verb that takes a direct object).",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To reduce a judicial sentence or penalty to one less severe.",
+      "DEF_ZH":"减轻（刑罚或处罚）。",
+      "SENT_EN":"The president has the power to commute a life sentence.",
+      "SENT_ZH":"总统有权减轻终身监禁的刑罚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mitigate",
+            "reduce",
+            "pardon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"commute [A for B] (vtr)",
+      "POS":"vtr",
+      "POS_TIP":"vtr: Transitive verb (a verb that takes a direct object).",
+      "TAGS":[
+        "formal",
+        "exchange",
+        "rare"
+      ],
+      "DEF_EN":"To exchange one type of payment or obligation for another; to substitute.",
+      "DEF_ZH":"以某事物交换或替代另一事物（通常指金钱或责任）。",
+      "SENT_EN":"He commuted his annual payment into a one-time lump sum.",
+      "SENT_ZH":"他将年付款兑换成了一次性总付。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exchange",
+            "substitute",
+            "convert"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage (travel and transport); Formal (legal context)"
+}

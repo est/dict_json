@@ -1,0 +1,129 @@
+{
+  "WORD":"attack",
+  "IPA":"/əˈtæk/",
+  "CONJUGATES":"attacks | attacking | attacked",
+  "ETYMOLOGY":"From Old French ataqver (to assault, to affix, to attach), probably via Vulgar Latin attaccāre (to attach or seize). The sense shifted from 'attach' to 'assail' in the 16th century.",
+  "SINCE":"Late 16th century (c. 1588)",
+  "MEANINGS":[
+    {
+      "PATTERN":"attack [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "military",
+        "physical"
+      ],
+      "DEF_EN":"To use violence or force to harm or defeat an opponent, enemy, or target.",
+      "DEF_ZH":"以暴力或武力伤害、击败对手、敌人或目标。",
+      "SENT_EN":"The enemy forces decided to attack the supply lines under cover of darkness.",
+      "SENT_ZH":"敌军决定在夜幕掩护下攻击补给线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assault",
+            "strike",
+            "invade",
+            "aggress"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "defend",
+            "protect",
+            "retreat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"attack [sb/sth] (verbally)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative",
+        "critical"
+      ],
+      "DEF_EN":"To criticize someone or something severely, or to challenge the validity of an idea or argument.",
+      "DEF_ZH":"严厉批评某人或某事，或质疑某个想法或论点的有效性。",
+      "SENT_EN":"During the debate, she attacked the core principles of his proposed legislation.",
+      "SENT_ZH":"在辩论中，她攻击了他提出的立法草案的核心原则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "criticize",
+            "denounce",
+            "condemn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"attack [sb] (disease/pain)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "medical",
+        "biological"
+      ],
+      "DEF_EN":"(Of a disease or harmful agent) to suddenly affect or invade the body.",
+      "DEF_ZH":"(指疾病或有害因素) 突然影响或侵入人体。",
+      "SENT_EN":"The virus rapidly attacked his liver, causing serious complications.",
+      "SENT_ZH":"这种病毒迅速侵袭了他的肝脏，造成了严重的并发症。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"an attack (on [sth/sb])",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "action",
+        "military"
+      ],
+      "DEF_EN":"An aggressive act, usually sudden and violent, used to injure or defeat.",
+      "DEF_ZH":"一种侵略性行为，通常是突然且暴力的，旨在伤害或击败。",
+      "SENT_EN":"The ambush was a surprise attack on the convoy.",
+      "SENT_ZH":"这次伏击是对车队的一次突袭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assault",
+            "onslaught",
+            "offensive"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an attack of [sth] (e.g., heart attack)",
+      "POS":"n",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "medical",
+        "idiom",
+        "condition"
+      ],
+      "DEF_EN":"A sudden episode or onset of an illness, pain, or medical condition.",
+      "DEF_ZH":"疾病、疼痛或医疗状况的突然发作或突发事件。",
+      "SENT_EN":"He suffered a severe asthma attack that required immediate hospitalization.",
+      "SENT_ZH":"他遭受了严重的哮喘发作，需要立即住院治疗。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "heart attack",
+            "panic attack",
+            "seizure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used across formal (military, medical) and informal contexts."
+}

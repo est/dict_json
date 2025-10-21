@@ -1,0 +1,58 @@
+{
+  "WORD":"statistic",
+  "IPA":"/stəˈtɪstɪk/",
+  "CONJUGATES":"statistic (singular) | statistics (plural)",
+  "ETYMOLOGY":"From German Statistik (late 18th century), from New Latin statisticum (meaning 'of the state'), from Latin status 'state, condition'. Initially referred to 'numerical data relating to a state or commonwealth'.",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a statistic [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun). Singular countable noun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A numerical fact or piece of data obtained from a study of a large quantity of numerical data.",
+      "DEF_ZH":"从大量数据研究中获得的数字事实或数据片段。",
+      "SENT_EN":"The latest government statistic shows a decrease in unemployment.",
+      "SENT_ZH":"最新的政府数据显示失业率有所下降。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data point",
+            "figure",
+            "number",
+            "datum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"statistics [field of study]",
+      "POS":"noun (usually plural, treated as singular for the field)",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun). When referring to the field of study, it is typically used in its plural form 'statistics' but functions as a singular noun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"The practice or science of collecting and analyzing numerical data in large quantities, especially for the purpose of inferring proportions in a whole from those in a representative sample.",
+      "DEF_ZH":"收集和分析大量数字数据，特别是为了从代表性样本中推断整体比例的实践或科学。",
+      "SENT_EN":"She is studying statistics at university, focusing on data analysis.",
+      "SENT_ZH":"她在大学学习统计学，主攻数据分析。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "probability",
+            "mathematics",
+            "data science"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage; academic"
+}

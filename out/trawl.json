@@ -1,0 +1,91 @@
+{
+  "WORD":"trawl",
+  "IPA":"/trɔːl/",
+  "CONJUGATES":"trawls | trawling | trawled",
+  "ETYMOLOGY":"Perhaps from Middle Dutch traghelen (via Old French trahulier, 'to drag, trail') or directly from a Germanic source, related to 'trail'. First attested in English in the context of fishing nets.",
+  "SINCE":"Late 15th century (as a verb for fishing; mid-19th century for searching)",
+  "MEANINGS":[
+    {
+      "PATTERN":"trawl [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "fishing"
+      ],
+      "DEF_EN":"To fish with a large, cone-shaped net dragged along the seabed or through the water.",
+      "DEF_ZH":"用大型圆锥形拖网在海底或水中捕鱼。",
+      "SENT_EN":"The boat went out to trawl for cod and haddock.",
+      "SENT_ZH":"那艘船出海拖网捕捞鳕鱼和黑线鳕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dragnet",
+            "fish"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "trawler",
+            "net"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trawl [sth] for [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"Transitive verb with preposition",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To conduct an extensive search, often through a large amount of information, data, or places, in order to find something specific.",
+      "DEF_ZH":"广泛搜索（大量信息、数据或地点），以寻找特定事物。",
+      "SENT_EN":"Detectives had to trawl through thousands of records to find a single piece of evidence.",
+      "SENT_ZH":"侦探们必须在数千份记录中进行广泛搜索，才能找到一丁点证据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "search",
+            "sift",
+            "scan",
+            "comb"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "data mining"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trawl",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"An act of trawling; a long, laborious search or an operation of fishing using a trawl net.",
+      "DEF_ZH":"拖网捕鱼的活动；一次漫长而费力的搜索。",
+      "SENT_EN":"After a long trawl through old documents, she finally found the deed.",
+      "SENT_ZH":"在对旧文件进行了漫长的搜索之后，她终于找到了契约。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "search",
+            "hunt",
+            "drag"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, particularly in contexts related to fishing or intensive information gathering."
+}

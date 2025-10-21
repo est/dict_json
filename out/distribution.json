@@ -1,0 +1,111 @@
+{
+  "WORD":"distribution",
+  "IPA":"/ˌdɪstrɪˈbjuːʃən/",
+  "CONJUGATES":"distributions (pl.)",
+  "ETYMOLOGY":"From Latin distributio (nominative distributiōn-), from distribuere 'to divide, to distribute,' from dis- 'apart' + tribuere 'to allot, assign.'",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"distribution of [sth]",
+      "POS":"n. uncount/count",
+      "POS_TIP":"noun, uncountable or countable",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"The action or process of supplying or delivering goods, services, or resources to a group of people or places.",
+      "DEF_ZH":"分配；分发；散布；提供",
+      "SENT_EN":"The rapid distribution of vaccines is crucial for containing the pandemic.",
+      "SENT_ZH":"快速分发疫苗对于遏制疫情至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "allocation",
+            "dissemination",
+            "apportionment"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "collection",
+            "gathering"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] distribution channel/network",
+      "POS":"n. uncount",
+      "POS_TIP":"noun, uncountable",
+      "TAGS":[
+        "Business",
+        "Commerce",
+        "Logistics"
+      ],
+      "DEF_EN":"The commercial pathway or system through which products are moved from a manufacturer to the final consumer.",
+      "DEF_ZH":"(商业) 销售渠道；分销网络或体系",
+      "SENT_EN":"The company decided to shift its distribution strategy from retail stores to online platforms.",
+      "SENT_ZH":"该公司决定将其分销策略从零售店转向线上平台。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "supply chain",
+            "logistics",
+            "wholesaling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] distribution (e.g., normal distribution)",
+      "POS":"n. count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "Technical",
+        "Statistics",
+        "Math"
+      ],
+      "DEF_EN":"A mathematical function that shows the possible values for a variable and the frequency with which they occur, typically represented graphically.",
+      "DEF_ZH":"(统计学) 分布；分布函数（指数值发生的频率）",
+      "SENT_EN":"Researchers analyzed the age distribution of the survey participants.",
+      "SENT_ZH":"研究人员分析了调查参与者的年龄分布。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "frequency",
+            "probability",
+            "bell curve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A distribution of [software]",
+      "POS":"n. count",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "Computing",
+        "Informal (distro)"
+      ],
+      "DEF_EN":"A specific package or version of an operating system or software collection, often customized with pre-selected applications (e.g., Linux distribution).",
+      "DEF_ZH":"(计算机) 发行版；分发版本",
+      "SENT_EN":"He prefers a lightweight Linux distribution for his old laptop.",
+      "SENT_ZH":"他喜欢为他的旧笔记本电脑安装一个轻量级的 Linux 发行版。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "version",
+            "build",
+            "package"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Statistics, Commerce)"
+}

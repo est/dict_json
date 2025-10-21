@@ -1,0 +1,86 @@
+{
+  "WORD":"apt",
+  "IPA":"/æpt/",
+  "CONJUGATES":"apter | aptest",
+  "ETYMOLOGY":"From Middle English apte, from Old French apte, from Latin aptus ('fitted, suited'), past participle of apere ('to fasten, join').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"apt [comment/description/name]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"Suitable, appropriate, or fitting in the circumstances.",
+      "DEF_ZH":"恰当的；合适的；贴切的。",
+      "SENT_EN":"That phrase seems particularly apt for the current situation.",
+      "SENT_ZH":"那个短语对于目前的情况似乎特别贴切。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suitable",
+            "appropriate",
+            "fitting",
+            "relevant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"apt [to do sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "tendency"
+      ],
+      "DEF_EN":"Having a tendency or habit to do something; likely to do something.",
+      "DEF_ZH":"倾向于；易于（做某事）；可能。",
+      "SENT_EN":"If you don't save the document, you are apt to lose all your work.",
+      "SENT_ZH":"如果你不保存文档，你就很可能会丢失所有的工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "likely",
+            "prone",
+            "liable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unlikely"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"apt [learner/student]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "less common",
+        "dated"
+      ],
+      "DEF_EN":"Quick to learn and understand; clever.",
+      "DEF_ZH":"聪明的；领悟力强的；有才能的。",
+      "SENT_EN":"The young musician proved an apt pupil, mastering complex techniques quickly.",
+      "SENT_ZH":"这位年轻的音乐家被证明是一个聪明的学生，很快就掌握了复杂的技巧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clever",
+            "bright",
+            "quick-witted"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often found in academic or formal writing."
+}

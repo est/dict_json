@@ -1,0 +1,65 @@
+{
+  "WORD":"senator",
+  "IPA":"/ˈsɛnətər/",
+  "CONJUGATES":"senators",
+  "ETYMOLOGY":"From Latin senator, from senatus 'senate', which is derived from senex 'old man', reflecting the original composition of the Roman Senate as a council of elders.",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"senator",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "government"
+      ],
+      "DEF_EN":"A member of a senate, which is typically the upper chamber of a national or state legislature.",
+      "DEF_ZH":"参议院（通常是一个国家或州的立法机构的上议院）的成员；参议员。",
+      "SENT_EN":"The senator introduced a new bill aimed at reforming campaign finance laws.",
+      "SENT_ZH":"这位参议员提出了一项旨在改革竞选财务法的新法案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "legislator",
+            "lawmaker",
+            "representative"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Senate",
+            "Congress",
+            "Parliament"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"senator (Ancient Rome)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "ancient Rome"
+      ],
+      "DEF_EN":"A member of the Senate, the governing body of the ancient Roman Republic and Empire.",
+      "DEF_ZH":"古罗马共和国和帝国元老院的成员；元老。",
+      "SENT_EN":"Julius Caesar eventually dominated the Senate, diminishing the power of the traditional Roman senator.",
+      "SENT_ZH":"尤利乌斯·凯撒最终控制了元老院，削弱了传统罗马元老院成员的权力。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Consul",
+            "Tribune",
+            "Patrician"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, used predominantly in governmental and political contexts."
+}

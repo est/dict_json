@@ -1,0 +1,87 @@
+{
+  "WORD":"aspect",
+  "IPA":"/ˈæspɛkt/",
+  "CONJUGATES":"aspects",
+  "ETYMOLOGY":"From Latin aspectus ('a looking at, sight, appearance'), from aspicere ('to look at'), from ad- ('to') + specere ('to look').",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] aspect [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"A particular feature, element, or characteristic of something.",
+      "DEF_ZH":"事物的某一特定方面、层面或特点。",
+      "SENT_EN":"The economic aspect of the policy is the most controversial point.",
+      "SENT_ZH":"该政策的经济方面是最具争议的一点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "feature",
+            "facet",
+            "dimension",
+            "side"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] aspect [of sth/sb]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "formal",
+        "appearance"
+      ],
+      "DEF_EN":"The appearance or look of a person or object, especially one that is characteristic or striking.",
+      "DEF_ZH":"外表；外观；景象（尤指引人注目的或有特点的）。",
+      "SENT_EN":"The garden assumed a wilder aspect after the heavy rains.",
+      "SENT_ZH":"暴雨过后，花园呈现出一种更加狂野的景象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "look",
+            "appearance",
+            "mien",
+            "bearing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"grammatical aspect",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "technical",
+        "linguistics"
+      ],
+      "DEF_EN":"A category in grammar that expresses how an action, event, or state, denoted by a verb, extends over time (e.g., progressive, perfective).",
+      "DEF_ZH":"(语法) 体：表示动作、事件或状态在时间上的延伸方式（如进行体、完成体）。",
+      "SENT_EN":"English uses aspect to distinguish between continuous and habitual actions.",
+      "SENT_ZH":"英语使用“体”来区分持续动作和习惯性动作。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"planetary aspect",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "specialized",
+        "astrology"
+      ],
+      "DEF_EN":"In astrology, the position of the planets or stars relative to one another, regarded as having influence.",
+      "DEF_ZH":"(占星学) 星相；行星的相位。",
+      "SENT_EN":"The astrologer noted the unfavorable aspect of Saturn in the client's chart.",
+      "SENT_ZH":"占星家注意到客户星盘中土星的不利相位。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Formal, or Technical (depending on meaning)"
+}

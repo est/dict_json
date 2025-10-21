@@ -1,0 +1,65 @@
+{
+  "WORD":"notify",
+  "IPA":"/ˈnoʊtɪfaɪ/",
+  "CONJUGATES":"notifies | notifying | notified",
+  "ETYMOLOGY":"From Middle French notifier, from Latin nōtificāre (to make known), from nōtus (known) + facere (to make).",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"notify [sb] of [sth] | notify [sb] that...",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb that requires a direct object)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To formally or officially inform someone about something, especially an event, decision, or situation.",
+      "DEF_ZH":"正式地或官方地告知某人某事，特别是关于事件、决定或情况。",
+      "SENT_EN":"The bank will notify customers of the new security measures next week.",
+      "SENT_ZH":"银行将于下周通知客户新的安全措施。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inform",
+            "announce",
+            "alert",
+            "advise",
+            "apprise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "withhold",
+            "keep secret"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "notification",
+            "notice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"notify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb that requires a direct object)",
+      "TAGS":[
+        "legal",
+        "rare"
+      ],
+      "DEF_EN":"To give official notice of (a legal process or document).",
+      "DEF_ZH":"发出正式通知（关于法律程序或文件）。",
+      "SENT_EN":"The court was required to notify the decision immediately.",
+      "SENT_ZH":"法院被要求立即通知该判决。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, often employed in formal, business, or administrative contexts."
+}

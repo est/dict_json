@@ -1,0 +1,62 @@
+{
+  "WORD":"shipment",
+  "IPA":"/ˈʃɪpmənt/",
+  "CONJUGATES":"shipment | shipments",
+  "ETYMOLOGY":"From the verb 'ship' (to send by ship or other means of transport) and the suffix '-ment', indicating an action or its result. 'Ship' originates from Old English 'scip' (boat, vessel).",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"shipment [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that names something, such as a person, place, thing, or idea. This usage is uncountable.",
+      "TAGS":[
+        "core word",
+        "common",
+        "logistics"
+      ],
+      "DEF_EN":"The act or process of sending goods or cargo by ship, train, truck, or plane.",
+      "DEF_ZH":"通过船只、火车、卡车或飞机运送货物或包裹的行为或过程。",
+      "SENT_EN":"The timely shipment of critical components is crucial for our production schedule.",
+      "SENT_ZH":"及时运送关键部件对我们的生产计划至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dispatch",
+            "conveyance",
+            "transportation",
+            "freightage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a shipment [of sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word that names something, such as a person, place, thing, or idea. This usage is countable.",
+      "TAGS":[
+        "core word",
+        "common",
+        "logistics",
+        "commerce"
+      ],
+      "DEF_EN":"A quantity of goods or cargo that is sent to a destination.",
+      "DEF_ZH":"发往目的地的货物或包裹。",
+      "SENT_EN":"We received a large shipment of new books yesterday.",
+      "SENT_ZH":"我们昨天收到了一大批新书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consignment",
+            "cargo",
+            "freight",
+            "load",
+            "delivery"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Business, logistics, general usage"
+}

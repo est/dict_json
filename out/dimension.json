@@ -1,0 +1,107 @@
+{
+  "WORD":"dimension",
+  "IPA":"/daɪˈmɛnʃən/",
+  "CONJUGATES":"dimensions | dimensional (adj) | dimensionally (adv)",
+  "ETYMOLOGY":"From Middle French dimension, from Latin dimensiōnem (nominative dimensiō), from dimensus, past participle of dīmētīrī ('to measure out', from dis- 'apart' + mētīrī 'to measure').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (e.g., spatial dimension)",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "mathematics"
+      ],
+      "DEF_EN":"A measurable extent of a particular kind, such as length, breadth, depth, or time.",
+      "DEF_ZH":"量度的范围，例如长度、宽度、深度或时间；维度。",
+      "SENT_EN":"Time is often considered the fourth dimension in physics.",
+      "SENT_ZH":"在物理学中，时间通常被认为是第四维度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "length",
+            "width",
+            "height",
+            "depth",
+            "extent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] of [sth]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"An aspect or feature of a situation, problem, or thing; a level of scope or importance.",
+      "DEF_ZH":"事物的某个方面、层面或特征；范围或重要性的程度。",
+      "SENT_EN":"His research added a new dimension to the study of ancient history.",
+      "SENT_ZH":"他的研究为古代史研究增添了一个新的层面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aspect",
+            "facet",
+            "feature",
+            "scope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dimensions of [sth]",
+      "POS":"noun (plural)",
+      "POS_TIP":"countable noun, usually used in plural",
+      "TAGS":[
+        "measurement",
+        "practical"
+      ],
+      "DEF_EN":"Size, especially the extent in length, width, and height (often used when specifying measurements).",
+      "DEF_ZH":"尺寸，尤指长、宽、高的程度（通常用复数形式来指具体的测量结果）。",
+      "SENT_EN":"Check the dimensions of the sofa to see if it will fit through the door.",
+      "SENT_ZH":"检查沙发的尺寸，看看它是否能穿过门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "size",
+            "measurements",
+            "proportions"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"travel between dimensions",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "science fiction",
+        "specialized"
+      ],
+      "DEF_EN":"A hypothetical realm, world, or reality existing parallel to or separate from one's own.",
+      "DEF_ZH":"假想的领域、世界或真实空间，与自身所在的现实平行或分离。",
+      "SENT_EN":"In the story, the hero accidentally opened a portal to another dimension.",
+      "SENT_ZH":"在故事中，英雄不小心打开了一个通往另一个维度的传送门。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "universe",
+            "plane",
+            "reality",
+            "multiverse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to standard usage across science, academia, and everyday conversation."
+}

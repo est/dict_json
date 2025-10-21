@@ -1,0 +1,65 @@
+{
+  "WORD":"advertisement",
+  "IPA":"/ˌædvərˈtaɪzmənt/",
+  "CONJUGATES":"advertisements (pl.)",
+  "ETYMOLOGY":"Late Middle English, via French advertissement, from Latin advertere (ad- 'to' + vertere 'to turn'), originally meaning 'a warning, advice'; modern sense developed in the 17th century.",
+  "SINCE":"Mid 15th century (modern commercial sense late 17th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"advertisement (for [sth])",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "commercial",
+        "common"
+      ],
+      "DEF_EN":"A notice or announcement in a public medium promoting a product, service, or event; often abbreviated as 'ad' or 'advert'.",
+      "DEF_ZH":"在公共媒体上刊登的旨在推广或销售产品、服务或事件的通知或公告；常缩写为 'ad' 或 'advert'。",
+      "SENT_EN":"They placed an advertisement in the local newspaper seeking a new manager.",
+      "SENT_ZH":"他们在当地报纸上刊登了一则招聘新经理的广告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ad",
+            "commercial",
+            "promotion",
+            "publicity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "marketing",
+            "campaign",
+            "billboard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"advertisement (of [sth])",
+      "POS":"noun",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"The action or process of attracting public attention to a product or service; the general activity of advertising.",
+      "DEF_ZH":"吸引公众对产品或服务注意的行为或过程；泛指广告活动本身。",
+      "SENT_EN":"The successful advertisement of the new car model led to record sales.",
+      "SENT_ZH":"新型汽车模型的成功宣传带来了创纪录的销量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advertising",
+            "publicizing"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Commercial, Media"
+}

@@ -1,0 +1,70 @@
+{
+  "WORD":"download",
+  "IPA":"/ˈdaʊnˌloʊd/",
+  "CONJUGATES":"downloads | downloading | downloaded",
+  "ETYMOLOGY":"Compound of 'down' (indicating movement from a central, higher point to a local, lower point) and 'load' (referring to data transfer or capacity). Usage specific to computing emerged in the context of mainframe and server architectures.",
+  "SINCE":"c. 1980s",
+  "MEANINGS":[
+    {
+      "PATTERN":"download [sth] [from sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"To copy data or a computer program from a remote computer system (such as a server or website) to a local computer or device.",
+      "DEF_ZH":"将数据或计算机程序从远程计算机系统（如服务器或网站）复制到本地计算机或设备。",
+      "SENT_EN":"It took only a few minutes to download the large software update.",
+      "SENT_ZH":"下载那个大型软件更新只花了我们几分钟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transfer",
+            "fetch",
+            "retrieve"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "upload"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a download | the download",
+      "POS":"n [C/U]",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "computing",
+        "common"
+      ],
+      "DEF_EN":"A file or piece of data that has been or is being downloaded; or the act or process of downloading data.",
+      "DEF_ZH":"已下载或正在下载的文件或数据；或指下载数据的行为或过程。",
+      "SENT_EN":"The latest software patch is available as a free download.",
+      "SENT_ZH":"最新的软件补丁可供免费下载。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "file",
+            "transfer",
+            "acquisition"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "upload"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

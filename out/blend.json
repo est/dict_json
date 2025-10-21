@@ -1,0 +1,99 @@
+{
+  "WORD":"blend",
+  "IPA":"/blɛnd/",
+  "CONJUGATES":"blend | blends | blended | blending",
+  "ETYMOLOGY":"From Old Norse blanda (to mix, mingle), via Middle English blenden. Related to Old English blandan.",
+  "SINCE":"Late Old English / Middle English (c. 13th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"blend [sth] (with [sth else]) | blend [sth] into [sth else]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To mix two or more substances, colors, or qualities together thoroughly, often so that they combine seamlessly.",
+      "DEF_ZH":"将两种或两种以上物质、颜色或品质彻底混合，常常使其无缝融合。",
+      "SENT_EN":"Blend the flour and butter until smooth.",
+      "SENT_ZH":"将面粉和黄油搅拌至光滑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mix",
+            "combine",
+            "intermingle",
+            "integrate",
+            "mingle",
+            "stir"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "separate",
+            "divide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blend (in) (with [sth])",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To combine pleasingly or harmoniously, or to appear natural and unnoticed in a particular setting or group.",
+      "DEF_ZH":"和谐地结合在一起；或在特定环境或群体中显得自然且不引人注目。",
+      "SENT_EN":"The new building blends in perfectly with the old architecture.",
+      "SENT_ZH":"这座新建筑与旧建筑完美融合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "harmonize",
+            "merge",
+            "fit in",
+            "match"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clash",
+            "stand out",
+            "contrast"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a blend of [sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A mixture of different kinds of things, often chosen to produce a particular quality or flavor.",
+      "DEF_ZH":"由不同种类事物组成的混合物，通常是为了产生特定的品质或风味。",
+      "SENT_EN":"This coffee is a unique blend of Arabica and Robusta beans.",
+      "SENT_ZH":"这种咖啡是阿拉比卡和罗布斯塔咖啡豆的独特混合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mixture",
+            "combination",
+            "concoction",
+            "amalgam",
+            "hybrid"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

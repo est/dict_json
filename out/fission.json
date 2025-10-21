@@ -1,0 +1,94 @@
+{
+  "WORD":"fission",
+  "IPA":"/ˈfɪʃən/",
+  "CONJUGATES":"fission (n.) | fissions (v. 3rd person singular present) | fissioning (v. present participle) | fissioned (v. past tense, past participle)",
+  "ETYMOLOGY":"From Latin fissio 'a splitting', from findere 'to cleave, split'. The scientific use for atomic processes gained prominence in the late 1930s.",
+  "SINCE":"Late 19th century (biological sense); 1930s (nuclear physics sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"fission",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "biology",
+        "scientific"
+      ],
+      "DEF_EN":"The action of dividing or splitting into two or more parts, especially in biology, a method of asexual reproduction where a cell or organism splits into two or more independent cells or organisms.",
+      "DEF_ZH":"分裂；裂变；尤指生物学上，细胞或生物体分裂成两个或多个独立的细胞或生物体的一种无性生殖方式。",
+      "SENT_EN":"Binary fission is a common method of reproduction among bacteria.",
+      "SENT_ZH":"二分裂是细菌常见的繁殖方式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "division",
+            "splitting",
+            "cleavage",
+            "fragmentation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mitosis",
+            "meiosis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fission",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physics",
+        "scientific"
+      ],
+      "DEF_EN":"The action of an atomic nucleus splitting into two or more smaller nuclei, releasing a large amount of energy.",
+      "DEF_ZH":"（原子核）裂变；原子核分裂成两个或更多较小的原子核，释放出大量能量的过程。",
+      "SENT_EN":"Nuclear fission is used in atomic bombs and nuclear power plants.",
+      "SENT_ZH":"核裂变被用于原子弹和核电站。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "fusion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "radioactivity",
+            "nucleus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] fission(s)",
+      "POS":"v.intr. | v.tr.",
+      "POS_TIP":"intransitive verb | transitive verb",
+      "TAGS":[
+        "scientific",
+        "less common"
+      ],
+      "DEF_EN":"(Of an atom, cell, or organism) to undergo fission; to split or cause to split into two or more parts.",
+      "DEF_ZH":"（原子、细胞或生物体）分裂；使分裂。",
+      "SENT_EN":"Some single-celled organisms fission rapidly under ideal conditions.",
+      "SENT_ZH":"在理想条件下，一些单细胞生物会迅速分裂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "split",
+            "divide",
+            "cleave"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"scientific, formal"
+}

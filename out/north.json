@@ -1,0 +1,128 @@
+{
+  "WORD":"north",
+  "IPA":"/nɔːrθ/",
+  "CONJUGATES":"norther | northern | northernmost | northwards | northerly",
+  "ETYMOLOGY":"From Old English norþ, from Proto-Germanic *nurþrą, of uncertain origin but possibly related to Proto-Indo-European *ner- 'left, below' (from the perspective of the rising sun).",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"the north",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "direction",
+        "common"
+      ],
+      "DEF_EN":"One of the four cardinal points of the compass, specifically the direction opposite to south, typically toward the North Pole.",
+      "DEF_ZH":"指南针的四个基本方向之一，特指与南方相对的方向，通常指向北极。",
+      "SENT_EN":"The sun rises in the east and sets in the west, and the North Star helps us find north.",
+      "SENT_ZH":"太阳东升西落，北极星帮我们找到北方。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "south"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "east",
+            "west",
+            "compass"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"north [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "direction",
+        "common"
+      ],
+      "DEF_EN":"Lying toward or situated in the north.",
+      "DEF_ZH":"位于北方或朝向北方的。",
+      "SENT_EN":"They built their house on the north side of the hill.",
+      "SENT_ZH":"他们把房子建在山坡的北侧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "northern"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "south",
+            "southern"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb] north",
+      "POS":"adv.",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "direction",
+        "common"
+      ],
+      "DEF_EN":"In or toward the north.",
+      "DEF_ZH":"在北方或向北方。",
+      "SENT_EN":"The birds fly north for the summer every year.",
+      "SENT_ZH":"这些鸟每年夏天都向北方飞去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "northwards"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "south",
+            "southwards"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the North",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geographic",
+        "common",
+        "capitalized"
+      ],
+      "DEF_EN":"The northern part of a country, region, or the world, often with distinct cultural, economic, or historical characteristics.",
+      "DEF_ZH":"一个国家、地区或世界的北方部分，通常具有独特的文化、经济或历史特征。",
+      "SENT_EN":"Life in the North can be quite different from life in the South.",
+      "SENT_ZH":"在北方生活可能与在南方生活截然不同。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Northern Hemisphere",
+            "North Pole",
+            "North America"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "South"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

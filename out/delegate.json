@@ -1,0 +1,81 @@
+{
+  "WORD":"delegate",
+  "IPA":"/ˈdɛlɪɡeɪt/",
+  "CONJUGATES":"delegates | delegated | delegating",
+  "ETYMOLOGY":"From Latin dēlēgātus, past participle of dēlēgāre ('to send away, commit, entrust'), derived from dē- ('away') + lēgāre ('to dispatch, commission').",
+  "SINCE":"Mid-15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"delegate [sth] (to [sb])",
+      "POS":"vtr + prep",
+      "POS_TIP":"vtr (transitive verb); prep (preposition)",
+      "TAGS":[
+        "core word",
+        "management",
+        "business"
+      ],
+      "DEF_EN":"To entrust a task, duty, or responsibility to another person, typically a subordinate.",
+      "DEF_ZH":"授权；委托；将（职责或任务）分派给下属或代理人。",
+      "SENT_EN":"The manager needs to learn how to delegate tasks effectively to free up his own time.",
+      "SENT_ZH":"经理需要学会如何有效地委派任务，以便腾出自己的时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assign",
+            "entrust",
+            "authorize",
+            "hand over"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "retain",
+            "keep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] delegate (to [sth])",
+      "POS":"nc",
+      "POS_TIP":"nc (countable noun)",
+      "TAGS":[
+        "core word",
+        "politics",
+        "formal"
+      ],
+      "DEF_EN":"A person sent or authorized to represent others, especially an elected representative sent to a conference or convention.",
+      "DEF_ZH":"（尤指会议或政治集会的）代表；代办；特使。",
+      "SENT_EN":"The union sent three delegates to the national convention.",
+      "SENT_ZH":"工会派遣了三名代表参加全国大会。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "representative",
+            "envoy",
+            "commissioner",
+            "deputy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"delegate [sb]",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb)",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To appoint someone as a representative or agent.",
+      "DEF_ZH":"委派某人（作为代表或代理人）。",
+      "SENT_EN":"He was delegated to handle the peace negotiations.",
+      "SENT_ZH":"他被委派处理和平谈判。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Commonly used in business, management, and political/diplomatic contexts."
+}

@@ -1,0 +1,113 @@
+{
+  "WORD":"breed",
+  "IPA":"/briːd/",
+  "CONJUGATES":"breeds (n.pl., v.3rd.sg) | bred (v.pt., v.pp.) | breeding (v.ing., n.)",
+  "ETYMOLOGY":"From Old English brēdan 'to nourish, cherish, keep warm, produce,' derived from brōd (brood), ultimately Proto-Germanic *brōdjanan.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"breed [sth] | breed",
+      "POS":"v.tr | v.intr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"To reproduce, especially referring to animals, or to cause animals to reproduce, often through controlled mating or selection.",
+      "DEF_ZH":"（动物）交配繁殖；（人工）饲养繁殖，培育",
+      "SENT_EN":"Rabbits breed quickly, which explains their large population.",
+      "SENT_ZH":"兔子的繁殖速度很快，这解释了它们庞大的种群数量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reproduce",
+            "propagate",
+            "raise",
+            "rear"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cross-breed",
+            "purebred"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [specific] breed of [sth]",
+      "POS":"n.c",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "classification"
+      ],
+      "DEF_EN":"A specific variety or kind of animal (especially domestic animals) developed by humans, often retaining distinct characteristics.",
+      "DEF_ZH":"品种；种类（尤指家畜，如狗或马的品种）",
+      "SENT_EN":"The German Shepherd is a versatile and popular breed of working dog.",
+      "SENT_ZH":"德国牧羊犬是一种多用途且受欢迎的工作犬品种。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "type",
+            "kind",
+            "variety",
+            "strain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"breed [sth]",
+      "POS":"v.tr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"To generate, create, or give rise to something, often an undesirable situation, feeling, or condition.",
+      "DEF_ZH":"引起；滋生；导致（通常指负面事物或情绪）",
+      "SENT_EN":"Neglect in the community can breed violence and mistrust.",
+      "SENT_ZH":"社区中的疏忽可能会滋生暴力和不信任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cause",
+            "engender",
+            "foster",
+            "generate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a breed of [sb]",
+      "POS":"n.c",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "figurative",
+        "human reference"
+      ],
+      "DEF_EN":"A type or group of person, often defined by character, mindset, or background.",
+      "DEF_ZH":"（具有特定性格或背景的）一类人；某种类型",
+      "SENT_EN":"He is a rare breed of entrepreneur who values integrity over profit.",
+      "SENT_ZH":"他属于那种将正直看得比利润更重要的罕见的企业家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sort",
+            "ilk",
+            "class"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

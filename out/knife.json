@@ -1,0 +1,88 @@
+{
+  "WORD":"knife",
+  "IPA":"/naɪf/",
+  "CONJUGATES":"knives (pl.) | knifed (past tense) | knifed (past participle) | knifing (present participle)",
+  "ETYMOLOGY":"From Old English 'cnīf', from Proto-Germanic '*knībaz', related to Old Norse 'knífr'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"knife",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A cutting implement consisting of a blade attached to a handle.",
+      "DEF_ZH":"一种由刀片和手柄组成的切割工具。",
+      "SENT_EN":"He used a sharp knife to slice the bread.",
+      "SENT_ZH":"他用一把锋利的刀切面包。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blade",
+            "cutter",
+            "dagger"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sword",
+            "scissors",
+            "fork"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knife [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To cut or stab with a knife.",
+      "DEF_ZH":"用刀切割或刺伤。",
+      "SENT_EN":"He knifed the rope to free the package.",
+      "SENT_ZH":"他用刀割断绳子以解开包裹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut",
+            "stab",
+            "gash",
+            "slash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knife [sb]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To betray someone, especially by harming their reputation or interests.",
+      "DEF_ZH":"背叛某人，特别是通过损害其声誉或利益。",
+      "SENT_EN":"His former ally knifed him in the back during the negotiations.",
+      "SENT_ZH":"他以前的盟友在谈判中背后捅了他一刀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "betray",
+            "deceive",
+            "undermine",
+            "backstab"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage."
+}

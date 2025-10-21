@@ -1,0 +1,98 @@
+{
+  "WORD":"norm",
+  "IPA":"/nɔːrm/",
+  "CONJUGATES":"norms (plural)",
+  "ETYMOLOGY":"From Latin norma 'carpenter's square, rule, pattern'.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] norm [for sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (countable or uncountable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "standard usage"
+      ],
+      "DEF_EN":"A standard, pattern, rule, or expectation that is considered typical, usual, or average.",
+      "DEF_ZH":"标准；规范；常态；通常情况或水平。",
+      "SENT_EN":"Working remotely has become the new norm since the pandemic.",
+      "SENT_ZH":"自从疫情以来，远程工作已成为新的常态。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "standard",
+            "rule",
+            "average",
+            "convention",
+            "usual"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exception",
+            "deviation",
+            "abnormality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"social/cultural norm(s)",
+      "POS":"n",
+      "POS_TIP":"Noun (usually used in plural form)",
+      "TAGS":[
+        "sociological",
+        "cultural"
+      ],
+      "DEF_EN":"A generally accepted standard of behavior, manners, or belief specific to a culture, society, or group.",
+      "DEF_ZH":"社会规范；行为准则；群体的约定俗成。",
+      "SENT_EN":"Loud talking on public transport is a violation of social norms in many Asian countries.",
+      "SENT_ZH":"在公共交通工具上大声喧哗在许多亚洲国家被认为是违反社会规范的行为。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "custom",
+            "convention",
+            "mores",
+            "etiquette"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"statistical norm",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "technical",
+        "statistics",
+        "psychology"
+      ],
+      "DEF_EN":"A typical or expected score, level of performance, or characteristic established by averaging the results of a large group; a measurement against which others are compared.",
+      "DEF_ZH":"常模；平均值；（智力或能力的）衡量标准。",
+      "SENT_EN":"The test results showed the child's development was slightly below the statistical norm for his age.",
+      "SENT_ZH":"测试结果显示，这个孩子的发育略低于他年龄的统计常模。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"Lp norm",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "highly technical",
+        "mathematics",
+        "linear algebra"
+      ],
+      "DEF_EN":"(Mathematics) A function that assigns a non-negative length or size to every vector in a vector space.",
+      "DEF_ZH":"（数学）范数；模。",
+      "SENT_EN":"The Euclidean distance is equivalent to the L2 norm of the difference vector.",
+      "SENT_ZH":"欧几里得距离等同于差值向量的 L2 范数。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal and everyday usage, depending on the meaning."
+}

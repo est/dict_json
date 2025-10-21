@@ -1,0 +1,72 @@
+{
+  "WORD":"keyboard",
+  "IPA":"/'kiːbɔːrd/",
+  "CONJUGATES":"keyboards | keyboard's | keyboards'",
+  "ETYMOLOGY":"Compound of 'key' (referring to a lever or mechanism) and 'board' (referring to a flat surface). Initially used for musical instruments like the harpsichord or piano.",
+  "SINCE":"c. 1690 (for musical instruments); c. 1950s (for computer input)",
+  "MEANINGS":[
+    {
+      "PATTERN":"keyboard",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"A panel of keys that is used to enter characters, numbers, and commands into a computer or other electronic device.",
+      "DEF_ZH":"用于输入字符、数字和命令到计算机或其他电子设备的一组按键面板。",
+      "SENT_EN":"The new laptop has a backlit keyboard, which is useful for working in the dark.",
+      "SENT_ZH":"这款新笔记本电脑有一个背光键盘，在黑暗中工作很有用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "keypad",
+            "input device"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "QWERTY",
+            "mouse",
+            "touchpad"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"keyboard [of a musical instrument]",
+      "POS":"n",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "music",
+        "common"
+      ],
+      "DEF_EN":"The set of black and white keys on a piano, organ, synthesizer, or similar musical instrument.",
+      "DEF_ZH":"钢琴、风琴、合成器或类似乐器上的一组黑白琴键。",
+      "SENT_EN":"She ran her fingers lightly over the full 88-key keyboard.",
+      "SENT_ZH":"她将手指轻轻拂过完整的88键键盘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "keys",
+            "manual",
+            "clavier"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "piano",
+            "organ",
+            "synthesizer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage; specific in technology and music contexts."
+}

@@ -1,0 +1,64 @@
+{
+  "WORD":"detection",
+  "IPA":"/dɪˈtɛkʃən/",
+  "CONJUGATES":"detections",
+  "ETYMOLOGY":"From the verb 'detect', derived from Latin *dētegere* ('uncover', 'disclose'), formed from *de-* ('un-') + *tegere* ('to cover').",
+  "SINCE":"1650s",
+  "MEANINGS":[
+    {
+      "PATTERN":"detection [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Uncountable or countable noun, referring to the act or process.",
+      "TAGS":[
+        "core word",
+        "general use"
+      ],
+      "DEF_EN":"The act or process of noticing, discovering, or revealing the presence of something previously concealed or unseen.",
+      "DEF_ZH":"察觉；发现；侦查（指发现隐藏事物、信号或犯罪行为的过程）。",
+      "SENT_EN":"Early detection of the disease is crucial for successful treatment.",
+      "SENT_ZH":"疾病的早期发现对于成功的治疗至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discovery",
+            "sensing",
+            "identification",
+            "uncovering"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "detective",
+            "detector"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"detection",
+      "POS":"noun",
+      "POS_TIP":"Uncountable noun, referring to the technical process.",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"In science or technology, the process of sensing and measuring a signal, particle, or physical quantity.",
+      "DEF_ZH":"检测；探测（在科学或技术领域，指感应和测量信号、粒子或物理量的过程）。",
+      "SENT_EN":"The experiment focuses on the detection of gravitational waves.",
+      "SENT_ZH":"该实验侧重于引力波的探测。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sensing",
+            "monitoring",
+            "measurement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Scientific."
+}

@@ -1,0 +1,97 @@
+{
+  "WORD":"concede",
+  "IPA":"/kənˈsiːd/",
+  "CONJUGATES":"concede | concedes | conceded | conceding",
+  "ETYMOLOGY":"From Middle English *conceden*, from Latin *concedere* ('to yield, give way'), formed from *con-* ('together, thoroughly') + *cedere* ('to go, yield').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"concede [sth] | concede that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To admit or acknowledge that something is true, valid, or exists, often reluctantly or after initial denial.",
+      "DEF_ZH":"承认（某事）是真实的、有效的或存在，通常指不情愿地或在初始否认后承认。",
+      "SENT_EN":"He finally conceded that the opposing team had played better.",
+      "SENT_ZH":"他最终承认对方球队打得更好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admit",
+            "acknowledge",
+            "grant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deny",
+            "dispute",
+            "reject"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"concede [sth] (e.g., a point, the election)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "politics",
+        "competition",
+        "negotiation"
+      ],
+      "DEF_EN":"To yield, surrender, or formally give up a contest, a position, or a specific point in a discussion.",
+      "DEF_ZH":"（在竞赛、辩论或谈判中）让步、放弃或认输（如选举、某个论点）。",
+      "SENT_EN":"The candidate waited until midnight to concede the election to his rival.",
+      "SENT_ZH":"这位候选人等到午夜才向对手承认败选。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surrender",
+            "yield",
+            "submit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insist",
+            "resist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"concede [sth] to [sb/sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb with preposition",
+      "TAGS":[
+        "formal",
+        "legal",
+        "less common"
+      ],
+      "DEF_EN":"To grant or allow (a right, privilege, or benefit) to someone.",
+      "DEF_ZH":"授予或允许（某项权利、特权或好处）给某人。",
+      "SENT_EN":"The government conceded new freedoms to the province after the uprising.",
+      "SENT_ZH":"起义后，政府向该省授予了新的自由权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grant",
+            "allow",
+            "bestow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal writing, legal documents, serious discussions, and reporting on contests or politics."
+}

@@ -1,0 +1,76 @@
+{
+  "WORD":"accurate",
+  "IPA":"/ˈækjʊrət/",
+  "CONJUGATES":"accurately (adverb) | more accurate (comparative) | most accurate (superlative) | accuracy (noun)",
+  "ETYMOLOGY":"From Latin accuratus, past participle of accurare 'to take care of', formed from ad- 'to' + cura 'care'. The meaning shifted in English from 'done with care' to 'precise' or 'exact'.",
+  "SINCE":"Mid 17th century (c. 1640s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"accurate [information/measurement/description]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "precision"
+      ],
+      "DEF_EN":"Correct in all details; exact, precise, or conforming strictly to fact.",
+      "DEF_ZH":"与事实或标准完全相符的；精确的；正确的；无误的。",
+      "SENT_EN":"We need to ensure that the data collected is accurate and reliable.",
+      "SENT_ZH":"我们需要确保收集到的数据是精确可靠的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precise",
+            "exact",
+            "correct",
+            "truthful",
+            "verifiable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inaccurate",
+            "wrong",
+            "false",
+            "approximate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accurate [device/person/system]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "skill",
+        "technical"
+      ],
+      "DEF_EN":"Capable of providing exact results or measurements; able to hit a target consistently.",
+      "DEF_ZH":"能够准确无误地运行或击中目标的（指设备、人或系统）。",
+      "SENT_EN":"The new rifle is remarkably accurate, even at long ranges.",
+      "SENT_ZH":"这款新步枪非常准确，即使在远距离也是如此。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reliable",
+            "consistent",
+            "on target"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "erratic",
+            "unreliable",
+            "flawed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

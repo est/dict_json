@@ -1,0 +1,106 @@
+{
+  "WORD":"brand",
+  "IPA":"/brænd/",
+  "CONJUGATES":"brands | branding | branded",
+  "ETYMOLOGY":"From Old English brand, brond ('fire', 'flame', 'firebrand', 'torch'), derived from Proto-Germanic *brandaz ('a burning'). The meaning shifted to 'mark made by burning' (c. 1300) and later to 'identifying mark of a manufactured product' (c. 1850).",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] brand (of [sth])",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"A name, term, design, symbol, or other feature that identifies one seller's product or service as distinct from those of other sellers.",
+      "DEF_ZH":"品牌；商标。指用来区分商家产品或服务的名称、标志或设计。",
+      "SENT_EN":"Which brand of smartphone do you prefer?",
+      "SENT_ZH":"你更喜欢哪个品牌的智能手机？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trademark",
+            "make",
+            "label",
+            "logo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] brand (of [sth abstract])",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "general",
+        "figurative"
+      ],
+      "DEF_EN":"A particular kind, type, or style of something.",
+      "DEF_ZH":"种类；风格；派别。",
+      "SENT_EN":"He practices a unique brand of politics, focusing heavily on local issues.",
+      "SENT_ZH":"他奉行一种独特的政治风格，主要关注地方问题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "type",
+            "kind",
+            "sort",
+            "variety"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brand [sth] (on [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "literal",
+        "historical"
+      ],
+      "DEF_EN":"To mark livestock or property with an identifying mark, typically with a hot iron.",
+      "DEF_ZH":"打烙印；火印。用烙铁在牲畜或财产上打上识别标记。",
+      "SENT_EN":"The cattle were branded to establish ownership before the drive.",
+      "SENT_ZH":"在驱赶之前，牛群都被打上了烙印以确定所有权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mark",
+            "tattoo"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"brand [sb] as [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition or adverb",
+      "TAGS":[
+        "common",
+        "figurative",
+        "negative connotation"
+      ],
+      "DEF_EN":"To characterize someone or something permanently and often unfairly as having a particular bad quality or reputation; to stigmatize.",
+      "DEF_ZH":"污名化；贴标签；给（某人）定性（通常带有负面含义）。",
+      "SENT_EN":"After the scandal, he was branded as a traitor by the public.",
+      "SENT_ZH":"丑闻发生后，他被公众定性为叛徒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stigmatize",
+            "label",
+            "denounce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Business"
+}

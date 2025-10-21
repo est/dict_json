@@ -1,0 +1,66 @@
+{
+  "WORD":"decode",
+  "IPA":"/diːˈkoʊd/",
+  "CONJUGATES":"decodes | decoded | decoding",
+  "ETYMOLOGY":"From English 'de-' (indicating reversal or undoing) + 'code' (a system of rules or symbols). First appeared in the context of telegraphy and cryptography.",
+  "SINCE":"1920s",
+  "MEANINGS":[
+    {
+      "PATTERN":"decode [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; a verb that takes one or more direct objects.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To convert coded or encrypted information into plain language or a more intelligible form.",
+      "DEF_ZH":"将编码或加密的信息转换成明文或更易理解的形式。",
+      "SENT_EN":"The intelligence agency managed to decode the enemy's secret messages.",
+      "SENT_ZH":"情报机构设法破译了敌人的秘密电报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decipher",
+            "decrypt",
+            "interpret",
+            "translate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "encode",
+            "encrypt",
+            "code"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"decode [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb; a verb that takes one or more direct objects.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To understand or interpret something obscure, complex, or difficult to grasp.",
+      "DEF_ZH":"理解或解释某件模糊、复杂或难以捉摸的事物。",
+      "SENT_EN":"She's trying to decode the subtle signals in his body language.",
+      "SENT_ZH":"她正试图解读他肢体语言中微妙的信号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "figure out",
+            "unravel",
+            "make sense of"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

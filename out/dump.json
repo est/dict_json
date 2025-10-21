@@ -1,0 +1,151 @@
+{
+  "WORD":"dump",
+  "IPA":"/dʌmp/",
+  "CONJUGATES":"dump | dumps | dumping | dumped",
+  "ETYMOLOGY":"Probably from Middle English *dompen, *dampen 'to plunge, fall down', or from Old Norse dumpa 'to fall suddenly'. Related to Dutch dompen 'to extinguish, plunge'.",
+  "SINCE":"Late 14th century (verb), late 17th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"dump [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To drop or let fall heavily or unceremoniously; to get rid of something unwanted.",
+      "DEF_ZH":"（将某物）猛地扔下；倾倒；丢弃",
+      "SENT_EN":"He dumped his dirty clothes on the floor.",
+      "SENT_ZH":"他把脏衣服扔到地板上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discard",
+            "throw away",
+            "dispose of",
+            "jettison"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dump [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes one or more objects",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To end a romantic relationship with someone, often abruptly and without much explanation.",
+      "DEF_ZH":"（口语）甩掉（某人）；与（某人）分手",
+      "SENT_EN":"She dumped her boyfriend after he cheated on her.",
+      "SENT_ZH":"她发现男朋友出轨后就把他甩了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "jilt",
+            "abandon",
+            "break up with"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dump [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: verb that takes one or more objects",
+      "TAGS":[
+        "common",
+        "business",
+        "economics"
+      ],
+      "DEF_EN":"To sell goods in large quantities at a low price, especially in a foreign market, or to sell shares quickly to avoid a loss.",
+      "DEF_ZH":"倾销（商品）；大量抛售（股票）",
+      "SENT_EN":"The company was accused of dumping its surplus products in other countries.",
+      "SENT_ZH":"该公司被指控向其他国家倾销其过剩产品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "offload",
+            "unload",
+            "sell off"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dump",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A place where refuse or waste material is deposited; a landfill.",
+      "DEF_ZH":"垃圾场；堆放处",
+      "SENT_EN":"The old landfill site has been turned into a nature park, but it used to be a huge garbage dump.",
+      "SENT_ZH":"那个旧垃圾填埋场现在已经变成了一个自然公园，但它曾经是一个巨大的垃圾堆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "landfill",
+            "rubbish tip",
+            "refuse heap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dump",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things",
+      "TAGS":[
+        "common",
+        "informal",
+        "derogatory"
+      ],
+      "DEF_EN":"An unpleasant, run-down, or dilapidated place.",
+      "DEF_ZH":"脏乱差的地方；破烂不堪的住处",
+      "SENT_EN":"This hotel is a complete dump; I can't believe we're staying here.",
+      "SENT_ZH":"这酒店简直是个破地方，我真不敢相信我们要住在这里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hovel",
+            "slum",
+            "dive",
+            "pigsty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dump",
+      "POS":"n",
+      "POS_TIP":"noun: a word (other than a pronoun) used to identify any of a class of people, places, or things",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A transfer of data from one storage location to another, typically for diagnostic purposes; a copy of memory contents.",
+      "DEF_ZH":"（计算机）转储；数据转存",
+      "SENT_EN":"The system generated a core dump after the unexpected crash.",
+      "SENT_ZH":"系统在意外崩溃后生成了一个核心转储。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "core dump",
+            "memory dump"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with some informal and technical uses."
+}

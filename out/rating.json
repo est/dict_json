@@ -1,0 +1,95 @@
+{
+  "WORD":"rating",
+  "IPA":"/ˈreɪtɪŋ/",
+  "CONJUGATES":"ratings (plural noun)",
+  "ETYMOLOGY":"Noun derived from the verb 'rate', from Middle English 'raten' (to calculate, estimate), possibly via Old French 'rater'.",
+  "SINCE":"Mid-16th century (as assessment/calculation)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a [sth] rating",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "General"
+      ],
+      "DEF_EN":"A measurement or assessment of quality, performance, or merit, often expressed by a number, grade, or star system.",
+      "DEF_ZH":"对质量、性能或价值的衡量或评估，通常以数字、等级或星级系统表示。",
+      "SENT_EN":"The new movie received a high rating from critics.",
+      "SENT_ZH":"这部新电影获得了评论家的高度评价。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "grade",
+            "score",
+            "evaluation",
+            "assessment",
+            "ranking"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] credit rating / financial rating",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Finance",
+        "Business",
+        "Technical"
+      ],
+      "DEF_EN":"An evaluation of the financial stability and solvency of an individual, company, or security, typically provided by specialized agencies.",
+      "DEF_ZH":"对个人、公司或证券的财务稳定性和偿付能力的评估，通常由专业机构提供。",
+      "SENT_EN":"The agency announced it was maintaining the country's sovereign debt rating.",
+      "SENT_ZH":"该机构宣布维持该国的主权债务评级。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Moody's",
+            "Standard & Poor's",
+            "Fitch"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"TV rating / audience rating",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Media",
+        "Entertainment"
+      ],
+      "DEF_EN":"A statistical estimate of the percentage of the potential audience that is viewing a particular television or radio program.",
+      "DEF_ZH":"观看某一特定电视或广播节目的潜在观众总数的百分比统计估算；收视率/收听率。",
+      "SENT_EN":"The television network was concerned about the sharp decline in evening news ratings.",
+      "SENT_ZH":"该电视网络对晚间新闻收视率的急剧下降感到担忧。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "viewership",
+            "Nielsen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] rating",
+      "POS":"v gerund or present participle",
+      "POS_TIP":"Gerund or present participle of the verb 'rate'",
+      "TAGS":[
+        "Grammatical function"
+      ],
+      "DEF_EN":"The act of assessing or assigning a value, standard, or rank to something.",
+      "DEF_ZH":"对某物进行评估或赋值、分配等级的行为。",
+      "SENT_EN":"She spent the afternoon rating customer satisfaction surveys.",
+      "SENT_ZH":"她花了整个下午对客户满意度调查进行评分。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, highly common in Business, Finance, and Media contexts."
+}

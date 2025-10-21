@@ -1,0 +1,115 @@
+{
+  "WORD":"vent",
+  "IPA":"/vɛnt/",
+  "CONJUGATES":"vents | venting | vented",
+  "ETYMOLOGY":"From Middle French *fente* ('slit, opening'), possibly influenced by Latin *ventus* ('wind'). As a verb, derived from the noun meaning 'to let out air or gas'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An opening or outlet that allows the escape or entry of air, gas, smoke, or liquid.",
+      "DEF_ZH":"排气口；通风口；出气孔",
+      "SENT_EN":"Make sure the dryer vent is clear of lint to prevent fire hazards.",
+      "SENT_ZH":"确保烘干机的排气口没有绒毛，以防止火灾隐患。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outlet",
+            "opening",
+            "aperture"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exhaust",
+            "flue"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vent [sth] (on/to [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To express or release (a strong emotion, especially anger or frustration) freely and often forcefully.",
+      "DEF_ZH":"发泄；表达（怒气、不满等）",
+      "SENT_EN":"He needed to vent his anger after being stuck in traffic for two hours.",
+      "SENT_ZH":"被堵在路上两个小时后，他需要发泄他的怒气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "release",
+            "express",
+            "air",
+            "unleash"
+          ]
+        },
+        {
+          "T":"idiom",
+          "V":[
+            "let off steam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vent [sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"To allow air, gas, or liquid to escape from a container, system, or cavity, or to make such an escape possible.",
+      "DEF_ZH":"使（气体、液体）排出；排放",
+      "SENT_EN":"The mechanism is designed to automatically vent excess pressure.",
+      "SENT_ZH":"该机制旨在自动排出多余的压力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exhaust",
+            "release",
+            "drain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the vent",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "biology"
+      ],
+      "DEF_EN":"The opening at the posterior end of the digestive and urogenital tract in many non-mammalian vertebrates (e.g., birds, reptiles).",
+      "DEF_ZH":"（鸟类、鱼类、爬行动物的）泄殖腔口",
+      "SENT_EN":"The size of the vent can sometimes indicate the gender of certain fish.",
+      "SENT_ZH":"泄殖腔口的大小有时可以指示某些鱼类的性别。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cloaca",
+            "anus"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use in everyday conversation and specific technical/scientific contexts."
+}

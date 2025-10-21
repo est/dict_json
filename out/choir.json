@@ -1,0 +1,56 @@
+{
+  "WORD":"choir",
+  "IPA":"/ˈkwaɪər/",
+  "CONJUGATES":"choirs",
+  "ETYMOLOGY":"From Middle English quer, from Old French cuer, from Latin chorus, from Ancient Greek khoros (dance, band of singers). The spelling was later reformed in English to match the Greek and Latin roots.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"choir [of sb]",
+      "POS":"n",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "core word",
+        "music"
+      ],
+      "DEF_EN":"An organized group of singers, especially one that performs in a church service or concert.",
+      "DEF_ZH":"合唱团；歌咏队 (尤指在教堂或音乐会上表演的团体)。",
+      "SENT_EN":"The youth choir won first place in the regional competition.",
+      "SENT_ZH":"青年合唱团在地区比赛中获得了第一名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chorus",
+            "ensemble",
+            "vocal group"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the choir",
+      "POS":"n",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "architecture",
+        "religious term"
+      ],
+      "DEF_EN":"The part of a church or cathedral, often located to the east of the nave, where the clergy and choir sit.",
+      "DEF_ZH":" (教堂中用于唱诗班的) 圣坛，唱诗席，唱诗台。",
+      "SENT_EN":"The architecturally significant features of the cathedral are mostly visible from the choir.",
+      "SENT_ZH":"这座大教堂的具有重要建筑意义的特征主要在圣坛部分可见。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "nave",
+            "chancel",
+            "sanctuary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Music, Architecture (Religious)"
+}

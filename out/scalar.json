@@ -1,0 +1,102 @@
+{
+  "WORD":"scalar",
+  "IPA":"/ˈskeɪlər/",
+  "CONJUGATES":"scalars (n. plural)",
+  "ETYMOLOGY":"From Latin scala ('ladder, stairway, scale'), related to the mathematical term 'scale'. The mathematical sense emerged in the mid-19th century.",
+  "SINCE":"Mid-19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] as a scalar",
+      "POS":"n",
+      "POS_TIP":"noun, a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "technical",
+        "mathematics",
+        "physics"
+      ],
+      "DEF_EN":"A quantity that has magnitude but not direction.",
+      "DEF_ZH":"只有大小而没有方向的量。",
+      "SENT_EN":"Temperature and mass are examples of scalar quantities in physics.",
+      "SENT_ZH":"物理学中，温度和质量是标量的例子。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "vector"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "magnitude",
+            "direction",
+            "tensor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scalar [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective, a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "mathematics",
+        "physics"
+      ],
+      "DEF_EN":"Relating to a quantity that has magnitude but not direction.",
+      "DEF_ZH":"与只有大小而没有方向的量有关的；标量的。",
+      "SENT_EN":"Scalar multiplication involves multiplying every component of a vector by a scalar value.",
+      "SENT_ZH":"标量乘法是指将向量的每个分量乘以一个标量值。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "vector"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "magnitude",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scalar [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective, a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "rare",
+        "formal",
+        "general"
+      ],
+      "DEF_EN":"Of or relating to a scale or a sequence of steps.",
+      "DEF_ZH":"与刻度或按步骤进行的序列有关的。",
+      "SENT_EN":"The architect designed a scalar progression of terraces up the hillside.",
+      "SENT_ZH":"建筑师设计了沿山坡逐渐升高的梯田。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graduated",
+            "scaled",
+            "sequential"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "scale",
+            "gradation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"scientific, academic, technical"
+}

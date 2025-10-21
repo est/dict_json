@@ -1,0 +1,178 @@
+{
+  "WORD":"fancy",
+  "IPA":"/ˈfænsi/",
+  "CONJUGATES":"fancies (v, n) | fancied (v) | fancying (v) | fancier (adj) | fanciest (adj)",
+  "ETYMOLOGY":"From Middle English *fantasie*, shortened from *fantasy*. Ultimately from Old French *fantasie*, Latin *phantasia*, and Ancient Greek *phantasía* (φαντασία, 'imagination, appearance'). The shortened form 'fancy' emerged in English in the 15th century.",
+  "SINCE":"c. 1380 (as noun 'imagination'); c. 1450 (as verb 'to imagine'); c. 1520 (as adjective 'imaginary, capricious'); shortened form 'fancy' emerged in 15th century.",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is fancy",
+      "POS":"adj",
+      "POS_TIP":"Adjective: Describes a noun; indicating qualities like elaborate, decorative, or expensive.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Elaborate in structure or decoration; expensive or of high quality.",
+      "DEF_ZH":"（尤其指衣服、场所、装饰等）花哨的；精美的；昂贵的；高级的。",
+      "SENT_EN":"They stayed at a very fancy hotel with a rooftop pool.",
+      "SENT_ZH":"他们住在一间带屋顶泳池的非常高级的酒店里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ornate",
+            "elaborate",
+            "luxurious",
+            "expensive",
+            "upscale",
+            "posh"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "plain",
+            "simple",
+            "basic",
+            "cheap",
+            "modest"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fancy [sth] | fancy [sb] | fancy doing [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: Takes a direct object (something or someone).",
+      "TAGS":[
+        "common",
+        "informal",
+        "British English"
+      ],
+      "DEF_EN":"To feel a strong desire for or attraction to; to like or wish for.",
+      "DEF_ZH":"想要；喜欢；对…感兴趣（主要用于英式英语，非正式）。",
+      "SENT_EN":"Do you fancy a quick drink after work? | I really fancy him, he's very charming.",
+      "SENT_ZH":"下班后想喝一杯吗？| 我真的很喜欢他，他很有魅力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "want",
+            "desire",
+            "like",
+            "crave",
+            "be attracted to",
+            "wish for"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dislike",
+            "detest",
+            "reject"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fancy [sth] | fancy (that)! | fancy yourself (as) [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: Takes a direct object or is used reflexively.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To imagine or suppose something, often used to express surprise or ironic realization. Also, to have an unreasonably high opinion of oneself.",
+      "DEF_ZH":"（常用于表达惊讶或讽刺）没想到；竟然；自以为是；认为。",
+      "SENT_EN":"Fancy seeing you here after all these years! | He fancies himself an expert, but he knows very little.",
+      "SENT_ZH":"这么多年后竟然在这儿见到你！| 他自以为是专家，其实懂得很少。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imagine",
+            "suppose",
+            "believe",
+            "think",
+            "presume"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a fancy",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"An elaborate decoration or design, often something ornamental rather than practical.",
+      "DEF_ZH":"花哨的装饰品；精巧的设计。",
+      "SENT_EN":"The cake was adorned with all sorts of edible fancies.",
+      "SENT_ZH":"蛋糕上装饰着各种可食用的精美点缀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ornament",
+            "decoration",
+            "embellishment",
+            "trinket"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"take a fancy to [sb/sth] | a fancy for [sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "less common",
+        "slightly formal"
+      ],
+      "DEF_EN":"A sudden, often transient, inclination or liking for something or someone; a whim.",
+      "DEF_ZH":"一时兴起；一时的爱好；心血来潮；偏爱。",
+      "SENT_EN":"He took a sudden fancy to collecting vintage stamps.",
+      "SENT_ZH":"他突然对收集老式邮票产生了兴趣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "whim",
+            "caprice",
+            "inclination",
+            "preference",
+            "predilection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a flight of fancy | a world of fancy",
+      "POS":"noun",
+      "POS_TIP":"Noun: A word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "literary",
+        "archaic"
+      ],
+      "DEF_EN":"The faculty of imagination, especially in its lighter or more fanciful aspects; creative or whimsical invention.",
+      "DEF_ZH":"想象力；幻想；奇思妙想。",
+      "SENT_EN":"His poems are full of delightful flights of fancy.",
+      "SENT_ZH":"他的诗歌充满了美妙的奇思妙想。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imagination",
+            "fantasy",
+            "reverie",
+            "daydream"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Generally common and informal, though some noun meanings can be more formal or literary."
+}

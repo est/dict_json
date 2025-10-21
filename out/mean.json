@@ -1,0 +1,159 @@
+{
+  "WORD":"mean",
+  "IPA":"/miːn/",
+  "CONJUGATES":"verb: mean | means | meaning | meant | meant || adjective: mean | meaner | meanest || noun: means (plural)",
+  "ETYMOLOGY":"For the verb 'to intend' and adjective 'of low quality, unkind': From Old English mænan 'to intend, signify' and gemæne 'common, shared, low, base'.\nFor the noun 'average': From Old French meien, from Latin medianus 'that is in the middle'.",
+  "SINCE":"Before 900 AD (for verb/adjective); late 14th century (for noun 'average')",
+  "MEANINGS":[
+    {
+      "PATTERN":"mean [sth] | mean to do [sth] | mean [that clause]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To intend to express, indicate, or refer to something; to have in mind as a purpose.",
+      "DEF_ZH":"意指；表示；意欲；打算",
+      "SENT_EN":"What do you mean by that remark? | I didn't mean to offend you.",
+      "SENT_ZH":"你说那话是什么意思？ | 我不是故意要冒犯你。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intend",
+            "signify",
+            "convey",
+            "denote"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "meaning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mean [sth] (for [sb/sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To have a particular result or effect; to involve or imply.",
+      "DEF_ZH":"意味着；带来；导致；造成",
+      "SENT_EN":"This promotion will mean a lot of extra work for me.",
+      "SENT_ZH":"这次升职将意味着我需要做大量额外工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "entail",
+            "imply",
+            "involve",
+            "result in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is mean (to [sb/sth])",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Unkind, malicious, or unfair.",
+      "DEF_ZH":"刻薄的；卑鄙的；不友善的",
+      "SENT_EN":"It was mean of him to tease the younger children.",
+      "SENT_ZH":"他取笑那些小孩子真够刻薄的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cruel",
+            "malicious",
+            "unkind",
+            "spiteful"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "kind",
+            "generous",
+            "friendly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mean [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive",
+        "slightly dated (for 'poor quality')"
+      ],
+      "DEF_EN":"Not willing to give or share things, especially money; stingy. | Of poor quality or low value.",
+      "DEF_ZH":"吝啬的；小气的 | 质量差的；卑微的",
+      "SENT_EN":"He's too mean to buy a round of drinks. | They lived in a mean little hut.",
+      "SENT_ZH":"他太吝啬了，不肯请大家喝一杯。 | 他们住在一个破旧的小茅屋里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stingy",
+            "miserly",
+            "parsimonious",
+            "inferior",
+            "humble"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "generous",
+            "lavish",
+            "superior"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the mean (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "mathematical"
+      ],
+      "DEF_EN":"The average value of a set of numbers; the arithmetic mean.",
+      "DEF_ZH":"平均值；平均数",
+      "SENT_EN":"The mean temperature for the month was 25 degrees Celsius.",
+      "SENT_ZH":"该月的平均气温是25摄氏度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "average",
+            "median",
+            "mode"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "arithmetic mean"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Everyday, Mathematical"
+}

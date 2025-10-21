@@ -1,0 +1,107 @@
+{
+  "WORD":"vein",
+  "IPA":"/veɪn/",
+  "CONJUGATES":"veins (pl. n.) | veined (pt., pp.) | veining (pres. p.)",
+  "ETYMOLOGY":"From Middle English *veine*, from Old French *veine*, from Latin *vēna* ('blood vessel, channel').",
+  "SINCE":"c. 13th Century (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Anatomy",
+        "Biology"
+      ],
+      "DEF_EN":"Any of the tubular vessels in the body that carry deoxygenated blood back toward the heart (except the pulmonary vein).",
+      "DEF_ZH":"身体中将脱氧血液输送回心脏的任何管状血管（肺静脉除外）。",
+      "SENT_EN":"The doctor struggled to locate a suitable vein for the intravenous drip.",
+      "SENT_ZH":"医生费力寻找一根适合进行静脉滴注的血管。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "artery",
+            "capillary",
+            "vessel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a vein of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Metaphorical",
+        "Common"
+      ],
+      "DEF_EN":"A distinctive particular quality, mood, or tendency running through something, such as a piece of writing or a person's character.",
+      "DEF_ZH":"贯穿某事物（如文章或性格）的独特品质、情绪或倾向。",
+      "SENT_EN":"The lecture contained a serious vein of social criticism.",
+      "SENT_ZH":"这堂讲座包含了严肃的社会批评倾向。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "streak",
+            "thread",
+            "strain"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of a leaf/wing)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Biology",
+        "Botany"
+      ],
+      "DEF_EN":"A slender bundle of vascular tissue that forms part of the framework of a leaf or the supporting framework of an insect's wing.",
+      "DEF_ZH":"构成叶子骨架或昆虫翅膀支撑框架的细长维管组织束（叶脉/翅脉）。",
+      "SENT_EN":"The intricate pattern of the leaf veins is unique to each species.",
+      "SENT_ZH":"叶脉的复杂图案对每个物种都是独一无二的。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a vein of [sth] (in rock)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Geology",
+        "Mining"
+      ],
+      "DEF_EN":"A fissure or crack in rock filled with secondary minerals, often ore or quartz.",
+      "DEF_ZH":"岩石中的裂缝或裂隙，其中充满了次生矿物质，通常是矿石或石英（矿脉）。",
+      "SENT_EN":"They discovered a rich vein of silver deep inside the mine.",
+      "SENT_ZH":"他们在矿井深处发现了一条富含白银的矿脉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lode",
+            "seam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is veined",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Descriptive",
+        "Technical"
+      ],
+      "DEF_EN":"To mark or streak with lines resembling veins.",
+      "DEF_ZH":"形成或具有类似静脉的线条或条纹。",
+      "SENT_EN":"The expensive marble countertop was beautifully veined with blue and gold.",
+      "SENT_ZH":"昂贵的大理石台面上有着美丽的蓝色和金色纹路。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Technical (Biology, Geology)"
+}

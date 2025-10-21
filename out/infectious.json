@@ -1,0 +1,63 @@
+{
+  "WORD":"infectious",
+  "IPA":"/ɪnˈfɛkʃəs/",
+  "CONJUGATES":"infectiously (adv.) | infectiousness (n.)",
+  "ETYMOLOGY":"From Late Latin *infectiosus*, from *infectio* ('infection'), derived from the verb *inficere* ('to put into, taint, corrupt'), combining *in-* ('into') and *facere* ('to make, do').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"infectious [disease/agent]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "medical",
+        "core word"
+      ],
+      "DEF_EN":"(Of a disease or agent) capable of causing infection and easily transmitted from one individual to another.",
+      "DEF_ZH":"（指疾病或病原体）具有传染性的，易于传播的。",
+      "SENT_EN":"Tuberculosis is an infectious disease that primarily affects the lungs.",
+      "SENT_ZH":"结核病是一种主要影响肺部的传染性疾病。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contagious",
+            "transmissible",
+            "communicable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "noninfectious",
+            "noncontagious"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"infectious [quality/emotion]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"(Of an emotion, quality, or atmosphere) likely to spread or influence others rapidly, often in a positive way.",
+      "DEF_ZH":"（指情绪、特质或气氛）有感染力的，容易迅速传播或影响他人的。",
+      "SENT_EN":"The speaker had an infectious optimism that energized the audience.",
+      "SENT_ZH":"这位演讲者具有鼓舞人心的乐观精神，让听众充满活力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "catching",
+            "compelling",
+            "magnetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general usage, particularly within medical and psychological contexts."
+}

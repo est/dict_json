@@ -1,0 +1,79 @@
+{
+  "WORD":"seventh",
+  "IPA":"/ˈsɛvənθ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English *sevende*, from Old English *seofoþa*, corresponding to *seven* + *-th*.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"the seventh [sth]",
+      "POS":"adj | n",
+      "POS_TIP":"adjective | noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Constituting number seven in a sequence; coming immediately after the sixth.",
+      "DEF_ZH":"序数第七的；紧接在第六位之后的。",
+      "SENT_EN":"The seventh day of the week is usually Sunday.",
+      "SENT_ZH":"一周中的第七天通常是星期日。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "six",
+            "eighth",
+            "ordinal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a seventh [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "mathematical",
+        "common"
+      ],
+      "DEF_EN":"One of seven equal parts into which something is divided; a fraction equal to 1/7.",
+      "DEF_ZH":"七分之一；某物被等分成七份中的一份。",
+      "SENT_EN":"Only one seventh of the total budget was allocated to the research project.",
+      "SENT_ZH":"总预算中只有七分之一被分配给了该研究项目。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fraction",
+            "third",
+            "quarter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"seventh [interval/chord]",
+      "POS":"adj | n",
+      "POS_TIP":"adjective | noun",
+      "TAGS":[
+        "music",
+        "specialized"
+      ],
+      "DEF_EN":"(In music) Relating to or denoting the interval spanning seven degrees of the diatonic scale, or a note forming this interval.",
+      "DEF_ZH":"（音乐）指跨越七个音级的音程，或构成该音程的音符。",
+      "SENT_EN":"The jazz piece heavily utilized the dominant seventh chord.",
+      "SENT_ZH":"这首爵士乐作品大量使用了属七和弦。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "octave",
+            "fifth",
+            "triad"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical in music/mathematics."
+}

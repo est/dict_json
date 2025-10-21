@@ -1,0 +1,88 @@
+{
+  "WORD":"expectation",
+  "IPA":"/ˌɛkspɛkˈteɪʃən/",
+  "CONJUGATES":"expectations (plural)",
+  "ETYMOLOGY":"Late Middle English, from Latin exspectatio(n-) 'a looking for', from exspectare 'look out for' (see expect).",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"expectation [of sth] | expectation [that clause]",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A strong belief that something will happen or be the case in the future; anticipation about an event.",
+      "DEF_ZH":"对某事将要发生或成为现实的强烈信念；对未来的预想或期望。",
+      "SENT_EN":"The economic forecast exceeded all expectations.",
+      "SENT_ZH":"经济预测超出了所有的预期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anticipation",
+            "hope",
+            "prospect",
+            "assumption"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "surprise",
+            "doubt",
+            "shock"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"high/low expectations | meet expectations",
+      "POS":"noun",
+      "POS_TIP":"often used in plural form, denoting standards or demands",
+      "TAGS":[
+        "common",
+        "standard"
+      ],
+      "DEF_EN":"A standard or level of quality or performance that is considered normal, required, or desirable.",
+      "DEF_ZH":"被认为是正常、必需或理想的质量或性能标准或要求。",
+      "SENT_EN":"Parents often place high expectations on their children’s academic success.",
+      "SENT_ZH":"父母通常对孩子的学业成功寄予很高的期望。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "requirement",
+            "standard",
+            "demand",
+            "goal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"mathematical expectation",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun, specific to statistics",
+      "TAGS":[
+        "technical",
+        "statistics"
+      ],
+      "DEF_EN":"(Statistics/Probability) The theoretical mean value of a random variable; expected value.",
+      "DEF_ZH":"(统计学/概率论) 随机变量的理论平均值；期望值。",
+      "SENT_EN":"The calculation involved determining the mathematical expectation of the payoff.",
+      "SENT_ZH":"这项计算涉及确定收益的数学期望值。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "variance",
+            "probability"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Academic"
+}

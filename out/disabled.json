@@ -1,0 +1,74 @@
+{
+  "WORD":"disabled",
+  "IPA":"/dɪsˈeɪbəld/",
+  "CONJUGATES":"disable (v) | disables (v) | disabling (v) | disability (n)",
+  "ETYMOLOGY":"Past participle of 'disable'. From prefix dis- (reversal, negation) + able (capable, fit), first attested as a verb in the 16th century (1520s). The adjective referring to physical condition became widespread in the 20th century.",
+  "SINCE":"c. 1520 (verb); 20th century (adjective usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is disabled",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word modifying a noun",
+      "TAGS":[
+        "core word",
+        "sensitive usage"
+      ],
+      "DEF_EN":"Having a physical or mental condition that restricts one's movements, senses, or activities.",
+      "DEF_ZH":"有残疾的；丧失身体或精神能力的。",
+      "SENT_EN":"The building features ramps and accessible restrooms for disabled visitors.",
+      "SENT_ZH":"这座建筑设有坡道和无障碍卫生间，方便残疾游客使用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impaired",
+            "handicapped (dated)"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "able-bodied"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "disability",
+            "differently abled"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is disabled",
+      "POS":"adj",
+      "POS_TIP":"adjective: used to describe the state of a thing",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Rendered non-functional, inoperative, or deactivated (often referring to a setting, system, or feature).",
+      "DEF_ZH":"被禁用、停止运行或解除功能的。",
+      "SENT_EN":"We discovered that the firewall had been disabled, leaving the network vulnerable.",
+      "SENT_ZH":"我们发现防火墙已被禁用，导致网络容易受到攻击。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inactive",
+            "deactivated",
+            "inoperable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enabled",
+            "activated"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal (Manner 1); Technical/General (Manner 2)"
+}

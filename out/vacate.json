@@ -1,0 +1,76 @@
+{
+  "WORD":"vacate",
+  "IPA":"/ˈveɪkeɪt/",
+  "CONJUGATES":"vacates | vacating | vacated",
+  "ETYMOLOGY":"From Latin vacātus, past participle of vacāre 'to be empty, be vacant, be free, have leisure', from Proto-Indo-European *hwāk- 'to be empty'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"vacate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To leave (a place, such as a house, room, or office) that one previously occupied, especially to make it available for others; to cease to occupy.",
+      "DEF_ZH":"腾出（房屋、房间、办公室等）；搬出；清空；离职",
+      "SENT_EN":"The guests are kindly requested to vacate their rooms by 11 AM on the day of departure.",
+      "SENT_ZH":"请各位住客在退房当天上午11点前腾出房间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "leave",
+            "empty",
+            "abandon",
+            "quit",
+            "depart from"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "occupy",
+            "fill",
+            "inhabit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"vacate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To annul or cancel (a legal judgment, order, or contract); to make void.",
+      "DEF_ZH":"撤销；废除；使无效（判决、命令、合同等）",
+      "SENT_EN":"The appeals court decided to vacate the lower court's judgment due to procedural errors.",
+      "SENT_ZH":"上诉法院决定因程序错误而撤销下级法院的判决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "annul",
+            "cancel",
+            "overturn",
+            "rescind",
+            "invalidate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "uphold",
+            "confirm",
+            "enforce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; legal (for the second meaning)"
+}

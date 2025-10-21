@@ -1,0 +1,86 @@
+{
+  "WORD":"adjust",
+  "IPA":"/əˈdʒʌst/",
+  "CONJUGATES":"adjusts | adjusting | adjusted",
+  "ETYMOLOGY":"From Old French ajoster (to fit, join), influenced by the Latin prefix ad- (to) and iuxta (near, close). Originally meant 'to bring to a standard,' evolving into 'to regulate.'",
+  "SINCE":"c. 1620s",
+  "MEANINGS":[
+    {
+      "PATTERN":"adjust [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Core",
+        "Common"
+      ],
+      "DEF_EN":"To change something slightly, especially to make it more correct, suitable, or functional.",
+      "DEF_ZH":"稍微改变或校正某物，使其更正确、合适或有效。",
+      "SENT_EN":"Please adjust the focus on the camera before taking the picture.",
+      "SENT_ZH":"拍照前请调整一下相机的焦距。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "modify",
+            "regulate",
+            "fine-tune",
+            "tweak"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"adjust (to [sth]) | adjust oneself (to [sth])",
+      "POS":"vintr (+ prep) | v refl",
+      "POS_TIP":"Intransitive verb followed by a preposition OR Reflexive verb",
+      "TAGS":[
+        "Core",
+        "Common"
+      ],
+      "DEF_EN":"To become accustomed to a new situation or environment; to adapt.",
+      "DEF_ZH":"适应新的环境、情况或条件；习惯。",
+      "SENT_EN":"It took the new employee several months to fully adjust to the corporate culture.",
+      "SENT_ZH":"这位新员工花了好几个月才完全适应企业文化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adapt",
+            "acclimate",
+            "conform"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "resist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"adjust [a claim/score/debt]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Formal",
+        "Finance"
+      ],
+      "DEF_EN":"To determine and settle the amount to be paid in an insurance claim or financial dispute.",
+      "DEF_ZH":"（尤指保险）理算并确定损失或应付的金额。",
+      "SENT_EN":"The insurance adjuster arrived quickly to adjust the damage claim after the storm.",
+      "SENT_ZH":"风暴过后，保险理算师很快赶到，处理损失索赔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "settle",
+            "calculate",
+            "assess"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, frequently used in technical and psychological contexts."
+}

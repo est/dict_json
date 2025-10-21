@@ -1,0 +1,54 @@
+{
+  "WORD":"cafe",
+  "IPA":"/kæˈfeɪ/",
+  "CONJUGATES":"cafes | cafés",
+  "ETYMOLOGY":"From French café ('coffee', 'coffeehouse'), derived from Ottoman Turkish kahve, ultimately from Arabic qahwah.",
+  "SINCE":"1650s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] cafe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small establishment that sells beverages, especially coffee, and light meals or snacks.",
+      "DEF_ZH":"供应咖啡、饮料和便餐或点心的小型商店或餐厅；咖啡馆。",
+      "SENT_EN":"We decided to meet at the quiet little cafe near the park entrance.",
+      "SENT_ZH":"我们决定在公园入口附近那家安静的小咖啡馆见面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "coffee shop",
+            "coffeehouse",
+            "bistro",
+            "diner"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cafeteria"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] internet cafe",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific usage",
+        "dated"
+      ],
+      "DEF_EN":"A place that provides public access computers and internet service, often while serving drinks or food.",
+      "DEF_ZH":"提供上网服务的场所，通常也会供应饮料或食物（网吧）。",
+      "SENT_EN":"Before getting a phone, I used to check my email at the internet cafe.",
+      "SENT_ZH":"在拥有手机之前，我常去网吧查收邮件。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common"
+}

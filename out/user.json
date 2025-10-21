@@ -1,0 +1,76 @@
+{
+  "WORD":"user",
+  "IPA":"/ˈjuːzər/",
+  "CONJUGATES":"users",
+  "ETYMOLOGY":"From Old French 'usere' (one who uses), from 'user' (to use), ultimately from Latin 'ūtī' (to use). In the computing sense, it gained prominence in the 20th century.",
+  "SINCE":"14th century (general sense), 20th century (computing sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"user",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who uses or operates something.",
+      "DEF_ZH":"使用或操作某物的人。",
+      "SENT_EN":"The user found the new washing machine very easy to operate.",
+      "SENT_ZH":"用户觉得这台新洗衣机操作起来非常简单。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consumer",
+            "client",
+            "operator",
+            "customer",
+            "patron"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "creator",
+            "developer",
+            "producer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"user",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"An individual who interacts with a computer system, application, or online service, often requiring an account.",
+      "DEF_ZH":"与计算机系统、应用程序或在线服务进行交互的个体，通常需要一个账户。",
+      "SENT_EN":"All registered users can log in with their unique username and password.",
+      "SENT_ZH":"所有注册用户都可以使用其唯一的用户名和密码登录。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "account holder",
+            "member",
+            "subscriber"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "username",
+            "UX",
+            "UI",
+            "end-user"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; commonly used in technology and everyday contexts."
+}

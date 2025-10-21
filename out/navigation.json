@@ -1,0 +1,82 @@
+{
+  "WORD":"navigation",
+  "IPA":"/ˌnævɪˈɡeɪʃən/",
+  "CONJUGATES":"navigations (pl.)",
+  "ETYMOLOGY":"From Latin navigatio (stem navigation-), derived from navigare 'to sail, navigate' (from navis 'ship' + agere 'to drive').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"navigation [of a vessel]",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"Noun (uncountable usage)",
+      "TAGS":[
+        "core word",
+        "technical",
+        "maritime"
+      ],
+      "DEF_EN":"The science or practice of determining the position and planning and following a route, especially for a ship, aircraft, or land vehicle.",
+      "DEF_ZH":"确定位置、规划和执行航线（尤指船舶、飞机或陆地车辆）的科学或实践。",
+      "SENT_EN":"Modern navigation relies heavily on GPS and satellite technology.",
+      "SENT_ZH":"现代导航严重依赖全球定位系统和卫星技术。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "GPS",
+            "piloting",
+            "wayfinding",
+            "charting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"navigation [on a website]",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"Noun (uncountable usage)",
+      "TAGS":[
+        "common",
+        "computing",
+        "UX"
+      ],
+      "DEF_EN":"The method or means used to move between pages or parts of a website, application, or software interface.",
+      "DEF_ZH":"用于在网站、应用程序或软件界面中，从一个页面或部分移动到另一个页面的方式或方法。",
+      "SENT_EN":"The site's poor navigation made it difficult for users to find the information they needed.",
+      "SENT_ZH":"该网站糟糕的导航设计使得用户很难找到他们需要的信息。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "user interface",
+            "menu",
+            "breadcrumb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"navigation [on a waterway]",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"Noun (uncountable usage)",
+      "TAGS":[
+        "formal",
+        "waterways",
+        "legal"
+      ],
+      "DEF_EN":"The movement of ships or boats on water, or the condition of a waterway that permits such movement (trafficability).",
+      "DEF_ZH":"船只在水上航行，或指允许这种航行进行的水道的状况（通航性）。",
+      "SENT_EN":"The river has been improved to allow easier navigation for larger vessels.",
+      "SENT_ZH":"这条河流已经得到改善，以便大型船只更容易通航。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shipping",
+            "trafficability"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used across technical, maritime, and computing fields."
+}

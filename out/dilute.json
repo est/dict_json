@@ -1,0 +1,106 @@
+{
+  "WORD":"dilute",
+  "IPA":"/daɪˈluːt/",
+  "CONJUGATES":"dilutes | diluted | diluting",
+  "ETYMOLOGY":"From Latin dilutus, past participle of diluere 'wash away', from dis- 'apart' + lavare 'to wash'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"dilute [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, requiring a direct object",
+      "TAGS":[
+        "core word",
+        "chemistry",
+        "general"
+      ],
+      "DEF_EN":"To make (a liquid) thinner or weaker by adding water or another solvent to it.",
+      "DEF_ZH":"通过加水或其他溶剂使（液体）变稀或变弱。",
+      "SENT_EN":"You should dilute the concentrate with water before drinking it.",
+      "SENT_ZH":"饮用前你应该用水稀释浓缩液。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weaken",
+            "thin out",
+            "water down",
+            "attenuate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concentrate",
+            "strengthen"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dilute [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb, requiring a direct object",
+      "TAGS":[
+        "figurative",
+        "general"
+      ],
+      "DEF_EN":"To make (something) weaker, less effective, or less pure by adding other elements or by spreading it out.",
+      "DEF_ZH":"通过添加其他元素或分散，削弱、降低效力或纯度。",
+      "SENT_EN":"The constant interruptions diluted the impact of her speech.",
+      "SENT_ZH":"不断地打断削弱了她演讲的影响力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weaken",
+            "diminish",
+            "impair",
+            "lessen",
+            "undermine"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "strengthen",
+            "intensify",
+            "reinforce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[dilute liquid/solution]",
+      "POS":"adj",
+      "POS_TIP":"adjective, modifying a noun",
+      "TAGS":[
+        "chemistry",
+        "technical",
+        "less common"
+      ],
+      "DEF_EN":"(Of a liquid or solution) made weaker or thinner by dilution.",
+      "DEF_ZH":"（指液体或溶液）通过稀释而变弱或变稀的。",
+      "SENT_EN":"He prepared a dilute solution of acid for the experiment.",
+      "SENT_ZH":"他为实验准备了一种稀酸溶液。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "weak",
+            "watery",
+            "attenuated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concentrated",
+            "strong"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Scientific"
+}

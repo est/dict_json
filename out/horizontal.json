@@ -1,0 +1,85 @@
+{
+  "WORD":"horizontal",
+  "IPA":"/ˌhɒrɪˈzɒntəl/",
+  "CONJUGATES":"horizontally (adv) | horizontality (n)",
+  "ETYMOLOGY":"From Latin horizon (boundary, limit), ultimately from Ancient Greek horízōn (ὁρίζων), the present participle of horízein (ὁρίζειν, 'to limit, define'), combined with the suffix -al.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "common"
+      ],
+      "DEF_EN":"Parallel to the plane of the horizon; flat or level.",
+      "DEF_ZH":"水平的；与地平线平行的；平坦的。",
+      "SENT_EN":"We need to ensure the shelf is perfectly horizontal before we place the books on it.",
+      "SENT_ZH":"我们需要确保书架完全水平，然后才能在上面放书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "level",
+            "flat",
+            "plane"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vertical",
+            "perpendicular"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "business",
+        "organizational"
+      ],
+      "DEF_EN":"Relating to people or groups at the same level or across different functions (as opposed to vertical hierarchy).",
+      "DEF_ZH":"(组织或结构)同级的；跨部门的；横向的。",
+      "SENT_EN":"A horizontal merger involves combining two companies that operate in the same industry at the same stage of production.",
+      "SENT_ZH":"横向合并涉及将处于同一生产阶段、同一行业的两家公司合并。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lateral",
+            "cross-functional",
+            "peer-to-peer"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "vertical",
+            "hierarchical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the horizontal",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "less common"
+      ],
+      "DEF_EN":"A horizontal line, direction, or position.",
+      "DEF_ZH":"水平线；水平位置；水平方向。",
+      "SENT_EN":"The architect sketched a curve that gradually shifted away from the horizontal.",
+      "SENT_ZH":"建筑师画了一条曲线，它逐渐偏离了水平线。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common, Technical, Formal"
+}

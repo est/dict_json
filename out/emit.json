@@ -1,0 +1,68 @@
+{
+  "WORD":"emit",
+  "IPA":"/ɪˈmɪt/",
+  "CONJUGATES":"emits | emitting | emitted",
+  "ETYMOLOGY":"From Latin emittere (ex- 'out' + mittere 'send, let go').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"emit [sth] (light, heat, sound, gas, radiation)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"To produce and send out (something, especially energy or matter such as light, heat, gas, or radiation).",
+      "DEF_ZH":"发出；散发；放射（尤指能量或物质，如光、热、气体或辐射）。",
+      "SENT_EN":"The alarm clock began to emit a piercing sound at exactly 6 a.m.",
+      "SENT_ZH":"闹钟在早上六点整开始发出刺耳的声音。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "send out",
+            "discharge",
+            "release",
+            "radiate",
+            "give off"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "absorb",
+            "ingest",
+            "take in"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"emit [sth] (currency, bonds, decree)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "finance",
+        "legal"
+      ],
+      "DEF_EN":"To issue formally and officially (especially currency, securities, or decrees).",
+      "DEF_ZH":"正式发行或发布（尤指货币、证券或法令）。",
+      "SENT_EN":"Central banks emit bonds to control the money supply.",
+      "SENT_ZH":"中央银行发行债券以控制货币供应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "issue",
+            "publish",
+            "release"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, technical, or standard usage, depending on the context."
+}

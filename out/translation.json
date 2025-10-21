@@ -1,0 +1,105 @@
+{
+  "WORD":"translation",
+  "IPA":"/trænzˈleɪʃən/",
+  "CONJUGATES":"translate (verb) | translator (noun, agent)",
+  "ETYMOLOGY":"From Old French translacion, from Latin trānslātiō (stem trānslātiōn-) 'a transfer', from trānslāt-, past participle of trānsferre 'to transfer, carry over, translate'.",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"translation [of sth] [into sth]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The process or act of converting text or speech from one language into another.",
+      "DEF_ZH":"将文本或言语从一种语言转换成另一种语言的过程或行为。",
+      "SENT_EN":"The accurate translation of legal documents is crucial.",
+      "SENT_ZH":"法律文件的准确翻译至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rendition",
+            "interpretation",
+            "rendering"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "translator",
+            "linguistics",
+            "multilingual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a translation",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A text or speech that has been converted from one language into another.",
+      "DEF_ZH":"已经从一种语言转换成另一种语言的文本或言语（译本、译文）。",
+      "SENT_EN":"I bought a new translation of the classic novel.",
+      "SENT_ZH":"我买了一本这部经典小说的新译本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "version",
+            "rendering",
+            "rendition"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "adaptation",
+            "transcription",
+            "dubbing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"translation [in physics/math]",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "technical",
+        "specific usage",
+        "mathematics",
+        "physics"
+      ],
+      "DEF_EN":"The movement of a body from one place to another without rotation; a shift of position.",
+      "DEF_ZH":"物体从一个位置移动到另一个位置而不旋转的运动；位置的平移。",
+      "SENT_EN":"In geometry, a translation is a rigid transformation that moves every point of a figure or a space by the same distance in a given direction.",
+      "SENT_ZH":"在几何学中，平移是一种刚体变换，它将图形或空间中的每个点沿给定方向移动相同的距离。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shift",
+            "displacement",
+            "slide"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "rotation",
+            "reflection",
+            "transformation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The primary meanings (1 & 2) are common in everyday language and academic contexts. The third meaning is technical, used in mathematics and physics."
+}

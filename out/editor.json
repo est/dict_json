@@ -1,0 +1,102 @@
+{
+  "WORD":"editor",
+  "IPA":"/ˈɛdɪtər/",
+  "CONJUGATES":"editors (pl.)",
+  "ETYMOLOGY":"Agent noun derived from the verb 'edit', which comes from French éditer and Latin editus (past participle of edere 'to put forth, publish'). The suffix -or denotes the person performing the action.",
+  "SINCE":"17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"editor [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "publishing"
+      ],
+      "DEF_EN":"A person who is responsible for the final content, structure, and quality of a newspaper, magazine, book, or compilation of articles.",
+      "DEF_ZH":"负责报纸、杂志、书籍或文章汇编的最终内容、结构和质量的人。",
+      "SENT_EN":"She was promoted to managing editor after five years of working in the features department.",
+      "SENT_ZH":"在专题部门工作了五年后，她被提升为执行主编。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compiler",
+            "curator",
+            "publisher"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "editing",
+            "journalism",
+            "editorial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"editor [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "media",
+        "common"
+      ],
+      "DEF_EN":"A person who selects, cuts, and arranges recorded material (such as video footage or audio tracks) to create a finished work.",
+      "DEF_ZH":"选择、剪切和排列录制材料（如视频片段或音轨）以创建最终作品的人。",
+      "SENT_EN":"The film editor meticulously synchronized the dialogue with the actors' movements.",
+      "SENT_ZH":"电影剪辑师一丝不苟地将对话与演员的动作同步。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cutter",
+            "assembler"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "post-production",
+            "cinematography"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"editor [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"A computer program or utility designed to allow a user to modify or manipulate text, code, images, or other digital data.",
+      "DEF_ZH":"一种计算机程序或实用工具，旨在允许用户修改或操纵文本、代码、图像或其他数字数据。",
+      "SENT_EN":"He prefers using a powerful code editor for writing Python scripts.",
+      "SENT_ZH":"他更喜欢使用功能强大的代码编辑器来编写 Python 脚本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "program",
+            "utility",
+            "tool"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "IDE",
+            "text editor",
+            "word processor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Professional (especially media, publishing, and computing)"
+}

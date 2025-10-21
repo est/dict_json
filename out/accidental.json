@@ -1,0 +1,101 @@
+{
+  "WORD":"accidental",
+  "IPA":"/ˌæksɪˈdɛntəl/",
+  "CONJUGATES":"accidentally (adverb) | accident (noun)",
+  "ETYMOLOGY":"From Medieval Latin 'accidentalis', from Latin 'accident-' (stem of 'accidere' 'happen'), from 'ad-' 'to' + 'cadere' 'fall'.",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"accidental [event/discovery/meeting]",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that modifies or describes a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Happening by chance, without planning or intention; unexpected.",
+      "DEF_ZH":"偶然发生的；意外的；非故意的。",
+      "SENT_EN":"Their meeting was purely accidental, but they immediately hit it off.",
+      "SENT_ZH":"他们的相遇纯属偶然，但他们一见如故。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unintentional",
+            "unplanned",
+            "unforeseen",
+            "inadvertent",
+            "fortuitous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "intentional",
+            "deliberate",
+            "planned",
+            "on purpose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accidental [quality/feature]",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that modifies or describes a noun or pronoun.",
+      "TAGS":[
+        "formal",
+        "technical"
+      ],
+      "DEF_EN":"Not forming an essential or inherent part of something; nonessential or incidental.",
+      "DEF_ZH":"非本质的；次要的；偶发的。",
+      "SENT_EN":"The specific color of the car is accidental to its mechanical performance.",
+      "SENT_ZH":"汽车的特定颜色对其机械性能来说是次要的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nonessential",
+            "incidental",
+            "contingent",
+            "superficial"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "essential",
+            "inherent",
+            "fundamental",
+            "intrinsic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an accidental",
+      "POS":"n",
+      "POS_TIP":"A noun is a word that names a person, place, thing, or idea.",
+      "TAGS":[
+        "music",
+        "technical"
+      ],
+      "DEF_EN":"(Music) A sign (such as a sharp, flat, or natural) indicating a momentary departure from the key signature.",
+      "DEF_ZH":"(音乐) 临时升降号（表示音符暂时偏离调号的符号，如升号、降号或还原号）。",
+      "SENT_EN":"The composer used an accidental to raise the pitch of that particular note.",
+      "SENT_ZH":"作曲家使用了一个临时升降号来提高那个特定音符的音高。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sharp",
+            "flat",
+            "natural",
+            "key signature"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The primary meaning is common in general usage. The secondary meaning is more formal or philosophical. The third meaning is specific to music terminology."
+}

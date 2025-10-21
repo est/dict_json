@@ -1,0 +1,116 @@
+{
+  "WORD":"payload",
+  "IPA":"/'peɪloʊd/",
+  "CONJUGATES":"payloads",
+  "ETYMOLOGY":"Compound of 'pay' (from Old French paier 'to pacify, satisfy a creditor') and 'load' (from Old English lād 'journey, burden'). The term originally referred to the part of a load for which payment was received.",
+  "SINCE":"1890",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s payload | payload capacity",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "core word",
+        "common",
+        "transport",
+        "commerce",
+        "engineering"
+      ],
+      "DEF_EN":"The part of a vehicle's or aircraft's load that generates income, or the total weight of cargo, passengers, or equipment carried for a specific purpose.",
+      "DEF_ZH":"运输工具（如飞机、卡车、船舶等）所载的能产生收入的货物、乘客或设备，或为特定目的而运输的总重量。",
+      "SENT_EN":"The airline carefully calculated the aircraft's maximum payload to ensure safety and profitability.",
+      "SENT_ZH":"航空公司仔细计算了飞机的最大有效载荷，以确保安全和盈利能力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cargo",
+            "freight",
+            "load",
+            "burden"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "capacity",
+            "deadweight",
+            "tare weight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a missile's payload | the scientific payload",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "technical",
+        "space",
+        "military",
+        "science"
+      ],
+      "DEF_EN":"The equipment, passengers, or other material carried by a spacecraft, rocket, or missile, especially that which performs the primary mission or destructive function.",
+      "DEF_ZH":"航天器、火箭或导弹携带的设备、乘客或其他物质，特别是执行主要任务或具有破坏性功能的部分。",
+      "SENT_EN":"The satellite was the primary payload for the new launch vehicle.",
+      "SENT_ZH":"这颗卫星是新型运载火箭的主要有效载荷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "instrumentation",
+            "equipment",
+            "warhead",
+            "module"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "satellite",
+            "probe",
+            "rover",
+            "missile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the virus's payload | data payload",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these.",
+      "TAGS":[
+        "common",
+        "technical",
+        "computing",
+        "cybersecurity"
+      ],
+      "DEF_EN":"The part of a computer program, message, or malware that performs the intended action, especially the destructive or covert function in a malicious attack.",
+      "DEF_ZH":"计算机程序、信息或恶意软件中执行其预期操作的部分，特别是在恶意攻击中执行破坏性或隐秘功能的部分。",
+      "SENT_EN":"The virus's payload was designed to encrypt all user files for ransom.",
+      "SENT_ZH":"该病毒的有效载荷旨在加密所有用户文件以勒索赎金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "content",
+            "data",
+            "exploit",
+            "code"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "virus",
+            "malware",
+            "worm",
+            "trojan horse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical, Commercial, General"
+}

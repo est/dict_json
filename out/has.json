@@ -1,0 +1,106 @@
+{
+  "WORD":"HAVE",
+  "IPA":"/hæv/",
+  "CONJUGATES":"has | having | had",
+  "ETYMOLOGY":"From Middle English haven, from Old English habban (to have, possess), from Proto-Germanic *habjanan.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"have [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To possess, own, or hold something; to be supplied or characterized by something.",
+      "DEF_ZH":"拥有；持有；具有（某特征）。",
+      "SENT_EN":"The building has large windows and a red roof.",
+      "SENT_ZH":"这座楼拥有大窗户和红色的屋顶。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "possess",
+            "own",
+            "hold"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lack",
+            "forfeit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have + V[past participle]",
+      "POS":"v aux",
+      "POS_TIP":"auxiliary verb",
+      "TAGS":[
+        "core word",
+        "grammatical"
+      ],
+      "DEF_EN":"Used to form the perfect tenses (present perfect, past perfect) of other verbs, indicating completed action.",
+      "DEF_ZH":"（构成完成时态）已经；曾经（完成某动作）。",
+      "SENT_EN":"She has completed all her assignments for the week.",
+      "SENT_ZH":"她已经完成了本周所有的任务。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Tense",
+            "Grammar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have [sth] (time/experience/action)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To undergo, experience, or participate in an event, emotion, or action.",
+      "DEF_ZH":"经历；遭受；进行（活动或经验）。",
+      "SENT_EN":"I hope everyone has a safe journey home.",
+      "SENT_ZH":"我希望每个人都能安全回家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "undergo",
+            "experience"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have to [do sth]",
+      "POS":"v aux + infinitive",
+      "POS_TIP":"auxiliary verb followed by an infinitive",
+      "TAGS":[
+        "core word",
+        "modal"
+      ],
+      "DEF_EN":"Used to express obligation, necessity, or requirement.",
+      "DEF_ZH":"必须；不得不；有义务。",
+      "SENT_EN":"He has to wake up early tomorrow for the flight.",
+      "SENT_ZH":"他明天必须早起赶飞机。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "must",
+            "need to"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English (Note: Input 'has' is the 3rd person singular present form of HAVE.)"
+}

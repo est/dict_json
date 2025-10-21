@@ -1,0 +1,88 @@
+{
+  "WORD":"burst",
+  "IPA":"/bɜːrst/",
+  "CONJUGATES":"bursts (3rd person singular present) | bursting (present participle) | burst (past tense/past participle)",
+  "ETYMOLOGY":"From Middle English bersten, from Old English berstan, related to Old Norse bresta. Meaning 'to break suddenly' or 'fly violently apart.'",
+  "SINCE":"Old English (c. 900)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] burst",
+      "POS":"v.intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "sudden action",
+        "physical"
+      ],
+      "DEF_EN":"To break open or fly apart suddenly and violently, typically as a result of internal pressure.",
+      "DEF_ZH":"突然猛烈地破裂或炸开，通常是由于内部压力。",
+      "SENT_EN":"The pipe burst due to the freezing weather, causing severe flooding.",
+      "SENT_ZH":"水管因严寒天气而爆裂，导致严重水浸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "explode",
+            "rupture",
+            "shatter"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "seal",
+            "mend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] burst into [sth] | [sb] burst out [sth]",
+      "POS":"v.intr + prep",
+      "POS_TIP":"intransitive verb followed by a prepositional phrase",
+      "TAGS":[
+        "common idiom",
+        "emotional"
+      ],
+      "DEF_EN":"To start doing or feeling something suddenly and intensely, especially crying or laughing, or to move into a place abruptly.",
+      "DEF_ZH":"突然猛烈地开始做某事或产生某种情感（尤指哭或笑）；突然闯入。",
+      "SENT_EN":"She burst into laughter when she realized the mistake.",
+      "SENT_ZH":"当她意识到那个错误时，她突然大笑起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "erupt",
+            "gush",
+            "rush"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a burst of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "measure word",
+        "common"
+      ],
+      "DEF_EN":"A sudden, short period of intense activity, emotion, or sound; a sudden emission.",
+      "DEF_ZH":"突然、短暂的强烈活动、情感或声音；一次突然的喷发或爆发。",
+      "SENT_EN":"We need a burst of speed to catch up with the leaders.",
+      "SENT_ZH":"我们需要突然加速才能追上领先者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outbreak",
+            "surge",
+            "spurt",
+            "fit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

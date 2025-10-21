@@ -1,0 +1,87 @@
+{
+  "WORD":"advertise",
+  "IPA":"/'ædvərtaɪz/",
+  "CONJUGATES":"advertises | advertised | advertising",
+  "ETYMOLOGY":"From Old French advertiss- (stem of advertir 'to notice'), from Latin advertere 'turn towards' (from ad- 'to' + vertere 'to turn'). The meaning evolved from 'to take notice of' to 'to give notice, inform', and then to 'to publicize'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"advertise [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "business"
+      ],
+      "DEF_EN":"To present or describe a product, service, or event in some medium of communication in order to induce people to buy, use, or attend it.",
+      "DEF_ZH":"通过媒体宣传或描述产品、服务或活动，以吸引人们购买、使用或参加。",
+      "SENT_EN":"Companies spend millions to advertise their new products.",
+      "SENT_ZH":"公司花费数百万美元来宣传他们的新产品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "promote",
+            "market",
+            "publicize",
+            "endorse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "hide"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"advertise for [sth/sb]",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb: a verb that does not take a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To make a public announcement, especially in a newspaper or on the internet, to find or offer something or someone.",
+      "DEF_ZH":"通过报纸或互联网等公开宣布，尤指寻找或提供某物或某人。",
+      "SENT_EN":"They decided to advertise for a new sales assistant.",
+      "SENT_ZH":"他们决定登广告招聘一名新的销售助理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "announce",
+            "publish",
+            "post"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"advertise [sb] of [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb: a verb that takes a direct object.",
+      "TAGS":[
+        "rare",
+        "old-fashioned"
+      ],
+      "DEF_EN":"To give notice to; inform; apprise (now largely replaced by 'advise').",
+      "DEF_ZH":"告知；通知；使了解（现多被 'advise' 替代）。",
+      "SENT_EN":"He advertised his master of the approaching danger.",
+      "SENT_ZH":"他向主人通报了迫近的危险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inform",
+            "notify",
+            "advise"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general use, business"
+}

@@ -1,0 +1,155 @@
+{
+  "WORD":"piece",
+  "IPA":"/piːs/",
+  "CONJUGATES":"piece | pieces | piecing | pieced",
+  "ETYMOLOGY":"From Old French piece, from Vulgar Latin *pettia, of Gaulish origin (compare Welsh peth 'thing, portion'). The verb is from the noun.",
+  "SINCE":"Late 13th century (noun), late 14th century (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a piece of [sth]",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"a portion of an object or of material, cut or separated from the rest",
+      "DEF_ZH":"一部分，一块，一片（从整体中分离出来的）",
+      "SENT_EN":"She broke the chocolate bar into several pieces.",
+      "SENT_ZH":"她把巧克力棒掰成了好几块。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "portion",
+            "segment",
+            "section",
+            "fragment",
+            "bit",
+            "chunk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a piece of [sth uncountable]",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "classifier"
+      ],
+      "DEF_EN":"an individual item of a specified type, often used as a count noun for uncountable nouns",
+      "DEF_ZH":"一件，一条，一张（用于计量不可数名词）",
+      "SENT_EN":"Could you give me a piece of advice?",
+      "SENT_ZH":"你能给我提个建议吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "item",
+            "article",
+            "unit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a piece of [art/music/literature]",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "common",
+        "cultural"
+      ],
+      "DEF_EN":"a work of art, music, or literature",
+      "DEF_ZH":"一件作品（艺术、音乐、文学等）",
+      "SENT_EN":"This is a truly magnificent piece of classical music.",
+      "SENT_ZH":"这是一首非常宏伟的古典音乐作品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "composition",
+            "work",
+            "creation",
+            "masterpiece"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"piece [sth] together | piece together [sth]",
+      "POS":"verb, transitive",
+      "POS_TIP":"a verb that takes a direct object; 'transitive' means it directly affects something or someone",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"to join separate parts together to form a complete item or picture, or to reconstruct information from various sources",
+      "DEF_ZH":"拼合，组合（把零散的部分或信息拼凑起来）",
+      "SENT_EN":"Detectives are trying to piece together the events of that night.",
+      "SENT_ZH":"侦探们正试图拼凑出那天晚上发生的事情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assemble",
+            "join",
+            "unite",
+            "connect",
+            "reconstruct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a piece",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "specific context",
+        "games"
+      ],
+      "DEF_EN":"a counter, figure, or other object used in board games",
+      "DEF_ZH":"（棋盘游戏中的）棋子",
+      "SENT_EN":"It's your turn to move a piece.",
+      "SENT_ZH":"轮到你走棋子了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "token",
+            "counter",
+            "chessman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a piece",
+      "POS":"noun, informal",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality; 'informal' means suitable for casual speech rather than formal occasions",
+      "TAGS":[
+        "informal",
+        "slang",
+        "US English"
+      ],
+      "DEF_EN":"(informal, especially US) a firearm, typically a handgun",
+      "DEF_ZH":"（非正式，尤指美国）枪械，手枪",
+      "SENT_EN":"The suspect was carrying a piece when he was apprehended.",
+      "SENT_ZH":"嫌疑人在被捕时随身携带着一把枪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gun",
+            "firearm",
+            "handgun",
+            "pistol"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

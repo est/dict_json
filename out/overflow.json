@@ -1,0 +1,103 @@
+{
+  "WORD":"overflow",
+  "IPA":"/ˌəʊvərˈfləʊ/",
+  "CONJUGATES":"overflows | overflowing | overflowed",
+  "ETYMOLOGY":"From Old English oferflōwan, combining ofer- ('over') and flōwan ('to flow').",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"overflow [sth]",
+      "POS":"v. | vtr",
+      "POS_TIP":"verb (intransitive or transitive)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To flow over the edges or limits of a container or space because it is too full.",
+      "DEF_ZH":"(液体等)溢出，漫出；超过容量限制而流出。",
+      "SENT_EN":"The river overflowed its banks after days of heavy rain.",
+      "SENT_ZH":"连续数日大雨过后，河水漫过了河岸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spill over",
+            "run over",
+            "brim over"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"overflow with [sth] (emotion/people)",
+      "POS":"v. + prep",
+      "POS_TIP":"verb + preposition",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To be completely full of a strong feeling, emotion, or a large number of people.",
+      "DEF_ZH":"(感情、人等)充溢；挤满；洋溢。",
+      "SENT_EN":"The hall overflowed with enthusiastic fans waiting for the concert.",
+      "SENT_ZH":"大厅里挤满了等待演唱会的热情粉丝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "teem",
+            "abound",
+            "burst"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the overflow",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The excess amount of liquid, people, or material that has spilled or cannot be contained within the main space.",
+      "DEF_ZH":"溢出物；过剩量；多余的人或物。",
+      "SENT_EN":"We had to open a second room to handle the overflow of attendees.",
+      "SENT_ZH":"我们不得不开放第二个房间来容纳多余的参与者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surplus",
+            "excess",
+            "spillage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"overflow (computing)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "specialized"
+      ],
+      "DEF_EN":"An error condition in computing where a calculation produces a result too large to be stored in the designated memory space or register.",
+      "DEF_ZH":"(计算机)溢出错误；当数据量超出存储或计算范围时发生的状态。",
+      "SENT_EN":"The software crash was traced back to an integer overflow error.",
+      "SENT_ZH":"软件崩溃被追溯到整数溢出错误。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "underflow",
+            "buffer overflow",
+            "stack overflow"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (especially computing), and descriptive literature."
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"migrate",
+  "IPA":"/maɪˈɡreɪt/",
+  "CONJUGATES":"migrates | migrating | migrated",
+  "ETYMOLOGY":"From Latin migrātus, past participle of migrāre 'to move, change residence'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"migrate (to/from [place])",
+      "POS":"vint",
+      "POS_TIP":"verb, intransitive",
+      "TAGS":[
+        "core word",
+        "common",
+        "sociology"
+      ],
+      "DEF_EN":"To move from one country, region, or place to settle in another, often permanently or semi-permanently.",
+      "DEF_ZH":"移居；（人或群体）从一个地方迁移到另一个地方定居。",
+      "SENT_EN":"Many families migrate north in the summer to escape the heat.",
+      "SENT_ZH":"许多家庭在夏天迁移到北方以躲避酷暑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relocate",
+            "resettle",
+            "move"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "immigration",
+            "emigration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"migrate (to/from [place])",
+      "POS":"vint",
+      "POS_TIP":"verb, intransitive",
+      "TAGS":[
+        "biology",
+        "nature"
+      ],
+      "DEF_EN":"(Of animals, especially birds or fish) To move from one area or climate to another according to the seasons.",
+      "DEF_ZH":"（动物，尤指鸟类或鱼类）季节性地从一个地区或气候区迁移到另一个地区。",
+      "SENT_EN":"Swallows instinctively migrate south when the weather turns cold.",
+      "SENT_ZH":"当天气转凉时，燕子会本能地向南迁徙。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "migration",
+            "roam",
+            "hibernate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"migrate [data/system] (to [platform])",
+      "POS":"vtr | vint",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"To move data, software, or an entire computer system from one environment, platform, or storage location to another.",
+      "DEF_ZH":"（数据或系统）迁移；将数据、软件或整个计算机系统从一个环境或平台转移到另一个。",
+      "SENT_EN":"The IT team decided to migrate their databases to a new cloud-based solution.",
+      "SENT_ZH":"IT 团队决定将他们的数据库迁移到一个新的基于云的解决方案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "port",
+            "transfer",
+            "upgrade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, often used formally in biological, sociological, or technical contexts."
+}

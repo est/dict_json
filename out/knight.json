@@ -1,0 +1,91 @@
+{
+  "WORD":"knight",
+  "IPA":"/naɪt/",
+  "CONJUGATES":"knights | knighting | knighted",
+  "ETYMOLOGY":"From Old English cniht 'boy, youth, servant', later 'military follower', related to Dutch knecht and German Knecht. The sense 'military follower' developed into 'mounted warrior' in the Middle Ages.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] knight",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "historical",
+        "feudal",
+        "honorary rank"
+      ],
+      "DEF_EN":"A man who has been given a rank of honour by a British king or queen because of his achievements, or, in the past, a man of high social rank who had a military role and served his king or lord.",
+      "DEF_ZH":"（英国）爵士；（中世纪的）骑士，武士",
+      "SENT_EN":"Sir Lancelot was one of the most famous knights of the Round Table.",
+      "SENT_ZH":"兰斯洛特爵士是圆桌骑士中最著名的一员。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cavalier",
+            "chevalier"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chivalry",
+            "squire",
+            "lord"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"knight [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "formal",
+        "honorary"
+      ],
+      "DEF_EN":"To give someone the rank of knight as an honour.",
+      "DEF_ZH":"授予（某人）爵士封号",
+      "SENT_EN":"The Queen knighted him for his services to charity.",
+      "SENT_ZH":"女王因他为慈善事业所做的贡献而授予他爵士封号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dub"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the knight",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "game",
+        "chess"
+      ],
+      "DEF_EN":"A chess piece, usually shaped like a horse's head, that moves by going two squares in one direction and then one square at a right angle.",
+      "DEF_ZH":"（国际象棋）马",
+      "SENT_EN":"The knight is the only piece that can jump over other pieces.",
+      "SENT_ZH":"马是唯一可以跳过其他棋子的棋子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "chess",
+            "pawn",
+            "rook",
+            "bishop",
+            "queen",
+            "king"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral"
+}

@@ -1,0 +1,98 @@
+{
+  "WORD":"bias",
+  "IPA":"/ˈbaɪəs/",
+  "CONJUGATES":"biases (n.pl.) | biases (v.prs.sg) | biasing (v.ing) | biased (v.ed)",
+  "ETYMOLOGY":"From Old French biais 'a slope, slant', from Old Provençal biais, which is of uncertain origin but possibly from Vulgar Latin *bigassius, from Greek epikarsios 'crosswise, at an angle'. The sense of 'undue inclination' developed in English.",
+  "SINCE":"Late 15th century (as noun), mid-16th century (as verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] bias against/in favor of [sb] / [sth]",
+      "POS":"n.uncount",
+      "POS_TIP":"uncountable noun: a noun that does not have a plural form and refers to something that cannot be counted.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An inclination or prejudice for or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "DEF_ZH":"对某人、某事或某群体持有的一种不公平的偏爱或偏见。",
+      "SENT_EN":"The newspaper showed a clear bias against the government.",
+      "SENT_ZH":"那份报纸对政府表现出明显的偏见。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prejudice",
+            "partiality",
+            "favoritism",
+            "discrimination"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "impartiality",
+            "objectivity",
+            "fairness",
+            "neutrality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[C] bias (in statistics/science)",
+      "POS":"n.count",
+      "POS_TIP":"countable noun: a noun that can be counted and has a singular and plural form.",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A systematic error introduced into sampling or testing by selecting or encouraging one outcome or answer over others.",
+      "DEF_ZH":"在抽样或测试中，通过偏向某种结果或答案而引入的系统性误差。",
+      "SENT_EN":"Researchers must work to reduce confirmation bias in their studies.",
+      "SENT_ZH":"研究人员必须努力减少研究中的确认偏差。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sampling error",
+            "statistical error",
+            "systematic error"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bias [sth] (towards/against [sb] / [sth])",
+      "POS":"v.trans",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To cause to feel or show inclination or prejudice for or against someone or something.",
+      "DEF_ZH":"使（某人）对某人或某事产生偏爱或偏见。",
+      "SENT_EN":"The questions were phrased in a way that biased the respondents.",
+      "SENT_ZH":"这些问题的措辞方式使受访者产生了偏向性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prejudice",
+            "influence",
+            "sway",
+            "slant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "neutralize",
+            "balance",
+            "straighten"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and informal contexts, often used in discussions of ethics, statistics, and social justice."
+}

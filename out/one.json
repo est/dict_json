@@ -1,0 +1,105 @@
+{
+  "WORD":"one",
+  "IPA":"/wʌn/",
+  "CONJUGATES":"ones",
+  "ETYMOLOGY":"From Old English ān (adjective, numeral, and adverb), from Proto-Germanic *ainaz, ultimately from Proto-Indo-European *oinos (one, single).",
+  "SINCE":"Pre-1000 CE",
+  "MEANINGS":[
+    {
+      "PATTERN":"one [N]",
+      "POS":"num | adj",
+      "POS_TIP":"num: numeral | adj: adjective",
+      "TAGS":[
+        "core word",
+        "fundamental"
+      ],
+      "DEF_EN":"The number equivalent to the sum of one unit; the first and smallest positive integer.",
+      "DEF_ZH":"数字一；最小的正整数。",
+      "SENT_EN":"I need one more hour to finish the project.",
+      "SENT_ZH":"我还需要一个小时才能完成这个项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "single",
+            "sole"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "first",
+            "unity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj] one(s)",
+      "POS":"pronoun",
+      "POS_TIP":"pronoun: substitute for a noun",
+      "TAGS":[
+        "core word",
+        "substitution"
+      ],
+      "DEF_EN":"Used to replace a count noun when specific identity is irrelevant or contextually clear.",
+      "DEF_ZH":"代替前面提到或上下文明确的特定可数名词。",
+      "SENT_EN":"The old car is slow, but the new one is much faster.",
+      "SENT_ZH":"那辆旧车很慢，但这辆新的快得多。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "it",
+            "them"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"one [aux V]",
+      "POS":"indefinite pronoun",
+      "POS_TIP":"indefinite pronoun: pronoun referring to non-specific people",
+      "TAGS":[
+        "formal",
+        "general reference"
+      ],
+      "DEF_EN":"Used to refer to an individual person in place of 'you' or 'a person,' often in formal context.",
+      "DEF_ZH":"泛指某人或人们，常用于正式场合。",
+      "SENT_EN":"One should always check the directions before proceeding.",
+      "SENT_ZH":"在继续之前，人们应该总是检查一下方向。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "a person",
+            "anyone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the one [N]",
+      "POS":"adj",
+      "POS_TIP":"adj: adjective",
+      "TAGS":[
+        "emphasis",
+        "unique"
+      ],
+      "DEF_EN":"Being unique; the only existing or suitable example.",
+      "DEF_ZH":"唯一的；最合适的，独一无二的。",
+      "SENT_EN":"She is the one person I trust completely.",
+      "SENT_ZH":"她是我完全信任的那个人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sole",
+            "only"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

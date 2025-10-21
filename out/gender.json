@@ -1,0 +1,98 @@
+{
+  "WORD":"gender",
+  "IPA":"/ˈdʒɛndər/",
+  "CONJUGATES":"genders | gendering | gendered",
+  "ETYMOLOGY":"From Old French gendre (noun), from Latin genus (stem gener-) 'birth, race, kind'. The sense of 'social or cultural identity' developed in the 20th century.",
+  "SINCE":"Late Middle English (14th century for grammatical sense, 20th century for social identity sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"gender",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "sociology",
+        "identity"
+      ],
+      "DEF_EN":"The state of being male, female, or another identity, especially as expressed by society rather than biological sex. It is often understood as a social construct.",
+      "DEF_ZH":"社会性别；性身份：指一个人作为男性、女性或其他身份的状态，特别是从社会而非生物性别的角度来表达。",
+      "SENT_EN":"The company is committed to promoting gender equality in the workplace.",
+      "SENT_ZH":"这家公司致力于促进工作场所的性别平等。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identity",
+            "sexual identity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "transgender",
+            "cisgender",
+            "non-binary",
+            "gender expression",
+            "gender role"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gender",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "linguistics"
+      ],
+      "DEF_EN":"A grammatical category, such as masculine, feminine, or neuter, into which nouns, pronouns, and adjectives are divided in many languages.",
+      "DEF_ZH":"(语法) 性：在许多语言中，名词、代词和形容词所划分的语法范畴，如阳性、阴性或中性。",
+      "SENT_EN":"In French, all nouns have a gender, either masculine or feminine.",
+      "SENT_ZH":"在法语中，所有名词都有一个性，要么是阳性要么是阴性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "masculine",
+            "feminine",
+            "neuter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gender [sth/sb]",
+      "POS":"verb",
+      "POS_TIP":"A word that describes an action, state, or occurrence.",
+      "TAGS":[
+        "common",
+        "modern usage",
+        "sociology"
+      ],
+      "DEF_EN":"To assign a gender to someone or something, often in a way that implies traditional or binary assumptions.",
+      "DEF_ZH":"给…分配性别；按性别划分：为某人或某物指定性别，通常带有传统或二元假设的含义。",
+      "SENT_EN":"The toys are often gendered, with dolls for girls and trucks for boys.",
+      "SENT_ZH":"这些玩具通常是按性别划分的，女孩玩洋娃娃，男孩玩卡车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "categorize",
+            "label",
+            "stereotype"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "de-gender"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to informal, academic, social discourse."
+}

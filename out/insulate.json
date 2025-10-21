@@ -1,0 +1,75 @@
+{
+  "WORD":"insulate",
+  "IPA":"/ˈɪnsəleɪt/",
+  "CONJUGATES":"insulating | insulated | insulates",
+  "ETYMOLOGY":"From Latin *insula* (island), via the past participle stem *insulat-* of *insulare* ('to make an island of, isolate'). The specialized technical meaning (preventing passage of electricity/heat) developed in the late 18th century.",
+  "SINCE":"Mid-18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"insulate [sth] (against/from [sth else])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core word",
+        "Technical",
+        "Science",
+        "Engineering"
+      ],
+      "DEF_EN":"To protect something by surrounding it with a material that prevents the passage or loss of heat, electricity, or sound.",
+      "DEF_ZH":"用绝缘、隔热或隔音材料覆盖或包围某物，以阻止热量、电力或声音的通过；使绝缘；使隔热。",
+      "SENT_EN":"We must insulate the pipes before winter to prevent them from freezing.",
+      "SENT_ZH":"我们必须在冬天来临前给管道做隔热处理，以防止它们冻结。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lag",
+            "proof",
+            "weatherproof",
+            "seal"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "insulation",
+            "insulator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"insulate [sb/sth] from [sth negative]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb plus preposition",
+      "TAGS":[
+        "Common",
+        "Figurative",
+        "Social"
+      ],
+      "DEF_EN":"To protect someone or something from unpleasant influences, dangers, or harsh realities; to isolate.",
+      "DEF_ZH":"保护某人或某事不受负面影响、危险或残酷现实的侵扰；使隔绝或免受。",
+      "SENT_EN":"Her privileged upbringing insulated her from the financial worries most people face.",
+      "SENT_ZH":"她优越的成长环境使她免受多数人所面临的经济忧虑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shield",
+            "guard",
+            "sequester",
+            "protect"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expose",
+            "subject"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Engineering"
+}

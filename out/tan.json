@@ -1,0 +1,177 @@
+{
+  "WORD":"tan",
+  "IPA":"/tæn/",
+  "CONJUGATES":"verb: tans | tanning | tanned || noun: tans || adjective: tanner | tannest",
+  "ETYMOLOGY":"From Old English `tannian` (verb) 'to convert hide into leather', from Medieval Latin `tannare`, probably from a Germanic source related to Old High German `tanna` 'oak, pine bark' (used in the tanning process). The sense of 'to brown skin by sun' dates from the early 18th century.",
+  "SINCE":"Old English (verb, hide treatment); 17th century (color); early 18th century (skin darkening)",
+  "MEANINGS":[
+    {
+      "PATTERN":"tan",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A yellowish-brown color.",
+      "DEF_ZH":"一种黄褐色。",
+      "SENT_EN":"The walls were painted a light tan.",
+      "SENT_ZH":"墙壁漆成了浅棕褐色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beige",
+            "fawn",
+            "khaki",
+            "buff"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "brown",
+            "ochre"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tan",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A darker color of skin that some people get after spending time in the sun.",
+      "DEF_ZH":"皮肤经过日晒后获得的较深的颜色。",
+      "SENT_EN":"She came back from her vacation with a deep tan.",
+      "SENT_ZH":"她度假回来时晒成了古铜色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "suntan",
+            "bronze"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "paleness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] tan [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which is a verb that requires a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone's skin darker or browner by exposing it to the sun or to ultraviolet light.",
+      "DEF_ZH":"（使皮肤）晒黑，晒成褐色。",
+      "SENT_EN":"I try to tan evenly on the beach.",
+      "SENT_ZH":"我试图在沙滩上晒得均匀些。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bronze",
+            "sunbathe"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "whiten",
+            "bleach"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] tan [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which is a verb that requires a direct object.",
+      "TAGS":[
+        "specialized",
+        "technical"
+      ],
+      "DEF_EN":"To convert animal hide into leather using a chemical process, typically involving tannin.",
+      "DEF_ZH":"鞣制（皮革），将动物生皮通过化学过程制成皮革。",
+      "SENT_EN":"The factory tans various types of animal hides.",
+      "SENT_ZH":"这家工厂鞣制各种类型的动物皮革。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cure",
+            "dress",
+            "process"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "leather",
+            "tannery",
+            "tannin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tan",
+      "POS":"adj",
+      "POS_TIP":"A word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Having a light yellowish-brown color.",
+      "DEF_ZH":"呈黄褐色的。",
+      "SENT_EN":"He wore tan trousers and a white shirt.",
+      "SENT_ZH":"他穿着黄褐色的裤子和一件白衬衫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beige",
+            "fawn-colored",
+            "khaki"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] tan [sb]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which is a verb that requires a direct object.",
+      "TAGS":[
+        "informal",
+        "old-fashioned",
+        "slang"
+      ],
+      "DEF_EN":"(Informal, dated) To beat someone severely.",
+      "DEF_ZH":"（非正式，过时）狠揍某人，痛打某人。",
+      "SENT_EN":"His father threatened to tan his hide if he misbehaved again.",
+      "SENT_ZH":"他父亲威胁说，如果他再调皮，就痛打他一顿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "beat",
+            "thrash",
+            "flog",
+            "spank"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The most common uses (color, suntan, sunbathing) are general English. The 'leather' sense is specialized. The 'beat' sense is informal and somewhat dated."
+}

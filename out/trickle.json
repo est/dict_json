@@ -1,0 +1,101 @@
+{
+  "WORD":"trickle",
+  "IPA":"/ˈtrɪkəl/",
+  "CONJUGATES":"trickles | trickling | trickled",
+  "ETYMOLOGY":"From Middle English trikelen, probably related to Middle Dutch trikkelen (to drag, pull) or a frequentative form related to drip and related German roots.",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"trickle [v]",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (不及物动词)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To flow or fall in a small, thin stream or in drops.",
+      "DEF_ZH":"（液体）涓涓细流；滴流；缓缓流淌。",
+      "SENT_EN":"Tears began to trickle down her cheeks.",
+      "SENT_ZH":"泪水开始沿着她的脸颊缓缓流下。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dribble",
+            "drip",
+            "seep",
+            "ooze"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "pour",
+            "gush",
+            "flood"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"trickle + (in/out/through)",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb (不及物动词)",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To move, arrive, or be supplied slowly and in small numbers or amounts.",
+      "DEF_ZH":"（人、资源、信息）缓慢或少量地移动、到达或供应。",
+      "SENT_EN":"The results of the election are beginning to trickle in.",
+      "SENT_ZH":"选举结果开始零星地公布。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "filter",
+            "arrive gradually"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rush",
+            "surge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a trickle (of sth)",
+      "POS":"nc",
+      "POS_TIP":"countable noun (可数名词)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A small, slow flow or amount of liquid, people, or resources.",
+      "DEF_ZH":"细流；少量；零星（的人或物）。",
+      "SENT_EN":"There was only a trickle of tourists this winter.",
+      "SENT_ZH":"今年冬天只有零星的游客。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "drip",
+            "dribble",
+            "smattering"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "flood",
+            "torrent",
+            "abundance"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

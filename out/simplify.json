@@ -1,0 +1,86 @@
+{
+  "WORD":"simplify",
+  "IPA":"/ˈsɪmplɪfaɪ/",
+  "CONJUGATES":"simplifies | simplifying | simplified",
+  "ETYMOLOGY":"From Latin simplex (simple, single) combined with the suffix -fy (from Latin facere 'to make'). Literally, 'to make simple'.",
+  "SINCE":"c. 1570",
+  "MEANINGS":[
+    {
+      "PATTERN":"simplify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb that takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make something easier to understand, perform, or deal with; to make less complex.",
+      "DEF_ZH":"使某事物简单化；使易于理解或操作。",
+      "SENT_EN":"We need to simplify the procedure for applying for the grant.",
+      "SENT_ZH":"我们需要简化申请拨款的程序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "streamline",
+            "clarify",
+            "ease",
+            "uncomplicate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "complicate",
+            "confuse",
+            "muddle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"simplify [sth] (math)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb that takes a direct object)",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"To reduce a mathematical expression, equation, or fraction to its lowest or most basic terms.",
+      "DEF_ZH":"(数学) 化简；将表达式或分数约至最简形式。",
+      "SENT_EN":"The students learned how to simplify algebraic equations.",
+      "SENT_ZH":"学生们学习了如何化简代数方程式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "cancel out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"simplify [sth] (critically)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (verb that takes a direct object)",
+      "TAGS":[
+        "formal",
+        "critical usage"
+      ],
+      "DEF_EN":"To oversimplify by omitting crucial details or ignoring important nuances, often resulting in a misleading presentation.",
+      "DEF_ZH":"过于简单化（常指忽略重要细节或细微差别，可能导致误导）。",
+      "SENT_EN":"The debate often simplifies the complex realities of economic policy.",
+      "SENT_ZH":"这场辩论往往将复杂的经济政策现实过于简单化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oversimplify",
+            "overstate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in educational and business contexts."
+}

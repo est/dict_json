@@ -1,0 +1,79 @@
+{
+  "WORD":"bruise",
+  "IPA":"/bruːz/",
+  "CONJUGATES":"bruises (n. pl.) | bruised (v. pt., pp.) | bruising (v. pres. p., gerund)",
+  "ETYMOLOGY":"From Middle English bruse, breuse, from Anglo-Norman French bruise (variant of Old French broisier 'to crush, break').",
+  "SINCE":"c. 1250",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (on [body part])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical"
+      ],
+      "DEF_EN":"A contusion; an injury appearing as a discolored patch on the skin caused by a blow, where underlying blood vessels are ruptured but the skin is not broken.",
+      "DEF_ZH":"瘀伤；青肿。由撞击引起，皮下血管破裂但皮肤未破损导致的变色区域。",
+      "SENT_EN":"He developed a large purple bruise on his shin after the accident.",
+      "SENT_ZH":"事故发生后，他的胫骨上出现了一大块紫色的瘀伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contusion",
+            "hematoma",
+            "welt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] / [sth] bruise [sb] / [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To inflict a bruise upon a person or object; to injure the tissue beneath the skin without breaking the surface.",
+      "DEF_ZH":"使（某人或某物）产生瘀伤；造成青肿。",
+      "SENT_EN":"Be careful not to bruise the delicate fruit when you pack them.",
+      "SENT_ZH":"包装那些精致的水果时要小心，不要弄伤它们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contuse",
+            "damage",
+            "injure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bruise [sb's] feelings / ego / pride",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To hurt or offend someone's feelings, self-esteem, or pride.",
+      "DEF_ZH":"伤害（某人的）感情、自尊或信心。",
+      "SENT_EN":"Her sharp comments completely bruised his ego.",
+      "SENT_ZH":"她尖锐的评论完全伤害了他的自尊。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hurt",
+            "offend",
+            "wound"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

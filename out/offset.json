@@ -1,0 +1,114 @@
+{
+  "WORD":"offset",
+  "IPA":"/ˈɑːfˌsɛt/",
+  "CONJUGATES":"offsets (v, 3rd sg pres) | offsetting (v, prt) | offset (v, past/pp) | offsets (n, pl)",
+  "ETYMOLOGY":"Formed from the prefix 'off-' and the verb 'set'. Originally meaning 'to set out' (15th century). The sense of 'counterbalance' or 'compensate' developed around the 16th century.",
+  "SINCE":"c. 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"offset [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "general",
+        "finance"
+      ],
+      "DEF_EN":"To counterbalance, compensate for, or neutralize the effect of something, often a financial burden or adverse outcome.",
+      "DEF_ZH":"抵消；补偿；弥补（损失或不利影响）。",
+      "SENT_EN":"The gains from the export market managed to offset the losses suffered domestically.",
+      "SENT_ZH":"出口市场的收益成功地抵消了国内遭受的损失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compensate",
+            "counterbalance",
+            "neutralize",
+            "make up for"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "increase",
+            "aggravate",
+            "magnify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an offset",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "general",
+        "finance"
+      ],
+      "DEF_EN":"Something that serves as a counterbalance, compensation, or deduction.",
+      "DEF_ZH":"抵消物；补偿；（尤指税务上的）抵扣或冲销。",
+      "SENT_EN":"The company received a tax credit that functioned as an offset against its quarterly liability.",
+      "SENT_ZH":"该公司获得了一笔税收抵免，用作抵消其季度负债。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "counterbalance",
+            "compensation",
+            "set-off",
+            "adjustment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the offset",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "engineering"
+      ],
+      "DEF_EN":"The distance or amount by which something is displaced or deviates from a central point, line, or initial position.",
+      "DEF_ZH":"偏移量；偏差；（相对于起点或中心点的）位移距离或差值。",
+      "SENT_EN":"The program calculated the correct memory address by adding the offset to the base register.",
+      "SENT_ZH":"程序通过将偏移量添加到基址寄存器来计算正确的内存地址。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deviation",
+            "shift",
+            "displacement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"offset printing",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "printing"
+      ],
+      "DEF_EN":"A widely used printing technique where the inked image is transferred from a plate to an intermediate rubber blanket before being transferred to the printing surface.",
+      "DEF_ZH":"胶版印刷；平版印刷（指油墨间接转移到纸张的印刷方法）。",
+      "SENT_EN":"For high-volume, high-quality brochures, offset printing is usually the preferred method.",
+      "SENT_ZH":"对于大批量、高质量的小册子，通常首选胶版印刷。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lithography",
+            "gravure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally in financial, technical, and engineering contexts, and commonly in everyday language for compensation."
+}

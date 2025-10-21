@@ -1,0 +1,121 @@
+{
+  "WORD":"coach",
+  "IPA":"/kəʊtʃ/",
+  "CONJUGATES":"coaches | coaching | coached",
+  "ETYMOLOGY":"From Hungarian kocsi (szekér), meaning 'carriage of Kocs' (a village in Hungary renowned for making such vehicles). Meaning shifted from the vehicle itself to the tutor/trainer in the 1830s.",
+  "SINCE":"c. 1550 (vehicle); c. 1830 (instructor)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "profession"
+      ],
+      "DEF_EN":"A person who instructs, trains, or directs an athlete, team, or individual in a specific field or skill.",
+      "DEF_ZH":"指导、训练或带领运动员、队伍或个人掌握特定领域技能的人；教练。",
+      "SENT_EN":"The football coach was praised for turning the struggling team into champions.",
+      "SENT_ZH":"这位足球教练因将这支苦苦挣扎的队伍变成了冠军而受到赞扬。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trainer",
+            "instructor",
+            "mentor",
+            "guide",
+            "tutor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "counselor",
+            "guru"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"coach [sb] | coach [sb] (in) [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To train or instruct a person or team, often intensively, towards a goal.",
+      "DEF_ZH":"训练或指导个人或团队，通常是密集的，以达成某个目标。",
+      "SENT_EN":"He spends his weekends coaching young students in mathematics.",
+      "SENT_ZH":"他利用周末时间指导年轻学生学习数学。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "train",
+            "instruct",
+            "drill",
+            "mentor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "transportation",
+        "UK English"
+      ],
+      "DEF_EN":"A comfortable, large bus used for carrying passengers over long distances; historically, a large, enclosed, four-wheeled, horse-drawn carriage.",
+      "DEF_ZH":"舒适的大型长途客车（主要指英国）；历史上指大型、封闭的四轮马车。",
+      "SENT_EN":"They decided to travel by coach across the country to save money.",
+      "SENT_ZH":"他们决定乘长途客车横穿全国以节省费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bus",
+            "motorcoach",
+            "carriage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "transportation",
+        "US English",
+        "specialized"
+      ],
+      "DEF_EN":"A standard railway carriage or the basic class of travel on an airplane or train (economy class).",
+      "DEF_ZH":"火车车厢；飞机或火车上的普通舱或经济舱。",
+      "SENT_EN":"I had a cramped seat in coach for the transatlantic flight.",
+      "SENT_ZH":"在这趟跨大西洋的航班上，我在普通舱的座位很拥挤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "economy class",
+            "standard class",
+            "railcar"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "first class",
+            "business class"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Sports"
+}

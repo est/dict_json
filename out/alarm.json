@@ -1,0 +1,127 @@
+{
+  "WORD":"alarm",
+  "IPA":"/əˈlɑːrm/",
+  "CONJUGATES":"alarms | alarming | alarmed",
+  "ETYMOLOGY":"From Middle French alarme, ultimately from Old Italian all'arme, meaning 'to arms' (used as a warning shout).",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[C] [sth]",
+      "POS":"n",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "device"
+      ],
+      "DEF_EN":"A loud noise or signal, or the device producing it, intended to warn people of danger, trouble, or to wake them up.",
+      "DEF_ZH":"（通常指）用于警告危险、麻烦或叫醒人的响亮噪音、信号或产生该信号的装置。",
+      "SENT_EN":"The fire alarm sounded immediately after smoke filled the corridor.",
+      "SENT_ZH":"烟雾弥漫走廊后，火警警报立即响了起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "siren",
+            "warning",
+            "signal"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "alert",
+            "bell",
+            "buzzer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[U] [at sth]",
+      "POS":"n",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "core word",
+        "feeling"
+      ],
+      "DEF_EN":"A sudden feeling of fear, worry, or apprehension that something dangerous or unpleasant might happen.",
+      "DEF_ZH":"突如其来的恐惧、担忧或不安感，担心发生危险或不愉快的事情。",
+      "SENT_EN":"The doctor viewed the test results with growing alarm.",
+      "SENT_ZH":"医生怀着日益增长的担忧查看了检测结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fear",
+            "distress",
+            "anxiety",
+            "panic"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "calmness",
+            "relief",
+            "tranquility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"alarm [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To cause someone to feel frightened, worried, or distressed.",
+      "DEF_ZH":"使某人感到惊吓、担忧或不安。",
+      "SENT_EN":"The rapid spread of the disease alarmed public health officials.",
+      "SENT_ZH":"这种疾病的快速传播使公共卫生官员感到担忧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frighten",
+            "shock",
+            "scare",
+            "unsettle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reassure",
+            "comfort",
+            "soothe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"alarm [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "technical",
+        "action"
+      ],
+      "DEF_EN":"To fit a place or vehicle with an alarm system.",
+      "DEF_ZH":"为某个地方或车辆安装警报系统。",
+      "SENT_EN":"They decided to alarm the warehouse after the recent break-in.",
+      "SENT_ZH":"最近发生入室盗窃事件后，他们决定给仓库安装警报系统。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "secure",
+            "safeguard"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

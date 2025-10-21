@@ -1,0 +1,105 @@
+{
+  "WORD":"erupt",
+  "IPA":"/ɪˈrʌpt/",
+  "CONJUGATES":"erupts | erupting | erupted",
+  "ETYMOLOGY":"From Latin *erumpere* ('to burst forth'), from *e-* (ex- 'out of') + *rumpere* ('to break').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth, e.g., volcano] erupt",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Core",
+        "Geology"
+      ],
+      "DEF_EN":"(Of a volcano, geyser, or similar) to suddenly and violently eject material such as lava, ash, steam, or water.",
+      "DEF_ZH":"（指火山、间歇泉等）突然猛烈地喷出（熔岩、灰、蒸汽或水）。",
+      "SENT_EN":"The volcano is threatening to erupt after several weeks of seismic activity.",
+      "SENT_ZH":"经过数周的地震活动后，这座火山有爆发的危险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "explode",
+            "discharge",
+            "spew"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth, e.g., conflict, sound, emotion] erupt",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Common",
+        "Figurative"
+      ],
+      "DEF_EN":"To break out or burst forth suddenly and dramatically (often referring to noise, violence, or strong emotion).",
+      "DEF_ZH":"（指声音、活动、暴力或情绪）突然爆发；突然发生。",
+      "SENT_EN":"Spontaneous applause erupted throughout the stadium.",
+      "SENT_ZH":"体育场内爆发出自发的掌声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "break out",
+            "flare up",
+            "burst forth"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "subside",
+            "die down"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth, e.g., rash, spots] erupt (on [sb]/[sth])",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Medical"
+      ],
+      "DEF_EN":"(Of spots, rashes, or similar) to suddenly appear or break out on the skin.",
+      "DEF_ZH":"（指皮疹、斑点等）在皮肤上突然出现；发疹。",
+      "SENT_EN":"The patient's face erupted in tiny blisters overnight.",
+      "SENT_ZH":"病人的脸部一夜之间冒出了小水泡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "break out",
+            "surface"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth, e.g., tooth] erupt",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "Technical",
+        "Dentistry"
+      ],
+      "DEF_EN":"(Of a tooth) to emerge through the gum and become visible.",
+      "DEF_ZH":"（指牙齿）萌出；长出牙龈。",
+      "SENT_EN":"Children usually begin to erupt their first molars around the age of six.",
+      "SENT_ZH":"儿童通常在六岁左右开始萌出第一颗磨牙。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "eruption"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Scientific"
+}

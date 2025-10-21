@@ -1,0 +1,136 @@
+{
+  "WORD":"make",
+  "IPA":"/meɪk/",
+  "CONJUGATES":"make | makes | made | making",
+  "ETYMOLOGY":"From Old English macian, related to Old Frisian makia and Old Saxon makōn. Ultimately of West Germanic origin, meaning 'to fit, join, or prepare'.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"make [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "creation",
+        "high frequency"
+      ],
+      "DEF_EN":"To create, construct, produce, or prepare something using material or components.",
+      "DEF_ZH":"制造；制作；建造；生产。",
+      "SENT_EN":"She decided to make a small table for the living room.",
+      "SENT_ZH":"她决定为客厅制作一张小桌子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "create",
+            "build",
+            "construct",
+            "produce"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "destroy",
+            "unmake"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make [sb/sth] [do sth]",
+      "POS":"vtr + obj + inf (bare)",
+      "POS_TIP":"transitive verb + object + bare infinitive",
+      "TAGS":[
+        "causative verb",
+        "compulsion"
+      ],
+      "DEF_EN":"To compel, force, or cause someone or something to act or be in a certain condition.",
+      "DEF_ZH":"迫使；强制；使（某人/某事物）做（某事）。",
+      "SENT_EN":"His strange story made us laugh.",
+      "SENT_ZH":"他奇怪的故事把我们逗笑了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "force",
+            "compel",
+            "cause",
+            "induce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make [a decision/effort/profit]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "activity",
+        "finance"
+      ],
+      "DEF_EN":"To perform or execute an action, or to achieve a specified result (especially money or profit).",
+      "DEF_ZH":"做（决定/努力）；赚取（利润/金钱）。",
+      "SENT_EN":"The company made a significant profit last quarter.",
+      "SENT_ZH":"这家公司上个季度赚取了可观的利润。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "earn",
+            "gain",
+            "achieve",
+            "perform"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make [number]",
+      "POS":"vtr / vintr",
+      "POS_TIP":"transitive verb / intransitive verb",
+      "TAGS":[
+        "mathematical",
+        "calculation"
+      ],
+      "DEF_EN":"To constitute, total, or amount to a specified number or outcome.",
+      "DEF_ZH":"总计；构成；等于。",
+      "SENT_EN":"Six cookies will make a perfect dozen.",
+      "SENT_ZH":"六块饼干将凑成完美的一打。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equal",
+            "total",
+            "constitute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"making (as gerund/noun)",
+      "POS":"n (gerund)",
+      "POS_TIP":"noun (verbal noun/gerund)",
+      "TAGS":[
+        "process",
+        "action"
+      ],
+      "DEF_EN":"The process of creating, constructing, or producing something.",
+      "DEF_ZH":"制造过程；制作；形成。",
+      "SENT_EN":"The making of good wine requires patience.",
+      "SENT_ZH":"酿造好酒需要耐心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creation",
+            "production",
+            "manufacture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use"
+}

@@ -1,0 +1,89 @@
+{
+  "WORD":"buoy",
+  "IPA":"/bɔɪ/",
+  "CONJUGATES":"buoys (n.) | buoying | buoyed | buoys (v.)",
+  "ETYMOLOGY":"From Middle English boie, from Old French boue, related to Dutch boei, probably of Germanic origin.",
+  "SINCE":"Mid-15th century (n.), late 16th century (v.)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] buoy",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "maritime",
+        "navigation"
+      ],
+      "DEF_EN":"A floating object anchored in the sea or river to mark a navigational point, warn of danger, or mark a fishing area.",
+      "DEF_ZH":"锚定在水域中的浮标，用于标记航道、警告危险或指示特定地点。",
+      "SENT_EN":"The red buoy marked the edge of the shallow reef.",
+      "SENT_ZH":"红色浮标标记了浅礁的边缘。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "float",
+            "marker",
+            "navigation aid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"buoy [sth] up",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "literal",
+        "physics"
+      ],
+      "DEF_EN":"To keep something afloat; to support or prevent something from sinking.",
+      "DEF_ZH":"使某物漂浮；支撑或防止其下沉。",
+      "SENT_EN":"The small raft was barely enough to buoy the survivors up.",
+      "SENT_ZH":"那个小木筏勉强足以让幸存者漂浮起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "float",
+            "support",
+            "keep afloat"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"buoy [sb] up | buoy [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To make someone feel more cheerful or confident; to lift someone's spirits or morale.",
+      "DEF_ZH":"使某人感到更快乐或更有信心；振奋某人的精神或士气。",
+      "SENT_EN":"The unexpected promotion buoyed her spirits after a tough year.",
+      "SENT_ZH":"意料之外的晋升振奋了她度过了艰难一年后的士气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cheer",
+            "encourage",
+            "uplift",
+            "bolster"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "depress",
+            "discourage",
+            "dampen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and Maritime context"
+}

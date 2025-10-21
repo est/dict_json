@@ -1,0 +1,126 @@
+{
+  "WORD":"some",
+  "IPA":"/sʌm/",
+  "CONJUGATES":"some is uninflected as a determiner, pronoun, and adverb.",
+  "ETYMOLOGY":"From Old English sum, from Proto-Germanic *sumaz (meaning 'some, a certain one'), from Proto-Indo-European *sem- (meaning 'one, together').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"some [plural noun] | some [uncountable noun]",
+      "POS":"determiner",
+      "POS_TIP":"A word that precedes a noun and expresses quantity or specificity.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An unspecified quantity or number of; a certain but not large amount or number of. Often used in affirmative sentences, offers, and requests.",
+      "DEF_ZH":"一些；若干；某些（用于肯定句、提议或请求，指不确定的数量）",
+      "SENT_EN":"I bought some new books and some fresh fruit. Would you like some water?",
+      "SENT_ZH":"我买了一些新书和一些新鲜水果。你要不要喝点水？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "a few",
+            "several",
+            "a number of",
+            "a quantity of"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"some [singular noun]",
+      "POS":"determiner",
+      "POS_TIP":"A word that precedes a noun and expresses quantity or specificity.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An unspecified or unknown person, thing, or time.",
+      "DEF_ZH":"某个；某人；某种（指不确定或未知的人、事物或时间）",
+      "SENT_EN":"Some man called for you earlier. We should meet some day next week.",
+      "SENT_ZH":"刚才有个人找你。我们下周找个时间见面吧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "a certain",
+            "an unknown"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"some (of them/it)",
+      "POS":"pronoun",
+      "POS_TIP":"A word that can function as a noun phrase referring to people, places, things, or ideas without naming them.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An unspecified number or amount of people or things that have already been mentioned or are understood from the context.",
+      "DEF_ZH":"一些；一部分（指已提及或可从语境中理解的人或事物中的不确定数量或部分）",
+      "SENT_EN":"Some of the students passed the exam, but some didn't.",
+      "SENT_ZH":"有些学生通过了考试，但有些没有。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "a portion",
+            "a part"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"some [number]",
+      "POS":"adverb",
+      "POS_TIP":"A word or phrase that modifies an adjective, verb, or other adverb, or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"Approximately; about. Used before a number.",
+      "DEF_ZH":"大约；大概（用于数字前）",
+      "SENT_EN":"The journey took some twenty minutes. He has some fifty books on that shelf.",
+      "SENT_ZH":"这段旅程大约花了二十分钟。他那个书架上大约有五十本书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "approximately",
+            "about",
+            "around"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"some (with a verb/adjective)",
+      "POS":"adverb",
+      "POS_TIP":"A word or phrase that modifies an adjective, verb, or other adverb, or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "informal",
+        "dialectal",
+        "American English"
+      ],
+      "DEF_EN":"To a considerable extent; rather or very (especially in American English informal use, often implying impressive quality).",
+      "DEF_ZH":"相当；很（尤其用于美式英语非正式用法，常表示程度深或品质好）",
+      "SENT_EN":"That was some concert! He drives some fast.",
+      "SENT_ZH":"那真是场很棒的演唱会！他开车开得相当快。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "considerably",
+            "rather",
+            "quite",
+            "very"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday language, spanning formal to informal contexts depending on the meaning."
+}

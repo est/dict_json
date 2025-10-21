@@ -1,0 +1,82 @@
+{
+  "WORD":"hover",
+  "IPA":"/ˈhʌvər/",
+  "CONJUGATES":"hovers | hovered | hovering",
+  "ETYMOLOGY":"Late Middle English, perhaps from a frequentative form of 'hove' (related to 'heave'), meaning 'to rise'.",
+  "SINCE":"c. 1400s",
+  "MEANINGS":[
+    {
+      "PATTERN":"hover",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb: a verb that does not take a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To remain in one place in the air, typically by means of an engine or by beating wings rapidly.",
+      "DEF_ZH":"（物体或飞行器）在空中盘旋或停留在空中。",
+      "SENT_EN":"A tiny drone hovered silently above the treetops.",
+      "SENT_ZH":"一架小型无人机静静地盘旋在树梢上方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "float",
+            "hang",
+            "linger in the air"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hover (around/over/near) [sb/sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb with a prepositional phrase",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To linger close at hand, especially in an uncertain or hesitant manner, or to remain in an indecisive or unstable state.",
+      "DEF_ZH":"（人或情况）徘徊在某处；处于不稳定或不确定的状态。",
+      "SENT_EN":"He hovered nervously around the entrance, waiting for her.",
+      "SENT_ZH":"他紧张地在入口附近徘徊，等着她。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "linger",
+            "loiter",
+            "wait nearby",
+            "waver",
+            "fluctuate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hover (over) [sth]",
+      "POS":"vi + prep",
+      "POS_TIP":"intransitive verb with a prepositional phrase",
+      "TAGS":[
+        "technical",
+        "modern",
+        "computing"
+      ],
+      "DEF_EN":"To position a mouse pointer over a graphical element on a screen without clicking it, often to reveal additional information or options.",
+      "DEF_ZH":"（电脑鼠标）在屏幕上的某个项目上悬停，通常是为了显示额外信息或选项。",
+      "SENT_EN":"Hover your cursor over the button to see its function.",
+      "SENT_ZH":"将光标悬停在按钮上，即可查看其功能。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tooltip",
+            "mouseover"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use; also common in computing contexts."
+}

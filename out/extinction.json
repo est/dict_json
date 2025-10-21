@@ -1,0 +1,88 @@
+{
+  "WORD":"extinction",
+  "IPA":"/ɪkˈstɪŋkʃən/",
+  "CONJUGATES":"extinctions",
+  "ETYMOLOGY":"From Latin extinctio (stem of extinguere 'to quench, destroy, abolish'), formed from ex- ('out') + stinguere ('to prick, quench').",
+  "SINCE":"c. 1500s (originally referring to the quenching of fire/debt); applied to species disappearance later.",
+  "MEANINGS":[
+    {
+      "PATTERN":"extinction [of a species/group]",
+      "POS":"n",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "biology",
+        "ecology"
+      ],
+      "DEF_EN":"The state or process of a species, family, or larger group being permanently wiped out and ceasing to exist.",
+      "DEF_ZH":"（物种、生物类群的）灭绝；绝种。",
+      "SENT_EN":"Climate change is significantly increasing the threat of mass extinction for vulnerable species.",
+      "SENT_ZH":"气候变化正大大增加脆弱物种大规模灭绝的威胁。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "annihilation",
+            "demise",
+            "disappearance"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "extinct",
+            "biodiversity",
+            "evolution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"extinction [of sth abstract/physical]",
+      "POS":"n",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The act of extinguishing or bringing to an end something abstract or physical, such as a fire, a custom, or a debt.",
+      "DEF_ZH":"熄灭；终止；废除（指火光、权利、债务等）。",
+      "SENT_EN":"The court ordered the full extinction of the remaining debt.",
+      "SENT_ZH":"法院下令彻底解除剩余的债务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cessation",
+            "suppression",
+            "termination"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"extinction [of a response]",
+      "POS":"n",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "technical",
+        "psychology"
+      ],
+      "DEF_EN":"In conditioning, the weakening and eventual disappearance of a learned response (conditioned response) due to the removal of reinforcement.",
+      "DEF_ZH":"（心理学）消退；消失（指条件反射的减弱或消失）。",
+      "SENT_EN":"Behavioral therapy relies on the principle of extinction to remove unwanted habits.",
+      "SENT_ZH":"行为疗法依赖于消退的原理来消除不良习惯。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "conditioning",
+            "habituation",
+            "reinforcement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, scientific, and general discourse."
+}

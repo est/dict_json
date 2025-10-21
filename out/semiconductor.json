@@ -1,0 +1,61 @@
+{
+  "WORD":"semiconductor",
+  "IPA":"/ˌsɛmɪkənˈdʌktər/",
+  "CONJUGATES":"semiconductors (pl.)",
+  "ETYMOLOGY":"Compound of Latin prefix semi- ('half, partly') and conductor (from Latin conducere 'to lead together'). Refers to a material that is partially conductive.",
+  "SINCE":"1920s (physics); 1950s (widespread industrial use)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "physics",
+        "material science"
+      ],
+      "DEF_EN":"A solid substance, typically silicon or germanium, that has electrical conductivity intermediate between that of a conductor and an insulator, whose conductivity can be modified by the addition of impurities (doping).",
+      "DEF_ZH":"一种固体物质，通常是硅或锗，其导电性介于导体和绝缘体之间，可以通过添加杂质（掺杂）来精确控制其导电性。",
+      "SENT_EN":"Silicon is the most common element used to create a semiconductor crystal.",
+      "SENT_ZH":"硅是制造半导体晶体最常用的元素。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Silicon",
+            "Germanium",
+            "Doping",
+            "Insulator",
+            "Conductor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "metonymy",
+        "technology",
+        "electronics"
+      ],
+      "DEF_EN":"An electronic component or device (such as a transistor, diode, or integrated circuit) fabricated from a semiconductor material.",
+      "DEF_ZH":"用半导体材料制造的电子元件或器件（如晶体管、二极管或集成电路/芯片）。",
+      "SENT_EN":"The shortage of semiconductors has severely impacted the global automotive industry.",
+      "SENT_ZH":"半导体短缺严重影响了全球汽车产业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chip",
+            "microchip",
+            "IC",
+            "transistor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical, Scientific, Common"
+}

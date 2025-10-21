@@ -1,0 +1,149 @@
+{
+  "WORD":"deposit",
+  "IPA":"/dɪˈpɒzɪt/",
+  "CONJUGATES":"deposits (v, 3rd pers. singular present) | depositing (v, present participle) | deposited (v, past tense, past participle) | deposits (n, plural)",
+  "ETYMOLOGY":"From Latin depositus, past participle of deponere 'lay aside', from de- 'down' + ponere 'to place'.",
+  "SINCE":"Late Middle English",
+  "MEANINGS":[
+    {
+      "PATTERN":"deposit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "finance"
+      ],
+      "DEF_EN":"To place money in a bank or financial account.",
+      "DEF_ZH":"将钱存入银行或金融账户。",
+      "SENT_EN":"I need to deposit this check before the bank closes.",
+      "SENT_ZH":"我需要在银行关门前存入这张支票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bank",
+            "save",
+            "lodge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdraw",
+            "take out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deposit [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"To put or set down (something) in a specific place.",
+      "DEF_ZH":"将某物放置或放下在特定位置。",
+      "SENT_EN":"The river deposits silt at its mouth.",
+      "SENT_ZH":"这条河在河口沉积淤泥。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "place",
+            "lay",
+            "put",
+            "settle",
+            "leave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a deposit",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance"
+      ],
+      "DEF_EN":"A sum of money payable as a first installment on a purchase or as security for the fulfillment of a contract.",
+      "DEF_ZH":"作为购买首付款或合同履行保证金支付的款项。",
+      "SENT_EN":"We had to pay a large deposit to secure the apartment.",
+      "SENT_ZH":"我们不得不支付一大笔押金来租下这套公寓。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "down payment",
+            "security",
+            "earnest money"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mortgage",
+            "rent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a deposit of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geology",
+        "general"
+      ],
+      "DEF_EN":"A layer or accumulation of matter, such as sediment, minerals, or other substances.",
+      "DEF_ZH":"堆积起来的物质层或块，如沉积物、矿物或其他物质。",
+      "SENT_EN":"The miners discovered a rich deposit of gold.",
+      "SENT_ZH":"矿工们发现了一处丰富的金矿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accumulation",
+            "layer",
+            "sediment",
+            "stratum",
+            "lode"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a deposit",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance"
+      ],
+      "DEF_EN":"An act of placing money in an account.",
+      "DEF_ZH":"将钱存入账户的行为。",
+      "SENT_EN":"I made a cash deposit at the ATM.",
+      "SENT_ZH":"我在自动取款机上存了现金。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "payment",
+            "lodgment"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "withdrawal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common"
+}

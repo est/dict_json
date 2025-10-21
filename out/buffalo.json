@@ -1,0 +1,75 @@
+{
+  "WORD":"buffalo",
+  "IPA":"/ˈbʌfəˌloʊ/",
+  "CONJUGATES":"n: buffalo (plural also buffaloes or buffalo) | v: buffaloes | buffaloing | buffaloed",
+  "ETYMOLOGY":"From Portuguese búfalo, from Medieval Latin būfalus, from Latin būbalus 'wild ox', from Ancient Greek boúbalos (βούβαλος). The verb sense 'to mystify or intimidate' is American English, first recorded in the 1890s.",
+  "SINCE":"Late 16th century (for the animal); late 19th century (for the verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"buffalo",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large bovine animal of several species, found in Asia and Africa. The American bison is often inaccurately referred to as a buffalo.",
+      "DEF_ZH":"一种大型牛科动物，有多种物种分布于亚洲和非洲。美洲野牛常被不准确地称为“水牛”。",
+      "SENT_EN":"The water buffalo is widely used for agricultural work in many Asian countries.",
+      "SENT_ZH":"水牛在许多亚洲国家被广泛用于农业劳动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bison",
+            "water buffalo",
+            "Cape buffalo"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cattle",
+            "ox",
+            "cow"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"buffalo [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "idiomatic",
+        "American English"
+      ],
+      "DEF_EN":"To confuse, intimidate, or deceive (someone), often by a show of force or an impressive but misleading display.",
+      "DEF_ZH":"（常指通过武力或令人印象深刻但具误导性的展示）使（某人）困惑、害怕或受骗。",
+      "SENT_EN":"He tried to buffalo the new employee with a lot of jargon.",
+      "SENT_ZH":"他试图用一堆行话来唬住新员工。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "intimidate",
+            "bluff",
+            "confuse",
+            "deceive",
+            "bewilder"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clarify",
+            "reassure",
+            "enlighten"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday speech for the animal; informal for the verb."
+}

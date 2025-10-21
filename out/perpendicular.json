@@ -1,0 +1,78 @@
+{
+  "WORD":"perpendicular",
+  "IPA":"/ˌpɜːrpənˈdɪkjələr/",
+  "CONJUGATES":"perpendiculars | perpendicularly | perpendicularity",
+  "ETYMOLOGY":"From Late Middle English, via Old French perpendiculer, derived from Latin perpendicularis (relating to a plumb line), from perpendiculum ('plumb line'), ultimately from perpendere ('to weigh carefully' or 'to hang straight down').",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is perpendicular to [sth else]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technical",
+        "geometry"
+      ],
+      "DEF_EN":"Meeting or crossing another line, surface, or plane at an angle of exactly 90 degrees (a right angle).",
+      "DEF_ZH":"垂直的；正交的。指与另一条线、表面或平面成精确的 90 度角相交。",
+      "SENT_EN":"Ensure the shelf bracket is perpendicular to the wall before screwing it in.",
+      "SENT_ZH":"在拧紧螺丝之前，请确保搁板支架与墙壁垂直。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "orthogonal",
+            "at right angles"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "parallel",
+            "slanted",
+            "diagonal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is perpendicular",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Standing straight up; vertical or upright, usually in relation to the ground or horizon.",
+      "DEF_ZH":"笔直的；直立的。通常指相对于地面或地平线而言。",
+      "SENT_EN":"The mountain climber scaled the almost perpendicular face of the cliff.",
+      "SENT_ZH":"登山者攀爬了那几乎笔直的悬崖面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vertical",
+            "upright",
+            "plumb"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a perpendicular",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "geometry"
+      ],
+      "DEF_EN":"A straight line or plane that is at right angles to another, especially one that divides a geometric figure.",
+      "DEF_ZH":"垂直线；垂面。指与另一条线或面成直角的直线或平面。",
+      "SENT_EN":"The student was asked to draw a perpendicular from the corner of the square to the opposite side.",
+      "SENT_ZH":"学生被要求从正方形的角上画一条垂直线到对边。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard, often used formally or technically in mathematics and engineering."
+}

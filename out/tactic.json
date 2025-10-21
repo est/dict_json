@@ -1,0 +1,65 @@
+{
+  "WORD":"tactic",
+  "IPA":"/ˈtæktɪk/",
+  "CONJUGATES":"tactics (plural)",
+  "ETYMOLOGY":"From French tactique, from Ancient Greek τακτικός (taktikós, 'of arrangement, fit for arranging'), from τάξις (táxis, 'arrangement, order').",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] tactic [for sth] | [a] tactic [to do sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A plan, action, or procedure carefully thought out and used to achieve a specific end, particularly in a conflict, competition, or negotiation.",
+      "DEF_ZH":"为达到特定目标而精心策划和使用的行动、程序或手段，尤指在冲突、竞争或谈判中。",
+      "SENT_EN":"His tactic of delaying the vote was successful.",
+      "SENT_ZH":"他拖延投票的策略是成功的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ploy",
+            "maneuver",
+            "method",
+            "approach"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "strategy",
+            "technique"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"military tactic | sporting tactic",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "military",
+        "sports"
+      ],
+      "DEF_EN":"(Often used in plural 'tactics') The calculated art or science of deploying and directing forces or resources during a short-term operation.",
+      "DEF_ZH":"（常用于复数 'tactics'）在短期行动中部署和指挥力量或资源的经过计算的艺术或科学。",
+      "SENT_EN":"The coach explained the team's defensive tactic for the second half.",
+      "SENT_ZH":"教练解释了球队下半场的防守战术。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "strategy",
+            "logistics",
+            "operational art"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in professional contexts like business, military, and sports."
+}

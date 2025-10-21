@@ -1,0 +1,80 @@
+{
+  "WORD":"anatomy",
+  "IPA":"/əˈnætəmi/",
+  "CONJUGATES":"anatomies",
+  "ETYMOLOGY":"From Middle French anatomie, from Latin anatomia, from Ancient Greek ἀνατομή (anatomḗ, 'dissection'), from ἀνά (aná, 'up') + τέμνω (témnō, 'I cut').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"anatomy [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "science",
+        "biology"
+      ],
+      "DEF_EN":"The branch of science concerned with the bodily structure of humans, animals, and other living organisms, especially as revealed by dissection and the separation of parts.",
+      "DEF_ZH":"研究人类、动物和其他生物体结构的科学分支，特别是通过解剖和分离部分来揭示的结构。",
+      "SENT_EN":"He is studying human anatomy in medical school.",
+      "SENT_ZH":"他在医学院学习人体解剖学。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "physiology",
+            "morphology",
+            "histology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the anatomy [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "biology"
+      ],
+      "DEF_EN":"The structure of an organism or any of its parts.",
+      "DEF_ZH":"一个有机体或其任何部分的结构。",
+      "SENT_EN":"The anatomy of the whale allows it to thrive in deep water.",
+      "SENT_ZH":"鲸鱼的身体结构使其能够在深水中生存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "structure",
+            "makeup",
+            "form"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the anatomy [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A detailed analysis or examination of a non-physical structure, process, or system.",
+      "DEF_ZH":"对非物质结构、过程或系统的详细分析或检验。",
+      "SENT_EN":"The article offered an anatomy of the political crisis.",
+      "SENT_ZH":"这篇文章对这场政治危机进行了深入的剖析。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "analysis",
+            "dissection",
+            "examination"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal | academic | medical"
+}

@@ -1,0 +1,79 @@
+{
+  "WORD":"headline",
+  "IPA":"/ˈhɛdˌlaɪn/",
+  "CONJUGATES":"headlines | headlined | headlining",
+  "ETYMOLOGY":"Compound word, from 'head' (top, chief) + 'line' (a row of text). Referring to the line of text at the head of an article.",
+  "SINCE":"Mid-19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] headline",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "journalism",
+        "media"
+      ],
+      "DEF_EN":"A heading at the top of an article or page in a newspaper or magazine, usually printed in large, prominent type.",
+      "DEF_ZH":"报纸或杂志文章顶部的标题，通常使用大号突出字体印刷。",
+      "SENT_EN":"The shocking report was featured in the main headline on the front page.",
+      "SENT_ZH":"这份令人震惊的报告被刊登在头版的主要标题中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heading",
+            "title",
+            "caption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"make headlines | grab the headlines",
+      "POS":"idiom.",
+      "POS_TIP":"idiomatic expression, noun usage",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"The most important or prominent piece of news that receives widespread public attention.",
+      "DEF_ZH":"引起广泛公众关注的最重要或最突出的新闻事件。",
+      "SENT_EN":"The political scandal continued to dominate the headlines for months.",
+      "SENT_ZH":"这场政治丑闻持续数月占据着新闻头条。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "top story",
+            "breaking news"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"headline [a concert/show] | headline [sb]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "entertainment",
+        "music"
+      ],
+      "DEF_EN":"To be the main performer or attraction at an event, concert, or festival.",
+      "DEF_ZH":"作为某项活动、音乐会或节日的主要表演者或压轴嘉宾。",
+      "SENT_EN":"Which band is set to headline the main stage tonight?",
+      "SENT_ZH":"今晚哪支乐队将作为主舞台的压轴表演者？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "star",
+            "feature",
+            "top-bill"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in journalism, media, and entertainment."
+}

@@ -1,0 +1,118 @@
+{
+  "WORD":"automatic",
+  "IPA":"/ˌɔːtəˈmætɪk/",
+  "CONJUGATES":"automatically | automatics",
+  "ETYMOLOGY":"From Greek automatos (acting of itself, self-moving), derived from autos (self) + mao (striving, wishing). Via French automatique.",
+  "SINCE":"Late 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"automatic [machine/process]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technology",
+        "common"
+      ],
+      "DEF_EN":"Operating by itself without direct human control, using mechanical, electrical, or electronic devices.",
+      "DEF_ZH":"自动的；无需人工干预即可运行的（指机械、系统或过程）。",
+      "SENT_EN":"The car wash uses an automatic system to clean the vehicles.",
+      "SENT_ZH":"这家洗车店使用自动系统来清洗车辆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automated",
+            "mechanical",
+            "self-acting"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "manual",
+            "hand-operated"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"automatic [reaction/response]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "behavior",
+        "psychology"
+      ],
+      "DEF_EN":"Done or occurring spontaneously, without conscious thought or intention, often due to habit or reflex.",
+      "DEF_ZH":"不假思索的；反射性的；习惯性的。",
+      "SENT_EN":"His automatic reaction to the sudden noise was to jump.",
+      "SENT_ZH":"他对突如其来的噪音的本能反应是跳起来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reflexive",
+            "instinctive",
+            "spontaneous"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "deliberate",
+            "intentional"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"automatic [qualification/penalty]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "legal",
+        "sports"
+      ],
+      "DEF_EN":"Certain to happen; guaranteed or resulting inevitably from a set rule or circumstance.",
+      "DEF_ZH":"必然的；规定的；自动获得的（指资格、惩罚等）。",
+      "SENT_EN":"The payment default results in automatic termination of the contract.",
+      "SENT_ZH":"未能支付款项将导致合同自动终止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guaranteed",
+            "mandatory",
+            "inevitable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an automatic",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "colloquial",
+        "firearms"
+      ],
+      "DEF_EN":"A firearm, especially a pistol, that automatically reloads after each shot is fired.",
+      "DEF_ZH":"自动武器（尤指自动装弹的手枪）。",
+      "SENT_EN":"He concealed the automatic under his coat.",
+      "SENT_ZH":"他把自动手枪藏在了外套下面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "self-loader",
+            "auto-pistol"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Widely used in technology, engineering, psychology, and daily speech."
+}

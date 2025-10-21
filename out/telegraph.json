@@ -1,0 +1,83 @@
+{
+  "WORD":"telegraph",
+  "IPA":"/ˈtɛlɪɡrɑːf/",
+  "CONJUGATES":"noun: telegraphs | verb: telegraphs | telegraphed | telegraphing",
+  "ETYMOLOGY":"From French télégraphe, coined by Claude Chappe in 1792, from Ancient Greek tēle (τῆλε 'far') + graphein (γράφειν 'to write').",
+  "SINCE":"Late 18th century (for optical telegraph), mid 19th century (for electric telegraph)",
+  "MEANINGS":[
+    {
+      "PATTERN":"telegraph",
+      "POS":"noun",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "historical",
+        "communication"
+      ],
+      "DEF_EN":"An apparatus used to send messages over a distance by making and breaking an electrical connection, typically coding the message in Morse code.",
+      "DEF_ZH":"一种通过建立和中断电路来远距离发送信息的装置，通常以摩尔斯电码编码信息。",
+      "SENT_EN":"The first transatlantic telegraph cable was laid in 1858.",
+      "SENT_ZH":"第一条跨大西洋电报电缆铺设于1858年。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Morse code",
+            "telegram",
+            "telecommunication"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"telegraph [sth] | telegraph [sb] [sth]",
+      "POS":"verb",
+      "POS_TIP":"verb: a word that expresses an action, an occurrence, or a state of being",
+      "TAGS":[
+        "core word",
+        "historical",
+        "communication"
+      ],
+      "DEF_EN":"To send a message to someone by means of a telegraph.",
+      "DEF_ZH":"通过电报向某人发送信息。",
+      "SENT_EN":"He telegraphed his arrival time to his family.",
+      "SENT_ZH":"他用电报将抵达时间告知家人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wire",
+            "cable",
+            "message"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"telegraph [sth] | telegraph one's intentions",
+      "POS":"verb",
+      "POS_TIP":"verb: a word that expresses an action, an occurrence, or a state of being",
+      "TAGS":[
+        "idiomatic",
+        "informal",
+        "sports"
+      ],
+      "DEF_EN":"To unintentionally reveal one's intentions or next action, often through a preparatory physical movement, allowing an opponent to anticipate it.",
+      "DEF_ZH":"无意中提前暴露某人的意图或下一步行动（常指体育比赛或扑克中），让对手能够预判。",
+      "SENT_EN":"A good boxer never telegraphs his punches, making them harder to defend against.",
+      "SENT_ZH":"一个好的拳击手绝不会提前暴露他的出拳意图，这使得对手更难防守。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "betray",
+            "reveal",
+            "give away",
+            "signal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; the verb 'to telegraph' in the sense of revealing intentions is informal and often used in sports."
+}

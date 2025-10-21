@@ -1,0 +1,103 @@
+{
+  "WORD":"bottleneck",
+  "IPA":"/ˈbɒtlˌnɛk/",
+  "CONJUGATES":"bottleneck (n.sg., v.base) | bottlenecks (n.pl., v.3rd pers.sg.pres.) | bottlenecked (v.past, v.p.p.) | bottlenecking (v.pres.p.)",
+  "ETYMOLOGY":"From the physical shape of a bottle's neck, which restricts the flow of liquid; first applied figuratively to a point of congestion or obstruction in the early 20th century.",
+  "SINCE":"Early 20th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a ~]",
+      "POS":"n",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "common",
+        "literal"
+      ],
+      "DEF_EN":"A narrow part of a road, channel, or system that restricts the flow of traffic, liquid, or information.",
+      "DEF_ZH":"道路、水道或系统中限制交通、液体或信息流动的狭窄部分。",
+      "SENT_EN":"The construction project created a severe bottleneck on the main highway.",
+      "SENT_ZH":"这项建设项目在主要高速公路上造成了严重的交通瓶颈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "choke point",
+            "pinch point",
+            "narrowing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a ~]",
+      "POS":"n",
+      "POS_TIP":"noun (a word that refers to a person, place, thing, event, substance, or quality)",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative",
+        "business",
+        "technology"
+      ],
+      "DEF_EN":"A point in a process or system where progress is delayed or stopped, often due to a lack of capacity, resources, or efficiency.",
+      "DEF_ZH":"过程或系统中由于能力、资源或效率不足而导致进展延迟或停止的关键点。",
+      "SENT_EN":"The approval process often becomes a bottleneck in product development.",
+      "SENT_ZH":"审批流程常常成为产品开发中的瓶颈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "impediment",
+            "obstacle",
+            "hindrance",
+            "constraint",
+            "delay"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "catalyst",
+            "accelerator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] bottleneck [sth] | [sth] be bottlenecked by [sth]",
+      "POS":"v",
+      "POS_TIP":"verb (a word that describes an action, state, or occurrence)",
+      "TAGS":[
+        "common",
+        "business",
+        "technology"
+      ],
+      "DEF_EN":"To cause a delay or obstruction in a process or flow; to impede progress.",
+      "DEF_ZH":"在过程或流动中造成延迟或阻塞；阻碍进展。",
+      "SENT_EN":"Lack of communication can bottleneck team productivity.",
+      "SENT_ZH":"缺乏沟通可能会阻碍团队的生产力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obstruct",
+            "impede",
+            "delay",
+            "hinder",
+            "slow down"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "expedite",
+            "facilitate",
+            "streamline"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in general conversation, especially in discussions about logistics, traffic, project management, and business operations."
+}

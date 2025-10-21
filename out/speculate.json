@@ -1,0 +1,75 @@
+{
+  "WORD":"speculate",
+  "IPA":"/'spɛk.jə.leɪt/",
+  "CONJUGATES":"speculates | speculating | speculated",
+  "ETYMOLOGY":"From Latin speculatus, past participle of speculari ('to look at, observe, spy out'), related to speculum (mirror, looking glass).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"speculate (about/on [sth])",
+      "POS":"v.intr",
+      "POS_TIP":"Intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "Core",
+        "Common",
+        "Intellectual"
+      ],
+      "DEF_EN":"Form a theory or conjecture about a subject without firm evidence.",
+      "DEF_ZH":"推测；猜测；凭空设想；进行思索。",
+      "SENT_EN":"We can only speculate about the reasons for the sudden resignation.",
+      "SENT_ZH":"我们只能推测他突然辞职的原因。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conjecture",
+            "hypothesize",
+            "surmise",
+            "guess"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "know",
+            "ascertain",
+            "confirm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"speculate (in [sth])",
+      "POS":"v.intr",
+      "POS_TIP":"Intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "Finance",
+        "Business",
+        "Risk"
+      ],
+      "DEF_EN":"Invest in stocks, property, or other ventures in the hope of making a large profit but with the risk of significant loss.",
+      "DEF_ZH":"投机；进行风险性投资（尤指在股票、房产等方面）。",
+      "SENT_EN":"He made his fortune by speculating aggressively in foreign currencies.",
+      "SENT_ZH":"他通过积极地投机外币发了财。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gamble",
+            "venture",
+            "risk"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "speculation",
+            "speculator",
+            "futures"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and general usage"
+}

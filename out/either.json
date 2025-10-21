@@ -1,0 +1,75 @@
+{
+  "WORD":"either",
+  "IPA":"/ˈaɪðər/, /ˈiːðər/",
+  "CONJUGATES":"N/A",
+  "ETYMOLOGY":"From Old English æġhwæþer, compounded from ā 'ever' + ġehwæþer 'each of two' (from ġe- collective prefix + hwæþer 'which of two').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"either ... or ...",
+      "POS":"conjunction",
+      "POS_TIP":"A word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used before two or more alternatives to show that only one of them is possible.",
+      "DEF_ZH":"用于两个或多个选择之前，表示只能选择其中之一。",
+      "SENT_EN":"You can either call me or send me an email.",
+      "SENT_ZH":"你可以给我打电话或者发邮件。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[either] [noun]",
+      "POS":"determiner",
+      "POS_TIP":"A modifying word that determines the kind of reference a noun or noun group has.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"One or the other of two people or things.",
+      "DEF_ZH":"两者中的任何一个。",
+      "SENT_EN":"There are two doors, and either door leads to the garden.",
+      "SENT_ZH":"有两扇门，任何一扇门都通向花园。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"either [of] [the two] [nouns]",
+      "POS":"pronoun",
+      "POS_TIP":"A word that can function as a noun phrase referring to someone or something previously mentioned or known.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"One or the other of two things or people.",
+      "DEF_ZH":"（两者中）的任何一个；其中之一。",
+      "SENT_EN":"You can choose either of these books.",
+      "SENT_ZH":"这两本书你可以任选一本。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[negative statement], either",
+      "POS":"adverb",
+      "POS_TIP":"A word or phrase that modifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used after a negative statement to indicate that the statement also applies to something else.",
+      "DEF_ZH":"（用于否定句后）也；同样。",
+      "SENT_EN":"If you don't go, I won't go either.",
+      "SENT_ZH":"如果你不去，我也不去。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "too",
+            "also",
+            "as well"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and informal speech and writing."
+}

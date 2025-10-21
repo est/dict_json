@@ -1,0 +1,94 @@
+{
+  "WORD":"dividend",
+  "IPA":"/ˈdɪvɪdɛnd/",
+  "CONJUGATES":"dividends",
+  "ETYMOLOGY":"From Latin dividendum, gerundive of dividere ('to divide'), meaning 'that which is to be divided'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a dividend",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "finance",
+        "economics"
+      ],
+      "DEF_EN":"A sum of money paid regularly (typically annually) by a company to its shareholders out of its profits or reserves.",
+      "DEF_ZH":"公司从利润中定期（通常每年）支付给股东的一笔钱。",
+      "SENT_EN":"The company announced a higher dividend per share this quarter.",
+      "SENT_ZH":"公司宣布本季度每股派发更高的股息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "payout",
+            "distribution",
+            "share"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "stock",
+            "shareholder",
+            "profit",
+            "earnings",
+            "yield"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the dividend",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics"
+      ],
+      "DEF_EN":"A number to be divided by another number (the divisor).",
+      "DEF_ZH":"在除法运算中，被另一个数（除数）所除的数。",
+      "SENT_EN":"In the equation 20 ÷ 4 = 5, 20 is the dividend.",
+      "SENT_ZH":"在算式 20 ÷ 4 = 5 中，20 是被除数。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "divisor",
+            "quotient",
+            "remainder"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a dividend (of something)",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "less common",
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"A benefit or advantage, especially one that is unexpected or not directly sought after.",
+      "DEF_ZH":"一种益处或优势，尤指意想不到的或并非直接寻求的。",
+      "SENT_EN":"Investing in education often pays a long-term dividend for society.",
+      "SENT_ZH":"投资教育往往会给社会带来长期的红利。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "benefit",
+            "advantage",
+            "bonus",
+            "reward"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Financial, Mathematical"
+}

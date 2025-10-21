@@ -1,0 +1,91 @@
+{
+  "WORD":"parachute",
+  "IPA":"/ˈpærəʃuːt/",
+  "CONJUGATES":"parachutes | parachuting | parachuted",
+  "ETYMOLOGY":"Coined in French in 1785 by aeronaut François Blanchard, combining Greek para- ('against, counter-') and French chute ('a fall', ultimately from Latin cadere 'to fall'). Literally meaning 'that which guards against a fall'.",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] parachute",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "equipment"
+      ],
+      "DEF_EN":"A device consisting of a large canopy that opens in the air to slow the descent of a person or object falling from a great height.",
+      "DEF_ZH":"一种由大型织物伞盖组成的装置，用于在空中打开以减缓从高处坠落的人或物体的下降速度；降落伞。",
+      "SENT_EN":"He checked his parachute harness before jumping out of the plane.",
+      "SENT_ZH":"他在跳出飞机前检查了他的降落伞背带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chute",
+            "canopy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "paratrooper",
+            "skydiving"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"parachute [down] [from sth]",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To descend or drop from an aircraft using a parachute.",
+      "DEF_ZH":"使用降落伞从飞机上降落或空投。",
+      "SENT_EN":"Supplies were parachuted to the troops stranded behind enemy lines.",
+      "SENT_ZH":"补给品被空投给了滞留在敌后地区的部队。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "airdrop",
+            "jump",
+            "descend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"parachute [sb] [into a position]",
+      "POS":"v tr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "business",
+        "informal"
+      ],
+      "DEF_EN":"To introduce or appoint someone suddenly or externally into a difficult or sensitive position without going through the usual selection process.",
+      "DEF_ZH":"（比喻）空降；未经正常程序将某人调任或安置到某一职位，通常指高层人士的调动。",
+      "SENT_EN":"The board decided to parachute a consultant into the failing division.",
+      "SENT_ZH":"董事会决定空降一位顾问来接管这个亏损的部门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "install",
+            "impose"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "golden parachute"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

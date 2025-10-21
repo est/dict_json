@@ -1,0 +1,92 @@
+{
+  "WORD":"fleece",
+  "IPA":"/fliːs/",
+  "CONJUGATES":"fleeces | fleecing | fleeced",
+  "ETYMOLOGY":"From Middle English flees, from Old English flēos, flīes 'fleece, wool', of West Germanic origin; related to Dutch vlies and German Vlies. The verb sense 'to swindle' emerged in the mid-17th century, probably from the idea of stripping someone of their possessions, analogous to stripping a sheep of its wool.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"fleece",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The woolly coat of a sheep or similar animal.",
+      "DEF_ZH":"绵羊或其他动物身上的羊毛。",
+      "SENT_EN":"The farmer sheared the sheep's thick fleece.",
+      "SENT_ZH":"农夫剪下了绵羊厚厚的羊毛。"
+    },
+    {
+      "PATTERN":"fleece",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "material"
+      ],
+      "DEF_EN":"A soft, warm fabric with a deep pile, often made from polyester, used for clothing and blankets.",
+      "DEF_ZH":"一种柔软、温暖、绒毛深厚的织物，常由涤纶制成，用于制作衣物和毯子。",
+      "SENT_EN":"She bought a warm fleece jacket for winter.",
+      "SENT_ZH":"她买了一件暖和的抓绒夹克过冬。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "polyester",
+            "fabric"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fleece [sb]",
+      "POS":"vt",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "common",
+        "informal",
+        "derogatory"
+      ],
+      "DEF_EN":"To obtain a large amount of money or property from someone by trickery or fraud.",
+      "DEF_ZH":"通过欺骗或诈骗从某人那里骗取大量金钱或财产。",
+      "SENT_EN":"The travel agency fleeced the tourists with hidden charges.",
+      "SENT_ZH":"这家旅行社通过隐形收费欺诈游客。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "swindle",
+            "defraud",
+            "cheat",
+            "scam",
+            "gouge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fleece [an animal]",
+      "POS":"vt",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "less common",
+        "agriculture"
+      ],
+      "DEF_EN":"To remove the fleece from a sheep or similar animal; to shear.",
+      "DEF_ZH":"剪下绵羊或其他动物身上的毛；剪羊毛。",
+      "SENT_EN":"It's time to fleece the sheep before the summer heat.",
+      "SENT_ZH":"夏天来临之前，是时候给羊剪毛了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shear"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

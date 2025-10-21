@@ -1,0 +1,144 @@
+{
+  "WORD":"spike",
+  "IPA":"/spaɪk/",
+  "CONJUGATES":"spikes | spiking | spiked",
+  "ETYMOLOGY":"From Middle English spīk (noun), related to Old Norse spíkr (splinter) and Latin spīca (ear of grain, point). The verb developed from the noun.",
+  "SINCE":"c. 1300s",
+  "MEANINGS":[
+    {
+      "PATTERN":"a spike",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical object"
+      ],
+      "DEF_EN":"A thin, sharp point or a long, heavy metal nail, especially one used to fasten timber or secure objects.",
+      "DEF_ZH":"长而尖的物体或长而重的大钉子，尤其指用于固定木材或作为障碍物。",
+      "SENT_EN":"The fence was topped with dangerous metal spikes to deter trespassers.",
+      "SENT_ZH":"栅栏顶部装有危险的金属尖刺，以阻止擅自闯入者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "point",
+            "prong",
+            "nail",
+            "stud"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sprocket",
+            "spear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a spike [in sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "economics",
+        "data"
+      ],
+      "DEF_EN":"A sudden, sharp increase in magnitude, volume, or price.",
+      "DEF_ZH":"数量、价格或强度上的突然的、急剧的增长或升高。",
+      "SENT_EN":"The recent news caused a massive spike in the company's stock value.",
+      "SENT_ZH":"最近的新闻导致该公司股票价值大幅飙升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surge",
+            "rise",
+            "uptick",
+            "climb"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "drop",
+            "plunge",
+            "decline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spike",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "finance",
+        "data"
+      ],
+      "DEF_EN":"To experience a sudden, sharp increase.",
+      "DEF_ZH":"急剧上升；猛增。",
+      "SENT_EN":"Gasoline prices are expected to spike over the holiday weekend.",
+      "SENT_ZH":"预计汽油价格将在假日周末期间猛增。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "soar",
+            "surge",
+            "rocket"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spike [sth] [with sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "informal",
+        "slang",
+        "euphemism"
+      ],
+      "DEF_EN":"To secretly add alcohol or a drug to a drink or food.",
+      "DEF_ZH":"在（饮料或食物）中偷偷加入酒精或毒品（尤指为了使人醉倒或昏迷）。",
+      "SENT_EN":"She worried someone might try to spike her coffee with liquor.",
+      "SENT_ZH":"她担心有人会试图在她的咖啡中偷偷加入酒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adulterate",
+            "taint",
+            "dope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spike [the ball]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "sports",
+        "volleyball"
+      ],
+      "DEF_EN":"In volleyball, to hit (the ball) forcibly downwards over the net.",
+      "DEF_ZH":"（排球运动中）扣球，猛烈地将球击下。",
+      "SENT_EN":"He jumped high to spike the ball and score the final point.",
+      "SENT_ZH":"他高高跳起将球扣下，赢得了最后一分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "smash",
+            "slam"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General language, technical (data analysis, finance), and sports."
+}

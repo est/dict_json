@@ -1,0 +1,98 @@
+{
+  "WORD":"correspond",
+  "IPA":"/ˌkɔːrɪˈspɒnd/",
+  "CONJUGATES":"corresponds | corresponded | corresponding",
+  "ETYMOLOGY":"From Middle French correspondre, from Late Latin corrēspondēre, formed by prefixing com- ('together, with') to respondēre ('to answer, respond').",
+  "SINCE":"c. 1620s",
+  "MEANINGS":[
+    {
+      "PATTERN":"corresponding [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (derived from present participle)",
+      "TAGS":[
+        "common",
+        "core word",
+        "descriptive"
+      ],
+      "DEF_EN":"Similar or analogous in position, structure, or function; being the equivalent or match.",
+      "DEF_ZH":"相应的; 对应的; 一致的; 相当的。",
+      "SENT_EN":"We need to analyze the data and the corresponding results.",
+      "SENT_ZH":"我们需要分析数据和相应的研究结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equivalent",
+            "analogous",
+            "commensurate",
+            "proportional"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unrelated",
+            "discrepant",
+            "disproportionate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"correspond [to/with] [sth]",
+      "POS":"vint",
+      "POS_TIP":"Verb, intransitive",
+      "TAGS":[
+        "common",
+        "core word"
+      ],
+      "DEF_EN":"To be in agreement, harmony, or conformity; to match or be equivalent.",
+      "DEF_ZH":"相符; 一致; 协调; 对应。",
+      "SENT_EN":"The fingerprints found at the scene correspond exactly to the suspect's.",
+      "SENT_ZH":"在现场发现的指纹与嫌疑犯的指纹完全吻合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "match",
+            "agree",
+            "tally",
+            "coincide"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "differ",
+            "clash",
+            "disagree"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"correspond [with] [sb]",
+      "POS":"vint",
+      "POS_TIP":"Verb, intransitive",
+      "TAGS":[
+        "formal",
+        "dated"
+      ],
+      "DEF_EN":"To communicate with someone by exchanging letters or emails.",
+      "DEF_ZH":"通信; 互通书信或邮件。",
+      "SENT_EN":"They corresponded for many years before finally meeting in person.",
+      "SENT_ZH":"他们通信多年后才最终见面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "write",
+            "communicate",
+            "exchange letters"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Formal"
+}

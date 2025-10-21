@@ -1,0 +1,84 @@
+{
+  "WORD":"accompany",
+  "IPA":"/əˈkʌmpəni/",
+  "CONJUGATES":"accompanies | accompanying | accompanied",
+  "ETYMOLOGY":"From Old French accompagner, from a- (ad-) + compaignie (company, fellowship), ultimately from Vulgar Latin *companio (one who shares bread).",
+  "SINCE":"Mid 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"accompany [sb] / accompany [sb] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To go somewhere with someone as a companion, escort, or helper.",
+      "DEF_ZH":"陪伴；陪同；伴随（某人）前往。",
+      "SENT_EN":"The CEO asked his personal assistant to accompany him on the business trip.",
+      "SENT_ZH":"首席执行官要求他的私人助理陪同他进行商务旅行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "escort",
+            "chaperone",
+            "attend"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "accompaniment",
+            "accompanist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accompany [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"To happen or exist at the same time as something else, or to be supplied with something else.",
+      "DEF_ZH":"伴随发生；随同…而来；附带。",
+      "SENT_EN":"The instructions that accompany the software are very helpful.",
+      "SENT_ZH":"随软件附带的说明书非常有用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concur",
+            "coincide",
+            "go with"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"accompany [sb/sth] (on [instrument])",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "music"
+      ],
+      "DEF_EN":"To play a musical part that supports the main singer or instrumentalist.",
+      "DEF_ZH":"为（某人/某乐器）伴奏或伴唱。",
+      "SENT_EN":"She accompanied the choir on the piano.",
+      "SENT_ZH":"她用钢琴为唱诗班伴奏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provide backing",
+            "support"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English"
+}

@@ -1,0 +1,124 @@
+{
+  "WORD":"that",
+  "IPA":"/ðæt/",
+  "CONJUGATES":"plural: those (when used as a demonstrative pronoun/adjective)",
+  "ETYMOLOGY":"From Old English ðæt, neuter singular of the demonstrative pronoun/adjective; related to ðes ‘this’, German dass, Dutch dat, and Latin is, iste.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"that [sth/sb]",
+      "POS":"demonstrative pronoun",
+      "POS_TIP":"A pronoun that points to a specific person, place, or thing, especially one further away or previously mentioned. It can function as the subject or object of a sentence.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to refer to a specific thing or person previously mentioned, known, or implied, especially one more distant in space or time, or to introduce a clause.",
+      "DEF_ZH":"用于指代之前提到、已知或暗示的特定事物或人，尤其是在空间或时间上较远的，或用于引导一个从句。",
+      "SENT_EN":"What is that in your hand?",
+      "SENT_ZH":"你手里拿的是什么？",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "this"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"that [noun]",
+      "POS":"demonstrative adjective",
+      "POS_TIP":"An adjective that points to a specific noun, indicating whether it is near or far, or previously mentioned.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used with a noun to refer to a specific thing or person previously mentioned, known, or implied, especially one more distant in space or time.",
+      "DEF_ZH":"与名词一起使用，指代之前提到、已知或暗示的特定事物或人，尤其是在空间或时间上较远的。",
+      "SENT_EN":"Do you remember that day we first met?",
+      "SENT_ZH":"你还记得我们第一次见面的那天吗？",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "this"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[noun] that [clause]",
+      "POS":"relative pronoun",
+      "POS_TIP":"A pronoun that introduces a relative clause, referring back to a noun or pronoun that precedes it.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used instead of 'which', 'who', or 'whom' to introduce a defining relative clause.",
+      "DEF_ZH":"用于替代 'which'、'who' 或 'whom'，引导限定性关系从句。",
+      "SENT_EN":"This is the book that I was telling you about.",
+      "SENT_ZH":"这就是我跟你说的那本书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "which",
+            "who"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb] that [clause]",
+      "POS":"subordinating conjunction",
+      "POS_TIP":"A conjunction that connects a dependent clause to an independent clause, introducing a subordinate clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to introduce a subordinate clause stating a fact, reason, result, or purpose.",
+      "DEF_ZH":"用于引导一个从句，说明事实、原因、结果或目的。",
+      "SENT_EN":"I know that you can do it.",
+      "SENT_ZH":"我知道你能做到。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"not that [adjective/adverb]",
+      "POS":"adverb",
+      "POS_TIP":"A word that modifies a verb, adjective, or other adverb, indicating degree or extent.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To such an extent; so (especially in informal speech, often followed by 'not').",
+      "DEF_ZH":"达到如此程度；如此（尤其在非正式口语中，常与 'not' 连用）。",
+      "SENT_EN":"It wasn't that difficult, actually.",
+      "SENT_ZH":"实际上，它没那么难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "so",
+            "such"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"That's it!",
+      "POS":"interjection",
+      "POS_TIP":"A word or phrase that expresses an emotion or strong feeling, often used as an exclamation.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to express exasperation, completion, or identification.",
+      "DEF_ZH":"用于表达恼怒、完成或确认。",
+      "SENT_EN":"That's it! I've had enough of your excuses.",
+      "SENT_ZH":"够了！我受够了你的借口。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"common, everyday language across all contexts, including formal and informal speech and writing."
+}

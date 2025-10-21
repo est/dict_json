@@ -1,0 +1,80 @@
+{
+  "WORD":"slander",
+  "IPA":"/ˈslæn.dər/",
+  "CONJUGATES":"slanders | slandered | slandering",
+  "ETYMOLOGY":"From Old French 'esclandre' (scandal, disgrace), from Latin 'scandalum' (a cause of offense, stumbling block), from Greek 'skandalon'.",
+  "SINCE":"Late Middle English (13th-14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] about [sb]",
+      "POS":"noun",
+      "POS_TIP":"a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A false and malicious spoken statement about someone that is intended to damage their reputation.",
+      "DEF_ZH":"诽谤（关于某人的虚假恶意的口头陈述，旨在损害其声誉）。",
+      "SENT_EN":"He sued the journalist for slander after the damaging remarks were broadcast.",
+      "SENT_ZH":"在具有破坏性的言论被广播后，他以诽谤罪起诉了该记者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defamation",
+            "calumny",
+            "vilification"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        },
+        {
+          "T":"related",
+          "V":[
+            "libel",
+            "defame"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slander [sb]",
+      "POS":"vtr",
+      "POS_TIP":"a transitive verb, an action verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"To make false and damaging spoken statements about someone.",
+      "DEF_ZH":"诽谤（对某人进行虚假恶意的口头陈述，损害其声誉）。",
+      "SENT_EN":"She accused her opponent of trying to slander her name during the election campaign.",
+      "SENT_ZH":"她指责她的对手在竞选活动中试图诽谤她的名誉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "defame",
+            "malign",
+            "vilify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        },
+        {
+          "T":"related",
+          "V":[
+            "libel",
+            "calumniate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or legal context, often distinguishing from 'libel' (which is written)."
+}

@@ -1,0 +1,79 @@
+{
+  "WORD":"who",
+  "IPA":"/huː/",
+  "CONJUGATES":"who | whom | whose",
+  "ETYMOLOGY":"From Old English hwā (interrogative pronoun for people, also referring to things), from Proto-Germanic *hwaz, from Proto-Indo-European *kʷos 'who, what'.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"who [verb]",
+      "POS":"interrogative pronoun",
+      "POS_TIP":"An interrogative pronoun is a pronoun used to ask questions, referring to a person or people as the subject of a verb.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to ask about the identity of a person or people, serving as the subject of a clause.",
+      "DEF_ZH":"用于询问人或人们的身份，在句中充当主语。",
+      "SENT_EN":"Who left the door open?",
+      "SENT_ZH":"是谁把门开着的？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "what",
+            "which",
+            "whom",
+            "whose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[noun] who [verb]",
+      "POS":"relative pronoun",
+      "POS_TIP":"A relative pronoun introduces a relative clause, which describes a noun or pronoun that precedes it. It refers to a person or people as the subject of the clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to introduce a clause that provides more information about a person or people previously mentioned, serving as the subject of the relative clause.",
+      "DEF_ZH":"用于引导一个从句，提供关于先前提到的人或人们的更多信息，在从句中充当主语。",
+      "SENT_EN":"She is the student who won the scholarship.",
+      "SENT_ZH":"她就是赢得奖学金的那名学生。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "that",
+            "which",
+            "whom",
+            "whose"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[verb/preposition] who (informal)",
+      "POS":"interrogative pronoun",
+      "POS_TIP":"An interrogative pronoun used to ask questions, referring to a person or people as the object of a verb or preposition in informal contexts.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"Informally used instead of 'whom' when asking about the object of a verb or preposition.",
+      "DEF_ZH":"非正式地代替 'whom'，用于询问动词或介词的宾语。",
+      "SENT_EN":"Who are you going with to the concert?",
+      "SENT_ZH":"你将和谁一起去听音乐会？",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "whom"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

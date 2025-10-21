@@ -1,0 +1,76 @@
+{
+  "WORD":"locomotive",
+  "IPA":"/ˌloʊkəˈmoʊtɪv/",
+  "CONJUGATES":"locomotives",
+  "ETYMOLOGY":"From Latin *loco* (ablative of *locus* 'place') + Medieval Latin *motivus* 'moving', from Latin *movere* 'to move'. Originally an adjective 'moving from place to place', first applied to engines in the early 19th century.",
+  "SINCE":"Early 19th century (as noun); Early 17th century (as adjective)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] locomotive",
+      "POS":"noun",
+      "POS_TIP":"A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).",
+      "TAGS":[
+        "core word",
+        "common",
+        "transportation",
+        "railway"
+      ],
+      "DEF_EN":"A self-propelled railway vehicle used for pulling trains.",
+      "DEF_ZH":"用于牵引列车的自行式铁路车辆。",
+      "SENT_EN":"The powerful diesel locomotive pulled the long train up the steep incline.",
+      "SENT_ZH":"那辆强劲的内燃机车将长长的列车拉上了陡峭的斜坡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "engine",
+            "train engine",
+            "railway engine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "train",
+            "railcar",
+            "carriage",
+            "tender"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"locomotive [power/ability]",
+      "POS":"adjective",
+      "POS_TIP":"A word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "less common",
+        "technical",
+        "formal"
+      ],
+      "DEF_EN":"Relating to or capable of movement; moving from place to place.",
+      "DEF_ZH":"有关运动的；能移动的；移动的。",
+      "SENT_EN":"The animal's strong legs provided excellent locomotive power, allowing it to cover great distances.",
+      "SENT_ZH":"这只动物强壮的腿提供了卓越的移动能力，使其能够长途跋涉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "motile",
+            "mobile",
+            "moving",
+            "propulsive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "immobile",
+            "stationary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English (noun); Formal or technical (adjective)"
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"commonwealth",
+  "IPA":"/ˌkɑːmənwelθ/",
+  "CONJUGATES":"commonwealths",
+  "ETYMOLOGY":"From Middle English *comōnwele*, meaning 'the common weal' (well-being or welfare), combining *common* and *weal* (noun). First attested as a political entity name following the English Civil War.",
+  "SINCE":"Mid-15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] commonwealth | [the] commonwealth",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "political science",
+        "historical"
+      ],
+      "DEF_EN":"A nation, state, or political unit founded on law and united by compact or mutual agreement, especially a republic or democratic state where the people hold the power.",
+      "DEF_ZH":"共和国；政治实体；以人民的共同福利为基础的政治组织或国家。",
+      "SENT_EN":"The philosophers debated the virtues of a monarchy versus a true commonwealth.",
+      "SENT_ZH":"哲学家们在争论君主制与真正的共和国的优点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "republic",
+            "body politic",
+            "state",
+            "nation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "weal",
+            "democracy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The Commonwealth",
+      "POS":"proper noun",
+      "POS_TIP":"Proper Noun",
+      "TAGS":[
+        "international relations",
+        "specific organization"
+      ],
+      "DEF_EN":"An intergovernmental organization of 56 member states that were mostly former territories of the British Empire (often referred to as the Commonwealth of Nations).",
+      "DEF_ZH":"（特指）英联邦（由英国及其大部分前殖民地组成的国际组织）。",
+      "SENT_EN":"Many island nations remain active members of the Commonwealth.",
+      "SENT_ZH":"许多岛国仍是英联邦的活跃成员。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "colony",
+            "dominion",
+            "British Empire"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Commonwealth of [State Name]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "US politics",
+        "regional"
+      ],
+      "DEF_EN":"The official designation used by four US states (Kentucky, Massachusetts, Pennsylvania, and Virginia) and certain US territories (like Puerto Rico), emphasizing popular sovereignty.",
+      "DEF_ZH":"（美国）某些州或领地的官方名称（如：宾夕法尼亚州、波多黎各），强调政府基于人民的共同同意。",
+      "SENT_EN":"She currently works for the Department of Transportation in the Commonwealth of Virginia.",
+      "SENT_ZH":"她目前在弗吉尼亚州交通部工作。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "state",
+            "territory",
+            "jurisdiction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Political, Formal, Historical"
+}

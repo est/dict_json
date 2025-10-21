@@ -1,0 +1,65 @@
+{
+  "WORD":"revenge",
+  "IPA":"/rɪˈvɛndʒ/",
+  "CONJUGATES":"revenge (noun, nu | nc) | revenges (noun, plural, rare) | revenge (verb) | revenges | revenging | revenged",
+  "ETYMOLOGY":"From Old French revenger, derived from re- and venger 'to avenge, punish,' ultimately from Latin vindicare 'to claim, avenge.'",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"revenge [on sb] [for sth] | seek revenge",
+      "POS":"nu | nc",
+      "POS_TIP":"Noun, uncountable (nu) or countable (nc)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action of inflicting hurt or harm on someone for an injury or wrong suffered at their hands.",
+      "DEF_ZH":"报复；复仇；为所受的伤害或错误而惩罚他人的行为。",
+      "SENT_EN":"After the defeat, the team was eager to exact revenge in the next match.",
+      "SENT_ZH":"失败之后，该队渴望在下一场比赛中报仇雪耻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vengeance",
+            "retaliation",
+            "payback",
+            "reprisal"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "forgiveness",
+            "mercy",
+            "pardon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"revenge [sb] | revenge [oneself] [on sb]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"Transitive verb (vtr) | Intransitive verb (vintr)",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To inflict punishment in return for (a wrong suffered by oneself or others); to avenge.",
+      "DEF_ZH":"为...报仇；替...复仇（多指为自己或他人受到的伤害）。",
+      "SENT_EN":"She vowed to revenge her father's betrayal by exposing the company's secrets.",
+      "SENT_ZH":"她发誓要通过揭露公司的秘密来报复她父亲的背叛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "avenge",
+            "retaliate",
+            "requite"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, often dramatic or legalistic when used as a verb."
+}

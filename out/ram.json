@@ -1,0 +1,111 @@
+{
+  "WORD":"ram",
+  "IPA":"/ræm/",
+  "CONJUGATES":"rams | rammed | ramming",
+  "ETYMOLOGY":"From Old English ramm 'male sheep', deriving from a Proto-Germanic root. The verb sense of 'striking forcefully' comes from the behavior of the animal.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"a ram",
+      "POS":"n.",
+      "POS_TIP":"A word that identifies a person, place, or thing.",
+      "TAGS":[
+        "core word",
+        "animal"
+      ],
+      "DEF_EN":"An uncastrated male sheep.",
+      "DEF_ZH":"未阉割的公羊。",
+      "SENT_EN":"The farmer chose the largest ram for breeding.",
+      "SENT_ZH":"农民选择了体型最大的公羊进行繁殖。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sheep",
+            "ewe",
+            "lamb",
+            "tup"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ram [sth] against/into [sth]",
+      "POS":"vtr. + prep.",
+      "POS_TIP":"A verb that takes a direct object followed by a preposition.",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To forcefully strike, drive, or push something hard into a position or against another object.",
+      "DEF_ZH":"猛烈撞击；强行塞入；用尽力气推。",
+      "SENT_EN":"The police had to ram the door open during the raid.",
+      "SENT_ZH":"突袭期间，警察不得不强行撞开门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "force",
+            "cram",
+            "wedge",
+            "jam"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "collide",
+            "butt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a ram",
+      "POS":"n.",
+      "POS_TIP":"A word that identifies a person, place, or thing.",
+      "TAGS":[
+        "tool",
+        "machinery"
+      ],
+      "DEF_EN":"A heavy object used for battering or forcing, especially the piston or plunger used in hydraulic machinery.",
+      "DEF_ZH":"撞锤；活塞；液压机械中的压力头。",
+      "SENT_EN":"The hydraulic ram lifted the massive steel plate.",
+      "SENT_ZH":"液压撞锤举起了巨大的钢板。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "piston",
+            "plunger",
+            "battering ram"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"RAM",
+      "POS":"n.",
+      "POS_TIP":"A word that identifies a person, place, or thing.",
+      "TAGS":[
+        "computing",
+        "acronym"
+      ],
+      "DEF_EN":"(Often capitalized RAM) Random Access Memory, volatile data storage used by a computer for current processes.",
+      "DEF_ZH":"（常大写 RAM）随机存取存储器；计算机内存。",
+      "SENT_EN":"Adding more RAM will significantly speed up the laptop.",
+      "SENT_ZH":"增加内存（RAM）将显著加快笔记本电脑的速度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ROM",
+            "memory",
+            "processor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Common"
+}

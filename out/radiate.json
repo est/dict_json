@@ -1,0 +1,87 @@
+{
+  "WORD":"radiate",
+  "IPA":"/ˈreɪ.di.eɪt/",
+  "CONJUGATES":"radiates | radiating | radiated",
+  "ETYMOLOGY":"From Latin radiāre ('to beam, shine, emit rays'), derived from radius ('ray, spoke, rod').",
+  "SINCE":"mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"radiate [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"verb transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "physics",
+        "formal"
+      ],
+      "DEF_EN":"To emit energy, especially heat, light, or other electromagnetic waves, from a central source.",
+      "DEF_ZH":"发射；辐射；散发（热、光、电磁波等）。",
+      "SENT_EN":"The metal plate began to radiate heat after being exposed to the intense light.",
+      "SENT_ZH":"金属板暴露在强光下后开始散发热量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emit",
+            "send out",
+            "diffuse"
+          ]
+        },
+        {
+          "T":"derivative",
+          "V":[
+            "radiation",
+            "radiator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"radiate [sth] | radiate (with sth)",
+      "POS":"vtr | vintr",
+      "POS_TIP":"verb transitive or intransitive",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To express or spread a strong emotion, quality, or atmosphere through one's appearance or demeanor.",
+      "DEF_ZH":"流露；散发出（情感、品质或气氛）。",
+      "SENT_EN":"Despite the tough circumstances, she radiated optimism.",
+      "SENT_ZH":"尽管处境艰难，她仍散发着乐观。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exude",
+            "emanate",
+            "display"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"radiate (from sth)",
+      "POS":"vintr",
+      "POS_TIP":"verb intransitive",
+      "TAGS":[
+        "general usage",
+        "spatial"
+      ],
+      "DEF_EN":"To spread out or extend in lines or rays from a central point.",
+      "DEF_ZH":"呈放射状延伸；从中心点向外扩散。",
+      "SENT_EN":"The tracks radiate outwards from the main railway station.",
+      "SENT_ZH":"铁轨从主火车站向外呈放射状延伸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "branch out",
+            "fan out",
+            "diverge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal to common usage, depending on the context (scientific vs. emotional)"
+}

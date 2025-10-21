@@ -1,0 +1,64 @@
+{
+  "WORD":"keyhole",
+  "IPA":"/ˈkiːhoʊl/",
+  "CONJUGATES":"keyholes",
+  "ETYMOLOGY":"From Old English 'cæg' (key) and Old English 'hol' (hole). A compound word formed from these elements.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"keyhole",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A hole in a lock into which a key is inserted to operate the mechanism.",
+      "DEF_ZH":"锁上的孔，钥匙通过它插入以操作锁具。",
+      "SENT_EN":"She peeked through the keyhole to see who was on the other side.",
+      "SENT_ZH":"她透过钥匙孔往里窥视，看谁在另一边。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "lock",
+            "key",
+            "door",
+            "peephole"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"keyhole [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "figurative",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or performed through a very small opening, often implying a limited view or a minimally invasive procedure.",
+      "DEF_ZH":"指通过非常小的开口进行或与之相关的，常暗示视角受限或微创手术。",
+      "SENT_EN":"Keyhole surgery allows doctors to perform operations with minimal incisions.",
+      "SENT_ZH":"锁孔手术（微创手术）使医生能够以最小的切口进行手术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "minimally invasive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "endoscopy",
+            "laparoscopy",
+            "restricted view"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English, some technical use in medicine"
+}

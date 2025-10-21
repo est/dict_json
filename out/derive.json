@@ -1,0 +1,88 @@
+{
+  "WORD":"derive",
+  "IPA":"/dɪˈraɪv/",
+  "CONJUGATES":"derives | derived | deriving",
+  "ETYMOLOGY":"From Old French deriver, from Latin dērīvāre ('to flow down, draw off'), from de- ('from') + rīvus ('stream, source').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"derive [sth] from [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Formal"
+      ],
+      "DEF_EN":"To obtain something from a specified source or origin; to trace the origin or descent of.",
+      "DEF_ZH":"从...中获得，取得；起源于，追溯。",
+      "SENT_EN":"Many people derive comfort from routine activities.",
+      "SENT_ZH":"许多人从日常活动中获得慰藉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obtain",
+            "acquire",
+            "extract",
+            "draw"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "bestow",
+            "contribute"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"derive [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Mathematics",
+        "Logic",
+        "Technical"
+      ],
+      "DEF_EN":"To reach a conclusion, theorem, or equation by reasoning or logical deduction.",
+      "DEF_ZH":"（数学/逻辑）推导；得出（结论或公式）。",
+      "SENT_EN":"He managed to derive the complex formula using basic calculus.",
+      "SENT_ZH":"他设法用基础微积分推导出了这个复杂的公式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deduce",
+            "infer",
+            "calculate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"derive [sth] from [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Linguistics",
+        "Technical"
+      ],
+      "DEF_EN":"To form a word from another word or root, or a chemical compound from a parent substance.",
+      "DEF_ZH":"（语言学/化学）派生，衍生。",
+      "SENT_EN":"The noun 'arrival' is derived from the verb 'arrive.'",
+      "SENT_ZH":"名词 'arrival'（到达）是派生自动词 'arrive'（到达）。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "derivative",
+            "etymology",
+            "root"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal/Academic"
+}

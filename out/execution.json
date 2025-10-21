@@ -1,0 +1,137 @@
+{
+  "WORD":"execution",
+  "IPA":"/ˌɛksɪˈkjuːʃən/",
+  "CONJUGATES":"executions",
+  "ETYMOLOGY":"From Late Middle English, via Old French *execucion*, derived from Latin *executio* (stem *executionis*), from *executus*, past participle of *exsequi* ('to follow out, perform').",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"execution [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"The act or process of carrying out, performing, or completing a plan, order, duty, or course of action.",
+      "DEF_ZH":"执行；实施；完成（计划、命令、职责等）",
+      "SENT_EN":"The successful execution of the marketing strategy led to record sales.",
+      "SENT_ZH":"营销策略的成功执行带来了创纪录的销量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "implementation",
+            "performance",
+            "completion",
+            "enactment"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "neglect",
+            "failure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"execution [of a person]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "legal",
+        "serious"
+      ],
+      "DEF_EN":"The legal act of putting a convicted person to death; capital punishment.",
+      "DEF_ZH":"处决；死刑的执行",
+      "SENT_EN":"The court ordered the execution of the convicted murderer.",
+      "SENT_ZH":"法庭命令对这名被定罪的杀人犯执行死刑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "capital punishment",
+            "killing",
+            "beheading"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"execution [of a movement/skill]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "professional",
+        "arts",
+        "sports"
+      ],
+      "DEF_EN":"The manner or quality of carrying out a skilled action or movement, especially in the arts or sports.",
+      "DEF_ZH":"技艺；（动作、技巧的）方式和效果；表演水平",
+      "SENT_EN":"The gymnast received high scores for the flawless execution of her routine.",
+      "SENT_ZH":"这位体操运动员因其完美无瑕的动作执行而获得了高分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "technique",
+            "delivery",
+            "style",
+            "skill"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"execution [of a contract/will]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"The formal act of signing, witnessing, and fulfilling all necessary legal formalities to make a document (such as a contract, will, or deed) valid and effective.",
+      "DEF_ZH":"（契约、遗嘱等的）签署生效；法律文件的正式完成",
+      "SENT_EN":"The execution of the purchase agreement took place at the solicitor's office.",
+      "SENT_ZH":"采购协议的签署生效在律师事务所进行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "validation",
+            "signing",
+            "authentication"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"program execution",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"The process by which a computer system or device runs instructions and performs the steps defined by a computer program.",
+      "DEF_ZH":"（计算机程序或指令的）执行；运行",
+      "SENT_EN":"Errors during code execution caused the system to crash.",
+      "SENT_ZH":"代码执行期间的错误导致系统崩溃。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "runtime",
+            "process"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Technical, and General usage."
+}

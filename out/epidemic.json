@@ -1,0 +1,87 @@
+{
+  "WORD":"epidemic",
+  "IPA":"/ˌɛpɪˈdɛmɪk/",
+  "CONJUGATES":"Plural: epidemics | Adverb: epidemically",
+  "ETYMOLOGY":"From French épidémique, from Greek epidēmia (epi- 'upon, among' + dēmos 'people'), originally meaning 'visiting a people' (of a disease).",
+  "SINCE":"Late 16th century (circa 1599)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] epidemic [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A widespread occurrence of an infectious disease in a community at a particular time, exceeding normal expectancy.",
+      "DEF_ZH":"流行病；（疾病的）大规模爆发。指在特定时间内，某疾病在某一社区中爆发，数量超出预期。",
+      "SENT_EN":"The health authorities tried to contain the cholera epidemic before it spread further.",
+      "SENT_ZH":"卫生部门试图在霍乱疫情进一步蔓延之前将其控制住。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outbreak",
+            "plague",
+            "contagion"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "endemic",
+            "pandemic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] epidemic [of sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "figurative",
+        "extended meaning"
+      ],
+      "DEF_EN":"A rapid and widespread growth or development of something undesirable, usually non-medical.",
+      "DEF_ZH":"泛滥；某种不良事物的快速传播或激增。",
+      "SENT_EN":"The region is suffering from an epidemic of poorly constructed housing.",
+      "SENT_ZH":"该地区正遭受粗制滥造住房泛滥的困扰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surge",
+            "wave",
+            "proliferation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"epidemic [adj]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "descriptive",
+        "formal"
+      ],
+      "DEF_EN":"Relating to or characteristic of an epidemic; widely prevalent.",
+      "DEF_ZH":"流行性的；传染性的；广泛蔓延的。",
+      "SENT_EN":"We must prepare for the possibility of epidemic diseases spreading rapidly.",
+      "SENT_ZH":"我们必须为流行性疾病快速传播的可能性做好准备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pandemic",
+            "widespread",
+            "contagious"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in medical, public health, and journalistic contexts."
+}

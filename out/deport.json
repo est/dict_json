@@ -1,0 +1,67 @@
+{
+  "WORD":"deport",
+  "IPA":"/dɪˈpɔːrt/",
+  "CONJUGATES":"deports | deported | deporting | deportation (n)",
+  "ETYMOLOGY":"From Latin dēportāre ('to carry away, banish'), formed from dē- ('away from') + portāre ('to carry'). Adopted into English via Old French déporter.",
+  "SINCE":"Mid-15th century (meaning 'carry away'); 17th century (meaning 'expel from a country').",
+  "MEANINGS":[
+    {
+      "PATTERN":"deport [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "legal",
+        "government action"
+      ],
+      "DEF_EN":"To compel a foreign national to leave a country, usually because they have violated immigration laws or committed a serious crime.",
+      "DEF_ZH":"（政府）将外国人或非法移民驱逐出境。",
+      "SENT_EN":"The judge ruled that the convicted felon must be deported immediately after serving his sentence.",
+      "SENT_ZH":"法官裁定，该被定罪的重犯必须在服刑后立即被驱逐出境。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expel",
+            "banish",
+            "exile",
+            "repatriate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deportation",
+            "immigrate",
+            "emigrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deport [oneself] (archaic/formal)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "archaic",
+        "formal",
+        "obsolete"
+      ],
+      "DEF_EN":"To behave or conduct oneself (This meaning is now usually replaced by the noun 'deportment').",
+      "DEF_ZH":"举止，行为（现多用名词deportment）。",
+      "SENT_EN":"He deported himself with great dignity throughout the trial.",
+      "SENT_ZH":"在整个审判过程中，他举止得体，极有尊严。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "deportment",
+            "conduct",
+            "behave"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, Governmental"
+}

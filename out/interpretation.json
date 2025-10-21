@@ -1,0 +1,111 @@
+{
+  "WORD":"interpretation",
+  "IPA":"/ɪnˌtɜːprɪˈteɪʃn/",
+  "CONJUGATES":"interpretations (plural)",
+  "ETYMOLOGY":"From Old French interpretacion (modern French interprétation), from Latin interpretatio ('explanation', 'translation'), from interpretari ('to explain', 'to translate').",
+  "SINCE":"Late Middle English (14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"interpretation of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (not a pronoun) that refers to a person, animal, place, thing, or idea. It can be a subject, object, or complement in a sentence.",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract concept"
+      ],
+      "DEF_EN":"The action of explaining the meaning of something; an explanation.",
+      "DEF_ZH":"解释某事物意义的行为；解释。",
+      "SENT_EN":"The scientific community offered various interpretations of the new data.",
+      "SENT_ZH":"科学界对这些新数据提出了各种解释。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "explanation",
+            "elucidation",
+            "exegesis",
+            "clarification"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misinterpretation",
+            "obscurity"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hermeneutics",
+            "analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] interpretation of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A word (not a pronoun) that refers to a person, animal, place, thing, or idea. It can be a subject, object, or complement in a sentence.",
+      "TAGS":[
+        "core word",
+        "common",
+        "subjective"
+      ],
+      "DEF_EN":"A particular way of understanding or explaining something.",
+      "DEF_ZH":"对某事物的特定理解或解释方式。",
+      "SENT_EN":"Her interpretation of the rules differed significantly from his.",
+      "SENT_ZH":"她对这些规则的解读与他大相径庭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reading",
+            "understanding",
+            "perception",
+            "view",
+            "take"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] interpretation of [a piece]",
+      "POS":"noun",
+      "POS_TIP":"A word (not a pronoun) that refers to a person, animal, place, thing, or idea. It can be a subject, object, or complement in a sentence.",
+      "TAGS":[
+        "common",
+        "arts",
+        "performance"
+      ],
+      "DEF_EN":"A dramatic or musical rendition of a work, reflecting the performer's understanding and style.",
+      "DEF_ZH":"对戏剧或音乐作品的表演或演绎，反映表演者的理解和风格。",
+      "SENT_EN":"The pianist's interpretation of the concerto was both powerful and nuanced.",
+      "SENT_ZH":"这位钢琴家对协奏曲的演绎既有力又细腻。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rendition",
+            "performance",
+            "portrayal",
+            "version"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cover",
+            "arrangement"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general"
+}

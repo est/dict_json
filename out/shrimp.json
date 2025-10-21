@@ -1,0 +1,93 @@
+{
+  "WORD":"shrimp",
+  "IPA":"/ʃrɪmp/",
+  "CONJUGATES":"shrimp (n, sing.) | shrimp or shrimps (n, pl.) | shrimp (v, base) | shrimping (v, pres. part.) | shrimped (v, past tense/past part.) | shrimps (v, 3rd pers. sing. pres.)",
+  "ETYMOLOGY":"From Middle English schrimpe ('shrimp, puny person'), probably from Proto-Germanic *skrimp- ('to shrink'), related to Old Norse skorpna ('to shrink').",
+  "SINCE":"Late 14th century (for the crustacean); 16th century (for a small person).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "food"
+      ],
+      "DEF_EN":"A small, edible marine crustacean with a long, slender body and a long tail, often reddish or grayish-pink when cooked.",
+      "DEF_ZH":"一种小型可食用的海洋甲壳动物，身体细长，尾部较长，煮熟后常呈红或灰粉色。",
+      "SENT_EN":"We ordered a delicious plate of grilled shrimp for dinner.",
+      "SENT_ZH":"我们晚餐点了一盘美味的烤虾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prawn"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lobster",
+            "crab",
+            "crayfish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "derogatory",
+        "rare"
+      ],
+      "DEF_EN":"(Informal, often derogatory) A small or insignificant person.",
+      "DEF_ZH":"（非正式，常作贬义）指身材矮小或不重要的人。",
+      "SENT_EN":"Don't listen to him, he's just a little shrimp trying to cause trouble.",
+      "SENT_ZH":"别听他的，他只是个想惹麻烦的小不点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "runt",
+            "midget",
+            "pipsqueak"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "giant",
+            "colossus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shrimp [v]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "activity",
+        "common"
+      ],
+      "DEF_EN":"To fish for or catch shrimp.",
+      "DEF_ZH":"捕虾。",
+      "SENT_EN":"They spent the entire morning shrimping in the shallow waters of the bay.",
+      "SENT_ZH":"他们整个上午都在海湾的浅水区捕虾。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "fish",
+            "crab"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage; culinary context for meaning 1; informal/derogatory for meaning 2; often related to fishing or marine activities for meaning 3."
+}

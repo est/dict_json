@@ -1,0 +1,95 @@
+{
+  "WORD":"evaporate",
+  "IPA":"/ɪˈvæpəreɪt/",
+  "CONJUGATES":"evaporates | evaporating | evaporated",
+  "ETYMOLOGY":"From Latin *evaporare* 'disperse in vapor', from *e-* 'out' + *vapor* 'steam'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] evaporates",
+      "POS":"vint",
+      "POS_TIP":"An intransitive verb (vint) is a verb that does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "scientific"
+      ],
+      "DEF_EN":"To change from a liquid or solid state into a gaseous state; to disappear as vapor.",
+      "DEF_ZH":"（液体或固体）蒸发；汽化，变成水蒸气而消失。",
+      "SENT_EN":"The water in the puddle will evaporate under the sun.",
+      "SENT_ZH":"水坑里的水会在阳光下蒸发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vaporize",
+            "dry up",
+            "disperse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "condense",
+            "solidify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] evaporates",
+      "POS":"vint",
+      "POS_TIP":"An intransitive verb (vint) is a verb that does not take a direct object.",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To disappear, especially gradually, or to cease to exist, often used for abstract concepts or feelings.",
+      "DEF_ZH":"（情感、希望、问题等）消失；消散；化为乌有。",
+      "SENT_EN":"All his confidence evaporated when he saw the difficult exam.",
+      "SENT_ZH":"当他看到那份难度很大的试卷时，他所有的信心都消失了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vanish",
+            "fade away",
+            "dissolve",
+            "disappear"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "appear",
+            "materialize",
+            "intensify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/sth] evaporates [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb (vtr) is a verb that takes a direct object.",
+      "TAGS":[
+        "less common",
+        "scientific"
+      ],
+      "DEF_EN":"To cause (a liquid or solid) to change into vapor.",
+      "DEF_ZH":"使（液体或固体）蒸发；使汽化。",
+      "SENT_EN":"The machine evaporates excess water from the mixture to concentrate the solution.",
+      "SENT_ZH":"这台机器将混合物中多余的水分蒸发掉，以浓缩溶液。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vaporize",
+            "dry out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General and scientific contexts."
+}

@@ -1,0 +1,111 @@
+{
+  "WORD":"arc",
+  "IPA":"/ɑːrk/",
+  "CONJUGATES":"n: arcs | v: arcs, arced, arcing",
+  "ETYMOLOGY":"From Latin arcus 'bow, arch', from Proto-Indo-European *arkʷ- 'to bow, bend'.",
+  "SINCE":"Late Middle English",
+  "MEANINGS":[
+    {
+      "PATTERN":"an arc",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A segment of a curve, especially part of a circle or an arch-like shape.",
+      "DEF_ZH":"弧；弧形；拱形（尤指圆形或拱形的一部分）。",
+      "SENT_EN":"The rainbow formed a perfect arc across the sky.",
+      "SENT_ZH":"彩虹在天空中形成一道完美的弧线。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curve",
+            "bow",
+            "arch",
+            "segment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "semicircle",
+            "crescent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the arc of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"The development or progression of a story, character, or event over time.",
+      "DEF_ZH":"（故事、角色等的）发展历程；弧线。",
+      "SENT_EN":"Her character arc throughout the series was incredibly compelling.",
+      "SENT_ZH":"她在整个系列中塑造的角色弧线令人难以置信地引人入胜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "narrative",
+            "storyline",
+            "progression",
+            "journey"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] arcs",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To move or cause to move in a curve.",
+      "DEF_ZH":"（使）形成弧形；（使）沿弧线移动。",
+      "SENT_EN":"The ball arced gracefully through the air towards the basket.",
+      "SENT_ZH":"球优美地划过空中，飞向篮筐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curve",
+            "bend",
+            "bow",
+            "loop"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an arc",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "common"
+      ],
+      "DEF_EN":"A luminous electrical discharge between two electrodes, often producing heat and light.",
+      "DEF_ZH":"电弧；弧光（两电极之间发光的放电现象，常产生热量和光）。",
+      "SENT_EN":"The welder struck an arc, sending sparks flying.",
+      "SENT_ZH":"焊工引燃了电弧，火花四溅。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "spark",
+            "discharge",
+            "welding"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

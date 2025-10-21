@@ -1,0 +1,83 @@
+{
+  "WORD":"counsel",
+  "IPA":"/ˈkaʊnsəl/",
+  "CONJUGATES":"counsels | counseling | counseled | counselling | counselled",
+  "ETYMOLOGY":"From Old French conseil (advice, deliberation), derived from Latin consilium (plan, wisdom, advice, assembly, consultation), possibly related to consulere (to deliberate, consult).",
+  "SINCE":"c. 1300 (Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"counsel",
+      "POS":"n mass",
+      "POS_TIP":"Mass noun, referring to advice itself",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"Advice, especially that given formally or professionally, or guidance given in deliberation.",
+      "DEF_ZH":"建议；忠告；劝告 (尤指正式的、专业的或在深思熟虑后提供的)",
+      "SENT_EN":"He sought counsel from his financial advisor before investing heavily.",
+      "SENT_ZH":"在大量投资之前，他向他的财务顾问寻求了建议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advice",
+            "guidance",
+            "recommendation",
+            "consultation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"counsel",
+      "POS":"n count/uncount",
+      "POS_TIP":"Referring to a person or group of persons, especially in legal context",
+      "TAGS":[
+        "legal",
+        "professional"
+      ],
+      "DEF_EN":"A lawyer or barrister engaged in conducting a case or giving legal advice; legal advisor.",
+      "DEF_ZH":"律师；诉讼顾问；法律顾问 (特指在法庭上进行辩护或提供咨询的律师)",
+      "SENT_EN":"The defense counsel strongly objected to the prosecutor's line of questioning.",
+      "SENT_ZH":"辩护律师强烈反对检察官的盘问方式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lawyer",
+            "attorney",
+            "barrister",
+            "advocate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"counsel [sb]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb, requiring a direct object",
+      "TAGS":[
+        "core word",
+        "professional",
+        "formal"
+      ],
+      "DEF_EN":"To give professional guidance or psychological advice to (someone); to advise.",
+      "DEF_ZH":"提供咨询；劝告；辅导 (尤指专业的指导或心理辅导)",
+      "SENT_EN":"The doctor began to counsel the patient on lifestyle changes.",
+      "SENT_ZH":"医生开始就生活方式的改变对病人进行指导。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advise",
+            "guide",
+            "mentor",
+            "consult"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or professional contexts, particularly law and therapy."
+}

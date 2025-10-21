@@ -1,0 +1,88 @@
+{
+  "WORD":"freezing",
+  "IPA":"/ˈfriːzɪŋ/",
+  "CONJUGATES":"freeze | freezes | froze | frozen | freezing",
+  "ETYMOLOGY":"Present participle of the verb 'freeze'. The verb 'freeze' comes from Old English frēosan (to solidify, turn to ice), related to Old Norse frjósa.",
+  "SINCE":"Used as an adjective/participle since the Old English period (c. 10th Century).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "intense"
+      ],
+      "DEF_EN":"Extremely cold; below the temperature at which water turns to ice (0° Celsius or 32° Fahrenheit).",
+      "DEF_ZH":"极冷的；冰点的；严寒的。",
+      "SENT_EN":"It was absolutely freezing outside, so we stayed indoors.",
+      "SENT_ZH":"外面冷极了，所以我们待在室内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "icy",
+            "arctic",
+            "glacial",
+            "bitter"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "boiling",
+            "scorching",
+            "hot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v-ing]",
+      "POS":"v. part.",
+      "POS_TIP":"present participle (of freeze)",
+      "TAGS":[
+        "core word",
+        "grammar"
+      ],
+      "DEF_EN":"The current action of converting (a liquid) into a solid, especially water into ice, due to extreme cold.",
+      "DEF_ZH":"正在冻结；结冰的过程；“freeze”的现在分词。",
+      "SENT_EN":"The lake is currently freezing over, making it dangerous to walk on.",
+      "SENT_ZH":"湖面目前正在结冰，在上面行走很危险。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "solidifying",
+            "congelating"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n]",
+      "POS":"n. (gerund)",
+      "POS_TIP":"noun (gerund)",
+      "TAGS":[
+        "technical",
+        "process"
+      ],
+      "DEF_EN":"The process or state of being halted, suspended, or fixed, often referring to assets, wages, or computer systems.",
+      "DEF_ZH":"冻结（资产、工资、程序等的）；暂停。",
+      "SENT_EN":"The sudden freezing of the program required a full system restart.",
+      "SENT_ZH":"程序的突然冻结需要完全重启系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stoppage",
+            "suspension",
+            "halt"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

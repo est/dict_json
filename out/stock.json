@@ -1,0 +1,168 @@
+{
+  "WORD":"stock",
+  "IPA":"/stɑːk/",
+  "CONJUGATES":"stocks | stocking | stocked",
+  "ETYMOLOGY":"From Old English 'stocc' meaning 'tree trunk, post, log.' The sense of 'goods' or 'supply' likely developed from the idea of the stem or root (the source of growth or origin). The financial sense (shares) originated from the capital or fund kept in a physical 'stock' or chest.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] in stock | out of stock",
+      "POS":"n, mass/count",
+      "POS_TIP":"Noun, usually uncountable when referring to general supply, countable for specific types or plural items.",
+      "TAGS":[
+        "Core word",
+        "Business",
+        "Commerce"
+      ],
+      "DEF_EN":"The supply of goods or merchandise kept on hand by a business for sale or distribution.",
+      "DEF_ZH":"存货；库存；储备的商品。",
+      "SENT_EN":"We cannot fulfill your order immediately because that specific item is currently out of stock.",
+      "SENT_ZH":"我们不能立即完成您的订单，因为该特定商品目前缺货。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inventory",
+            "goods",
+            "merchandise",
+            "supply"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "shortage",
+            "deficit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"buy/sell stock | company stock",
+      "POS":"n, mass/count",
+      "POS_TIP":"Noun, usually uncountable when referring to ownership capital, countable for specific shares.",
+      "TAGS":[
+        "Finance",
+        "Economics"
+      ],
+      "DEF_EN":"The capital raised by a business or corporation through the issue and subscription of shares; shares of ownership in a company.",
+      "DEF_ZH":"股票；股份；资本。",
+      "SENT_EN":"The stock market rebounded sharply after the central bank announced new policies.",
+      "SENT_ZH":"央行宣布新政策后，股市强劲反弹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shares",
+            "equity",
+            "securities"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bond",
+            "dividend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stock [sth] with [sth] | stock up on [sth]",
+      "POS":"vtr/vintr",
+      "POS_TIP":"Transitive or Intransitive Verb.",
+      "TAGS":[
+        "Action",
+        "Retail"
+      ],
+      "DEF_EN":"To have or keep a supply of goods or materials; to fill or furnish (a place) with a supply of goods.",
+      "DEF_ZH":"储存；备货；为（商店或仓库）进货。",
+      "SENT_EN":"We need to stock the shelves before the store opens tomorrow morning.",
+      "SENT_ZH":"我们需要在明天早上商店开门前把货架备好货。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supply",
+            "provision",
+            "store",
+            "hoard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chicken/beef stock",
+      "POS":"n, mass",
+      "POS_TIP":"Noun, uncountable.",
+      "TAGS":[
+        "Cooking",
+        "Culinary"
+      ],
+      "DEF_EN":"A flavorful liquid made by simmering bones, meat, or vegetables in water, used as a base for soups, sauces, and gravies.",
+      "DEF_ZH":"（烹饪用的）高汤；汤底。",
+      "SENT_EN":"Homemade vegetable stock adds incredible depth of flavor to the risotto.",
+      "SENT_ZH":"自制的蔬菜高汤为烩饭增添了令人难以置信的深度风味。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "broth",
+            "bouillon",
+            "consommé"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"stock phrase/answer",
+      "POS":"adj",
+      "POS_TIP":"Adjective, used before a noun.",
+      "TAGS":[
+        "Descriptive",
+        "Common",
+        "Figurative"
+      ],
+      "DEF_EN":"(Of a phrase, character, or idea) routinely used; conventional, predictable, and often unoriginal.",
+      "DEF_ZH":"陈腐的；老一套的；标准的（常用于形容回答或短语）。",
+      "SENT_EN":"The villain in the movie was a stock character with no real development.",
+      "SENT_ZH":"电影中的反派是一个没有真正发展的典型老套角色。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "standard",
+            "conventional",
+            "clichéd",
+            "formulaic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"from good stock",
+      "POS":"n, mass",
+      "POS_TIP":"Noun, uncountable. Often used figuratively.",
+      "TAGS":[
+        "Figurative",
+        "Formal"
+      ],
+      "DEF_EN":"The lineage, ancestry, or family from which someone descends.",
+      "DEF_ZH":"血统；出身；家族。",
+      "SENT_EN":"She comes from good Puritan stock, known for their discipline and hard work.",
+      "SENT_ZH":"她出身于优秀的清教徒家庭，以纪律严明和勤奋工作而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ancestry",
+            "lineage",
+            "descent",
+            "origin"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common across general vocabulary, highly frequent in finance and retail."
+}

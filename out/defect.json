@@ -1,0 +1,81 @@
+{
+  "WORD":"defect",
+  "IPA":"/ˈdiːfekt/ (noun), /dɪˈfekt/ (verb)",
+  "CONJUGATES":"defect (n. sg.) | defects (n. pl.) | defect (v. base) | defects (v. 3rd sg.) | defecting (v. pres. part.) | defected (v. past & p.p.)",
+  "ETYMOLOGY":"From Latin *defectus* 'a failing, desertion, revolt', past participle of *deficere* 'to fail, fall short, desert', from *de-* 'down, away' + *facere* 'to make, do'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a defect [in sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, things, or abstract ideas.",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A shortcoming, imperfection, or fault in something, especially one that makes it imperfect or dysfunctional.",
+      "DEF_ZH":"（产品、系统、人等存在的）缺陷；缺点；毛病",
+      "SENT_EN":"The car was recalled due to a serious manufacturing defect in its braking system.",
+      "SENT_ZH":"该车因刹车系统存在严重制造缺陷而被召回。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flaw",
+            "fault",
+            "imperfection",
+            "blemish",
+            "shortcoming",
+            "failing",
+            "weakness",
+            "malfunction"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "perfection",
+            "strength",
+            "advantage",
+            "excellence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"defect [from sth] [to sth]",
+      "POS":"intransitive verb",
+      "POS_TIP":"An intransitive verb is a verb that does not take a direct object.",
+      "TAGS":[
+        "common",
+        "political",
+        "formal"
+      ],
+      "DEF_EN":"To abandon one's country or cause in favor of an opposing one.",
+      "DEF_ZH":"叛逃；变节（指叛离自己国家、政党或事业投向敌对一方）",
+      "SENT_EN":"During the Cold War, many spies defected from one side to the other.",
+      "SENT_ZH":"冷战期间，许多间谍从一方叛逃到另一方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "desert",
+            "betray",
+            "abandon",
+            "apostasize",
+            "renounce"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "defector",
+            "defection"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral to formal"
+}

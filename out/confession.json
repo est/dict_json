@@ -1,0 +1,109 @@
+{
+  "WORD":"confession",
+  "IPA":"/kənˈfɛʃən/",
+  "CONJUGATES":"confession (singular) | confessions (plural)",
+  "ETYMOLOGY":"From Old French confession, from Latin confessiōnem (nominative confessiō), from confiterī 'to acknowledge, confess' (from com- 'together, with' + fatērī 'to acknowledge').",
+  "SINCE":"Late 12th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"confession (of [sth] / to [sth/doing sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An act of admitting or acknowledging something, especially something one is ashamed or embarrassed about.",
+      "DEF_ZH":"承认或坦白某事（尤其是令人羞愧或尴尬的事）的行为。",
+      "SENT_EN":"His confession of guilt shocked everyone in the courtroom.",
+      "SENT_ZH":"他对罪行的坦白震惊了法庭里的所有人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admission",
+            "acknowledgment",
+            "disclosure"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "denial",
+            "concealment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confession",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "religious",
+        "common"
+      ],
+      "DEF_EN":"A formal statement, typically made to a priest, admitting one's sins and asking for forgiveness.",
+      "DEF_ZH":"向神父承认罪行并请求宽恕的正式声明。",
+      "SENT_EN":"She went to confession every Sunday to unburden her soul.",
+      "SENT_ZH":"她每周日都去告解，以减轻心灵的负担。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sacrament",
+            "penance",
+            "absolution"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confession",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "legal",
+        "common"
+      ],
+      "DEF_EN":"A formal acknowledgment of guilt by a person accused of a crime, often presented as evidence.",
+      "DEF_ZH":"被指控犯罪的人正式承认有罪，常作为证据呈上。",
+      "SENT_EN":"The police obtained a full confession from the suspect after hours of interrogation.",
+      "SENT_ZH":"经过数小时的审讯，警方从嫌疑人那里获得了完整的供词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "admission of guilt",
+            "testimony",
+            "declaration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confession",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "religious",
+        "formal"
+      ],
+      "DEF_EN":"A public declaration of one's religious faith or beliefs, often in the form of a creed or catechism.",
+      "DEF_ZH":"公开声明自己的宗教信仰或信条，常以信条或教理问答的形式出现。",
+      "SENT_EN":"The Westminster Confession of Faith is a key document for many Presbyterian churches.",
+      "SENT_ZH":"《威斯敏斯特信仰告白》是许多长老会教会的重要文献。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creed",
+            "profession",
+            "affirmation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

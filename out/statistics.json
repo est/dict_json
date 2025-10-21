@@ -1,0 +1,98 @@
+{
+  "WORD":"statistics",
+  "IPA":"/stəˈtɪstɪks/",
+  "CONJUGATES":"statistic (singular form)",
+  "ETYMOLOGY":"From German Statistik (coined by Gottfried Achenwall in 1749), from New Latin statisticum collegium ('council of state'), from Latin status ('state, condition'). Initially referred to the study of facts about a state; later broadened to numerical data.",
+  "SINCE":"Late 18th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"statistics [as a field]",
+      "POS":"n.",
+      "POS_TIP":"noun (treated as singular)",
+      "TAGS":[
+        "core word",
+        "academic",
+        "scientific"
+      ],
+      "DEF_EN":"The practice or science of collecting and analyzing numerical data in large quantities, especially for the purpose of inferring proportions in a whole from those in a representative sample.",
+      "DEF_ZH":"收集、分析大量数字数据，特别是为了从代表性样本中推断整体比例的实践或科学。",
+      "SENT_EN":"Statistics is a branch of mathematics dealing with data analysis.",
+      "SENT_ZH":"统计学是处理数据分析的数学分支。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data analysis",
+            "numerical analysis",
+            "statistical science"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mathematics",
+            "probability",
+            "econometrics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"statistics [as data]",
+      "POS":"n.",
+      "POS_TIP":"noun (treated as plural)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Numerical facts or data, especially those collected and analyzed systematically, often presented in large quantities.",
+      "DEF_ZH":"数字事实或数据，特别是那些系统收集和分析的，常以大量形式呈现。",
+      "SENT_EN":"The latest government statistics show a significant rise in employment.",
+      "SENT_ZH":"最新的政府统计数据显示就业率显著上升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data",
+            "figures",
+            "numbers",
+            "information",
+            "metrics"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "report",
+            "survey",
+            "census"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a statistic",
+      "POS":"n.",
+      "POS_TIP":"countable noun (singular form)",
+      "TAGS":[
+        "common",
+        "related form"
+      ],
+      "DEF_EN":"A single piece of numerical data or information, often representing a summary or measure of a larger set of data.",
+      "DEF_ZH":"一个独立的数字数据或信息，通常代表更大数据集的总结或度量。",
+      "SENT_EN":"One statistic cannot tell the whole story about economic growth.",
+      "SENT_ZH":"一个统计数字无法说明经济增长的全部情况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "data point",
+            "figure",
+            "number"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal, academic, general"
+}

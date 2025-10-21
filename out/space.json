@@ -1,0 +1,132 @@
+{
+  "WORD":"space",
+  "IPA":"/speɪs/",
+  "CONJUGATES":"spaces (n.) | spaces (v.) | spacing | spaced",
+  "ETYMOLOGY":"From Middle English, via Old French espace, derived from Latin spatium, meaning 'a room, stretch of time, expanse'.",
+  "SINCE":"Late 13th century (as duration), 14th century (as extent)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] | [sb] needs space",
+      "POS":"n. (mass/count)",
+      "POS_TIP":"noun (mass noun or countable)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A continuous area or expanse which is free, available, or unoccupied; the dimensions of height, depth, and width within which all things exist and move.",
+      "DEF_ZH":"自由、可用或未被占据的连续区域或范围；一切事物存在和运动所处的维度（高度、深度和宽度）。",
+      "SENT_EN":"We need more storage space in the kitchen.",
+      "SENT_ZH":"我们厨房需要更多的储物空间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "area",
+            "volume",
+            "room",
+            "extent"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "spatial",
+            "dimensions"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"outer space | the space",
+      "POS":"n. (mass, usually preceded by 'the')",
+      "POS_TIP":"noun (mass noun, usually used with the definite article)",
+      "TAGS":[
+        "astronomy",
+        "core concept"
+      ],
+      "DEF_EN":"The physical universe beyond the Earth's atmosphere, especially the region between celestial bodies.",
+      "DEF_ZH":"地球大气层之外的物理宇宙，特指天体之间的区域；太空；外太空。",
+      "SENT_EN":"The rocket launched into outer space this morning.",
+      "SENT_ZH":"火箭今早发射进入了外太空。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cosmos",
+            "galaxy",
+            "universe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"space [sth] out | space [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "verb"
+      ],
+      "DEF_EN":"To place or arrange things at intervals or distances from one another.",
+      "DEF_ZH":"以一定间隔或距离放置或排列事物。",
+      "SENT_EN":"Please space the chairs evenly across the room.",
+      "SENT_ZH":"请将椅子均匀地间隔开来放置在房间里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "separate",
+            "distribute",
+            "interval"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a space",
+      "POS":"n. (count)",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "typography",
+        "computing"
+      ],
+      "DEF_EN":"A blank character or area used to separate words or other elements in written text.",
+      "DEF_ZH":"用于分隔书面文本中的单词或其他元素的空白字符或区域（空格）。",
+      "SENT_EN":"Make sure there is only one space between words.",
+      "SENT_ZH":"确保单词之间只有一个空格。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tab",
+            "kerning"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a space of [time]",
+      "POS":"n. (count)",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"An interval or period of time.",
+      "DEF_ZH":"一段时间间隔或时期。",
+      "SENT_EN":"He only visited us after a long space of time.",
+      "SENT_ZH":"过了很长一段时间他才来看望我们。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interval",
+            "period",
+            "duration"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

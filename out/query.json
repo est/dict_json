@@ -1,0 +1,94 @@
+{
+  "WORD":"query",
+  "IPA":"/ˈkwɪəri/",
+  "CONJUGATES":"queries | querying | queried",
+  "ETYMOLOGY":"From Latin quaerere ('to seek, look for, ask'), via Anglo-Norman quere or Old French querre. Ultimately related to 'inquire' and 'request'.",
+  "SINCE":"Late Middle English (c. 1400)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] query [about sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A question, especially one addressed to an official or organization, often expressing a doubt or request for information.",
+      "DEF_ZH":"疑问；询问；查询（尤指向官方或组织提出）。",
+      "SENT_EN":"We received several queries about the change in office hours.",
+      "SENT_ZH":"我们收到了好几条关于办公时间变动的询问。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "question",
+            "inquiry",
+            "request"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "answer",
+            "reply",
+            "statement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"query [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To ask a question about something; to express doubt or skepticism about the accuracy or validity of something.",
+      "DEF_ZH":"询问；质疑；对…表示怀疑。",
+      "SENT_EN":"The editor queried the accuracy of the statistics used in the report.",
+      "SENT_ZH":"编辑对报告中使用的统计数据的准确性提出了质疑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "challenge",
+            "dispute",
+            "question"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "investigate",
+            "interrogate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"query [a database]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computing, a specific request for data retrieval or manipulation from a database or search engine.",
+      "DEF_ZH":"（计算机）查询（指令）；检索请求。",
+      "SENT_EN":"The system handled over one million database queries per second.",
+      "SENT_ZH":"该系统每秒处理超过一百万次数据库查询。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "SQL",
+            "request",
+            "search"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Formal"
+}

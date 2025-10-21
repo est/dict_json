@@ -1,0 +1,89 @@
+{
+  "WORD":"continent",
+  "IPA":"/ˈkɑːntɪnənt/",
+  "CONJUGATES":"continents (n.) | continental (adj. derived form)",
+  "ETYMOLOGY":"From Old French continent (adjective) or Latin continens, continent- 'holding together, continuous', present participle of continere 'to hold together, keep, restrain'. The noun meaning 'one of the great divisions of land on the globe' is from the Latin phrase terra continens 'continuous land'. The adjective meaning 'exercising self-restraint' is directly from the Latin. The sense of 'able to control bodily excretions' developed from this 'self-restraint' meaning.",
+  "SINCE":"Late 14th century (adjective); mid-16th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a continent",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "geography"
+      ],
+      "DEF_EN":"Any of the world's main continuous expanses of land, typically recognized as seven (Africa, Antarctica, Asia, Australia, Europe, North America, South America).",
+      "DEF_ZH":"地球上主要的连续陆地之一，通常指七大洲（非洲、南极洲、亚洲、澳大利亚、欧洲、北美洲、南美洲）。",
+      "SENT_EN":"Asia is the largest continent in the world by both land area and population.",
+      "SENT_ZH":"亚洲是世界上面积和人口最大的大陆。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "landmass",
+            "mainland",
+            "subcontinent",
+            "supercontinent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is continent",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "dated",
+        "rare"
+      ],
+      "DEF_EN":"Exercising self-restraint, especially with regard to sexual desire; abstinent or chaste.",
+      "DEF_ZH":"克制的，尤指在性方面；禁欲的，贞洁的。",
+      "SENT_EN":"He tried to lead a continent life, avoiding all temptations.",
+      "SENT_ZH":"他试图过一种克制的生活，避免所有的诱惑。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abstinent",
+            "chaste",
+            "self-controlled",
+            "temperate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "incontinent",
+            "licentious",
+            "unrestrained"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is continent",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "medical",
+        "formal"
+      ],
+      "DEF_EN":"Able to control one's bladder and bowels; having control over excretory functions.",
+      "DEF_ZH":"能够控制大小便的；对排泄功能有控制能力的。",
+      "SENT_EN":"After the treatment, the patient became fully continent.",
+      "SENT_ZH":"治疗后，病人完全能够控制大小便。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "incontinent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (for noun meaning); Formal/Medical (for adjective meanings)"
+}

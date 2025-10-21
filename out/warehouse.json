@@ -1,0 +1,73 @@
+{
+  "WORD":"warehouse",
+  "IPA":"/ˈwɛərhaʊs/",
+  "CONJUGATES":"warehouses | warehousing | warehoused",
+  "ETYMOLOGY":"From Middle English *warehous*, a compound of *ware* (goods, merchandise) and *hous* (house).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"warehouse",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "logistics"
+      ],
+      "DEF_EN":"A large building where raw materials or manufactured goods are stored before export or distribution for sale.",
+      "DEF_ZH":"储存原材料或制成品的仓库或大楼，通常在出口或分销销售之前使用。",
+      "SENT_EN":"The company decided to automate its massive distribution warehouse.",
+      "SENT_ZH":"该公司决定将其大型配送仓库自动化。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "depot",
+            "storehouse",
+            "repository",
+            "storage facility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"warehouse [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "action",
+        "business"
+      ],
+      "DEF_EN":"To place or store goods in a warehouse.",
+      "DEF_ZH":"将货物存放在仓库中；入库。",
+      "SENT_EN":"We need to warehouse the surplus stock immediately to clear space on the factory floor.",
+      "SENT_ZH":"我们需要立即将多余的库存入库，以腾出工厂车间的空间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "store",
+            "stock",
+            "keep in storage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"warehouse (adj)",
+      "POS":"n (used attributively)",
+      "POS_TIP":"noun used as an adjective",
+      "TAGS":[
+        "architecture",
+        "style",
+        "figurative"
+      ],
+      "DEF_EN":"Referring to a large, often loft-style building or area that has been converted from its original industrial use into residential, retail, or artistic space.",
+      "DEF_ZH":"指代由原工业用途改造而成的，通常具有宽敞阁楼风格的住宅、零售或艺术空间（例如仓库公寓）。",
+      "SENT_EN":"They purchased a trendy warehouse conversion in the city's arts district.",
+      "SENT_ZH":"他们在城市的艺术区购买了一套时髦的仓库改造公寓。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, commerce, logistics"
+}

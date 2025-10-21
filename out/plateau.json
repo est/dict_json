@@ -1,0 +1,98 @@
+{
+  "WORD":"plateau",
+  "IPA":"/ˈplætoʊ/",
+  "CONJUGATES":"plateaus (pl., n.) | plateaux (less common pl., n.) | plateaus (3rd pers. sing., v.) | plateauing (pres. part.) | plateaued (past tense/p.p.)",
+  "ETYMOLOGY":"From French plateau, diminutive of plat ('flat dish'), derived from Old French platel. Adopted into English first to describe a decorative centerpiece or tray, and later applied to geography (mid-18th century).",
+  "SINCE":"Mid-18th Century (Geographical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] plateau",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A large area of relatively level high ground; a tableland.",
+      "DEF_ZH":"高原；高地；台地。",
+      "SENT_EN":"The explorers reached a high plateau after several days of difficult climbing.",
+      "SENT_ZH":"经过几天艰难的攀登，探险家们到达了一处高地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tableland",
+            "mesa",
+            "highland"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"reach a plateau",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "business",
+        "common"
+      ],
+      "DEF_EN":"A period or state of little or no change following a period of activity or growth; a stable level.",
+      "DEF_ZH":"稳定期；停滞期（指发展或增长停止在某一水平上）。",
+      "SENT_EN":"After months of intense study, my ability to recall vocabulary seems to have reached a plateau.",
+      "SENT_ZH":"经过数月的紧张学习，我的词汇量记忆能力似乎进入了一个瓶颈期/稳定期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stagnation",
+            "bottleneck",
+            "leveling off"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "surge",
+            "boom",
+            "acceleration"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] plateau",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "action",
+        "finance",
+        "common"
+      ],
+      "DEF_EN":"To reach a stable level or period of no change after a period of increase or decrease.",
+      "DEF_ZH":"达到平稳状态；停止增长或下降；稳定下来。",
+      "SENT_EN":"Economists predict that inflation will plateau in the third quarter.",
+      "SENT_ZH":"经济学家预测通货膨胀将在第三季度趋于平稳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stabilize",
+            "level out",
+            "flatline"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "escalate",
+            "accelerate",
+            "plummet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly common in professional and academic contexts (economics, learning, geography)."
+}

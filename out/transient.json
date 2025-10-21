@@ -1,0 +1,90 @@
+{
+  "WORD":"transient",
+  "IPA":"/ˈtrænziənt/, /ˈtrænʃənt/",
+  "CONJUGATES":"transients (n. pl.) | transiently (adv.) | transience (n.) | transiency (n.)",
+  "ETYMOLOGY":"From Latin *transire* 'to go across' (from *trans-* 'across' + *ire* 'go') + *-ens* (present participle suffix). Meaning 'passing through' or 'fleeting'.",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is transient",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"Lasting only for a short time; temporary or fleeting.",
+      "DEF_ZH":"只持续很短时间；短暂的，瞬时的，转瞬即逝的。",
+      "SENT_EN":"The joy they experienced was only transient, quickly replaced by worry.",
+      "SENT_ZH":"他们所经历的快乐只是短暂的，很快就被担忧所取代。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fleeting",
+            "ephemeral",
+            "momentary",
+            "temporary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "permanent",
+            "lasting",
+            "eternal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a transient",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "sociology",
+        "dated"
+      ],
+      "DEF_EN":"A person who is staying or working in a place for a short time, often implying they have no fixed address or permanent ties; often used to describe vagrants or temporary residents.",
+      "DEF_ZH":"短暂停留或工作的人员；流动人口；（尤指）流浪者，临时寄居者。",
+      "SENT_EN":"The shelter provides meals and beds for transients passing through the city.",
+      "SENT_ZH":"这家收容所为途经城市的流动人员提供膳食和床铺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vagrant",
+            "nomad",
+            "itinerant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a voltage transient | transient effects",
+      "POS":"adj. | n.",
+      "POS_TIP":"adjective or noun (referring to the event)",
+      "TAGS":[
+        "technical",
+        "electrical engineering",
+        "physics"
+      ],
+      "DEF_EN":"Relating to or denoting a momentary variation or fluctuation in current, voltage, signal, or other physical magnitude within a system.",
+      "DEF_ZH":"（技术、工程）表示系统状态或幅度的快速、短暂变化（例如电流或电压的瞬时波动）；瞬变现象。",
+      "SENT_EN":"The equipment is protected against power transients by a surge suppressor.",
+      "SENT_ZH":"该设备通过浪涌抑制器来抵御电源瞬变。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "surge",
+            "spike",
+            "oscillation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal usage, common in philosophical, technical, and socio-economic contexts."
+}

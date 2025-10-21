@@ -1,0 +1,100 @@
+{
+  "WORD":"crosscheck",
+  "IPA":"/ˈkrɒsˌtʃɛk/",
+  "CONJUGATES":"crosschecks | crosschecking | crosschecked",
+  "ETYMOLOGY":"From the verb 'cross' (to go across, intersect) and the verb 'check' (to examine, verify). The combination implies examining something from different angles or against another source.",
+  "SINCE":"Early 20th century (as a hyphenated or compound word)",
+  "MEANINGS":[
+    {
+      "PATTERN":"cross-check [sth] (with [sth else]) | cross-check [A] against [B]",
+      "POS":"transitive verb | intransitive verb",
+      "POS_TIP":"A transitive verb takes a direct object. An intransitive verb does not take a direct object.",
+      "TAGS":[
+        "core word",
+        "common",
+        "verification"
+      ],
+      "DEF_EN":"To verify information or facts by comparing them with an alternative source or method.",
+      "DEF_ZH":"通过与替代来源或方法进行比较来核实信息或事实。",
+      "SENT_EN":"Before publishing, we must cross-check all the data with the original reports.",
+      "SENT_ZH":"在发布之前，我们必须用原始报告核对所有数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "verify",
+            "confirm",
+            "corroborate",
+            "double-check",
+            "authenticate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misrepresent",
+            "falsify"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cross-check",
+      "POS":"countable noun",
+      "POS_TIP":"A countable noun is a noun that can be counted and has a singular and plural form.",
+      "TAGS":[
+        "core word",
+        "common",
+        "verification"
+      ],
+      "DEF_EN":"An act of verifying information or facts by comparing them against another source.",
+      "DEF_ZH":"通过与另一个来源比较来核实信息或事实的行为。",
+      "SENT_EN":"The accountant performed a final cross-check before submitting the financial statements.",
+      "SENT_ZH":"会计师在提交财务报表前进行了最后一次核对。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "verification",
+            "confirmation",
+            "corroboration",
+            "review"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "audit",
+            "inspection"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cross-check [sb] (verb) | a cross-check (noun)",
+      "POS":"transitive verb | countable noun",
+      "POS_TIP":"A transitive verb takes a direct object. A countable noun is a noun that can be counted and has a singular and plural form.",
+      "TAGS":[
+        "sports",
+        "ice hockey",
+        "specific usage"
+      ],
+      "DEF_EN":"(In ice hockey) To hit an opponent with the shaft of the stick held with both hands, constituting a penalty.",
+      "DEF_ZH":"（冰球运动中）用双手握住球杆的杆身击打对手，属于犯规行为。",
+      "SENT_EN":"He received a two-minute penalty for a cross-check near the opponent's net.",
+      "SENT_ZH":"他在对手球门附近因一次交叉检查（犯规动作）被判罚两分钟。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "slashing",
+            "hooking",
+            "tripping",
+            "body checking"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The verification meaning is commonly used in general, business, and academic contexts. The sports meaning is specific to ice hockey."
+}

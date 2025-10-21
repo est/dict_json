@@ -1,0 +1,91 @@
+{
+  "WORD":"temperature",
+  "IPA":"/ˈtɛmpərətʃər/",
+  "CONJUGATES":"temperatures (pl.)",
+  "ETYMOLOGY":"From Latin temperatura ('mixture, moderation, temperature'), derived from temperare ('to moderate, mix, regulate'). First sense relating to heat measurement appeared in the 17th century.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s temperature",
+      "POS":"n. (uncountable/countable)",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Science",
+        "Common"
+      ],
+      "DEF_EN":"The degree or intensity of heat present in a substance or object, typically measured on a scale (like Celsius or Fahrenheit) by a thermometer.",
+      "DEF_ZH":"物质或物体中所含热量的程度或强度，通常用温度计根据刻度（如摄氏或华氏）测量。",
+      "SENT_EN":"The room temperature must be maintained above 20 degrees Celsius for the experiment.",
+      "SENT_ZH":"实验所需的室温必须保持在 20 摄氏度以上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heat",
+            "warmth",
+            "degree",
+            "measurement"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "thermometer",
+            "Fahrenheit",
+            "Celsius"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have a temperature | take [sb]'s temperature",
+      "POS":"n. (countable)",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Medical",
+        "Idiomatic"
+      ],
+      "DEF_EN":"An abnormally high body temperature; fever.",
+      "DEF_ZH":"体温异常升高；发烧。",
+      "SENT_EN":"The child felt warm; I think she might have a temperature.",
+      "SENT_ZH":"孩子摸起来很热；我想她可能发烧了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fever",
+            "pyrexia",
+            "high temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]'s temperature",
+      "POS":"n. (uncountable)",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Figurative",
+        "Abstract"
+      ],
+      "DEF_EN":"The general mood, atmosphere, or intensity of a situation or relationship.",
+      "DEF_ZH":"局势或关系中的总体情绪、气氛或紧张程度。",
+      "SENT_EN":"The political temperature in the capital rose sharply after the announcement.",
+      "SENT_ZH":"声明发布后，首都的政治热度急剧上升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mood",
+            "atmosphere",
+            "climate",
+            "intensity"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Science, Medical"
+}

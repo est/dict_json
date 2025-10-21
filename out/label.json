@@ -1,0 +1,80 @@
+{
+  "WORD":"label",
+  "IPA":"/ˈleɪbl/",
+  "CONJUGATES":"labels (n. plural) | labels (v. 3rd person singular present) | labeling/labelling (v. present participle) | labeled/labelled (v. past tense, past participle)",
+  "ETYMOLOGY":"From Old French 'label' (a strip, ribbon), from Frankish '*lappō' (rag, strip).",
+  "SINCE":"Late Middle English (late 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] label | label of [sth]",
+      "POS":"noun",
+      "POS_TIP":"A noun is a word (other than a pronoun) used to identify any of a class of people, places, things, or ideas.",
+      "TAGS":[
+        "core word",
+        "common",
+        "tangible object",
+        "abstract concept"
+      ],
+      "DEF_EN":"A small piece of paper, fabric, plastic, or similar material attached to an object, giving information about it. It can also refer to a classificatory name or phrase applied to a person or thing.",
+      "DEF_ZH":"贴在物品上的小纸片、布料、塑料或其他材料，提供有关该物品的信息；或指对人或事物进行分类的名称或短语。",
+      "SENT_EN":"The product has a clear label indicating its ingredients. It's unfair to put a label on someone based on one mistake.",
+      "SENT_ZH":"该产品有清晰的标签标明其成分。仅仅因为一个错误就给某人贴标签是不公平的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tag",
+            "sticker",
+            "marker",
+            "designation",
+            "classification"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "brand",
+            "trademark",
+            "category"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"label [sth] | label [sth] as [sth] | label [sb]",
+      "POS":"verb",
+      "POS_TIP":"A verb is a word used to describe an action, state, or occurrence.",
+      "TAGS":[
+        "core word",
+        "common",
+        "action",
+        "classification"
+      ],
+      "DEF_EN":"To attach a label to an object; to assign to a category or describe with a particular term.",
+      "DEF_ZH":"在物品上贴标签；将某物归类或用特定术语描述。",
+      "SENT_EN":"Please label all the boxes with their contents. Critics often label his work as avant-garde.",
+      "SENT_ZH":"请在所有箱子上贴上内容标签。评论家经常把他的作品贴上先锋派的标签。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tag",
+            "mark",
+            "classify",
+            "categorize",
+            "designate",
+            "brand"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unlabel",
+            "mislabel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"common, everyday language"
+}

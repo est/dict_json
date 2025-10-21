@@ -1,0 +1,108 @@
+{
+  "WORD":"boil",
+  "IPA":"/bɔɪl/",
+  "CONJUGATES":"boils | boiling | boiled",
+  "ETYMOLOGY":"Middle English 'boillen', via Old French 'boillir', from Latin 'bullire' (to bubble, to be seething).",
+  "SINCE":"c. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] boil",
+      "POS":"v. intr.",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "core word",
+        "physics"
+      ],
+      "DEF_EN":"To reach the temperature at which a liquid turns to vapor (for water, 100°C or 212°F) and begins to bubble rapidly.",
+      "DEF_ZH":"（液体）沸腾；达到沸点。",
+      "SENT_EN":"Wait until the water starts to boil before adding the pasta.",
+      "SENT_ZH":"等到水开始沸腾后再加入意大利面。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "boiling point",
+            "steam"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"boil [sth]",
+      "POS":"v. tr.",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "cooking"
+      ],
+      "DEF_EN":"To heat a liquid or food item until it reaches its boiling point.",
+      "DEF_ZH":"（使液体或食物）煮沸；烧开。",
+      "SENT_EN":"You should boil the eggs for exactly eight minutes.",
+      "SENT_ZH":"你应该把鸡蛋煮正好八分钟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "heat",
+            "cook"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "freeze",
+            "cool"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] boil (with/over)",
+      "POS":"v. intr. + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "figurative",
+        "emotion",
+        "idiomatic"
+      ],
+      "DEF_EN":"To experience or show intense anger or excitement.",
+      "DEF_ZH":"（因愤怒、激动等而）沸腾；怒火中烧。",
+      "SENT_EN":"He was boiling with indignation after reading the critical review.",
+      "SENT_ZH":"读完那篇批评性的评论后，他气得火冒三丈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seethe",
+            "fume",
+            "rage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a boil",
+      "POS":"n.",
+      "POS_TIP":"noun (a person, place, or thing)",
+      "TAGS":[
+        "medical",
+        "infection"
+      ],
+      "DEF_EN":"A painful, localized swelling in the skin caused by bacterial infection, forming an abscess with pus.",
+      "DEF_ZH":"疖子；痈（皮肤感染形成的脓肿）。",
+      "SENT_EN":"She applied a warm compress to the painful boil on her arm.",
+      "SENT_ZH":"她把热敷包敷在了手臂上那个疼痛的疖子上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "abscess",
+            "pimple",
+            "carbuncle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Standard English"
+}

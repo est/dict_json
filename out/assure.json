@@ -1,0 +1,84 @@
+{
+  "WORD":"assure",
+  "IPA":"/əˈʃʊər/",
+  "CONJUGATES":"assures | assuring | assured",
+  "ETYMOLOGY":"From Middle English *assuren*, from Old French *asseurer*, from Latin *ad-* ('to') + *securus* ('safe, secure'). Originally meant 'to make safe'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"assure [sb] (of [sth]) / assure [sb] that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "communication"
+      ],
+      "DEF_EN":"To state something positively or confidently to someone to dispel their doubts; to promise.",
+      "DEF_ZH":"向某人确信地告知，以消除其疑虑；担保；保证。",
+      "SENT_EN":"The CEO assured the investors that the project was still on schedule.",
+      "SENT_ZH":"首席执行官向投资者保证项目仍在按计划进行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "promise",
+            "guarantee",
+            "vouch",
+            "certify"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "doubt",
+            "question"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "assurance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assure [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "formal",
+        "synonymous with ensure"
+      ],
+      "DEF_EN":"To make (something) certain to happen.",
+      "DEF_ZH":"确保某事一定会发生或成功。（常与ensure混用）",
+      "SENT_EN":"The early victory assured the team a place in the finals.",
+      "SENT_ZH":"早期的胜利确保了该队在决赛中占有一席之地。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ensure",
+            "insure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assure oneself (of [sth])",
+      "POS":"v refl",
+      "POS_TIP":"Reflexive verb",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To check or confirm something for oneself.",
+      "DEF_ZH":"亲自检查或确认某事。",
+      "SENT_EN":"He looked through the documents again to assure himself of the facts.",
+      "SENT_ZH":"他再次翻阅了文件，以亲自确认事实的准确性。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,65 @@
+{
+  "WORD":"correlation",
+  "IPA":"/ˌkɒrəˈleɪʃən/",
+  "CONJUGATES":"correlations",
+  "ETYMOLOGY":"From Latin con- (co-, 'together, with') and relatio (from referre 'to bring back, refer'), plus the noun suffix -tion. Introduced in English via correlate, meaning 'mutual relation'.",
+  "SINCE":"Mid 17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"correlation [between sth] and [sth] | correlation [of sth] [with sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A mutual relationship or connection between two or more things.",
+      "DEF_ZH":"相互关系；关联性；联系。",
+      "SENT_EN":"There is a strong correlation between early childhood education and long-term academic success.",
+      "SENT_ZH":"早期儿童教育与长期学术成功之间存在着密切的关联。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relationship",
+            "connection",
+            "link",
+            "association"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "correlate",
+            "causation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"correlation [in statistics]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "statistics",
+        "mathematics"
+      ],
+      "DEF_EN":"A measure of the extent to which two variables are related or move together, mathematically quantified by a correlation coefficient.",
+      "DEF_ZH":"（统计学）相关性；相关系数；变量共同变化的程度。",
+      "SENT_EN":"The experiment confirmed a positive correlation (r = 0.7) between fertilizer usage and crop yield.",
+      "SENT_ZH":"该实验证实了施肥量与作物产量之间存在正相关性（r = 0.7）。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "regression",
+            "coefficient",
+            "variable"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Statistical"
+}

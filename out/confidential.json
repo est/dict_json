@@ -1,0 +1,68 @@
+{
+  "WORD":"confidential",
+  "IPA":"/ˌkɒnfɪˈdɛnʃəl/",
+  "CONJUGATES":"confidentially (adv.) | confidentiality (n.)",
+  "ETYMOLOGY":"From Medieval Latin confīdentiālis, from Latin confīdentia ('trust, confidence'), itself from confīdere (con- 'with, completely' + fīdere 'to trust').",
+  "SINCE":"c. 1600",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is confidential (information/document)",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "business",
+        "formal"
+      ],
+      "DEF_EN":"Intended to be kept secret; entrusted with confidence, typically for professional reasons.",
+      "DEF_ZH":"机密的；秘密的；只限于受信任的人知晓的。",
+      "SENT_EN":"All employee records are strictly confidential and cannot be viewed without permission.",
+      "SENT_ZH":"所有员工记录都属于严格机密，未经允许不得查看。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "secret",
+            "private",
+            "classified",
+            "restricted",
+            "sensitive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "public",
+            "open",
+            "exposed",
+            "unrestricted"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"confidential [person/role]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "formal",
+        "relationship"
+      ],
+      "DEF_EN":"Indicating or relating to a relationship of trust or intimacy, often used to describe advisors or agents.",
+      "DEF_ZH":"亲信的；受信任的（指人或职务）。",
+      "SENT_EN":"She was hired as a confidential assistant to the mayor.",
+      "SENT_ZH":"她被聘为市长的亲信助理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trusted",
+            "intimate",
+            "fiduciary"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in business, legal, and professional settings."
+}

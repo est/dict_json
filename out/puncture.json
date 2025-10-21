@@ -1,0 +1,86 @@
+{
+  "WORD":"puncture",
+  "IPA":"/ˈpʌŋktʃər/",
+  "CONJUGATES":"punctures | puncturing | punctured",
+  "ETYMOLOGY":"From Late Middle English, deriving from Late Latin *punctura* 'a pricking', from Latin *pungere* 'to prick, sting'.",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small hole in a tire or other inflatable object caused by a sharp object.",
+      "DEF_ZH":"轮胎或其他充气物被尖锐物体刺穿后形成的小孔；穿刺孔。",
+      "SENT_EN":"I had to call roadside assistance because of a slow puncture.",
+      "SENT_ZH":"由于缓慢的穿孔（漏气），我不得不拨打道路救援电话。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "flat tire",
+            "leak",
+            "piercing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"puncture [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (verb taking a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make a small hole in something, especially by piercing it with a sharp point.",
+      "DEF_ZH":"刺穿；扎破（某物）；使形成穿孔。",
+      "SENT_EN":"The thorns on the bush punctured the balloon immediately.",
+      "SENT_ZH":"灌木上的荆棘立即刺破了气球。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pierce",
+            "perforate",
+            "stab"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"puncture [sth] [fig.]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb (verb taking a direct object)",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To suddenly undermine or destroy a positive feeling, claim, or illusion.",
+      "DEF_ZH":"（突然）破坏；挫伤（希望、幻想、自负等）。",
+      "SENT_EN":"The audience's silence quickly punctured his bravado.",
+      "SENT_ZH":"观众的沉默很快就挫伤了他的虚张声势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deflate",
+            "undermine",
+            "destroy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "inflate",
+            "encourage"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

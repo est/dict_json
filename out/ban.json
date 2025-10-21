@@ -1,0 +1,78 @@
+{
+  "WORD":"ban",
+  "IPA":"/bæn/",
+  "CONJUGATES":"ban | bans | banned | banning",
+  "ETYMOLOGY":"From Old English 'bannan' meaning 'to summon, proclaim,' which later developed the sense of 'to prohibit' from the late 14th century, influenced by Old Norse 'banna' and Old French 'banir'. The noun form is directly from the verb.",
+  "SINCE":"Verb: c. 800 (meaning 'summon'), late 14th century (meaning 'prohibit'); Noun: 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"ban [sth/sb] (from [doing sth]/from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"\"vtr\" stands for transitive verb, which is a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To officially or legally prohibit something or someone.",
+      "DEF_ZH":"正式或合法地禁止某事或某人。",
+      "SENT_EN":"The government decided to ban all plastic bags from supermarkets.",
+      "SENT_ZH":"政府决定禁止所有超市使用塑料袋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prohibit",
+            "forbid",
+            "outlaw",
+            "bar",
+            "exclude"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "allow",
+            "permit",
+            "authorize",
+            "license"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a ban (on [sth])",
+      "POS":"nc",
+      "POS_TIP":"\"nc\" stands for countable noun, which refers to individual items that can be counted.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An official or legal prohibition.",
+      "DEF_ZH":"一项正式或合法的禁令。",
+      "SENT_EN":"There is a ban on smoking in all public buildings.",
+      "SENT_ZH":"所有公共建筑内都禁止吸烟。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prohibition",
+            "embargo",
+            "interdict",
+            "restriction",
+            "veto"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "permission",
+            "authorization",
+            "sanction",
+            "license"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

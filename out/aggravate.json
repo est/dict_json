@@ -1,0 +1,69 @@
+{
+  "WORD":"aggravate",
+  "IPA":"/ˈæɡrəveɪt/",
+  "CONJUGATES":"aggravates | aggravated | aggravating",
+  "ETYMOLOGY":"From Latin aggravātus, past participle of aggravāre 'to make heavier', from ad- 'to' + gravis 'heavy'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"aggravate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To make a problem, injury, or bad situation worse or more serious.",
+      "DEF_ZH":"使（问题、伤情、局面等）恶化；加重；使更严重。",
+      "SENT_EN":"His absence would only aggravate an already difficult situation.",
+      "SENT_ZH":"他的缺席只会使本已困难的局面雪上加霜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "worsen",
+            "exacerbate",
+            "intensify",
+            "deepen"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "alleviate",
+            "lessen",
+            "improve",
+            "relieve"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"aggravate [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "common",
+        "informal",
+        "disputed usage"
+      ],
+      "DEF_EN":"To annoy or irritate someone. (Often considered an informal or incorrect usage by some prescriptive grammarians, who prefer 'annoy' or 'irritate' for this sense.)",
+      "DEF_ZH":"使（某人）恼火；激怒（常被一些规范性语法学家认为是口语或不规范的用法）。",
+      "SENT_EN":"His constant complaining really aggravates me.",
+      "SENT_ZH":"他不停的抱怨真让我恼火。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "annoy",
+            "irritate",
+            "exasperate",
+            "vex"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal (for meaning 1), Informal (for meaning 2)"
+}

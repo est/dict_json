@@ -1,0 +1,126 @@
+{
+  "WORD":"canary",
+  "IPA":"/kəˈnɛəri/",
+  "CONJUGATES":"canary | canaries",
+  "ETYMOLOGY":"From Spanish 'canario', referring to the Canary Islands, where the birds are native. The islands themselves were named from Latin 'Canariae Insulae' ('Islands of the Dogs'), likely due to large dogs found there by ancient explorers.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] canary",
+      "POS":"noun",
+      "POS_TIP":"a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A small, yellow or yellowish-green songbird, native to the Canary Islands, Azores, and Madeira, often kept as a cage bird.",
+      "DEF_ZH":"一种小型黄色或黄绿色鸣禽，原产于加那利群岛、亚速尔群岛和马德拉群岛，常作为笼养鸟饲养。",
+      "SENT_EN":"The canary sang sweetly from its cage, filling the room with melody.",
+      "SENT_ZH":"金丝雀在笼子里唱着甜美的歌，歌声充满房间。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "finch",
+            "songbird"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] canary in a coal mine",
+      "POS":"idiom",
+      "POS_TIP":"a group of words established by usage as having a meaning not deducible from those of the individual words.",
+      "TAGS":[
+        "idiom",
+        "common"
+      ],
+      "DEF_EN":"Something or someone that serves as an early indicator of impending danger or trouble (derived from the historical use of canaries by miners to detect toxic gases).",
+      "DEF_ZH":"危险或麻烦的早期预警信号（源自煤矿工人曾用金丝雀监测有毒气体）。",
+      "SENT_EN":"The declining population of a specific insect species is often seen as the canary in the coal mine for environmental collapse.",
+      "SENT_ZH":"某种特定昆虫数量的下降常被视为环境崩溃的早期预警。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "harbinger",
+            "omen",
+            "precursor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"canary [yellow]",
+      "POS":"adjective",
+      "POS_TIP":"a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Of a bright, vivid yellow color, resembling that of a typical canary.",
+      "DEF_ZH":"明亮、鲜艳的黄色，类似于典型金丝雀的颜色。",
+      "SENT_EN":"She chose a dress in a striking canary yellow for the summer party.",
+      "SENT_ZH":"她为夏季派对选择了一条醒目的金丝雀黄色连衣裙。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "yellow",
+            "lemon",
+            "saffron"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"canary [release/deployment/build]",
+      "POS":"noun (attributive)",
+      "POS_TIP":"a word that represents a person, place, thing, or idea, here modifying another noun.",
+      "TAGS":[
+        "technical",
+        "computing",
+        "modern"
+      ],
+      "DEF_EN":"(In software development) A small, experimental release of a new feature or software version deployed to a subset of users to test for potential issues before a wider rollout.",
+      "DEF_ZH":"（计算机软件开发）将新功能或软件版本小范围部署给一部分用户进行测试，以发现潜在问题，然后再进行更广泛推广的发布策略。",
+      "SENT_EN":"We are planning a canary deployment for the new login system to a small percentage of users next week.",
+      "SENT_ZH":"我们计划下周将新的登录系统进行金丝雀部署，推向一小部分用户。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "A/B testing",
+            "blue-green deployment",
+            "feature flag"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] canary",
+      "POS":"noun",
+      "POS_TIP":"a word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "rare",
+        "informal",
+        "dated"
+      ],
+      "DEF_EN":"(Informal, dated) A female singer.",
+      "DEF_ZH":"（非正式，过时）女歌手。",
+      "SENT_EN":"Back in the jazz clubs of the 1930s, she was quite the canary, enchanting audiences with her voice.",
+      "SENT_ZH":"在20世纪30年代的爵士俱乐部里，她可是个了不起的女歌手，用她的歌声迷住了观众。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "singer",
+            "vocalist",
+            "songstress"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, with specific technical and idiomatic uses."
+}

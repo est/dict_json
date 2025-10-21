@@ -1,0 +1,78 @@
+{
+  "WORD":"seem",
+  "IPA":"/siːm/",
+  "CONJUGATES":"seems | seemed | seeming",
+  "ETYMOLOGY":"From Middle English semen, from Old Norse sœma ('to conform to, befit'), from Proto-Germanic *sōmijaną ('to suit, befit'), from Proto-Indo-European *som-, *sem- ('together, one'). Influenced by Old English sēman ('to reconcile, arbitrate').",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] seem [adj/noun] | [sth] seem to be [adj/noun]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To give the impression of being something; to appear to be.",
+      "DEF_ZH":"看起来，似乎是；显得",
+      "SENT_EN":"She seems happy today, but I wonder why.",
+      "SENT_ZH":"她今天看起来很高兴，但我想知道为什么。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appear",
+            "look",
+            "sound",
+            "feel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"It seems that [clause] | It seems [adj]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common",
+        "impersonal"
+      ],
+      "DEF_EN":"Used to say that something appears to be true or to exist, often when you are not certain.",
+      "DEF_ZH":"看来，似乎（表示不确定或推测）",
+      "SENT_EN":"It seems that we have run out of time.",
+      "SENT_ZH":"看来我们没时间了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "appear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] seem [fitting/right] (to [sb])",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "less common",
+        "formal"
+      ],
+      "DEF_EN":"To be fitting or proper; to be appropriate.",
+      "DEF_ZH":"适宜，恰当；符合（某人的意愿）",
+      "SENT_EN":"It would not seem right to leave without saying goodbye.",
+      "SENT_ZH":"不辞而别似乎不合适。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fit",
+            "be appropriate",
+            "be proper"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

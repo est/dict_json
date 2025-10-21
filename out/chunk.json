@@ -1,0 +1,106 @@
+{
+  "WORD":"chunk",
+  "IPA":"/tʃʌŋk/",
+  "CONJUGATES":"chunk (n.) | chunks (n. pl.) | chunk (v.) | chunks (v. 3rd pers. sg. pres.) | chunking (v. pres. part.) | chunked (v. past t. & past part.)",
+  "ETYMOLOGY":"Early 17th century, possibly a blend of 'chump' (meaning a thick piece) and 'hunk'.",
+  "SINCE":"circa 1600s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A thick, solid piece of something, often irregular in shape.",
+      "DEF_ZH":"一大块、厚实且通常不规则形状的某物。",
+      "SENT_EN":"She cut the chocolate into small chunks for the cake.",
+      "SENT_ZH":"她把巧克力切成小块做蛋糕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lump",
+            "block",
+            "piece",
+            "slab",
+            "hunk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a chunk of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"A considerable or large part or amount of something.",
+      "DEF_ZH":"某物的一大部分或相当大的数量。",
+      "SENT_EN":"They spent a large chunk of their savings on a new car.",
+      "SENT_ZH":"他们把大部分积蓄花在了新车上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "portion",
+            "section",
+            "share",
+            "segment",
+            "part"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chunk [sth] (up)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To break or cut something into thick, solid pieces.",
+      "DEF_ZH":"将某物切成或分成大块。",
+      "SENT_EN":"He chunked up the firewood before putting it in the stove.",
+      "SENT_ZH":"他把木柴劈成大块，然后放进炉子里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chop",
+            "cut",
+            "cleave",
+            "hack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chunk [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "computing"
+      ],
+      "DEF_EN":"To divide data or information into smaller, manageable units or 'chunks', especially for processing or transmission.",
+      "DEF_ZH":"将数据或信息分成更小、更易于管理的部分（“块”），尤指为了处理或传输。",
+      "SENT_EN":"The program can chunk large files to optimize network transfer.",
+      "SENT_ZH":"该程序可以将大文件分块以优化网络传输。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "packet",
+            "segmentation",
+            "data compression"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday language; also used as a specific technical term in computing."
+}

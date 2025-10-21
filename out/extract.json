@@ -1,0 +1,132 @@
+{
+  "WORD":"extract",
+  "IPA":"/ɪkˈstrækt/",
+  "CONJUGATES":"extracts | extracting | extracted",
+  "ETYMOLOGY":"From Latin *extrahere* (past participle *extractus*), from *ex-* ('out') + *trahere* ('to draw, pull').",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"extract [sth] [from sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To draw or pull out (something) forcibly or carefully, often a physical object like a tooth or bullet.",
+      "DEF_ZH":"用力或仔细地取出或拔出（某物），通常指牙齿或子弹等实体。",
+      "SENT_EN":"The dentist successfully extracted the decayed molar.",
+      "SENT_ZH":"牙医成功地拔掉了那颗蛀牙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "remove",
+            "withdraw",
+            "pull out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insert",
+            "implant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"extract [sth] [from sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To obtain information, a response, or a promise, often with difficulty or pressure.",
+      "DEF_ZH":"获取信息、回应或承诺，通常带有困难或施压。",
+      "SENT_EN":"Reporters struggled to extract a statement from the secretive CEO.",
+      "SENT_ZH":"记者们很难从这位守口如瓶的首席执行官那里得到一份声明。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "elicit",
+            "obtain",
+            "wrench"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"extract [sth] [from sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "chemistry"
+      ],
+      "DEF_EN":"To obtain a substance or essence from another substance by chemical or mechanical separation.",
+      "DEF_ZH":"通过化学或机械分离，从另一种物质中获取某种物质或精华。",
+      "SENT_EN":"Workers extract caffeine from coffee beans to produce decaf.",
+      "SENT_ZH":"工人从咖啡豆中提取咖啡因来生产脱咖啡因咖啡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "derive",
+            "distill",
+            "process"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] extract [of sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun (Pronunciation: /ˈɛkstrækt/)",
+      "TAGS":[
+        "common",
+        "cooking"
+      ],
+      "DEF_EN":"A preparation containing the concentrated active ingredient of a substance, typically used in food or medicine.",
+      "DEF_ZH":"含有物质浓缩活性成分的制剂，通常用于食品或药品。",
+      "SENT_EN":"Be sure to use pure almond extract, not imitation flavoring.",
+      "SENT_ZH":"务必使用纯杏仁精，而非人造调味剂。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "essence",
+            "tincture",
+            "concentrate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[an] extract [from sth]",
+      "POS":"nc",
+      "POS_TIP":"countable noun (Pronunciation: /ˈɛkstrækt/)",
+      "TAGS":[
+        "formal",
+        "literature"
+      ],
+      "DEF_EN":"A short passage or selection taken from a longer written work, film, or piece of music.",
+      "DEF_ZH":"从较长的书面作品、电影或音乐作品中选取的简短片段或选段。",
+      "SENT_EN":"The students analyzed an extract from Shakespeare's Macbeth.",
+      "SENT_ZH":"学生们分析了莎士比亚《麦克白》中的一段选文。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excerpt",
+            "quotation",
+            "selection"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use; technical in scientific and literary contexts."
+}

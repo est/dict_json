@@ -1,0 +1,133 @@
+{
+  "WORD":"rig",
+  "IPA":"/rɪɡ/",
+  "CONJUGATES":"rigs | rigging | rigged",
+  "ETYMOLOGY":"Middle English (c. 1400) originally relating to sailing, possibly of Scandinavian origin (related to Norwegian rigga 'to wrap, bind'). The sense of 'manipulate dishonestly' is 19th-century American English.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"rig [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core",
+        "Common",
+        "Politics"
+      ],
+      "DEF_EN":"To manage or conduct something fraudulently in order to secure a desired outcome; to fix or tamper with the results dishonestly.",
+      "DEF_ZH":"操纵；舞弊；暗中控制（以确保特定结果）。",
+      "SENT_EN":"The political party was accused of rigging the election results by invalidating thousands of votes.",
+      "SENT_ZH":"该政党被指控通过作废数千张选票来操纵选举结果。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fix",
+            "manipulate",
+            "tamper"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fairly determine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rig (e.g., oil rig)",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Core",
+        "Industry",
+        "Engineering"
+      ],
+      "DEF_EN":"A large, specialized structure or assembly used for drilling for oil or gas, particularly offshore.",
+      "DEF_ZH":"钻探平台；钻井架（尤指海上石油或天然气平台）。",
+      "SENT_EN":"Safety procedures are paramount when working hundreds of miles offshore on an oil rig.",
+      "SENT_ZH":"在距离海岸数百英里的石油钻井平台上工作，安全程序至关重要。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "derrick",
+            "platform"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a rig (e.g., gaming rig)",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Core",
+        "Technical",
+        "Informal"
+      ],
+      "DEF_EN":"A specific, often complex, set of equipment or machinery assembled for a particular purpose.",
+      "DEF_ZH":"成套设备；装置；工具组（常指复杂的设备，如电脑、摄影器材等）。",
+      "SENT_EN":"He spent all weekend setting up his new virtual reality gaming rig.",
+      "SENT_ZH":"他花了一整个周末来设置他新的虚拟现实游戏设备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "setup",
+            "apparatus",
+            "gear"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rig [sth] (up/out)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core",
+        "Technical",
+        "Nautical"
+      ],
+      "DEF_EN":"To assemble, equip, or set up something, often quickly or using improvised materials.",
+      "DEF_ZH":"装备；（临时）搭建或安装；给...装配索具。",
+      "SENT_EN":"We managed to rig up a basic antenna to pick up the signal.",
+      "SENT_ZH":"我们设法临时搭建了一个基本天线来接收信号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equip",
+            "fit out",
+            "set up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the rig",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "Technical",
+        "Nautical"
+      ],
+      "DEF_EN":"The arrangement of masts, spars, sails, and ropes on a ship or boat.",
+      "DEF_ZH":"帆装；（船的）索具和桅杆配置。",
+      "SENT_EN":"He spent years learning the intricacies of a square-rig.",
+      "SENT_ZH":"他花了好几年时间学习横帆装的复杂细节。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sails",
+            "masts"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used across technical fields (nautical, engineering) and informal contexts (manipulation, equipment)."
+}

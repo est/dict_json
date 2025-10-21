@@ -1,0 +1,80 @@
+{
+  "WORD":"she",
+  "IPA":"/ʃiː/",
+  "CONJUGATES":"her | hers | herself",
+  "ETYMOLOGY":"From Middle English *sche*, *scho*, from Old English *hēo* ('she'), influenced by Old Norse *sjá*. Ultimately from Proto-Germanic *hijō* ('she'), related to *hē* ('he') and *hit* ('it').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"she [v]",
+      "POS":"pronoun",
+      "POS_TIP":"A word that substitutes for a noun, referring to a female person, animal, or object personified as female, acting as the subject of a verb.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to refer to a woman, girl, or female animal that has already been mentioned or is easily identified.",
+      "DEF_ZH":"用于指代一位女性、女孩或雌性动物（已提及或易于识别）。",
+      "SENT_EN":"My sister loves to read; she always has a book with her.",
+      "SENT_ZH":"我姐姐爱看书；她身边总带着一本书。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "he",
+            "it",
+            "they",
+            "we",
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"she [v] (referring to a ship/country)",
+      "POS":"pronoun",
+      "POS_TIP":"A word that substitutes for a noun, used to refer to a ship, country, or other entity personified as female, acting as the subject of a verb.",
+      "TAGS":[
+        "common",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to refer to a ship, country, or other inanimate object when it is personified as female.",
+      "DEF_ZH":"用于指代一艘船、一个国家或其他被拟人化为女性的无生命物体。",
+      "SENT_EN":"The old warship sailed proudly into port; she had bravely faced many battles.",
+      "SENT_ZH":"那艘旧战舰骄傲地驶入港口；她曾勇敢地面对过许多战役。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a she",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "rare",
+        "informal"
+      ],
+      "DEF_EN":"A female person or animal.",
+      "DEF_ZH":"一个女性或雌性动物。",
+      "SENT_EN":"We're not sure if it's a he or a she yet.",
+      "SENT_ZH":"我们还不确定是公的还是母的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "female",
+            "woman",
+            "girl"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "he",
+            "male",
+            "man"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

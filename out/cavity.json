@@ -1,0 +1,92 @@
+{
+  "WORD":"cavity",
+  "IPA":"/ˈkævɪti/",
+  "CONJUGATES":"cavities (pl.)",
+  "ETYMOLOGY":"From Latin cavitas ('hollowedness'), from cavus ('hollow'). Influenced by Middle French cavité.",
+  "SINCE":"Mid-17th century (c. 1640s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] cavity [in sth]",
+      "POS":"n.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Core Word",
+        "Anatomy"
+      ],
+      "DEF_EN":"A hollow space or a potential space within a solid body, object, or an organism.",
+      "DEF_ZH":"实体、物体、或有机体内的一个空洞或潜在的空间。",
+      "SENT_EN":"The human skull contains the cranial cavity, which houses the brain.",
+      "SENT_ZH":"人类头骨包含颅腔，大脑位于其中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hollow",
+            "chamber",
+            "void",
+            "opening"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "sinus",
+            "aperture"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] cavity",
+      "POS":"n.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Common",
+        "Medical",
+        "Dental"
+      ],
+      "DEF_EN":"A specific area of decay in a tooth, caused by bacterial acid erosion, resulting in a hole; also known as dental caries.",
+      "DEF_ZH":"牙齿因细菌酸蚀而腐烂形成的洞（蛀牙或龋洞）。",
+      "SENT_EN":"Regular brushing can help prevent cavities and gum disease.",
+      "SENT_ZH":"定期刷牙有助于预防蛀牙和牙龈疾病。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "caries",
+            "tooth decay"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sound tooth"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] cavity",
+      "POS":"n.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Technical",
+        "Physics"
+      ],
+      "DEF_EN":"A partially or fully enclosed space designed to contain and resonate electromagnetic energy, used in devices such as lasers and microwave ovens.",
+      "DEF_ZH":"用于容纳和谐振电磁能的部分或完全封闭的空间，用于激光器和微波炉等设备中。",
+      "SENT_EN":"The laser light bounced back and forth within the optical cavity.",
+      "SENT_ZH":"激光在光学谐振腔内来回反射。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "resonator",
+            "waveguide"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

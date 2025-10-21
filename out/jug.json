@@ -1,0 +1,86 @@
+{
+  "WORD":"jug",
+  "IPA":"/dʒʌɡ/",
+  "CONJUGATES":"jugs | jugging | jugged",
+  "ETYMOLOGY":"Middle English *jugge*, possibly derived from a proper name like *Joan* or *Judith* (familiar forms). Used for a drinking vessel since the 15th century.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A deep container for liquids, usually having a handle and a lip or spout for pouring.",
+      "DEF_ZH":"（有柄、有嘴的）罐，壺，水罐，罇。",
+      "SENT_EN":"She filled the glass jug with iced tea and lemon slices.",
+      "SENT_ZH":"她將玻璃水罐裝滿了冰茶和檸檬片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pitcher",
+            "carafe",
+            "ewer"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mug",
+            "bottle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"jug [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "slang",
+        "UK"
+      ],
+      "DEF_EN":"To put (someone) in jail or prison.",
+      "DEF_ZH":"監禁，把（某人）關進監獄。",
+      "SENT_EN":"If they catch him stealing again, they'll jug him for sure.",
+      "SENT_ZH":"如果他們再抓到他偷竊，他們一定會把他關起來。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imprison",
+            "jail",
+            "incarcerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the jug",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "US/UK"
+      ],
+      "DEF_EN":"Prison or jail.",
+      "DEF_ZH":"監獄，牢房。（常用於俚語 'in the jug'）",
+      "SENT_EN":"After the incident, he spent two weeks in the jug.",
+      "SENT_ZH":"事件發生後，他在監獄裡待了兩週。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clink",
+            "hoosegow",
+            "prison"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage for container; informal/slang for prison terms."
+}

@@ -1,0 +1,90 @@
+{
+  "WORD":"eject",
+  "IPA":"/ɪˈdʒɛkt/",
+  "CONJUGATES":"ejects | ejected | ejecting",
+  "ETYMOLOGY":"From Latin ējectus, past participle of ējacere ('throw out'), from ē- ('out') + jacere ('to throw').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"eject [sth] | eject [sb]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To force or throw (something or someone) out, especially suddenly or violently; to expel.",
+      "DEF_ZH":"强行驱逐、抛出（某物或某人），尤指突然或猛烈地；驱逐。",
+      "SENT_EN":"The pilot was forced to eject from the damaged aircraft.",
+      "SENT_ZH":"飞行员被迫从受损的飞机中弹射出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expel",
+            "throw out",
+            "dislodge",
+            "evict",
+            "oust",
+            "banish"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "admit",
+            "insert",
+            "welcome"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"eject [sth] from [sth]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To cause (a disk, tape, or other medium) to be automatically removed from a player or drive.",
+      "DEF_ZH":"使（光盘、磁带或其他介质）从播放器或驱动器中自动弹出。",
+      "SENT_EN":"Press this button to eject the DVD from the player.",
+      "SENT_ZH":"按下此按钮即可将DVD从播放器中弹出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pop out",
+            "release",
+            "disgorge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"eject [sb] from [game/match]",
+      "POS":"v.tr.",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects",
+      "TAGS":[
+        "sports",
+        "specific use"
+      ],
+      "DEF_EN":"(Of an umpire or referee) to order (a player or coach) to leave a game because of an offense or misconduct.",
+      "DEF_ZH":"（裁判）因犯规或不当行为而勒令（球员或教练）离开比赛。",
+      "SENT_EN":"The umpire ejected the manager for arguing vehemently.",
+      "SENT_ZH":"裁判因激烈争吵而将经理驱逐出场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "disqualify",
+            "send off",
+            "throw out"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

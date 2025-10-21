@@ -1,0 +1,63 @@
+{
+  "WORD":"barber",
+  "IPA":"/'bɑːrbər/",
+  "CONJUGATES":"barbers (pl.) | barbered (pt., pp.) | barbering (pres.p.)",
+  "ETYMOLOGY":"From Middle English barbour, from Anglo-Norman barbour, from Old French barbeor, derived from Latin barba ('beard').",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] barber",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession",
+        "common"
+      ],
+      "DEF_EN":"A person whose profession is to cut, trim, style, and shave hair, especially men's hair and beards.",
+      "DEF_ZH":"理发师；发型师（尤指为男士理发和修剪胡须的人）",
+      "SENT_EN":"The barber used a straight razor for the closest shave.",
+      "SENT_ZH":"这位理发师使用直剃刀进行最贴合的剃须。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hairstylist",
+            "hairdresser"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "barbershop",
+            "shave"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"barber [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "less common",
+        "dated"
+      ],
+      "DEF_EN":"To cut or trim the hair or beard of a person, or to act as a barber.",
+      "DEF_ZH":"给某人理发或修剪胡须；从事理发师的工作",
+      "SENT_EN":"He barbered his own hair with military precision.",
+      "SENT_ZH":"他用军队般的精确度给自己理了发。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut",
+            "trim",
+            "shear"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

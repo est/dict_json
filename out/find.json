@@ -1,0 +1,112 @@
+{
+  "WORD":"find",
+  "IPA":"/faɪnd/",
+  "CONJUGATES":"find | finds | finding | found",
+  "ETYMOLOGY":"From Old English 'findan' meaning 'to come upon, discover, invent'. Of Germanic origin; related to Dutch 'vinden', German 'finden', and Latin 'venari' ('hunt').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"find [sth] | find [sb]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes a direct object.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To discover or locate something or someone, either by chance or by searching.",
+      "DEF_ZH":"偶然或通过寻找而发现或找到某物或某人。",
+      "SENT_EN":"I finally found my lost keys under the sofa.",
+      "SENT_ZH":"我终于在沙发下找到了我丢失的钥匙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discover",
+            "locate",
+            "come across",
+            "uncover"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lose",
+            "misplace"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"find [sth] + adjective | find that [clause]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To perceive or experience something in a particular way, often unexpectedly, or to form an opinion after consideration.",
+      "DEF_ZH":"以某种方式感知或体验某事，通常是出乎意料的；或经过考虑后形成某种看法。",
+      "SENT_EN":"I find it hard to believe his story.",
+      "SENT_ZH":"我发现很难相信他的故事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perceive",
+            "experience",
+            "realize",
+            "feel",
+            "consider"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"find [sb] guilty/innocent | find for/against [sb]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes a direct object.",
+      "TAGS":[
+        "formal",
+        "legal"
+      ],
+      "DEF_EN":"To reach a decision or verdict, especially in a legal context, or to declare a judgement.",
+      "DEF_ZH":"做出判决或裁定，尤其是在法律语境中，或宣布判决。",
+      "SENT_EN":"The jury found the defendant guilty on all counts.",
+      "SENT_ZH":"陪审团裁定被告所有罪名成立。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "determine",
+            "conclude",
+            "rule",
+            "adjudge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"find [sth]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes a direct object.",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To obtain or provide something that is needed or desired.",
+      "DEF_ZH":"获得或提供所需或希望的某物。",
+      "SENT_EN":"We need to find a solution to this problem quickly.",
+      "SENT_ZH":"我们需要尽快找到解决这个问题的办法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obtain",
+            "procure",
+            "secure",
+            "supply"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, commonly used in everyday language, also in formal and legal contexts."
+}

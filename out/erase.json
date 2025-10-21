@@ -1,0 +1,89 @@
+{
+  "WORD":"erase",
+  "IPA":"/ɪˈreɪz/",
+  "CONJUGATES":"erases | erasing | erased",
+  "ETYMOLOGY":"From Middle English erasen, from Old French eraser (to scratch out), from Latin ērādere (ē- 'out, away' + rādere 'to scrape, scratch').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"erase [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To rub out or wipe away (written or recorded material, usually deliberately).",
+      "DEF_ZH":"擦掉；抹去（书写、标记或数据）。",
+      "SENT_EN":"Please erase the whiteboard before the next class begins.",
+      "SENT_ZH":"请在下一堂课开始前把白板擦干净。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rub out",
+            "delete",
+            "obliterate",
+            "expunge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "write",
+            "record",
+            "imprint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"erase [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To eliminate or cause to vanish completely; to remove from existence or memory.",
+      "DEF_ZH":"消除；抹杀；使遗忘（指记忆、感觉或历史记录）。",
+      "SENT_EN":"They tried to erase all evidence of their involvement.",
+      "SENT_ZH":"他们试图抹去所有与他们有关的证据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "annihilate",
+            "cancel",
+            "nullify",
+            "wipe out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"erase [sth] from [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb plus preposition",
+      "TAGS":[
+        "figurative",
+        "informal"
+      ],
+      "DEF_EN":"To completely overcome a deficit or advantage held by an opponent (often in sports or competition).",
+      "DEF_ZH":"（常用于体育比赛中）抹平劣势或差距；反败为胜。",
+      "SENT_EN":"The team successfully erased a three-goal deficit in the final period.",
+      "SENT_ZH":"这支队伍在最后阶段成功抹平了三分的劣势。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "overcome",
+            "close the gap",
+            "nullified"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

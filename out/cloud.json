@@ -1,0 +1,174 @@
+{
+  "WORD":"cloud",
+  "IPA":"/klaʊd/",
+  "CONJUGATES":"clouds (n.pl.) | clouds (v.3rd.sg.pres.) | clouded (v.past.pt.) | clouding (v.pres.p.)",
+  "ETYMOLOGY":"From Old English clūd 'mass of rock, hill,' later also 'cloud' (perhaps influenced by the resemblance of clouds to hills or masses of rock).",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a cloud | the clouds",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A visible mass of condensed water vapor floating in the atmosphere, typically high above the general level of the ground.",
+      "DEF_ZH":"大气中悬浮的由水滴或冰晶组成的可见团块，通常在地面以上很高的地方。",
+      "SENT_EN":"Dark clouds gathered quickly, signaling an approaching storm.",
+      "SENT_ZH":"乌云迅速聚集，预示着暴风雨即将来临。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mass",
+            "nebula",
+            "haze"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fog",
+            "mist",
+            "smog"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cloud of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A visible mass of smoke, dust, steam, or a large number of insects or birds moving together.",
+      "DEF_ZH":"一团可见的烟雾、灰尘、蒸汽，或大量昆虫、鸟类聚集在一起。",
+      "SENT_EN":"A huge cloud of locusts descended upon the crops.",
+      "SENT_ZH":"一大群蝗虫降落在庄稼上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mass",
+            "swarm",
+            "haze",
+            "plume"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a cloud [over sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"A state or feeling of gloom, suspicion, sadness, or trouble that spoils an otherwise pleasant situation.",
+      "DEF_ZH":"一种阴郁、怀疑、悲伤或困扰的状态或感觉，会破坏原本愉快的局面。",
+      "SENT_EN":"A cloud of suspicion hung over the politician after the scandal.",
+      "SENT_ZH":"丑闻发生后，一片疑云笼罩着这位政治家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gloom",
+            "shadow",
+            "trouble",
+            "blight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the cloud",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "modern"
+      ],
+      "DEF_EN":"A network of remote servers hosted on the internet and used to store, manage, and process data, rather than a local server or personal computer.",
+      "DEF_ZH":"指互联网上远程服务器网络，用于存储、管理和处理数据，而非本地服务器或个人电脑。",
+      "SENT_EN":"Many businesses are now storing their important documents in the cloud.",
+      "SENT_ZH":"许多企业现在将重要文件存储在云端。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "internet",
+            "server",
+            "data storage",
+            "cloud computing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cloud [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To make something obscure or unclear; to cover or obscure with clouds or a cloud-like mass.",
+      "DEF_ZH":"使某物模糊不清；用云或类似云的团块覆盖或遮蔽。",
+      "SENT_EN":"Smoke from the fire quickly clouded the entire valley.",
+      "SENT_ZH":"火灾产生的烟雾很快笼罩了整个山谷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obscure",
+            "darken",
+            "veil",
+            "fog"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clear",
+            "illuminate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cloud [sb's] judgment/mind",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To make someone's mind or judgment unclear or confused, often due to strong emotions or bias.",
+      "DEF_ZH":"使某人的思想或判断变得模糊不清或混乱，通常是由于强烈的情绪或偏见。",
+      "SENT_EN":"His anger began to cloud his ability to think rationally.",
+      "SENT_ZH":"他的愤怒开始蒙蔽了他的理性思考能力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "confuse",
+            "muddle",
+            "distort",
+            "bias"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "clarify",
+            "enlighten"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

@@ -1,0 +1,66 @@
+{
+  "WORD":"parasite",
+  "IPA":"/ˈpærəsaɪt/",
+  "CONJUGATES":"plural: parasites",
+  "ETYMOLOGY":"From Latin parasītus 'freeloader, sycophant', from Greek parasitos (παράσιτος) 'one who eats at another's table', from para- 'beside' + sitos 'food, grain'.",
+  "SINCE":"Mid-16th century (in the biological sense), late 16th century (in the derogatory sense).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is a parasite",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"An organism that lives in or on another organism (its host) and benefits by deriving nutrients at the host's expense.",
+      "DEF_ZH":"寄生于其他生物体内或体表，以宿主提供的营养为生，并从中获益的生物。",
+      "SENT_EN":"The tapeworm is a common internal parasite of mammals.",
+      "SENT_ZH":"绦虫是哺乳动物体内常见的寄生虫。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "host",
+            "symbiosis",
+            "commensalism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] is a parasite",
+      "POS":"noun",
+      "POS_TIP":"A word that refers to a person, place, thing, or idea.",
+      "TAGS":[
+        "figurative",
+        "derogatory",
+        "common"
+      ],
+      "DEF_EN":"A person who habitually relies on or exploits others without giving anything in return; a sycophant or freeloader.",
+      "DEF_ZH":"寄生虫；指那些不劳而获，常利用他人的慷慨而不给予任何回报的人。",
+      "SENT_EN":"He was accused of being a parasite, living off his wealthy parents.",
+      "SENT_ZH":"他被指责是寄生虫，靠着富裕的父母生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "freeloader",
+            "scrounger",
+            "leech",
+            "sponge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "contributor",
+            "provider"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal in biology; informal and derogatory in general use."
+}

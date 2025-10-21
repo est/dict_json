@@ -1,0 +1,107 @@
+{
+  "WORD":"estate",
+  "IPA":"/ɪˈsteɪt/",
+  "CONJUGATES":"estate | estates",
+  "ETYMOLOGY":"From Old French estat ('state', 'condition', 'status', 'estate'), from Latin status ('condition', 'position', 'standing'), from stare ('to stand').",
+  "SINCE":"Late 13th century (for 'condition, status'); 14th century (for 'property, land')",
+  "MEANINGS":[
+    {
+      "PATTERN":"an estate | an estate of [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large area of land in the country, usually with a large house, owned by one person, family, or organization.",
+      "DEF_ZH":"（乡村的）大片地产；庄园；府邸",
+      "SENT_EN":"The family owns a vast estate in the Scottish Highlands.",
+      "SENT_ZH":"这个家族在苏格兰高地拥有一片广阔的庄园。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "property",
+            "plantation",
+            "domain",
+            "demesne"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"someone's estate | the estate of [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "legal",
+        "financial",
+        "common"
+      ],
+      "DEF_EN":"All the money and property owned by a particular person, especially at the time of their death.",
+      "DEF_ZH":"（尤指死者的）全部财产，遗产",
+      "SENT_EN":"The will stipulated how his estate was to be divided among his children.",
+      "SENT_ZH":"遗嘱规定了他的遗产如何在他的孩子之间分配。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assets",
+            "belongings",
+            "inheritance",
+            "legacy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a housing estate | an industrial estate",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "British English"
+      ],
+      "DEF_EN":"An area with many houses or factories of a similar type built close together.",
+      "DEF_ZH":"（某一类型的）住宅区；工业区",
+      "SENT_EN":"They live on a large housing estate on the edge of the city.",
+      "SENT_ZH":"他们住在市郊一个大型住宅区里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "development",
+            "community",
+            "complex"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in a sorry estate | the fourth estate",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "historical"
+      ],
+      "DEF_EN":"(Archaic) A person's position or standing in society; their condition or state of life.",
+      "DEF_ZH":"（古）地位；身份；状况",
+      "SENT_EN":"In times past, one's estate determined much about their future.",
+      "SENT_ZH":"在过去，一个人的地位决定了他大部分的未来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "status",
+            "rank",
+            "condition",
+            "state"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, everyday, legal, business"
+}

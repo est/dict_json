@@ -1,0 +1,85 @@
+{
+  "WORD":"cent",
+  "IPA":"/sɛnt/",
+  "CONJUGATES":"cents",
+  "ETYMOLOGY":"From Latin centum ('one hundred'), via Old French cent or Middle Dutch cent. The monetary sense originated in the 17th century.",
+  "SINCE":"Late 14th century (as hundred), 17th century (as currency)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] cent(s)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Currency",
+        "Common"
+      ],
+      "DEF_EN":"A monetary unit equal to one hundredth of the basic currency unit in many countries (such as the dollar, euro, or rand).",
+      "DEF_ZH":"货币单位，等于许多国家（如美国、加拿大、欧元区）主货币单位的百分之一。",
+      "SENT_EN":"The candy bar costs ninety-nine cents.",
+      "SENT_ZH":"那块巧克力棒售价九十九美分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "penny",
+            "dime"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dollar",
+            "euro",
+            "percent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"not worth a cent | doesn't have a cent",
+      "POS":"n.",
+      "POS_TIP":"noun (used figuratively/idiomatically)",
+      "TAGS":[
+        "Idiomatic",
+        "Informal"
+      ],
+      "DEF_EN":"Used figuratively to represent a minimal or negligible amount, often of money or value.",
+      "DEF_ZH":"（用于否定句或表达零散数量时）微不足道的数量或价值；一文钱。",
+      "SENT_EN":"That old piece of junk isn't worth a cent anymore.",
+      "SENT_ZH":"那堆旧垃圾现在一文不值了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "farthing",
+            "iota"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cent (measurement)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Specialized",
+        "Music"
+      ],
+      "DEF_EN":"In music theory, a logarithmic unit of measure used for small intervals. One cent equals 1/1200 of an octave.",
+      "DEF_ZH":"（音乐）音分，音程的对数测量单位，一个八度等于1200音分。",
+      "SENT_EN":"The tuning was off by only five cents.",
+      "SENT_ZH":"调音只差了五个音分。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "octave",
+            "semitone"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

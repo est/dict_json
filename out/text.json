@@ -1,0 +1,102 @@
+{
+  "WORD":"text",
+  "IPA":"/tɛkst/",
+  "CONJUGATES":"texts (plural noun) | texts (3rd person singular present verb) | texting (present participle) | texted (past tense verb, past participle)",
+  "ETYMOLOGY":"From Old French 'texte', from Latin 'textus' ('woven thing, structure, texture, context'), from 'texere' ('to weave'). Originally referring to the woven structure of a piece of writing.",
+  "SINCE":"Late 14th century (for written work) | Early 21st century (for SMS message)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] text [of sth]",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The main body of a book, article, or other written work, as distinct from its illustrations, notes, or commentary.",
+      "DEF_ZH":"书籍、文章或其他书面作品的主体内容，区别于其插图、注释或评论。",
+      "SENT_EN":"Please refer to the main text for all the detailed information.",
+      "SENT_ZH":"请参阅正文以获取所有详细信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "script",
+            "writing",
+            "content",
+            "body"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "manuscript",
+            "document",
+            "book"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] text",
+      "POS":"noun",
+      "POS_TIP":"a word that refers to a person, place, thing, event, substance, or quality",
+      "TAGS":[
+        "core word",
+        "common",
+        "modern usage"
+      ],
+      "DEF_EN":"A short message sent or received using a mobile phone.",
+      "DEF_ZH":"通过手机发送或接收的短消息（短信）。",
+      "SENT_EN":"I'll send you a text with the meeting details.",
+      "SENT_ZH":"我会给你发个短信告知会议详情。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "SMS",
+            "message"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "cellphone",
+            "smartphone"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"text [sb] | text [sth]",
+      "POS":"verb",
+      "POS_TIP":"a word or phrase that describes an action, condition, or experience",
+      "TAGS":[
+        "core word",
+        "common",
+        "modern usage"
+      ],
+      "DEF_EN":"To send a text message to someone or something.",
+      "DEF_ZH":"通过手机给某人或某事发送短信。",
+      "SENT_EN":"Just text me when you're on your way.",
+      "SENT_ZH":"你出发的时候给我发个短信就行。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "message",
+            "SMS"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "call",
+            "email"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often informal for modern noun/verb meanings."
+}

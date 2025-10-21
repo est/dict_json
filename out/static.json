@@ -1,0 +1,137 @@
+{
+  "WORD":"static",
+  "IPA":"/ˈstætɪk/",
+  "CONJUGATES":"adj: static | more static | most static",
+  "ETYMOLOGY":"From Greek 'statikos' (causing to stand, skilled in weighing), via Latin 'staticus' and French 'statique'. Ultimately from 'histamai' (to cause to stand).",
+  "SINCE":"Late 16th century (general sense), mid-18th century (electricity sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is static",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Lacking in movement, action, or change, especially in an undesirable or uninteresting way.",
+      "DEF_ZH":"缺乏运动、行动或变化的，尤指以不理想或无趣的方式；静止的，不变的。",
+      "SENT_EN":"The economic growth has remained static for the past quarter.",
+      "SENT_ZH":"过去一个季度，经济增长一直停滞不前。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unchanging",
+            "fixed",
+            "stable",
+            "immobile",
+            "stagnant"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dynamic",
+            "changing",
+            "moving",
+            "active"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"static [electricity/charge/field]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes a noun or pronoun.",
+      "TAGS":[
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or characterized by electric charges that are not moving.",
+      "DEF_ZH":"与不移动的电荷有关的；静电的。",
+      "SENT_EN":"We often experience static electricity when rubbing certain materials together.",
+      "SENT_ZH":"我们经常在摩擦某些材料时体验到静电。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "electrostatic",
+            "current",
+            "dynamic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"static [on the radio/TV]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"Crackling or hissing noises on a radio, television, or telephone line caused by electrical disturbances.",
+      "DEF_ZH":"收音机、电视或电话线路上由电干扰引起的噼啪声或嘶嘶声；静电干扰。",
+      "SENT_EN":"The radio signal was weak, and all I could hear was static.",
+      "SENT_ZH":"收音机信号很弱，我只能听到沙沙的静电噪声。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interference",
+            "noise",
+            "fuzz",
+            "hiss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get static from [sb]",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"Unwanted criticism, opposition, or trouble.",
+      "DEF_ZH":"不必要的批评、反对或麻烦。",
+      "SENT_EN":"He got a lot of static from his boss for being late.",
+      "SENT_ZH":"他因为迟到受到了老板的很多批评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "criticism",
+            "flak",
+            "opposition",
+            "trouble"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"static image/background",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, event, substance, or quality.",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A still image, as opposed to a moving one; often refers to background elements that do not move or change in computing or graphic design.",
+      "DEF_ZH":"静止图像，与动态图像相对；常指计算机图形设计中不移动或不变化的背景元素。",
+      "SENT_EN":"The website used a static background image rather than an animated one to conserve bandwidth.",
+      "SENT_ZH":"为了节省带宽，该网站使用了静态背景图片而不是动画图片。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "animated",
+            "dynamic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Informal"
+}

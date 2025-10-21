@@ -1,0 +1,81 @@
+{
+  "WORD":"integrity",
+  "IPA":"/ɪnˈtɛɡrɪti/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle French intégrité, or directly from Latin integritatem (nominative integritas), meaning 'wholeness, soundness, purity'. Related to Latin integer ('untouched, entire').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s integrity",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "Core concept",
+        "Formal",
+        "Abstract"
+      ],
+      "DEF_EN":"The quality of being honest and having strong moral principles; moral uprightness.",
+      "DEF_ZH":"诚实正直；遵守道德原则的品质；品格高尚。",
+      "SENT_EN":"A leader must maintain the highest standard of integrity to earn the public's trust.",
+      "SENT_ZH":"一位领导者必须保持最高标准的正直品格，才能赢得公众的信任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "honesty",
+            "probity",
+            "uprightness",
+            "rectitude"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "corruption",
+            "dishonesty",
+            "duplicity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the integrity of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "General",
+        "Technical"
+      ],
+      "DEF_EN":"The state of being whole and undivided, or unimpaired; completeness or structural soundness.",
+      "DEF_ZH":"完整性；完好无损的状态；结构的坚固性或健全性。",
+      "SENT_EN":"Engineers are checking the structural integrity of the building after the fire.",
+      "SENT_ZH":"火灾后，工程师正在检查建筑物的结构完整性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wholeness",
+            "unity",
+            "soundness",
+            "cohesion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"data integrity",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable, specialized)",
+      "TAGS":[
+        "Computing",
+        "Specialized"
+      ],
+      "DEF_EN":"In computing, the accuracy, consistency, and reliability of data over its life cycle.",
+      "DEF_ZH":"（数据的）正确性、一致性与可靠性。",
+      "SENT_EN":"Strong passwords and encryption are essential for maintaining data integrity.",
+      "SENT_ZH":"强大的密码和加密对于维护数据完整性至关重要。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Business"
+}

@@ -1,0 +1,74 @@
+{
+  "WORD":"assemble",
+  "IPA":"/əˈsɛmbəl/",
+  "CONJUGATES":"assembling | assembled",
+  "ETYMOLOGY":"From Old French assembler, from Latin assimulāre (to make like, to gather together), from ad- (to) + simul (together).",
+  "SINCE":"Mid 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"assemble [sb] | assemble [sth]",
+      "POS":"v.",
+      "POS_TIP":"verb (can be used transitively or intransitively)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To bring people or things together in one place, or for people or things to gather.",
+      "DEF_ZH":"集合；聚集；召集；汇集。",
+      "SENT_EN":"All participants must assemble in the courtyard by 9 o'clock sharp.",
+      "SENT_ZH":"所有参与者必须在九点整准时在院子里集合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gather",
+            "convene",
+            "congregate",
+            "muster"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disperse",
+            "scatter",
+            "break up"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assemble [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "manufacturing"
+      ],
+      "DEF_EN":"To construct a machine, structure, or piece of furniture by fitting separate parts together.",
+      "DEF_ZH":"装配；组装；组合（机器、家具等）。",
+      "SENT_EN":"The worker took four hours to assemble the complex engine components.",
+      "SENT_ZH":"这名工人花了四个小时来组装复杂的发动机部件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "build",
+            "construct",
+            "put together",
+            "fabricate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disassemble",
+            "dismantle",
+            "take apart"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use"
+}

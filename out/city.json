@@ -1,0 +1,111 @@
+{
+  "WORD":"city",
+  "IPA":"/ˈsɪti/",
+  "CONJUGATES":"cities",
+  "ETYMOLOGY":"From Old French cité, from Latin cīvitās ('citizenship, community, city'), from cīvis ('citizen').",
+  "SINCE":"Late 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a city",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large and densely populated urban area, typically distinguished from a town or village by its size, importance, or legal status.",
+      "DEF_ZH":"一个人口稠密的广阔市区，通常因其规模、重要性或法律地位而区别于城镇或乡村。",
+      "SENT_EN":"London is a vibrant city with a rich history.",
+      "SENT_ZH":"伦敦是一座充满活力的城市，拥有丰富的历史。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "metropolis",
+            "urban center",
+            "municipality"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "town",
+            "village",
+            "megacity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the city (referring to people)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "less common"
+      ],
+      "DEF_EN":"The inhabitants or collective population of a city.",
+      "DEF_ZH":"一个城市的居民或集体人口。",
+      "SENT_EN":"The whole city celebrated the team's victory.",
+      "SENT_ZH":"全城人民庆祝了球队的胜利。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "populace",
+            "residents",
+            "townspeople"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"City of [Proper Noun]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "formal",
+        "proper usage"
+      ],
+      "DEF_EN":"Used as part of the official name of a municipality or administrative division.",
+      "DEF_ZH":"用作市政当局或行政区划官方名称的一部分。",
+      "SENT_EN":"The City of New York is known worldwide.",
+      "SENT_ZH":"纽约市闻名全球。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "borough",
+            "county",
+            "municipality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the City (capitalized, referring to London's financial district)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "idiomatic",
+        "UK specific",
+        "financial"
+      ],
+      "DEF_EN":"The financial and commercial center of London, specifically the Square Mile, often referring to the business and financial institutions located there.",
+      "DEF_ZH":"伦敦的金融和商业中心，特指“一平方英里”区域，常指位于该区域的商业和金融机构。",
+      "SENT_EN":"Many important decisions are made in the City.",
+      "SENT_ZH":"许多重要决策都是在“伦敦金融城”做出的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Wall Street",
+            "financial district",
+            "CBD"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

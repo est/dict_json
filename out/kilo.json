@@ -1,0 +1,80 @@
+{
+  "WORD":"kilo",
+  "IPA":"/ˈkɪloʊ/",
+  "CONJUGATES":"kilos",
+  "ETYMOLOGY":"Shortened form of words beginning with *kilo-* (e.g., kilogram, kilometer), ultimately from French *kilo-* and Greek *khilioi* (a thousand).",
+  "SINCE":"Late 18th Century (as prefix); 19th Century (as shortened noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A shortened term for kilogram, the base unit of mass in the International System of Units (SI), equal to 1,000 grams.",
+      "DEF_ZH":"公斤（千克的简称）。国际单位制（SI）中的质量基本单位，等于1000克。",
+      "SENT_EN":"I bought two kilos of potatoes at the market.",
+      "SENT_ZH":"我在市场上买了两个公斤的土豆。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "kilogram",
+            "weight",
+            "gram"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[prefix]",
+      "POS":"prefix",
+      "POS_TIP":"prefix",
+      "TAGS":[
+        "technical",
+        "SI unit"
+      ],
+      "DEF_EN":"A unit prefix in the metric system denoting a factor of one thousand (10³).",
+      "DEF_ZH":"表示一千（10³）的单位前缀，用于公制系统。",
+      "SENT_EN":"The distance was measured in kilometers, meaning thousands of meters.",
+      "SENT_ZH":"距离以千米（即数千米）为单位进行测量。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "mega",
+            "giga",
+            "milli",
+            "centi"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "slang",
+        "informal",
+        "commerce"
+      ],
+      "DEF_EN":"A unit of narcotics or other illicit material weighing one kilogram.",
+      "DEF_ZH":"一公斤毒品或其他违禁品的量（俚语）。",
+      "SENT_EN":"The shipment contained ten kilos of the controlled substance.",
+      "SENT_ZH":"这批货物里含有十公斤管制物质。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "brick",
+            "package"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Measurement"
+}

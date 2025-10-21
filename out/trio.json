@@ -1,0 +1,76 @@
+{
+  "WORD":"trio",
+  "IPA":"/ˈtriːoʊ/",
+  "CONJUGATES":"trio | trios",
+  "ETYMOLOGY":"From Italian trio, from Latin trēs (three). First used specifically in music.",
+  "SINCE":"c. 1720s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] trio [of sb/sth]",
+      "POS":"noun",
+      "POS_TIP":"n (noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A set or group of three people or things.",
+      "DEF_ZH":"三人一组；三件一套；三元组。",
+      "SENT_EN":"The investigating trio of reporters uncovered the truth.",
+      "SENT_ZH":"那三位调查记者组成的团队揭露了真相。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "threesome",
+            "triplet",
+            "triad"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "duo",
+            "quartet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] trio (music)",
+      "POS":"noun",
+      "POS_TIP":"n (noun)",
+      "TAGS":[
+        "music term"
+      ],
+      "DEF_EN":"A composition for three voices or instruments; also, the ensemble of three performers.",
+      "DEF_ZH":"三重奏曲；三重唱；（演奏或演唱的）三人组。",
+      "SENT_EN":"The piano trio performed a beautiful piece by Beethoven.",
+      "SENT_ZH":"那个钢琴三重奏组演奏了一曲优美的贝多芬作品。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "duet",
+            "quartet",
+            "quintet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the trio (music structure)",
+      "POS":"noun",
+      "POS_TIP":"n (noun)",
+      "TAGS":[
+        "technical",
+        "music term"
+      ],
+      "DEF_EN":"The middle section of a dance movement, such as a minuet or scherzo, often scored for a smaller group of instruments and contrasting in mood.",
+      "DEF_ZH":"（小步舞曲或谐谑曲中的）中段（通常是对比性的或较慢的乐段）。",
+      "SENT_EN":"The shift in key occurred just as the movement transitioned into the trio.",
+      "SENT_ZH":"当乐章过渡到中段时，调性发生了变化。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage, especially common in art and music."
+}

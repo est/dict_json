@@ -1,0 +1,64 @@
+{
+  "WORD":"intercity",
+  "IPA":"/ˈɪntərˌsɪti/",
+  "CONJUGATES":"intercities",
+  "ETYMOLOGY":"From Latin prefix 'inter-' (between, among) combined with the English noun 'city'.",
+  "SINCE":"Mid-19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"intercity [adj] [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "transport",
+        "geography"
+      ],
+      "DEF_EN":"Existing, traveling, or operating between two or more different cities.",
+      "DEF_ZH":"城市间的；往返于城市之间的（通常指交通或通信）。",
+      "SENT_EN":"The new government proposed a high-speed intercity rail network.",
+      "SENT_ZH":"新政府提出了一个高速城际铁路网络。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interurban",
+            "cross-city",
+            "regional"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "intracity",
+            "local",
+            "metropolitan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the intercity",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "less common",
+        "transport"
+      ],
+      "DEF_EN":"A transportation service, especially a train or bus line, that runs regularly between major cities.",
+      "DEF_ZH":"城际交通服务或系统（特指快速运行于大城市间的列车或巴士）。",
+      "SENT_EN":"If the Intercity is delayed, we'll miss the conference.",
+      "SENT_ZH":"如果城际快车晚点，我们就会错过会议。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Amtrak",
+            "Greyhound"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common. Used mainly in travel and planning contexts."
+}

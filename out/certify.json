@@ -1,0 +1,99 @@
+{
+  "WORD":"certify",
+  "IPA":"/'sɜːrtɪfaɪ/",
+  "CONJUGATES":"certify | certifies | certifying | certified",
+  "ETYMOLOGY":"From Old French certifier, from Late Latin certificare ('to make certain'), from Latin certus ('certain') + facere ('to make').",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"certify [sth] | certify that [clause]",
+      "POS":"v.tr.",
+      "POS_TIP":"A transitive verb is a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To state officially, especially in writing, that something is true, accurate, or meets a required standard.",
+      "DEF_ZH":"正式声明或确认某事属实、准确或符合既定标准，尤指以书面形式。",
+      "SENT_EN":"The auditor's report serves to certify the company's financial statements.",
+      "SENT_ZH":"审计师的报告旨在证明公司的财务报表属实。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attest",
+            "verify",
+            "authenticate",
+            "validate",
+            "confirm"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "certificate",
+            "certification"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"certify [sb] (as [sth])",
+      "POS":"v.tr.",
+      "POS_TIP":"A transitive verb is a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal",
+        "professional"
+      ],
+      "DEF_EN":"To officially declare (a person or organization) to have met certain standards or requirements, often for a profession or a specific task.",
+      "DEF_ZH":"正式宣布（某人或某组织）已达到某些标准或要求，通常指职业资格或特定任务。",
+      "SENT_EN":"The board certified her as a public accountant after she passed all the exams.",
+      "SENT_ZH":"在她通过所有考试后，委员会认证她为注册会计师。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "license",
+            "accredit",
+            "qualify"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "certified professional",
+            "certification body"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"certify [sb] (as insane/mentally unfit)",
+      "POS":"v.tr.",
+      "POS_TIP":"A transitive verb is a verb that requires a direct object to complete its meaning.",
+      "TAGS":[
+        "specific usage",
+        "legal",
+        "medical",
+        "less common"
+      ],
+      "DEF_EN":"To declare (a person) legally insane or mentally incompetent, often by medical professionals for institutionalization.",
+      "DEF_ZH":"（由医疗专业人员）依法宣布（某人）精神失常或精神不健全，常用于将其送往机构治疗。",
+      "SENT_EN":"Two doctors were required to certify the patient before admission to the mental health facility.",
+      "SENT_ZH":"在病人被送入精神健康机构之前，需要两名医生证明其精神状况。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "declare insane",
+            "commit (legally)"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or official contexts, often in legal, professional, or administrative settings."
+}

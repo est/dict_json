@@ -1,0 +1,67 @@
+{
+  "WORD":"genetic",
+  "IPA":"/dʒəˈnɛtɪk/",
+  "CONJUGATES":"genetically (adv)",
+  "ETYMOLOGY":"From Greek genos 'birth, descent, origin' via English 'gene' + suffix '-tic' (pertaining to). Coined in the mid-19th century in reference to origins or development, later specializing in biological inheritance.",
+  "SINCE":"c. 1830s (general sense), c. 1860s (biological sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"genetic [adj] [sth] (e.g., characteristic, disease, code)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "biology",
+        "science"
+      ],
+      "DEF_EN":"Relating to genes or heredity; determined by or involving genes.",
+      "DEF_ZH":"与基因或遗传有关的；由基因决定或涉及基因的。",
+      "SENT_EN":"Color blindness is often a genetic trait passed down through families.",
+      "SENT_ZH":"色盲通常是一种通过家族遗传下来的基因性状。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hereditary",
+            "inherited",
+            "congenital"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "gene",
+            "DNA",
+            "genomics",
+            "genetics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"genetic [adj] [sth] (of a study or cause)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "geology",
+        "linguistics"
+      ],
+      "DEF_EN":"Relating to the origin, formation, or development of something; developmental.",
+      "DEF_ZH":"与某事物的起源、形成或发展有关的；发生学的。",
+      "SENT_EN":"The geologist studied the genetic factors influencing the composition of the sedimentary rocks.",
+      "SENT_ZH":"这位地质学家研究了影响沉积岩成分的发生学因素。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "formative",
+            "developmental",
+            "causal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, Formal, Everyday"
+}

@@ -1,0 +1,66 @@
+{
+  "WORD":"resultant",
+  "IPA":"/rɪˈzʌltənt/",
+  "CONJUGATES":"resultants (n. plural)",
+  "ETYMOLOGY":"From Latin resultare 'to spring back, to result', from re- 'back' + saltare 'to leap'. The adjective form developed in English in the late 17th century.",
+  "SINCE":"Late 17th century (adjective), 18th century (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"resultant [N]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"happening or existing as a result of something else",
+      "DEF_ZH":"作为其他事物的结果而发生或存在的；随之而来的",
+      "SENT_EN":"The resultant effect of the policy change was an increase in unemployment.",
+      "SENT_ZH":"政策变化的结果是失业率上升。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consequent",
+            "resulting",
+            "ensuing",
+            "subsequent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "causative",
+            "original",
+            "primary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a resultant",
+      "POS":"n",
+      "POS_TIP":"noun: a word that refers to a person, place, thing, or idea",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "physics"
+      ],
+      "DEF_EN":"(Mathematics, Physics) A vector that is the sum of two or more other vectors, or the total effect of several forces acting together.",
+      "DEF_ZH":"（数学、物理）合力；合向量；两个或更多向量之和的向量；多个力共同作用的总效应",
+      "SENT_EN":"The resultant of the two forces acting on the object was a single force of 10 Newtons.",
+      "SENT_ZH":"作用于物体上的两个力的合力是一个10牛顿的单一力。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vector sum",
+            "net force",
+            "aggregate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general, with a specific technical use in science."
+}

@@ -1,0 +1,98 @@
+{
+  "WORD":"literal",
+  "IPA":"/ˈlɪtərəl/",
+  "CONJUGATES":"literaler | literalest",
+  "ETYMOLOGY":"From Late Latin litteralis, from Latin littera ('letter of the alphabet').",
+  "SINCE":"mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is literal",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Taking words in their usual or most basic sense without metaphor or exaggeration; exact or accurate.",
+      "DEF_ZH":"按照字面意思的；不比喻的；精确的；真实的",
+      "SENT_EN":"The literal meaning of 'kick the bucket' is to actually strike a bucket with your foot, but its figurative meaning is 'to die'.",
+      "SENT_ZH":"“kick the bucket”的字面意思是踢水桶，但它的比喻义是“死亡”。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exact",
+            "precise",
+            "verbatim",
+            "word-for-word",
+            "actual",
+            "factual"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "figurative",
+            "metaphorical",
+            "abstract",
+            "symbolic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is literal",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "common",
+        "informal",
+        "intensifier"
+      ],
+      "DEF_EN":"(Informal, often used as an intensifier) Used to emphasize that something is actually true, even if it sounds exaggerated or impossible.",
+      "DEF_ZH":"（非正式，用作强调）用来强调某事是真实存在的，即使听起来夸张或不可能。",
+      "SENT_EN":"I was so hungry I could have eaten a literal horse.",
+      "SENT_ZH":"我饿得要命，简直能吃下一匹马。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "actual",
+            "genuine",
+            "absolute",
+            "utter"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "literally"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a literal [character/value]",
+      "POS":"adj",
+      "POS_TIP":"adjective: a word that describes or modifies a noun or pronoun",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"(Computing, Linguistics) Denoting a character or value that is to be taken at face value rather than as a command, instruction, or representation.",
+      "DEF_ZH":"（计算机，语言学）指按其字面值而不是作为命令、指令或表示来处理的字符或值。",
+      "SENT_EN":"In some programming languages, a backslash is used to escape special characters, treating them as literal text.",
+      "SENT_ZH":"在某些编程语言中，反斜杠用于转义特殊字符，使其被视为字面文本。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "string literal",
+            "numeric literal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal to informal, depending on meaning"
+}

@@ -1,0 +1,80 @@
+{
+  "WORD":"variable",
+  "IPA":"/ˈvɛəriəb(ə)l/",
+  "CONJUGATES":"variables (noun plural) | variably (adverb)",
+  "ETYMOLOGY":"From Old French variable, from Latin variābilis ('changeable'), from variāre ('to vary').",
+  "SINCE":"Late 14th century (adjective), mid-17th century (noun in mathematics)",
+  "MEANINGS":[
+    {
+      "PATTERN":"variable",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical",
+        "mathematics",
+        "science",
+        "computing"
+      ],
+      "DEF_EN":"A factor or quantity that can change or take on different values.",
+      "DEF_ZH":"可以改变或取不同值的因素或量；变量。",
+      "SENT_EN":"In statistical analysis, age and income are often treated as variables.",
+      "SENT_ZH":"在统计分析中，年龄和收入常被视为变量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "factor",
+            "element",
+            "parameter",
+            "unknown"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "constant",
+            "fixed value"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"variable",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not consistent or having a fixed pattern; liable to change.",
+      "DEF_ZH":"不一致的；易变的；不稳定的。",
+      "SENT_EN":"The weather forecast indicated variable winds throughout the day.",
+      "SENT_ZH":"天气预报显示全天风力多变。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "changeable",
+            "fluctuating",
+            "unstable",
+            "inconstant",
+            "unpredictable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "constant",
+            "stable",
+            "fixed",
+            "consistent",
+            "unchanging"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General | Technical"
+}

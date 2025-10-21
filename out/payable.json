@@ -1,0 +1,93 @@
+{
+  "WORD":"payable",
+  "IPA":"/ˈpeɪəbəl/",
+  "CONJUGATES":"payables (n. pl.)",
+  "ETYMOLOGY":"From Old French *paiable*, derivative of *paier* ('to pay'), combined with the suffix -able (meaning capable of being). 'Pay' ultimately derives from Latin *pacare* ('to pacify, appease').",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"payable [to sb/sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "financial"
+      ],
+      "DEF_EN":"Required to be paid; due or necessitating payment.",
+      "DEF_ZH":"应支付的；到期的；必须付款的。",
+      "SENT_EN":"All outstanding fees are payable immediately upon receipt of the final statement.",
+      "SENT_ZH":"所有未缴费用在收到最终账单后必须立即支付。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "due",
+            "outstanding",
+            "owing",
+            "matured"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unpayable",
+            "receivable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"payable",
+      "POS":"n (usually plural)",
+      "POS_TIP":"noun (usually plural)",
+      "TAGS":[
+        "accounting",
+        "finance"
+      ],
+      "DEF_EN":"Short for 'accounts payable'; debts owed by a company to its suppliers, recorded as a liability.",
+      "DEF_ZH":"应付账款（通常指一家公司欠供应商的债务，在资产负债表上列为负债）。",
+      "SENT_EN":"The accounting team reviewed the list of payables to ensure timely settlement.",
+      "SENT_ZH":"会计团队审查了应付账款清单，以确保及时结清。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "liabilities",
+            "debts",
+            "obligations"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "accounts payable",
+            "creditor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"payable",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"(Of money, checks, etc.) Made out in such a way that it must be paid to a specific person or organization.",
+      "DEF_ZH":"（支票、款项等）可支付给（特定收款人或组织）的。",
+      "SENT_EN":"Please make the check payable to 'The City Treasurer'.",
+      "SENT_ZH":"请将支票开具给“市财务主管”。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "remunerable",
+            "endorsable"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Financial, Formal, Business"
+}

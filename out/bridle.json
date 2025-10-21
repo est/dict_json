@@ -1,0 +1,110 @@
+{
+  "WORD":"bridle",
+  "IPA":"/ˈbraɪdl/",
+  "CONJUGATES":"bridles | bridling | bridled",
+  "ETYMOLOGY":"From Middle English *brīdel*, from Old English *brīdel* (related to *brīdan*, 'to draw tight'), likely linked to the concept of binding or restraining.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] bridle (for [a horse])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "equine"
+      ],
+      "DEF_EN":"The headgear used to control a horse, consisting of headstall, bit, and reins.",
+      "DEF_ZH":"马笼头；全套马勒（用于控制马匹头部的装备，包括头带、马嚼和缰绳）。",
+      "SENT_EN":"The rider checked the bridle before leading the horse out of the stable.",
+      "SENT_ZH":"骑手在把马牵出马厩前检查了马笼头。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "reins",
+            "harness",
+            "headstall"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bridle [a horse/animal]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "common",
+        "equine"
+      ],
+      "DEF_EN":"To put a bridle on (a horse or other animal).",
+      "DEF_ZH":"给（马或牲畜）套上马笼头。",
+      "SENT_EN":"The stable hand had difficulty bridling the nervous filly.",
+      "SENT_ZH":"马厩工人很难给那匹紧张的小母马套上笼头。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tack",
+            "harness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bridle [sth] (e.g., emotions, growth)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"To restrain, check, or curb (an emotion, action, or force).",
+      "DEF_ZH":"抑制；控制；约束（情感、行动或力量）。",
+      "SENT_EN":"She struggled to bridle her sudden surge of jealousy.",
+      "SENT_ZH":"她努力抑制住自己突如其来的嫉妒心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "curb",
+            "restrain",
+            "check",
+            "limit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unleash",
+            "release"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bridle (up) at [sth]",
+      "POS":"vi + prep | vi",
+      "POS_TIP":"intransitive verb (does not take a direct object) + preposition | intransitive verb",
+      "TAGS":[
+        "idiomatic",
+        "reaction"
+      ],
+      "DEF_EN":"To show sudden anger or resentment, often by drawing back the head and stiffening the body.",
+      "DEF_ZH":"（因不满或被冒犯而）昂首表示愤怒或不悦；发怒。",
+      "SENT_EN":"He bridled at the suggestion that his proposal was simplistic.",
+      "SENT_ZH":"他对有人说他的提案过于简单化而勃然大怒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "take offense",
+            "bristle",
+            "fume"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally, though the verb meaning 'to show resentment' is somewhat literary or formal."
+}

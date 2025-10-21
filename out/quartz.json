@@ -1,0 +1,62 @@
+{
+  "WORD":"quartz",
+  "IPA":"/ˈkwɔːrts/",
+  "CONJUGATES":"quartz (plural, uncountable) | quartz-like (adj)",
+  "ETYMOLOGY":"Early 18th century, from German Quarz, potentially derived from a West Slavic source (compare Czech křemen 'flint, quartz').",
+  "SINCE":"c. 1720s",
+  "MEANINGS":[
+    {
+      "PATTERN":"quartz",
+      "POS":"n",
+      "POS_TIP":"Uncountable noun (Mineralogy)",
+      "TAGS":[
+        "core word",
+        "geology",
+        "chemistry",
+        "mineral"
+      ],
+      "DEF_EN":"A hard, crystalline mineral composed of silicon dioxide (SiO₂), widely distributed in igneous, metamorphic, and sedimentary rocks.",
+      "DEF_ZH":"一种坚硬的、结晶状的矿物，由二氧化硅（SiO₂）组成，广泛分布于火成岩、变质岩和沉积岩中。",
+      "SENT_EN":"Quartz is often mined for use in glassmaking and electronics.",
+      "SENT_ZH":"石英常被开采用于玻璃制造和电子产品。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "silica",
+            "silicon dioxide",
+            "granite",
+            "amethyst",
+            "agate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quartz [device/component]",
+      "POS":"n | adj",
+      "POS_TIP":"Countable noun (referring to a product) or attributive adjective (technology)",
+      "TAGS":[
+        "technology",
+        "physics",
+        "electronics"
+      ],
+      "DEF_EN":"A specific piece of quartz crystal used in electronic devices due to its piezoelectric properties, especially to regulate frequency in timepieces.",
+      "DEF_ZH":"特指利用石英压电特性制造的电子设备部件，尤其是用于时钟和手表中调节频率的石英晶体。",
+      "SENT_EN":"He checked the time on his reliable quartz watch.",
+      "SENT_ZH":"他看了看他那块可靠的石英表上的时间。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "piezoelectric",
+            "oscillator",
+            "crystal",
+            "timepiece"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Geology, Electronics)"
+}

@@ -1,0 +1,73 @@
+{
+  "WORD":"selective",
+  "IPA":"/sɪˈlɛktɪv/",
+  "CONJUGATES":"selectively (adverb)",
+  "ETYMOLOGY":"From English 'select' + '-ive'. 'Select' is from Latin 'selectus', past participle of 'seligere' ('choose out'), from 'se-' ('apart') + 'legere' ('choose').",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]/[sth] selective",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Having the power of selection; tending to select; characterized by careful selection.",
+      "DEF_ZH":"有选择性的；精挑细选的；经过仔细筛选的",
+      "SENT_EN":"She is very selective about the friends she makes, choosing only those with similar interests.",
+      "SENT_ZH":"她对交朋友很挑剔，只选择那些兴趣相投的人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discerning",
+            "discriminating",
+            "choosy",
+            "particular",
+            "fastidious"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "indiscriminate",
+            "unselective"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "selection",
+            "select",
+            "selectivity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] selective (for/against [sth])",
+      "POS":"adj",
+      "POS_TIP":"An adjective is a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"(Of a process or substance) acting on or affecting only specific substances, cells, or organisms.",
+      "DEF_ZH":"(指过程或物质)有选择性的；选择性作用于（特定物质、细胞或生物）的",
+      "SENT_EN":"This herbicide is selective, killing weeds but not harming the crops.",
+      "SENT_ZH":"这种除草剂是选择性的，能杀死杂草但不会伤害作物。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "specificity",
+            "specific"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general use, sometimes specialized in scientific or technical contexts."
+}

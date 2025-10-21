@@ -1,0 +1,131 @@
+{
+  "WORD":"blank",
+  "IPA":"/blæŋk/",
+  "CONJUGATES":"blanks | blanking | blanked | blanker | blankest",
+  "ETYMOLOGY":"From Old French 'blanc' (white, shining), borrowed from Proto-Germanic '*blankaz*' (shining, dazzling, white).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] blank",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"An empty space or line on a document or test that is intended to be filled in.",
+      "DEF_ZH":"空白；需填写的空格或空行。",
+      "SENT_EN":"Please fill in the blanks using a black pen.",
+      "SENT_ZH":"请用黑笔填入空格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "space",
+            "gap",
+            "void"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blank [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"Having no writing, print, or images; empty or plain.",
+      "DEF_ZH":"空白的；没有文字或图像的；素净的。",
+      "SENT_EN":"The artist started with a completely blank canvas.",
+      "SENT_ZH":"这位艺术家从一张完全空白的画布开始创作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "empty",
+            "unmarked",
+            "plain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "full",
+            "covered"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blank (look/mind)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Figurative",
+        "Common"
+      ],
+      "DEF_EN":"Showing no understanding, emotion, or memory.",
+      "DEF_ZH":"（表情或头脑）茫然的；无反应的；脑中一片空白的。",
+      "SENT_EN":"When she asked him for his name, he just gave her a blank stare.",
+      "SENT_ZH":"当她问他名字时，他只是茫然地看着她。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vacant",
+            "expressionless",
+            "confused"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"blank [sth] out | blank [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "General"
+      ],
+      "DEF_EN":"To cover or erase something to make it invisible or forgotten; (informal) to deliberately ignore someone.",
+      "DEF_ZH":"涂掉；抹去；遮盖（以忘记）；（非正式）不理睬。",
+      "SENT_EN":"He tried to blank out the painful memory of the accident.",
+      "SENT_ZH":"他试图抹去事故中痛苦的回忆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "erase",
+            "obscure",
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] blank",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Military"
+      ],
+      "DEF_EN":"A cartridge containing gunpowder but no bullet, used to simulate firing or for signaling.",
+      "DEF_ZH":"空包弹（无弹头但有火药，用于训练或信号）。",
+      "SENT_EN":"The starter pistol used blanks to signal the beginning of the race.",
+      "SENT_ZH":"发令枪使用空包弹来发出比赛开始的信号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ammunition",
+            "cartridge",
+            "dummy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

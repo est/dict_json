@@ -1,0 +1,101 @@
+{
+  "WORD":"pyramid",
+  "IPA":"/ˈpɪrəmɪd/",
+  "CONJUGATES":"pyramids (pl.)",
+  "ETYMOLOGY":"From Middle English piramide, from Old French pyramide, from Latin pyramis, accusative pyramidem, from Ancient Greek πυραμίς (puramís), likely derived from Egyptian pr-m-ws (meaning 'height/slope of the pyramid', though possibly via a different route like Coptic pi-rama).",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geometry",
+        "architecture"
+      ],
+      "DEF_EN":"A massive structure with a square base and four triangular sides meeting at an apex, especially one built of stone as a royal tomb in ancient Egypt.",
+      "DEF_ZH":"金字塔；角锥体（尤指古埃及法老的陵墓）",
+      "SENT_EN":"The Great Pyramid of Giza is the largest Egyptian pyramid.",
+      "SENT_ZH":"吉萨大金字塔是最大的埃及金字塔。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "obelisk",
+            "tomb",
+            "mausoleum"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "geometry",
+        "math"
+      ],
+      "DEF_EN":"A polyhedron of which one face is a polygon (the base) and the other faces are triangles with a common vertex.",
+      "DEF_ZH":"棱锥；（几何学）角锥体",
+      "SENT_EN":"A tetrahedron is the simplest kind of pyramid, having four triangular faces.",
+      "SENT_ZH":"四面体是棱锥最简单的一种，有四个三角形面。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cone",
+            "prism",
+            "polyhedron"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (of [sth])",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"A structure, system, or organization that is hierarchical, having a broad base leading up to a narrow peak or apex.",
+      "DEF_ZH":"（组织、系统等的）金字塔形结构；等级制度",
+      "SENT_EN":"The company's management structure resembles a traditional pyramid.",
+      "SENT_ZH":"该公司的管理结构类似于传统的金字塔。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hierarchy",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] [v]",
+      "POS":"v",
+      "POS_TIP":"verb",
+      "TAGS":[
+        "business",
+        "finance"
+      ],
+      "DEF_EN":"To build up or increase (investments or capital) on a progressive scale with limited initial outlay; to expand rapidly and dangerously.",
+      "DEF_ZH":"（尤指通过购买更多资产来扩大规模）逐步增加，金字塔式扩大（投资或资本）",
+      "SENT_EN":"The scheme involved pyramiding debt through multiple subsidiaries.",
+      "SENT_ZH":"该方案涉及通过多家子公司金字塔式地积累债务。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "leverage",
+            "inflate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

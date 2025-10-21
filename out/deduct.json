@@ -1,0 +1,81 @@
+{
+  "WORD":"deduct",
+  "IPA":"/dɪˈdʌkt/",
+  "CONJUGATES":"deducts | deducting | deducted",
+  "ETYMOLOGY":"From Latin dēdūcere ('lead down, take away'), from de- ('away, down') + dūcere ('to lead'). Originally meaning 'to infer or trace,' the modern sense of 'subtract' emerged in the 17th century.",
+  "SINCE":"c. 1450 (Logic/Reasoning); c. 1650 (Subtraction)",
+  "MEANINGS":[
+    {
+      "PATTERN":"deduct [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "finance",
+        "formal"
+      ],
+      "DEF_EN":"To take away an amount, expense, or part from a total sum or amount.",
+      "DEF_ZH":"从总额中减去（一笔款项、费用或部分）；扣除。",
+      "SENT_EN":"The company will deduct tax and insurance payments directly from your salary.",
+      "SENT_ZH":"公司将直接从你的薪水中扣除税款和保险费。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subtract",
+            "take away",
+            "withhold",
+            "knock off"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "add",
+            "include"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deduction",
+            "discount"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deduct [sth] (from [sth])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "literary",
+        "logic",
+        "rare"
+      ],
+      "DEF_EN":"To arrive at a fact or conclusion by reasoning; to infer from general principles (Deductive logic).",
+      "DEF_ZH":"通过推理得出事实或结论；从一般原则中推断（演绎推理）。",
+      "SENT_EN":"By observing the tire tracks, the detective could deduct that the vehicle had left in a hurry.",
+      "SENT_ZH":"通过观察轮胎痕迹，侦探可以推断出车辆是匆忙离开的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "infer",
+            "conclude",
+            "reason",
+            "derive"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "deductive",
+            "induction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, commonly used in formal, mathematical, or financial contexts."
+}

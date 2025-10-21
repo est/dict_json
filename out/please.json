@@ -1,0 +1,89 @@
+{
+  "WORD":"please",
+  "IPA":"/pliːz/",
+  "CONJUGATES":"pleases | pleasing | pleased",
+  "ETYMOLOGY":"From Old French plaisir (to please), from Latin placere (to please, satisfy).",
+  "SINCE":"Late 13th century (verb); Mid 15th century (interjection)",
+  "MEANINGS":[
+    {
+      "PATTERN":"please [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: takes a direct object",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To make someone feel happy, satisfied, or delighted.",
+      "DEF_ZH":"使某人高兴、满意或愉悦。",
+      "SENT_EN":"Her excellent performance pleased the entire audience.",
+      "SENT_ZH":"她出色的表演取悦了所有观众。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "delight",
+            "gratify",
+            "satisfy",
+            "charm"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "displease",
+            "annoy",
+            "offend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"please [oneself] | as one pleases",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb: does not take a direct object",
+      "TAGS":[
+        "common",
+        "formal",
+        "idiomatic"
+      ],
+      "DEF_EN":"To choose to do something; to like or prefer. Often used in polite expressions or to indicate freedom of choice.",
+      "DEF_ZH":"选择做某事；喜欢或偏爱。常用于礼貌表达或表示选择自由。",
+      "SENT_EN":"You may leave when you please. | Do as you please.",
+      "SENT_ZH":"你高兴什么时候走就什么时候走。| 随你的便。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "choose",
+            "wish",
+            "prefer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Please [verb]...",
+      "POS":"interj",
+      "POS_TIP":"interjection: an exclamation or brief utterance",
+      "TAGS":[
+        "core word",
+        "common",
+        "polite"
+      ],
+      "DEF_EN":"Used as a polite word in requests or commands, or to accept an offer politely.",
+      "DEF_ZH":"用于请求或命令时表示礼貌，或礼貌地接受提议。",
+      "SENT_EN":"Please close the door quietly. | 'More tea?' 'Yes, please.'",
+      "SENT_ZH":"请轻轻关上门。| “再来点茶吗？” “好的，谢谢。”",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "thank you",
+            "kindly"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in everyday speech and writing, both formal and informal."
+}

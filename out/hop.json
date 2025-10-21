@@ -1,0 +1,102 @@
+{
+  "WORD":"hop",
+  "IPA":"/hɒp/",
+  "CONJUGATES":"hops | hopping | hopped",
+  "ETYMOLOGY":"From Old English hoppian 'to leap, spring, dance', of Germanic origin; related to Dutch hoppen and German hüpfen.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"hop",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "movement"
+      ],
+      "DEF_EN":"To move by springing lightly on one foot or both feet simultaneously over a short distance.",
+      "DEF_ZH":"（人或动物）单脚跳；短距离地轻快跳跃。",
+      "SENT_EN":"The small child had to hop to keep up with his parents.",
+      "SENT_ZH":"那个小孩子不得不单脚跳着才能跟上他的父母。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skip",
+            "jump",
+            "bound"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hop [on/off/into sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb + preposition",
+      "TAGS":[
+        "informal",
+        "travel"
+      ],
+      "DEF_EN":"To get onto or off a vehicle, especially quickly and casually, or to travel a short distance.",
+      "DEF_ZH":"（非正式）快速地上下（交通工具）；匆忙短途旅行。",
+      "SENT_EN":"We can just hop on the subway and be there in twenty minutes.",
+      "SENT_ZH":"我们只需快速跳上地铁，二十分钟内就能到那里。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "get on",
+            "board",
+            "alight"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hop",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "botany",
+        "brewing"
+      ],
+      "DEF_EN":"The dried, cone-like flower of the hop plant (Humulus lupulus), used to give beer its bitter flavor and aroma.",
+      "DEF_ZH":"啤酒花（用于酿造啤酒，提供苦味和香气）。",
+      "SENT_EN":"This specific IPA is known for its strong citrus flavor derived from the Citra hops.",
+      "SENT_ZH":"这款特定的印度淡啤酒因其从西楚啤酒花中提取出的浓烈柑橘味而闻名。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "malt",
+            "yeast",
+            "ale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hop",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical act"
+      ],
+      "DEF_EN":"A short jump or spring, especially on one foot.",
+      "DEF_ZH":"短距离的跳跃或轻快的蹦跳。",
+      "SENT_EN":"It’s only a short hop across the field to the main road.",
+      "SENT_ZH":"穿过田地到主干道只有一小段距离。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "spring",
+            "bound",
+            "leap"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Language"
+}

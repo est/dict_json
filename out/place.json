@@ -1,0 +1,129 @@
+{
+  "WORD":"place",
+  "IPA":"/pleɪs/",
+  "CONJUGATES":"places | placing | placed",
+  "ETYMOLOGY":"From Old French 'place' (a broad street, public square, space), from Latin 'platea' (broad street, courtyard), from Greek 'plateia' (broad way, street), from 'platys' (broad).",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] place [for sth/sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A particular position, point, or area in space; a location.",
+      "DEF_ZH":"地点；地方；位置；场所",
+      "SENT_EN":"Let's find a quiet place where we can talk.",
+      "SENT_ZH":"我们找个安静的地方谈谈吧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "location",
+            "spot",
+            "position",
+            "site",
+            "area",
+            "locale"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"have place [for sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"Space or room for something or someone.",
+      "DEF_ZH":"空间；余地",
+      "SENT_EN":"Is there any place for my books on that shelf?",
+      "SENT_ZH":"那个书架上还有地方放我的书吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "space",
+            "room",
+            "area"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb's] place",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"A person's house or apartment.",
+      "DEF_ZH":"住所；家",
+      "SENT_EN":"Why don't you come back to my place for a coffee?",
+      "SENT_ZH":"你到我家喝杯咖啡怎么样？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "home",
+            "residence",
+            "house",
+            "apartment"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"place [sth] [somewhere]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To put something in a particular position or situation.",
+      "DEF_ZH":"放置；安放；安置",
+      "SENT_EN":"She carefully placed the vase on the mantelpiece.",
+      "SENT_ZH":"她小心翼翼地把花瓶放在壁炉架上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "put",
+            "set",
+            "lay",
+            "position",
+            "deposit"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"place [in sth]",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb (does not take a direct object)",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To achieve a certain position, especially in a competition or race.",
+      "DEF_ZH":"获得名次；名列",
+      "SENT_EN":"Our team placed third in the regional championship.",
+      "SENT_ZH":"我们的队伍在地区锦标赛中名列第三。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rank",
+            "finish",
+            "come"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

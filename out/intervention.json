@@ -1,0 +1,68 @@
+{
+  "WORD":"intervention",
+  "IPA":"/ˌɪntərˈvenʃən/",
+  "CONJUGATES":"interventions",
+  "ETYMOLOGY":"From Late Latin 'interventio' (interposition), from 'intervenire' (to come between), from Latin 'inter-' (between) + 'venire' (to come).",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"intervention [in sth] | intervention [by sb/sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action or process of intervening, especially to prevent or modify an outcome or situation.",
+      "DEF_ZH":"干预；介入；调停，尤指为阻止或改变某种结果或局面而采取的行动或过程。",
+      "SENT_EN":"The government's intervention was necessary to stabilize the economy.",
+      "SENT_ZH":"政府的干预对于稳定经济是必要的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mediation",
+            "involvement",
+            "interference",
+            "arbitration",
+            "intercession"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "non-intervention",
+            "abstention",
+            "neutrality"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"medical intervention | therapeutic intervention",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A specific action or program designed to modify a particular outcome or behavior, often in a medical, psychological, or social context.",
+      "DEF_ZH":"（医疗、心理或社会方面的）干预措施，为改变特定结果或行为而采取的行动或计划。",
+      "SENT_EN":"The patient required surgical intervention to save her life.",
+      "SENT_ZH":"病人需要手术干预才能挽救生命。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "treatment",
+            "therapy",
+            "procedure",
+            "measure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to general, often used in academic, political, and medical contexts."
+}

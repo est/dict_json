@@ -1,0 +1,101 @@
+{
+  "WORD":"milk",
+  "IPA":"/mɪlk/",
+  "CONJUGATES":"milks | milked | milking",
+  "ETYMOLOGY":"From Old English meoluc, from Proto-Germanic *meluks, from Proto-Indo-European *h₂melǵ- ('to wipe, to milk').",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"[U] milk",
+      "POS":"n",
+      "POS_TIP":"uncountable noun: refers to a substance or concept that cannot be counted individually.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A white nutritious liquid secreted by the mammary glands of female mammals and used as food by their young.",
+      "DEF_ZH":"雌性哺乳动物乳腺分泌的白色营养液体，供其幼崽食用。",
+      "SENT_EN":"Cows' milk is often used to make cheese and yogurt.",
+      "SENT_ZH":"牛奶常用于制作奶酪和酸奶。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "dairy",
+            "lactose",
+            "cream",
+            "butter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[C] milk",
+      "POS":"n",
+      "POS_TIP":"countable noun: refers to a person or thing that can be counted.",
+      "TAGS":[
+        "common",
+        "food and drink"
+      ],
+      "DEF_EN":"The milk of a particular animal, or a particular type of milk.",
+      "DEF_ZH":"特指某种动物的奶，或特定类型的奶。",
+      "SENT_EN":"Soy milk is a popular alternative for those who are lactose intolerant.",
+      "SENT_ZH":"豆奶是乳糖不耐症患者的常见替代品。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "almond milk",
+            "oat milk",
+            "goat milk"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"milk [sth/sb]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To draw milk from a female animal.",
+      "DEF_ZH":"从雌性动物身上挤奶。",
+      "SENT_EN":"Farmers milk their cows twice a day.",
+      "SENT_ZH":"农民每天给他们的奶牛挤两次奶。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"milk [sth/sb] for [sth]",
+      "POS":"vt",
+      "POS_TIP":"transitive verb: a verb that takes one or more objects.",
+      "TAGS":[
+        "idiomatic",
+        "informal"
+      ],
+      "DEF_EN":"To exploit a situation or person for one's own maximum benefit or advantage.",
+      "DEF_ZH":"利用某个情况或某人，以获取最大的利益或优势。",
+      "SENT_EN":"The company tried to milk every last penny from the struggling business.",
+      "SENT_ZH":"这家公司试图从苦苦挣扎的业务中榨取最后一分钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exploit",
+            "leverage",
+            "extract"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "give",
+            "contribute"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

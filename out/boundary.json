@@ -1,0 +1,83 @@
+{
+  "WORD":"boundary",
+  "IPA":"/'baʊndəri/",
+  "CONJUGATES":"boundaries",
+  "ETYMOLOGY":"From Middle English *bound* (limit, border) + suffix *-ary*. Ultimately related to Old French *bonde* (limit, marker).",
+  "SINCE":"c. 1600s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] boundary",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "geography",
+        "law"
+      ],
+      "DEF_EN":"A line or marker that indicates the limits or extent of an area, property, or jurisdiction.",
+      "DEF_ZH":"划分区域、财产或管辖范围的界线或标记；边界，分界线。",
+      "SENT_EN":"The river forms a natural boundary between the two countries.",
+      "SENT_ZH":"这条河流构成了两国之间的天然边界。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "border",
+            "frontier",
+            "demarcation"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "periphery",
+            "confine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a boundary of [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "common",
+        "psychology",
+        "abstract"
+      ],
+      "DEF_EN":"A limit that defines acceptable behavior or separates one conceptual domain or relationship from another.",
+      "DEF_ZH":"定义可接受行为或区分不同概念领域或关系的限制；界限，分寸。",
+      "SENT_EN":"It is crucial for managers to establish professional boundaries with their subordinates.",
+      "SENT_ZH":"管理者与下属之间建立职业界限至关重要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restriction",
+            "limitation",
+            "parameter",
+            "scope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the boundary of [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "technical",
+        "mathematics",
+        "topology"
+      ],
+      "DEF_EN":"In mathematics, the set of points forming the perimeter of a geometric figure or region.",
+      "DEF_ZH":"（数学）形成几何图形或区域周边的点集。",
+      "SENT_EN":"The points on the boundary of the circle are equidistant from the center.",
+      "SENT_ZH":"圆的边界上的点与圆心等距。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

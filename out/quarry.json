@@ -1,0 +1,107 @@
+{
+  "WORD":"quarry",
+  "IPA":"/ˈkwɒri/",
+  "CONJUGATES":"quarries (n.) | quarries (v.) | quarrying (v.) | quarried (v.)",
+  "ETYMOLOGY":"Two distinct origins:\n1. (Mining sense) From Old French *quarriere* ('stone quarry'), from Vulgar Latin *quadraria*, from Latin *quadrus* ('square'), referring to squared stones.\n2. (Prey sense) From Old French *cuiree* ('entrails of an animal given to hunting dogs'), from *cuir* ('skin, hide'), ultimately from Latin *corium* ('skin').",
+  "SINCE":"Late 14th century (mining sense), Mid-15th century (prey sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] quarry",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A large, deep pit from which stone, slate, or other materials are extracted.",
+      "DEF_ZH":"采石场；矿坑，用于开采石头、板岩或其他材料的大而深的坑。",
+      "SENT_EN":"The ancient Romans obtained much of their marble from a nearby quarry.",
+      "SENT_ZH":"古罗马人从附近的采石场获得了大量大理石。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mine",
+            "pit",
+            "excavation",
+            "digging"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "mining",
+            "stone",
+            "rock",
+            "gravel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] quarry",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"An animal or person being hunted or pursued, especially as game.",
+      "DEF_ZH":"猎物；被追捕的对象，尤指作为猎杀目标的动物或人。",
+      "SENT_EN":"The hounds picked up the scent of their quarry and sped into the woods.",
+      "SENT_ZH":"猎犬嗅到了猎物的气味，迅速冲进树林。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prey",
+            "game",
+            "victim",
+            "target"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hunter",
+            "predator",
+            "pursuer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quarry [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"To extract stone or other material from a quarry.",
+      "DEF_ZH":"开采（石头或其他材料）。",
+      "SENT_EN":"They planned to quarry limestone from the hillside for road construction.",
+      "SENT_ZH":"他们计划从山坡上开采石灰石用于道路建设。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extract",
+            "mine",
+            "dig",
+            "excavate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "blasting",
+            "drilling",
+            "stonemason"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

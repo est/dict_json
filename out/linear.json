@@ -1,0 +1,126 @@
+{
+  "WORD":"linear",
+  "IPA":"/ˈlɪniər/",
+  "CONJUGATES":"none",
+  "ETYMOLOGY":"From Latin linearis ('of or pertaining to a line'), from linea ('line').",
+  "SINCE":"mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] linear",
+      "POS":"adj",
+      "POS_TIP":"\"adj\" stands for adjective, a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "general"
+      ],
+      "DEF_EN":"Arranged in or extending along a straight line; straight.",
+      "DEF_ZH":"排列成直线或沿着直线延伸的；直线的。",
+      "SENT_EN":"The buildings were constructed in a linear arrangement along the street.",
+      "SENT_ZH":"这些建筑物沿着街道呈线性排列。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "straight",
+            "direct",
+            "rectilinear"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "curved",
+            "circular",
+            "non-linear"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "line",
+            "linearly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] linear",
+      "POS":"adj",
+      "POS_TIP":"\"adj\" stands for adjective, a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "core word",
+        "common",
+        "abstract"
+      ],
+      "DEF_EN":"Progressing from one stage to the next in a single series of steps; sequential rather than parallel or cyclical.",
+      "DEF_ZH":"按照单一的、不分叉的顺序从一个阶段发展到下一个阶段；顺序的而非并行或循环的。",
+      "SENT_EN":"The project follows a linear development process, moving from planning to execution.",
+      "SENT_ZH":"该项目遵循线性的开发流程，从规划到执行逐步推进。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sequential",
+            "step-by-step",
+            "progressive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "non-linear",
+            "cyclical",
+            "iterative",
+            "branching"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "linearity",
+            "sequence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a linear equation/function",
+      "POS":"adj",
+      "POS_TIP":"\"adj\" stands for adjective, a word that describes or modifies a noun or pronoun.",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"(Mathematics) Involving or expressible in terms of a variable of the first degree.",
+      "DEF_ZH":"（数学）涉及或可用一次变量表示的。",
+      "SENT_EN":"We need to find the solution to this system of linear equations.",
+      "SENT_ZH":"我们需要找到这个线性方程组的解。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "first-degree"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "quadratic",
+            "exponential",
+            "non-linear"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "algebra",
+            "geometry",
+            "equation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal to technical"
+}

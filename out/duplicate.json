@@ -1,0 +1,125 @@
+{
+  "WORD":"duplicate",
+  "IPA":"/ˈduːplɪkeɪt/, /ˈduːplɪkət/",
+  "CONJUGATES":"duplicates | duplicating | duplicated",
+  "ETYMOLOGY":"From Latin duplicātus, past participle of duplicāre ('to double'), derived from duplex ('twofold'), which combines duo ('two') and plicāre ('to fold').",
+  "SINCE":"c. 1540 (verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"duplicate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "technology"
+      ],
+      "DEF_EN":"To make an exact copy or reproduction of something.",
+      "DEF_ZH":"复制；制作副本；精确重做",
+      "SENT_EN":"Please duplicate this key and give the spare to the building manager.",
+      "SENT_ZH":"请复制这把钥匙，并将备用钥匙交给物业经理。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "copy",
+            "replicate",
+            "reproduce",
+            "clone"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "originalize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a duplicate (of sth)",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An exact copy or replica of an item, document, or object.",
+      "DEF_ZH":"副本；复制品；一模一样的东西",
+      "SENT_EN":"The invoice was lost, so we requested a duplicate from the supplier.",
+      "SENT_ZH":"发票丢失了，所以我们要求供应商提供一份副本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "copy",
+            "replica",
+            "facsimile",
+            "carbon copy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "original",
+            "triplicate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"duplicate [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Exactly the same as something else; existing as two identical parts or elements.",
+      "DEF_ZH":"相同的；重复的；双重的",
+      "SENT_EN":"We found duplicate entries in the database that needed to be merged.",
+      "SENT_ZH":"我们在数据库中发现了需要合并的重复条目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "identical",
+            "matching",
+            "redundant",
+            "twofold"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unique",
+            "single"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"duplicate",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "formal",
+        "biology"
+      ],
+      "DEF_EN":"To multiply by two; to double.",
+      "DEF_ZH":"（使）加倍；（使）成双",
+      "SENT_EN":"DNA must duplicate precisely before cell division can occur.",
+      "SENT_ZH":"在细胞分裂发生之前，DNA必须精确地复制（加倍）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "double",
+            "multiply"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use, common in administrative, technical, and scientific contexts."
+}

@@ -1,0 +1,91 @@
+{
+  "WORD":"eccentric",
+  "IPA":"/ɪkˈsɛntrɪk/",
+  "CONJUGATES":"eccentrics (n. pl.) | more eccentric (adj. comp.) | most eccentric (adj. sup.) | eccentrically (adv.)",
+  "ETYMOLOGY":"From Late Latin eccentricus, from Greek ékkentros 'out of the center', derived from ek- 'out' + kéntron 'center'. Originally used in astronomy to describe an orbit that deviates from the perfect circle.",
+  "SINCE":"Late 16th century (astronomy); Early 17th century (behavioral)",
+  "MEANINGS":[
+    {
+      "PATTERN":"eccentric [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Deviating from the recognized or established norm, especially in behavior; unconventional and slightly strange.",
+      "DEF_ZH":"行为古怪的；异乎寻常的；不合常规的。",
+      "SENT_EN":"The artist was known for his eccentric fashion sense and elaborate hats.",
+      "SENT_ZH":"这位艺术家以他古怪的时尚品味和精致的帽子而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "peculiar",
+            "quirky",
+            "bizarre",
+            "odd",
+            "unconventional"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conventional",
+            "ordinary",
+            "normal",
+            "standard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an eccentric [n]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "person"
+      ],
+      "DEF_EN":"A person having an unusual, peculiar, or odd personality or behavior.",
+      "DEF_ZH":"古怪的人；怪人；偏执者。",
+      "SENT_EN":"My elderly neighbor is an eccentric who spends all day talking to his garden gnomes.",
+      "SENT_ZH":"我年迈的邻居是个怪人，他整天对着他的花园侏儒说话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "oddball",
+            "maverick",
+            "nonconformist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"eccentric [adj] (technical)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "geometry",
+        "mechanics"
+      ],
+      "DEF_EN":"Not having the same center (used of circles, spheres, or orbits); offset or deviating from the center or axis.",
+      "DEF_ZH":"偏心的；不同圆心的（指轨道或物体）；偏离中心或轴线的。",
+      "SENT_EN":"The design used an eccentric gear to provide an irregular movement pattern.",
+      "SENT_ZH":"该设计采用了一个偏心齿轮来提供不规则的运动模式。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "concentric",
+            "centered"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, suitable for most contexts."
+}

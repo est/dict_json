@@ -1,0 +1,59 @@
+{
+  "WORD":"until",
+  "IPA":"/ənˈtɪl/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old Norse und 'as far as' + til 'to, up to'. Originally a compound of two prepositions. The 'un' element is not related to 'up' or 'unless'.",
+  "SINCE":"Late 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"until [time/event]",
+      "POS":"prep",
+      "POS_TIP":"preposition: a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Up to the time of (an event or circumstance mentioned).",
+      "DEF_ZH":"直到（某一事件或情况发生）的时候。",
+      "SENT_EN":"The store is open until 9 PM.",
+      "SENT_ZH":"这家商店营业到晚上9点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "till",
+            "up to"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "from"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"until [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: a word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Up to the time that (something happens or is true).",
+      "DEF_ZH":"直到（某事发生或为真）的时候。",
+      "SENT_EN":"I waited until she called me.",
+      "SENT_ZH":"我一直等到她给我打电话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "till"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

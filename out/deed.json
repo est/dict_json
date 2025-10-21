@@ -1,0 +1,82 @@
+{
+  "WORD":"deed",
+  "IPA":"/diːd/",
+  "CONJUGATES":"deeds (n. pl.) | deeds (v.) | deeding (v.) | deeded (v.)",
+  "ETYMOLOGY":"From Old English dǣd, related to dōn ('to do'), suggesting 'that which is done'.",
+  "SINCE":"Before 1100 (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] do a good/bad deed",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Formal",
+        "Literary"
+      ],
+      "DEF_EN":"An action or performance, especially one that is significant, heroic, or infamous.",
+      "DEF_ZH":"行动；行为；事迹（尤指重大、英勇或邪恶的行为）。",
+      "SENT_EN":"The knight was known for his valiant deeds and loyalty.",
+      "SENT_ZH":"这位骑士因其英勇的事迹和忠诚而闻名。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "act",
+            "feat",
+            "exploit",
+            "achievement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"sign/file the deed for [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "Legal",
+        "Formal"
+      ],
+      "DEF_EN":"A legal document that is signed and delivered, especially one conveying property or legal rights.",
+      "DEF_ZH":"（法律）契约；证书；尤指房产转让契约。",
+      "SENT_EN":"We finally received the deed confirming our ownership of the land.",
+      "SENT_ZH":"我们最终收到了确认我们土地所有权的契约。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "title",
+            "document",
+            "conveyance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deed [sth] to [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Legal",
+        "Formal",
+        "Rare"
+      ],
+      "DEF_EN":"To transfer or convey (property or legal rights) by a deed.",
+      "DEF_ZH":"（通过契约）转让（财产或法律权利）。",
+      "SENT_EN":"She deeded the beachfront property over to her grandchildren.",
+      "SENT_ZH":"她将海滨房产通过契约转让给了她的孙辈。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "convey",
+            "transfer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage for meaning 1; Legal and Formal for meanings 2 and 3."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"debt",
+  "IPA":"/dɛt/",
+  "CONJUGATES":"debts (plural)",
+  "ETYMOLOGY":"From Middle English dette, det, from Old French dette, from Latin dēbitum (neuter past participle of dēbēre 'to owe'). The spelling was reinforced in the 16th century by the Latin origin, reintroducing the silent 'b'.",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (financial obligation)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "finance",
+        "economics"
+      ],
+      "DEF_EN":"A sum of money that is owed or due; an obligation to pay or render something to another.",
+      "DEF_ZH":"欠款；债务；亏空（可数或不可数）",
+      "SENT_EN":"The national debt has become a major topic of political debate.",
+      "SENT_ZH":"国债已成为一个重要的政治辩论话题。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "liability",
+            "obligation",
+            "loan",
+            "arrears"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "creditor",
+            "debtor",
+            "solvency"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in debt (to [sb] / for [sth])",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable, usually used in fixed phrases)",
+      "TAGS":[
+        "phrase",
+        "status"
+      ],
+      "DEF_EN":"The state or condition of owing money.",
+      "DEF_ZH":"负债的状态；拖欠状态。",
+      "SENT_EN":"Many students leave university heavily in debt.",
+      "SENT_ZH":"许多学生毕业时都身负重债。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "solvency",
+            "asset"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a debt of [sth] (non-financial obligation)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"An obligation to someone because of a favor or service they have done for you; a feeling of gratitude.",
+      "DEF_ZH":"感激之情；情义上的亏欠。",
+      "SENT_EN":"We owe a great debt of gratitude to the emergency services for their quick response.",
+      "SENT_ZH":"我们对紧急服务部门的快速响应深表感激。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "obligation",
+            "duty",
+            "indebtedness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely in business, finance, law, and everyday conversation."
+}

@@ -1,0 +1,104 @@
+{
+  "WORD":"disarm",
+  "IPA":"/dɪsˈɑːrm/",
+  "CONJUGATES":"disarms | disarming | disarmed",
+  "ETYMOLOGY":"From Old French desarmes, from des- (un-) + armer (to arm), meaning 'to deprive of weapons'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"disarm [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To take weapons away from a person, group, or country.",
+      "DEF_ZH":"解除（某人或某团体的）武装；收缴（某国）的武器",
+      "SENT_EN":"The rebels were forced to disarm after the peace treaty was signed.",
+      "SENT_ZH":"和平条约签署后，叛乱分子被迫解除武装。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unarm",
+            "demilitarize",
+            "demobilize"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "arm",
+            "equip",
+            "supply"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disarm [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "core word",
+        "common",
+        "figurative"
+      ],
+      "DEF_EN":"To remove hostility, suspicion, or anger from someone; to make them feel friendly or trusting.",
+      "DEF_ZH":"化解（某人的）敌意、疑心或怒气；使（某人）变得友好或信任",
+      "SENT_EN":"Her charming smile was enough to disarm even the sternest critic.",
+      "SENT_ZH":"她迷人的微笑足以化解最严厉评论家的敌意。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pacify",
+            "mollify",
+            "conciliate",
+            "appease"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "antagonize",
+            "provoke",
+            "offend"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"disarm [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb: a verb that requires a direct object to complete its meaning",
+      "TAGS":[
+        "specific use",
+        "technical"
+      ],
+      "DEF_EN":"To make a bomb or other explosive device safe by removing its detonator or fuse.",
+      "DEF_ZH":"拆除（炸弹或其他爆炸装置的）引信，使其失效",
+      "SENT_EN":"Bomb disposal experts were called in to disarm the device.",
+      "SENT_ZH":"拆弹专家被召来拆除该装置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deactivate",
+            "defuse",
+            "render safe"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bomb disposal",
+            "explosive ordnance disposal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

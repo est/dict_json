@@ -1,0 +1,64 @@
+{
+  "WORD":"municipal",
+  "IPA":"/mjuːˈnɪsɪpəl/",
+  "CONJUGATES":"municipally (adv) | municipality (n) | municipalize (v)",
+  "ETYMOLOGY":"From Latin *mūnicipālis* (relating to a *municipium*, 'free town'), derived from *mūniceps* ('citizen of a free town'), a combination of *mūnus* ('duty, service, gift') and *capere* ('to take, to seize').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"municipal [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "government",
+        "administration"
+      ],
+      "DEF_EN":"Relating to a city, town, borough, or district, or its governing body and internal affairs.",
+      "DEF_ZH":"市政的；与城市或城镇及其地方政府有关的。",
+      "SENT_EN":"The city council debated the new municipal budget for hours.",
+      "SENT_ZH":"市议会就新的市政预算辩论了数小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "civic",
+            "urban",
+            "local",
+            "metropolitan"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "provincial",
+            "federal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"municipal [facility/service]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "public works",
+        "utility"
+      ],
+      "DEF_EN":"Provided or maintained by the local government, rather than by private enterprise.",
+      "DEF_ZH":"由地方政府提供或维护的（通常指公共服务或设施）。",
+      "SENT_EN":"We need to drop off the recycling at the municipal disposal site.",
+      "SENT_ZH":"我们需要把回收物送到市政垃圾处理场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "public",
+            "government-run"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Government, Law"
+}

@@ -1,0 +1,101 @@
+{
+  "WORD":"cook",
+  "IPA":"/kʊk/",
+  "CONJUGATES":"cooks | cooking | cooked",
+  "ETYMOLOGY":"From Middle English coken, from Old English cōcian, from Latin coquere 'to cook'. The noun comes from Old English cōc, derived from the same Latin root.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"cook [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To prepare food for eating by heating it, often in combination with other ingredients.",
+      "DEF_ZH":"通过加热（通常是搭配其他配料）准备食物，使其可以食用；烹饪；烧菜。",
+      "SENT_EN":"She is cooking a magnificent seafood paella for dinner tonight.",
+      "SENT_ZH":"她今晚正在做一份精美的海鲜饭作为晚餐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "prepare",
+            "bake",
+            "boil",
+            "fry",
+            "roast"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "culinary",
+            "gastronomy"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cook",
+      "POS":"vitr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"(Of food) to undergo the process of being prepared by heat.",
+      "DEF_ZH":"（指食物）被加热烹制；（食物）在煮。",
+      "SENT_EN":"The chicken needs to cook for at least an hour at 350 degrees.",
+      "SENT_ZH":"这只鸡需要以350度至少烤一小时。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a cook",
+      "POS":"n [c]",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "profession"
+      ],
+      "DEF_EN":"A person who prepares food, especially as a job or hobby.",
+      "DEF_ZH":"烹饪食物的人；厨师（尤指日常或非高级餐厅的）。",
+      "SENT_EN":"Although not a professional chef, he is a fantastic home cook.",
+      "SENT_ZH":"虽然他不是专业的厨师，但他是一位很棒的家庭厨师。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chef",
+            "culinarian"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cook [the books] | cook [sth] up",
+      "POS":"vtr + idiom",
+      "POS_TIP":"transitive verb + idiomatic phrase",
+      "TAGS":[
+        "informal",
+        "idiom",
+        "derogatory"
+      ],
+      "DEF_EN":"To falsify or manipulate data, accounts, or information dishonestly.",
+      "DEF_ZH":"（非正式）伪造或篡改（数据、账目或信息），进行欺骗。",
+      "SENT_EN":"The CEO was arrested for allegedly trying to cook the company's financial records.",
+      "SENT_ZH":"该首席执行官因涉嫌试图篡改公司财务记录而被捕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "falsify",
+            "tamper",
+            "doctor",
+            "manipulate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, common usage across all registers (except for the idiomatic usage, which is informal)."
+}

@@ -1,0 +1,105 @@
+{
+  "WORD":"pencil",
+  "IPA":"/ˈpɛnsəl/",
+  "CONJUGATES":"pencils (noun plural) | pencils (verb 3rd person singular present) | penciling (verb present participle) | penciled (verb past tense, past participle)",
+  "ETYMOLOGY":"From Old French *pincel* 'small paintbrush', a diminutive of Latin *penicillus* 'small brush' (from *penis* 'tail, brush'). The meaning shifted from 'brush' to 'graphite writing tool' around the 16th century.",
+  "SINCE":"Late 14th century (as a brush); mid-16th century (as a graphite writing tool)",
+  "MEANINGS":[
+    {
+      "PATTERN":"a pencil",
+      "POS":"noun",
+      "POS_TIP":"A word that represents a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "common",
+        "writing instrument"
+      ],
+      "DEF_EN":"A long, thin instrument for writing or drawing, typically consisting of a thin stick of graphite enclosed in a wooden or metal casing.",
+      "DEF_ZH":"一种用于书写或绘图的细长工具，通常由一根细石墨棒包裹在木质或金属外壳中。",
+      "SENT_EN":"She used a pencil to sketch the landscape in her notebook.",
+      "SENT_ZH":"她用铅笔在笔记本上画了一幅风景素描。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "writing tool",
+            "graphite stick"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pen",
+            "crayon",
+            "marker",
+            "eraser",
+            "sketchbook"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pencil [sth]",
+      "POS":"vtr",
+      "POS_TIP":"A transitive verb, which is a verb that requires one or more objects.",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To write, draw, or mark something with a pencil.",
+      "DEF_ZH":"用铅笔书写、绘画或标记某物。",
+      "SENT_EN":"He penciled a quick note on the back of the envelope.",
+      "SENT_ZH":"他在信封背面用铅笔草草写了个便条。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "write",
+            "draw",
+            "sketch",
+            "mark"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "erase",
+            "ink"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pencil [sth] in | pencil in [sth]",
+      "POS":"vtr + adv",
+      "POS_TIP":"A transitive verb followed by an adverb, forming a phrasal verb, which is a verb combined with an adverb or a preposition, or sometimes both, to give a new meaning.",
+      "TAGS":[
+        "idiomatic",
+        "common",
+        "tentative"
+      ],
+      "DEF_EN":"To make a tentative arrangement or booking for something, implying it might change.",
+      "DEF_ZH":"暂时安排或预定某事，暗示其可能会有变动。",
+      "SENT_EN":"Let's pencil in our meeting for next Tuesday and confirm closer to the date.",
+      "SENT_ZH":"我们先将会议暂定在下周二，临近日期再确认。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tentatively schedule",
+            "book provisionally",
+            "slot in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "finalize",
+            "confirm"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}
