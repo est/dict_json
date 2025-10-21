@@ -1,3 +1,4 @@
+import os
 import json
 import time
 from pathlib import Path
@@ -10,10 +11,10 @@ for p in Path('pub').rglob('*.txt'):
     with open(p) as f:
         for l in f:
             if w := l.strip():
-                whole[w] += 1
+                whole[w.lower()] += 1
 
 for x in Path('out').rglob('*.json'):
-    whole.pop(x.name.removesuffix('.json'), None)
+    whole.pop(x.name.removesuffix('.json').lower(), None)
 
 
 sys_prompt="""
@@ -44,20 +45,38 @@ Do not wrap the JSON. Format is:
   ],
   "REGISTER": "", // where the word is commonly used
 }"""
+LLM_MODEL = 'gemini-flash-latest'
 
 session  = requests.Session()
 i = 1
+total = len(whole)
 while whole:
     w, c = whole.popitem()
+    rsp = ''
     try:
-        r = session.post('https://def.est.im/.lookup', params={'q': w})
-        data: dict = r.json()
-    except:
+        r = session.post(os.getenv('LLM_API'), headers={
+            'Authorization': f"Bearer {os.getenv('LLM_TOKEN')}"
+            }, json={
+            "model": LLM_MODEL,
+            "messages": [
+              {"role": "system", "content": sys_prompt},
+              {"role": "user", "content": w}
+            ]
+            })
+        rsp = r.text
+        data_str = json.loads(rsp)['choices'][0]['message']['content']
+        data = json.loads(data_str.strip().removesuffix('```').removeprefix('```json').removeprefix('```'))
+    except Exception as ex:
+        print(w, ex, rsp)
         time.sleep(1)
+        whole[w] = c
+        continue
+    if not data.get('MEANINGS'):
+        print('empty', rsp)
         whole[w] = c
         continue
     with open(f'out/{w}.json', 'w') as f:
         o = json.dumps(data, ensure_ascii=False, separators=',:', indent=2)
         b = f.write(o)
-        print(f"{i}/{len(whole)}", w, b)
+        print(f"{i}/{total}", w, b)
     i += 1
