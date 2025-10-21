@@ -1,0 +1,67 @@
+{
+  "WORD":"eraser",
+  "IPA":"/ɪˈreɪsər/",
+  "CONJUGATES":"erasers (pl.)",
+  "ETYMOLOGY":"Agent noun formed from the verb 'erase' + suffix '-er'. 'Erase' is from Middle English erasen, ultimately from Latin ērādere (to scrape out, scratch out). The modern tool (rubber eraser) was popularized in the late 18th century.",
+  "SINCE":"c. 1770s (referring to the rubber tool)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (physical object)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Tool",
+        "Stationery",
+        "Common"
+      ],
+      "DEF_EN":"A piece of soft rubber, plastic, or similar material used for removing marks made by pencil, chalk, or sometimes ink.",
+      "DEF_ZH":"用于去除铅笔、粉笔或有时是墨水痕迹的软橡胶、塑料或类似材料制成的工具（即橡皮擦）。",
+      "SENT_EN":"I need a large, gritty eraser for this charcoal drawing.",
+      "SENT_ZH":"我需要一块大的、有磨砂感的橡皮擦来处理这幅炭笔画。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rubber",
+            "art gum",
+            "putty rubber",
+            "cleaner"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pencil",
+            "chalk",
+            "whiteboard"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (digital context)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Computing",
+        "Software",
+        "Technical"
+      ],
+      "DEF_EN":"In digital editing or graphic software, a tool or function that removes selected pixels, digital ink, or parts of an image.",
+      "DEF_ZH":"在数字编辑或图形软件中，用于移除选定像素、数字墨水或图像部分的工具或功能。",
+      "SENT_EN":"Use the eraser tool to subtly blend the edges of the superimposed image.",
+      "SENT_ZH":"使用橡皮擦工具来巧妙地混合叠加图像的边缘。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "undo",
+            "paintbrush",
+            "selection tool"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

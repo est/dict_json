@@ -1,0 +1,64 @@
+{
+  "WORD":"botanical",
+  "IPA":"/bəˈtænɪkl/",
+  "CONJUGATES":"botanicals (n. pl.) | botanically (adv.)",
+  "ETYMOLOGY":"From French botanique (adj.), from Ancient Greek βοτανικός (botanikós, 'of herbs'), from βοτάνη (botánē, 'plant, herb').",
+  "SINCE":"c. 1770 (adj.); 1860s (n.)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj] botanical [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "academic",
+        "biology"
+      ],
+      "DEF_EN":"Relating to plants or the study of plants (botany).",
+      "DEF_ZH":"与植物或植物学研究相关的。",
+      "SENT_EN":"The garden contains a wide variety of botanical specimens.",
+      "SENT_ZH":"这个花园里有各种各样的植物标本。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "botany",
+            "floral",
+            "vegetable"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "plant",
+            "herbal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[n] a botanical",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "countable"
+      ],
+      "DEF_EN":"A substance obtained from a plant, typically used in cosmetics, medicines, or beverages.",
+      "DEF_ZH":"从植物中提取的物质，通常用于化妆品、药物或饮料中。",
+      "SENT_EN":"Many gins get their unique flavor from a blend of different botanicals.",
+      "SENT_ZH":"许多杜松子酒都通过混合不同的植物提取物来获得其独特的风味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "extract",
+            "herb",
+            "plant part"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Biology/Chemistry)"
+}

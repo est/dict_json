@@ -1,0 +1,85 @@
+{
+  "WORD":"email",
+  "IPA":"/ˈiːmeɪl/",
+  "CONJUGATES":"e-mail | emails (pl. n.) | emails (3rd sg. v.) | emailing (pres. p.) | emailed (p. t./p. p.)",
+  "ETYMOLOGY":"A contracted form of 'electronic mail', which arose from the necessity to distinguish digital mail from physical (snail) mail. The concept of 'electronic mail' dates to the 1960s.",
+  "SINCE":"c. 1980s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] email [to sb/sth]",
+      "POS":"n. count.",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A message sent or received electronically by computer.",
+      "DEF_ZH":"通过电脑电子方式发送或接收的信息；电子邮件。",
+      "SENT_EN":"I sent him an email with the new contract details.",
+      "SENT_ZH":"我给他发了一封附有新合同细节的电子邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "message",
+            "correspondence",
+            "memo"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "text",
+            "SMS"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] email [system/address]",
+      "POS":"n. uncount.",
+      "POS_TIP":"Uncountable noun",
+      "TAGS":[
+        "core word",
+        "technology"
+      ],
+      "DEF_EN":"The system or method for transmitting or exchanging digital messages over the Internet; also, the address used for this system.",
+      "DEF_ZH":"通过互联网传输或交换数字信息的系统或方法；电子邮政系统；电子邮箱地址。",
+      "SENT_EN":"Our company uses a secure internal email system.",
+      "SENT_ZH":"我们公司使用安全的内部电子邮件系统。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Internet",
+            "server"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"email [sb] [sth]",
+      "POS":"v. tr.",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common",
+        "action verb"
+      ],
+      "DEF_EN":"To send a digital message to a person or group using the electronic mail system.",
+      "DEF_ZH":"通过电子邮件系统向（某人或某群体）发送信息。",
+      "SENT_EN":"Could you please email me the meeting agenda before noon?",
+      "SENT_ZH":"你能在中午前把会议议程通过电子邮件发给我吗？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "send",
+            "forward",
+            "transmit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal communication"
+}
