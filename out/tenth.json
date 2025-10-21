@@ -1,0 +1,78 @@
+{
+  "WORD":"tenth",
+  "IPA":"/tɛnθ/",
+  "CONJUGATES":"tenths (plural noun form for fraction/measurement)",
+  "ETYMOLOGY":"From Old English *tēoþa*, which is related to *tīen* (ten). The '-th' ending is characteristic of ordinal numbers.",
+  "SINCE":"Old English (pre-1000 AD)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] tenth [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "ordinal"
+      ],
+      "DEF_EN":"Occupying the position corresponding to number ten in a sequence; coming after the ninth.",
+      "DEF_ZH":"序数词，排在第九位之后的位置；第十的。",
+      "SENT_EN":"This is the tenth time I've had to call the technician this month.",
+      "SENT_ZH":"这已经是这个月我第十次不得不给技术人员打电话了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ninth",
+            "eleventh",
+            "10th"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] tenth | a tenth of [sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "fraction"
+      ],
+      "DEF_EN":"One of ten equal parts into which something is divided; the fraction 1/10.",
+      "DEF_ZH":"十分之一；某物被分成十等份中的一份。",
+      "SENT_EN":"A tenth of the population suffers from this rare condition.",
+      "SENT_ZH":"十分之一的人口患有这种罕见的疾病。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decile",
+            "1/10"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a tenth",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "formal",
+        "historical",
+        "religious"
+      ],
+      "DEF_EN":"A tax or contribution of one tenth of a person's annual produce or earnings, traditionally paid for the support of the Church or state (a tithe).",
+      "DEF_ZH":"（历史/宗教）什一税；向教会或国家缴纳的个人年收入或产出的十分之一。",
+      "SENT_EN":"Historically, the church relied on the payment of a tenth from its parishioners.",
+      "SENT_ZH":"从历史上看，教会依赖于教区居民缴纳的什一税。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tithe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}
