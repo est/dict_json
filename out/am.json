@@ -1,0 +1,91 @@
+{
+  "WORD":"be",
+  "IPA":"/biː/",
+  "CONJUGATES":"am | is | are | was | were | been | being",
+  "ETYMOLOGY":"From Old English bēon, merged from multiple Proto-Indo-European roots (*bʰuH- 'to grow, become' and *h₁es- 'to be').",
+  "SINCE":"Pre-Old English (ancient)",
+  "MEANINGS":[
+    {
+      "PATTERN":"be [v-ing]",
+      "POS":"v aux",
+      "POS_TIP":"Auxiliary verb",
+      "TAGS":[
+        "core word",
+        "grammar",
+        "high frequency"
+      ],
+      "DEF_EN":"Used with the present participle to form continuous or progressive tenses. (The form 'am' is used with the first-person singular pronoun 'I').",
+      "DEF_ZH":"与现在分词连用，构成进行时态。（'am' 形用于第一人称单数代词 'I'）。",
+      "SENT_EN":"I am working on a new project right now.",
+      "SENT_ZH":"我此刻正在忙一个新的项目。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"be [v-pp]",
+      "POS":"v aux",
+      "POS_TIP":"Auxiliary verb",
+      "TAGS":[
+        "core word",
+        "grammar"
+      ],
+      "DEF_EN":"Used with the past participle to form the passive voice.",
+      "DEF_ZH":"与过去分词连用，构成被动语态。",
+      "SENT_EN":"I am surrounded by friendly faces.",
+      "SENT_ZH":"我被友善的面孔围绕着。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"be [sb/sth] | be [adj]",
+      "POS":"v link",
+      "POS_TIP":"Linking verb (copula)",
+      "TAGS":[
+        "core word",
+        "fundamental"
+      ],
+      "DEF_EN":"To exist in a specified state, condition, or identity.",
+      "DEF_ZH":"表示处于特定的状态、条件或身份。",
+      "SENT_EN":"I am ready for the challenge.",
+      "SENT_ZH":"我准备好迎接挑战了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exist",
+            "remain",
+            "seem"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "become",
+            "do",
+            "have"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be [prep phrase]",
+      "POS":"v intr",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "core word"
+      ],
+      "DEF_EN":"To occupy a position or location.",
+      "DEF_ZH":"位于某一位置或地点。",
+      "SENT_EN":"I am here to help you.",
+      "SENT_ZH":"我在这里帮你。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lie",
+            "stand"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

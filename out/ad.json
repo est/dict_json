@@ -1,0 +1,80 @@
+{
+  "WORD":"ad",
+  "IPA":"/æd/",
+  "CONJUGATES":"ads (plural)",
+  "ETYMOLOGY":"Clipping of 'advertisement' or 'advert'.",
+  "SINCE":"c. 1920s (for advertisement usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ad | an ad for [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Abbreviation"
+      ],
+      "DEF_EN":"A short piece of publicity designed to sell a product, service, or idea; an advertisement.",
+      "DEF_ZH":"广告；宣传品（通常指推销产品、服务或活动的）",
+      "SENT_EN":"They spent millions of dollars running that Super Bowl ad.",
+      "SENT_ZH":"他们花费了数百万美元来投放那个超级碗广告。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "advertisement",
+            "commercial",
+            "promotion",
+            "notice"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ad | the ad department",
+      "POS":"abbr.",
+      "POS_TIP":"abbreviation",
+      "TAGS":[
+        "Contextual",
+        "Informal"
+      ],
+      "DEF_EN":"Short for 'advertising' or 'advertisement' when referring to the industry, department, or content creation process.",
+      "DEF_ZH":"（部门、行业或过程的）广告业或广告宣传的简称。",
+      "SENT_EN":"The creative team in ad needs new ideas by Friday.",
+      "SENT_ZH":"广告部的创意团队需要在周五前拿出新主意。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "marketing",
+            "media"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"A.D. | AD",
+      "POS":"abbr.",
+      "POS_TIP":"abbreviation",
+      "TAGS":[
+        "Historical",
+        "Formal",
+        "Latin"
+      ],
+      "DEF_EN":"Used in dates to indicate that a year came after the supposed year of Christ's birth (Anno Domini). Often capitalized and punctuated.",
+      "DEF_ZH":"公元（用于纪年，拉丁语Anno Domini的缩写，意为“主的年份”。通常大写并带点）。",
+      "SENT_EN":"The city was founded in 200 A.D.",
+      "SENT_ZH":"这座城市创建于公元200年。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "B.C.",
+            "BCE"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used commonly in all registers, especially in commerce and media."
+}
