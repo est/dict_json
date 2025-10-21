@@ -1,0 +1,87 @@
+{
+  "WORD":"haircut",
+  "IPA":"/ˈhɛrˌkʌt/",
+  "CONJUGATES":"haircuts (plural) | haircutting (gerund/present participle)",
+  "ETYMOLOGY":"Compound word combining 'hair' (Old English hær) and 'cut' (Old English cuttan). The noun usage referring to the service or style originated in the late 19th century.",
+  "SINCE":"c. 1890s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] haircut",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The act or process of cutting, trimming, or styling a person's hair.",
+      "DEF_ZH":"理发；剪发（指行为或服务过程）",
+      "SENT_EN":"I booked a haircut appointment for Friday afternoon.",
+      "SENT_ZH":"我预约了周五下午的理发服务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "trim",
+            "clipping"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "barber",
+            "salon",
+            "stylist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] [type of] haircut",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The resulting style or shape of hair after it has been cut.",
+      "DEF_ZH":"发型；理发后的样式",
+      "SENT_EN":"That short, layered haircut looks fantastic on you.",
+      "SENT_ZH":"那个有层次感的短发造型在你身上看起来棒极了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hairstyle",
+            "do",
+            "coiffure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a haircut (on [sth])",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "finance",
+        "specialized",
+        "slang"
+      ],
+      "DEF_EN":"A reduction in the stated value of an asset or collateral, used especially in calculating loan eligibility or capital requirements.",
+      "DEF_ZH":"（金融）扣减率；资产价值的降低或折价",
+      "SENT_EN":"Regulators required banks to take a significant haircut on their mortgage-backed securities.",
+      "SENT_ZH":"监管机构要求银行对其抵押贷款支持证券进行大幅的价值扣减。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discount",
+            "write-down",
+            "reduction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, Everyday language (except for financial usage)"
+}

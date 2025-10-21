@@ -1,0 +1,86 @@
+{
+  "WORD":"rebuild",
+  "IPA":"/ˌriːˈbɪld/",
+  "CONJUGATES":"rebuilds | rebuilding | rebuilt",
+  "ETYMOLOGY":"From the prefix 're-' (again, anew) combined with the verb 'build' (from Old English byldan, meaning 'to construct a dwelling'). Meaning 'to construct again'.",
+  "SINCE":"Mid 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"rebuild [sth] (a structure/town/machine)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical"
+      ],
+      "DEF_EN":"To construct or repair something that has been damaged, destroyed, or disassembled, restoring it to its original or an improved state.",
+      "DEF_ZH":"重建；重新建造或修复（被破坏或损坏的结构、机器等）。",
+      "SENT_EN":"It will take years to rebuild the town devastated by the earthquake.",
+      "SENT_ZH":"重建这座被地震摧毁的城镇将需要数年时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reconstruct",
+            "restore",
+            "renovate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "destroy",
+            "demolish"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rebuild [sth] (an organization/life/trust)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "abstract"
+      ],
+      "DEF_EN":"To restore, revitalize, or improve the condition, success, or morale of an abstract concept, organization, or person.",
+      "DEF_ZH":"重振；恢复；重建（抽象事物，如关系、信心、组织或经济）。",
+      "SENT_EN":"After the scandal, the company focused on rebuilding public trust.",
+      "SENT_ZH":"丑闻发生后，该公司致力于重建公众信任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "regenerate",
+            "revitalize",
+            "recover"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rebuild [sth] (a database/system)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"In computing, to compile or regenerate an entire software component, index, or system from scratch, often to fix errors or apply major updates.",
+      "DEF_ZH":"重构；重新编译或生成（计算机系统或数据库索引）。",
+      "SENT_EN":"We had to rebuild the database index after the server crash.",
+      "SENT_ZH":"服务器崩溃后，我们不得不重建数据库索引。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "recompile",
+            "reindex"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}
