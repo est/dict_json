@@ -1,0 +1,138 @@
+{
+  "WORD":"slash",
+  "IPA":"/slæʃ/",
+  "CONJUGATES":"slashes | slashing | slashed",
+  "ETYMOLOGY":"Probably from Middle English (late 15th century), perhaps related to Old French esclachier (to break) or influenced by words like slice.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"slash [sth] | slash [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To cut or gash something with a sharp blade in a sweeping or violent motion.",
+      "DEF_ZH":"用锋利的刀具快速或粗暴地划开；猛砍；划伤。",
+      "SENT_EN":"The attacker slashed the painting before fleeing the museum.",
+      "SENT_ZH":"袭击者在逃离博物馆之前用刀划破了那幅画。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cut",
+            "gash",
+            "slit",
+            "hack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slash [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "business",
+        "figurative"
+      ],
+      "DEF_EN":"To drastically reduce a price, cost, or amount.",
+      "DEF_ZH":"大幅度削减（价格、费用或数量）。",
+      "SENT_EN":"Due to low demand, the retailer had to slash prices on last season’s clothing.",
+      "SENT_ZH":"由于需求低迷，零售商不得不大幅削减上季服装的价格。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce",
+            "cut",
+            "lower",
+            "drastically decrease"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hike",
+            "raise",
+            "increase"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a slash",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"A long, deep cut or gash made by a sharp object.",
+      "DEF_ZH":"长而深的切口或伤口。",
+      "SENT_EN":"The accident left a jagged slash on the side of the car.",
+      "SENT_ZH":"那场事故在汽车侧面留下了一道锯齿状的深痕。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "gash",
+            "slit",
+            "incision"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the slash (/) | use a slash",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "typography",
+        "technical"
+      ],
+      "DEF_EN":"The oblique stroke punctuation mark ( / ), used to separate alternatives, elements in an address, or dates.",
+      "DEF_ZH":"斜线标点符号 ( / )，用于分隔选项、地址元素或日期。",
+      "SENT_EN":"The file path used a forward slash to separate directory names.",
+      "SENT_ZH":"文件路径使用正斜杠来分隔目录名称。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "back slash",
+            "virgule",
+            "solidus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"slash fiction",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "slang",
+        "fandom",
+        "specialized"
+      ],
+      "DEF_EN":"A genre of fan fiction focused on romantic or sexual relationships between same-gender fictional characters, conventionally denoted by a slash between the names.",
+      "DEF_ZH":"一种同人小说类型，专门描述同性虚构角色之间的浪漫或性关系，通常用斜线符号 (/) 表示。",
+      "SENT_EN":"The popularity of slash fiction grew significantly with the rise of internet fandom.",
+      "SENT_ZH":"随着互联网同人圈的兴起，斜线同人小说的受欢迎程度显着增加。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shipping",
+            "fanfic",
+            "femslash"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard for most meanings; technical/slang for punctuation and fandom use."
+}
