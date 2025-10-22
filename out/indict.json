@@ -1,0 +1,67 @@
+{
+  "WORD":"indict",
+  "IPA":"/ɪnˈdaɪt/",
+  "CONJUGATES":"indicts | indicting | indicted",
+  "ETYMOLOGY":"Late Middle English, from Anglo-Norman enditer, endicter, variant of Old French enditer 'to point out, accuse, write down', ultimately from Vulgar Latin *indīctāre, frequentative of Latin indicere 'to proclaim, announce, impose'. The spelling with 'c' was later introduced to reflect the Latin root, but the pronunciation retained the French form, resulting in the silent 'c'.",
+  "SINCE":"c. 14th century (as legal term)",
+  "MEANINGS":[
+    {
+      "PATTERN":"indict [sb] for [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Legal",
+        "Core Vocabulary",
+        "Formal"
+      ],
+      "DEF_EN":"To formally charge someone with a serious crime by the finding or presentment of a grand jury.",
+      "DEF_ZH":"（大陪审团）正式起诉某人犯有严重罪行。",
+      "SENT_EN":"The district attorney announced that the grand jury would indict the suspect on three counts of fraud.",
+      "SENT_ZH":"地方检察官宣布，大陪审团将以三项欺诈罪名起诉该嫌疑人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "accuse",
+            "charge",
+            "arraign",
+            "prosecute"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "indictment",
+            "grand jury"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"indict [sth/sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Rhetorical",
+        "General"
+      ],
+      "DEF_EN":"To express strong condemnation or accusation against.",
+      "DEF_ZH":"严厉谴责或指责（某事物或某人）。",
+      "SENT_EN":"His detailed report indicts the poor management practices prevalent in the industry.",
+      "SENT_ZH":"他的详细报告谴责了该行业中普遍存在的糟糕管理做法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condemn",
+            "denounce",
+            "censure",
+            "reproach"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Primarily legal and formal writing."
+}

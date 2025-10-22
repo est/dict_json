@@ -1,0 +1,63 @@
+{
+  "WORD":"rob",
+  "IPA":"/rɒb/",
+  "CONJUGATES":"robbing | robbed",
+  "ETYMOLOGY":"From Middle English robben, from Old North French rober, ultimately from Proto-Germanic *raubōną (to seize, plunder).",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"rob [sb] | rob [place]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core",
+        "Crime"
+      ],
+      "DEF_EN":"To take money or property from a person or place illegally, especially by force or threat of violence.",
+      "DEF_ZH":"抢劫；盗窃；以武力或威胁的方式非法地从某人或某地取走财物。",
+      "SENT_EN":"The thieves tried to rob the security van, but failed.",
+      "SENT_ZH":"窃贼试图抢劫那辆运钞车，但失败了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "steal",
+            "plunder",
+            "burgle"
+          ]
+        },
+        {
+          "T":"derivative",
+          "V":[
+            "robbery",
+            "robber"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rob [sb] of [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"transitive verb followed by a preposition",
+      "TAGS":[
+        "Figurative",
+        "Common"
+      ],
+      "DEF_EN":"To deprive someone of something important, due, or expected, often unfairly.",
+      "DEF_ZH":"剥夺；使失去；不公平地阻止某人获得或享有某事物。",
+      "SENT_EN":"The bureaucratic delay robbed the family of their savings.",
+      "SENT_ZH":"官僚主义的拖延剥夺了这家人本应获得的积蓄。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deprive",
+            "strip",
+            "divest"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in legal and everyday contexts."
+}

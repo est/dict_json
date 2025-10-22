@@ -1,0 +1,65 @@
+{
+  "WORD":"imaginary",
+  "IPA":"/ɪˈmædʒɪˌnɛri/",
+  "CONJUGATES":"more imaginary | most imaginary | imaginarily (adv)",
+  "ETYMOLOGY":"Late Middle English, from Latin imaginarius, from imaginari 'to form an image of, to imagine', related to imago 'image'.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"imaginary [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Existing only in the mind or imagination; fictitious; not real.",
+      "DEF_ZH":"想象中的；虚构的；非真实的；只存在于观念中的。",
+      "SENT_EN":"He often talks about his imaginary dog that guards the house.",
+      "SENT_ZH":"他经常谈论他那只守护房子的想象中的狗。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fictional",
+            "fantastical",
+            "unreal",
+            "chimerical"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "real",
+            "actual",
+            "genuine",
+            "tangible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"imaginary number | imaginary part",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "mathematics"
+      ],
+      "DEF_EN":"Pertaining to complex numbers whose square is a negative real number, usually involving the imaginary unit 'i' (the square root of -1).",
+      "DEF_ZH":"（数学）虚数的；与虚数单位（i，即-1的平方根）相关的。",
+      "SENT_EN":"A complex number consists of a real part and an imaginary part.",
+      "SENT_ZH":"一个复数由实部和虚部组成。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "complex",
+            "real"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general"
+}

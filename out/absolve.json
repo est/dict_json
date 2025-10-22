@@ -1,0 +1,68 @@
+{
+  "WORD":"absolve",
+  "IPA":"/əbˈzɑːlv/",
+  "CONJUGATES":"absolves | absolved | absolving",
+  "ETYMOLOGY":"From Late Middle English, deriving from Latin *absolvere* 'to set free, acquit', formed from *ab-* 'from' + *solvere* 'to loosen, release'.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"absolve [sb] (of/from [sth] like guilt or blame)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal",
+        "legal",
+        "religious"
+      ],
+      "DEF_EN":"To declare someone free from guilt, blame, or sin.",
+      "DEF_ZH":"宣布某人无罪；赦免（罪过）；免除（责任）。",
+      "SENT_EN":"The inquiry ultimately absolved him of any responsibility for the failure.",
+      "SENT_ZH":"调查最终宣告他无需为此次失败承担任何责任。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acquit",
+            "exonerate",
+            "clear",
+            "vindicate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "condemn",
+            "blame",
+            "convict"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"absolve [sb] (from [sth] like duty or commitment)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "administrative"
+      ],
+      "DEF_EN":"To release someone from a duty, obligation, or commitment.",
+      "DEF_ZH":"解除（某人的）职责、誓言或义务。",
+      "SENT_EN":"The unexpected closure of the project absolved the contractors from completing the final phase.",
+      "SENT_ZH":"项目的意外关闭解除了承包商完成最后阶段的义务。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "release",
+            "discharge",
+            "exempt",
+            "free"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, typically used in legal, moral, or religious contexts."
+}

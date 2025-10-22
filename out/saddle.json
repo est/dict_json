@@ -1,0 +1,108 @@
+{
+  "WORD":"saddle",
+  "IPA":"/ˈsædl/",
+  "CONJUGATES":"saddles | saddled | saddling",
+  "ETYMOLOGY":"From Old English sadol, of Germanic origin; related to Dutch zadel and German Sattel.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A seat for a rider, fastened on the back of a horse or other animal, or a similar seat on a bicycle or motorcycle.",
+      "DEF_ZH":"马鞍；（自行车、摩托车等的）车座，鞍座。",
+      "SENT_EN":"He checked the girth before placing the saddle on the mare's back.",
+      "SENT_ZH":"他把马鞍放到母马背上之前检查了肚带。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stirrup",
+            "bridle",
+            "harness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"saddle [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To put a saddle on a horse or other animal for riding.",
+      "DEF_ZH":"给（马等）装上马鞍。",
+      "SENT_EN":"The stable hand was told to saddle the horses immediately.",
+      "SENT_ZH":"马厩工人被告知立即给马匹装鞍。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "unsaddle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"saddle [sb] with [sth]",
+      "POS":"vtr + prep",
+      "POS_TIP":"verb, transitive, followed by a preposition",
+      "TAGS":[
+        "figurative",
+        "idiomatic",
+        "negative connotation"
+      ],
+      "DEF_EN":"To burden someone with an onerous responsibility, task, or problem.",
+      "DEF_ZH":"使某人承担（不愉快的责任或负担）；使某人受累。",
+      "SENT_EN":"After the management shakeup, I was suddenly saddled with three extra projects.",
+      "SENT_ZH":"管理层改组后，我突然被额外分配了三个项目。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "burden",
+            "encumber",
+            "load"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "relieve",
+            "free"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun, countable",
+      "TAGS":[
+        "technical",
+        "geography",
+        "geology"
+      ],
+      "DEF_EN":"A low point or depression in a ridge or crest between two higher elevations; a col.",
+      "DEF_ZH":"鞍部；山脊上的低谷（连接两个更高点）。",
+      "SENT_EN":"The trail led through a narrow saddle before climbing the main peak.",
+      "SENT_ZH":"这条小路穿过一个狭窄的鞍部，然后攀登主峰。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "col",
+            "pass"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Equestrian, Figurative"
+}

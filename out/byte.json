@@ -1,0 +1,42 @@
+{
+  "WORD":"byte",
+  "IPA":"/baɪt/",
+  "CONJUGATES":"bytes",
+  "ETYMOLOGY":"Coined by Werner Buchholz in 1956 during the design of the IBM 7030 Stretch computer. It is a modification of 'bite' (meaning a small piece) to avoid accidental mishearing or confusion with 'bit'.",
+  "SINCE":"1956",
+  "MEANINGS":[
+    {
+      "PATTERN":"byte",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A fundamental unit of digital information in computing and telecommunications, typically consisting of eight bits, which is generally the smallest addressable unit of memory.",
+      "DEF_ZH":"计算机和电信中的数字信息基本单位，通常由八个二进制位（bit）组成，通常是最小的可寻址内存单位。",
+      "SENT_EN":"Modern operating systems require several gigabytes of storage space, which translates to billions of bytes.",
+      "SENT_ZH":"现代操作系统需要数千兆字节的存储空间，相当于数十亿个字节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "octet"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bit",
+            "kilobyte",
+            "megabyte",
+            "gigabyte",
+            "terabyte"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical (Computer Science, IT)"
+}

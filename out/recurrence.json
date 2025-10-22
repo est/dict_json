@@ -1,0 +1,84 @@
+{
+  "WORD":"recurrence",
+  "IPA":"/rɪˈkʌrəns/",
+  "CONJUGATES":"recurrences (plural)",
+  "ETYMOLOGY":"From Latin *recurrentia*, from *recurrens*, present participle of *recurrere* ('to run back, return').",
+  "SINCE":"Mid 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s recurrence",
+      "POS":"n uncount/count",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "Core",
+        "Formal"
+      ],
+      "DEF_EN":"The fact of happening or occurring again, especially after a period of time or absence.",
+      "DEF_ZH":"再次发生；重现；反复",
+      "SENT_EN":"We must take steps to prevent the recurrence of such errors in the future.",
+      "SENT_ZH":"我们必须采取措施防止此类错误在未来再次发生。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repetition",
+            "return",
+            "reoccurrence",
+            "iteration"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "recur"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recurrence of [disease]",
+      "POS":"n uncount/count",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "Medical",
+        "Specialized"
+      ],
+      "DEF_EN":"The return of a disease or its symptoms after a period of remission or apparent recovery.",
+      "DEF_ZH":"(疾病的) 复发；复阳",
+      "SENT_EN":"The doctor closely monitored the patient for any sign of cancer recurrence.",
+      "SENT_ZH":"医生密切监测患者，观察是否有癌症复发的迹象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "relapse",
+            "recidivism"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recurrence relation",
+      "POS":"n count",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "Mathematics",
+        "Technical"
+      ],
+      "DEF_EN":"An equation that recursively defines a sequence, where the next term of the sequence is a function of the preceding terms.",
+      "DEF_ZH":"递推关系；递归关系 (数学术语)",
+      "SENT_EN":"The Fibonacci sequence is defined by a simple linear recurrence relation.",
+      "SENT_ZH":"斐波那契数列是由一个简单的线性递推关系定义的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "algorithm",
+            "sequence"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Medical"
+}

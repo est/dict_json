@@ -1,0 +1,75 @@
+{
+  "WORD":"wallet",
+  "IPA":"/ˈwɑːlɪt/",
+  "CONJUGATES":"wallets",
+  "ETYMOLOGY":"From Middle English, attested around the 14th century, meaning 'bag, knapsack.' Its ultimate origin is uncertain, perhaps related to a Northern Old French word *walet* (bag or satchel). The modern sense of a flat case for paper money developed in the 17th century.",
+  "SINCE":"c. 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "everyday"
+      ],
+      "DEF_EN":"A small, flat, folding case, usually made of leather or plastic, used for holding paper money, credit cards, and identification documents.",
+      "DEF_ZH":"一种小而扁平的可折叠的皮夹或包，通常由皮革或塑料制成，用于存放纸币、信用卡和身份证件。",
+      "SENT_EN":"He realized he had left his wallet on the kitchen counter.",
+      "SENT_ZH":"他意识到他把钱包忘在厨房台面上了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "billfold",
+            "purse"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (digital/crypto)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "modern usage",
+        "technical",
+        "finance"
+      ],
+      "DEF_EN":"A secure digital system or application used to store, send, and receive electronic money, cryptocurrencies, or stored value credentials.",
+      "DEF_ZH":"一种安全的数字系统或应用程序，用于存储、发送和接收电子货币、加密货币或存储的凭证。",
+      "SENT_EN":"I keep my Bitcoin in a cold storage hardware wallet for security.",
+      "SENT_ZH":"为了安全起见，我把我的比特币保存在冷存储硬件钱包里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "digital wallet",
+            "crypto wallet",
+            "e-wallet"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "archaic",
+        "historical"
+      ],
+      "DEF_EN":"(Archaic) A bag or knapsack, typically used by a traveler or beggar to carry provisions.",
+      "DEF_ZH":"(古语) 旅人或乞丐用来携带补给品的袋子或背包；行囊。",
+      "SENT_EN":"The pilgrim strapped the worn leather wallet across his shoulder.",
+      "SENT_ZH":"朝圣者将磨损的皮革行囊系在肩上。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Neutral"
+}

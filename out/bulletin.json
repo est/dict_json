@@ -1,0 +1,88 @@
+{
+  "WORD":"bulletin",
+  "IPA":"/ˈbʊlɪtɪn/",
+  "CONJUGATES":"bulletins (n.) | bulletins, bulletining, bulletined (v.)",
+  "ETYMOLOGY":"From French bulletin (17th century), which is a diminutive of Italian bolletta (a small document, ticket, or official seal), ultimately related to Latin bulla ('a bubble, official seal').",
+  "SINCE":"c. 1750",
+  "MEANINGS":[
+    {
+      "PATTERN":"bulletin [of sth]",
+      "POS":"n.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "journalism",
+        "announcement"
+      ],
+      "DEF_EN":"A short official statement or broadcast summary of news or information, often concerning a specific event, situation, or medical update.",
+      "DEF_ZH":"简短的官方声明或广播新闻摘要，通常涉及特定事件、情况或医疗更新。",
+      "SENT_EN":"The emergency bulletin advised all residents to stay indoors until the storm passed.",
+      "SENT_ZH":"紧急公告建议所有居民在风暴过去之前待在室内。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "announcement",
+            "report",
+            "dispatch",
+            "communiqué"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "newsbreak",
+            "flash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a bulletin [of an organization]",
+      "POS":"n.",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "common",
+        "organizational"
+      ],
+      "DEF_EN":"A periodical publication issued by an organization, society, or government, often containing updates, articles, or statistics.",
+      "DEF_ZH":"机构、协会或政府定期发布的刊物，通常包含最新动态、文章或统计数据。",
+      "SENT_EN":"The scientific society publishes a quarterly research bulletin.",
+      "SENT_ZH":"该科学协会每季度出版一份研究简报。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "newsletter",
+            "journal",
+            "periodical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bulletin [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To announce or report something officially via a bulletin.",
+      "DEF_ZH":"通过公告或简报正式宣布或报告某事。",
+      "SENT_EN":"The administration bulletined the updated safety protocols early this morning.",
+      "SENT_ZH":"管理部门在今天清晨以公告形式发布了更新的安全协议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "announce",
+            "publish",
+            "disseminate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, often used in formal or news contexts."
+}

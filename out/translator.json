@@ -1,0 +1,62 @@
+{
+  "WORD":"translator",
+  "IPA":"/trænzˈleɪtər/",
+  "CONJUGATES":"translators",
+  "ETYMOLOGY":"From Latin trānslātus (past participle of trānsferre 'to carry across'), combined with the agent suffix -or.",
+  "SINCE":"Late 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] translator",
+      "POS":"n. (person)",
+      "POS_TIP":"Noun (describing a person or profession)",
+      "TAGS":[
+        "core word",
+        "profession",
+        "common"
+      ],
+      "DEF_EN":"A person whose job is to render written text or spoken words from one language to another.",
+      "DEF_ZH":"专业将文字或言语从一种语言转换成另一种语言的人；翻译人员。",
+      "SENT_EN":"The diplomat requested a certified translator for the bilateral meeting.",
+      "SENT_ZH":"那位外交官要求为双边会议配备一名认证翻译。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interpreter",
+            "linguist"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "translation",
+            "polyglot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] translator",
+      "POS":"n. (machine/software)",
+      "POS_TIP":"Noun (describing an object, device, or program)",
+      "TAGS":[
+        "technology",
+        "modern usage"
+      ],
+      "DEF_EN":"A machine, device, or computer program that automatically converts text or speech from one language into another.",
+      "DEF_ZH":"自动将文本或语音从一种语言转换成另一种语言的机器、设备或计算机程序（如在线翻译器）。",
+      "SENT_EN":"I used the speech translator app on my phone to communicate with the local shopkeeper.",
+      "SENT_ZH":"我使用手机上的语音翻译器应用程序与当地店主进行交流。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "machine translation",
+            "Google Translate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, professional, and technical contexts."
+}

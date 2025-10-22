@@ -1,0 +1,62 @@
+{
+  "WORD":"humidity",
+  "IPA":"/hjuːˈmɪdəti/",
+  "CONJUGATES":"humidities",
+  "ETYMOLOGY":"From Middle French humidité, from Latin humiditatem (nominative humiditas), from humidus (moist).",
+  "SINCE":"c. 1640s",
+  "MEANINGS":[
+    {
+      "PATTERN":"humidity",
+      "POS":"n. [uncountable]",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "Core Word",
+        "Meteorology",
+        "Science"
+      ],
+      "DEF_EN":"The concentration of water vapor present in the air or in a gas.",
+      "DEF_ZH":"空气中水蒸气的含量；湿度。",
+      "SENT_EN":"The high humidity made the 30-degree weather unbearable.",
+      "SENT_ZH":"高湿度使30度的天气变得难以忍受。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dampness",
+            "moisture",
+            "moistness"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "relative humidity",
+            "dew point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"humidity (of sth)",
+      "POS":"n. [uncountable]",
+      "POS_TIP":"Noun, uncountable",
+      "TAGS":[
+        "General"
+      ],
+      "DEF_EN":"A general state or quality of being damp or moist.",
+      "DEF_ZH":"潮湿或湿润的状态；湿气。",
+      "SENT_EN":"We installed a dehumidifier to reduce the humidity in the basement.",
+      "SENT_ZH":"我们安装了除湿机来降低地下室的湿气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sogginess",
+            "wettishness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common everyday use, technical"
+}

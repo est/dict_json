@@ -1,0 +1,81 @@
+{
+  "WORD":"thousand",
+  "IPA":"/ˈθaʊzənd/",
+  "CONJUGATES":"thousands",
+  "ETYMOLOGY":"From Old English þūsend, from Proto-Germanic *þūsundī, possibly related to a combination meaning 'swollen hundred' or 'great number'.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[number] thousand",
+      "POS":"num.",
+      "POS_TIP":"Cardinal number",
+      "TAGS":[
+        "core word",
+        "mathematical",
+        "common"
+      ],
+      "DEF_EN":"The cardinal number equal to ten times one hundred; 1000.",
+      "DEF_ZH":"基数词，一千 (1000)。",
+      "SENT_EN":"The ticket price is two thousand yen.",
+      "SENT_ZH":"票价是两千日元。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hundred",
+            "million",
+            "billion",
+            "K"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thousands of [sth]",
+      "POS":"n.",
+      "POS_TIP":"Noun (used in the plural, referring to an indefinite large number)",
+      "TAGS":[
+        "common",
+        "hyperbolic"
+      ],
+      "DEF_EN":"An extremely large, but indefinite, quantity or number.",
+      "DEF_ZH":"成千上万；大量；许多。",
+      "SENT_EN":"Thousands of birds flew south for the winter.",
+      "SENT_ZH":"成千上万只鸟南飞过冬。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "multitudes",
+            "scores",
+            "loads"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thousands",
+      "POS":"n.",
+      "POS_TIP":"Noun (used elliptically, often referring to monetary value)",
+      "TAGS":[
+        "common",
+        "finance"
+      ],
+      "DEF_EN":"A sum of money counted in thousands of a currency (e.g., dollars or pounds).",
+      "DEF_ZH":"数千元（代指金额）。",
+      "SENT_EN":"She spent thousands redecorating her house.",
+      "SENT_ZH":"她花了数千元重新装修了她的房子。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "grand",
+            "bucks",
+            "millions"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Common"
+}

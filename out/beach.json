@@ -1,0 +1,66 @@
+{
+  "WORD":"beach",
+  "IPA":"/biːtʃ/",
+  "CONJUGATES":"beaches (n. plural, v. 3rd person singular present) | beaching (v. present participle) | beached (v. past simple, past participle)",
+  "ETYMOLOGY":"Old English *bæce* or *bece* (stream, torrent), related to Old Norse *bakki* (bank, ridge). The sense of 'sandy or shingly shore' developed in the 16th century, likely influenced by the shingle beaches of Sussex.",
+  "SINCE":"Mid 16th Century (in modern sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] beach",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "geography"
+      ],
+      "DEF_EN":"A stretch of sand, pebbles, or shingle along the edge of a sea, lake, or large river.",
+      "DEF_ZH":"海洋、湖泊或大河边缘的一段沙子、碎石或鹅卵石覆盖的海岸或河岸。",
+      "SENT_EN":"We spent the afternoon swimming and collecting shells on the beach.",
+      "SENT_ZH":"我们下午在海滩上游泳和捡贝壳。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shore",
+            "coast",
+            "strand",
+            "seaside"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bay",
+            "ocean",
+            "sand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"beach [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "maritime"
+      ],
+      "DEF_EN":"To pull or drive a boat, ship, or other vessel out of the water onto a shore.",
+      "DEF_ZH":"将船只、舰艇或其他水上交通工具拖拉或驶离水面，弄上岸边。",
+      "SENT_EN":"The small fishing boat had to beach itself quickly during the storm.",
+      "SENT_ZH":"那艘小渔船不得不在暴风雨中迅速靠滩。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ground",
+            "strand",
+            "moor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

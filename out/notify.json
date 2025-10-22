@@ -1,0 +1,65 @@
+{
+  "WORD":"notify",
+  "IPA":"/ˈnoʊtɪfaɪ/",
+  "CONJUGATES":"notifies | notifying | notified",
+  "ETYMOLOGY":"From Middle French notifier, from Latin nōtificāre ('to make known'), formed from nōtus ('known') + facere ('to make').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"notify [sb] [of sth] / notify [sb] that [clause]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Formal",
+        "Communication"
+      ],
+      "DEF_EN":"To formally or officially inform someone about something, usually an event, condition, or decision.",
+      "DEF_ZH":"正式地或官方地告知某人某事，通常是事件、状况或决定。",
+      "SENT_EN":"We must notify all participants of the schedule change immediately.",
+      "SENT_ZH":"我们必须立即通知所有参与者日程的变动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inform",
+            "advise",
+            "apprise",
+            "announce"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conceal",
+            "withhold"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"notify [sth] (often passive)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Legal",
+        "Technical"
+      ],
+      "DEF_EN":"To issue a formal declaration, warning, or alert regarding a condition or requirement.",
+      "DEF_ZH":"就某项条件或要求发出正式的声明、警告或警报。",
+      "SENT_EN":"The system will notify you when the download is complete.",
+      "SENT_ZH":"下载完成后，系统将通知您。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "notification",
+            "alert",
+            "declaration"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General; highly common in official, business, and technological contexts."
+}

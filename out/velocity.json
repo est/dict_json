@@ -1,0 +1,94 @@
+{
+  "WORD":"velocity",
+  "IPA":"/vəˈlɑːsəti/",
+  "CONJUGATES":"velocities (pl.)",
+  "ETYMOLOGY":"From Latin vēlōcitās (speed, swiftness), from vēlōx (swift, rapid), possibly related to vehere (to carry).",
+  "SINCE":"Mid 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"velocity [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable or countable)",
+      "TAGS":[
+        "Physics",
+        "Core concept",
+        "Technical"
+      ],
+      "DEF_EN":"The rate of change of an object's position with respect to a frame of reference, specifying both speed and direction (a vector quantity).",
+      "DEF_ZH":"物体相对于参照系的位置变化率，它同时指明了速度的大小和方向（矢量）。",
+      "SENT_EN":"To calculate the final position, we must know the initial velocity and acceleration.",
+      "SENT_ZH":"为了计算最终位置，我们必须知道初始速度和加速度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speed",
+            "rate of travel"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "acceleration",
+            "momentum",
+            "vector"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"velocity",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "General",
+        "Formal"
+      ],
+      "DEF_EN":"Rapidity of movement or action; swiftness; high speed (often used interchangeably with 'speed' in non-technical contexts).",
+      "DEF_ZH":"运动或行动的迅速程度；高速；快速。",
+      "SENT_EN":"The runners gained considerable velocity as they approached the finish line.",
+      "SENT_ZH":"跑者们在接近终点线时获得了相当快的速度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rapidity",
+            "swiftness",
+            "pace"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "slowness",
+            "inertia"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"velocity [of money/capital]",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "Economics",
+        "Technical"
+      ],
+      "DEF_EN":"(In economics) The rate at which money is exchanged from one transaction to another, and how frequently money is used to purchase goods and services within a specific period.",
+      "DEF_ZH":"(在经济学中) 货币从一次交易到另一次交易的交换速率，以及在特定时期内货币用于购买商品和服务的频率。",
+      "SENT_EN":"A high velocity of money often indicates a strong, growing economy.",
+      "SENT_ZH":"货币流通速度高通常表明经济强劲且正在增长。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "inflation",
+            "GDP",
+            "monetary policy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in technical fields (physics, engineering, economics) and formal general discourse."
+}

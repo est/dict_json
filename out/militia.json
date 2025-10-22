@@ -1,0 +1,63 @@
+{
+  "WORD":"militia",
+  "IPA":"/mɪˈlɪʃə/",
+  "CONJUGATES":"militias",
+  "ETYMOLOGY":"From Latin mīlitia ('military service, warfare'), derived from mīles ('soldier'). Adopted into English via Middle French in the 16th century.",
+  "SINCE":"c. 1590",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] militia",
+      "POS":"n",
+      "POS_TIP":"noun (collective, usually treated as singular or plural depending on context)",
+      "TAGS":[
+        "Core",
+        "Military",
+        "Formal"
+      ],
+      "DEF_EN":"A military force raised from the civil population to supplement a regular army in an emergency, or for local defense.",
+      "DEF_ZH":"由平民而非职业军人组成的军事力量，通常用于在紧急情况下补充正规军，或用于地方防御。",
+      "SENT_EN":"The villagers quickly organized a small militia when the invaders approached the border.",
+      "SENT_ZH":"当入侵者靠近边境时，村民们迅速组织了一个小型民兵组织。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reserve force",
+            "home guard",
+            "irregular forces"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "paramilitary",
+            "guerilla"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"militia",
+      "POS":"n",
+      "POS_TIP":"noun (countable/uncountable)",
+      "TAGS":[
+        "Historical",
+        "US Politics"
+      ],
+      "DEF_EN":"Historically, the organized body of fighting men in a state, distinct from the professional regular army (often relating to the concept defined in the US Constitution).",
+      "DEF_ZH":"历史上，国家内有组织的战斗人员团体，有别于职业正规军（通常与美国宪法中所定义的理念相关）。",
+      "SENT_EN":"The debate over the Second Amendment centers on the role of the 'well-regulated militia'.",
+      "SENT_ZH":"关于第二修正案的争论集中在“管理良好的民兵”的作用上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "National Guard",
+            "minuteman"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and historical contexts, often used in political or military discussions."
+}

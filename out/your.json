@@ -1,0 +1,57 @@
+{
+  "WORD":"your",
+  "IPA":"/jʊər/",
+  "CONJUGATES":"yours (possessive pronoun) | you (personal pronoun)",
+  "ETYMOLOGY":"From Middle English your, yowre, from Old English ēower (genitive plural of ġē 'you').",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"your [sth]",
+      "POS":"poss. det.",
+      "POS_TIP":"Possessive determiner: used before a noun to show ownership or possession.",
+      "TAGS":[
+        "core word",
+        "common",
+        "determiner"
+      ],
+      "DEF_EN":"Belonging to or associated with the person or people that the speaker is addressing.",
+      "DEF_ZH":"属于或与说话者所指的人或群体相关的。",
+      "SENT_EN":"Please remember to bring your passport to the airport.",
+      "SENT_ZH":"请记住带上你的护照去机场。",
+      "RELATED":[
+        {
+          "T":"related forms",
+          "V":[
+            "my",
+            "his",
+            "her",
+            "our",
+            "their"
+          ]
+        },
+        {
+          "T":"pronoun",
+          "V":[
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"your [typical thing] (impersonal)",
+      "POS":"colloq. det.",
+      "POS_TIP":"Colloquial determiner: used informally, often for generalization or emphasis.",
+      "TAGS":[
+        "colloquial",
+        "informal",
+        "generalizing"
+      ],
+      "DEF_EN":"Used impersonally to refer to people in general or to indicate a typical, indefinite instance of the type of thing mentioned.",
+      "DEF_ZH":"用于泛指人们，或表示所提及事物的典型、不确定的实例（口语）。",
+      "SENT_EN":"You walk into a gym, put down your bag, and head straight to the weights.",
+      "SENT_ZH":"你走进健身房，放下你的包，径直走向举重区。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Universal, extremely common in all contexts."
+}

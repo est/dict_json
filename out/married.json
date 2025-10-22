@@ -1,0 +1,101 @@
+{
+  "WORD":"marry",
+  "IPA":"/ˈmæri/",
+  "CONJUGATES":"marries | married | marrying",
+  "ETYMOLOGY":"From Middle English marien, from Old French marier, from Latin maritare (to wed), from maritus (husband).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"marry [sb] | marry",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "relationship",
+        "formal"
+      ],
+      "DEF_EN":"To take or join (two people) as a husband or wife, typically in a formal legal or religious ceremony.",
+      "DEF_ZH":"（使）结婚；嫁娶。",
+      "SENT_EN":"They decided to marry after a long engagement.",
+      "SENT_ZH":"经过长时间的订婚，他们决定结婚。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wed",
+            "espouse",
+            "take as wife/husband"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "divorce",
+            "separate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"married",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "state",
+        "status"
+      ],
+      "DEF_EN":"Having a husband or wife; legally joined in matrimony.",
+      "DEF_ZH":"已婚的；处于婚姻状态的。",
+      "SENT_EN":"She has been married to her partner for ten years.",
+      "SENT_ZH":"她和她的伴侣结婚十年了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wedded",
+            "hitched (informal)"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "single",
+            "divorced",
+            "unwed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"marry [sth] and [sth] (together)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"To combine two disparate elements successfully or harmoniously.",
+      "DEF_ZH":"完美结合；融合。",
+      "SENT_EN":"The architect managed to marry traditional design with modern functionality.",
+      "SENT_ZH":"这位建筑师设法将传统设计与现代功能完美结合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "blend",
+            "integrate",
+            "fuse"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "synergy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

@@ -1,0 +1,76 @@
+{
+  "WORD":"ambiguous",
+  "IPA":"/æmˈbɪɡjuəs/",
+  "CONJUGATES":"ambiguously (adv) | ambiguity (n)",
+  "ETYMOLOGY":"From Latin ambiguus ('doubtful, wavering'), derived from ambigere ('to wander, doubt'), from ambi- ('around') + agere ('to drive, lead').",
+  "SINCE":"Mid 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is ambiguous",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Open to more than one interpretation; not expressed or understood clearly.",
+      "DEF_ZH":"模棱两可的；含糊不清的；有多种解释的",
+      "SENT_EN":"The phrasing of the contract was deliberately ambiguous to allow for future flexibility.",
+      "SENT_ZH":"合同的措辞被故意写得含糊不清，以便将来能有灵活性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equivocal",
+            "vague",
+            "unclear",
+            "obscure",
+            "cryptic"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "explicit",
+            "clear",
+            "unambiguous",
+            "precise",
+            "definite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is ambiguous",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "situational"
+      ],
+      "DEF_EN":"Difficult to classify, categorize, or resolve; having an uncertain nature or outcome.",
+      "DEF_ZH":"难以归类的；不确定的（指局面、性质或结果）",
+      "SENT_EN":"The moral standing of the anti-hero remained ambiguous throughout the film.",
+      "SENT_ZH":"这位反面英雄的道德立场在整部电影中一直是不确定的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "doubtful",
+            "uncertain",
+            "dubious"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "resolved",
+            "straightforward"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

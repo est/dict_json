@@ -1,0 +1,87 @@
+{
+  "WORD":"prescribe",
+  "IPA":"/prɪˈskraɪb/",
+  "CONJUGATES":"prescribes | prescribing | prescribed",
+  "ETYMOLOGY":"From Middle English, ultimately from Latin praescribere ('to write before, order'), derived from prae- ('before') + scribere ('to write').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"prescribe [sth] (for [sb])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"To advise and authorize the use of a medicine or treatment for someone, usually in writing.",
+      "DEF_ZH":"（医生）开药方；指示或规定（疗法、药物）",
+      "SENT_EN":"The doctor prescribed a new type of blood pressure medication for the patient.",
+      "SENT_ZH":"医生给这位病人开了一种新型的降压药。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "order",
+            "authorize",
+            "dispense"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "prescription",
+            "proscribe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prescribe [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "guidance",
+        "general"
+      ],
+      "DEF_EN":"To lay down or dictate a rule, law, or course of action that must be followed.",
+      "DEF_ZH":"规定；指示；制定（规则、行动方针）",
+      "SENT_EN":"The regulations clearly prescribe the procedure for handling sensitive data.",
+      "SENT_ZH":"该规章明确规定了处理敏感数据的程序。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stipulate",
+            "mandate",
+            "determine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prescribe against [sth]",
+      "POS":"vintr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "legal",
+        "specialized"
+      ],
+      "DEF_EN":"(Law) To lose or forfeit a right or claim due to the expiration of a statutory time limit (prescription).",
+      "DEF_ZH":"（法律）因超过法定诉讼时效而失效或丧失权利。",
+      "SENT_EN":"If the creditor fails to act within the prescribed time, the debt may be prescribed against.",
+      "SENT_ZH":"如果债权人未能在规定时限内采取行动，该债务可能会因时效而失效。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "limitation",
+            "forfeit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Medical, Legal"
+}

@@ -1,0 +1,104 @@
+{
+  "WORD":"batch",
+  "IPA":"/bætʃ/",
+  "CONJUGATES":"Batches | Batched | Batching",
+  "ETYMOLOGY":"Late Middle English (c. 1400), likely related to 'bake', referring initially to the quantity of bread baked at one time.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"a batch of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "core word",
+        "manufacturing",
+        "cooking"
+      ],
+      "DEF_EN":"A quantity of material, goods, or items produced, prepared, or handled at one time.",
+      "DEF_ZH":"一批；一炉；一次生产或准备的数量。",
+      "SENT_EN":"She baked a fresh batch of bread this morning.",
+      "SENT_ZH":"她今天早上烤了一炉新鲜面包。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lot",
+            "set",
+            "quantity",
+            "production run"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a batch of [sb/sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "common",
+        "grouping",
+        "education"
+      ],
+      "DEF_EN":"A group of people or things dealt with or moving forward as a single unit.",
+      "DEF_ZH":"一组；一群；一批（被一起处理或对待的人或物）。",
+      "SENT_EN":"The current batch of trainees seems highly motivated.",
+      "SENT_ZH":"目前这一批学员似乎动力十足。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "group",
+            "collection",
+            "cohort",
+            "cluster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"batch [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "action",
+        "computing"
+      ],
+      "DEF_EN":"To group or process items together in a single operation or run.",
+      "DEF_ZH":"将（事物）分组或集中处理（尤指在计算机或工业生产中）。",
+      "SENT_EN":"We decided to batch the small orders to reduce shipping costs.",
+      "SENT_ZH":"我们决定将小订单集中起来处理以降低运输成本。",
+      "RELATED":[
+        {
+          "T":"derivatives",
+          "V":[
+            "batching"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"batch processing",
+      "POS":"adj. + n.",
+      "POS_TIP":"adjective used as modifier, followed by noun (often compound noun)",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"(In computing) A mode of running programs or data where input data is collected and processed in batches, without the need for constant user interaction.",
+      "DEF_ZH":"（计算机）批处理；分批处理，指将数据收集起来集中进行处理。",
+      "SENT_EN":"The old payroll system relied entirely on batch processing.",
+      "SENT_ZH":"旧的工资系统完全依赖于批处理。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "real-time processing",
+            "scheduler"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in general use; specialized in manufacturing and computing."
+}

@@ -1,0 +1,88 @@
+{
+  "WORD":"assist",
+  "IPA":"/əˈsɪst/",
+  "CONJUGATES":"assists | assisting | assisted | assists (n. pl.)",
+  "ETYMOLOGY":"From Middle English, derived from Old French assister, and ultimately from Latin assistere (ad- 'to' + sistere 'to stand'), meaning 'to stand by, take a position near, aid'.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"assist [sb] | assist [sth] | assist [in sth]",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb (requires direct object) or intransitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To provide support, help, or aid to someone or something.",
+      "DEF_ZH":"帮助；协助；支持（某人或某事）；促进。",
+      "SENT_EN":"The foundation assists students from low-income families in achieving higher education.",
+      "SENT_ZH":"该基金会协助低收入家庭的学生获得高等教育。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "help",
+            "aid",
+            "support",
+            "facilitate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "hinder",
+            "impede",
+            "obstruct"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an assist",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"The act of providing help or assistance; an aid.",
+      "DEF_ZH":"帮助；协助的行为；支持。",
+      "SENT_EN":"The team gave the new manager an assist in setting up the complex software system.",
+      "SENT_ZH":"团队在新经理设置复杂的软件系统时提供了帮助。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "help",
+            "aid",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"get an assist",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "sports terminology"
+      ],
+      "DEF_EN":"(In sports like basketball or hockey) A statistic awarded to a player who passes or otherwise sets up a play that leads directly to a score by a teammate.",
+      "DEF_ZH":"（体育运动中）助攻（指传球给队友使其直接得分）。",
+      "SENT_EN":"The point guard recorded his tenth assist of the game early in the fourth quarter.",
+      "SENT_ZH":"这位控球后卫在第四节开局就记录了本场比赛的第十次助攻。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "goal",
+            "score",
+            "pass"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, Formal contexts, and Sports terminology."
+}

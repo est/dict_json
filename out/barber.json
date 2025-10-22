@@ -1,0 +1,48 @@
+{
+  "WORD":"barber",
+  "IPA":"/ˈbɑːrbər/",
+  "CONJUGATES":"barbers (n. plural) | barbers, barbering, barbered (v.)",
+  "ETYMOLOGY":"From Middle English *barbour*, via Anglo-Norman French *barbour*, from Old French *barbeor*, ultimately derived from Latin *barba* ('beard').",
+  "SINCE":"c. 1250",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession",
+        "common"
+      ],
+      "DEF_EN":"A person whose occupation is cutting and dressing hair, especially men's hair, and shaving or trimming beards.",
+      "DEF_ZH":"理发师；发型师（尤指为男士理发、刮胡子和修剪胡须的人）。",
+      "SENT_EN":"He always goes to the same traditional barber for his weekly shave.",
+      "SENT_ZH":"他总是去同一家传统理发店找理发师进行每周的剃须。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hairdresser",
+            "stylist",
+            "tonsure-man"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v] [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal"
+      ],
+      "DEF_EN":"To cut, trim, or style hair or a beard.",
+      "DEF_ZH":"为（某人）理发或修剪（胡须）。",
+      "SENT_EN":"He learned to barber his own hair during the lockdown.",
+      "SENT_ZH":"在封锁期间，他学会了自己理发。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

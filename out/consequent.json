@@ -1,0 +1,87 @@
+{
+  "WORD":"consequent",
+  "IPA":"/ˈkɒnsɪkwənt/",
+  "CONJUGATES":"consequently | consequence | consequential",
+  "ETYMOLOGY":"From Latin consequēns, present participle of consequī ('to follow up, follow naturally'), from con- ('together') + sequī ('to follow').",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"consequent (to sth)",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"Happening as a direct result or effect of something previously mentioned; resulting.",
+      "DEF_ZH":"作为结果而发生的；随之而来的；后果性的。",
+      "SENT_EN":"The severe drought and consequent crop failures led to widespread famine.",
+      "SENT_ZH":"严重的干旱和随之而来的农作物歉收导致了大规模的饥荒。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "resulting",
+            "following",
+            "resultant",
+            "consequential"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "antecedent",
+            "preceding",
+            "prior"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"consequent",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "logic"
+      ],
+      "DEF_EN":"Logically consistent or sound; following necessarily from premises.",
+      "DEF_ZH":"符合逻辑的；必然的；一致的。",
+      "SENT_EN":"His analysis was entirely consequent with the scientific data provided.",
+      "SENT_ZH":"他的分析与所提供的科学数据完全一致。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "logical",
+            "coherent",
+            "consistent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the consequent",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "logic",
+        "mathematics"
+      ],
+      "DEF_EN":"In logic, the second part of a conditional statement (the conclusion or result); in mathematics, the second term of a ratio or proportion.",
+      "DEF_ZH":"（逻辑学）后件，结论（如“如果P，那么Q”中的Q）；（数学）后项（比例中的第二个项）。",
+      "SENT_EN":"If we define A as the antecedent and B as the consequent, the full statement is A implies B.",
+      "SENT_ZH":"如果我们定义A为前件，B为后件，则完整的陈述是A蕴含B。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "antecedent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, or Technical contexts."
+}

@@ -1,0 +1,56 @@
+{
+  "WORD":"automate",
+  "IPA":"/ˈɔːtəmeɪt/",
+  "CONJUGATES":"automates | automating | automated",
+  "ETYMOLOGY":"Back-formation from 'automation' (coined in 1947), which itself derived from the noun 'automaton' (from Greek automatos 'self-acting, spontaneous').",
+  "SINCE":"1940s",
+  "MEANINGS":[
+    {
+      "PATTERN":"automate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "technology",
+        "business"
+      ],
+      "DEF_EN":"To convert a process, system, or facility to automatic operation, especially using electronic devices or computers, thereby replacing manual labor.",
+      "DEF_ZH":"使（某过程、系统或设备）自动化；用自动装置操作（代替人工）。",
+      "SENT_EN":"We need to automate the data entry process to save time and reduce errors.",
+      "SENT_ZH":"我们需要将数据录入过程自动化，以节省时间并减少错误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mechanize",
+            "streamline",
+            "computerize",
+            "robotize"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "automation",
+            "automatic",
+            "robot"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"automate",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "less common"
+      ],
+      "DEF_EN":"To become automatic or to function automatically.",
+      "DEF_ZH":"（过程或系统）变得自动化；自动运行。",
+      "SENT_EN":"Once the script is installed, the routine will automate successfully.",
+      "SENT_ZH":"一旦脚本安装完成，该程序将成功地自动运行。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Used commonly in technical, business, and general contexts when discussing efficiency and technology."
+}

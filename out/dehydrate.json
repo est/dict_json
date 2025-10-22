@@ -1,0 +1,71 @@
+{
+  "WORD":"dehydrate",
+  "IPA":"/diːˈhaɪdreɪt/",
+  "CONJUGATES":"dehydrating | dehydrated | dehydrates",
+  "ETYMOLOGY":"Formed from the prefix *de-* (meaning 'removal' or 'reversal') and *hydrate* (derived from Greek *hydor*, meaning 'water'). Literally, 'to remove water'.",
+  "SINCE":"c. 1840s",
+  "MEANINGS":[
+    {
+      "PATTERN":"dehydrate [sb/sth] | dehydrate",
+      "POS":"vtr | vint",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "core word",
+        "medical",
+        "chemical"
+      ],
+      "DEF_EN":"To cause a person, animal, or substance to lose a great deal of water, or to suffer such a loss.",
+      "DEF_ZH":"使（人、动物或物质）脱水；（自身）脱水（通常指有害的失水）。",
+      "SENT_EN":"If you exercise strenuously in the heat without drinking water, you will quickly dehydrate.",
+      "SENT_ZH":"如果你在炎热中剧烈运动却不喝水，你很快就会脱水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "desiccate",
+            "dry out",
+            "exsiccate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "rehydrate",
+            "saturate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"dehydrate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "culinary",
+        "food science"
+      ],
+      "DEF_EN":"To remove moisture from food for preservation, typically using controlled heat or air flow.",
+      "DEF_ZH":"（通过去除水分）干燥食物以达到保存的目的。",
+      "SENT_EN":"They dehydrate apples and bananas to make portable hiking snacks.",
+      "SENT_ZH":"他们将苹果和香蕉脱水，制成便携式的徒步零食。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dry",
+            "cure",
+            "preserve"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jerky",
+            "freeze-dry"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Medical, Culinary)"
+}

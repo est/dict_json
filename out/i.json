@@ -1,0 +1,94 @@
+{
+  "WORD":"i",
+  "IPA":"/aɪ/",
+  "CONJUGATES":"me (objective) | my (possessive determiner) | mine (possessive pronoun) | myself (reflexive/intensive)",
+  "ETYMOLOGY":"From Old English ic, from Proto-Germanic *ek, from Proto-Indo-European *éǵh₂ (first-person singular pronoun).",
+  "SINCE":"Pre-700 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"I [verb]",
+      "POS":"pronoun",
+      "POS_TIP":"First-person singular personal pronoun, nominative case.",
+      "TAGS":[
+        "core word",
+        "extremely common"
+      ],
+      "DEF_EN":"Used by a speaker or writer to refer to himself or herself; always capitalized in standard English writing.",
+      "DEF_ZH":"第一人称单数主格代词，指说话人或作者自己；在标准英语写作中总是大写。",
+      "SENT_EN":"I am going to the store later this afternoon.",
+      "SENT_ZH":"我今天下午晚些时候要去商店。",
+      "RELATED":[
+        {
+          "T":"related forms",
+          "V":[
+            "me",
+            "my",
+            "mine",
+            "myself",
+            "we"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"The letter I/i",
+      "POS":"noun",
+      "POS_TIP":"A letter of the alphabet.",
+      "TAGS":[
+        "fundamental",
+        "symbol"
+      ],
+      "DEF_EN":"The ninth letter of the English alphabet.",
+      "DEF_ZH":"英语字母表的第九个字母。",
+      "SENT_EN":"The word 'idea' begins with the letter I.",
+      "SENT_ZH":"单词 'idea' 以字母 I 开头。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"I (Roman Numeral)",
+      "POS":"noun",
+      "POS_TIP":"A numeral system symbol.",
+      "TAGS":[
+        "technical",
+        "historical"
+      ],
+      "DEF_EN":"The Roman numeral representing the number one.",
+      "DEF_ZH":"代表数字一的罗马数字。",
+      "SENT_EN":"The introduction is labeled Chapter I.",
+      "SENT_ZH":"引言被标记为第一章。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "V",
+            "X"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"I (Symbol for Current)",
+      "POS":"noun",
+      "POS_TIP":"A technical symbol.",
+      "TAGS":[
+        "technical",
+        "physics",
+        "electrical engineering"
+      ],
+      "DEF_EN":"In physics and electrical engineering, the symbol for electric current.",
+      "DEF_ZH":"在物理学和电气工程中，表示电流的符号。",
+      "SENT_EN":"Ohm's law states that V = I * R.",
+      "SENT_ZH":"欧姆定律指出 V = I * R。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "V",
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

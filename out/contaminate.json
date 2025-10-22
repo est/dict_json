@@ -1,0 +1,68 @@
+{
+  "WORD":"contaminate",
+  "IPA":"/kənˈtæmɪneɪt/",
+  "CONJUGATES":"contaminates | contaminating | contaminated | contamination (n) | contaminant (n) | contaminator (n)",
+  "ETYMOLOGY":"From Latin contaminare, meaning 'to mix, pollute, defile,' from con- (with) + tangere (to touch). Appeared in English via the past participle contaminatus.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"contaminate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"To make something impure or unsuitable for use by introducing a polluting, poisonous, or infectious substance.",
+      "DEF_ZH":"通过引入污染物、有毒物质或传染性物质，使某物变得不纯净或不适合使用；污染；弄脏。",
+      "SENT_EN":"The chemical leak seriously contaminated the groundwater supply.",
+      "SENT_ZH":"化学品泄漏严重污染了地下水供应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pollute",
+            "taint",
+            "infect",
+            "defile",
+            "spoil"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "purify",
+            "cleanse",
+            "decontaminate",
+            "sterilize"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"contaminate [sb/sth] (figurative)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "morality"
+      ],
+      "DEF_EN":"To corrupt or infect morally or socially.",
+      "DEF_ZH":"在道德或社会上腐蚀或感染。",
+      "SENT_EN":"They feared that the foreign influence would contaminate the traditional values of the nation.",
+      "SENT_ZH":"他们担心外来影响会腐蚀这个国家的传统价值观。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "corrupt",
+            "vitiate",
+            "debase"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, frequent in scientific, environmental, and medical contexts."
+}

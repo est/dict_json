@@ -1,0 +1,70 @@
+{
+  "WORD":"syringe",
+  "IPA":"/ˈsɪrɪndʒ/",
+  "CONJUGATES":"syringes (plural noun) | syringes (3rd person singular present) | syringing (present participle) | syringed (past tense, past participle)",
+  "ETYMOLOGY":"From Middle English siringe, from Old French siringue, from Medieval Latin syringa, from Ancient Greek σῦριγξ (sûrinx, 'pipe, reed, tube').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a syringe | use a syringe",
+      "POS":"noun",
+      "POS_TIP":"A word referring to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A medical instrument consisting of a hollow cylinder fitted with a plunger, used for injecting or withdrawing fluids.",
+      "DEF_ZH":"一种医疗器械，由一个中空的圆筒和活塞组成，用于注射或抽取液体。",
+      "SENT_EN":"The nurse prepared the syringe for the vaccination.",
+      "SENT_ZH":"护士为疫苗接种准备了注射器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hypodermic needle",
+            "injector"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "needle",
+            "plunger",
+            "vial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"syringe [sth/sb] | to syringe [sth]",
+      "POS":"verb (transitive)",
+      "POS_TIP":"A verb that takes a direct object.",
+      "TAGS":[
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"To inject (fluid) into or wash out (a body cavity, wound, etc.) with a syringe.",
+      "DEF_ZH":"用注射器注射（液体）或冲洗（身体腔隙、伤口等）。",
+      "SENT_EN":"The doctor had to syringe the ear to remove the wax build-up.",
+      "SENT_ZH":"医生不得不给耳朵冲洗以清除耳垢堆积。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inject",
+            "irrigate",
+            "wash out"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "extract"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in medical, healthcare, and general contexts."
+}

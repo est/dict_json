@@ -1,0 +1,83 @@
+{
+  "WORD":"illiterate",
+  "IPA":"/ɪˈlɪtərət/",
+  "CONJUGATES":"illiterately | illiteracy | illiterates (as noun plural)",
+  "ETYMOLOGY":"From Late Middle English (c. 1470s), from Latin illiteratus, formed from in- (not) + litteratus (literate, learned, from littera 'letter').",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is illiterate",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Unable to read or write.",
+      "DEF_ZH":"不识字的；文盲的（指人无法读或写）。",
+      "SENT_EN":"The global goal is to ensure that no child grows up illiterate.",
+      "SENT_ZH":"全球目标是确保没有孩子在不识字的环境中成长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "unlettered",
+            "uneducated"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "literate",
+            "educated"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"illiterate in [sth]",
+      "POS":"adj + prep",
+      "POS_TIP":"Adjective followed by preposition",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"Lacking basic knowledge or competence in a particular subject or field, especially modern technology or finance.",
+      "DEF_ZH":"（对某学科或领域）缺乏基本知识或能力的；外行的（尤指科技或金融方面）。",
+      "SENT_EN":"Despite his advanced degrees, he was almost completely digitally illiterate.",
+      "SENT_ZH":"尽管他拥有高级学位，但他几乎完全是数字文盲。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ignorant",
+            "uninformed",
+            "innumerate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an illiterate",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "person",
+        "formal"
+      ],
+      "DEF_EN":"A person who is unable to read or write.",
+      "DEF_ZH":"文盲（指不识字的人）。",
+      "SENT_EN":"The foundation provides resources specifically for teaching illiterates in rural areas.",
+      "SENT_ZH":"该基金会专门为农村地区的文盲提供教育资源。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "illiteracy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

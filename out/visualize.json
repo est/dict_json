@@ -1,0 +1,71 @@
+{
+  "WORD":"visualize",
+  "IPA":"/'vɪʒuəlaɪz/",
+  "CONJUGATES":"visualizes | visualizing | visualized",
+  "ETYMOLOGY":"From Latin visualis ('pertaining to sight') combined with the Greek suffix -izein (to make, to render). Coined in the mid-19th century.",
+  "SINCE":"Mid-19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"visualize [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To form a mental image of something; to imagine or conceive of something, especially something future or abstract.",
+      "DEF_ZH":"想象；在脑海中形成图像；设想或构思（尤指未来的或抽象的事物）。",
+      "SENT_EN":"He closed his eyes to visualize the perfect golf swing before making the shot.",
+      "SENT_ZH":"他在击球前闭上眼睛，想象着完美的挥杆动作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "imagine",
+            "picture",
+            "conceive",
+            "envisage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "visualization",
+            "vision"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"visualize [data/information]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "data science"
+      ],
+      "DEF_EN":"To make something visible or perceptible, often by converting abstract data or concepts into charts, graphs, or models.",
+      "DEF_ZH":"使可见；将抽象的数据或概念以图表、图形或模型形式展示出来。",
+      "SENT_EN":"The program helps users visualize complex datasets with interactive dashboards.",
+      "SENT_ZH":"该程序通过交互式仪表板帮助用户可视化（展示）复杂的数据集。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "display",
+            "represent",
+            "chart"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "data visualization",
+            "mapping"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in psychological, motivational, and technical contexts."
+}

@@ -1,0 +1,79 @@
+{
+  "WORD":"in case",
+  "IPA":"/ɪn ˈkeɪs/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Middle English phrase, formed from 'in' and 'case' (meaning 'event' or 'circumstance'), originally used as a contraction of 'in the case that'.",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"in case [clause]",
+      "POS":"conj",
+      "POS_TIP":"Conjunction: a word used to connect clauses or sentences, introducing a provision or precaution",
+      "TAGS":[
+        "core word",
+        "very common",
+        "provision"
+      ],
+      "DEF_EN":"Because of the possibility that; introducing the reason for taking a precaution against a future event.",
+      "DEF_ZH":"以防；万一（出现某种情况）；为了预防可能发生的事情。",
+      "SENT_EN":"Take your umbrella in case it rains later this afternoon.",
+      "SENT_ZH":"带上你的伞，以防下午晚些时候下雨。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lest",
+            "for fear that",
+            "on the contingency that"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"just in case",
+      "POS":"adv phr",
+      "POS_TIP":"Adverbial Phrase: a group of words functioning as an adverb, modifying the context of the sentence",
+      "TAGS":[
+        "idiomatic",
+        "colloquial"
+      ],
+      "DEF_EN":"As a precaution against a possible future event, even if unlikely; used independently or at the end of a sentence.",
+      "DEF_ZH":"以防万一；只是为了保险起见（常独立使用）。",
+      "SENT_EN":"I brought an extra sweater, just in case.",
+      "SENT_ZH":"我多带了一件毛衣，以防万一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "as a backup",
+            "to be safe"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in case of [sth]",
+      "POS":"prep phr",
+      "POS_TIP":"Prepositional Phrase: a modifying phrase consisting of a preposition and its object, meaning 'in the event of'",
+      "TAGS":[
+        "formal",
+        "instructions",
+        "legal"
+      ],
+      "DEF_EN":"Should a specified situation or incident occur.",
+      "DEF_ZH":"如果发生...；在...的情况下（通常用于正式指令、警告或文件）。",
+      "SENT_EN":"In case of fire, use the nearest exit.",
+      "SENT_ZH":"如遇火灾，请使用最近的出口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "should there be",
+            "in the event of"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General conversation, instructions, and official documentation."
+}

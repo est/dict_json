@@ -1,0 +1,64 @@
+{
+  "WORD":"auction",
+  "IPA":"/ˈɑːkʃən/",
+  "CONJUGATES":"Noun: auctions | Verb: auctions | auctioned | auctioning",
+  "ETYMOLOGY":"From Latin auctio (an increasing, a public sale), derived from augēre (to increase, to augment).",
+  "SINCE":"c. 1600s",
+  "MEANINGS":[
+    {
+      "PATTERN":"auction [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "commercial",
+        "common"
+      ],
+      "DEF_EN":"A public sale in which goods or property are sold to the highest bidder.",
+      "DEF_ZH":"公开拍卖，竞买会；将物品出售给出价最高者的方式。",
+      "SENT_EN":"The rare painting was sold at auction for a record price.",
+      "SENT_ZH":"这幅珍贵的画作在拍卖会上以创纪录的价格售出。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sale",
+            "bidding",
+            "vendue"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "bidder",
+            "hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"auction [sth] (off)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "commercial"
+      ],
+      "DEF_EN":"To sell (something) by means of an auction.",
+      "DEF_ZH":"拍卖，竞卖（某物）。",
+      "SENT_EN":"The company decided to auction off the surplus equipment.",
+      "SENT_ZH":"公司决定拍卖掉多余的设备。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sell",
+            "put up for sale",
+            "knock down"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commercial, General"
+}

@@ -1,0 +1,80 @@
+{
+  "WORD":"clinic",
+  "IPA":"/ˈklɪnɪk/",
+  "CONJUGATES":"clinics (pl.)",
+  "ETYMOLOGY":"From French clinique, from Latin clīnicus ('of a bed, bedside'), from Ancient Greek κλινική (klinikḗ, 'medical practice at the bedside'), derived from κλίνη (klínē, 'bed').",
+  "SINCE":"Mid-17th century (modern institutional sense emerged in the 19th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] clinic | [medical] clinic",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A facility or establishment, often attached to a hospital, where outpatients are given medical treatment or advice; a specialized medical center.",
+      "DEF_ZH":"诊所；门诊部；医疗中心（通常为非住院病人提供医疗或咨询服务的机构）。",
+      "SENT_EN":"She was referred to a specialized eye clinic for further tests.",
+      "SENT_ZH":"她被转介到一家专业的眼科诊所进行进一步检查。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "surgery",
+            "dispensary",
+            "health center"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hospital",
+            "polyclinic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] clinic on [sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "common",
+        "education",
+        "sports"
+      ],
+      "DEF_EN":"A session or series of sessions offering specialized instruction or remedial training in a particular skill or subject, often interactive and practical.",
+      "DEF_ZH":"专题研讨班；技能指导课；培训班。",
+      "SENT_EN":"The football coach ran a passing clinic for the rookie players.",
+      "SENT_ZH":"那位足球教练为新秀球员举办了一场传球指导课。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "workshop",
+            "seminar",
+            "masterclass"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] clinic [teaching session]",
+      "POS":"noun",
+      "POS_TIP":"Countable noun",
+      "TAGS":[
+        "academic",
+        "medical",
+        "specific"
+      ],
+      "DEF_EN":"A formal meeting in a hospital setting where medical students observe the examination and treatment of patients for educational purposes.",
+      "DEF_ZH":"临床教学；查房会议（医学院学生在医院观察病人治疗的学习环节）。",
+      "SENT_EN":"The daily medical clinic was mandatory for all final-year students.",
+      "SENT_ZH":"每日的临床教学是所有毕业班学生的必修课。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General use"
+}

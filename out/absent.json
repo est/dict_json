@@ -1,0 +1,125 @@
+{
+  "WORD":"absent",
+  "IPA":"/ˈæb.sənt/",
+  "CONJUGATES":"absenter | absentest | absently | absence | absented | absenting",
+  "ETYMOLOGY":"From Latin *absens*, present participle of *abesse* ('to be away'), from *ab-* ('away from') + *esse* ('to be').",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth] be absent from [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Not present in a place, at an occasion, or in the company of others.",
+      "DEF_ZH":"缺席的；不在场的；离开的。",
+      "SENT_EN":"Half of the class was absent due to the flu epidemic.",
+      "SENT_ZH":"由于流感疫情，半数学生缺席了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "away",
+            "missing",
+            "non-existent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "present",
+            "attending",
+            "here"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] be absent",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "conceptual"
+      ],
+      "DEF_EN":"Lacking or non-existent in a specified context.",
+      "DEF_ZH":"缺乏的；不存在的。",
+      "SENT_EN":"When the necessary documents were absent, the application was rejected.",
+      "SENT_ZH":"由于缺乏必要的文件，申请被驳回了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "lacking",
+            "deficient",
+            "wanting"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "available",
+            "present",
+            "existing"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] be absent (look/manner)",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "idiomatic"
+      ],
+      "DEF_EN":"Preoccupied in thought; showing a lack of attention to one's immediate surroundings (often used as 'absent look').",
+      "DEF_ZH":"心不在焉的；茫然的。",
+      "SENT_EN":"The old professor often had an absent look, lost deep in his theories.",
+      "SENT_ZH":"这位老教授经常心不在焉，沉浸在他的理论中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "distracted",
+            "preoccupied",
+            "inattentive"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "alert",
+            "focused"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"absent oneself from [sth]",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb (usually reflexive)",
+      "TAGS":[
+        "formal",
+        "reflexive use"
+      ],
+      "DEF_EN":"To deliberately fail to be present; to stay away.",
+      "DEF_ZH":"擅自缺席；使自己不出席。",
+      "SENT_EN":"He chose to absent himself from the uncomfortable board meeting.",
+      "SENT_ZH":"他选择不出席这个令人不舒服的董事会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "withdraw",
+            "skip",
+            "evade"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in all contexts (formal and informal) except for the verb form, which is typically formal."
+}

@@ -1,0 +1,66 @@
+{
+  "WORD":"intrinsic",
+  "IPA":"/ɪnˈtrɪnzɪk/",
+  "CONJUGATES":"intrinsically (adv)",
+  "ETYMOLOGY":"Late 16th century: from French *intrinsèque* or late Latin *intrinsecus* (adjective), based on the adverb *intrinsecus* 'inwardly, internally', from *intra-* 'within' + *secus* 'otherwise, by'.",
+  "SINCE":"c. 1590",
+  "MEANINGS":[
+    {
+      "PATTERN":"intrinsic [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "formal",
+        "essential"
+      ],
+      "DEF_EN":"Belonging naturally; essential; inherent; relating to the fundamental nature of something.",
+      "DEF_ZH":"固有的；本质的；内在的；属于事物基本性质的。",
+      "SENT_EN":"The intrinsic value of gold remains high regardless of market fluctuations.",
+      "SENT_ZH":"无论市场如何波动，黄金的内在价值始终很高。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inherent",
+            "essential",
+            "fundamental",
+            "innate",
+            "native"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "extrinsic",
+            "external",
+            "acquired",
+            "superficial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intrinsic [sth] (anatomy)",
+      "POS":"adj",
+      "POS_TIP":"Adjective (Anatomy/Biology)",
+      "TAGS":[
+        "technical",
+        "science"
+      ],
+      "DEF_EN":"(Of a muscle, nerve, or vessel) Situated entirely within the organ or part on which it acts, or originating there.",
+      "DEF_ZH":"（指肌肉、神经或血管）内在的；完全位于其作用器官或部分内部的。",
+      "SENT_EN":"The ophthalmologist examined the intrinsic eye muscles.",
+      "SENT_ZH":"眼科医生检查了眼部的内在肌肉。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "extrinsic"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, formal, philosophical, or technical."
+}

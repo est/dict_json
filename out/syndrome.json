@@ -1,0 +1,66 @@
+{
+  "WORD":"syndrome",
+  "IPA":"/'sɪn.droʊm/",
+  "CONJUGATES":"syndromes",
+  "ETYMOLOGY":"From Late Latin syndromus, from Greek syndromē (a running together, concurrence), from syn- (together) + dromos (a running, course).",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"syndrome",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "technical"
+      ],
+      "DEF_EN":"A group of symptoms and signs that consistently occur together, characterizing a particular disease, psychological disorder, or abnormal condition.",
+      "DEF_ZH":"一组经常同时发生的症状和体征，通常表征着某种特定的疾病、心理障碍或异常状态。",
+      "SENT_EN":"The doctor diagnosed the patient with a rare autoimmune syndrome.",
+      "SENT_ZH":"医生诊断该病人患有一种罕见的自身免疫综合征。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "condition",
+            "disorder",
+            "complex",
+            "malady"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "symptom",
+            "diagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] syndrome [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative",
+        "sociological"
+      ],
+      "DEF_EN":"A characteristic pattern of behavior, belief, or attitude that is considered typical of a particular social situation, group, or individual.",
+      "DEF_ZH":"一种被认为是某一特定社会情境、群体或个体典型的行为、信仰或态度的特征模式。",
+      "SENT_EN":"She worried that she suffered from 'imposter syndrome' despite her great success.",
+      "SENT_ZH":"尽管她取得了巨大的成功，但她担心自己患有“冒名顶替综合征”。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "phenomenon",
+            "pattern",
+            "mindset"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Medical, Scientific"
+}

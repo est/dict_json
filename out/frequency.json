@@ -1,0 +1,64 @@
+{
+  "WORD":"frequency",
+  "IPA":"/ˈfriː.kwən.si/",
+  "CONJUGATES":"frequencies",
+  "ETYMOLOGY":"From Latin frequentia ('a crowding, assemblage, multitude'), derived from frequens ('frequent, crowded'). Adopted into English via French, originally referring to the state of being frequent.",
+  "SINCE":"Late 16th century (c. 1590)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s frequency",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"The rate at which something occurs or is repeated over a particular period of time or within a given sample.",
+      "DEF_ZH":"某事发生或重复的速率；频率；发生次数。",
+      "SENT_EN":"The frequency of severe weather events appears to be increasing due to climate change.",
+      "SENT_ZH":"由于气候变化，恶劣天气事件的发生频率似乎正在增加。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rate",
+            "recurrence",
+            "periodicity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "infrequency",
+            "rarity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"frequency (of a wave)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Technical",
+        "Physics",
+        "Engineering"
+      ],
+      "DEF_EN":"The number of cycles or completed oscillations per unit of time, especially of a wave or electromagnetic radiation, typically measured in hertz (Hz).",
+      "DEF_ZH":"单位时间内循环或振动的次数，尤指波或电磁辐射的循环次数，通常以赫兹（Hz）为单位。",
+      "SENT_EN":"Adjust the radio receiver to the correct frequency to pick up the signal.",
+      "SENT_ZH":"将无线电接收器调整到正确的频率以接收信号。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "wavelength",
+            "amplitude",
+            "hertz"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in all registers; highly technical in physics and engineering contexts."
+}

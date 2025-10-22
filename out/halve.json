@@ -1,0 +1,74 @@
+{
+  "WORD":"halve",
+  "IPA":"/hæv/",
+  "CONJUGATES":"halves | halving | halved",
+  "ETYMOLOGY":"From Middle English halven, derived from the noun half. Ultimately from Old English healf.",
+  "SINCE":"Early 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"halve [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "general"
+      ],
+      "DEF_EN":"To divide something into two equal or nearly equal parts.",
+      "DEF_ZH":"将某物分成两个相等或几乎相等的部分；对半分。",
+      "SENT_EN":"We need to halve the recipe quantity since we are only cooking for two people.",
+      "SENT_ZH":"因为我们只为两个人做饭，所以我们需要把食谱的用量减半。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divide",
+            "bisect",
+            "split in two",
+            "cut in half"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "half",
+            "quarter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"halve [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "quantitative",
+        "economics"
+      ],
+      "DEF_EN":"To reduce the amount, size, duration, or rate of something by 50%.",
+      "DEF_ZH":"将数量、大小、持续时间或比率减少一半（50%）。",
+      "SENT_EN":"The new energy policy aims to halve consumption within five years.",
+      "SENT_ZH":"新的能源政策目标是在五年内将消耗量减半。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reduce by half",
+            "cut back",
+            "diminish"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "double",
+            "triple",
+            "multiply"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, particularly in cooking, mathematics, and business contexts."
+}

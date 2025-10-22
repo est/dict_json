@@ -1,0 +1,64 @@
+{
+  "WORD":"hyphen",
+  "IPA":"/ˈhaɪfən/",
+  "CONJUGATES":"hyphens | hyphening | hyphened",
+  "ETYMOLOGY":"Late Middle English, from Late Latin hyphen, from Greek hyphen (meaning 'together, under one'), contraction of hypo ('under') + hen ('one', neuter of heis). Originally referred to the mark indicating that two words are to be read as one.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] hyphen",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "punctuation",
+        "common"
+      ],
+      "DEF_EN":"A punctuation mark (-) used to join words or parts of words, especially in compound nouns, compound adjectives, or to divide words at the end of a line.",
+      "DEF_ZH":"一种标点符号（-），用于连接词语或词语的一部分，尤其用于复合名词、复合形容词或在行末分词。",
+      "SENT_EN":"Use a hyphen to link the words 'state' and 'of-the-art' when used as an adjective.",
+      "SENT_ZH":"当“state-of-the-art”用作形容词时，应使用连字符连接这些词。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "en dash",
+            "em dash",
+            "compound word"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "joiner",
+            "dash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hyphen [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "writing"
+      ],
+      "DEF_EN":"To join or connect (words or syllables) with a hyphen.",
+      "DEF_ZH":"用连字符连接（词语或音节）。",
+      "SENT_EN":"The editor decided to hyphen the two descriptive terms for better clarity.",
+      "SENT_ZH":"编辑决定使用连字符连接这两个描述性术语以提高清晰度。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "connect",
+            "link",
+            "compound"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

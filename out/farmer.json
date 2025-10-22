@@ -1,0 +1,64 @@
+{
+  "WORD":"farmer",
+  "IPA":"/ˈfɑːrmər/",
+  "CONJUGATES":"farmers (plural)",
+  "ETYMOLOGY":"From Middle English *farmere*, agent noun of *farm* (meaning 'rent, revenue, fixed payment'), from Old French *ferme* (a fixed payment), ultimately from Latin *firmus* (firm, stable). The meaning shifted to 'one who cultivates land' as the meaning of 'farm' shifted to mean the land itself.",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is a farmer",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "occupation"
+      ],
+      "DEF_EN":"A person who owns or manages a farm, especially one who cultivates land or raises livestock.",
+      "DEF_ZH":"拥有或管理农场，特别是从事土地耕种或饲养牲畜的人；农民；农场主。",
+      "SENT_EN":"The farmer worked from dawn till dusk to ensure a good harvest.",
+      "SENT_ZH":"这位农民从黎明工作到黄昏，以确保获得好收成。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "agriculturist",
+            "grower",
+            "cultivator"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "farming",
+            "rancher",
+            "peasant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"tax farmer [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "dated"
+      ],
+      "DEF_EN":"A person who leased the right to collect taxes or government revenue for a fixed sum (historical usage, such as a tax farmer).",
+      "DEF_ZH":"（历史）包税人；承包政府税收或收入征收权的人。",
+      "SENT_EN":"The tax farmer profited greatly by collecting more than the contracted amount.",
+      "SENT_ZH":"这位包税人通过征收超过合同金额的款项而获利颇丰。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tax collector",
+            "publican"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

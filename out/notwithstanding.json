@@ -1,0 +1,85 @@
+{
+  "WORD":"notwithstanding",
+  "IPA":"/ˌnɒtwɪθˈstændɪŋ/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Compound of 'not' and the present participle of 'withstand'. It originated as a participial phrase meaning 'not opposing' or 'not being resisted by', developing into a fixed adverb/preposition by the 15th century.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"notwithstanding [sth]",
+      "POS":"prep",
+      "POS_TIP":"preposition",
+      "TAGS":[
+        "formal",
+        "core word"
+      ],
+      "DEF_EN":"In spite of; despite; without being prevented or affected by something.",
+      "DEF_ZH":"尽管；不顾；虽然有…，但仍旧。",
+      "SENT_EN":"The project continued, notwithstanding the lack of public support.",
+      "SENT_ZH":"尽管缺乏公众支持，该项目仍在继续。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "despite",
+            "in spite of"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "because of",
+            "due to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[Clause 1]; notwithstanding, [Clause 2] OR [Clause 1], [Clause 2] notwithstanding.",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"Nevertheless; all the same; in spite of what has just been mentioned.",
+      "DEF_ZH":"仍然；尽管如此；不过（用于句首或句尾，连接两个对比或转折的句子）。",
+      "SENT_EN":"The costs were high; notwithstanding, the company decided to proceed with the investment.",
+      "SENT_ZH":"成本很高；尽管如此，公司还是决定进行这项投资。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nevertheless",
+            "nonetheless",
+            "however"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"notwithstanding that [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction",
+      "TAGS":[
+        "legal",
+        "very formal",
+        "rare"
+      ],
+      "DEF_EN":"Although; even though (used to introduce a subordinate clause).",
+      "DEF_ZH":"虽然；尽管（主要用于法律或高度正式的书面语中）。",
+      "SENT_EN":"The contract remains valid, notwithstanding that one party failed to submit payment on time.",
+      "SENT_ZH":"尽管一方未能按时提交付款，合同仍然有效。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "although",
+            "even though"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Predominantly formal and written, common in legal and bureaucratic texts."
+}

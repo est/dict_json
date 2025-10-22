@@ -1,0 +1,66 @@
+{
+  "WORD":"spouse",
+  "IPA":"/spaʊs/",
+  "CONJUGATES":"spouses (pl.) | spoused (pt/pp) | spousing (prp)",
+  "ETYMOLOGY":"From Anglo-French espous (masc.) or espouse (fem.), from Old French espos/espose, ultimately from Latin sponsus (betrothed male) / sponsa (betrothed female), related to spondere ('to promise solemnly, engage').",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s spouse",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "legal"
+      ],
+      "DEF_EN":"A person's husband or wife, legally joined in marriage or civil union (gender-neutral term).",
+      "DEF_ZH":"配偶；夫或妻；合法婚姻或民事结合的另一方（中性词）。",
+      "SENT_EN":"Each employee is permitted to purchase health insurance coverage for their spouse and children.",
+      "SENT_ZH":"每位员工都获准为其配偶和子女购买健康保险。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "partner",
+            "mate",
+            "husband",
+            "wife"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ex-spouse",
+            "divorcee"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"spouse [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To marry or wed someone.",
+      "DEF_ZH":"与...结婚；使...成为配偶（较正式或古老的用法）。",
+      "SENT_EN":"They were spoused in a simple ceremony near the ocean.",
+      "SENT_ZH":"他们在海边举行了一个简单的仪式结为夫妇。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "marry",
+            "wed",
+            "espouse"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common (noun), Formal/Literary (verb)"
+}

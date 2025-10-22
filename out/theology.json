@@ -1,0 +1,58 @@
+{
+  "WORD":"theology",
+  "IPA":"/θiˈɑːlədʒi/",
+  "CONJUGATES":"theologies (pl.)",
+  "ETYMOLOGY":"From Latin theologia, from Ancient Greek θεολογία (theología, 'speaking about God'), combining θεός (theós, 'god') and -λογία (-logía, 'study, discourse').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[theology]",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "academic",
+        "formal"
+      ],
+      "DEF_EN":"The systematic study of the nature of the divine, religious beliefs, and religious practices.",
+      "DEF_ZH":"对神性、宗教信仰和宗教实践的系统性研究；神学。",
+      "SENT_EN":"Students enrolling in the divinity school must take an introductory course in theology.",
+      "SENT_ZH":"就读神学院的学生必须选修神学入门课程。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "divinity",
+            "religion",
+            "metaphysics",
+            "doctrine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [theology]",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "doctrine",
+        "specific"
+      ],
+      "DEF_EN":"A specific system or set of religious doctrines, opinions, or theories belonging to a particular denomination or thinker.",
+      "DEF_ZH":"某一特定教派或思想家所持有的特定宗教教义、观点或理论系统。",
+      "SENT_EN":"Liberation theology emphasizes concern for the poor and political activism.",
+      "SENT_ZH":"解放神学强调对穷人的关怀和政治行动主义。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dogma",
+            "creed",
+            "doctrine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, formal contexts related to religion and philosophy."
+}

@@ -1,0 +1,81 @@
+{
+  "WORD":"ford",
+  "IPA":"/fɔːrd/",
+  "CONJUGATES":"fords (n) | fords, fording, forded (v)",
+  "ETYMOLOGY":"From Old English ford 'a passage, crossing place', related to faran 'to go, travel' (source of 'fare').",
+  "SINCE":"Old English (before 1100)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "geography"
+      ],
+      "DEF_EN":"A shallow place in a river or stream allowing one to cross on foot or by vehicle.",
+      "DEF_ZH":"河流或溪流中允许徒步或驾车涉水通过的浅水处；浅滩；渡口。",
+      "SENT_EN":"The old stone bridge was built next to the natural ford.",
+      "SENT_ZH":"这座古老的石桥建在天然的浅滩旁边。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "crossing",
+            "passage",
+            "creek"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ford [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To cross a body of water, especially a river, at a shallow point.",
+      "DEF_ZH":"涉水穿过（河流、溪流等）。",
+      "SENT_EN":"The adventurers had to carefully ford the fast-flowing stream.",
+      "SENT_ZH":"冒险者们必须小心翼翼地涉水穿过这条水流湍急的溪流。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wade",
+            "cross",
+            "traverse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Ford",
+      "POS":"pn",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "proper noun",
+        "brand",
+        "surname",
+        "common"
+      ],
+      "DEF_EN":"The American multinational automobile manufacturer, founded by Henry Ford in 1903. Also a common surname.",
+      "DEF_ZH":"美国跨国汽车制造商，由亨利·福特于1903年创立。亦为一个常见的姓氏。",
+      "SENT_EN":"He inherited a classic Ford Mustang from his grandfather.",
+      "SENT_ZH":"他从祖父那里继承了一辆经典的福特野马。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Henry Ford",
+            "General Motors",
+            "automobile"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical (geography/automotive)"
+}

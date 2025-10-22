@@ -1,0 +1,58 @@
+{
+  "WORD":"their",
+  "IPA":"/ðɛər/",
+  "CONJUGATES":"they | them | theirs | themselves",
+  "ETYMOLOGY":"From Old Norse þeirra (genitive plural of þeir 'they'), which replaced the earlier Old English hiera in Middle English.",
+  "SINCE":"13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[their] [sth]",
+      "POS":"Possessive Determiner",
+      "POS_TIP":"A word used before a noun to indicate possession or association by a plural subject.",
+      "TAGS":[
+        "Core word",
+        "Very Common",
+        "Plural"
+      ],
+      "DEF_EN":"Belonging to or associated with two or more people or things previously mentioned or easily identified.",
+      "DEF_ZH":"他们的；它们的（属于或与先前提到或易于识别的两个人或事物相关联）。",
+      "SENT_EN":"The musicians packed up their equipment after the concert.",
+      "SENT_ZH":"音乐会结束后，音乐家们收拾了他们的设备。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "they",
+            "them",
+            "theirs"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[their] [sth]",
+      "POS":"Possessive Determiner",
+      "POS_TIP":"A word used before a noun to indicate possession or association by a singular subject of unknown or non-specific gender.",
+      "TAGS":[
+        "Common",
+        "Gender-neutral",
+        "Singular use"
+      ],
+      "DEF_EN":"Used to refer to a single person whose gender is not specified or who prefers the singular 'they/them' pronouns.",
+      "DEF_ZH":"他的/她的（用于指代一个性别未指明或使用单数“他们”指代的人）。",
+      "SENT_EN":"If a customer has a complaint, they should raise their concerns with the manager.",
+      "SENT_ZH":"如果顾客有投诉，他们应该向经理提出他们的顾虑。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "he",
+            "she",
+            "its"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General English usage (very high frequency)."
+}

@@ -1,0 +1,114 @@
+{
+  "WORD":"distress",
+  "IPA":"/dɪˈstrɛs/",
+  "CONJUGATES":"distresses | distressing | distressed",
+  "ETYMOLOGY":"From Middle English *distresse*, from Old French *destresse*, based on Latin *districtia* ('strictness, severity'), derived from *distringere* ('to pull apart, hinder'). Originally meant 'strict compulsion' or 'distraint, seizure'.",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[uncountable] great anxiety, sorrow, or pain",
+      "POS":"noun (U)",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "emotional",
+        "psychological"
+      ],
+      "DEF_EN":"Extreme suffering, either physical or mental, caused by worry, pain, or misfortune.",
+      "DEF_ZH":"极度的忧虑、悲伤或痛苦（生理或心理上）。",
+      "SENT_EN":"The economic crisis caused widespread financial distress among lower-income families.",
+      "SENT_ZH":"经济危机给低收入家庭造成了普遍的经济困难。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anguish",
+            "misery",
+            "suffering",
+            "grief"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "comfort",
+            "peace",
+            "joy",
+            "relief"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"distress [sb] [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To cause someone to feel extremely anxious, worried, or upset.",
+      "DEF_ZH":"使某人感到极度忧虑、不安或痛苦。",
+      "SENT_EN":"News of the factory closure deeply distressed the employees.",
+      "SENT_ZH":"工厂关闭的消息让员工们深感不安。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "upset",
+            "bother",
+            "afflict",
+            "worry"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[countable] a situation of extreme danger requiring urgent help",
+      "POS":"noun (C)",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "emergency",
+        "maritime"
+      ],
+      "DEF_EN":"The state of being in imminent danger and requiring immediate assistance, often referring to ships or aircraft (e.g., 'a distress signal').",
+      "DEF_ZH":"紧急状态；求救信号（特指船只或飞机面临危险时）。",
+      "SENT_EN":"The hiker was reported to be in distress after failing to return before nightfall.",
+      "SENT_ZH":"由于未能在天黑前返回，这名徒步旅行者被报告处于危难之中。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Mayday",
+            "SOS",
+            "emergency"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[legal] the seizure of property to compel payment",
+      "POS":"noun (U)",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "legal",
+        "archaic"
+      ],
+      "DEF_EN":"(Historical or Legal) The act of distraining; the legal taking of property to force someone to fulfill an obligation.",
+      "DEF_ZH":"（法律，古语）扣押财产的行为；为了强制履行债务而合法地取走财产。",
+      "SENT_EN":"The landlord exercised his right of distress against the tenant's goods.",
+      "SENT_ZH":"房东对房客的货物行使了财产扣押权。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "distraint",
+            "seizure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used widely, but often carries a formal or professional (medical, legal, emergency) tone when describing severity."
+}

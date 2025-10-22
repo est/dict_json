@@ -1,0 +1,58 @@
+{
+  "WORD":"physiology",
+  "IPA":"/ˌfɪziˈɒlədʒi/",
+  "CONJUGATES":"physiologies",
+  "ETYMOLOGY":"From Middle French physiologie, from Latin physiologia, ultimately from Greek physiologia (φυσιολογία), derived from physis (φύσις 'nature, origin') and -logia (-λογία 'study of').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"physiology (of [sth living])",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "academic"
+      ],
+      "DEF_EN":"The branch of biology that studies the mechanical, physical, and biochemical functions of living organisms and their parts.",
+      "DEF_ZH":"研究生物体及其各部分正常功能机制的生物学分支；生理学。",
+      "SENT_EN":"Understanding human physiology is essential for developing new medical treatments.",
+      "SENT_ZH":"了解人体生理学对于开发新的医疗方法至关重要。",
+      "RELATED":[
+        {
+          "T":"related fields",
+          "V":[
+            "anatomy",
+            "biochemistry",
+            "pathology",
+            "biology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the physiology of [sth]",
+      "POS":"noun",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "technical",
+        "specific use"
+      ],
+      "DEF_EN":"The functional processes or mechanism characteristic of a particular living organism or organ system.",
+      "DEF_ZH":"特定生物或器官系统的功能过程或机制。",
+      "SENT_EN":"The lecture focused on the unique physiology of deep-sea hydrothermal vent organisms.",
+      "SENT_ZH":"讲座侧重于深海热液喷口生物的独特生理机能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "function",
+            "workings",
+            "mechanism"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific/Academic"
+}

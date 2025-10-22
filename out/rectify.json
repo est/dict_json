@@ -1,0 +1,85 @@
+{
+  "WORD":"rectify",
+  "IPA":"/'rɛktɪfaɪ/",
+  "CONJUGATES":"rectifies | rectified | rectifying",
+  "ETYMOLOGY":"From Late Latin rectificare (to make straight or right), from Latin rectus (straight, right) + -ficare (from facere 'to make').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"rectify [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To put right; to correct or adjust something that is wrong, inaccurate, or faulty.",
+      "DEF_ZH":"纠正；改正；矫正（错误、缺陷或不公正的情况）。",
+      "SENT_EN":"The company promised to rectify the billing error immediately.",
+      "SENT_ZH":"公司承诺立即纠正这个账单错误。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "correct",
+            "amend",
+            "remedy",
+            "set right",
+            "fix"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "rectification"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rectify [alcohol/spirit]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "specialized",
+        "chemistry"
+      ],
+      "DEF_EN":"To purify or refine (a spirit or substance, especially alcohol) by repeated distillation.",
+      "DEF_ZH":"（尤指通过重复蒸馏）精馏，提纯（酒精或烈酒）。",
+      "SENT_EN":"The process is used to rectify the crude spirit into a high-grade product.",
+      "SENT_ZH":"该过程用于将粗烈酒精馏成高品质产品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "purify",
+            "refine"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"rectify [AC/current]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "electronics"
+      ],
+      "DEF_EN":"In electronics, to convert (alternating current, AC) into direct current (DC).",
+      "DEF_ZH":"（在电子学中）整流，把交流电转换为直流电。",
+      "SENT_EN":"A bridge circuit is typically used to rectify the AC power supply.",
+      "SENT_ZH":"桥式电路通常用于整流交流电源。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "rectifier",
+            "diode"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or Technical"
+}

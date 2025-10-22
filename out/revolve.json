@@ -1,0 +1,80 @@
+{
+  "WORD":"revolve",
+  "IPA":"/rɪˈvɑːlv/",
+  "CONJUGATES":"revolves | revolving | revolved",
+  "ETYMOLOGY":"From Middle French revolver, or directly from Latin revolvere (re- 'back' + volvere 'to roll').",
+  "SINCE":"Mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"revolve [around sth]",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb",
+      "TAGS":[
+        "Core word",
+        "Astronomy",
+        "Physics"
+      ],
+      "DEF_EN":"To move in an orbit or circular path around a central point.",
+      "DEF_ZH":"（围绕中心点）公转；环绕运行。",
+      "SENT_EN":"The planets revolve around the sun.",
+      "SENT_ZH":"行星围绕太阳公转。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "orbit",
+            "circle",
+            "circulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"revolve",
+      "POS":"vintr / vtr",
+      "POS_TIP":"Intransitive or Transitive verb",
+      "TAGS":[
+        "Core word",
+        "Movement"
+      ],
+      "DEF_EN":"To turn or spin on an axis; to rotate.",
+      "DEF_ZH":"（在轴上）自转；旋转。",
+      "SENT_EN":"The cylinder was designed to revolve at high speeds.",
+      "SENT_ZH":"这个圆筒被设计成高速自转。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rotate",
+            "spin",
+            "turn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"revolve [around sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"Intransitive verb followed by a preposition",
+      "TAGS":[
+        "Figurative",
+        "Common usage"
+      ],
+      "DEF_EN":"To have something as the central theme or focus; to depend heavily on.",
+      "DEF_ZH":"以…为中心；围绕（某主题）展开。",
+      "SENT_EN":"The entire plot revolves around a single misunderstanding.",
+      "SENT_ZH":"整个情节都围绕着一个误解展开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "center",
+            "focus",
+            "pivot"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

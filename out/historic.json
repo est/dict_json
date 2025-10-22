@@ -1,0 +1,74 @@
+{
+  "WORD":"historic",
+  "IPA":"/hɪˈstɒrɪk/",
+  "CONJUGATES":"more historic | most historic | historically (adv)",
+  "ETYMOLOGY":"From Late Latin historicus, from Greek historikos (of history, historical), related to historia (history).",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"historic [sth] (event, moment, decision)",
+      "POS":"adj",
+      "POS_TIP":"Adjective, describing a noun.",
+      "TAGS":[
+        "core word",
+        "momentous",
+        "formal"
+      ],
+      "DEF_EN":"Famous or important in history, or likely to be remembered as such; forming a major landmark or turning point.",
+      "DEF_ZH":"历史性的；具有重大历史意义的；在历史上占有重要地位的。",
+      "SENT_EN":"The prime minister announced a historic peace agreement after months of negotiations.",
+      "SENT_ZH":"经过数月的谈判，首相宣布了一项具有历史意义的和平协议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "momentous",
+            "consequential",
+            "epoch-making",
+            "memorable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insignificant",
+            "trivial",
+            "minor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "history",
+            "historical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"historic [sth] (building, site)",
+      "POS":"adj",
+      "POS_TIP":"Adjective, describing a noun.",
+      "TAGS":[
+        "common",
+        "descriptive",
+        "heritage"
+      ],
+      "DEF_EN":"Relating to the past; having preserved buildings or monuments of historical importance.",
+      "DEF_ZH":"（建筑物或地点）有历史意义的；历史遗留的。",
+      "SENT_EN":"We spent the afternoon exploring the historic downtown district.",
+      "SENT_ZH":"我们花了一个下午探索这个历史悠久的市中心街区。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ancient",
+            "heritage",
+            "antique"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal"
+}

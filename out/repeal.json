@@ -1,0 +1,74 @@
+{
+  "WORD":"repeal",
+  "IPA":"/rɪˈpiːl/",
+  "CONJUGATES":"repeals | repealing | repealed",
+  "ETYMOLOGY":"Late Middle English, from Anglo-Norman repeler, itself from re- 'back, again' + apeler 'to appeal, call' (literally meaning 'to revoke a call or summons').",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"repeal [sth] (a law, act, etc.)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Legal",
+        "Formal",
+        "Core"
+      ],
+      "DEF_EN":"To revoke or annul (a law or congressional act).",
+      "DEF_ZH":"废除；撤销（法律、法案、规章等）。",
+      "SENT_EN":"The new legislature voted unanimously to repeal the outdated property tax law.",
+      "SENT_ZH":"新立法机关一致投票决定废除过时的财产税法。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revoke",
+            "annul",
+            "rescind",
+            "abolish"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "enact",
+            "ratify",
+            "implement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] repeal [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Legal",
+        "Formal",
+        "Core"
+      ],
+      "DEF_EN":"The act of officially revoking or annulling a law or public policy.",
+      "DEF_ZH":"废除；撤销（法律或政策的）行为。",
+      "SENT_EN":"There was a strong public movement demanding the repeal of the controversial immigration measure.",
+      "SENT_ZH":"当时有一场强大的公众运动，要求废除这项有争议的移民措施。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "revocation",
+            "annulment",
+            "rescission"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "passage",
+            "adoption"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Political and legal discourse."
+}

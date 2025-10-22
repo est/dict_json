@@ -1,0 +1,73 @@
+{
+  "WORD":"patient",
+  "IPA":"/ˈpeɪʃənt/",
+  "CONJUGATES":"patient | patients | patiently | patience",
+  "ETYMOLOGY":"From Middle English 'pacient', from Old French 'pacient', from Latin 'patiēns' (present participle of 'patī' meaning 'to suffer, endure').",
+  "SINCE":"c. 1350",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] be patient",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"Able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.",
+      "DEF_ZH":"有耐心的；能忍受的；沉着的。",
+      "SENT_EN":"Learning a new language requires you to be extremely patient.",
+      "SENT_ZH":"学习一门新语言需要你非常有耐心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "tolerant",
+            "forbearing",
+            "unflustered"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "impatient",
+            "hasty",
+            "irritable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a patient",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Medical",
+        "Common"
+      ],
+      "DEF_EN":"A person receiving medical treatment or care, especially in a hospital or clinic.",
+      "DEF_ZH":"病人；患者。",
+      "SENT_EN":"The doctor advised the patient to rest for a week.",
+      "SENT_ZH":"医生建议该患者休息一周。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sufferer",
+            "case",
+            "client"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "doctor",
+            "hospital",
+            "therapy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General use; medical/healthcare for the noun form."
+}

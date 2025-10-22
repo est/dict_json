@@ -1,0 +1,65 @@
+{
+  "WORD":"lottery",
+  "IPA":"/ˈlɑːtəri/",
+  "CONJUGATES":"lotteries",
+  "ETYMOLOGY":"From Dutch *loterij* (modern Dutch *loterij*), adopted into English in the late 16th century, related to *lot* (fate, share).",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] lottery | [the] lottery",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "commerce",
+        "gambling"
+      ],
+      "DEF_EN":"A system of raising money by selling numbered tickets and giving prizes to the holders of tickets whose numbers are drawn at random.",
+      "DEF_ZH":"彩票；一种通过出售带编号的彩票，并根据随机抽取的号码颁发奖品的集资方式。",
+      "SENT_EN":"She won a substantial amount of money in the state lottery last week.",
+      "SENT_ZH":"上周她中了州彩票的一大笔钱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "raffle",
+            "sweepstakes",
+            "draw"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "jackpot",
+            "winnings",
+            "ticket"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] lottery [of sth]",
+      "POS":"n [fig.]",
+      "POS_TIP":"noun (figurative use)",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"An event or situation whose outcome is governed purely by chance rather than skill or intention.",
+      "DEF_ZH":"碰运气的事；结果完全由运气决定而非技能或功绩的情况。",
+      "SENT_EN":"Choosing the applicants based solely on their entry order turned the selection process into a complete lottery.",
+      "SENT_ZH":"仅根据申请人的提交顺序进行选择，使得整个选拔过程完全变成了碰运气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chance",
+            "gamble",
+            "luck of the draw"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

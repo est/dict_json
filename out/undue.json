@@ -1,0 +1,66 @@
+{
+  "WORD":"undue",
+  "IPA":"/ʌnˈduː/",
+  "CONJUGATES":"more undue | most undue",
+  "ETYMOLOGY":"From Middle English *undewe*, equivalent to *un-* (not) + *due* (appropriate, owing).",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"undue [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "formal",
+        "pejorative"
+      ],
+      "DEF_EN":"Exceeding what is appropriate, necessary, or strictly legal; excessive or unwarranted.",
+      "DEF_ZH":"过分的；过度的；不应有的；不适当的。",
+      "SENT_EN":"The manager put undue pressure on the staff to meet the impossible deadline.",
+      "SENT_ZH":"经理给员工施加了过大的压力，要求他们赶上不可能完成的截止日期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "excessive",
+            "unwarranted",
+            "inappropriate",
+            "disproportionate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "appropriate",
+            "justifiable",
+            "reasonable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"undue [payment] / [debt]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "financial",
+        "less common"
+      ],
+      "DEF_EN":"Not yet payable or required; immature (of a financial obligation).",
+      "DEF_ZH":"尚未到期的（指债务或款项）。",
+      "SENT_EN":"The contract includes provisions for early repayment of any undue balances.",
+      "SENT_ZH":"合同中包含提前偿还任何未到期余额的条款。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "due",
+            "matured",
+            "overdue"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and often legal/academic."
+}

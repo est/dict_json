@@ -1,0 +1,64 @@
+{
+  "WORD":"diameter",
+  "IPA":"/daɪˈæmɪtər/",
+  "CONJUGATES":"diameters",
+  "ETYMOLOGY":"From Latin diametros, from Ancient Greek διάμετρος (diámetros, \"measuring across\"), from διά- (diá-, \"through, across\") + μέτρον (métron, \"measure\").",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"diameter [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core",
+        "Geometry",
+        "Mathematics"
+      ],
+      "DEF_EN":"A straight line segment that passes through the center of a circle or sphere and whose endpoints lie on the boundary; also, the length of this segment.",
+      "DEF_ZH":"通过圆心或球心连接其周界两点的直线段；亦指该线段的长度。",
+      "SENT_EN":"The diameter of a circle is exactly twice its radius.",
+      "SENT_ZH":"圆的直径正好是其半径的两倍。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "radius",
+            "circumference",
+            "chord"
+          ]
+        },
+        {
+          "T":"synonyms",
+          "V":[
+            "span",
+            "width"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the diameter [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Common",
+        "Measurement"
+      ],
+      "DEF_EN":"The width of any circular or cylindrical object, measured across its widest point.",
+      "DEF_ZH":"任何圆形或圆柱形物体（在最宽处）的宽度或横截面长度。",
+      "SENT_EN":"The telescope has an objective lens with a large diameter.",
+      "SENT_ZH":"这台望远镜有一个大直径的物镜。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bore",
+            "caliber",
+            "gauge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

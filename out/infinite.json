@@ -1,0 +1,89 @@
+{
+  "WORD":"infinite",
+  "IPA":"/ɪnˈfɪnɪt/",
+  "CONJUGATES":"infinitely (adv) | infinity (n) | infinitude (n)",
+  "ETYMOLOGY":"From Latin infinitus, from in- ('not') + finitus ('finished, bounded, limited'), past participle of finire ('to limit, end').",
+  "SINCE":"14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is infinite",
+      "POS":"adj",
+      "POS_TIP":"adjective (修饰名词的词)",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "philosophy"
+      ],
+      "DEF_EN":"Having no limits, boundaries, or end; impossible to measure or count.",
+      "DEF_ZH":"无限的；无穷的；没有界限的。",
+      "SENT_EN":"The series of prime numbers is theoretically infinite.",
+      "SENT_ZH":"素数的数列理论上是无限的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "boundless",
+            "endless",
+            "limitless",
+            "unlimited"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "finite",
+            "limited"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an infinite [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective (修饰名词的词)",
+      "TAGS":[
+        "common",
+        "figurative",
+        "hyperbole"
+      ],
+      "DEF_EN":"Extremely large or great in amount or degree; immense or countless.",
+      "DEF_ZH":"极大的；巨大的；无数的。",
+      "SENT_EN":"A teacher needs to have infinite patience when working with young children.",
+      "SENT_ZH":"老师在与小孩一起工作时需要有无限的耐心。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "immense",
+            "countless",
+            "innumerable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the infinite",
+      "POS":"n",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "philosophy",
+        "theology"
+      ],
+      "DEF_EN":"Unlimited space, time, or quantity; the state or quality of being infinite.",
+      "DEF_ZH":"无限；无穷（指没有限制的空间、时间或量；无限的状态或品质）。",
+      "SENT_EN":"Many religions try to define the relationship between humanity and the infinite.",
+      "SENT_ZH":"许多宗教试图定义人类与无限之间的关系。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "infinity",
+            "eternity",
+            "God"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal to literary, common in mathematics and philosophy"
+}

@@ -1,0 +1,67 @@
+{
+  "WORD":"verb",
+  "IPA":"/vɜːrb/",
+  "CONJUGATES":"verbs (plural)",
+  "ETYMOLOGY":"From Middle English, from Old French verbe, from Latin verbum ('word', 'verb'). The sense relating to grammar originated in translations of Greek grammatical texts.",
+  "SINCE":"c. 1350 (Grammatical sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"verb",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "grammar term"
+      ],
+      "DEF_EN":"A word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence.",
+      "DEF_ZH":"动词。用于描述动作、状态或发生的词，构成句子谓语的主要部分。",
+      "SENT_EN":"In the sentence 'She sings beautifully,' 'sings' is the main verb.",
+      "SENT_ZH":"在句子“她唱得很美”中，“唱 (sings)”是主动词。",
+      "RELATED":[
+        {
+          "T":"types",
+          "V":[
+            "auxiliary verb",
+            "transitive verb",
+            "intransitive verb",
+            "phrasal verb",
+            "linking verb"
+          ]
+        },
+        {
+          "T":"related concepts",
+          "V":[
+            "noun",
+            "adjective",
+            "adverb",
+            "tense",
+            "conjugation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the word",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"(Archaic) The Word of God; the Logos.",
+      "DEF_ZH":"(古语/罕用) 上帝的话语；道 (如《圣经》中所指的道)。",
+      "SENT_EN":"The theologian spoke reverently of the divine Verb.",
+      "SENT_ZH":"这位神学家虔诚地谈论着神圣的道 (Verb)。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "Logos",
+            "Word of God"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Educational, Common Language"
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"ski",
+  "IPA":"/skiː/",
+  "CONJUGATES":"skis | skiing | skied",
+  "ETYMOLOGY":"From Norwegian 'ski', ultimately from Old Norse 'skíð' meaning 'stick of wood' or 'snowshoe'.",
+  "SINCE":"Late 19th Century (in English context for the sport)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "equipment",
+        "sport"
+      ],
+      "DEF_EN":"One of a pair of long, narrow runners attached to the feet for gliding over snow, used especially in the sport of skiing.",
+      "DEF_ZH":"滑雪板，一对用于在雪上滑行或运动的、附着在脚上的长而窄的板。",
+      "SENT_EN":"He adjusted the bindings on his new skis before heading down the mountain.",
+      "SENT_ZH":"他向山下出发前调整了新滑雪板上的固定器。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "snowboard",
+            "binding",
+            "piste"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] ski",
+      "POS":"vi",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "action",
+        "sport"
+      ],
+      "DEF_EN":"To travel over snow using skis, typically as a recreational activity or sport.",
+      "DEF_ZH":"滑雪；穿戴滑雪板在雪地里运动或旅行。",
+      "SENT_EN":"We plan to ski the Alps during the winter break.",
+      "SENT_ZH":"我们计划在寒假期间去阿尔卑斯山滑雪。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "glide",
+            "slide",
+            "coast"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "snowboard",
+            "waterski"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (e.g., water ski, jet ski)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specialized",
+        "sport"
+      ],
+      "DEF_EN":"A device or vehicle, analogous to a snow ski, used for gliding over water or other surfaces.",
+      "DEF_ZH":"水橇或水上摩托艇（指用于水面或其他表面的类似滑雪板的设备）。",
+      "SENT_EN":"They rented a jet ski for a thrilling afternoon ride on the lake.",
+      "SENT_ZH":"他们租了一辆水上摩托艇，在湖上度过了一个刺激的下午。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "waterski",
+            "wakeboard",
+            "jet ski"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common; associated with winter sports and recreation."
+}

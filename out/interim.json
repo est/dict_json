@@ -1,0 +1,66 @@
+{
+  "WORD":"interim",
+  "IPA":"/ˈɪntərɪm/",
+  "CONJUGATES":"interims (plural noun)",
+  "ETYMOLOGY":"From Latin interim (adverb), meaning 'meanwhile, in the meantime,' formed from inter ('between') + accusative case ending -im.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"interim [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective: describes a noun.",
+      "TAGS":[
+        "core word",
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"Existing or happening during a temporary period before a final decision or solution is reached.",
+      "DEF_ZH":"临时的；暂时的；过渡性的，指最终决定或解决方案出台前的临时阶段。",
+      "SENT_EN":"The committee established an interim plan to manage the budget shortfall.",
+      "SENT_ZH":"委员会制定了一个临时计划来应对预算短缺。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "temporary",
+            "provisional",
+            "transitional",
+            "stopgap"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "permanent",
+            "final"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the interim | the interim",
+      "POS":"n",
+      "POS_TIP":"Noun: a person, place, thing, or idea.",
+      "TAGS":[
+        "common",
+        "formal",
+        "time"
+      ],
+      "DEF_EN":"The intervening time; the period between two events, especially while waiting for something else to happen.",
+      "DEF_ZH":"间隔时间；过渡时期；在此期间（常用于短语 'in the interim'）。",
+      "SENT_EN":"The new manager won't arrive for three weeks, but in the interim, I will oversee the department.",
+      "SENT_ZH":"新经理三周后才能到任，但在过渡期内，我将负责监管该部门。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meantime",
+            "interval",
+            "while"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, common in governmental, legal, and corporate settings."
+}

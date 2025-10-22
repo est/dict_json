@@ -1,0 +1,85 @@
+{
+  "WORD":"actor",
+  "IPA":"/ˈæktər/",
+  "CONJUGATES":"actors",
+  "ETYMOLOGY":"From Middle English actour, from Anglo-French actour, from Latin actor ('performer, doer, agent'), derived from agere ('to do, act, drive'). The theatrical sense developed in the 16th century.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"actor",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "entertainment"
+      ],
+      "DEF_EN":"A person who portrays a character in a performance, such as a play, movie, or television show, regardless of gender.",
+      "DEF_ZH":"在戏剧、电影或电视节目中扮演角色的表演者（不限男女）。",
+      "SENT_EN":"The young actor received critical acclaim for his debut performance.",
+      "SENT_ZH":"这位年轻的演员因其首次表演获得了评论界的好评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "performer",
+            "player",
+            "thespian",
+            "artiste"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "actress",
+            "acting",
+            "director",
+            "star"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[key/main] actor [in sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "formal",
+        "politics",
+        "sociology"
+      ],
+      "DEF_EN":"A person or group that plays a significant role in an event, situation, or social structure; a participant or agent.",
+      "DEF_ZH":"在某个事件、情境或社会结构中扮演重要角色的个体或团体；参与者；行动主体。",
+      "SENT_EN":"The nation is considered a key actor in regional security negotiations.",
+      "SENT_ZH":"该国被认为是区域安全谈判中的一个关键行动主体。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "participant",
+            "agent",
+            "player",
+            "entity"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"actor",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "rare",
+        "legal",
+        "historical"
+      ],
+      "DEF_EN":"One who does or performs something; an agent or doer. (In legal context, often a plaintiff or prosecutor, especially historically in Scotland).",
+      "DEF_ZH":"做某事或执行某事的人；代理人或执行者。（在法律语境中，尤指原告或检察官，在苏格兰历史上常见）。",
+      "SENT_EN":"The actor was charged with negligence for failing to fulfill his duties.",
+      "SENT_ZH":"该执行者因未能履行职责而被控疏忽。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

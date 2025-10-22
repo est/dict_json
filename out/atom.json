@@ -1,0 +1,60 @@
+{
+  "WORD":"atom",
+  "IPA":"/ˈæ.təm/",
+  "CONJUGATES":"atoms",
+  "ETYMOLOGY":"From Greek ἄτομος (atomos, 'indivisible'), via ἄτομον (atomon, neuter of atomos). Formed from a- ('not') + tomos ('cut'). Revived in the 17th century, popularized in the modern scientific sense in the 19th century.",
+  "SINCE":"Mid-16th century (in English philosophy); 19th century (modern scientific use)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Scientific Term",
+        "Physics",
+        "Chemistry"
+      ],
+      "DEF_EN":"The basic unit of a chemical element, consisting of a dense nucleus (containing protons and neutrons) surrounded by a cloud of orbiting electrons.",
+      "DEF_ZH":"原子；化学元素的基本单位，由一个致密的原子核（包含质子和中子）和围绕原子核运动的电子云组成。",
+      "SENT_EN":"The difference between gold and silver atoms lies in the number of protons in their nuclei.",
+      "SENT_ZH":"金原子和银原子之间的区别在于它们原子核中质子的数量。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "molecule",
+            "nucleus",
+            "electron",
+            "proton",
+            "isotope"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an atom of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Figurative",
+        "Idiomatic"
+      ],
+      "DEF_EN":"A very small particle or amount; a trace.",
+      "DEF_ZH":"极少量；微粒；一丝（常用于否定或强调微小）。",
+      "SENT_EN":"There was not an atom of truth in his statement.",
+      "SENT_ZH":"他的话里没有一丝一毫的真实性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "iota",
+            "smidgen",
+            "trace",
+            "particle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, General Usage"
+}

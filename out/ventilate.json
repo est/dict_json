@@ -1,0 +1,82 @@
+{
+  "WORD":"ventilate",
+  "IPA":"/ˈvɛntɪleɪt/",
+  "CONJUGATES":"ventilates | ventilating | ventilated",
+  "ETYMOLOGY":"From Latin ventilātus, past participle of ventilāre ('to fan, winnow, brandish, agitate'), frequentative of ventus ('wind'). First used in English to mean 'to fan' or 'to air'.",
+  "SINCE":"c. 1610s",
+  "MEANINGS":[
+    {
+      "PATTERN":"ventilate [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "physical action",
+        "air circulation"
+      ],
+      "DEF_EN":"To cause fresh air to circulate throughout (a room, building, or area); to introduce clean air to replace foul air.",
+      "DEF_ZH":"使空气流通；给（房间、建筑物或区域）通风换气。",
+      "SENT_EN":"It is important to properly ventilate the bathroom after showering to prevent mold.",
+      "SENT_ZH":"淋浴后适当给浴室通风很重要，可以防止发霉。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "aerate",
+            "air",
+            "freshen",
+            "circulate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "ventilation",
+            "ventilator",
+            "vent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ventilate [sth] (an opinion/grievance)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "figurative",
+        "discourse",
+        "formal"
+      ],
+      "DEF_EN":"To express or discuss (an opinion, grievance, or subject) publicly, allowing it to be openly debated or aired.",
+      "DEF_ZH":"公开表达或讨论（意见、不满等）；使（某事）得到公开辩论或宣泄。",
+      "SENT_EN":"The committee meeting gave members an opportunity to ventilate their frustration with the management.",
+      "SENT_ZH":"委员会会议给了成员们一个机会来公开宣泄他们对管理层的不满。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "express",
+            "voice",
+            "air",
+            "discuss"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ventilate [sb] (medical/archaic)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "medical",
+        "rare"
+      ],
+      "DEF_EN":"To provide mechanical breathing assistance to a patient, typically using a ventilator.",
+      "DEF_ZH":"（医）使用呼吸机给病人提供机械通气。",
+      "SENT_EN":"The doctor decided to ventilate the patient after the operation to stabilize their breathing.",
+      "SENT_ZH":"手术后，医生决定对病人进行通气以稳定他们的呼吸。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

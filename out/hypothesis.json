@@ -1,0 +1,75 @@
+{
+  "WORD":"hypothesis",
+  "IPA":"/haɪˈpɒθəsɪs/",
+  "CONJUGATES":"hypotheses (plural)",
+  "ETYMOLOGY":"From Greek hypóthesis 'foundation, supposition', from hypo- 'under' + thesis 'placing, setting'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"hypothesis [about sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "academic"
+      ],
+      "DEF_EN":"A proposed explanation for a phenomenon, often stated as a testable prediction, serving as a starting point for further investigation or experimentation.",
+      "DEF_ZH":"基于有限证据提出的，可用于检验并作为进一步科学研究起点的解释或预测。",
+      "SENT_EN":"The experiment failed to support the initial hypothesis regarding the impact of temperature on reaction speed.",
+      "SENT_ZH":"该实验未能支持关于温度对反应速度影响的最初假设。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "theory",
+            "conjecture",
+            "postulate",
+            "proposition"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "experimentation",
+            "research",
+            "conclusion",
+            "data"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hypothesis (that...)",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "formal",
+        "general use"
+      ],
+      "DEF_EN":"An assumption or proposition made for the sake of argument, or as a basis for reasoning, without strict proof.",
+      "DEF_ZH":"为了论证或推理的目的而提出的，未经证实的前提或设想。",
+      "SENT_EN":"We are working under the hypothesis that the suspect had an accomplice.",
+      "SENT_ZH":"我们正基于“嫌疑人有同谋”的假设展开工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assumption",
+            "speculation",
+            "premise"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "certainty",
+            "proof",
+            "fact"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, Academic, Formal context"
+}

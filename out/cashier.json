@@ -1,0 +1,64 @@
+{
+  "WORD":"cashier",
+  "IPA":"/ˈkæʃɪər/",
+  "CONJUGATES":"cashiers (n. pl.) | cashiers (v. pr. 3s) | cashiering (v. pr. p.) | cashiered (v. pt./pp.)",
+  "ETYMOLOGY":"From Middle French caissier (keeper of the cash box), derived from caisse (cash box, chest), ultimately from Italian cassa.",
+  "SINCE":"Late 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "occupation"
+      ],
+      "DEF_EN":"A person responsible for handling cash and non-cash transactions (payments and receipts) at a point of sale in a business, store, or bank.",
+      "DEF_ZH":"负责在商店、银行或其他商业场所处理现金和非现金交易（收付款）的人员；收银员；出纳员。",
+      "SENT_EN":"The line was long, but the cashier worked quickly and efficiently.",
+      "SENT_ZH":"队伍很长，但收银员工作快速且高效。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "teller",
+            "clerk",
+            "checkout operator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cashier [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "rare",
+        "formal",
+        "military"
+      ],
+      "DEF_EN":"To dismiss a person, especially a military officer, from service in disgrace.",
+      "DEF_ZH":"（特指对军官）因不名誉的行为而将其革职或开除军籍。",
+      "SENT_EN":"After the court-martial, the general was cashiered and lost all rank and benefits.",
+      "SENT_ZH":"军事法庭后，这位将军被革职并失去了所有军衔和福利。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dismiss",
+            "discharge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "reinstate",
+            "restore"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (Meaning 1); Formal/Military (Meaning 2)"
+}

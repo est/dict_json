@@ -1,0 +1,77 @@
+{
+  "WORD":"than",
+  "IPA":"/ðæn/",
+  "CONJUGATES":"None",
+  "ETYMOLOGY":"From Old English þanne or þonne ('then'), used from early times as a comparative conjunction.",
+  "SINCE":"Before 1100 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[comparison] than [sth/sb]",
+      "POS":"conj | prep",
+      "POS_TIP":"conjunction: word connecting clauses or sentences | preposition: word governing a noun or pronoun and expressing a relation to another word",
+      "TAGS":[
+        "Core word",
+        "Comparison"
+      ],
+      "DEF_EN":"Introducing the second element in a comparison, which contrasts with the first.",
+      "DEF_ZH":"用于比较句中，引导比较的第二部分，表示对比。",
+      "SENT_EN":"The new model is faster than the old one.",
+      "SENT_ZH":"新机型比旧机型快。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "as",
+            "to",
+            "like"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"other than [sth/sb]",
+      "POS":"prep | conj",
+      "POS_TIP":"preposition: word governing a noun or pronoun and expressing a relation to another word | conjunction: word connecting clauses or sentences",
+      "TAGS":[
+        "Exclusion",
+        "Formal"
+      ],
+      "DEF_EN":"Used after words like 'other' or 'rather' to indicate exclusion or preference; except; besides.",
+      "DEF_ZH":"除了；而非。常用于 'other than' 或 'rather than' 等短语中，表示排除或替代。",
+      "SENT_EN":"I had no option other than to accept the terms.",
+      "SENT_ZH":"除了接受这些条款，我别无选择。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "except",
+            "besides"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"no sooner [v] than [v]",
+      "POS":"conj",
+      "POS_TIP":"conjunction: word connecting clauses or sentences",
+      "TAGS":[
+        "Idiomatic",
+        "Time sequence"
+      ],
+      "DEF_EN":"Used after 'no sooner' to introduce the subsequent, immediately following event.",
+      "DEF_ZH":"用于 'no sooner... than...' 结构中，表示“刚一……就……”。",
+      "SENT_EN":"No sooner had we arrived than it started pouring rain.",
+      "SENT_ZH":"我们刚到，就开始下倾盆大雨了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "when",
+            "as soon as"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, extremely common in all contexts."
+}

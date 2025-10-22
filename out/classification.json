@@ -1,0 +1,110 @@
+{
+  "WORD":"classification",
+  "IPA":"/ˌklæsɪfɪˈkeɪʃən/",
+  "CONJUGATES":"classifications (pl.)",
+  "ETYMOLOGY":"From Medieval Latin *classificatio*, from *classificare* (to classify), based on Latin *classis* (class) and the suffix *-ficatio* (making, doing).",
+  "SINCE":"Mid 18th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core concept",
+        "common",
+        "academic"
+      ],
+      "DEF_EN":"The action or process of arranging objects, ideas, or data into groups or categories based on shared qualities or characteristics.",
+      "DEF_ZH":"根据共有特征将物体、思想或数据进行分组或分类的行动或过程。",
+      "SENT_EN":"The primary goal of the study was the classification of different soil types in the region.",
+      "SENT_ZH":"这项研究的主要目标是对该地区不同土壤类型进行分类。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "categorization",
+            "sorting",
+            "grouping"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disorder",
+            "randomness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] system",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "system"
+      ],
+      "DEF_EN":"A systematic arrangement or scheme that results from classifying items, such as a catalog or index.",
+      "DEF_ZH":"对项目进行分类后产生的系统性排列或方案，例如目录或索引。",
+      "SENT_EN":"The library implemented a new classification system for its historical archives.",
+      "SENT_ZH":"该图书馆为其历史档案实施了一个新的分类系统。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "taxonomy",
+            "hierarchy",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[of information/documents]",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "specialized",
+        "government",
+        "military"
+      ],
+      "DEF_EN":"The official determination of the security level of information or documents (e.g., Top Secret, Confidential).",
+      "DEF_ZH":"信息或文件的保密等级的官方确定（例如，绝密、机密）。",
+      "SENT_EN":"The document received a high classification due to the sensitivity of the source.",
+      "SENT_ZH":"由于来源的敏感性，该文件获得了高度机密分类。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "declassification",
+            "confidential"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[in biology]",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "biology",
+        "scientific"
+      ],
+      "DEF_EN":"The systematic grouping of organisms based on shared characteristics and evolutionary history, forming the science of taxonomy.",
+      "DEF_ZH":"根据共有特征和进化历史对生物进行的系统分组，构成分类学。",
+      "SENT_EN":"Linnaeus is famous for establishing the binomial classification system.",
+      "SENT_ZH":"林奈因确立了二项式分类法而闻名。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "taxonomy",
+            "species",
+            "genus"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Technical"
+}

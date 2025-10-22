@@ -1,0 +1,68 @@
+{
+  "WORD":"implementation",
+  "IPA":"/ˌɪmplɪmənteɪʃən/",
+  "CONJUGATES":"implementations",
+  "ETYMOLOGY":"From the verb 'implement' (to carry out, put into effect) + suffix '-ation', ultimately from Late Latin *implementum* ('a fulfilling'), derived from Latin *implere* ('to fill up, complete').",
+  "SINCE":"Mid-20th Century (in modern sense of execution)",
+  "MEANINGS":[
+    {
+      "PATTERN":"implementation of [sth]",
+      "POS":"n. uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "management",
+        "formal"
+      ],
+      "DEF_EN":"The process of putting a decision, plan, policy, or agreement into effect.",
+      "DEF_ZH":"实施；执行；落实（决定、计划或协议的过程）。",
+      "SENT_EN":"The committee oversaw the implementation of the new safety regulations.",
+      "SENT_ZH":"委员会监督了新安全条例的实施。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "execution",
+            "enactment",
+            "realization",
+            "application",
+            "deployment"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "implement",
+            "strategy",
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a/the] implementation",
+      "POS":"n. count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "computing",
+        "engineering"
+      ],
+      "DEF_EN":"A specific version or instance of a software system, design, or component, representing the way a theoretical concept is realized.",
+      "DEF_ZH":"具体实现；（某理论、算法或设计的）实现版本或实例。",
+      "SENT_EN":"We are testing the performance of the latest API implementation.",
+      "SENT_ZH":"我们正在测试最新API实现版本的性能。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "version",
+            "model",
+            "architecture"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Business, Technology, Project Management"
+}

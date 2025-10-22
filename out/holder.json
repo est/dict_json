@@ -1,0 +1,90 @@
+{
+  "WORD":"holder",
+  "IPA":"/ˈhoʊldər/",
+  "CONJUGATES":"holders",
+  "ETYMOLOGY":"Agent noun formed from the verb 'hold' (from Old English *haldan 'to grasp, retain') + the suffix '-er'.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] holder",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person who possesses or owns a particular thing, especially a title, security, record, or ticket.",
+      "DEF_ZH":"持有者；所有人（尤指票据、证券、纪录、头衔等的持有者）",
+      "SENT_EN":"She is the current holder of the Olympic gold medal in swimming.",
+      "SENT_ZH":"她是目前游泳项目奥林匹克金牌的持有者（保持者）。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "possessor",
+            "owner",
+            "bearer",
+            "keeper"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "former holder",
+            "loser"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] holder",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "physical object"
+      ],
+      "DEF_EN":"A device, container, or stand designed to support, contain, or grip something else.",
+      "DEF_ZH":"支架；托；座；容器（用于支撑或固定某物）",
+      "SENT_EN":"We need a new toothbrush holder for the bathroom counter.",
+      "SENT_ZH":"我们需要一个新牙刷架放在浴室台面上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stand",
+            "mount",
+            "support",
+            "container"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"holder of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "finance",
+        "legal",
+        "formal"
+      ],
+      "DEF_EN":"A person or entity that legally possesses an asset, a contract, or a negotiable instrument, such as a stock or bond.",
+      "DEF_ZH":"（法律或金融领域的）持有人；证券持有人；合同方",
+      "SENT_EN":"The company must prioritize payments to its bond holders before issuing dividends.",
+      "SENT_ZH":"公司在发行股息之前，必须优先向其债券持有人付款。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shareholder",
+            "bondholder",
+            "policyholder",
+            "creditor"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, technical in finance/law."
+}

@@ -1,0 +1,57 @@
+{
+  "WORD":"helicopter",
+  "IPA":"/ˈhɛlɪkɑːptər/",
+  "CONJUGATES":"helicopters (n. pl.) | helicoptered (v. past) | helicoptering (v. pr. p.)",
+  "ETYMOLOGY":"Coined in 1861 by Gustave de Ponton d'Amécourt, from French *hélicoptère*, combining Greek *helix* (ἕλιξ, 'spiral, turning') and *pteron* (πτερόν, 'wing').",
+  "SINCE":"Mid-19th century (concept) / Early 20th century (practical usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[C]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "transport",
+        "aviation"
+      ],
+      "DEF_EN":"An aircraft that is lifted and propelled by horizontally revolving overhead blades (rotors), allowing it to take off and land vertically and hover.",
+      "DEF_ZH":"一种通过顶部水平旋转的旋翼获得升力和推进力的航空器，能够垂直起降和悬停；直升机。",
+      "SENT_EN":"The news crew arrived at the scene in a loud broadcast helicopter.",
+      "SENT_ZH":"新闻摄制组乘坐一架嘈杂的广播直升机抵达了现场。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chopper",
+            "rotorcraft",
+            "whirlybird"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "airplane",
+            "drone",
+            "autogyro"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[v]",
+      "POS":"v",
+      "POS_TIP":"Verb (Intransitive or Transitive)",
+      "TAGS":[
+        "action",
+        "less common"
+      ],
+      "DEF_EN":"To travel or transport someone or something by means of a helicopter.",
+      "DEF_ZH":"乘直升机旅行或用直升机运送（某人或某物）。",
+      "SENT_EN":"We had to helicopter the seriously injured patient out of the canyon.",
+      "SENT_ZH":"我们不得不使用直升机将重伤员运出峡谷。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General / Technical"
+}

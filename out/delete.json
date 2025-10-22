@@ -1,0 +1,68 @@
+{
+  "WORD":"delete",
+  "IPA":"/dɪˈliːt/",
+  "CONJUGATES":"deletes | deleted | deleting | deletion (n)",
+  "ETYMOLOGY":"From Latin dēlēre 'to blot out, efface, destroy'.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"delete [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "computing"
+      ],
+      "DEF_EN":"To remove or erase (data, files, text, etc.) especially from a computer or a document.",
+      "DEF_ZH":"删除；除去（尤指电子数据、文件或文本）。",
+      "SENT_EN":"I accidentally deleted all the photos from my phone.",
+      "SENT_ZH":"我不小心删除了我手机里所有的照片。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "erase",
+            "remove",
+            "expunge",
+            "eliminate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insert",
+            "restore",
+            "add",
+            "keep"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"delete [sth] (from [sth else])",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes a direct object)",
+      "TAGS":[
+        "general usage",
+        "formal"
+      ],
+      "DEF_EN":"To strike out or omit a passage, word, or item from a larger body of text or list.",
+      "DEF_ZH":"删去，勾销（文章中的某段、词语或清单中的某项）。",
+      "SENT_EN":"The editor deleted the entire second chapter because it was repetitive.",
+      "SENT_ZH":"编辑删掉了整个第二章，因为它显得重复。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "omit",
+            "cut",
+            "cross out",
+            "cancel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

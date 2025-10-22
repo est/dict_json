@@ -1,0 +1,95 @@
+{
+  "WORD":"Protestant",
+  "IPA":"/ˈprɑːtɪstənt/",
+  "CONJUGATES":"Protestants (pl. n.)",
+  "ETYMOLOGY":"From Middle French protestant, derived from Latin prōtestantem (present participle of prōtestārī 'to protest'), referring specifically to the German princes and cities who formally protested against the revocation of religious liberties at the Diet of Speyer in 1529.",
+  "SINCE":"c. 1540 (religious sense in English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[protestant]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "religion",
+        "historical"
+      ],
+      "DEF_EN":"Relating to or belonging to any of the Western Christian churches that are not Roman Catholic or Eastern Orthodox, especially those originating in the 16th-century Reformation.",
+      "DEF_ZH":"新教的；抗议宗的。指属于基督教（非罗马天主教或东正教）尤其源于16世纪宗教改革运动的教派。",
+      "SENT_EN":"They attended a Protestant service during their visit to London.",
+      "SENT_ZH":"他们在伦敦访问期间参加了一场新教礼拜。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Lutheran",
+            "Anglican",
+            "Presbyterian",
+            "Methodist"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "Catholic",
+            "Orthodox"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [Protestant]",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "religion"
+      ],
+      "DEF_EN":"An adherent or member of any of the Protestant denominations.",
+      "DEF_ZH":"新教徒；抗议宗信徒。",
+      "SENT_EN":"The conflict between Catholics and Protestants has historical roots in the region.",
+      "SENT_ZH":"该地区天主教徒和新教徒之间的冲突有着历史根源。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Protestantism",
+            "Christian"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "Catholic",
+            "Orthodox"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a [protestant] (against sth)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "rare",
+        "historical",
+        "formal"
+      ],
+      "DEF_EN":"A person who protests, objects, or makes a solemn declaration (general historical use, largely replaced by 'protester' or overshadowed by the religious meaning).",
+      "DEF_ZH":"（罕用/旧式）抗议者；正式声明或宣告者。",
+      "SENT_EN":"He was a fearless protestant against the King's perceived corruption.",
+      "SENT_ZH":"他是一位反对国王腐败的无畏抗议者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "protester",
+            "objector",
+            "declarant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Religious, Historical"
+}

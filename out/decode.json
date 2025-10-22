@@ -1,0 +1,89 @@
+{
+  "WORD":"decode",
+  "IPA":"/diːˈkoʊd/",
+  "CONJUGATES":"decodes | decoding | decoded",
+  "ETYMOLOGY":"From de- (reversal, undoing) + code, modeled on French 'décoder'. The term gained prominence in the mid-20th century with the rise of cryptography and electronic communication.",
+  "SINCE":"Mid 20th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"decode [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "technology",
+        "computing"
+      ],
+      "DEF_EN":"To convert a coded message, signal, or data back into ordinary, intelligible language or form.",
+      "DEF_ZH":"将编码的信息、信号或数据转换回普通、可理解的语言或形式。",
+      "SENT_EN":"The computer program managed to decode the encrypted message in less than a minute.",
+      "SENT_ZH":"计算机程序设法在不到一分钟的时间内解码了加密信息。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "decipher",
+            "decrypt",
+            "unscramble"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "encode",
+            "code",
+            "encrypt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"decode [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "common",
+        "figurative",
+        "linguistics"
+      ],
+      "DEF_EN":"To interpret or understand the meaning of something complex, obscure, or non-verbal.",
+      "DEF_ZH":"解释或理解复杂、晦涩或非语言事物的含义。",
+      "SENT_EN":"It is often difficult to decode the subtle signals of a person's body language.",
+      "SENT_ZH":"通常很难解读一个人肢体语言的细微信号。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interpret",
+            "understand",
+            "read"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"decode [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "technical",
+        "biology",
+        "science"
+      ],
+      "DEF_EN":"In genetics, to translate the information contained in DNA or RNA into the specific sequence of amino acids (proteins).",
+      "DEF_ZH":"（遗传学）将DNA或RNA中包含的信息翻译成特定的氨基酸序列（蛋白质）。",
+      "SENT_EN":"Researchers successfully decoded the sequence of the new viral strain.",
+      "SENT_ZH":"研究人员成功解码了这种新型病毒株的序列。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "translation",
+            "genome"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical (Computing, Linguistics, Science)"
+}

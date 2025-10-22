@@ -1,0 +1,100 @@
+{
+  "WORD":"this",
+  "IPA":"/ðɪs/",
+  "CONJUGATES":"Plural: these",
+  "ETYMOLOGY":"From Old English þes (masculine), þēos (feminine), þis (neuter), ultimately derived from Proto-Germanic demonstrative roots.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"this [noun, singular]",
+      "POS":"det",
+      "POS_TIP":"Determiner: A word that modifies or introduces a noun, specifying quantity, possession, or focus.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used before a singular noun to indicate a person, animal, object, or concept that is near the speaker, newly introduced, or currently being discussed.",
+      "DEF_ZH":"用于单数名词前，指代靠近说话者、刚介绍或正在讨论的人、动物、物体或概念。",
+      "SENT_EN":"Do you prefer this color or that one?",
+      "SENT_ZH":"你更喜欢这个颜色还是那个？",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "that"
+          ]
+        },
+        {
+          "T":"plural",
+          "V":[
+            "these"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"This [is/was/refers...]",
+      "POS":"pron",
+      "POS_TIP":"Pronoun: A word that can function as a noun phrase referring either to a participant in the discourse or to someone or something mentioned elsewhere.",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used alone to refer to the singular person or thing being indicated, identified, or present.",
+      "DEF_ZH":"单独使用，指代被指示、识别或在场的单数人或物。",
+      "SENT_EN":"This is exactly what I was looking for.",
+      "SENT_ZH":"这正是我一直在找的东西。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "that"
+          ]
+        },
+        {
+          "T":"plural",
+          "V":[
+            "these"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"this [adj/adv]",
+      "POS":"adv",
+      "POS_TIP":"Adverb: A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.",
+      "TAGS":[
+        "informal",
+        "degree"
+      ],
+      "DEF_EN":"To such a degree or extent; so (often followed by an indicated demonstration or comparison).",
+      "DEF_ZH":"到如此程度；这么（通常后跟手势或比较）。",
+      "SENT_EN":"I didn't realize the problem was this complicated.",
+      "SENT_ZH":"我没有意识到问题有这么复杂。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "so",
+            "that"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[This is sb]",
+      "POS":"pron",
+      "POS_TIP":"Pronoun: A word that can function as a noun phrase referring either to a participant in the discourse or to someone or something mentioned elsewhere.",
+      "TAGS":[
+        "conversational",
+        "introduction"
+      ],
+      "DEF_EN":"Used in conversation for introducing oneself (especially on the telephone) or introducing another person.",
+      "DEF_ZH":"在谈话中用于自我介绍（尤其在电话中）或介绍他人。",
+      "SENT_EN":"Hello, this is Jane calling from the office.",
+      "SENT_ZH":"你好，我是简，从办公室打电话过来。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

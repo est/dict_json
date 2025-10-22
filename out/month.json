@@ -1,0 +1,58 @@
+{
+  "WORD":"month",
+  "IPA":"/mʌnθ/",
+  "CONJUGATES":"months",
+  "ETYMOLOGY":"From Old English mōnaþ, related to mōna (moon). The period of the month corresponds roughly to the period of the moon's cycle.",
+  "SINCE":"Before 1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] month(s)",
+      "POS":"noun",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "Core concept",
+        "Time unit",
+        "Common"
+      ],
+      "DEF_EN":"Any of the twelve periods of time into which the year is divided, usually consisting of 28, 29, 30, or 31 days.",
+      "DEF_ZH":"一年中被划分成的十二个时间段之一，通常包含28、29、30或31天。",
+      "SENT_EN":"We plan to travel abroad next month for two weeks.",
+      "SENT_ZH":"我们计划下个月出国旅行两周。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "year",
+            "week",
+            "day",
+            "calendar"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] lunar month / [a] synodic month",
+      "POS":"noun",
+      "POS_TIP":"Noun, countable, specialized context",
+      "TAGS":[
+        "Technical",
+        "Astronomy"
+      ],
+      "DEF_EN":"The time required for the Moon to complete one cycle of phases, approximately 29.5 days.",
+      "DEF_ZH":"月球完成一个相位周期所需的时间，约为29.5天（朔望月）。",
+      "SENT_EN":"Early calendars were based directly on the observation of the lunar month.",
+      "SENT_ZH":"早期的日历直接基于对朔望月的观察。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "synodic month",
+            "sidereal month",
+            "lunar cycle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

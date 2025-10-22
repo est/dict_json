@@ -1,0 +1,68 @@
+{
+  "WORD":"somebody",
+  "IPA":"/ˈsʌmbədi/",
+  "CONJUGATES":"somebody's (possessive)",
+  "ETYMOLOGY":"Compound word, formed from Old English sum (some) and bodig (body), meaning 'a person' or 'a collection of parts forming a human'. Developed into 'somebody' in Middle English as an indefinite pronoun.",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"somebody",
+      "POS":"pron",
+      "POS_TIP":"indefinite pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"An unspecified, unnamed, or unknown person; some person.",
+      "DEF_ZH":"某人；有人（指身份不明或未提及的人）。",
+      "SENT_EN":"Somebody must have taken the package from the porch.",
+      "SENT_ZH":"肯定是有人从门廊拿走了包裹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "someone"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "anybody",
+            "everybody",
+            "nobody"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"somebody",
+      "POS":"n",
+      "POS_TIP":"noun (informal)",
+      "TAGS":[
+        "informal",
+        "idiomatic"
+      ],
+      "DEF_EN":"A person of importance, prominence, or high social standing.",
+      "DEF_ZH":"重要人物；有影响力的人。",
+      "SENT_EN":"He always dreamed of being somebody famous.",
+      "SENT_ZH":"他一直梦想着成为一个重要的名人。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "VIP",
+            "notable",
+            "personality"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "nobody"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

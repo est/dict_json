@@ -1,0 +1,91 @@
+{
+  "WORD":"suppose",
+  "IPA":"/səˈpoʊz/",
+  "CONJUGATES":"supposes | supposed | supposing",
+  "ETYMOLOGY":"From Middle English *supposen*, from Old French *supposer*, ultimately from Late Latin *supponere* (to put under, assume), combining *sub-* (under) + *ponere* (to place).",
+  "SINCE":"c. 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"suppose (that) [sth] is true",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "cognitive",
+        "hypothesis"
+      ],
+      "DEF_EN":"To assume that something is true or probable without proof, often for the sake of argument or calculation.",
+      "DEF_ZH":"猜想；假设；认为（某事可能发生或属实，通常用于推理或争论）",
+      "SENT_EN":"Suppose the train is late; what alternative route should we take?",
+      "SENT_ZH":"假设火车晚点了；我们应该走哪条替代路线？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assume",
+            "presume",
+            "hypothesize",
+            "imagine"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "supposition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"be supposed to [do sth]",
+      "POS":"vp + inf",
+      "POS_TIP":"Verb phrase followed by an infinitive; typically used in the passive voice (is/was supposed to)",
+      "TAGS":[
+        "core word",
+        "common",
+        "modal usage",
+        "expectation"
+      ],
+      "DEF_EN":"To be expected, intended, or required to do something, often according to a rule, custom, or schedule.",
+      "DEF_ZH":"应该；被期待（做某事）；按规定（应做某事）",
+      "SENT_EN":"You are not supposed to talk during the performance.",
+      "SENT_ZH":"演出期间你们不应该讲话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "ought to",
+            "required to",
+            "expected to"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"I suppose (that) [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "common",
+        "informal",
+        "opinion"
+      ],
+      "DEF_EN":"To think or believe something, often used to express a tentative opinion or reluctant acceptance ('I suppose so' or 'I guess').",
+      "DEF_ZH":"想；估计；认为（表达不太确定的看法或勉强的接受）",
+      "SENT_EN":"I suppose I can lend you the money, but please pay me back soon.",
+      "SENT_ZH":"我想我可以把钱借给你，但请尽快还我。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "guess",
+            "reckon",
+            "believe"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, found in both formal and informal contexts."
+}

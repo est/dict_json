@@ -1,0 +1,88 @@
+{
+  "WORD":"electrical",
+  "IPA":"/ɪˈlɛktrɪkəl/",
+  "CONJUGATES":"electrically (adv) | electricity (n)",
+  "ETYMOLOGY":"Formed from 'electric' + the suffix '-al'. 'Electric' originates from Modern Latin 'electricus', derived from Greek 'ēlektron' (amber), referring to the property of rubbed amber to attract light objects (static electricity).",
+  "SINCE":"Late 17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"electrical [apparatus/system]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "science",
+        "technical"
+      ],
+      "DEF_EN":"Relating to, operated by, or concerned with electricity.",
+      "DEF_ZH":"与电有关的；使用电力的；关于电学的。",
+      "SENT_EN":"We need to hire a licensed contractor to perform the electrical work.",
+      "SENT_ZH":"我们需要聘请一位持证承包商来进行电气工作。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "voltaic",
+            "galvanic",
+            "power-operated"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "electric",
+            "electricity",
+            "electronic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"electrical [discharge/current]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "science",
+        "physics"
+      ],
+      "DEF_EN":"Producing or transmitting electricity.",
+      "DEF_ZH":"产生或传输电力的。",
+      "SENT_EN":"The storm caused several unusual electrical discharges in the atmosphere.",
+      "SENT_ZH":"暴风雨在大气中引起了几次异常的放电现象。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "charge",
+            "current",
+            "potential"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"electrical [atmosphere/tension]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "figurative",
+        "descriptive"
+      ],
+      "DEF_EN":"Causing a sudden surge of excitement, tension, or anticipation.",
+      "DEF_ZH":"令人兴奋的；充满紧张或激动的（比喻用法）。",
+      "SENT_EN":"There was an electrical tension between the two rivals before the debate began.",
+      "SENT_ZH":"辩论开始前，两位竞争对手之间弥漫着一股紧张的火药味。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "charged",
+            "thrilling",
+            "vibrant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Scientific"
+}

@@ -1,0 +1,66 @@
+{
+  "WORD":"hypodermic",
+  "IPA":"/ˌhaɪpəˈdɜːrmɪk/",
+  "CONJUGATES":"hypodermically (adv.)",
+  "ETYMOLOGY":"Coined in the mid-19th century from Greek hypo- (under) + derma (skin), combined with the suffix -ic.",
+  "SINCE":"c. 1850",
+  "MEANINGS":[
+    {
+      "PATTERN":"hypodermic [injection/tissue]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "medical",
+        "technical",
+        "core word"
+      ],
+      "DEF_EN":"Relating to or situated beneath the epidermis (the skin).",
+      "DEF_ZH":"皮下的；位于表皮下的",
+      "SENT_EN":"The medication requires a hypodermic route of administration.",
+      "SENT_ZH":"这种药物需要皮下注射给药途径。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "subcutaneous",
+            "subdermal"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "intramuscular",
+            "intravenous",
+            "intradermal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a hypodermic",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "medical",
+        "instrument",
+        "colloquial"
+      ],
+      "DEF_EN":"A hypodermic syringe or needle, or an injection given beneath the skin.",
+      "DEF_ZH":"皮下注射器；皮下注射针头；（俗称）皮下注射",
+      "SENT_EN":"The nurse prepared the patient's dose in a fresh hypodermic.",
+      "SENT_ZH":"护士用一个新的皮下注射器准备了病人的剂量。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "syringe",
+            "needle",
+            "shot",
+            "injection"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Medical, technical, commonly used in clinical settings."
+}

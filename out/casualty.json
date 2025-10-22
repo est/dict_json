@@ -1,0 +1,92 @@
+{
+  "WORD":"casualty",
+  "IPA":"/'kæʒ.u.əl.ti/",
+  "CONJUGATES":"casualties",
+  "ETYMOLOGY":"From Late Latin *casualitas* ('chance, accident'), derived from Latin *casualis* ('by chance'), from *casus* ('fall, accident, chance'). Entered English via Middle French. The specific sense of 'person injured or killed' emerged in the 16th century.",
+  "SINCE":"c. 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"casualty",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "military",
+        "disaster",
+        "common"
+      ],
+      "DEF_EN":"A person killed or injured in a war, accident, or disaster.",
+      "DEF_ZH":"伤亡人员；遇难者；受害者（指战争、事故或灾难中死伤的人）。",
+      "SENT_EN":"The bombing raid resulted in numerous civilian casualties.",
+      "SENT_ZH":"这次轰炸造成了大量平民伤亡。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "victim",
+            "fatality",
+            "injured",
+            "wounded"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "triage",
+            "MIA"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a casualty of [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A person or thing that suffers or is destroyed as a direct result of a particular event or action.",
+      "DEF_ZH":"牺牲品；失败的后果；（由于某事而）遭受损失或被摧毁的人或事物。",
+      "SENT_EN":"Many small businesses became a casualty of the rapid technological change.",
+      "SENT_ZH":"许多小企业成了快速技术变革的牺牲品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "victim",
+            "sacrifice",
+            "collateral damage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"casualty (department)",
+      "POS":"n",
+      "POS_TIP":"noun (usually countable or used as an adjective)",
+      "TAGS":[
+        "British English",
+        "medical",
+        "shortened",
+        "informal"
+      ],
+      "DEF_EN":"(In British English, often shortened to 'casualty') The Accident and Emergency (A&E) department of a hospital.",
+      "DEF_ZH":"（英式英语，常缩略）医院的急诊室或急诊部门（事故与急救部门）。",
+      "SENT_EN":"She had to wait three hours in casualty before seeing a doctor.",
+      "SENT_ZH":"在见到医生之前，她在急诊室等了三个小时。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "emergency room",
+            "ER",
+            "A&E"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Journalistic, Military, British Medical (for meaning 3)"
+}

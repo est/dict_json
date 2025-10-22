@@ -1,0 +1,70 @@
+{
+  "WORD":"born",
+  "IPA":"/bɔːrn/",
+  "CONJUGATES":"bear (base) | bore (past simple) | born (past participle, birth meaning) | borne (past participle, carrying/enduring meaning)",
+  "ETYMOLOGY":"From Middle English, past participle of the verb beran (to bear, to carry, to give birth). Old English boren.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] be born [somewhere/at a time]",
+      "POS":"adj (past participle)",
+      "POS_TIP":"Adjective functioning as the past participle of the verb 'to bear' (to give birth).",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Existing as a result of being brought forth from a mother's womb.",
+      "DEF_ZH":"出生的；诞生的；来到人世的。",
+      "SENT_EN":"He was born in a small village and moved to the city later in life.",
+      "SENT_ZH":"他出生在一个小村庄，后来搬到了城市。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "birth",
+            "bear",
+            "newborn"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a born [noun]",
+      "POS":"adj",
+      "POS_TIP":"Adjective used attributively.",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"Having a specific natural quality or talent from birth; naturally suited for a particular role or activity.",
+      "DEF_ZH":"天生的；与生俱来的；具备天赋的。",
+      "SENT_EN":"She is a born musician, mastering instruments effortlessly.",
+      "SENT_ZH":"她是一位天生的音乐家，毫不费力地掌握各种乐器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "innate",
+            "natural",
+            "inherent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"born and bred [somewhere]",
+      "POS":"idiom",
+      "POS_TIP":"Fixed phrase used as an adjective.",
+      "TAGS":[
+        "idiom",
+        "descriptive"
+      ],
+      "DEF_EN":"Used to describe someone who was born and grew up in a particular place, implying deep roots and familiarity with that location or culture.",
+      "DEF_ZH":"土生土长的；土著的（指在一个地方出生并成长）。",
+      "SENT_EN":"Although he travels a lot, he remains a Texan, born and bred.",
+      "SENT_ZH":"尽管他经常旅行，但他仍然是土生土长的德克萨斯人。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General"
+}

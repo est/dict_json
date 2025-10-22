@@ -1,0 +1,64 @@
+{
+  "WORD":"vicinity",
+  "IPA":"/vɪˈsɪnɪti/",
+  "CONJUGATES":"vicinities",
+  "ETYMOLOGY":"From Middle French *vicinité*, derived from Latin *vicinitas* ('neighborliness, neighborhood'), from *vicinus* ('neighboring, near').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"the vicinity (of [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"The area near or surrounding a particular place; proximity.",
+      "DEF_ZH":"附近地区；周围环境；临近区域。",
+      "SENT_EN":"There is a police station in the immediate vicinity of the park.",
+      "SENT_ZH":"公园附近就有一个警察局。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "neighborhood",
+            "area",
+            "surroundings",
+            "proximity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "distance",
+            "remoteness"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in the vicinity of [a number/value]",
+      "POS":"n. phrase",
+      "POS_TIP":"noun phrase",
+      "TAGS":[
+        "Idiomatic",
+        "Numerical"
+      ],
+      "DEF_EN":"Approximately; roughly around a specified number or value.",
+      "DEF_ZH":"大约；在...左右（用于数值、范围或估计）。",
+      "SENT_EN":"The final budget is expected to be in the vicinity of five million dollars.",
+      "SENT_ZH":"最终预算预计会在五百万美元左右。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "about",
+            "approximately",
+            "around"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

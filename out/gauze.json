@@ -1,0 +1,88 @@
+{
+  "WORD":"gauze",
+  "IPA":"/ɡɑːz/",
+  "CONJUGATES":"gauzes (plural noun) | gauzed (past tense) | gauging (present participle)",
+  "ETYMOLOGY":"From Middle French gaze (thin fabric), possibly derived from Arabic qazz (raw silk), or potentially named after Gaza, a city known for weaving in Palestine.",
+  "SINCE":"c. 1560s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (material)",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable, countable)",
+      "TAGS":[
+        "core word",
+        "medical",
+        "material"
+      ],
+      "DEF_EN":"A thin, transparent fabric with a loose, open weave, often made of cotton, typically used for surgical dressings, bandages, or sometimes in clothing.",
+      "DEF_ZH":"（尤指醫用）紗布；薄紗；輕薄的織物。",
+      "SENT_EN":"The medic cleaned the abrasion and covered it with sterile gauze.",
+      "SENT_ZH":"醫務人員清潔了擦傷處，並用無菌紗布覆蓋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bandage",
+            "dressing",
+            "muslin"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "chiffon",
+            "net"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a gauze of sth] (appearance/screen)",
+      "POS":"n",
+      "POS_TIP":"noun (countable)",
+      "TAGS":[
+        "figurative",
+        "literary"
+      ],
+      "DEF_EN":"A thin, hazy film or veil-like appearance, or a fine wire mesh used as a screen.",
+      "DEF_ZH":"薄霧；薄紗般的覆蓋物；（化學中）金屬網（如加熱用）。",
+      "SENT_EN":"A slight gauze of fog hung over the lake at sunrise.",
+      "SENT_ZH":"日出時，一層薄薄的霧紗籠罩在湖面上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "haze",
+            "veil",
+            "film",
+            "mesh"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] gauze [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "technical",
+        "less common"
+      ],
+      "DEF_EN":"To cover, wrap, or screen something with gauze.",
+      "DEF_ZH":"用紗布包紮或覆蓋。",
+      "SENT_EN":"He gauzed the small burn before applying the ointment.",
+      "SENT_ZH":"他在塗抹藥膏之前，先用紗布包紮了小小的燒傷處。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dress",
+            "bind",
+            "wrap"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, particularly common in medical contexts."
+}

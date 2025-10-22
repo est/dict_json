@@ -1,0 +1,81 @@
+{
+  "WORD":"pregnant",
+  "IPA":"/ˈprɛɡnənt/",
+  "CONJUGATES":"pregnancy | pregnantly",
+  "ETYMOLOGY":"From Latin praegnantem (nominative praegnans, 'with child'), possibly related to prae- ('before') and the root of gnasci ('to be born'). First attested in English in the sense of 'full, abounding'.",
+  "SINCE":"Late 14th century (for 'with child' sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[female/woman/animal] is pregnant",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "biology",
+        "medical"
+      ],
+      "DEF_EN":"(Of a female human or animal) carrying developing offspring within the body.",
+      "DEF_ZH":"怀孕的；妊娠的；有身孕的。",
+      "SENT_EN":"She announced she was pregnant with twins last week.",
+      "SENT_ZH":"她上周宣布怀了双胞胎。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "expecting",
+            "gravid",
+            "enceinte"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "conception",
+            "gestation",
+            "mother"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pregnant [silence/statement/moment]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"Full of meaning; significant or highly suggestive (often of serious matters or consequences).",
+      "DEF_ZH":"意味深长的；富含意义的；暗示着（严重后果）的。",
+      "SENT_EN":"A pregnant silence followed his ambiguous statement, suggesting something important was left unsaid.",
+      "SENT_ZH":"他模棱两可的声明后，是一阵意味深长的沉默，暗示着有重要的事情没有说出来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meaningful",
+            "significant",
+            "suggestive",
+            "loaded"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pregnant [idea/theme]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "rare",
+        "archaic"
+      ],
+      "DEF_EN":"Full or abundant; rich in contents or capability.",
+      "DEF_ZH":"充满的；富饶的；具有丰富内容的。",
+      "SENT_EN":"The novel was pregnant with revolutionary ideas.",
+      "SENT_ZH":"这本小说充满了革命性的思想。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

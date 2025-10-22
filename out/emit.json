@@ -1,0 +1,90 @@
+{
+  "WORD":"emit",
+  "IPA":"/ɪˈmɪt/",
+  "CONJUGATES":"emits | emitting | emitted",
+  "ETYMOLOGY":"From Latin emittere (ex- 'out' + mittere 'send'). First recorded meaning 'to send out, cast forth'.",
+  "SINCE":"Mid-17th Century (c. 1640s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"emit [sth] (light/heat/gas/radiation)",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "environmental"
+      ],
+      "DEF_EN":"To produce and send out (a substance or energy), especially heat, light, gas, or radiation.",
+      "DEF_ZH":"发出；放射；散发（光、热、气、辐射等）",
+      "SENT_EN":"Cars emit carbon dioxide, which contributes to global warming.",
+      "SENT_ZH":"汽车排放二氧化碳，这是导致全球变暖的原因之一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discharge",
+            "release",
+            "radiate",
+            "give off",
+            "eject"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "absorb",
+            "receive",
+            "intake"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"emit [sth] (sound/statement)",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"To utter or produce a sound or statement.",
+      "DEF_ZH":"发出（声音）；发表（言论）",
+      "SENT_EN":"She emitted a small cry of surprise when she saw the gift.",
+      "SENT_ZH":"当她看到礼物时，她发出了小声的惊叫。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "utter",
+            "voice",
+            "articulate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"emit [sth] (currency/securities)",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "dated",
+        "finance",
+        "formal"
+      ],
+      "DEF_EN":"To issue or put into circulation (currency, bonds, or securities). (Now usually replaced by 'issue'.)",
+      "DEF_ZH":"发行；流通（货币、证券等）",
+      "SENT_EN":"The central bank has the authority to emit new banknotes.",
+      "SENT_ZH":"中央银行有权发行新钞票。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "issue",
+            "circulate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commonly used in scientific, technical, and environmental discussions."
+}

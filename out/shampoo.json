@@ -1,0 +1,85 @@
+{
+  "WORD":"shampoo",
+  "IPA":"/ʃæmˈpuː/",
+  "CONJUGATES":"shampoos | shampooed | shampooing",
+  "ETYMOLOGY":"From Anglo-Indian, derived from Hindi chāmpō (imperative of chāmpnā 'to press, knead, massage'). Originally referred to the act of head massage in India, adopted into English in the 18th century. The meaning shifted to the specific cleansing agent for hair in the mid-19th century.",
+  "SINCE":"c. 1762 (as massage); c. 1860 (as hair cleanser)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "hygiene",
+        "everyday"
+      ],
+      "DEF_EN":"A liquid preparation containing detergents, often fragranced, used specifically for washing the hair and scalp.",
+      "DEF_ZH":"一种含有洗涤剂，通常带有香味的液体制剂，专用于清洗头发和头皮。",
+      "SENT_EN":"I ran out of my favorite anti-dandruff shampoo yesterday.",
+      "SENT_ZH":"我昨天用完了我最喜欢的去屑洗发水。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hair cleanser",
+            "hair wash"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "conditioner",
+            "soap"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shampoo [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object)",
+      "TAGS":[
+        "action",
+        "routine"
+      ],
+      "DEF_EN":"To wash the hair or scalp using shampoo.",
+      "DEF_ZH":"用洗发水清洗头发或头皮。",
+      "SENT_EN":"You should shampoo your hair thoroughly and then rinse.",
+      "SENT_ZH":"你应该彻底清洗（你的）头发，然后冲洗干净。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wash",
+            "cleanse"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (cleaner) | shampoo [sth] (to clean)",
+      "POS":"n | vtr",
+      "POS_TIP":"Noun or Transitive verb",
+      "TAGS":[
+        "specialized",
+        "cleaning"
+      ],
+      "DEF_EN":"(N) A preparation used for cleaning fabrics like carpets or upholstery; (V) To clean such fabrics using this preparation.",
+      "DEF_ZH":"(名) 用于清洁地毯或家具布料的专用制剂；(动) 用该制剂清洁这些布料。",
+      "SENT_EN":"We need to hire a machine to shampoo the basement carpet before winter.",
+      "SENT_ZH":"我们需要租一台机器在冬天之前清洗地下室的地毯。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "carpet cleaner",
+            "steam clean",
+            "upholstery cleaner"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage"
+}

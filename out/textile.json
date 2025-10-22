@@ -1,0 +1,66 @@
+{
+  "WORD":"textile",
+  "IPA":"/'tɛkstaɪl/",
+  "CONJUGATES":"textiles | textile's | textiles'",
+  "ETYMOLOGY":"From Latin *textilis* 'woven', derived from *texere* 'to weave'.",
+  "SINCE":"Mid-17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] textile",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "industry"
+      ],
+      "DEF_EN":"Any cloth or fabric, especially one made by weaving or knitting raw fibers.",
+      "DEF_ZH":"织物；纺织品；布料。通常指通过编织或针织原材料制成的布。",
+      "SENT_EN":"The shop specializes in organic cotton textiles.",
+      "SENT_ZH":"这家商店专营有机棉纺织品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "fabric",
+            "cloth",
+            "material",
+            "stuff"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "fiber",
+            "yarn",
+            "apparel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"textile [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "technical",
+        "industry specific"
+      ],
+      "DEF_EN":"Relating to the process of weaving, knitting, or the manufacturing of cloth.",
+      "DEF_ZH":"纺织的；与纺织业或制造布料过程相关的。",
+      "SENT_EN":"The decline of the local textile industry led to job losses.",
+      "SENT_ZH":"当地纺织业的衰退导致了失业。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "weaving",
+            "garment",
+            "industrial"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical"
+}

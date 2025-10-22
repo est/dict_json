@@ -1,0 +1,80 @@
+{
+  "WORD":"uncle",
+  "IPA":"/ˈʌŋkəl/",
+  "CONJUGATES":"uncles (plural)",
+  "ETYMOLOGY":"From Middle English, via Anglo-Norman uncle, from Latin avunculus ('maternal uncle', mother's brother), diminutive of avus ('grandfather').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s uncle",
+      "POS":"noun",
+      "POS_TIP":"A person, a male relative",
+      "TAGS":[
+        "core word",
+        "common",
+        "family"
+      ],
+      "DEF_EN":"The brother of one's father or mother, or the husband of one's aunt.",
+      "DEF_ZH":"伯父；叔父；舅父；姑父；姨父（父母的兄弟或姑姨的丈夫）。",
+      "SENT_EN":"My uncle taught me how to fish when I was young.",
+      "SENT_ZH":"我小时候，我叔叔教我如何钓鱼。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Aunt",
+            "Nephew",
+            "Niece",
+            "Parent"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Uncle [name]",
+      "POS":"noun",
+      "POS_TIP":"A form of address or title",
+      "TAGS":[
+        "informal",
+        "affectionate",
+        "cultural"
+      ],
+      "DEF_EN":"An affectionate or respectful term used to address an older male friend, acquaintance, or neighbor, especially by children in certain cultures.",
+      "DEF_ZH":"尊称（尤其在某些文化中，孩子们对年长的男性朋友或邻居的亲切或尊重的称呼）。",
+      "SENT_EN":"Hello, Uncle John! It's good to see you.",
+      "SENT_ZH":"约翰叔叔，您好！很高兴见到您。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Auntie"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Say uncle!",
+      "POS":"interjection/phrase",
+      "POS_TIP":"Used as part of an idiom indicating defeat or surrender",
+      "TAGS":[
+        "idiom",
+        "slang",
+        "US/UK"
+      ],
+      "DEF_EN":"Used in the phrase 'say uncle,' meaning to surrender or admit defeat, often in a physical struggle or argument.",
+      "DEF_ZH":"（常用于“喊叔叔”或“说叔叔”的固定短语中）投降，认输。",
+      "SENT_EN":"He wouldn't let go of the rope until his younger brother finally said uncle.",
+      "SENT_ZH":"他一直抓着绳子不放，直到他弟弟最终认输为止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "Surrender",
+            "Submit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, everyday language."
+}

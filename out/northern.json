@@ -1,0 +1,76 @@
+{
+  "WORD":"northern",
+  "IPA":"/ˈnɔːrðərn/",
+  "CONJUGATES":"northerly (adj) | northerner (n)",
+  "ETYMOLOGY":"From Middle English northerne, from Old English norþerne, equivalent to north + -ern (suffix forming adjectives denoting direction or origin).",
+  "SINCE":"Old English (pre-1100)",
+  "MEANINGS":[
+    {
+      "PATTERN":"northern [region/hemisphere/part]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"Situated in, directed toward, or characteristic of the north or the Northern Hemisphere.",
+      "DEF_ZH":"位于北方、面向北方或具有北方（地区）特征的；北半球的。",
+      "SENT_EN":"The aurora borealis is a phenomenon commonly observed in the northern latitudes.",
+      "SENT_ZH":"北极光是北部纬度地区常见的现象。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "northward",
+            "northerly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "southern",
+            "eastern",
+            "western"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"northern [culture/accent/tradition]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "descriptive",
+        "regional"
+      ],
+      "DEF_EN":"Relating to or typical of people or culture associated with the northern part of a specific country or region.",
+      "DEF_ZH":"与某一特定国家或地区的北部人口或文化相关的，或为其典型的特征。",
+      "SENT_EN":"He found the northern hospitality warm and welcoming, despite the harsh winters.",
+      "SENT_ZH":"他发现尽管冬季严寒，北方人的热情好客却十分温暖人心。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"northern [wind/exposure]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "meteorology"
+      ],
+      "DEF_EN":"(Of wind, light, or weather) Coming from the direction of the north.",
+      "DEF_ZH":"（指风、光线或天气）来自北方的。",
+      "SENT_EN":"The house has a northern exposure, which means it receives less direct sunlight.",
+      "SENT_ZH":"这栋房屋朝北，意味着它接受的阳光直射较少。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "northerly"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

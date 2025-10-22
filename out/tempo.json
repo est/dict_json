@@ -1,0 +1,82 @@
+{
+  "WORD":"tempo",
+  "IPA":"/ˈtɛm.poʊ/",
+  "CONJUGATES":"tempos | tempi (pl.)",
+  "ETYMOLOGY":"From Italian 'tempo' (time, measure in music), from Latin 'tempus' (time).",
+  "SINCE":"Late 18th century (in English usage)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[music] tempo",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "music",
+        "common"
+      ],
+      "DEF_EN":"The speed or rate of movement, typically defining the pace at which a piece of music should be played.",
+      "DEF_ZH":"（音乐）速度，拍子；乐曲的节拍快慢。",
+      "SENT_EN":"The conductor set a rapid tempo for the final movement of the symphony.",
+      "SENT_ZH":"指挥为交响乐的终曲乐章设定了一个快速的节奏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pace",
+            "rate",
+            "beat",
+            "rhythm"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "allegro",
+            "adagio",
+            "presto"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the tempo of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"The characteristic rate or rhythm of activity or life.",
+      "DEF_ZH":"节奏；步调；活动速率。",
+      "SENT_EN":"It took him a few weeks to adjust to the frantic tempo of city life.",
+      "SENT_ZH":"他花了几周时间才适应快节奏的城市生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pace",
+            "rate",
+            "speed",
+            "cadence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(gain/lose) a tempo",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "niche",
+        "game theory",
+        "chess"
+      ],
+      "DEF_EN":"In strategy games like chess, a move or turn gained (or lost) that contributes to strategic advantage, often by forcing the opponent to make a defensive move.",
+      "DEF_ZH":"（国际象棋等）着法优势；一步棋的先机（通过迫使对手做出非理想移动而获得的时间优势）。",
+      "SENT_EN":"The tactical sacrifice allowed Black to gain a crucial tempo in the endgame.",
+      "SENT_ZH":"这次战术性牺牲让黑方在残局中获得了关键的着法优势。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"formal to general usage"
+}

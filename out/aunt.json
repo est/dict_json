@@ -1,0 +1,55 @@
+{
+  "WORD":"aunt",
+  "IPA":"/ænt/ | /ɑːnt/",
+  "CONJUGATES":"aunts",
+  "ETYMOLOGY":"From Middle English aunte, from Old French ante, from Latin amita ('paternal aunt').",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s aunt",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "family",
+        "common"
+      ],
+      "DEF_EN":"The sister of one's father or mother, or the wife of one's uncle.",
+      "DEF_ZH":"父母的姐妹（姑母、姨母）或叔伯/舅父的妻子（婶母、舅母）。",
+      "SENT_EN":"My aunt works as a nurse at the local hospital.",
+      "SENT_ZH":"我的姑姑/阿姨在当地医院当护士。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "uncle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Aunt [Name]",
+      "POS":"n",
+      "POS_TIP":"noun (title)",
+      "TAGS":[
+        "informal",
+        "title",
+        "regional"
+      ],
+      "DEF_EN":"A familiar or respectful term used to address an older woman who is not necessarily related by blood, common in certain cultures (e.g., the Southern US, or parts of the Commonwealth).",
+      "DEF_ZH":"一种对年长女性的亲切或尊重的称呼，尤其在某些文化或地区，即使她不是亲属。",
+      "SENT_EN":"It was polite to always address our neighbor as Aunt Carol.",
+      "SENT_ZH":"称呼我们的邻居为卡罗尔阿姨总是很有礼貌的。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "uncle",
+            "grandma"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used in daily conversation and familial contexts."
+}

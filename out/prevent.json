@@ -1,0 +1,68 @@
+{
+  "WORD":"prevent",
+  "IPA":"/prɪˈvɛnt/",
+  "CONJUGATES":"prevents | preventing | prevented",
+  "ETYMOLOGY":"From Latin praevenire (prae- 'before' + venire 'come'), meaning 'to anticipate' or 'forestall'. The meaning shifted in English from 'to anticipate' to 'to stop or hinder' around the 15th century.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"prevent [sth] | prevent [sb] from [doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Core",
+        "Common"
+      ],
+      "DEF_EN":"To stop something from happening or to stop someone from doing something; to make an action impossible.",
+      "DEF_ZH":"阻止或避免某事发生；妨碍某人做某事。",
+      "SENT_EN":"The new security measures are designed to prevent unauthorized access.",
+      "SENT_ZH":"新的安全措施旨在防止未经授权的访问。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hinder",
+            "impede",
+            "obstruct",
+            "deter",
+            "avert",
+            "preclude"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "allow",
+            "permit",
+            "facilitate",
+            "encourage"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"prevent [sb/sth] (Archaic)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Archaic",
+        "Religious"
+      ],
+      "DEF_EN":"To anticipate, or to go before someone; to guide or precede (often used in religious texts).",
+      "DEF_ZH":"（古语，尤见于宗教文本）预先指引；先行。",
+      "SENT_EN":"Prevent us, O Lord, in all our doings with thy most gracious favour. (Book of Common Prayer)",
+      "SENT_ZH":"（公祷书）主啊，求祢以最仁慈的恩惠引导我们所有的行动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precede",
+            "anticipate",
+            "forestall"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal, Technical"
+}

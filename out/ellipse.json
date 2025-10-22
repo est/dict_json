@@ -1,0 +1,59 @@
+{
+  "WORD":"ellipse",
+  "IPA":"/ɪˈlɪps/",
+  "CONJUGATES":"ellipses (plural) | elliptic (adj) | elliptical (adj)",
+  "ETYMOLOGY":"From Latin *ellipsis*, from Greek *élleipsis* ('omission', 'falling short'). Introduced into geometry by Apollonius of Perga (c. 200 BC) to describe the conic section that 'falls short' of being parallel to the side of the cone.",
+  "SINCE":"Late 16th Century (specifically in the geometric sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ellipse",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or a particular one.",
+      "TAGS":[
+        "core word",
+        "technical",
+        "geometry",
+        "astronomy"
+      ],
+      "DEF_EN":"A regular oval shape, a closed plane curve traced by a point moving such that the sum of the distances from two fixed points (foci) is constant.",
+      "DEF_ZH":"椭圆；椭圆形。平面内到两定点（焦点）的距离之和为常数的点的轨迹。",
+      "SENT_EN":"Kepler discovered that planetary orbits follow an elliptical path, not a perfect circle.",
+      "SENT_ZH":"开普勒发现行星轨道遵循椭圆形路径，而不是一个完美的圆。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "oval",
+            "circle",
+            "parabola",
+            "hyperbola",
+            "focus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"ellipse",
+      "POS":"noun",
+      "POS_TIP":"Noun: a word (other than a pronoun) used to identify any of a class of people, places, or things, or a particular one.",
+      "TAGS":[
+        "rare",
+        "typography"
+      ],
+      "DEF_EN":"An alternative, less common term for 'ellipsis' (the punctuation mark '...').",
+      "DEF_ZH":"（罕用）省略号（常与 'ellipsis' 混淆）。",
+      "SENT_EN":"He mistakenly referred to the three dots as an ellipse instead of an ellipsis.",
+      "SENT_ZH":"他错误地将这三个点称为 'ellipse' 而非 'ellipsis' (省略号)。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ellipsis",
+            "punctuation"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Mathematical, Scientific"
+}

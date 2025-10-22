@@ -1,0 +1,67 @@
+{
+  "WORD":"deflect",
+  "IPA":"/dɪˈflɛkt/",
+  "CONJUGATES":"deflects | deflected | deflecting",
+  "ETYMOLOGY":"From Latin dēflectere, from dē- ('away from') + flectere ('to bend, to curve').",
+  "SINCE":"Mid 16th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"deflect [sth]",
+      "POS":"vtr | vit",
+      "POS_TIP":"verb, transitive or intransitive",
+      "TAGS":[
+        "core word",
+        "physical action",
+        "common"
+      ],
+      "DEF_EN":"To cause something, especially a moving object, to change direction after hitting something; or, for an object to change its own direction.",
+      "DEF_ZH":"使（某物，尤指移动的物体）转向或偏离原来的方向；或指物体自身方向发生改变。",
+      "SENT_EN":"The goalie managed to deflect the puck just over the crossbar.",
+      "SENT_ZH":"守门员设法将冰球挡开，使其擦着横梁飞过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "divert",
+            "turn aside",
+            "rebound",
+            "ricochet"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "deflection",
+            "deflector"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deflect [sth] (e.g., criticism, blame, attention)",
+      "POS":"vtr",
+      "POS_TIP":"verb, transitive",
+      "TAGS":[
+        "core word",
+        "metaphorical",
+        "social"
+      ],
+      "DEF_EN":"To prevent someone or something (like criticism, blame, or attention) from being directed towards oneself or a particular issue.",
+      "DEF_ZH":"转移（注意力、批评或责任），避免被针对或被关注。",
+      "SENT_EN":"The politician tried to deflect criticism by attacking the opposition party.",
+      "SENT_ZH":"这位政治家试图通过攻击反对党来转移批评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "parry",
+            "evade",
+            "ward off",
+            "shift"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

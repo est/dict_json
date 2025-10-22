@@ -1,0 +1,87 @@
+{
+  "WORD":"editorial",
+  "IPA":"/ˌɛdɪˈtɔːriəl/",
+  "CONJUGATES":"editorials (n. pl.) | editorially (adv.)",
+  "ETYMOLOGY":"Formed from 'editor' (from Latin ēditor 'publisher, producer') + the adjective suffix '-ial'.",
+  "SINCE":"Early 19th century (c. 1830s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[An] editorial",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "journalism",
+        "politics"
+      ],
+      "DEF_EN":"A newspaper or magazine article written by or on behalf of an editor or publisher, giving an opinion on a topical issue.",
+      "DEF_ZH":"社论；（报纸、杂志的）评论文章，通常代表编辑部或出版者的观点。",
+      "SENT_EN":"The front-page editorial called for stricter environmental regulations.",
+      "SENT_ZH":"头版社论呼吁制定更严格的环境法规。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "leader",
+            "leading article",
+            "opinion piece"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "column",
+            "op-ed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"editorial [sth]",
+      "POS":"adjective",
+      "POS_TIP":"adjective modifying a noun",
+      "TAGS":[
+        "core word",
+        "publishing"
+      ],
+      "DEF_EN":"Relating to the act of editing or the responsibilities of an editor; relating to the content and presentation of a publication.",
+      "DEF_ZH":"编辑的；与编辑工作或内容相关的。",
+      "SENT_EN":"We need to finalize the editorial calendar for the next quarter.",
+      "SENT_ZH":"我们需要敲定下一季度的编辑日程表。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "editing",
+            "publishing",
+            "proofreading"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"editorial [tone/comment]",
+      "POS":"adjective",
+      "POS_TIP":"adjective modifying a noun",
+      "TAGS":[
+        "descriptive",
+        "formal"
+      ],
+      "DEF_EN":"Expressing an opinion or perspective rather than merely reporting facts, often implying a lack of objectivity.",
+      "DEF_ZH":"评论性的；带有主观判断的（指报道或写作风格）。",
+      "SENT_EN":"Critics complained that the documentary adopted an overly editorial stance on the issue.",
+      "SENT_ZH":"批评者抱怨这部纪录片对这个问题采取了过于主观的立场。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "objective",
+            "factual",
+            "neutral"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal (Journalism, Publishing, Media)"
+}

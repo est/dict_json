@@ -1,0 +1,58 @@
+{
+  "WORD":"meanwhile",
+  "IPA":"/ˈmiːnwaɪl/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English mean-while, compounded from mean (meaning 'intervening, intermediate') and while (meaning 'time, period').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sentence 1]; meanwhile, [sentence 2]",
+      "POS":"adv",
+      "POS_TIP":"Adverb: A word that modifies or qualifies a verb, adjective, or other adverb, often expressing time or circumstance.",
+      "TAGS":[
+        "core word",
+        "time reference",
+        "common"
+      ],
+      "DEF_EN":"During the time that something else is happening.",
+      "DEF_ZH":"在此期间；与此同时；在同一时间。",
+      "SENT_EN":"The computer will install the updates; meanwhile, I can check my emails.",
+      "SENT_ZH":"电脑将安装更新；在此期间，我可以查看我的电子邮件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "in the meantime",
+            "in the interim",
+            "at the same time",
+            "concurrently"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Meanwhile, [shift focus]",
+      "POS":"adv",
+      "POS_TIP":"Adverb, often functioning as a conjunctive adverb.",
+      "TAGS":[
+        "narrative shift",
+        "transition word"
+      ],
+      "DEF_EN":"Used to introduce a different but simultaneous event, often used to shift the focus in a narrative.",
+      "DEF_ZH":"（叙事中用于转换场景或视角）在另一边；却说；而。",
+      "SENT_EN":"The hero raced towards the castle gate. Meanwhile, the villain was setting a trap inside the main hall.",
+      "SENT_ZH":"英雄冲向城堡大门。而与此同时，反派正在主厅里设置陷阱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conversely",
+            "on the other hand",
+            "alternatively"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

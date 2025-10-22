@@ -1,0 +1,36 @@
+{
+  "WORD":"ampere",
+  "IPA":"/ˈæmpɪər/",
+  "CONJUGATES":"amperes (plural) | A (symbol)",
+  "ETYMOLOGY":"Named after André-Marie Ampère (1775–1836), the French physicist and mathematician who is considered one of the founders of classical electromagnetism.",
+  "SINCE":"1881 (Officially adopted by the International Congress of Electricians)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ampere",
+      "POS":"noun",
+      "POS_TIP":"Base unit of electric current in the International System of Units (SI)",
+      "TAGS":[
+        "core word",
+        "science",
+        "physics",
+        "SI unit"
+      ],
+      "DEF_EN":"The base SI unit of electric current, equal to one coulomb per second, or the constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed one metre apart in vacuum, would produce between these conductors a force equal to 2 × 10⁻⁷ newton per metre of length.",
+      "DEF_ZH":"国际单位制（SI）中电流的基本单位，符号为 A，等于每秒一库仑的电荷量。在旧定义中，它表示在真空内相距一米的两根无限长平行直导线中，流过相等恒定电流，且导线间每米长度受力为 2 × 10⁻⁷ 牛顿时的电流强度。",
+      "SENT_EN":"The typical household circuit breaker will trip if the current exceeds fifteen amperes.",
+      "SENT_ZH":"如果电流超过十五安培，典型的家用断路器就会跳闸。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "volt",
+            "ohm",
+            "watt",
+            "coulomb"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal, scientific, technical"
+}

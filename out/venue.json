@@ -1,0 +1,67 @@
+{
+  "WORD":"venue",
+  "IPA":"/ˈvɛnjuː/",
+  "CONJUGATES":"venues",
+  "ETYMOLOGY":"From Old French venue 'a coming, arrival', feminine past participle of venir 'to come'. Originally referred to the place of arrival, later specialized in legal contexts (place of trial) and then broadened to mean a specific location for an event.",
+  "SINCE":"15th century (legal context); late 18th century (general use)",
+  "MEANINGS":[
+    {
+      "PATTERN":"venue (for sth)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "events"
+      ],
+      "DEF_EN":"The location where a public event, meeting, concert, or sporting competition takes place.",
+      "DEF_ZH":"举行公共活动、会议、音乐会或体育比赛的地点或场所。",
+      "SENT_EN":"We need to book a suitable venue for the annual conference next month.",
+      "SENT_ZH":"我们下个月需要预订一个合适的场所来举办年度会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "location",
+            "site",
+            "facility",
+            "arena",
+            "hall",
+            "stadium"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "location",
+            "setting"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"venue",
+      "POS":"n (law)",
+      "POS_TIP":"noun (legal terminology)",
+      "TAGS":[
+        "formal",
+        "legal term"
+      ],
+      "DEF_EN":"The proper geographical location where a trial or legal hearing should be held; the jurisdiction from which a jury is drawn.",
+      "DEF_ZH":"(法律) 审判案件的管辖地或地点；陪审团的选区。",
+      "SENT_EN":"The defense moved for a change of venue, arguing that the local press had prejudiced the potential jury pool.",
+      "SENT_ZH":"辩方要求更改审判地点（管辖区），理由是当地媒体对潜在的陪审团产生了偏见。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "jurisdiction",
+            "forum",
+            "locale"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Business, Legal"
+}

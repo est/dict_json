@@ -1,0 +1,72 @@
+{
+  "WORD":"constrain",
+  "IPA":"/kənˈstreɪn/",
+  "CONJUGATES":"constrains | constrained | constraining",
+  "ETYMOLOGY":"From Middle English constreinen, from Old French constraindre, from Latin constringere (con- 'together' + stringere 'to tie, bind tight').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"constrain [sth] | constrain [sb]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core word",
+        "Formal"
+      ],
+      "DEF_EN":"To restrict or limit the scope, extent, or activity of something or someone.",
+      "DEF_ZH":"限制；约束；限定（范围、程度或活动）",
+      "SENT_EN":"The current economic climate will constrain the company's expansion plans.",
+      "SENT_ZH":"当前的经济形势将限制公司的扩张计划。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrict",
+            "limit",
+            "confine",
+            "curb"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "release",
+            "free",
+            "enable"
+          ]
+        },
+        {
+          "T":"derivative",
+          "V":[
+            "constraint"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"constrain [sb] to [do sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Formal",
+        "Passive voice common"
+      ],
+      "DEF_EN":"To compel or force someone to take a particular action or follow a certain course.",
+      "DEF_ZH":"强迫；迫使（某人做某事）",
+      "SENT_EN":"He felt constrained to resign following the scandal.",
+      "SENT_ZH":"丑闻发生后，他觉得自己不得不辞职。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "compel",
+            "force",
+            "oblige",
+            "pressure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Formal, Technical"
+}

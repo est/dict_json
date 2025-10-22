@@ -1,0 +1,66 @@
+{
+  "WORD":"bandage",
+  "IPA":"/ˈbæn.dɪdʒ/",
+  "CONJUGATES":"bandages (n. pl.) | bandaging (v. pres. p.) | bandaged (v. pt. pp.)",
+  "ETYMOLOGY":"From Middle French *bandage*, derived from *bande* (strip, band) + *-age* (suffix indicating action or result).",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] bandage [on sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"A long strip of cloth or other material used to bind up a wound, protect an injury, or hold a dressing in place.",
+      "DEF_ZH":"用于包扎伤口、保护受伤部位或固定敷料的长条布料或其他材料；绷带。",
+      "SENT_EN":"She needed to change the bandage on her knee every day.",
+      "SENT_ZH":"她需要每天更换膝盖上的绷带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dressing",
+            "gauze",
+            "wrap",
+            "plaster"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tourniquet",
+            "sling"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bandage [sth/sb] (up)",
+      "POS":"vtr.",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"To cover, bind, or dress a wound or an injured part of the body with a strip of material.",
+      "DEF_ZH":"用绷带包扎（伤口或受伤的身体部位）。",
+      "SENT_EN":"The nurse quickly bandaged the cut on his arm.",
+      "SENT_ZH":"护士迅速包扎了他手臂上的伤口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dress",
+            "bind",
+            "wrap"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Medical"
+}

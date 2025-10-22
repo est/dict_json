@@ -1,0 +1,100 @@
+{
+  "WORD":"gossip",
+  "IPA":"/ˈɡɑːsɪp/",
+  "CONJUGATES":"gossips (n) | gossips (v) | gossiped | gossiping",
+  "ETYMOLOGY":"From Middle English gossib (God-sib), meaning 'godparent' (a person related in God). By the 16th century, the meaning shifted to 'familiar friend' and then to 'person given to idle talk' and eventually 'the talk itself'.",
+  "SINCE":"c. 1350 (original meaning); c. 1570 (modern meaning)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"n uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Informal and often unnecessary or untrue talk about the private lives of other people.",
+      "DEF_ZH":"闲言碎语；流言蜚语（关于他人私生活的不正式、常带有负面或不真实的言论）。",
+      "SENT_EN":"The tabloid newspaper is full of celebrity gossip.",
+      "SENT_ZH":"这家小报上充斥着关于名人的八卦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rumors",
+            "hearsay",
+            "scuttlebutt",
+            "tittle-tattle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "scandal",
+            "tabloid"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gossip (about [sb] / [sth])",
+      "POS":"v intr",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core action",
+        "common"
+      ],
+      "DEF_EN":"To talk casually or maliciously about other people and their affairs.",
+      "DEF_ZH":"聊八卦；说闲话；散布流言。",
+      "SENT_EN":"They spent the entire meeting break gossiping about the recent layoff.",
+      "SENT_ZH":"他们把整个会议休息时间都用来聊最近裁员的八卦了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chatter",
+            "dish the dirt",
+            "spread rumors"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "work",
+            "focus"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n count",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "person",
+        "derogatory"
+      ],
+      "DEF_EN":"A person who habitually engages in talking about the private affairs of others.",
+      "DEF_ZH":"爱说闲话的人；长舌妇/夫；八卦者。",
+      "SENT_EN":"Be careful what you say around him; he's a terrible gossip.",
+      "SENT_ZH":"在他周围说话要小心；他是个可怕的八卦者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "busybody",
+            "scandalmonger",
+            "tattletale"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "informer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common, everyday speech and informal writing."
+}

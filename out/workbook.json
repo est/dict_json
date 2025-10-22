@@ -1,0 +1,64 @@
+{
+  "WORD":"workbook",
+  "IPA":"/ˈwɜːrkˌbʊk/",
+  "CONJUGATES":"workbooks",
+  "ETYMOLOGY":"Compound of 'work' and 'book'. Likely formed in the early 20th century to describe practical instructional materials.",
+  "SINCE":"1930s",
+  "MEANINGS":[
+    {
+      "PATTERN":"workbook",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core",
+        "Education",
+        "Common"
+      ],
+      "DEF_EN":"A book containing exercises, problems, or activities for students to complete, often with blank spaces provided for writing the answers directly.",
+      "DEF_ZH":"（学生的）练习簿，习作本；活页教材。",
+      "SENT_EN":"The students purchased the grammar workbook along with their main textbook.",
+      "SENT_ZH":"学生们除了主课本外，还购买了语法练习簿。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "exercise book",
+            "practice manual",
+            "activity book"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "textbook"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"workbook (computing)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Computing",
+        "Software",
+        "Technical"
+      ],
+      "DEF_EN":"In computing, especially in spreadsheet programs like Microsoft Excel, a single file containing one or more individual worksheets.",
+      "DEF_ZH":"（计算机，尤指电子表格软件中的）工作簿（包含多个工作表的文件）。",
+      "SENT_EN":"He accidentally deleted the entire financial workbook containing six months of data.",
+      "SENT_ZH":"他不小心删除了包含六个月数据的整个财务工作簿。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "worksheet",
+            "spreadsheet",
+            "Excel"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, common in educational and computing contexts."
+}

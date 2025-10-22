@@ -1,0 +1,84 @@
+{
+  "WORD":"somewhere",
+  "IPA":"/ˈsʌmˌwɛər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English somwher, alteration of Middle English sumwhare, from sum- (some) + whare (where).",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"somewhere",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "location"
+      ],
+      "DEF_EN":"In, at, or to some place not specified, known, or named.",
+      "DEF_ZH":"在某处；到某处；某个不确定的地方。",
+      "SENT_EN":"I must have left my umbrella somewhere at the office.",
+      "SENT_ZH":"我一定是把伞落在办公室的某个地方了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "anywhere",
+            "elsewhere",
+            "around"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "nowhere"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"somewhere [around/between] [number/time]",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "approximation",
+        "common"
+      ],
+      "DEF_EN":"Approximately; nearly. Used especially with quantities, amounts, or times.",
+      "DEF_ZH":"大约；大概（用于数量、价值或时间）。",
+      "SENT_EN":"The total cost of the repairs came to somewhere between two and three hundred dollars.",
+      "SENT_ZH":"维修的总费用大约在两三百美元之间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "about",
+            "approximately",
+            "roughly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"going somewhere",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "figurative"
+      ],
+      "DEF_EN":"An important or successful outcome or goal, often used in the phrase 'going somewhere' to mean progressing.",
+      "DEF_ZH":"有进展；有前途（常用于比喻性地描述某人或某事正在成功地发展）。",
+      "SENT_EN":"After months of frustration, the project finally feels like it's going somewhere.",
+      "SENT_ZH":"经过数月的挫折，这个项目终于感觉有进展了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "progress",
+            "success"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

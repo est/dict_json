@@ -1,0 +1,63 @@
+{
+  "WORD":"grocery",
+  "IPA":"/ˈɡroʊsəri/",
+  "CONJUGATES":"groceries (plural)",
+  "ETYMOLOGY":"From Middle English *grosserie* (business of a grocer), from Anglo-Norman *grosser* (grocer), ultimately related to Latin *grossus* ('large,' referring to dealing in bulk or wholesale).",
+  "SINCE":"c. 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] grocery [store]",
+      "POS":"noun",
+      "POS_TIP":"n (countable)",
+      "TAGS":[
+        "core word",
+        "common",
+        "commerce"
+      ],
+      "DEF_EN":"A shop or store that sells food, household goods, and general supplies, often referring to a supermarket or a specialized food market.",
+      "DEF_ZH":"主要销售食品、家庭用品和日常必需品的商店；杂货店；食品超市。",
+      "SENT_EN":"She ran to the local grocery to pick up milk and eggs.",
+      "SENT_ZH":"她跑到当地的杂货店去买牛奶和鸡蛋。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "supermarket",
+            "market",
+            "food store"
+          ]
+        },
+        {
+          "T":"derivative",
+          "V":[
+            "grocer"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"groceries",
+      "POS":"noun",
+      "POS_TIP":"n (plural)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The food and household items purchased at a grocery store.",
+      "DEF_ZH":"在杂货店或超市购买的食品和日用品（通常以复数形式出现）。",
+      "SENT_EN":"We need to go home and unload the groceries before the ice cream melts.",
+      "SENT_ZH":"冰淇淋融化前，我们需要回家把买的杂货卸下来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "provisions",
+            "foodstuffs",
+            "supplies"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Everyday usage."
+}

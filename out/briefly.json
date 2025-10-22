@@ -1,0 +1,74 @@
+{
+  "WORD":"briefly",
+  "IPA":"/ˈbriːfli/",
+  "CONJUGATES":"brief (adj, v, n) | briefness (n) | more briefly (comparative) | most briefly (superlative)",
+  "ETYMOLOGY":"From Middle English *briefly*, formed by adding the adverbial suffix -ly to the adjective *brief* (short, concise), which ultimately derives from Latin *brevis* (short).",
+  "SINCE":"c. 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[verb] briefly",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "common",
+        "time"
+      ],
+      "DEF_EN":"For a short time or duration.",
+      "DEF_ZH":"短暂地；历时很短地。",
+      "SENT_EN":"We spoke briefly about the upcoming deadline.",
+      "SENT_ZH":"我们短暂地谈论了即将到来的截止日期。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "momentarily",
+            "temporarily",
+            "shortly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lengthily",
+            "permanently"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"speak/explain briefly",
+      "POS":"adv",
+      "POS_TIP":"adverb",
+      "TAGS":[
+        "core word",
+        "common",
+        "manner"
+      ],
+      "DEF_EN":"In a concise manner; using few words; succinctly.",
+      "DEF_ZH":"简要地；扼要地；简洁地。",
+      "SENT_EN":"The CEO put it briefly: the company is restructuring.",
+      "SENT_ZH":"首席执行官简要地说：公司正在进行重组。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concisely",
+            "succinctly",
+            "in short",
+            "pithily"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "in detail",
+            "elaborately",
+            "extensively"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

@@ -1,0 +1,59 @@
+{
+  "WORD":"until",
+  "IPA":"/ənˈtɪl/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English *until*, combining Old Norse *und* (up to, as far as) and *til* (to). The word *till* is a shortened form and alternative.",
+  "SINCE":"c. 12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"until [time/event/date]",
+      "POS":"prep",
+      "POS_TIP":"preposition (links a noun or pronoun to another word)",
+      "TAGS":[
+        "core word",
+        "time marker"
+      ],
+      "DEF_EN":"Up to the time of; marking the boundary or end point of a period of time or an action.",
+      "DEF_ZH":"直到...的时候为止；在...之前",
+      "SENT_EN":"The library is open until 9 p.m. on weekdays.",
+      "SENT_ZH":"图书馆在工作日开放到晚上九点。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "till",
+            "up to"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "from"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"until [clause]",
+      "POS":"conj",
+      "POS_TIP":"conjunction (joins clauses or sentences, often introducing a subordinate time clause)",
+      "TAGS":[
+        "core word",
+        "time marker"
+      ],
+      "DEF_EN":"Up to the time when; during the period preceding the moment when something else happens.",
+      "DEF_ZH":"直到...发生为止；在...之前",
+      "SENT_EN":"We can't start the party until everyone has arrived.",
+      "SENT_ZH":"我们不能开始派对，直到所有人都到齐为止。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "till"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

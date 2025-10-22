@@ -1,0 +1,70 @@
+{
+  "WORD":"soluble",
+  "IPA":"/ˈsɒljʊbəl/",
+  "CONJUGATES":"solubly | solubility | insoluble | insolubility",
+  "ETYMOLOGY":"From Latin solubilis, from solvere 'to loosen, release, dissolve'.",
+  "SINCE":"Late Middle English (15th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"soluble [in sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Chemistry",
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"Able to be dissolved in a liquid, especially water.",
+      "DEF_ZH":"可溶解的；能在液体（尤指水）中溶解的。",
+      "SENT_EN":"Salt is highly soluble in water, forming a clear solution.",
+      "SENT_ZH":"盐在水中溶解度很高，形成了清澈的溶液。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dissolvable",
+            "miscible"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insoluble",
+            "immiscible"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"soluble [problem/mystery]",
+      "POS":"adj.",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "Figurative",
+        "Formal"
+      ],
+      "DEF_EN":"Capable of being solved or explained.",
+      "DEF_ZH":"可解决的；有解的（指问题、难题或谜团）。",
+      "SENT_EN":"The police hope that this complex case will prove soluble with new evidence.",
+      "SENT_ZH":"警方希望有了新的证据，这个复杂的案件会被证明是可解决的。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "solvable",
+            "resolvable"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "insoluble",
+            "intractable",
+            "baffling"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Scientific, Formal"
+}

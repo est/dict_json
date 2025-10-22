@@ -1,0 +1,65 @@
+{
+  "WORD":"inhale",
+  "IPA":"/ɪnˈheɪl/",
+  "CONJUGATES":"inhales | inhaling | inhaled",
+  "ETYMOLOGY":"Early 17th century: from Latin *inhalare*, from *in-* 'into' + *halare* 'breathe'.",
+  "SINCE":"c. 1620",
+  "MEANINGS":[
+    {
+      "PATTERN":"inhale [sth]",
+      "POS":"vtr | vi",
+      "POS_TIP":"vtr (transitive verb: requires a direct object); vi (intransitive verb: does not require a direct object)",
+      "TAGS":[
+        "core word",
+        "common",
+        "physiology"
+      ],
+      "DEF_EN":"To draw air, gas, or smoke into the lungs; to breathe in.",
+      "DEF_ZH":"将空气、气体或烟雾吸入肺部；吸气。",
+      "SENT_EN":"We were instructed to inhale deeply and then hold our breath.",
+      "SENT_ZH":"我们被指示深吸气，然后屏住呼吸。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breathe in",
+            "draw in",
+            "suck in"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "exhale",
+            "breathe out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"inhale [sth]",
+      "POS":"vtr",
+      "POS_TIP":"vtr (transitive verb: requires a direct object)",
+      "TAGS":[
+        "informal",
+        "figurative",
+        "hyperbolic"
+      ],
+      "DEF_EN":"To consume food or drink very quickly; to devour.",
+      "DEF_ZH":"（非正式）快速地吃或喝；狼吞虎咽。",
+      "SENT_EN":"The tired hikers inhaled their dinner after the long trek.",
+      "SENT_ZH":"经过长途跋涉后，疲惫的徒步旅行者狼吞虎咽地吃完了他们的晚餐。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "devour",
+            "gulp down",
+            "wolf down"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General (Meaning 1); Informal (Meaning 2)"
+}

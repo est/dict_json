@@ -1,0 +1,81 @@
+{
+  "WORD":"assess",
+  "IPA":"/əˈsɛs/",
+  "CONJUGATES":"assesses | assessing | assessed",
+  "ETYMOLOGY":"Late Middle English, from Anglo-Norman assesser 'to fix the amount of a tax or fine', ultimately from Latin assidere 'to sit beside' (related to the role of an assistant judge or advisor), later influenced by Old French assise 'taxation'. The meaning shifted from determining taxes to general evaluation in the 19th century.",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"assess [sth] | assess [sb] (as/for sth)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To evaluate or estimate the nature, ability, importance, or quality of something or someone.",
+      "DEF_ZH":"评估；估价；判断（某事物或某人）的性质、能力、重要性或质量。",
+      "SENT_EN":"The committee will assess the damage caused by the storm.",
+      "SENT_ZH":"委员会将评估风暴造成的损失。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "evaluate",
+            "appraise",
+            "estimate",
+            "gauge",
+            "judge"
+          ]
+        },
+        {
+          "T":"derivatives",
+          "V":[
+            "assessment",
+            "assessor"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assess [sth] (on/against sth)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "formal",
+        "financial",
+        "legal"
+      ],
+      "DEF_EN":"To fix the value of property, income, or quality for the purpose of taxation or determining a fine.",
+      "DEF_ZH":"（为征税或罚款目的）确定财产、收入或价值。",
+      "SENT_EN":"The property was assessed at $300,000 for local taxes.",
+      "SENT_ZH":"该房产被评估为30万美元用于地方税收。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "levy",
+            "impose",
+            "charge"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"assess [a fine/tax] (on/against sb/sth)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "legal",
+        "old usage"
+      ],
+      "DEF_EN":"To impose a tax or fine upon a person or property.",
+      "DEF_ZH":"对某人或某财产课征税款或罚款。",
+      "SENT_EN":"The court assessed a penalty of $500 against the defendant.",
+      "SENT_ZH":"法院对被告处以500美元的罚款。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, Formal, Academic"
+}

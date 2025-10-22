@@ -1,0 +1,95 @@
+{
+  "WORD":"explicit",
+  "IPA":"/ɪkˈsplɪsɪt/",
+  "CONJUGATES":"explicitly (adv) | explicitness (n)",
+  "ETYMOLOGY":"From Latin explicitus, past participle of explicare ('to unfold, unroll, explain'), from ex- ('out') + plicare ('to fold').",
+  "SINCE":"Late 16th century (c. 1590s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is explicit",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Stated clearly and in detail, leaving no room for confusion or doubt; expressed directly.",
+      "DEF_ZH":"明确的；清楚的；直言不讳的，毫不含糊的。",
+      "SENT_EN":"He gave explicit instructions on how to set up the equipment.",
+      "SENT_ZH":"他给出了关于如何设置设备的明确指示。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clear",
+            "direct",
+            "unambiguous",
+            "straightforward"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "implicit",
+            "vague",
+            "ambiguous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] does [act] explicitly",
+      "POS":"adv",
+      "POS_TIP":"Adverb (The form submitted by the user)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"In a clear and detailed way, without ambiguity or implication; directly.",
+      "DEF_ZH":"明确地；清楚地；毫不含糊地（强调行为方式）。",
+      "SENT_EN":"She explicitly stated that she did not want to be involved in the dispute.",
+      "SENT_ZH":"她明确地声明她不希望卷入这场争论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "clearly",
+            "plainly",
+            "unequivocally"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "implicitly",
+            "subtly"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is explicit (content)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "common",
+        "content rating"
+      ],
+      "DEF_EN":"Describing or representing sexual activity or violence in a highly detailed, realistic, and often sensational way.",
+      "DEF_ZH":"露骨的；描绘细节的（尤指性或暴力内容）。",
+      "SENT_EN":"The film was restricted due to its explicit violence and language.",
+      "SENT_ZH":"这部电影因其露骨的暴力和语言而受到限制。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "graphic",
+            "detailed",
+            "uncensored"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or neutral communication."
+}

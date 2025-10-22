@@ -1,0 +1,89 @@
+{
+  "WORD":"another",
+  "IPA":"/əˈnʌðər/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English an other, formed by the indefinite article 'an' combined with the adjective 'other'.",
+  "SINCE":"c. 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"another [N]",
+      "POS":"det",
+      "POS_TIP":"determiner",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"One more person or thing of the same type; additional.",
+      "DEF_ZH":"又一个；再一个（同类事物）。",
+      "SENT_EN":"I finished the first chapter and immediately started reading another book.",
+      "SENT_ZH":"我读完第一章后，立刻开始阅读另一本书。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "additional",
+            "one more",
+            "further"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"another [N]",
+      "POS":"det",
+      "POS_TIP":"determiner",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"A different person or thing from the one already mentioned or known.",
+      "DEF_ZH":"不同的；另外的；别的。",
+      "SENT_EN":"We need to find another way to solve this problem, as the current method failed.",
+      "SENT_ZH":"我们需要寻找另一种解决这个问题的方法，因为目前的方法失败了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "different",
+            "alternative",
+            "separate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"another",
+      "POS":"pron",
+      "POS_TIP":"pronoun",
+      "TAGS":[
+        "common"
+      ],
+      "DEF_EN":"One more or a different one (used independently to replace a noun).",
+      "DEF_ZH":"另一个；别的（代词形式，指代某物或某人）。",
+      "SENT_EN":"Some guests arrived early, but another showed up just as the dinner started.",
+      "SENT_ZH":"有些客人来得早，但另一个在晚宴开始时才出现。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "one",
+            "others"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"another [number/measure] [N]",
+      "POS":"det",
+      "POS_TIP":"determiner",
+      "TAGS":[
+        "usage specific"
+      ],
+      "DEF_EN":"Used before a number or measure to indicate an additional quantity or duration.",
+      "DEF_ZH":"又（指数量或时间上的增加）。",
+      "SENT_EN":"The pilot announced that we would be delayed another fifteen minutes.",
+      "SENT_ZH":"飞行员宣布我们将要再延迟十五分钟。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Common"
+}

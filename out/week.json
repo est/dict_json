@@ -1,0 +1,85 @@
+{
+  "WORD":"week",
+  "IPA":"/wiːk/",
+  "CONJUGATES":"weeks | weekly (adj., adv.)",
+  "ETYMOLOGY":"From Old English wice, wucu. Common Germanic origin (related to Dutch week, German Woche). Ultimately, the seven-day cycle is linked to ancient observation and possibly the Jewish Sabbath.",
+  "SINCE":"Before 900 AD",
+  "MEANINGS":[
+    {
+      "PATTERN":"week",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "time measurement",
+        "common"
+      ],
+      "DEF_EN":"A period of seven consecutive days, usually calculated from Sunday to Saturday or Monday to Sunday.",
+      "DEF_ZH":"连续的七天周期，通常从周日到周六或周一到周日计算。",
+      "SENT_EN":"I will be out of town for the whole of next week.",
+      "SENT_ZH":"下周我将一直在城外。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "seven days",
+            "hebdomad"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "weekend",
+            "weekday",
+            "month"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the week",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "schedule"
+      ],
+      "DEF_EN":"The standard working or school days of a week, typically Monday through Friday, excluding the weekend.",
+      "DEF_ZH":"一周内用于工作或学习的标准日子，通常指周一到周五，不包括周末。",
+      "SENT_EN":"It rained hard all through the week, but the weekend was sunny.",
+      "SENT_ZH":"整个工作周都在下大雨，但周末却是晴天。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "workweek",
+            "business days"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[number]-week [sth]",
+      "POS":"adj.",
+      "POS_TIP":"adjective (used attributively)",
+      "TAGS":[
+        "compound",
+        "duration"
+      ],
+      "DEF_EN":"Lasting for the specified number of weeks.",
+      "DEF_ZH":"持续指定周数的时间长度。",
+      "SENT_EN":"She signed up for a twelve-week online course.",
+      "SENT_ZH":"她报名参加了一个为期十二周的在线课程。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "month-long",
+            "annual"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

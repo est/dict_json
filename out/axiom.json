@@ -1,0 +1,72 @@
+{
+  "WORD":"axiom",
+  "IPA":"/ˈæksiəm/",
+  "CONJUGATES":"axioms",
+  "ETYMOLOGY":"From Latin axioma, from Greek axiōma 'that which is considered worthy, standard', from axios 'worthy'.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"axiom [in mathematics/logic]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Formal",
+        "Logic",
+        "Mathematics"
+      ],
+      "DEF_EN":"A statement or proposition that is regarded as being self-evidently true, and which serves as a premise or starting point for further reasoning and arguments.",
+      "DEF_ZH":"公理；不证自明的真理。作为推论起点或前提的命题。",
+      "SENT_EN":"The parallel postulate is a famous example of an axiom in Euclidean geometry.",
+      "SENT_ZH":"平行公设是欧几里得几何学中一个著名的公理例子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "postulate",
+            "premise",
+            "given"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "theorem",
+            "hypothesis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"axiom [of sth]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Common",
+        "General Use"
+      ],
+      "DEF_EN":"A universally accepted principle or rule; a fundamental truth or proverb.",
+      "DEF_ZH":"普遍接受的原则；基本真理；格言。",
+      "SENT_EN":"It is a central axiom of marketing that the customer is always right.",
+      "SENT_ZH":"顾客永远是对的，这是市场营销的一个核心原则。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "maxim",
+            "principle",
+            "dictum"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fallacy",
+            "paradox"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Academic, Formal, General"
+}

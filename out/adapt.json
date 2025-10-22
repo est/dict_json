@@ -1,0 +1,89 @@
+{
+  "WORD":"adapt",
+  "IPA":"/əˈdæpt/",
+  "CONJUGATES":"adapts | adapting | adapted",
+  "ETYMOLOGY":"From French adapter, from Latin adaptāre ('to fit to'), formed from ad- ('to, toward') + aptāre ('to fit, join'), from aptus ('fitted, suitable').",
+  "SINCE":"1620s",
+  "MEANINGS":[
+    {
+      "PATTERN":"adapt (to [sth])",
+      "POS":"vintr + prep",
+      "POS_TIP":"vintr: Intransitive verb; prep: preposition.",
+      "TAGS":[
+        "core word",
+        "common",
+        "behavior"
+      ],
+      "DEF_EN":"To change one's behavior, thinking, or physiology to function better in a new environment or situation.",
+      "DEF_ZH":"（人或生物）适应；调整自己以适应新的环境或情况。",
+      "SENT_EN":"It can be difficult for people to adapt to the fast pace of city life.",
+      "SENT_ZH":"人们可能很难适应城市生活的快节奏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "adjust",
+            "conform",
+            "acclimatize"
+          ]
+        },
+        {
+          "T":"derivative",
+          "V":[
+            "adaptation",
+            "adaptable"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"adapt [sth] (for/to [sth else])",
+      "POS":"vtr",
+      "POS_TIP":"vtr: Transitive verb.",
+      "TAGS":[
+        "common",
+        "modification",
+        "technical"
+      ],
+      "DEF_EN":"To modify something to suit a new use or condition.",
+      "DEF_ZH":"修改或改变某物以适用于新的用途或条件。",
+      "SENT_EN":"The engineers adapted the standard model for use in extreme cold weather.",
+      "SENT_ZH":"工程师们修改了标准型号，使其能用于极度寒冷的天气。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "modify",
+            "alter",
+            "convert"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"adapt [a book/play] (into [a film/series])",
+      "POS":"vtr",
+      "POS_TIP":"vtr: Transitive verb.",
+      "TAGS":[
+        "media",
+        "arts",
+        "specific use"
+      ],
+      "DEF_EN":"To rewrite a creative work (like a novel or play) so that it can be presented in a different format, such as a film or television show.",
+      "DEF_ZH":"（将书、剧本等）改编（成电影、电视剧等）。",
+      "SENT_EN":"The director successfully adapted the classic novel into a gripping mini-series.",
+      "SENT_ZH":"导演成功地将这部经典小说改编成了一部引人入胜的迷你剧。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "transform",
+            "convert",
+            "dramatize"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

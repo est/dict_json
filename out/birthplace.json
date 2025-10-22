@@ -1,0 +1,57 @@
+{
+  "WORD":"birthplace",
+  "IPA":"/ˈbɜːrθpleɪs/",
+  "CONJUGATES":"birthplaces",
+  "ETYMOLOGY":"Compound word formed from 'birth' (from Old English byrth 'origin, descent') and 'place' (from Old French place 'open space, area').",
+  "SINCE":"c. 1500s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s birthplace",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Word",
+        "Common"
+      ],
+      "DEF_EN":"The town, region, or specific building where a person was born.",
+      "DEF_ZH":"某人出生的地点（如城市、地区或建筑）。",
+      "SENT_EN":"He returned to his birthplace after thirty years abroad.",
+      "SENT_ZH":"在国外待了三十年后，他回到了自己的出生地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hometown",
+            "native land",
+            "place of origin"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the birthplace of [sth] (abstract)",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Figurative",
+        "Formal"
+      ],
+      "DEF_EN":"The place or site where a concept, idea, invention, or movement originates.",
+      "DEF_ZH":"某种概念、思想、发明或运动的起源地或发源地。",
+      "SENT_EN":"Ancient Mesopotamia is often referred to as the birthplace of civilization.",
+      "SENT_ZH":"古美索不达米亚通常被称为文明的发源地。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "origin",
+            "source",
+            "cradle",
+            "fount"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

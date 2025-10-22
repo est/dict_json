@@ -1,0 +1,67 @@
+{
+  "WORD":"digit",
+  "IPA":"/ˈdɪdʒɪt/",
+  "CONJUGATES":"digits (plural)",
+  "ETYMOLOGY":"From Latin digitus ('finger, toe'), referring to counting using the fingers.",
+  "SINCE":"Late 14th century (anatomical); Early 17th century (numerical)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] digit",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "mathematics",
+        "computing"
+      ],
+      "DEF_EN":"Any of the numerals from 0 to 9, especially when forming part of a larger number or code.",
+      "DEF_ZH":"零到九的任一数字符号，尤其指构成一个更大数或代码的一部分。",
+      "SENT_EN":"Please verify that you have entered all twelve digits of the security code correctly.",
+      "SENT_ZH":"请核实您正确输入了安全码的所有十二个数字。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "numeral",
+            "figure",
+            "number"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "integer",
+            "decimal",
+            "binary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] digit",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "anatomy",
+        "biological",
+        "formal"
+      ],
+      "DEF_EN":"A finger, toe, or corresponding part in other vertebrates.",
+      "DEF_ZH":"手指、脚趾，或在其他脊椎动物中对应的肢体末端部分。",
+      "SENT_EN":"The salamander possesses four digits on its front feet and five on its hind feet.",
+      "SENT_ZH":"蝾螈的前脚有四根趾，后脚有五根趾。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "finger",
+            "toe",
+            "phalange"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Formal (in anatomical or technical contexts)"
+}

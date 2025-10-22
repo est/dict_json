@@ -1,0 +1,81 @@
+{
+  "WORD":"harm",
+  "IPA":"/hɑːm/",
+  "CONJUGATES":"harms | harmed | harming",
+  "ETYMOLOGY":"From Old English hearm (noun) and hearmian (verb), meaning 'grief, sorrow, injury, wrong'. Related to Old Norse harmr.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] cause/do [harm] (to [sb/sth])",
+      "POS":"n",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Physical injury or damage; detriment or negative effect.",
+      "DEF_ZH":"伤害；损害；不良影响或不利因素。",
+      "SENT_EN":"We must ensure that our actions do no harm to the environment.",
+      "SENT_ZH":"我们必须确保我们的行为不会对环境造成损害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "damage",
+            "injury",
+            "detriment",
+            "mischief"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "benefit",
+            "good",
+            "advantage"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "harmful",
+            "harmless"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[harm] [sb/sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"To injure, damage, or cause detriment to someone or something.",
+      "DEF_ZH":"使受伤；损害；危害。",
+      "SENT_EN":"He would never intentionally harm any creature.",
+      "SENT_ZH":"他绝不会故意伤害任何生物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "injure",
+            "hurt",
+            "damage",
+            "wound"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "protect",
+            "aid",
+            "benefit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage"
+}

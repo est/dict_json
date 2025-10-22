@@ -1,0 +1,85 @@
+{
+  "WORD":"audio",
+  "IPA":"/ˈɔːdiəʊ/",
+  "CONJUGATES":"audios",
+  "ETYMOLOGY":"Coined in the 1930s, primarily from the Latin verb audīre ('to hear'), combined with the -o suffix (as seen in radio and video).",
+  "SINCE":"c. 1930s",
+  "MEANINGS":[
+    {
+      "PATTERN":"audio [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "technical"
+      ],
+      "DEF_EN":"Relating to the sound component of electronics, broadcasting, recording, or telecommunications.",
+      "DEF_ZH":"声音的；听觉的；与音频有关的。",
+      "SENT_EN":"The conference utilized an excellent audio visual presentation.",
+      "SENT_ZH":"这次会议使用了一个优秀的视听演示。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "acoustic",
+            "sonic",
+            "aural"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "video",
+            "visual"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] audio",
+      "POS":"n",
+      "POS_TIP":"noun (uncountable)",
+      "TAGS":[
+        "core word",
+        "media"
+      ],
+      "DEF_EN":"Sound, especially when recorded, transmitted, or reproduced, or the section of a broadcast or film dedicated to sound.",
+      "DEF_ZH":"音频；声频信号；（广播、电视、电影等中的）声音部分。",
+      "SENT_EN":"The audio for the documentary was distorted due to wind noise.",
+      "SENT_ZH":"由于风噪，这部纪录片的音频失真了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sound",
+            "soundtrack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"audio [system/equipment]",
+      "POS":"n",
+      "POS_TIP":"noun (countable or collective)",
+      "TAGS":[
+        "electronics",
+        "colloquial"
+      ],
+      "DEF_EN":"Equipment used for recording, amplifying, or reproducing sound.",
+      "DEF_ZH":"音响设备；音频系统；（通常指高质量的）音响器材。",
+      "SENT_EN":"He spent all weekend setting up the new home audio system.",
+      "SENT_ZH":"他花了一整个周末来安装新的家庭音响系统。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "stereo",
+            "hi-fi",
+            "PA system"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common"
+}

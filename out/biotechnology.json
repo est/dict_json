@@ -1,0 +1,49 @@
+{
+  "WORD":"biotechnology",
+  "IPA":"/ˌbaɪoʊtɛkˈnɑːlədʒi/",
+  "CONJUGATES":"biotechnologies (plural)",
+  "ETYMOLOGY":"Coined in 1919 by Hungarian agricultural engineer Karl Ereky, combining 'bio' (from Greek bios 'life') and 'technology' (from Greek tekhnē 'art, skill' + logia 'study of').",
+  "SINCE":"1919",
+  "MEANINGS":[
+    {
+      "PATTERN":"biotechnology [U]",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "scientific",
+        "industry"
+      ],
+      "DEF_EN":"The exploitation of biological processes, organisms, or systems to manufacture products, perform services, or modify organisms, often involving genetic manipulation and cell culture.",
+      "DEF_ZH":"生物技术；利用生物系统、活的有机体或其衍生物来制造或改变产品或过程的技术，尤其涉及遗传工程和细胞操作。",
+      "SENT_EN":"The pharmaceutical industry heavily relies on modern biotechnology for drug discovery.",
+      "SENT_ZH":"制药业严重依赖现代生物技术进行药物研发。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "genetic engineering",
+            "bioengineering",
+            "molecular biology",
+            "genomics"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"biotechnology [C]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "technical",
+        "application"
+      ],
+      "DEF_EN":"A specific technique, product, or application developed using biological technology.",
+      "DEF_ZH":"一种特定的生物技术产品、方法或应用。",
+      "SENT_EN":"Several new biotechnologies are being developed to combat environmental pollution.",
+      "SENT_ZH":"目前正在开发几种新的生物技术来对抗环境污染。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Academic, Scientific, Business"
+}

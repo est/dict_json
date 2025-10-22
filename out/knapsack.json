@@ -1,0 +1,58 @@
+{
+  "WORD":"KNAPSACK",
+  "IPA":"/ˈnæpsæk/",
+  "CONJUGATES":"knapsacks",
+  "ETYMOLOGY":"From Middle Low German *knappsack* or Dutch *knapzak*, a compound of *knappen* (to bite, crack, perhaps referring to provisions/food) and *sack* (bag). First used in English to describe the bags carried by soldiers.",
+  "SINCE":"Mid-17th century (c. 1640s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] knapsack",
+      "POS":"noun",
+      "POS_TIP":"Noun (countable)",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Object"
+      ],
+      "DEF_EN":"A canvas, nylon, or leather bag carried on the back, typically by hikers, travelers, or soldiers, secured with two straps over the shoulders; often used interchangeably with backpack or rucksack.",
+      "DEF_ZH":"背包；行囊；通常指远足者、旅行者或士兵背在背上，用两条带子固定的小包；常与“backpack”或“rucksack”互换使用。",
+      "SENT_EN":"The hiker tightened the straps of his heavy knapsack before beginning the ascent.",
+      "SENT_ZH":"登山者在开始攀登前，收紧了他沉重背包的背带。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "backpack",
+            "rucksack",
+            "haversack"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] knapsack problem",
+      "POS":"noun phrase",
+      "POS_TIP":"Noun (uncountable, specialized context)",
+      "TAGS":[
+        "Technical",
+        "Computing",
+        "Mathematics"
+      ],
+      "DEF_EN":"In computer science and operations research, a class of optimization problems concerning the selection of items, each with a weight and a value, to include in a container (the knapsack) such that the total weight does not exceed a given capacity and the total value is maximized.",
+      "DEF_ZH":"(计算机科学) 背包问题；一种组合优化问题，目标是在给定容量限制下，选择最有价值的物品放入背包。",
+      "SENT_EN":"Dynamic programming is often used to solve the 0/1 knapsack problem efficiently.",
+      "SENT_ZH":"动态规划常用于有效解决0/1背包问题。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "optimization",
+            "greedy algorithm",
+            "dynamic programming"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical"
+}

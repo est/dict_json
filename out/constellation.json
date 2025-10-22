@@ -1,0 +1,65 @@
+{
+  "WORD":"constellation",
+  "IPA":"/ˌkɒnstəˈleɪʃən/",
+  "CONJUGATES":"constellations (pl.)",
+  "ETYMOLOGY":"From Latin cōnstēllātiōnem (nominative cōnstēllātiō) 'set with stars', from con- 'together' + stēllāre 'to set with stars', from stēlla 'star'.",
+  "SINCE":"Mid-14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"constellation",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "astronomy",
+        "scientific"
+      ],
+      "DEF_EN":"A group of stars forming a recognizable pattern that is traditionally named after its apparent form or identified with a mythological figure. The International Astronomical Union recognizes 88 official constellations.",
+      "DEF_ZH":"星座；星群。由一群恒星组成的、具有公认形状的图案，通常以其外观或神话人物命名。国际天文学联合会承认88个官方星座。",
+      "SENT_EN":"Orion is one of the most famous constellations visible in the winter sky.",
+      "SENT_ZH":"猎户座是冬季天空中最著名的星座之一。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "asterism",
+            "star group"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "zodiac",
+            "galaxy",
+            "nebula"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a constellation of [sth/sb]",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "common"
+      ],
+      "DEF_EN":"A grouping, collection, or arrangement of associated ideas, qualities, or objects.",
+      "DEF_ZH":"一组；一群；一系列（相关的思想、特质、事物或人物）。",
+      "SENT_EN":"The policy was supported by a constellation of powerful corporate interests.",
+      "SENT_ZH":"这项政策得到了一批强大的企业利益集团的支持。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cluster",
+            "collection",
+            "assembly",
+            "array"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, highly common in academic and scientific contexts (astronomy)."
+}

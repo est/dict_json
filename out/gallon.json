@@ -1,0 +1,65 @@
+{
+  "WORD":"gallon",
+  "IPA":"/ˈɡæ.lən/",
+  "CONJUGATES":"gallons",
+  "ETYMOLOGY":"From Middle English galun, from Old Northern French galon (a liquid measure), perhaps related to gale (bowl, basin).",
+  "SINCE":"13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] gallon (of [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "measurement",
+        "standard"
+      ],
+      "DEF_EN":"A unit of volume or liquid capacity, used primarily in the US (equal to 231 cubic inches, about 3.785 liters) or in the Imperial system (equal to 277.42 cubic inches, about 4.546 liters).",
+      "DEF_ZH":"加仑。英美容量单位。美制加仑（US liquid gallon）约为3.785升；英制加仑（Imperial gallon）约为4.546升。",
+      "SENT_EN":"The car gets good mileage, about 40 miles per gallon.",
+      "SENT_ZH":"这辆车的里程不错，大约每加仑能跑40英里。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "liter",
+            "quart",
+            "pint",
+            "fluid ounce"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gallons (of [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "informal",
+        "exaggeration"
+      ],
+      "DEF_EN":"A very large, unmeasured amount of liquid.",
+      "DEF_ZH":"大量（液体）。",
+      "SENT_EN":"After the victory, they celebrated by drinking gallons of soda.",
+      "SENT_ZH":"胜利后，他们喝了大量的苏打水来庆祝。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loads",
+            "tons",
+            "oodles"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "drop",
+            "smidgen"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common language; technical/commercial (for measurement)"
+}

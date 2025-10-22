@@ -1,0 +1,63 @@
+{
+  "WORD":"ten",
+  "IPA":"/tɛn/",
+  "CONJUGATES":"tens (plural noun) | tenth (ordinal adjective/noun)",
+  "ETYMOLOGY":"From Middle English *ten*, from Old English *tīen*, *tēn*, from Proto-Germanic *tehun*, ultimately from Proto-Indo-European *deḱm* ('ten').",
+  "SINCE":"Before 9th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"ten",
+      "POS":"cardinal numeral",
+      "POS_TIP":"A word expressing a number; specifically the number equal to the product of five and two, one more than nine.",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Number"
+      ],
+      "DEF_EN":"The cardinal number following nine and preceding eleven; the quantity represented by the digit 1 followed by 0.",
+      "DEF_ZH":"基数，在九之后，十一之前；由数字1和0表示的数量。",
+      "SENT_EN":"The concert starts at ten o'clock sharp.",
+      "SENT_ZH":"音乐会准十点开始。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"ten (pl. tens)",
+      "POS":"noun",
+      "POS_TIP":"A count noun referring to a specific quantity or unit.",
+      "TAGS":[
+        "Common",
+        "Countable"
+      ],
+      "DEF_EN":"A group, set, or unit of ten items or people; often used to denote a banknote or coin worth ten units of currency.",
+      "DEF_ZH":"一组十个物品或人；面值为十的纸币或硬币。",
+      "SENT_EN":"Could you break this twenty into two tens, please?",
+      "SENT_ZH":"你能把这张二十的钞票换成两张十元的吗？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a ten",
+      "POS":"noun (slang)",
+      "POS_TIP":"An informal noun used to rate quality or appearance.",
+      "TAGS":[
+        "Slang",
+        "Informal",
+        "Rating"
+      ],
+      "DEF_EN":"The highest score or rating possible (usually 10 out of 10), indicating perfection, excellence, or extreme attractiveness.",
+      "DEF_ZH":"满分（通常指10分），表示完美、出色或极具吸引力。",
+      "SENT_EN":"That performance deserves a ten for originality and execution.",
+      "SENT_ZH":"那场表演的原创性和执行力值得一个满分。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "perfect",
+            "excellent",
+            "flawless"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

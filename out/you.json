@@ -1,0 +1,59 @@
+{
+  "WORD":"you",
+  "IPA":"/juː/",
+  "CONJUGATES":"your | yours | yourself | yourselves",
+  "ETYMOLOGY":"From Old English ēow, the dative/accusative plural of the second-person singular pronoun þū (thou). It replaced both the singular 'thou' and the plural 'ye' over time.",
+  "SINCE":"Old English (c. 9th century, achieving dominance in the 14th-17th centuries)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[you]",
+      "POS":"pronoun",
+      "POS_TIP":"Second-person personal pronoun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used as the subject or object of a verb to refer to the person or people being addressed.",
+      "DEF_ZH":"第二人称代词，用作动词的主语或宾语，指代正在被说话的对象（单数或复数）。",
+      "SENT_EN":"I heard you singing yesterday. Are you coming to the party?",
+      "SENT_ZH":"我昨天听到你唱歌了。你来参加聚会吗？",
+      "RELATED":[
+        {
+          "T":"archaic singular",
+          "V":[
+            "thou",
+            "thee"
+          ]
+        },
+        {
+          "T":"archaic plural",
+          "V":[
+            "ye"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[you] (indefinite)",
+      "POS":"pronoun",
+      "POS_TIP":"Indefinite personal pronoun",
+      "TAGS":[
+        "general reference",
+        "informal"
+      ],
+      "DEF_EN":"Used to refer to people in general, especially when stating a general truth or rule.",
+      "DEF_ZH":"泛指某人或一般人；用于陈述普遍真理或规则。",
+      "SENT_EN":"You can never be too careful when driving in the snow.",
+      "SENT_ZH":"在雪中开车时，再小心也不为过。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "one"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Universal"
+}

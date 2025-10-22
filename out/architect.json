@@ -1,0 +1,87 @@
+{
+  "WORD":"architect",
+  "IPA":"/'ɑːrkɪtɛkt/",
+  "CONJUGATES":"architects | architected | architecting",
+  "ETYMOLOGY":"From Latin architectus, from Greek arkhitekton (arkhi- 'chief' + tekton 'builder, craftsman')",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"architect [sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "profession",
+        "common"
+      ],
+      "DEF_EN":"A person who designs buildings and often supervises their construction.",
+      "DEF_ZH":"设计建筑物并通常监督其施工的人。",
+      "SENT_EN":"The city commissioned a renowned architect to design the new library.",
+      "SENT_ZH":"市政府委托一位著名建筑师来设计新图书馆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "designer",
+            "planner"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "architecture",
+            "draftsman"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"architect [sb] [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "figurative",
+        "formal"
+      ],
+      "DEF_EN":"A person responsible for inventing or planning a particular idea, event, or structure; a mastermind.",
+      "DEF_ZH":"某一特定想法、事件或结构的创造者或主要策划者；主谋。",
+      "SENT_EN":"She was the chief architect of the new national healthcare policy.",
+      "SENT_ZH":"她是新国家医疗保健政策的主要策划者。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "creator",
+            "founder",
+            "mastermind"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"architect [sth]",
+      "POS":"vtr",
+      "POS_TIP":"verb transitive",
+      "TAGS":[
+        "technical",
+        "computing",
+        "business"
+      ],
+      "DEF_EN":"To plan, design, or structure something complex, typically systems, software, or projects.",
+      "DEF_ZH":"规划、设计或构建复杂的事物，通常指系统、软件或项目。",
+      "SENT_EN":"The engineers architected a scalable solution for the cloud service.",
+      "SENT_ZH":"工程师们为云服务设计了一个可扩展的解决方案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "design",
+            "engineer",
+            "structure"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Professional, Technical"
+}

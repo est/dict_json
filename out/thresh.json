@@ -1,0 +1,64 @@
+{
+  "WORD":"thresh",
+  "IPA":"/θrɛʃ/",
+  "CONJUGATES":"threshes | threshing | threshed",
+  "ETYMOLOGY":"From Old English þrescan (to beat, strike, thrash), from Proto-Germanic *þerskaną. It is historically related to 'thrash'.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"thresh [sth]",
+      "POS":"vtr",
+      "POS_TIP":"动词，及物 (Transitive Verb)",
+      "TAGS":[
+        "core word",
+        "agriculture"
+      ],
+      "DEF_EN":"To separate grain from the stalks and husks, typically by beating or mechanical action.",
+      "DEF_ZH":"用打谷或机械的方式将谷物（如小麦、水稻）从秸秆和谷壳中分离出来。",
+      "SENT_EN":"The villagers gathered in the barn to thresh the barley harvest.",
+      "SENT_ZH":"村民们聚集在谷仓里脱大麦的谷。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "flail",
+            "beat",
+            "winnow"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "thresher",
+            "thrash"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thresh [sb] / thresh [sth]",
+      "POS":"vtr",
+      "POS_TIP":"动词，及物 (Transitive Verb)",
+      "TAGS":[
+        "literary",
+        "rare",
+        "figurative"
+      ],
+      "DEF_EN":"To beat or strike repeatedly; to thrash severely.",
+      "DEF_ZH":"猛烈地击打；痛打（与“thrash”同义）。",
+      "SENT_EN":"He felt the necessity to thresh the matter out with his business partner.",
+      "SENT_ZH":"他觉得有必要与他的商业伙伴彻底解决这件事。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "thrash",
+            "beat",
+            "flog"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or agricultural context"
+}

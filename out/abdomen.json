@@ -1,0 +1,65 @@
+{
+  "WORD":"abdomen",
+  "IPA":"/ˈæbdəmən/",
+  "CONJUGATES":"abdomens",
+  "ETYMOLOGY":"From Latin abdomen, possibly related to abdere 'to hide, conceal', perhaps referring to the covered or hidden part of the body.",
+  "SINCE":"Circa 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"abdomen",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Core Term",
+        "Anatomy",
+        "Biology"
+      ],
+      "DEF_EN":"The part of the body of a vertebrate containing the digestive organs, situated between the chest (thorax) and the pelvis; the belly.",
+      "DEF_ZH":"腹部；腹腔。脊椎动物位于胸部和骨盆之间，包含消化器官的部分。",
+      "SENT_EN":"The doctor pressed gently on the patient's abdomen to check for tenderness.",
+      "SENT_ZH":"医生轻轻按压患者的腹部以检查是否有压痛。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "belly",
+            "stomach",
+            "gut",
+            "tummy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "abdominal",
+            "thorax",
+            "pelvis"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"abdomen",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "Entomology",
+        "Technical"
+      ],
+      "DEF_EN":"The posterior section of the body of an arthropod (such as an insect, spider, or crustacean), typically composed of several segments.",
+      "DEF_ZH":"腹部（节肢动物身体的后部区域，通常由几个体节构成）。",
+      "SENT_EN":"The wasp's abdomen was clearly segmented and attached to its thorax.",
+      "SENT_ZH":"黄蜂的腹部有明显分节，并与胸部相连。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "cephalothorax",
+            "head"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Medical, Biological"
+}

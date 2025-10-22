@@ -1,0 +1,66 @@
+{
+  "WORD":"thesaurus",
+  "IPA":"/θɪˈsɔːrəs/",
+  "CONJUGATES":"thesauri | thesauruses",
+  "ETYMOLOGY":"From Late Latin thēsaurus, from Greek thēsauros meaning 'treasury, storehouse, collection of treasures'.",
+  "SINCE":"Mid-16th century (for 'storehouse'); early 19th century (for 'dictionary of synonyms')",
+  "MEANINGS":[
+    {
+      "PATTERN":"thesaurus",
+      "POS":"noun",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "core word",
+        "common",
+        "reference"
+      ],
+      "DEF_EN":"A book or resource that lists words and phrases with their synonyms and sometimes antonyms, often arranged by concept.",
+      "DEF_ZH":"（同义词词典）一本或一种资源，列出单词和短语及其同义词和有时反义词，通常按概念排列。",
+      "SENT_EN":"I consulted the thesaurus to find a more precise adjective for the essay.",
+      "SENT_ZH":"我查阅了同义词词典，想为这篇论文找一个更精确的形容词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wordbook",
+            "lexicon",
+            "synonymy"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dictionary",
+            "synonym",
+            "antonym"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thesaurus",
+      "POS":"noun",
+      "POS_TIP":"Noun, countable",
+      "TAGS":[
+        "technical",
+        "information science",
+        "specific"
+      ],
+      "DEF_EN":"In information science, a controlled vocabulary used for indexing, classifying, and retrieving documents or data.",
+      "DEF_ZH":"（信息科学）用于索引、分类和检索文档或数据的受控词汇表或术语列表。",
+      "SENT_EN":"The database relies on a standardized thesaurus to ensure consistent search results.",
+      "SENT_ZH":"该数据库依赖一个标准化的词库来确保搜索结果的一致性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "controlled vocabulary",
+            "index",
+            "metadata"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

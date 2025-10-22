@@ -1,0 +1,65 @@
+{
+  "WORD":"microchip",
+  "IPA":"/ˈmaɪkroʊˌtʃɪp/",
+  "CONJUGATES":"microchips (pl.) | microchipped (v. past/p.p.) | microchipping (v. pres. part.)",
+  "ETYMOLOGY":"Compound of 'micro-' (from Greek *mikros* 'small') and 'chip' (meaning small slice of material). Coined shortly after the invention of the integrated circuit.",
+  "SINCE":"c. 1960",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] microchip",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "technical",
+        "computing"
+      ],
+      "DEF_EN":"A miniature electronic circuit, usually fabricated on a small, flat piece of semiconductor material (especially silicon), containing thousands or millions of transistors, forming the fundamental building block of modern electronic devices.",
+      "DEF_ZH":"集成电路；微芯片。通常制造在小块半导体材料（特别是硅）上的微型电子电路，包含数千或数百万个晶体管，是现代电子设备的基本组成部分。",
+      "SENT_EN":"The global economy relies heavily on the supply chain for advanced microchips.",
+      "SENT_ZH":"全球经济严重依赖先进微芯片的供应链。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chip",
+            "IC",
+            "integrated circuit",
+            "processor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "semiconductor",
+            "transistor",
+            "CPU"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb/animal] microchip",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "identification",
+        "veterinary"
+      ],
+      "DEF_EN":"A small, glass-encased radio-frequency identification (RFID) device implanted under the skin of an animal (or sometimes a person) for permanent identification and tracking.",
+      "DEF_ZH":"身份识别芯片；用于宠物或牲畜皮下植入的微型射频识别(RFID)装置，以便永久识别和追踪。",
+      "SENT_EN":"The vet recommended we microchip our new puppy immediately in case he gets lost.",
+      "SENT_ZH":"兽医建议我们立即为新领养的小狗植入识别芯片，以防它走失。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "RFID tag",
+            "transponder"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage in technology, manufacturing, and pet/animal care contexts."
+}

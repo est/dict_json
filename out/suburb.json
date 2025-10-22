@@ -1,0 +1,55 @@
+{
+  "WORD":"suburb",
+  "IPA":"/ˈsʌbərb/",
+  "CONJUGATES":"suburbs",
+  "ETYMOLOGY":"From Middle English *suburbe*, derived from Old French *suburbe* or directly from Latin *suburbium* (from *sub-* 'under, near' + *urbs* 'city').",
+  "SINCE":"14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] suburb (of [sth])",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "geography",
+        "common"
+      ],
+      "DEF_EN":"A residential district located on the outskirts of a city or large town.",
+      "DEF_ZH":"位于城市或主要城镇边缘的居住区或住宅区。",
+      "SENT_EN":"They moved out of the city center and bought a house in the northern suburb.",
+      "SENT_ZH":"他们搬出了市中心，在北郊买了一栋房子。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "outskirts",
+            "residential area",
+            "commuter belt"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exurb",
+            "urban"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the suburbs",
+      "POS":"noun (plural)",
+      "POS_TIP":"Noun (usually used collectively)",
+      "TAGS":[
+        "collective",
+        "socio-economic"
+      ],
+      "DEF_EN":"The collective residential areas surrounding a major metropolitan area, often implying a specific lifestyle (typically middle-class and family-oriented).",
+      "DEF_ZH":"（集合名词）大城市周围的整个住宅区域，通常与特定的中产阶级生活方式相关联。",
+      "SENT_EN":"The quiet life in the suburbs appealed to the young family.",
+      "SENT_ZH":"郊区宁静的生活吸引了那个年轻的家庭。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General usage"
+}

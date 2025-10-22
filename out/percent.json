@@ -1,0 +1,57 @@
+{
+  "WORD":"percent",
+  "IPA":"/pərˈsɛnt/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Latin 'per' (by, through) and 'centum' (hundred), via Middle French 'pour cent'. The form 'percent' merged from the phrase 'per centum' or 'per cent' in the late 19th century (especially in American English).",
+  "SINCE":"Late 16th century (as 'per centum')",
+  "MEANINGS":[
+    {
+      "PATTERN":"[number] percent",
+      "POS":"adv.",
+      "POS_TIP":"adverb (often used as a post-modifier indicating proportion)",
+      "TAGS":[
+        "Core concept",
+        "Mathematics",
+        "Common"
+      ],
+      "DEF_EN":"Used following a number to indicate a proportion or rate out of every hundred.",
+      "DEF_ZH":"百分之（几）；在一百份中占有的比例。",
+      "SENT_EN":"The interest rate increased by half a percent this month.",
+      "SENT_ZH":"本月利率上涨了百分之零点五。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "percentage",
+            "per mill",
+            "basis point"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a percent of [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (informal short form of 'percentage')",
+      "TAGS":[
+        "Informal",
+        "Colloquial"
+      ],
+      "DEF_EN":"A proportion, share, or part of a whole; a percentage.",
+      "DEF_ZH":"份额；比例；一部分（非正式地用作 percentage 的缩写）。",
+      "SENT_EN":"What percent of the total sales did you handle?",
+      "SENT_ZH":"你处理了总销售额的多少百分比？",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "percentage",
+            "share",
+            "proportion"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, used widely in finance, statistics, and daily conversation."
+}

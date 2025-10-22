@@ -1,0 +1,64 @@
+{
+  "WORD":"bicycle",
+  "IPA":"/'baɪsɪkl/",
+  "CONJUGATES":"bicycles | bicycled | bicycling",
+  "ETYMOLOGY":"From French 'bicyclette', derived from Latin 'bi-' (two) + Greek 'kyklos' (circle, wheel). Coined around the 1860s.",
+  "SINCE":"c. 1868",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a/the] bicycle | bicycles (pl.)",
+      "POS":"noun",
+      "POS_TIP":"A person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "transport",
+        "common"
+      ],
+      "DEF_EN":"A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals connected to the rear wheel by a chain.",
+      "DEF_ZH":"一种交通工具，由两个前后排列的轮子、一个车架和通过链条驱动后轮的脚踏板组成。",
+      "SENT_EN":"He locked his bicycle to the rack outside the library.",
+      "SENT_ZH":"他把自行车锁在图书馆外的车架上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bike",
+            "cycle"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "unicycle",
+            "tricycle",
+            "velocipede"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bicycle [around/to somewhere]",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb (used without a direct object).",
+      "TAGS":[
+        "action",
+        "common"
+      ],
+      "DEF_EN":"To ride or travel by means of a bicycle.",
+      "DEF_ZH":"骑自行车；骑行。",
+      "SENT_EN":"We decided to bicycle along the river path instead of driving.",
+      "SENT_ZH":"我们决定沿着河边小路骑自行车，而不是开车。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cycle",
+            "pedal",
+            "ride"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage across all contexts."
+}

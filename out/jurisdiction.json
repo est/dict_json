@@ -1,0 +1,66 @@
+{
+  "WORD":"jurisdiction",
+  "IPA":"/ˌdʒʊərɪsˈdɪkʃən/",
+  "CONJUGATES":"jurisdictions",
+  "ETYMOLOGY":"From Late Latin *iūrisdictiōnem* (nominative *iūrisdictiō*), from *iūs* (genitive *iūris*, 'law, right') + *dictiō* ('a saying, speaking').",
+  "SINCE":"Late 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb/sth] has jurisdiction over [sth/sb]",
+      "POS":"noun (U)",
+      "POS_TIP":"Uncountable Noun",
+      "TAGS":[
+        "Legal",
+        "Core Word",
+        "Formal"
+      ],
+      "DEF_EN":"The official power or authority of a court or government agency to make legal decisions and judgments.",
+      "DEF_ZH":"法院、政府或其他机构行使法律裁决和判断的官方权力；管辖权。",
+      "SENT_EN":"The federal court ruled it did not have jurisdiction to hear the case.",
+      "SENT_ZH":"联邦法院裁定其对此案没有审理管辖权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "authority",
+            "power",
+            "dominion",
+            "prerogative"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "adjudication",
+            "sovereignty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the jurisdiction of [sth]",
+      "POS":"noun (C)",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "Administrative",
+        "Core Word"
+      ],
+      "DEF_EN":"A specific area, territory, or domain over which a legal or governmental body has control or authority.",
+      "DEF_ZH":"某一法律或政府机构拥有控制权或行使管辖权的特定区域、领土或范围。",
+      "SENT_EN":"These islands fall outside the jurisdiction of the national government.",
+      "SENT_ZH":"这些岛屿位于国家政府的管辖范围之外。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "territory",
+            "province",
+            "sphere",
+            "domain"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, primarily used in legal, governmental, and administrative contexts."
+}

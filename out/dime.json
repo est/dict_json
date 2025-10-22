@@ -1,0 +1,82 @@
+{
+  "WORD":"dime",
+  "IPA":"/daɪm/",
+  "CONJUGATES":"dimes | dimed | diming",
+  "ETYMOLOGY":"From Middle English dime or disme, borrowed from Old French disme (meaning 'tenth part' or 'tithe'), derived from Latin decima (tenth part) related to decem (ten). The coin meaning was standardized in the late 18th century in the US.",
+  "SINCE":"c. 14th century (general 'tenth part'); c. 1792 (US coin)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] dime",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "common",
+        "US English",
+        "currency"
+      ],
+      "DEF_EN":"A United States coin worth ten cents, or one-tenth of a dollar.",
+      "DEF_ZH":"（美）一角硬币；十分钱。",
+      "SENT_EN":"I need to break this dollar bill, I only have a dime and three pennies.",
+      "SENT_ZH":"我需要把这张一美元钞票换开，我只有一枚一角硬币和三个一分硬币。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "penny",
+            "nickel",
+            "quarter"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"drop a dime (on [sb])",
+      "POS":"idiom",
+      "POS_TIP":"Idiomatic Expression (often involving a verb)",
+      "TAGS":[
+        "slang",
+        "US English",
+        "informal",
+        "dated"
+      ],
+      "DEF_EN":"To inform authorities about someone's illegal activity; to betray or report someone. (Originating from the cost of a payphone call needed to contact the police).",
+      "DEF_ZH":"（俚语，常与 drop 连用）告密；告发（某人）。",
+      "SENT_EN":"The mob boss warned his crew never to drop a dime on their associates.",
+      "SENT_ZH":"这位黑帮老大警告他的手下永远不要告发他们的同伙。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "betray",
+            "snitch",
+            "rat out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] dime [sth]",
+      "POS":"verb",
+      "POS_TIP":"Transitive Verb (Sports Slang)",
+      "TAGS":[
+        "slang",
+        "sports",
+        "basketball"
+      ],
+      "DEF_EN":"In basketball, to make a perfect and accurate pass (an assist) to a teammate that leads to a score.",
+      "DEF_ZH":"（篮球俚语）助攻；做出精确传球。",
+      "SENT_EN":"He dimed the ball across the court right into the hands of the cutting center.",
+      "SENT_ZH":"他将球精确地传过了整个球场，直接送到了切入的中锋手中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "assist",
+            "feed"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage is common in US English; certain meanings are restricted to slang or sports contexts."
+}

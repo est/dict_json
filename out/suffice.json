@@ -1,0 +1,55 @@
+{
+  "WORD":"suffice",
+  "IPA":"/səˈfaɪs/",
+  "CONJUGATES":"suffices | sufficing | sufficed",
+  "ETYMOLOGY":"From Middle English, from Old French suffire, from Latin sufficere ('to be enough, to supply, to satisfy'), from sub- ('under, up to') + facere ('to make, do').",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] suffice (for [sth] / to do [sth])",
+      "POS":"vint",
+      "POS_TIP":"Intransitive Verb (a verb that does not require a direct object)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To be enough or adequate for a specified purpose or need.",
+      "DEF_ZH":"足够；够用；满足要求。",
+      "SENT_EN":"We don't need a detailed report; a simple memo will suffice.",
+      "SENT_ZH":"我们不需要一份详细的报告；一份简单的备忘录就足够了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "be enough",
+            "be adequate",
+            "satisfy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fail",
+            "lack",
+            "fall short"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"suffice it to say [that]",
+      "POS":"idiom",
+      "POS_TIP":"Fixed expression, often used formally to indicate that what follows is sufficient information without needing further detail.",
+      "TAGS":[
+        "fixed phrase",
+        "formal"
+      ],
+      "DEF_EN":"A phrase used to indicate that the following statement is all that needs to be said, suggesting further information is unnecessary or implied.",
+      "DEF_ZH":"只需说（……）就够了；只要知道（……）就行了。",
+      "SENT_EN":"Suffice it to say that the negotiations were extremely difficult, even if they ended successfully.",
+      "SENT_ZH":"只需说谈判极其困难就够了，尽管最终成功了。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Standard or formal English, especially in writing."
+}

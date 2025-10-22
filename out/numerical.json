@@ -1,0 +1,66 @@
+{
+  "WORD":"numerical",
+  "IPA":"/nuːˈmɛrɪkəl/",
+  "CONJUGATES":"numerically (adv) | numerality (n)",
+  "ETYMOLOGY":"From Latin *numerus* 'number' combined with the adjectival suffix *-alis*, forming *numeralis* (numeral), and further extended with the suffix *-ic* and *-al*.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"numerical [adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "formal"
+      ],
+      "DEF_EN":"Relating to, expressed in, or consisting of numbers.",
+      "DEF_ZH":"关于数字的；用数字表示的；数字的。",
+      "SENT_EN":"The survey results included both qualitative comments and numerical data.",
+      "SENT_ZH":"调查结果既包括定性评论，也包括数字数据。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "arithmetical",
+            "quantitative",
+            "digital"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "number",
+            "numeral",
+            "statistic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"numerical [adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "computing",
+        "mathematics"
+      ],
+      "DEF_EN":"Involving the use of approximations or algorithms for solving mathematical problems, typically with the aid of a computer (as opposed to analytical solutions).",
+      "DEF_ZH":"(计算) 数值分析的；涉及近似计算或算法的，尤指使用计算机的。",
+      "SENT_EN":"The engineers ran a complex numerical simulation to test the bridge's stability.",
+      "SENT_ZH":"工程师们运行了一个复杂的数值模拟来测试桥梁的稳定性。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "algorithm",
+            "computation",
+            "modeling"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Academic, Technical"
+}

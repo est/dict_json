@@ -1,0 +1,78 @@
+{
+  "WORD":"scribble",
+  "IPA":"/ˈskrɪbəl/",
+  "CONJUGATES":"scribbles | scribbling | scribbled",
+  "ETYMOLOGY":"Late 16th century (verb), early 17th century (noun). From Latin scribillare, a frequentative form of scribere 'to write'.",
+  "SINCE":"c. 1580s",
+  "MEANINGS":[
+    {
+      "PATTERN":"scribble [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To write or draw something quickly or carelessly; to produce illegible writing.",
+      "DEF_ZH":"潦草地写或画；匆忙地记下；乱涂。",
+      "SENT_EN":"She scribbled a quick note and left it on the kitchen counter.",
+      "SENT_ZH":"她匆忙写了一张便条，把它留在厨房柜台上。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scrawl",
+            "jot down",
+            "dash off"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "transcribe",
+            "copy out"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scribble on [sth]",
+      "POS":"vintr + prep",
+      "POS_TIP":"intransitive verb followed by a preposition",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To write or draw haphazardly on a surface.",
+      "DEF_ZH":"在（某物）上乱写乱画。",
+      "SENT_EN":"The children were told not to scribble on the library books.",
+      "SENT_ZH":"孩子们被告知不要在图书馆的书上乱涂乱画。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"a scribble",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "result"
+      ],
+      "DEF_EN":"A piece of hasty, careless, or illegible writing or drawing.",
+      "DEF_ZH":"潦草的字迹；涂鸦；乱画。",
+      "SENT_EN":"The address was reduced to an unreadable scribble.",
+      "SENT_ZH":"那个地址已经被简化成了一串无法辨认的潦草字迹。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "scrawl",
+            "doodle"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Informal"
+}

@@ -1,0 +1,87 @@
+{
+  "WORD":"camera",
+  "IPA":"/ˈkæmərə/",
+  "CONJUGATES":"cameras (plural)",
+  "ETYMOLOGY":"From Latin *camera obscūra* ('dark chamber'). *Camera* originally meant 'vault, chamber, room'. Shortened form adopted for photographic apparatus in the 19th century.",
+  "SINCE":"Mid 17th century (as *camera obscura*); 1839 (photographic device)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "Core Word",
+        "Technology",
+        "Common"
+      ],
+      "DEF_EN":"A device used for taking photographs or making video recordings, consisting of a lens, a light-sensitive sensor or film, and a mechanism for recording the image.",
+      "DEF_ZH":"用于拍照或录制视频的设备，通常由镜头、感光传感器或胶片以及记录图像的机构组成。",
+      "SENT_EN":"Remember to pack your camera charger for the trip.",
+      "SENT_ZH":"记得为这次旅行带上你的相机充电器。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "shooter",
+            "cam"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "lens",
+            "photography",
+            "DSLR",
+            "videography"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"in camera",
+      "POS":"adverbial phrase",
+      "POS_TIP":"Used in legal contexts (often Latin in origin)",
+      "TAGS":[
+        "Legal",
+        "Formal",
+        "Idiom"
+      ],
+      "DEF_EN":"In the private chamber of a judge or court; heard in secret, without the public or jury present.",
+      "DEF_ZH":"（法律用语）在法官或法院的私人办公室进行；不公开地、秘密地审理或听证。",
+      "SENT_EN":"The judge reviewed the confidential documents in camera before ruling on their admissibility.",
+      "SENT_ZH":"法官在裁定其可采性之前，在不公开的情况下审查了机密文件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "confidential",
+            "closed-door"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"noun",
+      "POS_TIP":"Historical/Technical Noun",
+      "TAGS":[
+        "Historical",
+        "Optics"
+      ],
+      "DEF_EN":"Short for *camera obscura*: a darkened box or room with a pinhole or lens through which light passes to project an inverted image of the outside scene onto the opposite surface.",
+      "DEF_ZH":"暗箱（camera obscura）的简称：一种黑暗的盒子或房间，光线通过其中的小孔或镜头，将外部场景的倒置图像投影到对面的表面上。",
+      "SENT_EN":"The principle of the camera was known long before photography was invented.",
+      "SENT_ZH":"在摄影术发明之前很久，暗箱的原理就已经为人所知。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pinhole",
+            "optics"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Legal"
+}

@@ -1,0 +1,58 @@
+{
+  "WORD":"dental",
+  "IPA":"/ˈdɛntəl/",
+  "CONJUGATES":"dentally (adv)",
+  "ETYMOLOGY":"From Late Latin dentalis, derived from Latin dens (genitive dentis) meaning 'tooth'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] dental",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "medical",
+        "common"
+      ],
+      "DEF_EN":"Relating to the teeth or to the profession and practice of dentistry.",
+      "DEF_ZH":"关于牙齿的；牙科的；牙医的。",
+      "SENT_EN":"It is important to maintain good dental hygiene to prevent cavities.",
+      "SENT_ZH":"保持良好的口腔卫生对于预防蛀牙非常重要。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "oral",
+            "dentistry",
+            "odontology"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] dental",
+      "POS":"adj",
+      "POS_TIP":"adjective (Phonetics)",
+      "TAGS":[
+        "technical",
+        "linguistics",
+        "rare"
+      ],
+      "DEF_EN":"(Of a consonant) articulated by the tip or blade of the tongue touching the back of the upper front teeth.",
+      "DEF_ZH":"(语音学) 齿音的；舌尖抵上齿背发音的（如西班牙语中的 /t/）。",
+      "SENT_EN":"The English 'th' sounds (/θ/ and /ð/) are often classified as dental fricatives.",
+      "SENT_ZH":"英语中的“th”音（/θ/ 和 /ð/）通常被归类为齿擦音。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "alveolar",
+            "labial",
+            "palatal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical, Linguistic"
+}

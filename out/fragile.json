@@ -1,0 +1,96 @@
+{
+  "WORD":"fragile",
+  "IPA":"/ˈfrædʒəl/",
+  "CONJUGATES":"more fragile | most fragile",
+  "ETYMOLOGY":"From Middle French *fragile*, from Latin *fragilis* 'breakable', derived from *frangere* 'to break'.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"fragile [sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "physical"
+      ],
+      "DEF_EN":"Easily broken, cracked, or damaged; delicate.",
+      "DEF_ZH":"易碎的；脆弱的；娇嫩的（指物体）。",
+      "SENT_EN":"Please mark the box 'Fragile' because it contains glass items.",
+      "SENT_ZH":"请在这个盒子上标明“易碎品”，因为它里面装有玻璃制品。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "breakable",
+            "brittle",
+            "delicate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "durable",
+            "sturdy",
+            "tough"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fragile [sth abstract/condition]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "metaphorical",
+        "abstract"
+      ],
+      "DEF_EN":"Lacking stability or strength; easily destroyed, disrupted, or upset (referring to relationships, peace, economy, etc.).",
+      "DEF_ZH":"不稳定的；脆弱的；容易受到破坏的（指抽象事物如关系或状态）。",
+      "SENT_EN":"The current economic recovery remains fragile.",
+      "SENT_ZH":"当前的经济复苏仍然脆弱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "precarious",
+            "unstable",
+            "vulnerable"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "instability",
+            "volatility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fragile [person/health]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "descriptive",
+        "health"
+      ],
+      "DEF_EN":"Weak in health or constitution; frail.",
+      "DEF_ZH":"虚弱的；体质纤弱的（指人或健康状况）。",
+      "SENT_EN":"The elderly patient was too fragile to undergo surgery.",
+      "SENT_ZH":"这位年迈的病人身体太过虚弱，无法接受手术。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "frail",
+            "weak",
+            "sickly"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

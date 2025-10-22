@@ -1,0 +1,81 @@
+{
+  "WORD":"gazette",
+  "IPA":"/ɡəˈzɛt/",
+  "CONJUGATES":"gazettes | gazetted | gazetting",
+  "ETYMOLOGY":"From French *gazette*, ultimately from Venetian Italian *gazeta*, possibly referring to a small Venetian coin (the price of the earliest Venetian newspaper, *La gazeta de le nove*, published in the 16th century).",
+  "SINCE":"c. 1560s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] gazette",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun (often used with 'the' for specific governmental publications)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "governmental"
+      ],
+      "DEF_EN":"An official journal or newspaper, especially one published by a government or public authority containing official announcements, laws, appointments, or military notices.",
+      "DEF_ZH":"公报；官方报纸；特指政府或公共机构发布官方公告、法律、任命或军事通知的刊物。",
+      "SENT_EN":"The commencement of the new regulation was published in the official government gazette.",
+      "SENT_ZH":"新法规的开始已在官方政府公报上刊登。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "official journal",
+            "register",
+            "public record"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a gazette",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "common",
+        "dated",
+        "often in titles"
+      ],
+      "DEF_EN":"A general newspaper or periodical (often found in the names of historical or regional papers, e.g., 'The Boston Gazette').",
+      "DEF_ZH":"报纸；期刊 (常用于历史或地方报纸的名称中)。",
+      "SENT_EN":"He writes a weekly column for the local gazette.",
+      "SENT_ZH":"他为当地的报纸撰写每周专栏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "newspaper",
+            "paper",
+            "periodical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"gazette [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "formal",
+        "governmental"
+      ],
+      "DEF_EN":"To announce or publish (an official notice, appointment, or decision) in an official gazette.",
+      "DEF_ZH":"在官方公报上宣布或刊登（官方通知、任命或决定）。",
+      "SENT_EN":"His appointment as ambassador was officially gazetted last month.",
+      "SENT_ZH":"他被任命为大使的消息已于上个月正式在公报上刊登。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "publish",
+            "announce",
+            "proclaim"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Governmental, or Historical Print Media."
+}

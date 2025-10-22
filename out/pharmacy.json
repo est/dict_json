@@ -1,0 +1,64 @@
+{
+  "WORD":"pharmacy",
+  "IPA":"/ˈfɑːrməsi/",
+  "CONJUGATES":"pharmacies (pl.)",
+  "ETYMOLOGY":"From Medieval Latin pharmacia, from Greek pharmakeia ('use of drugs, healing, or sorcery'), related to pharmakon ('drug, poison'). Emerged in English usage via Old French.",
+  "SINCE":"Late 14th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] pharmacy",
+      "POS":"n. countable",
+      "POS_TIP":"Noun, refers to an individual item or place that can be counted.",
+      "TAGS":[
+        "core word",
+        "location",
+        "common"
+      ],
+      "DEF_EN":"A shop or store where medicinal drugs are prepared, dispensed, and sold, often including non-medicinal health and beauty products.",
+      "DEF_ZH":"药店；药房；配发和出售药物的商店。",
+      "SENT_EN":"I stopped by the pharmacy to pick up my new glasses prescription and some cough syrup.",
+      "SENT_ZH":"我顺道去了药房，取我的新眼镜处方和一些止咳糖浆。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chemist's (UK)",
+            "drugstore (US)"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "dispensary",
+            "apothecary"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"pharmacy",
+      "POS":"n. uncountable",
+      "POS_TIP":"Noun, refers to a concept, subject, or mass that cannot be counted individually.",
+      "TAGS":[
+        "academic",
+        "profession",
+        "science"
+      ],
+      "DEF_EN":"The science, art, or practice of preparing, preserving, compounding, and dispensing medicinal drugs.",
+      "DEF_ZH":"药学；药剂学（制药和配药的科学或实践）。",
+      "SENT_EN":"She specialized in clinical pharmacy, focusing on direct patient care.",
+      "SENT_ZH":"她主修临床药学，专注于直接的患者护理。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "pharmacology",
+            "pharmacist",
+            "medicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Medical"
+}

@@ -1,0 +1,62 @@
+{
+  "WORD":"lung",
+  "IPA":"/lʌŋ/",
+  "CONJUGATES":"lungs",
+  "ETYMOLOGY":"From Old English *lungen*, derived from Proto-Germanic *lungōn-*. The term is possibly related to the lightness of the organ (compare Old English *lēoht* 'light' in weight), contrasting with heavier organs like the liver.",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] lung | a pair of lungs",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "anatomy",
+        "common"
+      ],
+      "DEF_EN":"Either of the two primary respiratory organs in the chest of vertebrates, responsible for drawing in air and transferring oxygen to the blood, while removing carbon dioxide.",
+      "DEF_ZH":"脊椎动物胸腔内的一对主要呼吸器官，负责吸入空气并将氧气输送给血液，同时排出二氧化碳。",
+      "SENT_EN":"Smoking can cause significant damage to the lungs over time.",
+      "SENT_ZH":"吸烟会随着时间对肺部造成严重的损害。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pulmonary organ"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "respiration",
+            "bronchus",
+            "diaphragm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"at the top of one's lungs",
+      "POS":"idiom",
+      "POS_TIP":"Idiomatic Expression (referring to the maximum capacity of one's voice)",
+      "TAGS":[
+        "idiom",
+        "informal"
+      ],
+      "DEF_EN":"Used figuratively to mean shouting or speaking with the greatest possible volume.",
+      "DEF_ZH":"形容以最大的音量或强度（声带所能发出的最大音量）喊叫或说话。",
+      "SENT_EN":"The fans cheered for their team at the top of their lungs.",
+      "SENT_ZH":"球迷们竭尽全力地为他们的队伍欢呼。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "loudly",
+            "vociferously"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Medical"
+}

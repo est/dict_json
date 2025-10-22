@@ -1,0 +1,49 @@
+{
+  "WORD":"fahrenheit",
+  "IPA":"/ˈfærənhaɪt/",
+  "CONJUGATES":"Fahrenheit (preferred capitalization) | F",
+  "ETYMOLOGY":"Named after the German physicist Daniel Gabriel Fahrenheit (1686–1736), who devised the scale in 1724.",
+  "SINCE":"1724",
+  "MEANINGS":[
+    {
+      "PATTERN":"fahrenheit [N]",
+      "POS":"noun",
+      "POS_TIP":"A word used to refer to a person, place, thing, or idea.",
+      "TAGS":[
+        "core word",
+        "science",
+        "unit of measure",
+        "common (US)"
+      ],
+      "DEF_EN":"A temperature scale (symbol F) where the freezing point of water is 32 degrees and the boiling point is 212 degrees.",
+      "DEF_ZH":"華氏溫標（符號 F），水的冰點為32度，沸點為212度。",
+      "SENT_EN":"Most countries use Celsius, but the United States still primarily uses Fahrenheit for weather reporting.",
+      "SENT_ZH":"大多數國家使用攝氏溫標，但美國仍主要使用華氏溫標進行天氣報告。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "Celsius",
+            "Kelvin",
+            "temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"fahrenheit [adj]",
+      "POS":"adjective",
+      "POS_TIP":"A word that describes or modifies a noun.",
+      "TAGS":[
+        "technical",
+        "attribute"
+      ],
+      "DEF_EN":"Relating to or measured using the Fahrenheit scale.",
+      "DEF_ZH":"與華氏溫標相關的；用華氏溫標測量的。",
+      "SENT_EN":"The room temperature was exactly 68 degrees Fahrenheit.",
+      "SENT_ZH":"室溫正好是華氏68度。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Technical and common (especially in the United States and a few Caribbean nations)."
+}

@@ -1,0 +1,68 @@
+{
+  "WORD":"mailbox",
+  "IPA":"/'meɪlˌbɑks/",
+  "CONJUGATES":"mailboxes",
+  "ETYMOLOGY":"Compound of 'mail' (post, communication) and 'box' (container). 'Mail' traces back to Old French 'male' (bag, satchel).",
+  "SINCE":"Early 19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] check the mailbox",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"A private box or slot, usually located outside a residence or business, used for receiving letters and packages delivered by the postal service.",
+      "DEF_ZH":"私人信箱；邮筒。通常位于住宅或企业外部，用于接收邮政服务递送的信件和包裹。",
+      "SENT_EN":"I forgot to check the mailbox this afternoon, but the postman usually comes around noon.",
+      "SENT_ZH":"我今天下午忘了查信箱，但邮递员通常中午左右来。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "letterbox",
+            "post box"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "post office",
+            "parcel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] clear their mailbox",
+      "POS":"noun",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Tech",
+        "Common"
+      ],
+      "DEF_EN":"A digital storage area where electronic messages (such as email or voicemail) are collected and stored until the recipient accesses them.",
+      "DEF_ZH":"电子邮箱；语音信箱。用于收集和存储电子信息（如电子邮件或语音留言）的数字存储区域。",
+      "SENT_EN":"His voicemail mailbox was full, so I couldn't leave a message.",
+      "SENT_ZH":"他的语音信箱满了，所以我无法留言。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "inbox"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "email",
+            "voicemail",
+            "server"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General communication and computing"
+}

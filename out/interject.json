@@ -1,0 +1,65 @@
+{
+  "WORD":"interject",
+  "IPA":"/ˌɪntərˈdʒɛkt/",
+  "CONJUGATES":"interjects | interjecting | interjected",
+  "ETYMOLOGY":"From Latin interjectus, past participle of interjicere ('throw between'): inter- ('between') + jacere ('to throw').",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"interject [sth] | interject [sth] into [sth]",
+      "POS":"vtr/vit",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "speech"
+      ],
+      "DEF_EN":"To say something abruptly, especially as an interruption in a conversation or discourse.",
+      "DEF_ZH":"插话；突然插入（评论或语句等）以打断他人的讲话。",
+      "SENT_EN":"He tried to interject a note of realism into the discussion.",
+      "SENT_ZH":"他试图在讨论中插入一句现实的评论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "interrupt",
+            "butt in",
+            "chime in",
+            "cut in"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "interjection",
+            "interruption"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"interject [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To introduce or place something between other things.",
+      "DEF_ZH":"插入；置于两者之间（指物理或抽象的插入）。",
+      "SENT_EN":"The artist chose to interject bold strokes of color between the softer shades.",
+      "SENT_ZH":"艺术家选择在柔和的色调之间插入大胆的笔触。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insert",
+            "interpolate",
+            "introduce"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard"
+}

@@ -1,0 +1,89 @@
+{
+  "WORD":"summary",
+  "IPA":"/ˈsʌməri/",
+  "CONJUGATES":"summaries (plural)",
+  "ETYMOLOGY":"From Medieval Latin summarius ('of or pertaining to the sum or substance'), derived from Latin summa ('sum, total, main point'). Adopted into English as an adjective in the late 15th century, and as a noun in the early 17th century.",
+  "SINCE":"c. 1610s (noun)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] summary [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A brief statement or account that covers the main points of a longer text, report, speech, or event.",
+      "DEF_ZH":"对较长的文本、报告、演讲或事件的主要内容进行简短的陈述或说明；摘要，概要。",
+      "SENT_EN":"Please provide a one-page summary of the research findings by the end of the day.",
+      "SENT_ZH":"请在今天结束前提供一份研究结果的一页摘要。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "abstract",
+            "synopsis",
+            "résumé",
+            "précis",
+            "overview"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "detail",
+            "elaboration",
+            "expansion"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] summary [judgment/process]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (Attributive Use)",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"Dispensed with, done, or achieved quickly, without formality or delay.",
+      "DEF_ZH":"快速地、不经正式手续地处理或完成的；简易的。",
+      "SENT_EN":"The manager made a summary decision to close the branch immediately.",
+      "SENT_ZH":"经理做出了立即关闭该分支机构的简易决定。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "concise",
+            "expeditious",
+            "curt"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"summary [procedure]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (Legal Context)",
+      "TAGS":[
+        "specialized",
+        "legal"
+      ],
+      "DEF_EN":"(Of legal proceedings) Conducted quickly without the full formalities of a trial, especially without a jury.",
+      "DEF_ZH":"（指法律程序）未经陪审团审理，快速且非正式地进行的；简易程序的。",
+      "SENT_EN":"The court granted a summary judgment, avoiding a lengthy trial.",
+      "SENT_ZH":"法院批准了简易判决，避免了漫长的审判。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "trial",
+            "judgment",
+            "injunction"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Used generally in academic, professional, and everyday contexts."
+}

@@ -1,0 +1,59 @@
+{
+  "WORD":"vowel",
+  "IPA":"/ˈvaʊəl/",
+  "CONJUGATES":"vowels",
+  "ETYMOLOGY":"From Middle English, via Old French *vouel*, ultimately from Latin *vocalis* (littera) 'vocal (letter)', derived from *vox* (voice).",
+  "SINCE":"c. 1350 (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (sound)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "linguistics",
+        "phonetics"
+      ],
+      "DEF_EN":"A speech sound produced by open vocal tract articulation, without significant obstruction of the airflow or audible friction, typically forming the nucleus of a syllable.",
+      "DEF_ZH":"一种言语声音，发音时声道的发音器官没有明显的阻塞或摩擦，气流自由通过，通常构成音节的核心。",
+      "SENT_EN":"The differentiation between front vowels and back vowels is key to understanding accent variations.",
+      "SENT_ZH":"前元音和后元音之间的区分是理解口音变化的关键。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "vocalic sound"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "consonant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (letter)",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "orthography"
+      ],
+      "DEF_EN":"A letter of the alphabet representing a vowel sound, typically A, E, I, O, U, and sometimes Y in English.",
+      "DEF_ZH":"代表元音声音的字母，在英语中通常指 A、E、I、O、U，有时也包括 Y。",
+      "SENT_EN":"Students are often taught that every syllable must contain at least one vowel.",
+      "SENT_ZH":"学生们通常被教导每个音节必须至少包含一个元音字母。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "consonant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common usage, academic (linguistics)"
+}

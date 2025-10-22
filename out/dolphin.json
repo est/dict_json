@@ -1,0 +1,78 @@
+{
+  "WORD":"dolphin",
+  "IPA":"/ˈdɑːlfɪn/",
+  "CONJUGATES":"dolphins",
+  "ETYMOLOGY":"From Middle English dolfin, from Old French dauphin, from Latin delphīnus, from Ancient Greek δελφίς (delphís, 'dolphin').",
+  "SINCE":"c. 1200s",
+  "MEANINGS":[
+    {
+      "PATTERN":"dolphin",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "biology",
+        "common"
+      ],
+      "DEF_EN":"A small, highly intelligent, social toothed whale of the family Delphinidae, characterized by a streamlined body and a prominent curved dorsal fin.",
+      "DEF_ZH":"海豚。海豚科中一种小型、高度智能、群居的齿鲸，特征是流线型身体和明显的弯曲背鳍。",
+      "SENT_EN":"A playful dolphin surfaced near the bow of the boat.",
+      "SENT_ZH":"一只爱玩的海豚在船头附近浮出水面。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "porpoise",
+            "cetacean"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "whale",
+            "orca",
+            "beluga"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"Dolphin",
+      "POS":"prop n",
+      "POS_TIP":"proper noun",
+      "TAGS":[
+        "astronomy",
+        "specific"
+      ],
+      "DEF_EN":"The constellation Delphinus, located in the northern celestial hemisphere.",
+      "DEF_ZH":"海豚座。位于北天球的星座。",
+      "SENT_EN":"You can locate the Dolphin constellation near Aquila in the summer sky.",
+      "SENT_ZH":"在夏季夜空中，你可以在天鹰座附近找到海豚座。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"dolphin",
+      "POS":"n",
+      "POS_TIP":"noun (nautical)",
+      "TAGS":[
+        "technical",
+        "nautical",
+        "rare"
+      ],
+      "DEF_EN":"A structure, usually a cluster of piles, used in nautical contexts for mooring large vessels or serving as a fender or marker, often offshore.",
+      "DEF_ZH":"（航海）系船桩/靠船桩。在航海环境中用于系泊大型船只、作为护舷或标志的结构，通常是一组桩柱。",
+      "SENT_EN":"The barge was temporarily secured to a mooring dolphin in the harbor.",
+      "SENT_ZH":"驳船暂时被系泊在港口的一个系船桩上。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "piling",
+            "jetty"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Biological, Nautical"
+}

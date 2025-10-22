@@ -1,0 +1,67 @@
+{
+  "WORD":"tyrant",
+  "IPA":"/ˈtaɪrənt/",
+  "CONJUGATES":"tyrants (pl.)",
+  "ETYMOLOGY":"From Old French tiran, from Latin tyrannus, from Ancient Greek τύραννος (týrannos), meaning 'absolute ruler, lord'. The negative connotation developed later.",
+  "SINCE":"c. 1300",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] tyrant",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "politics",
+        "historical",
+        "pejorative"
+      ],
+      "DEF_EN":"A cruel and oppressive absolute ruler; a sovereign or other ruler who uses power unjustly or arbitrarily.",
+      "DEF_ZH":"残暴且压迫性的绝对统治者；专制君主或不公正地使用权力的统治者；暴君。",
+      "SENT_EN":"The people rejoiced when the tyrant was finally overthrown and exiled.",
+      "SENT_ZH":"当暴君最终被推翻并流放时，人民欢欣鼓舞。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dictator",
+            "autocrat",
+            "despot",
+            "oppressor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "tyranny",
+            "authoritarian"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] tyrant (over [sb])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "common",
+        "figurative",
+        "negative"
+      ],
+      "DEF_EN":"A person who exercises power or control in a harsh, cruel, or domineering way over others, especially in a domestic or limited context.",
+      "DEF_ZH":"以残酷、苛刻或专横的方式对他人行使权力或控制的人（常用于家庭或有限的背景）。",
+      "SENT_EN":"The old foreman was a petty tyrant who made everyone's life miserable.",
+      "SENT_ZH":"那位老工头是个小暴君，让每个人的生活都很痛苦。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bully",
+            "master",
+            "domineer"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Political Contexts"
+}

@@ -1,0 +1,85 @@
+{
+  "WORD":"utter",
+  "IPA":"/ˈʌtər/",
+  "CONJUGATES":"utters | uttering | uttered",
+  "ETYMOLOGY":"Late Old English ūtera (adjective) meaning 'outer, external' (comparative form of ūt, 'out'). The verb sense 'to put out, disclose, circulate' developed around the 14th century, and the sense 'to speak' developed in the 16th century.",
+  "SINCE":"Old English (Adjective); 14th Century (Verb)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "absolute"
+      ],
+      "DEF_EN":"Complete; absolute; total (used to emphasize a noun).",
+      "DEF_ZH":"完全的；十足的；彻底的（用于强调名词）。",
+      "SENT_EN":"The concert was an utter failure from beginning to end.",
+      "SENT_ZH":"这场音乐会从头到尾都是彻底的失败。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "absolute",
+            "total",
+            "complete",
+            "sheer",
+            "downright"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"utter [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To make a sound or voice; to speak or pronounce something.",
+      "DEF_ZH":"发出（声音）；说出；讲（通常指表达某种意见或情绪）。",
+      "SENT_EN":"He couldn't utter a single word in his defense.",
+      "SENT_ZH":"他无法说出一句为自己辩护的话。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "speak",
+            "say",
+            "vocalize",
+            "pronounce",
+            "express"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"utter [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "legal",
+        "specific context"
+      ],
+      "DEF_EN":"To put (counterfeit money or forged documents) into circulation.",
+      "DEF_ZH":"(法律) 将（伪钞、假文件等）投入流通；行使。",
+      "SENT_EN":"The suspect was accused of counterfeiting and uttering fraudulent documents.",
+      "SENT_ZH":"该嫌疑人被指控伪造和行使欺诈性文件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "circulate",
+            "pass",
+            "tender"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Neutral/Formal (Verb sense often leans formal or literary)"
+}

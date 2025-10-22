@@ -1,0 +1,75 @@
+{
+  "WORD":"illness",
+  "IPA":"/ˈɪlnəs/",
+  "CONJUGATES":"illnesses",
+  "ETYMOLOGY":"From Middle English 'illenes', combining the adjective 'ill' (of Old Norse origin, meaning 'bad, wicked, diseased') and the suffix '-ness' (indicating state or condition, from Old English).",
+  "SINCE":"c. 1400",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]'s illness | an illness",
+      "POS":"nc/nu",
+      "POS_TIP":"countable noun or uncountable noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "medical"
+      ],
+      "DEF_EN":"A state of poor health, or a specific disease or sickness, affecting the body or mind.",
+      "DEF_ZH":"身体或精神不健康的状态；具体的疾病或病症。",
+      "SENT_EN":"She was diagnosed with a chronic illness that required long-term treatment.",
+      "SENT_ZH":"她被诊断出患有一种需要长期治疗的慢性病。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sickness",
+            "disease",
+            "ailment",
+            "malady",
+            "infirmity"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "health",
+            "wellness",
+            "vigor"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pathology",
+            "condition"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the illness of [sth]",
+      "POS":"nu",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "formal",
+        "figurative"
+      ],
+      "DEF_EN":"A detrimental or unhealthy quality or corrupting condition affecting an organization, society, or a system.",
+      "DEF_ZH":"影响组织、社会或系统的有害或腐败状况（比喻用法）。",
+      "SENT_EN":"Many critics commented on the economic illness plaguing the nation's manufacturing sector.",
+      "SENT_ZH":"许多评论家对困扰该国制造业的经济弊病发表了评论。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "malaise",
+            "blight",
+            "corruption",
+            "sickness"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Standard English"
+}

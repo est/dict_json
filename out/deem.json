@@ -1,0 +1,55 @@
+{
+  "WORD":"deem",
+  "IPA":"/diːm/",
+  "CONJUGATES":"deems | deemed | deeming",
+  "ETYMOLOGY":"From Middle English 'demen', from Old English 'dēman' (to judge, decide), derived from 'dōm' (judgment, doom).",
+  "SINCE":"Before 12th century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"deem [sth] (to be) [adj/n]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "formal",
+        "common"
+      ],
+      "DEF_EN":"To regard or consider in a specified way; to judge.",
+      "DEF_ZH":"认为；视为；判断",
+      "SENT_EN":"The court will deem the agreement valid only if all parties sign it.",
+      "SENT_ZH":"只有所有当事方签署，法院才会认为该协议有效。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consider",
+            "regard",
+            "judge",
+            "hold"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "judgment",
+            "doom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"deem [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "literary",
+        "archaic"
+      ],
+      "DEF_EN":"To pass judgment or pronounce an opinion; to decide.",
+      "DEF_ZH":"裁决；决定（古体用法）",
+      "SENT_EN":"He felt that fate had deemed him unworthy of success.",
+      "SENT_ZH":"他觉得命运裁定他配不上成功。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"formal | legal"
+}

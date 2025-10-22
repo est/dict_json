@@ -1,0 +1,107 @@
+{
+  "WORD":"radial",
+  "IPA":"/ˈreɪdiəl/",
+  "CONJUGATES":"radials | more radial | most radial",
+  "ETYMOLOGY":"From Latin radialis, from radius ('ray, spoke'). Attested in English since the mid-17th century.",
+  "SINCE":"c. 1640s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is radial",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "general"
+      ],
+      "DEF_EN":"Relating to a radius; arranged in rays or spokes extending from a center.",
+      "DEF_ZH":"辐射状的；径向的；（结构）围绕中心点向外伸展的。",
+      "SENT_EN":"The radial design of the city plaza made navigation easy.",
+      "SENT_ZH":"这个城市广场的辐射状设计使得导航变得容易。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "radiating",
+            "spoke-like",
+            "concentric"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "linear",
+            "parallel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] is radial",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "engineering",
+        "physics",
+        "technical"
+      ],
+      "DEF_EN":"Moving or acting along a radius; directed along a line perpendicular to an axis.",
+      "DEF_ZH":"径向的；（运动或力）沿着半径方向的。",
+      "SENT_EN":"Engineers measure the radial velocity of the rotating part.",
+      "SENT_ZH":"工程师们测量旋转部件的径向速度。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tangential",
+            "axial"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"radial [body part]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "anatomy",
+        "medical"
+      ],
+      "DEF_EN":"Relating to the radius bone, artery, or nerve of the forearm.",
+      "DEF_ZH":"桡骨的；桡侧的（指与前臂桡骨相关的）。",
+      "SENT_EN":"The nurse palpated the patient's radial artery to check the pulse.",
+      "SENT_ZH":"护士触摸病人的桡动脉来检查脉搏。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "ulnar",
+            "carpal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb] uses radials",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "automotive",
+        "common"
+      ],
+      "DEF_EN":"A radial-ply tire; a pneumatic tire constructed with ply cords arranged radially (at 90 degrees) to the direction of travel.",
+      "DEF_ZH":"子午线轮胎；辐射层轮胎（一种胎体帘线与胎面中心线呈90度角的轮胎）。",
+      "SENT_EN":"Most modern cars are equipped with radials for better grip and longevity.",
+      "SENT_ZH":"大多数现代汽车都配备了子午线轮胎，以获得更好的抓地力和寿命。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "tire",
+            "bias-ply"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical, Automotive"
+}

@@ -1,0 +1,65 @@
+{
+  "WORD":"bathroom",
+  "IPA":"/ˈbæθruːm/",
+  "CONJUGATES":"bathrooms",
+  "ETYMOLOGY":"Compound word, combining 'bath' (from Old English bað, related to washing) and 'room' (from Old English rūm, meaning space or chamber).",
+  "SINCE":"Mid-19th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"bathroom",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "architecture"
+      ],
+      "DEF_EN":"A room in a house or public building containing facilities for washing, typically including a toilet, sink, and often a bathtub or shower.",
+      "DEF_ZH":"房屋或公共建筑中，设有洗涤设施的房间，通常包括马桶、洗手盆和浴缸或淋浴。",
+      "SENT_EN":"Please wait a moment, I need to wash my hands in the bathroom.",
+      "SENT_ZH":"请稍等一下，我需要在洗手间洗手。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restroom",
+            "lavatory",
+            "washroom",
+            "toilet",
+            "loo"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "powder room",
+            "en suite"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"bathroom",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "specific",
+        "historical"
+      ],
+      "DEF_EN":"A room designated solely for bathing or showering, historically sometimes separate from the water closet (toilet).",
+      "DEF_ZH":"专门用于沐浴或淋浴的房间（历史上或在某些设计中，与仅包含马桶的房间分开）。",
+      "SENT_EN":"The original plan included a small water closet and a separate main bathroom.",
+      "SENT_ZH":"最初的计划包括一个小的水厕和一个单独的主浴室。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "shower room",
+            "water closet"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, high frequency."
+}

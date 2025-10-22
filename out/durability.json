@@ -1,0 +1,65 @@
+{
+  "WORD":"durability",
+  "IPA":"/ˌdʊrəˈbɪlɪti/",
+  "CONJUGATES":"durabilities (plural, rare)",
+  "ETYMOLOGY":"From Middle French durabilité, derived from Latin durabilis ('durable'), from durare ('to last, endure').",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth]'s durability",
+      "POS":"noun",
+      "POS_TIP":"uncountable or countable noun",
+      "TAGS":[
+        "Core word",
+        "Quality",
+        "Technical"
+      ],
+      "DEF_EN":"The quality of being able to last for a long time without significant wear, damage, or deterioration.",
+      "DEF_ZH":"耐用性；持久性；耐久力。",
+      "SENT_EN":"The durability of these hiking boots is impressive, lasting several seasons of tough usage.",
+      "SENT_ZH":"这些登山靴的耐用性令人印象深刻，经受住了好几个季节的严酷使用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "robustness",
+            "resilience",
+            "toughness",
+            "permanence"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "fragility",
+            "perishability",
+            "weakness"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "durable",
+            "endurance"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"durability [of sth] (measured)",
+      "POS":"noun",
+      "POS_TIP":"uncountable noun, typically used in technical contexts",
+      "TAGS":[
+        "Specialized",
+        "Engineering",
+        "Commercial"
+      ],
+      "DEF_EN":"A quantifiable measure of how long a material, component, or system can function or retain value under specific conditions.",
+      "DEF_ZH":"（材料、产品等的）耐久度；预期寿命或保值能力。",
+      "SENT_EN":"Automotive manufacturers conduct rigorous tests to assess the long-term durability of engine components.",
+      "SENT_ZH":"汽车制造商进行严格的测试，以评估发动机部件的长期耐久度。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General, often used in commerce, manufacturing, and engineering."
+}

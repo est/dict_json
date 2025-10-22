@@ -1,0 +1,96 @@
+{
+  "WORD":"obstacle",
+  "IPA":"/ˈɑːbstəkəl/",
+  "CONJUGATES":"obstacles",
+  "ETYMOLOGY":"From Middle English, via Old French obstacle, from Latin obstaculum ('a barrier'), derived from obstāre ('to stand in the way of, hinder'), from ob- ('against') + stāre ('to stand').",
+  "SINCE":"c. 14th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"obstacle [to sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A physical object or barrier that prevents or hinders movement or access.",
+      "DEF_ZH":"阻碍运动或通行的物理物体或屏障；障碍物。",
+      "SENT_EN":"The fallen tree was a major obstacle on the road.",
+      "SENT_ZH":"那棵倒下的树是道路上的主要障碍物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barrier",
+            "blockade",
+            "impediment",
+            "obstruction"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "path",
+            "passage",
+            "way"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"obstacle [to achieving sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "common"
+      ],
+      "DEF_EN":"A difficulty or problem that must be overcome to achieve a goal or make progress.",
+      "DEF_ZH":"必须克服的困难或问题，用于实现目标或取得进展的阻碍。",
+      "SENT_EN":"Lack of reliable data remains the biggest obstacle to finding a solution.",
+      "SENT_ZH":"缺乏可靠数据仍然是找到解决方案的最大障碍。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hindrance",
+            "setback",
+            "stumbling block",
+            "difficulty"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "challenge",
+            "predicament"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"obstacle course",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "technical",
+        "sports",
+        "military"
+      ],
+      "DEF_EN":"A structure or natural feature that participants must traverse or overcome in a competition, race, or training exercise.",
+      "DEF_ZH":"在比赛、竞赛或训练中，参与者必须穿越或克服的结构或自然特征（特指障碍赛或训练场中的某一设施）。",
+      "SENT_EN":"The army trainees had to crawl under wire netting, which was the hardest obstacle.",
+      "SENT_ZH":"陆军学员必须爬过铁丝网，这是最难的一个障碍。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "hurdle",
+            "steeplechase"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

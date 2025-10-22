@@ -1,0 +1,67 @@
+{
+  "WORD":"intervene",
+  "IPA":"/ˌɪntərˈviːn/",
+  "CONJUGATES":"intervened | intervening | intervenes",
+  "ETYMOLOGY":"From Latin intervenire, from inter- ('between') + venire ('to come'). Meaning 'to come between' or 'to happen in the interval'.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"intervene [in sth]",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb (a verb that does not require a direct object, often followed by a preposition)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "action"
+      ],
+      "DEF_EN":"To become involved in a situation in order to influence the outcome, often to prevent or modify a conflict or course of events.",
+      "DEF_ZH":"干预；介入（某事或冲突），旨在影响结果或阻止事态发展。",
+      "SENT_EN":"The teacher had to intervene quickly when the students started arguing.",
+      "SENT_ZH":"当学生们开始争吵时，老师不得不迅速介入干预。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mediate",
+            "interfere",
+            "step in",
+            "arbitrate"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "stand aside",
+            "withdraw",
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"intervene",
+      "POS":"vintr",
+      "POS_TIP":"Intransitive verb (a verb that does not require a direct object)",
+      "TAGS":[
+        "less common",
+        "formal",
+        "time"
+      ],
+      "DEF_EN":"To occur or happen during an interval of time or space; to lie or come between.",
+      "DEF_ZH":"发生于其间；介于（时间或空间）之间。",
+      "SENT_EN":"A period of five years intervened between his college graduation and his first job.",
+      "SENT_ZH":"他的大学毕业和第一份工作之间间隔了五年时间。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "come between",
+            "lapse",
+            "pass"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard to Formal"
+}

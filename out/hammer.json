@@ -1,0 +1,122 @@
+{
+  "WORD":"hammer",
+  "IPA":"/ˈhæmər/",
+  "CONJUGATES":"hammers (n. pl.) | hammers (v. 3rd sg.) | hammering (v. pres. part.) | hammered (v. past/pp.)",
+  "ETYMOLOGY":"From Old English hamor, from Proto-Germanic *hameraz, related to other Germanic words for stone or implement.",
+  "SINCE":"Pre-900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] hammer",
+      "POS":"n.",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "core word",
+        "tool"
+      ],
+      "DEF_EN":"A tool with a heavy metal head fixed crosswise to a handle, used for driving nails, breaking things, or shaping metal.",
+      "DEF_ZH":"一种工具，带有垂直于手柄的重金属头，用于敲击钉子、破碎物体或塑形金属。",
+      "SENT_EN":"He grabbed the hammer and some nails to start building the frame.",
+      "SENT_ZH":"他拿起锤子和一些钉子开始搭建框架。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mallet",
+            "sledgehammer",
+            "gavel"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hammer [sth]",
+      "POS":"vtr/vi",
+      "POS_TIP":"transitive or intransitive verb (及物或不及物动词)",
+      "TAGS":[
+        "core verb",
+        "action"
+      ],
+      "DEF_EN":"To strike or hit repeatedly and forcibly with or as if with a hammer.",
+      "DEF_ZH":"用锤子或像用锤子一样反复用力敲打。",
+      "SENT_EN":"The sculptor hammered the chisel against the stone to carve the details.",
+      "SENT_ZH":"雕塑家将凿子反复敲击石头以雕刻细节。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "pound",
+            "beat",
+            "strike"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"hammer [a point] home",
+      "POS":"vtr + adv",
+      "POS_TIP":"transitive verb followed by an adverb (及物动词加副词)",
+      "TAGS":[
+        "figurative",
+        "idiomatic"
+      ],
+      "DEF_EN":"To emphasize a message or point repeatedly and forcefully until it is clearly understood or accepted.",
+      "DEF_ZH":"反复而有力地强调一个信息或观点，直到它被清楚地理解或接受。",
+      "SENT_EN":"The CEO hammered home the need for budget cuts during the staff meeting.",
+      "SENT_ZH":"在员工会议上，首席执行官反复强调了削减预算的必要性。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stress",
+            "emphasize",
+            "insist"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the hammer of [a] firearm",
+      "POS":"n.",
+      "POS_TIP":"noun (名词)",
+      "TAGS":[
+        "technical",
+        "firearms"
+      ],
+      "DEF_EN":"The movable part of a firearm that strikes the firing pin or the cartridge to fire the weapon.",
+      "DEF_ZH":"枪械中用于撞击击针或弹壳以发射武器的可动部分，即击锤。",
+      "SENT_EN":"The cowboy slowly pulled back the hammer on his revolver.",
+      "SENT_ZH":"那个牛仔慢慢拉回了他左轮手枪上的击锤。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"be hammered",
+      "POS":"adj. (derived from pp)",
+      "POS_TIP":"adjective derived from past participle (源于过去分词的形容词)",
+      "TAGS":[
+        "informal",
+        "slang"
+      ],
+      "DEF_EN":"Extremely drunk or intoxicated.",
+      "DEF_ZH":"酩酊大醉的；喝得烂醉的。",
+      "SENT_EN":"They got completely hammered at the wedding reception last night.",
+      "SENT_ZH":"昨晚的婚宴上，他们彻底喝醉了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wasted",
+            "drunk",
+            "plastered"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "sober"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"The noun and core verb forms are standard. The adjective meaning ('hammered') is informal/slang."
+}

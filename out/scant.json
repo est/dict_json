@@ -1,0 +1,106 @@
+{
+  "WORD":"scant",
+  "IPA":"/skænt/",
+  "CONJUGATES":"scants | scanting | scanted | scanter | scantest",
+  "ETYMOLOGY":"From Middle English, derived from Old Norse skammt (neuter of skammr 'short'). Influenced by or related to Old English sceort ('short').",
+  "SINCE":"Late 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] is scant",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Core word",
+        "Formal",
+        "Descriptive"
+      ],
+      "DEF_EN":"Barely sufficient or adequate; falling short in quantity or extent.",
+      "DEF_ZH":"缺乏的；不足的；勉强够用的；不够充分的。",
+      "SENT_EN":"Due to the drought, the harvest yielded a scant supply of grain.",
+      "SENT_ZH":"由于干旱，这次收成产出了不足的粮食供应。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "meager",
+            "sparse",
+            "insufficient",
+            "limited"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "ample",
+            "plentiful",
+            "abundant",
+            "generous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"a scant [measurement]",
+      "POS":"adj",
+      "POS_TIP":"Adjective (often preceding measurements)",
+      "TAGS":[
+        "Measurement",
+        "Precise"
+      ],
+      "DEF_EN":"Barely reaching a specified measure; slightly less than the amount stated.",
+      "DEF_ZH":"不足（某一计量）的；略微欠缺（规定数量）的。",
+      "SENT_EN":"She measured out a scant teaspoon of salt for the batter.",
+      "SENT_ZH":"她量取了不足一茶匙的盐放入面糊中。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "barely",
+            "just under"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "full",
+            "heaping",
+            "generous"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"scant [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "Literary",
+        "Less common",
+        "Old usage"
+      ],
+      "DEF_EN":"To restrict or limit the supply of something; to treat stingily.",
+      "DEF_ZH":"吝啬地供给；克扣；限制（数量）。",
+      "SENT_EN":"The manager was criticized for scanting the necessary resources for the new project.",
+      "SENT_ZH":"这位经理因克扣新项目所需的资源而受到批评。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "skimp",
+            "stint",
+            "begrudge"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "lavish",
+            "supply fully",
+            "provide generously"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or Literary"
+}

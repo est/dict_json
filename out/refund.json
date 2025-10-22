@@ -1,0 +1,66 @@
+{
+  "WORD":"refund",
+  "IPA":"/rɪˈfʌnd/",
+  "CONJUGATES":"refunds | refunding | refunded",
+  "ETYMOLOGY":"From Late Latin refundere 'to pour back' (re- 'back' + fundere 'to pour'), via Middle English refunden. Used in the financial sense of 'pay back' since the late 15th century.",
+  "SINCE":"Late 15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (amount of money)",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "finance",
+        "commerce"
+      ],
+      "DEF_EN":"A sum of money paid back to a customer, especially when goods are returned, services are unsatisfactory, or excess payment has been made.",
+      "DEF_ZH":"退款；退回的金额。通常指因退货、服务不满意或多付的款项而返还的钱。",
+      "SENT_EN":"The store offers a full refund if you return the item within 30 days.",
+      "SENT_ZH":"如果您在30天内退回该物品，商店将提供全额退款。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "repayment",
+            "reimbursement",
+            "rebate"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "exchange",
+            "warranty"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"refund [sb] [sth] | refund [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb",
+      "TAGS":[
+        "core word",
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To pay back money that was spent or overpaid.",
+      "DEF_ZH":"退还（款项）；偿付（金钱）。",
+      "SENT_EN":"They had to refund all ticket holders after the concert was canceled.",
+      "SENT_ZH":"音乐会被取消后，他们不得不退还所有持票人的款项。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reimburse",
+            "repay",
+            "return"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Commercial, general usage"
+}

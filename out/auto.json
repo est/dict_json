@@ -1,0 +1,59 @@
+{
+  "WORD":"auto",
+  "IPA":"/ˈɔːtəʊ/",
+  "CONJUGATES":"autos (pl)",
+  "ETYMOLOGY":"A shortened form of 'automobile', derived from Ancient Greek 'autós' (self) and Latin 'mobilis' (movable). The prefix 'auto-' means 'self'.",
+  "SINCE":"Early 20th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[an] auto",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "common",
+        "abbreviation",
+        "US English"
+      ],
+      "DEF_EN":"A motor vehicle, typically one with four wheels, suitable for driving on roads; a car. (Short for automobile).",
+      "DEF_ZH":"汽车；轿车。（“automobile”的缩写，主要用于美式英语）",
+      "SENT_EN":"They parked the auto in the driveway and went inside.",
+      "SENT_ZH":"他们把车停在车道上，然后进屋了。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "car",
+            "automobile",
+            "motorcar",
+            "vehicle"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"auto [sth]",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "colloquial",
+        "abbreviation"
+      ],
+      "DEF_EN":"Working or operating by itself; having the function of automation (Short for automatic).",
+      "DEF_ZH":"自动的；自动操作的。（“automatic”的缩写）",
+      "SENT_EN":"The camera has an auto exposure setting.",
+      "SENT_ZH":"这台相机有自动曝光设置。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "automatic",
+            "automated",
+            "self-regulating"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General conversation and technical contexts, particularly common in North America when referring to cars."
+}

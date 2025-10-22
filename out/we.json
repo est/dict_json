@@ -1,0 +1,61 @@
+{
+  "WORD":"we",
+  "IPA":"/wiː/",
+  "CONJUGATES":"us | our | ours | ourselves",
+  "ETYMOLOGY":"From Old English wē, derived from Proto-Germanic *wīz, ultimately from Proto-Indo-European *wéy- (plural of first-person singular pronoun).",
+  "SINCE":"Before 900 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"We [v]",
+      "POS":"pron",
+      "POS_TIP":"First-person plural nominative pronoun",
+      "TAGS":[
+        "Core word",
+        "Common"
+      ],
+      "DEF_EN":"Used by a speaker or writer to refer to themselves and one or more other people collectively; the nominative form of the first-person plural pronoun.",
+      "DEF_ZH":"第一人称复数主格代词，指说话人或作者与一个或多个其他人。",
+      "SENT_EN":"We need to leave soon if we want to catch the train.",
+      "SENT_ZH":"如果我们想赶上火车，我们需要尽快出发。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"We [v] (generalizing)",
+      "POS":"pron",
+      "POS_TIP":"First-person plural nominative pronoun",
+      "TAGS":[
+        "Generalizing",
+        "Inclusive"
+      ],
+      "DEF_EN":"Used to refer to people generally, or to the community, nation, or group the speaker belongs to.",
+      "DEF_ZH":"用于指代泛泛的大众、人类，或说话人所属的群体、国家或社区。",
+      "SENT_EN":"We are all responsible for the health of our planet.",
+      "SENT_ZH":"我们每个人都对我们星球的健康负有责任。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"We [v] (singular subject)",
+      "POS":"pron",
+      "POS_TIP":"First-person plural nominative pronoun (used as singular subject)",
+      "TAGS":[
+        "Formal",
+        "Rhetorical",
+        "Majestic Plural"
+      ],
+      "DEF_EN":"Used by a monarch, editor, or author (in formal or archaic prose) to refer to themselves alone (known as the 'royal we' or 'editorial we').",
+      "DEF_ZH":"（君主、编辑或作者在正式或古老文体中）用来指代自己一人（“我们”作“我”用，称为“君主复数”或“编辑复数”）。",
+      "SENT_EN":"We have examined the evidence and we find the defendant guilty.",
+      "SENT_ZH":"吾等已审查证据，并判定被告有罪。（君主/司法用法）",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "royal 'we'",
+            "nos nostri"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, foundational vocabulary."
+}

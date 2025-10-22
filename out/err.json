@@ -1,0 +1,86 @@
+{
+  "WORD":"err",
+  "IPA":"/ɜːr/",
+  "CONJUGATES":"errs | erred | erring",
+  "ETYMOLOGY":"From Middle English erren, from Old French errer, from Latin errāre ('to wander, stray, mistake').",
+  "SINCE":"c. 13th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"err",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "core word",
+        "formal"
+      ],
+      "DEF_EN":"To make a mistake; to be incorrect or wrong.",
+      "DEF_ZH":"犯错；出错；判断失误。",
+      "SENT_EN":"The jury may err in its judgment, but it must deliver a verdict.",
+      "SENT_ZH":"陪审团可能会判断失误，但必须给出裁决。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "mistake",
+            "blunder",
+            "miscalculate",
+            "fail"
+          ]
+        },
+        {
+          "T":"idiom",
+          "V":[
+            "To err is human"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"err [in sth]",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "moral",
+        "literary"
+      ],
+      "DEF_EN":"To deviate from accepted or moral standards of conduct, belief, or propriety; to sin.",
+      "DEF_ZH":"行为失当；犯规；道德上犯错。",
+      "SENT_EN":"She erred by trusting his false promises.",
+      "SENT_ZH":"她相信他虚假的承诺，这是一个错误的行为。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sin",
+            "transgress",
+            "stray"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"err",
+      "POS":"vint",
+      "POS_TIP":"intransitive verb",
+      "TAGS":[
+        "archaic",
+        "literary"
+      ],
+      "DEF_EN":"To wander or roam aimlessly.",
+      "DEF_ZH":"游荡；徘徊 (古义或诗意用法)。",
+      "SENT_EN":"The knight erred through the dark forest seeking the lost treasure.",
+      "SENT_ZH":"骑士在黑暗的森林中游荡，寻找丢失的宝藏。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "wander",
+            "roam",
+            "stray"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or Literary"
+}

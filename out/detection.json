@@ -1,0 +1,87 @@
+{
+  "WORD":"detection",
+  "IPA":"/dɪˈtɛkʃən/",
+  "CONJUGATES":"detect (v.) | detector (n.) | detectable (adj.)",
+  "ETYMOLOGY":"From the verb 'detect', which derives from Latin *detectus*, past participle of *detegere* ('to uncover, expose'), from *de-* (un-) + *tegere* ('to cover'). The noun suffix *-tion* was added in English.",
+  "SINCE":"Mid-17th century (c. 1640s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"detection [of sth]",
+      "POS":"n",
+      "POS_TIP":"Noun, typically uncountable",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"The action or process of discovering or identifying the presence of something, especially something concealed, subtle, or difficult to observe.",
+      "DEF_ZH":"发现或识别某事物（尤指隐藏的、微妙的或难以观察到的东西）存在的行为或过程。",
+      "SENT_EN":"The smoke alarm failed because of a malfunction in the early detection system.",
+      "SENT_ZH":"烟雾报警器因早期检测系统故障而失灵。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "discovery",
+            "finding",
+            "recognition",
+            "uncovering"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "concealment",
+            "hiding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"detection [in science/technology]",
+      "POS":"n",
+      "POS_TIP":"Noun, uncountable (referring to the capability/process) or countable (referring to a specific instance of sensing)",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"In science and technology, the process by which an instrument or sensor observes and measures a physical event, signal, or substance.",
+      "DEF_ZH":"在科学技术中，仪器或传感器观测和测量物理事件、信号或物质的过程。",
+      "SENT_EN":"The experiment confirmed the successful detection of gravitational waves.",
+      "SENT_ZH":"实验证实了引力波的成功探测。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "sensing",
+            "signal processing",
+            "measurement"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"crime detection | disease detection",
+      "POS":"n",
+      "POS_TIP":"Noun, uncountable, specialized contexts",
+      "TAGS":[
+        "law enforcement",
+        "medical"
+      ],
+      "DEF_EN":"The process of identifying or solving who committed a crime (crime detection), or identifying a disease or abnormality at an early stage (disease detection).",
+      "DEF_ZH":"识别或解决犯罪者（罪案侦破），或在早期阶段识别疾病或异常（疾病检测）的过程。",
+      "SENT_EN":"Early detection of cancer significantly increases survival rates.",
+      "SENT_ZH":"癌症的早期检测显著提高了生存率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "investigation",
+            "diagnosis",
+            "apprehension"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and technical, widely used in scientific, medical, and law enforcement contexts."
+}

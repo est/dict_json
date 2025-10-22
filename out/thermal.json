@@ -1,0 +1,120 @@
+{
+  "WORD":"thermal",
+  "IPA":"/'θɜːrməl/",
+  "CONJUGATES":"thermals (n. pl.) | thermally (adv.)",
+  "ETYMOLOGY":"From Greek *thermē* (heat), via Latin *thermalis*.",
+  "SINCE":"Mid 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"thermal [property/energy]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "physics",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or caused by heat or temperature.",
+      "DEF_ZH":"与热或温度有关的；热的。",
+      "SENT_EN":"The experiment measured the material's thermal expansion under extreme heat.",
+      "SENT_ZH":"该实验测量了该材料在极端高温下的热膨胀。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "caloric",
+            "thermic"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "thermodynamics",
+            "temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"thermal [clothing/insulation]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "practical"
+      ],
+      "DEF_EN":"Designed to retain heat or minimize heat loss; insulating.",
+      "DEF_ZH":"用于保暖或隔热的；保温的。",
+      "SENT_EN":"The windows are fitted with thermal glass to improve energy efficiency.",
+      "SENT_ZH":"这些窗户安装了隔热玻璃以提高能源效率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "insulating",
+            "heat-retaining"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "insulation",
+            "thermos"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[the] thermals",
+      "POS":"n pl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "meteorology",
+        "aeronautics",
+        "specific use"
+      ],
+      "DEF_EN":"A column or current of rising warm air caused by uneven heating of the Earth's surface, used by gliders and birds to gain altitude.",
+      "DEF_ZH":"上升的热气流（由地面受热不均引起，滑翔机和鸟类常用于爬升）。",
+      "SENT_EN":"The glider caught a strong thermal and rose rapidly above the ridge.",
+      "SENT_ZH":"滑翔机抓住了一股强劲的热气流，迅速上升到山脊上方。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "updraft"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "convection",
+            "gliding"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[wear] thermals",
+      "POS":"n pl",
+      "POS_TIP":"plural noun",
+      "TAGS":[
+        "colloquial",
+        "clothing"
+      ],
+      "DEF_EN":"Underwear designed to provide insulation and retain body heat; thermal underwear.",
+      "DEF_ZH":"保暖内衣；秋衣秋裤。",
+      "SENT_EN":"It's freezing outside; I need to put on my thermals.",
+      "SENT_ZH":"外面很冷，我需要穿上我的保暖内衣。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "long johns",
+            "thermal underwear"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, scientific, and common usage."
+}

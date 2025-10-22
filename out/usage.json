@@ -1,0 +1,86 @@
+{
+  "WORD":"usage",
+  "IPA":"/ˈjuːsɪdʒ/",
+  "CONJUGATES":"usages",
+  "ETYMOLOGY":"From Old French usage, derived from user 'to use', ultimately from Latin usus (use).",
+  "SINCE":"Late Middle English (c. 14th century)",
+  "MEANINGS":[
+    {
+      "PATTERN":"usage [sth]",
+      "POS":"n uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The action or manner of using something; the fact of being used.",
+      "DEF_ZH":"使用某物或某事的方式或行为；被使用的状况。",
+      "SENT_EN":"The machinery suffered from heavy usage and needed frequent maintenance.",
+      "SENT_ZH":"这台机械由于重度使用，需要经常维护。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "application",
+            "employment",
+            "utilization"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "use"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"language usage | accepted usage",
+      "POS":"n count/uncount",
+      "POS_TIP":"countable or uncountable noun",
+      "TAGS":[
+        "linguistic",
+        "common"
+      ],
+      "DEF_EN":"The habitual, customary, or accepted way in which something is done or used, especially language, grammar, or vocabulary.",
+      "DEF_ZH":"习惯的、常规的或公认的做法或使用方式，尤指语言、语法或词汇的惯用法。",
+      "SENT_EN":"Modern English usage now accepts 'data' as a singular noun.",
+      "SENT_ZH":"现代英语用法现在接受 'data' 作为单数名词。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "convention",
+            "practice",
+            "custom",
+            "idiom"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"energy usage | water usage",
+      "POS":"n uncount",
+      "POS_TIP":"uncountable noun",
+      "TAGS":[
+        "technical",
+        "measurement"
+      ],
+      "DEF_EN":"The amount or quantity of something consumed or employed, often measured over a period.",
+      "DEF_ZH":"消耗或使用的量或数量，通常在一段时间内计量；用量。",
+      "SENT_EN":"We need to analyze the factory's peak electricity usage to optimize costs.",
+      "SENT_ZH":"我们需要分析工厂的用电高峰期以优化成本。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "consumption",
+            "expenditure",
+            "rate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Technical"
+}

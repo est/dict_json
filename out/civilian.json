@@ -1,0 +1,88 @@
+{
+  "WORD":"civilian",
+  "IPA":"/sɪˈvɪl.i.ən/",
+  "CONJUGATES":"civilians",
+  "ETYMOLOGY":"Late 14th century, from Old French *civilien*, from Latin *civilis* ('relating to citizens, pertaining to public life'). The initial English meaning was 'one skilled in the civil law'. The modern sense ('person not in the military') emerged around 1790, influenced by the French Revolution.",
+  "SINCE":"c. 1380 (Legal); c. 1790 (Modern sense)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "sociology"
+      ],
+      "DEF_EN":"A person who is not a member of the military, police, or firefighting forces.",
+      "DEF_ZH":"平民；百姓；非军职人员。",
+      "SENT_EN":"The bombing caused widespread panic among the local civilian population.",
+      "SENT_ZH":"这次轰炸在当地平民中引起了广泛的恐慌。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "noncombatant",
+            "private citizen",
+            "layperson"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "soldier",
+            "military personnel",
+            "combatant"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Of or relating to ordinary non-military life or a non-military person.",
+      "DEF_ZH":"民用的；民间的；平民的。",
+      "SENT_EN":"She left the army and returned to civilian life.",
+      "SENT_ZH":"她离开了军队，重返平民生活。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "nonmilitary",
+            "private",
+            "ordinary"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "military",
+            "official",
+            "uniformed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sb]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "historical",
+        "legal",
+        "rare"
+      ],
+      "DEF_EN":"(Historical) A person skilled in civil law.",
+      "DEF_ZH":"(旧时用法) 民法学家。",
+      "SENT_EN":"He served as a civilian advisor to the royal court, drafting new statutes.",
+      "SENT_ZH":"他曾担任皇家法院的民法顾问，起草新的法规。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General/Formal"
+}

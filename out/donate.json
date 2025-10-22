@@ -1,0 +1,64 @@
+{
+  "WORD":"donate",
+  "IPA":"/doʊˈneɪt/",
+  "CONJUGATES":"donates | donated | donating | donation",
+  "ETYMOLOGY":"From Latin *donare* ('to give'), via Old French *doner*. Replaced the earlier Middle English word *donen*.",
+  "SINCE":"15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"donate [sth] (to [sb]/[sth])",
+      "POS":"vtr/vi",
+      "POS_TIP":"Transitive verb (takes a direct object) or Intransitive verb.",
+      "TAGS":[
+        "core word",
+        "charity",
+        "finance"
+      ],
+      "DEF_EN":"To give money, goods, or services, especially to a charitable cause, public institution, or organization.",
+      "DEF_ZH":"捐赠、捐献（金钱、物资或服务），尤指向慈善事业、公共机构或组织赠予。",
+      "SENT_EN":"The company decided to donate a portion of its profits to environmental conservation.",
+      "SENT_ZH":"该公司决定将部分利润捐赠给环境保护事业。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "contribute",
+            "give",
+            "bestow"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "receive",
+            "take",
+            "accept"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"donate [blood/organ/tissue]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (takes a direct object).",
+      "TAGS":[
+        "medical",
+        "health"
+      ],
+      "DEF_EN":"To give blood, an organ, or other tissue from one's body for medical use, such as transfusions or transplants.",
+      "DEF_ZH":"捐献（血液、器官或其他组织）用于医疗目的，如输血或移植。",
+      "SENT_EN":"She regularly goes to the clinic to donate blood.",
+      "SENT_ZH":"她定期去诊所献血。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "donor",
+            "transplant"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, widely used"
+}

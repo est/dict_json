@@ -1,0 +1,67 @@
+{
+  "WORD":"recipient",
+  "IPA":"/rɪˈsɪpiənt/",
+  "CONJUGATES":"recipients",
+  "ETYMOLOGY":"From Latin recipiens, present participle of recipere ('to receive, take back'), combining re- ('back, again') + capere ('to take').",
+  "SINCE":"Late 16th century (c. 1590s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"recipient [sb] | recipient [sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A person or thing that receives something, such as a gift, money, award, or communication.",
+      "DEF_ZH":"接收某物（如礼物、金钱、奖项或通信）的人或事物；接受者；收件人。",
+      "SENT_EN":"The primary recipient of the email accidentally forwarded it to the entire company.",
+      "SENT_ZH":"这封电子邮件的主要收件人不小心将其转发给了整个公司。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "receiver",
+            "beneficiary",
+            "donee",
+            "grantee",
+            "awardee"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "donor",
+            "sender",
+            "giver",
+            "originator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"recipient [adj]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"Receiving or capable of receiving.",
+      "DEF_ZH":"接受的；有接收能力的。",
+      "SENT_EN":"The organization works to ensure that aid reaches recipient families quickly.",
+      "SENT_ZH":"该组织致力于确保援助迅速到达接受援助的家庭。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "receiving",
+            "receptive",
+            "accepting"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"formal, business, general"
+}

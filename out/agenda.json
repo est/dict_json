@@ -1,0 +1,66 @@
+{
+  "WORD":"agenda",
+  "IPA":"/əˈdʒɛndə/",
+  "CONJUGATES":"agendas",
+  "ETYMOLOGY":"From Latin, the plural of *agendum* (a thing to be done), neuter singular gerundive of *agere* (to do, drive). It originally meant 'things to be done'.",
+  "SINCE":"Mid 17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"agenda (for [sth])",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "formal",
+        "business"
+      ],
+      "DEF_EN":"A list of items to be discussed or acted upon at a formal meeting.",
+      "DEF_ZH":"正式会议中待讨论或处理的各项议程或项目清单。",
+      "SENT_EN":"The manager circulated the agenda two days before the meeting.",
+      "SENT_ZH":"经理在会议两天前分发了议程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "schedule",
+            "program",
+            "docket",
+            "order of business"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(a hidden/political) agenda",
+      "POS":"n.",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "abstract",
+        "common",
+        "political"
+      ],
+      "DEF_EN":"The underlying intentions or motives of a particular person or group, often kept secret or not fully expressed.",
+      "DEF_ZH":"某个人或群体隐藏的、潜在的意图或动机（常指政治或个人目的）。",
+      "SENT_EN":"The politician was accused of having a secret agenda to cut public services.",
+      "SENT_ZH":"这位政治家被指控怀有削减公共服务的秘密议程。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "motive",
+            "goal",
+            "objective",
+            "plan"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "hidden agenda"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal or Business/General Conversation"
+}

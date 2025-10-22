@@ -1,0 +1,64 @@
+{
+  "WORD":"deceased",
+  "IPA":"/dɪˈsiːst/",
+  "CONJUGATES":"decease (V base) | deceases (V 3rd P) | deceasing (V Pr P) | deceased (V past/PP)",
+  "ETYMOLOGY":"From Middle English *deces*, ultimately from Latin *dēcēdere* (to depart, go away, die), formed from *de-* ('away') + *cēdere* ('to yield, go').",
+  "SINCE":"Late 14th century (as an adjective/noun).",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] is deceased",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "formal",
+        "euphemistic"
+      ],
+      "DEF_EN":"No longer living; dead.",
+      "DEF_ZH":"已故的；已死的（常用于正式或委婉场合）。",
+      "SENT_EN":"The policy became null and void after the insured party was pronounced deceased.",
+      "SENT_ZH":"在被保险人被宣布已故后，该保单即告作废。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "dead",
+            "departed",
+            "expired",
+            "passed away"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "alive",
+            "living"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"the deceased",
+      "POS":"noun",
+      "POS_TIP":"Noun (preceded by 'the', referring to a person)",
+      "TAGS":[
+        "formal",
+        "legal term"
+      ],
+      "DEF_EN":"The person who has recently died.",
+      "DEF_ZH":"死者；亡故者。",
+      "SENT_EN":"The lawyer read the final will and testament of the deceased to the assembled family.",
+      "SENT_ZH":"律师向聚集的家人宣读了死者的遗嘱。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "the departed",
+            "the late"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Legal, or Journalistic contexts."
+}

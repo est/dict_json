@@ -1,0 +1,66 @@
+{
+  "WORD":"affix",
+  "IPA":"/əˈfɪks/",
+  "CONJUGATES":"affixing | affixed | affixes",
+  "ETYMOLOGY":"From Old French affichier (to fasten, attach), derived from Latin affigere, past participle affixus (ad- 'to' + figere 'to fix, fasten'). The linguistic noun sense developed much later.",
+  "SINCE":"14th century (verb); 17th century (noun, linguistics)",
+  "MEANINGS":[
+    {
+      "PATTERN":"affix [sth] to [sth else]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core Word",
+        "Formal"
+      ],
+      "DEF_EN":"To stick, fasten, or physically attach something to something else, often in an official or permanent way.",
+      "DEF_ZH":"粘贴；固定；附上（指物理性连接，常用于正式场合）。",
+      "SENT_EN":"The manager asked the applicant to affix a recent photo to the upper right corner of the form.",
+      "SENT_ZH":"经理要求申请人在表格的右上角贴上一张近照。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "attach",
+            "fasten",
+            "adhere",
+            "secure"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "detach",
+            "remove",
+            "unfasten"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"affix",
+      "POS":"nc",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "Technical",
+        "Linguistics"
+      ],
+      "DEF_EN":"A morpheme that is attached to a word stem (root) to form a new word or inflection. It includes prefixes, suffixes, and infixes.",
+      "DEF_ZH":"词缀（一种附着于词根以构成新词或词形变化的语素，包括前缀和后缀）。",
+      "SENT_EN":"In the word 'misread,' 'mis-' is a common prefixial affix.",
+      "SENT_ZH":"在“misread”一词中，“mis-”是一个常见的前缀词缀。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "prefix",
+            "suffix",
+            "morpheme",
+            "root"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Technical"
+}

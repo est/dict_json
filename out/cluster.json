@@ -1,0 +1,94 @@
+{
+  "WORD":"cluster",
+  "IPA":"/ˈklʌstər/",
+  "CONJUGATES":"clusters | clustering | clustered",
+  "ETYMOLOGY":"From Middle English, derived from Old English clyster, meaning 'bunch, thicket'.",
+  "SINCE":"Pre-12th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"a cluster of [sth/sb]",
+      "POS":"noun",
+      "POS_TIP":"countable noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A group of things or people of the same kind that are gathered closely together.",
+      "DEF_ZH":"一簇；一群；一团。紧密聚集在一起的同类事物或人群。",
+      "SENT_EN":"There was a small cluster of tourists gathered near the historic monument.",
+      "SENT_ZH":"一小群游客聚集在这座历史古迹附近。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bunch",
+            "group",
+            "collection",
+            "mass"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "clump",
+            "aggregation"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cluster [computing/astronomy]",
+      "POS":"noun",
+      "POS_TIP":"countable noun, specific fields",
+      "TAGS":[
+        "technical",
+        "scientific"
+      ],
+      "DEF_EN":"(Computing) A group of linked computers working together closely. (Astronomy) A system of stars or galaxies held together by mutual gravitation.",
+      "DEF_ZH":"（技术）集群；（计算）一组协同工作的独立计算机。（天文）星团；星系团。",
+      "SENT_EN":"The IT department maintains a high-performance computing cluster.",
+      "SENT_ZH":"信息技术部门维护着一个高性能计算集群。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "star cluster",
+            "supercluster",
+            "server farm"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"cluster [together]",
+      "POS":"verb",
+      "POS_TIP":"intransitive or transitive verb",
+      "TAGS":[
+        "core word",
+        "action"
+      ],
+      "DEF_EN":"To gather or cause to gather closely together in a group.",
+      "DEF_ZH":"聚集；群集；使成群或成团。",
+      "SENT_EN":"The sheep clustered together for warmth during the cold night.",
+      "SENT_ZH":"羊群在寒冷的夜晚聚集在一起取暖。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "congregate",
+            "assemble",
+            "huddle"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "disperse",
+            "scatter"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"general usage"
+}

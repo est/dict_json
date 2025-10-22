@@ -1,0 +1,69 @@
+{
+  "WORD":"diagram",
+  "IPA":"/ˈdaɪəɡræm/",
+  "CONJUGATES":"diagrams (n. pl.) | diagrammed (v. past/p.p.) | diagramming (v. pr. p.)",
+  "ETYMOLOGY":"From Greek *diagramma* ('figure, plan, outline'), derived from *diagraphein* ('to mark out by lines'), from *dia-* ('across, through') + *graphein* ('to write, draw').",
+  "SINCE":"Mid-17th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] diagram [of sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "technical"
+      ],
+      "DEF_EN":"A simplified drawing showing the appearance, structure, or workings of something; a schematic representation using lines, symbols, and geometric shapes.",
+      "DEF_ZH":"图解；图表；示意图。用线条、符号和几何形状表示事物外观、结构或工作原理的简化图。",
+      "SENT_EN":"The instruction manual included a clear diagram of how to assemble the furniture.",
+      "SENT_ZH":"说明书包含一张清晰的图解，说明了如何组装家具。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chart",
+            "graph",
+            "figure",
+            "schematic",
+            "plan"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "flowchart",
+            "blueprint",
+            "infographic"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"diagram [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "technical",
+        "academic"
+      ],
+      "DEF_EN":"To represent something visually by drawing a diagram or chart of it.",
+      "DEF_ZH":"用图表表示；绘图说明；作图解。",
+      "SENT_EN":"The teacher asked the students to diagram the sentence structure.",
+      "SENT_ZH":"老师要求学生们图解句子的结构。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "sketch",
+            "map out",
+            "chart",
+            "illustrate"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General, Technical, Academic"
+}

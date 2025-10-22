@@ -1,0 +1,86 @@
+{
+  "WORD":"denote",
+  "IPA":"/dɪˈnoʊt/",
+  "CONJUGATES":"denotes | denoting | denoted",
+  "ETYMOLOGY":"From Latin dēnotāre, from dē- (thoroughly) + notāre (to mark, note). First attested in English in the mid-15th century.",
+  "SINCE":"c. 1450",
+  "MEANINGS":[
+    {
+      "PATTERN":"denote [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Core word",
+        "Formal"
+      ],
+      "DEF_EN":"To be a sign of; to serve as an indication or symptom of something.",
+      "DEF_ZH":"表示; 象征; 预示。",
+      "SENT_EN":"The skull and crossbones emblem denotes danger or poison.",
+      "SENT_ZH":"骷髅和交叉骨的标志象征着危险或毒药。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "indicate",
+            "signify",
+            "symbolize",
+            "represent"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "misrepresent",
+            "obscure"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"denote [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Academic",
+        "Linguistics"
+      ],
+      "DEF_EN":"To mean or refer to something specifically and explicitly (often contrasted with 'connote', which implies suggestion or association).",
+      "DEF_ZH":"意指; 指示; 明确指代某个确切的对象或概念。",
+      "SENT_EN":"In logic, the term 'extension' denotes the class of things to which the word applies.",
+      "SENT_ZH":"在逻辑学中，“外延”这个术语指代该词所适用的事物类别。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "connote",
+            "designate",
+            "mean"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"denote [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (requires a direct object)",
+      "TAGS":[
+        "Technical",
+        "Mathematics"
+      ],
+      "DEF_EN":"To use a symbol, letter, or sign to stand for a specific quantity, function, or concept.",
+      "DEF_ZH":"(数理) 记作; 用符号代表。",
+      "SENT_EN":"Let $P$ denote the probability of failure.",
+      "SENT_ZH":"设 $P$ 代表失败的概率。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "stand for",
+            "represent"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and Academic writing, especially in philosophy, logic, and science."
+}

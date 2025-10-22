@@ -1,0 +1,81 @@
+{
+  "WORD":"telephone",
+  "IPA":"/ˈtɛlɪfoʊn/",
+  "CONJUGATES":"telephones | telephoning | telephoned",
+  "ETYMOLOGY":"From French téléphone, coined from Ancient Greek tēle (τῆλε, 'far') and phōnē (φωνή, 'voice, sound').",
+  "SINCE":"c. 1870s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sb] [sth]",
+      "POS":"n.",
+      "POS_TIP":"noun (countable, referring to the device)",
+      "TAGS":[
+        "core word",
+        "technology"
+      ],
+      "DEF_EN":"An apparatus used to transmit and receive speech or other sounds over a distance, often connecting via a network of wires or radio transmissions.",
+      "DEF_ZH":"一种用于远距离传输和接收语音或其他声音的设备；电话机。",
+      "SENT_EN":"The old-fashioned telephone on the wall still worked perfectly.",
+      "SENT_ZH":"墙上那个老式的电话机仍然工作得很好。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "phone",
+            "receiver",
+            "handset",
+            "mobile"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"telephone [sb]",
+      "POS":"v. tr. | v. intr.",
+      "POS_TIP":"transitive or intransitive verb",
+      "TAGS":[
+        "common",
+        "action"
+      ],
+      "DEF_EN":"To speak to someone using a telephone; to make a phone call.",
+      "DEF_ZH":"通过电话与某人通话；打电话。",
+      "SENT_EN":"I will telephone the hotel to confirm the reservation immediately.",
+      "SENT_ZH":"我将立即给酒店打电话确认预订。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "call",
+            "ring",
+            "dial",
+            "contact"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"(uncountable noun)",
+      "POS":"n.",
+      "POS_TIP":"noun (uncountable, referring to the service or system)",
+      "TAGS":[
+        "abstract",
+        "system"
+      ],
+      "DEF_EN":"The general system of telecommunication that transmits sound electrically over distances.",
+      "DEF_ZH":"通过电子方式远距离传输声音的通用电信系统；电话服务。",
+      "SENT_EN":"The details must be confirmed by telephone, not just email.",
+      "SENT_ZH":"细节必须通过电话确认，而不仅仅是电子邮件。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "telephony",
+            "communication",
+            "telecom"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}

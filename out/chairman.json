@@ -1,0 +1,64 @@
+{
+  "WORD":"chairman",
+  "IPA":"/'tʃɛərmən/",
+  "CONJUGATES":"chairmen (plural) | chairwoman (feminine) | chairperson (gender-neutral)",
+  "ETYMOLOGY":"From Middle English 'chaier' (chair) + 'man' (person), meaning the person who occupies the seat of authority or presides over a meeting.",
+  "SINCE":"Late 17th century (c. 1680s)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] chairman [of sth]",
+      "POS":"n",
+      "POS_TIP":"Noun (singular)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "business",
+        "political"
+      ],
+      "DEF_EN":"The person who presides over a meeting, committee, or organization, responsible for conducting the proceedings and maintaining order.",
+      "DEF_ZH":"会议、委员会或组织的负责人或主席，负责主持会议流程和维持秩序。",
+      "SENT_EN":"The chairman called the annual general meeting to order promptly at ten o'clock.",
+      "SENT_ZH":"主席准时在十点宣布年度股东大会开始。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "chairperson",
+            "chair",
+            "presiding officer"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "member"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"chairman [of the board]",
+      "POS":"n",
+      "POS_TIP":"Noun (singular)",
+      "TAGS":[
+        "business",
+        "executive",
+        "finance"
+      ],
+      "DEF_EN":"The highest officer of a company's board of directors, often overseeing corporate governance but not necessarily involved in day-to-day operations (often separate from the CEO).",
+      "DEF_ZH":"公司董事会的最高职位，负责公司治理和指导董事会，通常与首席执行官（CEO）分开。",
+      "SENT_EN":"The board unanimously elected Mrs. Chen as the new chairman.",
+      "SENT_ZH":"董事会一致选举陈女士为新任董事会主席。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "CEO",
+            "director"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and professional communication, especially in business, government, and parliamentary procedure."
+}

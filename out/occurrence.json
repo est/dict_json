@@ -1,0 +1,60 @@
+{
+  "WORD":"occurrence",
+  "IPA":"/əˈkʌrəns/",
+  "CONJUGATES":"occurrences (plural)",
+  "ETYMOLOGY":"From Middle French *occurrence*, derived from Latin *occurrere* (ob- 'against, toward' + currere 'to run'), meaning 'to run to meet, happen'. First used in English to mean 'a happening' or 'the action of occurring'.",
+  "SINCE":"Late 15th Century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[the] occurrence [of sth]",
+      "POS":"Noun (uncountable)",
+      "POS_TIP":"A noun that refers to an abstract idea or process and cannot be counted individually.",
+      "TAGS":[
+        "core word",
+        "formal",
+        "abstract"
+      ],
+      "DEF_EN":"The action, fact, or process of happening or coming into existence.",
+      "DEF_ZH":"发生；出现；存在（指动作或过程）。",
+      "SENT_EN":"The frequent occurrence of errors in the data necessitated a full audit.",
+      "SENT_ZH":"数据中错误的频繁发生使得有必要进行全面审计。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "happening",
+            "advent",
+            "appearance",
+            "incidence"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an occurrence",
+      "POS":"Noun (countable)",
+      "POS_TIP":"A noun that can be counted and has a plural form.",
+      "TAGS":[
+        "common",
+        "event",
+        "incident"
+      ],
+      "DEF_EN":"Something that happens; an event or incident, usually of a notable or specified kind.",
+      "DEF_ZH":"事件；事故；发生的事情；插曲。",
+      "SENT_EN":"That severe thunderstorm was a rare occurrence for this region during the summer.",
+      "SENT_ZH":"那场强雷暴对于这个地区来说，在夏季是罕见的事件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "incident",
+            "event",
+            "happening",
+            "phenomenon"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General/Formal Contexts"
+}

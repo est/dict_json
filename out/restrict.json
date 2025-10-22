@@ -1,0 +1,96 @@
+{
+  "WORD":"restrict",
+  "IPA":"/rɪˈstrɪkt/",
+  "CONJUGATES":"restricts | restricting | restricted | restriction (n.) | restrictive (adj.)",
+  "ETYMOLOGY":"Late 15th century, from Latin restrictus, past participle of restringere ('to tie back, confine'). Formed from re- ('back') + stringere ('to draw tight, bind').",
+  "SINCE":"c. 1475",
+  "MEANINGS":[
+    {
+      "PATTERN":"restrict [sth] | restrict [sth] to [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Core word",
+        "Common",
+        "Formal"
+      ],
+      "DEF_EN":"To place a limit on the scope, extent, number, or availability of something.",
+      "DEF_ZH":"限制（范围、数量、使用或程度）；规定界限。",
+      "SENT_EN":"The new policy will restrict the number of hours employees can work overtime.",
+      "SENT_ZH":"这项新政策将限制员工加班的小时数。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "limit",
+            "confine",
+            "curb",
+            "constrain"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "allow",
+            "permit",
+            "broaden",
+            "expand"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"restrict [sb] from [doing sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Legal",
+        "Policy"
+      ],
+      "DEF_EN":"To prevent a person or group from moving or acting freely; to subject to control or conditions.",
+      "DEF_ZH":"约束；制约（某人的行动或自由）。",
+      "SENT_EN":"The court order strictly restricted the defendant from leaving the country.",
+      "SENT_ZH":"法院命令严格限制了被告离开该国。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "restrain",
+            "hold back",
+            "impede"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"restrict [sth] (physiological/medical)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Technical",
+        "Medical"
+      ],
+      "DEF_EN":"To narrow or cause to contract, often referring to bodily passages, vessels, or flow.",
+      "DEF_ZH":"使变窄；收缩（通常指血管或通道）。",
+      "SENT_EN":"Scar tissue can restrict the movement of the knee joint.",
+      "SENT_ZH":"疤痕组织会限制膝关节的活动。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "constrict",
+            "narrow"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "dilate",
+            "open"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal, Academic, Legal"
+}

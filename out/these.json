@@ -1,0 +1,90 @@
+{
+  "WORD":"this",
+  "IPA":"/ðɪs/",
+  "CONJUGATES":"Plural: these",
+  "ETYMOLOGY":"From Old English ðis (neuter singular of the demonstrative pronoun and adjective), related to Old Saxon thes and Old High German dhesse.",
+  "SINCE":"Pre-1000 AD (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"this [N (singular)]",
+      "POS":"det.",
+      "POS_TIP":"Determiner (used before a noun to limit or qualify it)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"Used to refer to a specific person, thing, or idea near the speaker or near in time (plural: these).",
+      "DEF_ZH":"这个；这（用于指代在空间或时间上靠近说话者的人或事物。复数形式为 these）。",
+      "SENT_EN":"This proposal looks promising, but these figures need adjustment.",
+      "SENT_ZH":"这项提议看起来很有前景，但这些数据需要调整。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "that",
+            "those"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"This",
+      "POS":"pron.",
+      "POS_TIP":"Pronoun (a word that substitutes for a noun)",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"The person, thing, or idea mentioned or indicated that is closer or more immediate (plural: these).",
+      "DEF_ZH":"这；这个（单独使用，指代靠近说话者的人或事物。复数形式为 these）。",
+      "SENT_EN":"I bought this yesterday. Are these yours?",
+      "SENT_ZH":"我昨天买了这件。这些是你的吗？",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "that",
+            "those"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"This is [sb] | This is [sth]",
+      "POS":"pron.",
+      "POS_TIP":"Pronoun",
+      "TAGS":[
+        "communication",
+        "idiomatic"
+      ],
+      "DEF_EN":"Used to introduce oneself or someone else, or to introduce a concept or topic, especially on the telephone or at the start of a discussion.",
+      "DEF_ZH":"我是...；这位是...；这就是...（用于自我介绍、介绍他人或引出话题，尤指电话或正式场合）。",
+      "SENT_EN":"Hello, this is Mr. Smith calling from the main office.",
+      "SENT_ZH":"你好，我是史密斯先生，从总公司致电。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"this [adj] (informal)",
+      "POS":"adv.",
+      "POS_TIP":"Adverb (modifies a verb, adjective, or another adverb)",
+      "TAGS":[
+        "informal",
+        "colloquial"
+      ],
+      "DEF_EN":"To the degree or extent indicated (often emphasizing a large or surprising degree).",
+      "DEF_ZH":"如此；这样地；这么（强调程度，通常伴随手势）。",
+      "SENT_EN":"I didn't realize the line was going to be this long.",
+      "SENT_ZH":"我没意识到队伍会这么长。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "so",
+            "that"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, high frequency."
+}

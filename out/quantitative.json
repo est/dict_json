@@ -1,0 +1,53 @@
+{
+  "WORD":"quantitative",
+  "IPA":"/ˌkwɑːntɪˈteɪtɪv/",
+  "CONJUGATES":"quantitatively | quantitativeness",
+  "ETYMOLOGY":"Formed in English from 'quantity' (from Middle French quantité, ultimately from Latin quantitas 'how great, how much') + the suffix '-ative'.",
+  "SINCE":"c. 1650",
+  "MEANINGS":[
+    {
+      "PATTERN":"quantitative [analysis/data/research]",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "core word",
+        "academic",
+        "technical"
+      ],
+      "DEF_EN":"Relating to or measuring the quantity or amount of something, rather than its quality or nature.",
+      "DEF_ZH":"与数量、大小或可测量的属性有关的；定量的。",
+      "SENT_EN":"The economist relied on quantitative models to predict market behavior.",
+      "SENT_ZH":"这位经济学家依靠定量模型来预测市场行为。",
+      "RELATED":[
+        {
+          "T":"antonyms",
+          "V":[
+            "qualitative"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "quantity",
+            "statitical"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"quantitative chemistry",
+      "POS":"adj",
+      "POS_TIP":"adjective",
+      "TAGS":[
+        "chemistry",
+        "science specific"
+      ],
+      "DEF_EN":"(In chemistry) Concerned with determining the amounts of the constituents in a compound or mixture.",
+      "DEF_ZH":"(化学) 有关测定化合物或混合物中各组分精确数量的。",
+      "SENT_EN":"Quantitative analysis is essential for determining the purity of the sample.",
+      "SENT_ZH":"定量分析对于确定样本的纯度至关重要。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Academic, Scientific, Technical"
+}

@@ -1,0 +1,56 @@
+{
+  "WORD":"nor",
+  "IPA":"/nɔːr/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"Middle English, shortened form of neither or nother, itself from Old English nāhwæðer or nāþer ('not either').",
+  "SINCE":"c. 13th century (as current form 'nor')",
+  "MEANINGS":[
+    {
+      "PATTERN":"neither [A] nor [B]",
+      "POS":"conjunction",
+      "POS_TIP":"Coordinating conjunction used to connect two negative alternatives.",
+      "TAGS":[
+        "core word",
+        "common",
+        "correlative conjunction"
+      ],
+      "DEF_EN":"Used to introduce the second or subsequent part of a negative series, usually following 'neither', meaning 'and not'.",
+      "DEF_ZH":"（连词）也不；也没有；既不…也不… (常与 neither 连用，用于连接两个被否定的选择)。",
+      "SENT_EN":"They have neither the funds nor the expertise to start the business.",
+      "SENT_ZH":"他们既没有资金也没有专业知识来创业。",
+      "RELATED":[
+        {
+          "T":"correlative pair",
+          "V":[
+            "neither",
+            "either",
+            "or"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[negative clause], nor [inverted clause]",
+      "POS":"adverb/conjunction",
+      "POS_TIP":"Used as an adverbial conjunction to introduce a subsequent negative clause. In this usage, the following clause typically requires subject-verb inversion (e.g., nor did he).",
+      "TAGS":[
+        "formal",
+        "literary"
+      ],
+      "DEF_EN":"Used after a negative statement to introduce a second negative statement or clause, meaning 'and not, either'.",
+      "DEF_ZH":"（副词/连词）并且不；此外也不（用于否定句后，引导第二个否定分句，该分句通常需要倒装）。",
+      "SENT_EN":"I didn't believe the initial report, nor did I trust the subsequent denial.",
+      "SENT_ZH":"我不相信最初的报道，也不相信随后的否认。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "not",
+            "also not"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Common in both spoken and written English, mandatory in construction with 'neither'."
+}

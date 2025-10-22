@@ -1,0 +1,86 @@
+{
+  "WORD":"shortcut",
+  "IPA":"/ˈʃɔːrtˌkʌt/",
+  "CONJUGATES":"shortcuts | shortcutted | shortcutting",
+  "ETYMOLOGY":"Compound of 'short' and 'cut', likely originating in North America in the late 19th century.",
+  "SINCE":"Late 19th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"shortcut",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A path or route that is shorter or more direct than the usual one.",
+      "DEF_ZH":"比平常路线更短或更直接的路径或道路。捷径。",
+      "SENT_EN":"We took a muddy shortcut across the field to get home faster.",
+      "SENT_ZH":"我们抄了一条泥泞的近路穿过田地，好更快回家。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bypass",
+            "direct route",
+            "beeline"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shortcut",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "computing",
+        "technical"
+      ],
+      "DEF_EN":"An icon, command, or keystroke sequence that provides quick access to a function, application, or file, typically bypassing a longer menu path.",
+      "DEF_ZH":"(计算机) 一个图标、命令或按键序列，提供对功能、应用程序或文件的快速访问，通常绕过较长的菜单路径。",
+      "SENT_EN":"The desktop shortcut allows me to open the program with a single click.",
+      "SENT_ZH":"桌面上的快捷方式让我的程序只需点击一下就能打开。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "hotkey",
+            "alias",
+            "quick link"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"shortcut [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"To follow a shorter route or use a quicker method; often implying cutting corners or omitting necessary steps.",
+      "DEF_ZH":"抄近路；走捷径；使用更快速的方法（有时暗示偷工减料或跳过必要步骤）。",
+      "SENT_EN":"You can't shortcut the learning process if you want mastery.",
+      "SENT_ZH":"如果你想精通，就不能在学习过程中走捷径。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "bypass",
+            "streamline",
+            "cut corners"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "expedite",
+            "omit"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General usage, highly common in technology and casual conversation."
+}

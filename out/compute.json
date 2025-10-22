@@ -1,0 +1,89 @@
+{
+  "WORD":"compute",
+  "IPA":"/kəmˈpjuːt/",
+  "CONJUGATES":"computes | computing | computed",
+  "ETYMOLOGY":"From Old French computer, from Latin computare ('to count, reckon'), from com- ('together, with') + putare ('to prune, adjust, think, consider').",
+  "SINCE":"Early 17th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"compute [sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "core word",
+        "mathematics",
+        "formal"
+      ],
+      "DEF_EN":"To calculate or determine a numerical value or result mathematically.",
+      "DEF_ZH":"通过数学方法计算或确定数值或结果。",
+      "SENT_EN":"The accountant took an hour to compute the tax liability.",
+      "SENT_ZH":"会计花了一个小时计算税款负债。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "calculate",
+            "reckon",
+            "determine",
+            "figure out"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "computation",
+            "calculator"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compute",
+      "POS":"vi",
+      "POS_TIP":"Intransitive verb (does not require a direct object)",
+      "TAGS":[
+        "technology",
+        "IT",
+        "common"
+      ],
+      "DEF_EN":"To perform operations on data using a computer or processing unit.",
+      "DEF_ZH":"（指计算机）进行运算和数据处理。",
+      "SENT_EN":"The server will compute overnight and deliver the report by morning.",
+      "SENT_ZH":"服务器将在夜间进行计算，并在早上提供报告。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "processing",
+            "algorithm",
+            "data"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"compute [sth] (to be/at)",
+      "POS":"vtr",
+      "POS_TIP":"Transitive verb (requires a direct object)",
+      "TAGS":[
+        "formal",
+        "less common"
+      ],
+      "DEF_EN":"To estimate or appraise something based on available facts or probabilities.",
+      "DEF_ZH":"根据现有事实或概率进行估计或评估。",
+      "SENT_EN":"The overall risk was computed to be minimal.",
+      "SENT_ZH":"总体风险被估算为最低。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "estimate",
+            "assess",
+            "gauge"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English, widely used in business, finance, and technology."
+}

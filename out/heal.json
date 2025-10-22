@@ -1,0 +1,75 @@
+{
+  "WORD":"heal",
+  "IPA":"/hiːl/",
+  "CONJUGATES":"heals | healing | healed",
+  "ETYMOLOGY":"From Old English *hǣlan* 'to make whole, sound, save, cure,' related to *hāl* 'whole, sound, safe,' which is the source of modern English 'whole.'",
+  "SINCE":"Before 1150 (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"heal [sth]",
+      "POS":"vtr | vintr",
+      "POS_TIP":"transitive verb | intransitive verb",
+      "TAGS":[
+        "Core Verb",
+        "Health",
+        "Recovery"
+      ],
+      "DEF_EN":"To restore to health; to cure an illness or wound; or, for an injury or person, to become healthy again.",
+      "DEF_ZH":"治愈；使康复；（伤口、疾病）痊愈或愈合。",
+      "SENT_EN":"It took several weeks for the deep cut on his arm to finally heal.",
+      "SENT_ZH":"他手臂上的深伤口花了几个星期才最终愈合。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "cure",
+            "mend",
+            "recover",
+            "remedy"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "worsen",
+            "infect",
+            "deteriorate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"heal [sth] (emotional/social)",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb",
+      "TAGS":[
+        "Metaphorical",
+        "Emotional",
+        "Social"
+      ],
+      "DEF_EN":"To alleviate distress or trauma; to set right or repair a relationship or difference.",
+      "DEF_ZH":"平息或修复（争端、关系）；治愈（心理创伤、痛苦）。",
+      "SENT_EN":"Time is said to heal all emotional wounds.",
+      "SENT_ZH":"据说时间可以治愈所有情感创伤。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reconcile",
+            "resolve",
+            "soothe",
+            "put right"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "aggravate",
+            "inflame"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General Use"
+}

@@ -1,0 +1,82 @@
+{
+  "WORD":"not",
+  "IPA":"/nɒt/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Middle English 'not', a shortening of Old English 'nāwiht' ('no thing' or 'nothing'), which later became 'noht'.",
+  "SINCE":"c. 1200",
+  "MEANINGS":[
+    {
+      "PATTERN":"[auxiliary verb] not [main verb]",
+      "POS":"Adv.",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "core word",
+        "negation",
+        "common"
+      ],
+      "DEF_EN":"Used to express the negation of a preceding verb, assertion, or statement.",
+      "DEF_ZH":"用于表达对前面动词、断言或陈述的否定。",
+      "SENT_EN":"They are not coming to the meeting tomorrow.",
+      "SENT_ZH":"他们明天不会来参加会议。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "never",
+            "no"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "yes",
+            "indeed"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"not [inf/gerund/phrase]",
+      "POS":"Adv.",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "grammar structure"
+      ],
+      "DEF_EN":"Used before an infinitive, gerund, or another part of speech to negate only that specific element.",
+      "DEF_ZH":"用于不定式、动名词或其他词性之前，仅否定该特定成分。",
+      "SENT_EN":"The doctor advised him not to skip his medication.",
+      "SENT_ZH":"医生建议他不要漏服药物。",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"not",
+      "POS":"Adv.",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "response",
+        "colloquial"
+      ],
+      "DEF_EN":"Used alone or followed by another adverb to give a short, negative answer or express partial denial.",
+      "DEF_ZH":"单独使用或后跟其他副词，给出简短的否定回答或表达部分否认。",
+      "SENT_EN":"\"Is the work finished?\" \"Not entirely.\"",
+      "SENT_ZH":"“工作完成了吗？” “没有完全完成。”",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[statement] ... not!",
+      "POS":"Adv.",
+      "POS_TIP":"Adverb",
+      "TAGS":[
+        "slang",
+        "sarcastic",
+        "dated"
+      ],
+      "DEF_EN":"(Informal, dated) Used at the end of a statement to sarcastically reverse its meaning (popularized in the 1990s).",
+      "DEF_ZH":"（非正式，过时用法）用于陈述句末尾，以讽刺地反转其含义（流行于20世纪90年代）。",
+      "SENT_EN":"That was the smartest thing I've heard all day... not!",
+      "SENT_ZH":"这是我今天听到的最聪明的话了……才怪！",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Ubiquitous (used in all registers)"
+}

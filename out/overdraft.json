@@ -1,0 +1,83 @@
+{
+  "WORD":"overdraft",
+  "IPA":"/ˈoʊvərˌdræft/",
+  "CONJUGATES":"overdrafts (n. pl.) | overdrafted (v. past) | overdrafting (v. pres. part.)",
+  "ETYMOLOGY":"Compound of 'over-' (indicating excess) and 'draft' (meaning drawing or withdrawal, particularly of money). First attested in a banking context in the early 20th century.",
+  "SINCE":"c. 1900",
+  "MEANINGS":[
+    {
+      "PATTERN":"[sth] (amount or result)",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core banking",
+        "finance"
+      ],
+      "DEF_EN":"The act or the amount by which a bank account is overdrawn; a deficit created when withdrawal exceeds the funds available.",
+      "DEF_ZH":"透支；透支额。银行账户存款不足，提取金额超过余额而造成的赤字或金额。",
+      "SENT_EN":"The automatic payment caused an overdraft, resulting in a hefty fee.",
+      "SENT_ZH":"自动付款导致了透支，产生了一笔高昂的费用。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "deficit",
+            "shortfall",
+            "debt"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "overdraw",
+            "insufficient funds"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth] (facility)",
+      "POS":"noun",
+      "POS_TIP":"Countable/Uncountable Noun",
+      "TAGS":[
+        "banking facility",
+        "finance"
+      ],
+      "DEF_EN":"A formal arrangement or line of credit offered by a bank that allows a customer to withdraw money beyond their current account balance up to a pre-agreed limit.",
+      "DEF_ZH":"透支额度；透支便利。银行提供的一种信贷安排，允许客户在其账户余额之外，在预先约定的限额内提取资金。",
+      "SENT_EN":"The business relies on its secured overdraft facility to cover gaps in cash flow.",
+      "SENT_ZH":"这家企业依靠其有担保的透支额度来弥补现金流的缺口。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "line of credit",
+            "credit facility"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[sth]",
+      "POS":"verb",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "rare",
+        "banking"
+      ],
+      "DEF_EN":"(Less common than 'overdraw') To draw or write a check for an amount exceeding the credit balance of (an account).",
+      "DEF_ZH":"（罕用，不及 'overdraw' 常用）使（账户）透支。",
+      "SENT_EN":"Be careful not to overdraft your checking account before payday.",
+      "SENT_ZH":"在发薪日之前，务必小心不要透支你的支票账户。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "overdraw"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal and technical, used primarily in banking and finance contexts."
+}

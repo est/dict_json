@@ -1,0 +1,65 @@
+{
+  "WORD":"numeral",
+  "IPA":"/ˈnuːmərəl/",
+  "CONJUGATES":"numerals",
+  "ETYMOLOGY":"From Latin numerālis, derived from numerus ('number').",
+  "SINCE":"c. 1470s (Late Middle English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] numeral",
+      "POS":"n.",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Word",
+        "Mathematics",
+        "Common"
+      ],
+      "DEF_EN":"A symbol or group of symbols used to represent a number.",
+      "DEF_ZH":"代表特定數字的符號或符號組。",
+      "SENT_EN":"The Arabic numeral '7' is the standard way to write the number seven.",
+      "SENT_ZH":"阿拉伯數字“7”是書寫數字七的標準方式。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "digit",
+            "figure",
+            "cipher",
+            "number"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "Roman numeral",
+            "cardinal",
+            "ordinal"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"numeral [sth]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Formal",
+        "Technical"
+      ],
+      "DEF_EN":"Relating to or consisting of a number or a system of numeration.",
+      "DEF_ZH":"關於數字或由數字組成的；計數的。",
+      "SENT_EN":"The tablet displayed a complex numeral inscription.",
+      "SENT_ZH":"該石碑展示了一段複雜的數字銘文。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "numerical",
+            "arithmetical"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General"
+}

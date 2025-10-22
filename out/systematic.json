@@ -1,0 +1,67 @@
+{
+  "WORD":"systematic",
+  "IPA":"/ˌsɪstəˈmætɪk/",
+  "CONJUGATES":"systematically (adv.) | systematicness (n.)",
+  "ETYMOLOGY":"From Late Latin systematicus, derived from Ancient Greek systematikos, ultimately from systēma (system).",
+  "SINCE":"c. 1630s",
+  "MEANINGS":[
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "core word",
+        "common",
+        "descriptive"
+      ],
+      "DEF_EN":"Done or acting according to a fixed plan or system; methodical, deliberate, and well-organized.",
+      "DEF_ZH":"有系统的；有条理的；按照既定计划或方法行事的。",
+      "SENT_EN":"We need to adopt a more systematic approach to managing inventory.",
+      "SENT_ZH":"我们需要采取一种更有条理的方法来管理库存。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "methodical",
+            "organized",
+            "structured",
+            "orderly"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "haphazard",
+            "random",
+            "chaotic",
+            "disorganized"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[adj]",
+      "POS":"adj.",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "technical",
+        "scientific",
+        "formal"
+      ],
+      "DEF_EN":"Relating to or constituting a system of classification (e.g., in biology); or (in statistics) referring to an error or bias that is inherent to the system or method, rather than random.",
+      "DEF_ZH":"系统性的（指分类学）；系统误差的（指非随机的、由方法或设计本身造成的误差）。",
+      "SENT_EN":"The experiment failed due to an uncorrected systematic error in the calibration.",
+      "SENT_ZH":"由于校准中未纠正的系统误差，实验失败了。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "systemic",
+            "taxonomy"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"General professional and academic use."
+}

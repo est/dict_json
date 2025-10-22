@@ -1,0 +1,98 @@
+{
+  "WORD":"veto",
+  "IPA":"/ˈviːtoʊ/",
+  "CONJUGATES":"vetoes | vetoed | vetoing",
+  "ETYMOLOGY":"From Latin vetare (literally 'I forbid'), the term used by Roman tribunes to prohibit the actions of the Senate or magistrates.",
+  "SINCE":"Late 16th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] veto [over sth]",
+      "POS":"n",
+      "POS_TIP":"noun",
+      "TAGS":[
+        "core word",
+        "political",
+        "legal"
+      ],
+      "DEF_EN":"The constitutional power or right of an authority (such as a president, governor, or security council) to reject a decision, law, or measure made by a law-making body.",
+      "DEF_ZH":"否决权；反对权 (指国家元首、机构或组织对立法机构所做的决定、法律或措施的正式拒绝权)",
+      "SENT_EN":"The bill passed through Congress, but the President threatened to use his veto.",
+      "SENT_ZH":"该法案在国会获得通过，但总统威胁要行使他的否决权。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "rejection",
+            "prohibition",
+            "interdict",
+            "ban"
+          ]
+        },
+        {
+          "T":"related",
+          "V":[
+            "pocket veto",
+            "filibuster"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"veto [sth]",
+      "POS":"vtr",
+      "POS_TIP":"transitive verb (takes an object)",
+      "TAGS":[
+        "core word",
+        "formal",
+        "political"
+      ],
+      "DEF_EN":"To exercise the power of veto against (a measure, proposed law, or decision); to formally forbid or reject.",
+      "DEF_ZH":"否决；禁止 (正式行使否决权来反对某项措施、提议或决定)",
+      "SENT_EN":"The chairman vetoed the proposal due to financial concerns.",
+      "SENT_ZH":"由于财务方面的顾虑，主席否决了该提案。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "reject",
+            "turn down",
+            "forbid",
+            "prohibit"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "approve",
+            "ratify",
+            "sanction"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"put [a] veto on [sth]",
+      "POS":"n",
+      "POS_TIP":"noun (informal usage)",
+      "TAGS":[
+        "common",
+        "informal"
+      ],
+      "DEF_EN":"An informal but strong rejection or objection to a plan or suggestion, often within a small group or family.",
+      "DEF_ZH":"(非正式) 强烈的反对或拒绝 (通常指个人或家庭内部)",
+      "SENT_EN":"My parents put a strong veto on my plans to travel alone abroad.",
+      "SENT_ZH":"我父母强烈反对我独自出国旅行的计划。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "objection",
+            "disapproval",
+            "reversal"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Formal/Political (N, V); Common (Informal N)"
+}

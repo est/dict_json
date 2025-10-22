@@ -1,0 +1,44 @@
+{
+  "WORD":"semiconductor",
+  "IPA":"/ˌsɛmɪkənˈdʌktər/",
+  "CONJUGATES":"semiconductors",
+  "ETYMOLOGY":"Coined in the mid-20th century from the prefix 'semi-' (meaning half or partial) and the noun 'conductor' (a material that conducts electricity or heat).",
+  "SINCE":"c. 1940s",
+  "MEANINGS":[
+    {
+      "PATTERN":"semiconductor",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Core Term",
+        "Physics",
+        "Electronics",
+        "Highly Common"
+      ],
+      "DEF_EN":"A solid substance that has electrical conductivity intermediate between that of a conductor (like metal) and an insulator (like glass), allowing its conducting properties to be precisely controlled by doping or applying voltage. These materials are the foundational components of modern electronic devices.",
+      "DEF_ZH":"一种导电性介于导体（如金属）和绝缘体（如玻璃）之间的固体物质，其导电特性可以通过掺杂或施加电压来精确控制。这些材料是现代电子器件的基础组件。",
+      "SENT_EN":"The global economy relies heavily on the manufacture and supply of advanced semiconductors.",
+      "SENT_ZH":"全球经济严重依赖先进半导体的制造和供应。",
+      "RELATED":[
+        {
+          "T":"related",
+          "V":[
+            "silicon",
+            "transistor",
+            "integrated circuit",
+            "microchip",
+            "diode"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "conductor",
+            "insulator"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Technical (Physics, Engineering) and General Technology Discourse"
+}

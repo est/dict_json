@@ -1,0 +1,121 @@
+{
+  "WORD":"term",
+  "IPA":"/tɜːrm/",
+  "CONJUGATES":"terms | termed | terming",
+  "ETYMOLOGY":"From Old French terme, derived from Latin terminus ('end, boundary, limit'). The meaning 'word/expression' developed later.",
+  "SINCE":"Late 13th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"[a] term [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common"
+      ],
+      "DEF_EN":"A fixed or limited period for which something lasts, such as a school semester, a period of imprisonment, or the duration of an elected office.",
+      "DEF_ZH":"一段固定的或有限的时期，例如学期、服刑期或当选职位的任期。",
+      "SENT_EN":"The current chairman is serving his third term and cannot run again.",
+      "SENT_ZH":"现任主席正在服他的第三个任期，不能再次参选。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "period",
+            "session",
+            "duration",
+            "semester"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] term [for sth]",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun",
+      "TAGS":[
+        "core word",
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"A word or phrase used to describe a thing or to express a concept, especially one specific to a particular field of study or activity.",
+      "DEF_ZH":"用来描述事物或表达概念的词语或短语，尤指某个特定研究领域或活动的专业词汇。",
+      "SENT_EN":"'Quantum entanglement' is a highly specialized scientific term.",
+      "SENT_ZH":"“量子纠缠”是一个高度专业化的科学术语。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "word",
+            "expression",
+            "nomenclature",
+            "jargon"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"terms [of sth]",
+      "POS":"noun",
+      "POS_TIP":"Plural Countable Noun (often used in fixed phrases like 'terms and conditions' or 'on good terms')",
+      "TAGS":[
+        "common",
+        "legal",
+        "contractual"
+      ],
+      "DEF_EN":"The conditions, stipulations, or provisions regulating an agreement, arrangement, or financial transaction.",
+      "DEF_ZH":"规定协议、安排或金融交易的条件、要求或条款。",
+      "SENT_EN":"Please read the terms and conditions carefully before signing the lease.",
+      "SENT_ZH":"签署租赁合同前，请仔细阅读条款和条件。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "conditions",
+            "stipulations",
+            "provisions",
+            "requirements"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"term [sth] [as sth]",
+      "POS":"vtr",
+      "POS_TIP":"Transitive Verb",
+      "TAGS":[
+        "common",
+        "formal"
+      ],
+      "DEF_EN":"To give a specific name or designation to something; to call.",
+      "DEF_ZH":"给某事物一个特定的名称或称谓；称呼。",
+      "SENT_EN":"The media termed the surprise merger an instant success.",
+      "SENT_ZH":"媒体称这次意外合并是一次即时成功。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "call",
+            "name",
+            "designate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"[a] term",
+      "POS":"noun",
+      "POS_TIP":"Countable Noun (Mathematics/Logic)",
+      "TAGS":[
+        "technical",
+        "academic"
+      ],
+      "DEF_EN":"A quantity, expression, or element in a mathematical series, ratio, or equation.",
+      "DEF_ZH":"数学级数、比率或方程中的一个量、表达式或元素。",
+      "SENT_EN":"The equation contained three distinct algebraic terms.",
+      "SENT_ZH":"该方程包含三个不同的代数项。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"Used across formal (legal, academic) and informal contexts."
+}

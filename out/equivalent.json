@@ -1,0 +1,81 @@
+{
+  "WORD":"equivalent",
+  "IPA":"/ɪˈkwɪvələnt/",
+  "CONJUGATES":"equivalents (n.)",
+  "ETYMOLOGY":"From Late Latin aequivalens, present participle of aequivalere ('to be equal in value'), from aequi- ('equal') + valere ('be strong, be worth').",
+  "SINCE":"mid-15th century",
+  "MEANINGS":[
+    {
+      "PATTERN":"equivalent [adj] (to [sth])",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Core Word",
+        "Common",
+        "Formal"
+      ],
+      "DEF_EN":"Equal in value, amount, function, meaning, or significance.",
+      "DEF_ZH":"在价值、数量、功能、意义或重要性上相等的；相当的。",
+      "SENT_EN":"The cost of the repair is equivalent to the car's entire value.",
+      "SENT_ZH":"修理费用相当于这辆车的全部价值。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "equal",
+            "commensurate",
+            "comparable",
+            "tantamount"
+          ]
+        },
+        {
+          "T":"antonyms",
+          "V":[
+            "unequal",
+            "different",
+            "disparate"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"an equivalent [noun]",
+      "POS":"n",
+      "POS_TIP":"Noun",
+      "TAGS":[
+        "Common",
+        "Formal"
+      ],
+      "DEF_EN":"A person or thing that is equal or corresponds to another in value, amount, or meaning; a counterpart.",
+      "DEF_ZH":"与另一事物在价值、数量或意义上相等的人或事物；对应物；等价物。",
+      "SENT_EN":"There is no exact English equivalent for that Japanese phrase.",
+      "SENT_ZH":"那个日语短语在英语中没有确切的对应物。",
+      "RELATED":[
+        {
+          "T":"synonyms",
+          "V":[
+            "counterpart",
+            "analogue",
+            "equal",
+            "match"
+          ]
+        }
+      ]
+    },
+    {
+      "PATTERN":"equivalent [adj] (Chemistry/Physics)",
+      "POS":"adj",
+      "POS_TIP":"Adjective",
+      "TAGS":[
+        "Technical",
+        "Chemistry"
+      ],
+      "DEF_EN":"Relating to the combining weight of an element or radical.",
+      "DEF_ZH":"（化学/物理）当量的；等量的。",
+      "SENT_EN":"We added the equivalent weight of sodium hydroxide to the solution.",
+      "SENT_ZH":"我们向溶液中加入了等当量的氢氧化钠。",
+      "RELATED":[]
+    }
+  ],
+  "REGISTER":"General/Academic"
+}

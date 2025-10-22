@@ -1,0 +1,63 @@
+{
+  "WORD":"whose",
+  "IPA":"/huːz/",
+  "CONJUGATES":"",
+  "ETYMOLOGY":"From Old English hwæs, the genitive singular form of hwā ('who').",
+  "SINCE":"Before 12th Century (Old English)",
+  "MEANINGS":[
+    {
+      "PATTERN":"whose [sth]",
+      "POS":"interrogative determiner",
+      "POS_TIP":"A word placed before a noun to limit its reference, used here to ask a question.",
+      "TAGS":[
+        "core word",
+        "common",
+        "interrogative"
+      ],
+      "DEF_EN":"Used in questions to ask who is the owner or possessor of something.",
+      "DEF_ZH":"用于疑问句，询问某物属于谁的。",
+      "SENT_EN":"Whose car is parked illegally in front of the gate?",
+      "SENT_ZH":"谁的车非法停在了大门前面？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"whose (as predicate or object)",
+      "POS":"interrogative pronoun",
+      "POS_TIP":"A word that takes the place of a noun, used here to ask a question.",
+      "TAGS":[
+        "core word",
+        "common",
+        "interrogative"
+      ],
+      "DEF_EN":"Used in questions to ask about the owner when the possessed item is understood or the word stands alone.",
+      "DEF_ZH":"用于疑问句，单独指代所有者（当所拥有的事物被省略或已知时）。",
+      "SENT_EN":"I found this phone on the bench. Whose is it?",
+      "SENT_ZH":"我发现这个手机在长凳上。这是谁的？",
+      "RELATED":[]
+    },
+    {
+      "PATTERN":"[sb/sth] whose [sth else]",
+      "POS":"relative determiner/pronoun",
+      "POS_TIP":"A word used to introduce a relative clause, referring back to an antecedent and showing possession.",
+      "TAGS":[
+        "core word",
+        "common",
+        "relative clause"
+      ],
+      "DEF_EN":"Used to introduce a defining clause, indicating that the following noun belongs to the preceding person or thing. (Applies to both people and inanimate objects.)",
+      "DEF_ZH":"用于引导定语从句，指代前文提到的人或事物的所有格。",
+      "SENT_EN":"She is the only scientist whose research directly contradicts the current findings.",
+      "SENT_ZH":"她是唯一一个研究结果与当前发现直接矛盾的科学家。",
+      "RELATED":[
+        {
+          "T":"note",
+          "V":[
+            "whose vs who's",
+            "whose vs of which"
+          ]
+        }
+      ]
+    }
+  ],
+  "REGISTER":"Standard English"
+}
